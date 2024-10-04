@@ -1,0 +1,36 @@
+{
+    "QuestName": "Agamemnon's Symbol",
+    "QuestID": "229546",
+    "Revision": {
+        "id": "870502",
+        "parentid": "860272",
+        "timestamp": "2020-05-21T11:57:19Z",
+        "contributor": null,
+        "origin": "870502",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "b21hym714kddfvn1ztvnxok38bgs5vf"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Agamemnon's Symbol Memory Screenshot.png",
+        "description": "'Poor Theras was attacked for uncovering three symbols, one of which he found in the darkened tomb hiding King Agamemnon.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Three Symbols Entombed",
+        "next": "Eteokles's Symbol",
+        "source": "Kassandra, Layla Hassan",
+        "location": "Agamemnon's Tomb, Argolis, Greece",
+        "date": "c. 422 BCE<br />2018"
+    },
+    "General_Description": "'''Agamemnon's Symbol''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Argolis]] to look for the symbol in [[Agamemnon]] [[Agamemnon's Tomb|tomb]].",
+    "Section_Dialogue": "Kassandra arrived at the entrance to Agamemnon's Tomb, finding [[Aletheia]]'s image within.\n*'''Kassandra:''' ''There's Aletheia, waiting in Agamemnon's Tomb.''\n*'''Aletheia:''' ''Keeper. Come closer.''\nKassandra approached Aletheia.\n*'''Kassandra:''' ''Aletheia.''\n*'''Aletheia:''' ''You've discovered Agamemnon's Tomb, a place where the Heir of Memories, will find the symbol she seeks.''\n*'''Kassandra:''' ''So, what now?''\n*'''Aletheia:''' ''Now is relative. With this information, will the Heir open her eyes and unlock the symbol?''\n*'''Kassandra:''' ''She will now. So, do I just... wait here, or something?''\n*'''Aletheia:''' ''Our task is already complete. What comes next, she must do her own.''\n(Asked \"When will I meet the Heir?\")\n*'''Kassandra:''' ''I'm ready to meet the Heir now. When will I?''\n*'''Aletheia:''' ''You're understanding. What you do not know is that while you are yet to meet her, ''she'' already knows ''you'' very well.''\n(Asked \"What can the Staff do?\")\n*'''Kassandra:''' ''So, what do I ''do'' with the Staff?''\n*'''Aletheia:''' ''Keep it, and let it keep you. The Keeper's task is to never succumb to death. All those you will ever know, and all you will ever love, will die. Then you will learn to love again, and those will die too. But you will remain.''\n(Leave \u2013 \"That's all for now.\")\n*'''Kassandra:''' ''This was easy enough.''",
+    "Section_Outcome": "Kassandra found the tomb of [[Agamemnon]], allowing Layla Hassan, who relieved her memories, to locate and discover the symbol within.",
+    "Section_Trivia": "*The tombs use the same layout and maintain the same \"solved\" state between the protagonist's past and the modern day. Therefore, if the tomb has not been solved prior to this quest, the player will have to solve it while playing as Layla.\n:*This can trigger a glitch that disables the stele that confers an additional ability point upon returning to the Animus simulation, making the point unobtainable and the location unable to be cleared. This can be avoided by ignoring Aletheia until after the tomb is completed, but completing the entire \"Three Symbols Entombed\" quest umbrella seems to correct this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

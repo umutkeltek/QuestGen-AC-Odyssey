@@ -1,0 +1,370 @@
+{
+    "Quest_Name": "Son of a Fisherman",
+    "Quest_ID": "225231",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'A fisherman in Eresos asked Kassandra for help finding his son, who he believed had taken his boat to meet a girl.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Shroud of the Bear",
+        "next": "Waiting for Galarnos",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Son of a Fisherman''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a fisherman who asked her to look for his missing son.",
+    "Section_Dialogue": "While in [[Eresos]], Kassandra approached a fisherman.\n*'''Civilian:''' ''I hope you're here to buy fish and not just hang about.''\n*'''Kassandra:''' ''Your face looks more sour than this fishy stink.''\n*'''Civilian:''' ''Why shouldn't I be sour, eh? My no-good son sailed off with my boat and should've been back hours ago! Probably showing off for that [[Mytilene]] girl. Bah!''\n\n<tabber>\n|-|Your son couldn't stand your stench.=\n*'''Kassandra:''' ''The smell... Of course your son ran away. Doubt he'll come back.''\n*'''Civilian:''' ''Choke on goat dung!''\n*'''Kassandra:''' ''I can leave...''\n*'''Civilian:''' ''Hmm... On second thought. Would you fetch my lazy son? He's at Fisherman's Bay. An easy errand for fair pay.''\n\n|-|I'm sure your son will be back.=\n*'''Kassandra:''' ''He's probably just lost track of time. I'm sure he'll be back eventually.''\n*'''Civilian:''' ''Of course he'll be back eventually\u2014but I need him back now! These fish aren't going to skin themselves, you know.''\n*'''Civilian:''' ''Say... Have you got time for an errand? Go look for my boy on the [[Fisherman's Bay|bay]] bordering the [[Petrified Valley]] and [[Ancient Pearl]]. And when you find him, scare him a bit to teach him a lesson. I'll pay you for it.''\n</tabber>\n(Accept \u2013 I'll look for your son.)\n*'''Kassandra:''' ''I'll do it.''\n*'''Civilian:''' ''Good. You find him, and I'll tan his hide.''\n(If players choose \"Where is this bay?\")\n*'''Kassandra:''' ''And where is exactly is this bay?''\n*'''Civilian:''' ''Fisherman's Bay is northeasy of here, and runs through the middle of our island. You can't miss it.''\n(If players choose \"Who's this girl your boy's interested in?\")\n*'''Kassandra:''' ''Tell me more about the girl.''\n*'''Civilian:''' ''I don't know... some Mytilene lovely, full of history and poetry from that [[Sappho School|school]] over there. She keeps my boy's head in the clouds instead of focused on his work.''\n(Leave \u2013 I'll go look for your son.)\n*'''Kassandra:''' ''Let's quit chatting so I can go find your son.''\n*'''Civilian:''' ''See that you do. I'll pay you, and then my boy's hide will pay for taking my boat out.''\nKassandra left the elderly fisherman and made her way to the bay mentioned.\n*'''Kassandra:''' ''Time to search Fisherman's Bay.''\nArriving at the bay, she identified an empty boat in the middle of the water.\n*'''Kassandra:''' ''There's the fishing boat. But where's the fisherman's son?''\nAs she swam towards it, she came across a pool of blood near the boat.\n*'''Kassandra:''' ''There's blood in the water!''\nKassandra dived under water and found a body tangled in a fisherman's net.\n*'''Kassandra:''' ''It's the fisherman's son!''\nShe approached the body for a closer look.\n*'''Kassandra:''' ''The fisherman's son. Looks like he got tangled up in the net trying to haul a heavy load of fish. Slipped. then the weight of the net dragged him down.''\nHaving found what was needed, Kassandra returned to the fisherman.\n*'''Civilian:''' ''Any word on my son?''\n\n<tabber>\n|-|Your son is dead.=\n*'''Kassandra:''' ''Your son is dead, drowned in his fishing net.''\n*'''Civilian:''' ''No! My boy... my poor boy. I pushed him too hard.''\n|-|You drove your son to his death.=\n*'''Kassandra:''' ''Your son is dead, drowned in your own fishing nets. He died trying to impress his sour father, who pushed him too hard.''\n*'''Civilian:''' ''My fault... You think it's my fault? Get out of my shop. Go!''\nThe fisherman turned away from Kassandra\n*'''Civilian:''' ''My poor boy! What did I do? What did I do? I pushed him too hard.''\n|-|Lie \u2013 Your son ran off with the girl.=\n*'''Kassandra:''' ''Your son ran away with the girl. I found your boat abandoned on the opposite shore, and two sets of footprints pointing to Mytilene.''\n*'''Civilian:''' ''But he's safe? Oh... Thank Poseidon.''\n*'''Civilian:''' ''...Thank Poseidon for not robbing me of the chance of slapping some sense into that no-good boy.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped the fisherman to uncover the whereabouts and fate of his son.",
+    "Section_Trivia": "The name of this quest is a reference to a [https://en.wikipedia.org/wiki/Son_of_a_Preacher_Man song] by [https://en.wikipedia.org/wiki/Dusty_Springfield Dusty Springfield].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Petrified Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in [[Eresos]], Kassandra approached a fisherman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''I hope you're here to buy fish and not just hang about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Your face looks more sour than this fishy stink.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Civilian:''' ''Why shouldn't I be sour, eh? My no-good son sailed off with my boat and should've been back hours ago! Probably showing off for that [[Mytilene]] girl. Bah!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|Your son couldn't stand your stench.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The smell... Of course your son ran away. Doubt he'll come back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Civilian:''' ''Choke on goat dung!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I can leave...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Civilian:''' ''Hmm... On second thought. Would you fetch my lazy son? He's at Fisherman's Bay. An easy errand for fair pay.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|I'm sure your son will be back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''He's probably just lost track of time. I'm sure he'll be back eventually.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Civilian:''' ''Of course he'll be back eventually\u2014but I need him back now! These fish aren't going to skin themselves, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Civilian:''' ''Say... Have you got time for an errand? Go look for my boy on the [[Fisherman's Bay|bay]] bordering the [[Petrified Valley]] and [[Ancient Pearl]]. And when you find him, scare him a bit to teach him a lesson. I'll pay you for it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "18",
+            "content": "(Accept \u2013 I'll look for your son.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Civilian:''' ''Good. You find him, and I'll tan his hide.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "21",
+            "content": "(If players choose \"Where is this bay?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''And where is exactly is this bay?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Civilian:''' ''Fisherman's Bay is northeasy of here, and runs through the middle of our island. You can't miss it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "24",
+            "content": "(If players choose \"Who's this girl your boy's interested in?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Tell me more about the girl.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Civilian:''' ''I don't know... some Mytilene lovely, full of history and poetry from that [[Sappho School|school]] over there. She keeps my boy's head in the clouds instead of focused on his work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "27",
+            "content": "(Leave \u2013 I'll go look for your son.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Let's quit chatting so I can go find your son.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Civilian:''' ''See that you do. I'll pay you, and then my boy's hide will pay for taking my boat out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "30",
+            "content": "Kassandra left the elderly fisherman and made her way to the bay mentioned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Time to search Fisherman's Bay.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "32",
+            "content": "Arriving at the bay, she identified an empty boat in the middle of the water.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''There's the fishing boat. But where's the fisherman's son?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "As she swam towards it, she came across a pool of blood near the boat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''There's blood in the water!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "36",
+            "content": "Kassandra dived under water and found a body tangled in a fisherman's net.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''It's the fisherman's son!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "38",
+            "content": "She approached the body for a closer look.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''The fisherman's son. Looks like he got tangled up in the net trying to haul a heavy load of fish. Slipped. then the weight of the net dragged him down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "40",
+            "content": "Having found what was needed, Kassandra returned to the fisherman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "41",
+            "content": "*'''Civilian:''' ''Any word on my son?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "44",
+            "content": "|-|Your son is dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Your son is dead, drowned in his fishing net.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Civilian:''' ''No! My boy... my poor boy. I pushed him too hard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "47",
+            "content": "|-|You drove your son to his death.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Your son is dead, drowned in your own fishing nets. He died trying to impress his sour father, who pushed him too hard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "49",
+            "content": "*'''Civilian:''' ''My fault... You think it's my fault? Get out of my shop. Go!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "50",
+            "content": "The fisherman turned away from Kassandra",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "51",
+            "content": "*'''Civilian:''' ''My poor boy! What did I do? What did I do? I pushed him too hard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "52",
+            "content": "|-|Lie \u2013 Your son ran off with the girl.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Your son ran away with the girl. I found your boat abandoned on the opposite shore, and two sets of footprints pointing to Mytilene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "54",
+            "content": "*'''Civilian:''' ''But he's safe? Oh... Thank Poseidon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "55",
+            "content": "*'''Civilian:''' ''...Thank Poseidon for not robbing me of the chance of slapping some sense into that no-good boy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "56",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

@@ -1,0 +1,754 @@
+{
+    "Quest_Name": "Doctor's Pet",
+    "Quest_ID": "225168",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Rumors of a mysterious doctor led Kassandra to the Aliki Quarry, where she stumbled upon a troubling situation.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support",
+        "previous": "Have You Seen My Mikkos?",
+        "next": "Retribution",
+        "concurrent": "Indulging Just a Little<br>School of Hard Knocks",
+        "source": "Kassandra",
+        "location": "Thasos, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Doctor's Pet''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra looked for the [[doctor]] mentioned by [[Mikkos]].",
+    "Section_Dialogue": "Kassandra departed for Thasos. Then, she reached [[Aliki Quarry]] in search for the doctor.\n*'''Kassandra:''' ''These workers should know where to find the Doctor.''\nEntering the quarry, she spoke to the workers for the Doctor's whereabouts.\n*'''Civilian #1:''' ''I don't know anything. Don't ask me anything.''\n*'''Civilian #2:''' ''Go away! You're not the Doctor!''\n*'''Civilian #3:''' ''No, we need the Doctor...''\nKassandra spoke to another [[Solon (Thasian)|worker]].\n*'''Kassandra:''' ''What\u2014''\n*'''[[Solon (Thasian)|Solon]]:''' ''No, no. Please leave, we don't want any bother.''\n<tabber>\n|-|I want answers.=\n*'''Kassandra:''' ''I'll do more than bother you if you don't answer my questions.''\n*'''Solon:''' ''OK, OK. What questions do you have?''\n|-|I mean no harm.=\n*'''Kassandra:''' ''I don't want any trouble. I just want some answers.''\n*'''Solon:''' ''To what...questions?''\n</tabber>\n*'''Kassandra:''' ''Your friend looks hurt.''\n*'''Solon:''' ''He is very...sick. Mind fog took...took over. We need the Doctor.''\n*'''Kassandra:''' ''I was told I would find the Doctor here.''\n*'''Solon:''' ''The Doctor is gone. He's been captered... catured?''\n*'''Kassandra:''' ''Captured?''\n*'''Solon:''' ''Sorry, words are...tough. My memory, my mind is a fog... most days. Soon, I might become like him, if the Doctor doesn't return soon. Some men took the Doctor away towards the [[Silver Mines|m...mines]], north of here. He's been gone for a long time.''\n(If \"What happened to you?\" is chosen.)\n*'''Kassandra:''' ''Did something happen to you? Something that brought you to the quarry?''\n*'''Solon:''' ''I don't...remember. I just know that the Doctor saved us and cares for us here. But without the Doctor making the... medicine, it's i...impor...impar...Hard for us to get better on our own.''\n(If \"Who is the doctor?\" is chosen.)\n*'''Kassandra:''' ''Tell me about the doctor.''\n*'''Solon:''' ''He's a good man. He makes the medicine and cures us from our... sickness.''\n*'''Kassandra:''' ''You're cured\u2014''\n*'''Solon:''' ''The Doctor says it takes time. Which is why we...need him back, soon.''\n(Leave \u2013 I'll find him.)\n*'''Kassandra:''' ''I'll look for him.''\n*'''Solon:''' ''Bring...bring him back, please. They brought him north, towards the mines.''\n*'''Quarry guard:''' ''Hey, step away from him, ''[[Mercenary|misthios]]''.''\n*'''Kassandra:''' ''This doesn't concern you.''\n*'''Quarry guard:''' ''We'll see about that!''\nAfter killing the guards, Kassandra headed north for the mines, where the Doctor was being held captive.\n*'''Kassandra:''' ''There are more of these workers than I thought. And some are sick...like Neleus.''\nWith [[Ikaros]]' help, she identified the location of the mines.\n*'''Kassandra:''' ''The doctor should be there.''\nKassandra entered the cave.\n*'''Kassandra:''' ''With this much [[silver]], they'd rival the [[Delian League]]'s riches. I think I'll find more than silver in here.''\nEntering deeper into the mines, she found the doctor held in a cage.\n*'''Doctor:''' ''Hey, you! Get me out of here. Quickly!''\nKassandra eliminated the [[Soldier|guards]] and freed the doctor.\n*'''Doctor:''' ''Follow me. I know their secret exit. Up here!''\nKassandra escorted the Doctor out of the cave.\n*'''Doctor:''' ''Finally, I'm free! I knew they couldn't hold me for long!''\n*'''Kassandra:''' ''No thanks needed.''\n*'''Doctor:''' ''Yes, yes. Many thanks for saving me. But I must get back, my pets are waiting for me! Did they send you?''\n<tabber>\n|-|They did.=\n*'''Kassandra:''' ''Indeed, your \"pets\" sent me.''\n*'''Doctor:''' ''Bless my darlings! How are they? I knew they wouldn't forget me!''\n|-|I don't know what you mean.=\n*'''Kassandra:''' ''Not sure what pets you're talking about.''\n*'''Doctor:''' ''No, no, my pets are not animals! They speak, although a little slowly.''\n</tabber>\n*'''Kassandra:''' ''You're referring to the workers at the quarry.''\n*'''Doctor:''' ''Yes, yes, my pets! I care for them, feed them my medicine. And in turn, they help me with my research. I have a real bond with my pets. You look strong. Yes, yes. I can never have enough pets. You could join my family? It'll be a significant contribution to my research!''\n<tabber>\n|-|Not a chance=\n*'''Kassandra:''' ''I won't be your test subject!''\n*'''Doctor:''' ''How about post-mortem arrangements?''\n*'''Kassandra:''' ''No.''\n*'''Doctor:''' ''A great loss for research advancement. The medicine I make is quite delicious, you know.''\n|-|It's possible.=\n*'''Kassandra:''' ''Arrangements can be made.''\n*'''Doctor:''' ''I knew you would be interested! Welcome to the family. Don't fret, my pet, I'll take good care of you. We'll have plenty of medicine to go around!''\n</tabber>\n*'''Kassandra:''' ''Tell me about this medicine.''\n*'''Doctor:''' ''Ah, the medicine. I feed it to my pets when my special tonic produces... side effects. Sometimes, it's too strong.''\n*'''Kassandra:''' ''Side effects like forgotten memories?''\n*'''Doctor:''' ''Ah... yes, you know it. My pets... it's my fault, yes, yes.''\n*'''Kassandra:''' ''Yet, you still feed them the tonic.''\n*'''Doctor:''' ''I had no choice! I was forced to do it! But I will right my wrongs. I always right my wrongs, yes, yes.''\n(If \"Who captured you?\" is chosen.)\n*'''Kassandra:''' ''The people who captured you, who were they?''\n*'''Doctor:''' ''It was that fellow with the eyepatch! He was taking orders from this other bald man... They wanted my tonic and forced me to create more.''\n*'''Kassandra:''' ''Mal\u00e1ka!''\n*'''Doctor:''' ''I had no choice! They threatened to kill my pets!''\n*'''Kassandra:''' ''Then they caged you.''\n*'''Doctor:''' ''Well, they refused to let me return to my pets. So, I poisoned a few of them, yes, yes. No one can keep my away from my pets, yes, yes!''\n(If players choose \"Why \"pets?\"\")\n*'''Kassandra:''' ''Your \"pets\" must have a history.''\n*'''Doctor:''' ''I don't know and I don't need to know. I just know that I was made to feed them my tonic in a strange cave similar to this one. If it fails, I get to keep my pets and care for them.''\n*'''Kassandra:''' ''This tonic must be special.''\n*'''Doctor:''' ''Yes, yes! It makes my pets so strong! Ah but, like I said, the side effects can be rather dire...It was perhaps a miscalculation on my part. My poor pets.''\n(Make the medicine)\n*'''Kassandra:''' ''I need the medicine you mentioned. Give it to me.''\n\n<tabber>\n|-|If players chose \"Not a chance\" earlier=\n*'''Doctor:''' ''What? Whatever for? I am not obliged to. I will do no such thing, no, no!''\n{{#tag:tabber|\nThreaten \u2013 You're useless.=\n*'''Kassandra:''' ''Then you are useless to me. I should end your life and misdeeds here.''\n*'''Doctor:''' ''No, no! No violence needed! I'll do as you say!''\n{{!}}-{{!}}\nI need the medicine.=\n*'''Kassandra:''' ''I need the medicine for someone I know. He's afflicted with the consequences of your tonic.''\n*'''Doctor:''' ''What! It cannot be.''\n*'''Kassandra:''' ''You wouldn't forsake a pet, would you?''\n*'''Doctor:''' ''I cannot abandon my pets''\n}}\n|-|If players chose \"It's possible\" earlier=\n*'''Doctor:''' ''But, my pet, why do you want it?''\n*'''Kassandra:''' ''I need it for someone I know''\n*'''Doctor:''' ''There are others afflicted by my tonic? It cannot be!''\n*'''Kassandra:''' ''Just give me the medicine.''\n</tabber>\n*'''Doctor:''' ''I'm afraid it'll take time to make. Yes,yes. First, get rid of those mal\u00e1kes who kept me away from my pets! They're at the fortress just down the road.''\n*'''Kassandra:''' ''I'll get rid of them. I expect the medicine in return.''\n*'''Doctor:''' ''Yes, yes, it'll take time for me to gather the ingredients. You might want to take a look around Thasos City first. I heard that strange things are happening there, yes, yes.''\nKassandra whispered to herself.\n*'''Kassandra:''' ''The medicine could be helpful to Neleus. First, I should deal with the Doctor's captors.''\nKassandra travelled to the [[Koinyra Fortress]], killing the Doctor's captors.\n*'''Kassandra:''' ''They won't bother the Doctor again..''\n*'''Kassandra:''' ''That's taken care of. Now, the Doctor mentioned strange things happening in the city. I should look around.''",
+    "Section_Outcome": "Kassandra freed the doctor and killed the ones that terrorised him.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Mikkos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra departed for Thasos. Then, she reached [[Aliki Quarry]] in search for the doctor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''These workers should know where to find the Doctor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Entering the quarry, she spoke to the workers for the Doctor's whereabouts.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Civilian #1:''' ''I don't know anything. Don't ask me anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Civilian #2:''' ''Go away! You're not the Doctor!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Civilian #3:''' ''No, we need the Doctor...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Kassandra spoke to another [[Solon (Thasian)|worker]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''What\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''[[Solon (Thasian)|Solon]]:''' ''No, no. Please leave, we don't want any bother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|I want answers.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll do more than bother you if you don't answer my questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Solon:''' ''OK, OK. What questions do you have?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|I mean no harm.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I don't want any trouble. I just want some answers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Solon:''' ''To what...questions?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Your friend looks hurt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Solon:''' ''He is very...sick. Mind fog took...took over. We need the Doctor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I was told I would find the Doctor here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Solon:''' ''The Doctor is gone. He's been captered... catured?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Captured?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Solon:''' ''Sorry, words are...tough. My memory, my mind is a fog... most days. Soon, I might become like him, if the Doctor doesn't return soon. Some men took the Doctor away towards the [[Silver Mines|m...mines]], north of here. He's been gone for a long time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If \"What happened to you?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Did something happen to you? Something that brought you to the quarry?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Solon:''' ''I don't...remember. I just know that the Doctor saved us and cares for us here. But without the Doctor making the... medicine, it's i...impor...impar...Hard for us to get better on our own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "27",
+            "content": "(If \"Who is the doctor?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Tell me about the doctor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Solon:''' ''He's a good man. He makes the medicine and cures us from our... sickness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''You're cured\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Solon:''' ''The Doctor says it takes time. Which is why we...need him back, soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "32",
+            "content": "(Leave \u2013 I'll find him.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'll look for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Solon:''' ''Bring...bring him back, please. They brought him north, towards the mines.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Quarry guard:''' ''Hey, step away from him, ''[[Mercenary|misthios]]''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This doesn't concern you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "37",
+            "content": "*'''Quarry guard:''' ''We'll see about that!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "38",
+            "content": "After killing the guards, Kassandra headed north for the mines, where the Doctor was being held captive.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''There are more of these workers than I thought. And some are sick...like Neleus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "40",
+            "content": "With [[Ikaros]]' help, she identified the location of the mines.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''The doctor should be there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "42",
+            "content": "Kassandra entered the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''With this much [[silver]], they'd rival the [[Delian League]]'s riches. I think I'll find more than silver in here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "44",
+            "content": "Entering deeper into the mines, she found the doctor held in a cage.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "45",
+            "content": "*'''Doctor:''' ''Hey, you! Get me out of here. Quickly!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "46",
+            "content": "Kassandra eliminated the [[Soldier|guards]] and freed the doctor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Doctor:''' ''Follow me. I know their secret exit. Up here!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "48",
+            "content": "Kassandra escorted the Doctor out of the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Doctor:''' ''Finally, I'm free! I knew they couldn't hold me for long!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''No thanks needed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Doctor:''' ''Yes, yes. Many thanks for saving me. But I must get back, my pets are waiting for me! Did they send you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "52",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "53",
+            "content": "|-|They did.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Indeed, your \"pets\" sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Doctor:''' ''Bless my darlings! How are they? I knew they wouldn't forget me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "56",
+            "content": "|-|I don't know what you mean.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Not sure what pets you're talking about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "58",
+            "content": "*'''Doctor:''' ''No, no, my pets are not animals! They speak, although a little slowly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "59",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''You're referring to the workers at the quarry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Doctor:''' ''Yes, yes, my pets! I care for them, feed them my medicine. And in turn, they help me with my research. I have a real bond with my pets. You look strong. Yes, yes. I can never have enough pets. You could join my family? It'll be a significant contribution to my research!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "62",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "63",
+            "content": "|-|Not a chance=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I won't be your test subject!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Doctor:''' ''How about post-mortem arrangements?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''No.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "67",
+            "content": "*'''Doctor:''' ''A great loss for research advancement. The medicine I make is quite delicious, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "68",
+            "content": "|-|It's possible.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Arrangements can be made.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "70",
+            "content": "*'''Doctor:''' ''I knew you would be interested! Welcome to the family. Don't fret, my pet, I'll take good care of you. We'll have plenty of medicine to go around!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "71",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Tell me about this medicine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "73",
+            "content": "*'''Doctor:''' ''Ah, the medicine. I feed it to my pets when my special tonic produces... side effects. Sometimes, it's too strong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Side effects like forgotten memories?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "75",
+            "content": "*'''Doctor:''' ''Ah... yes, you know it. My pets... it's my fault, yes, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Yet, you still feed them the tonic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "77",
+            "content": "*'''Doctor:''' ''I had no choice! I was forced to do it! But I will right my wrongs. I always right my wrongs, yes, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "78",
+            "content": "(If \"Who captured you?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D54",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''The people who captured you, who were they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "80",
+            "content": "*'''Doctor:''' ''It was that fellow with the eyepatch! He was taking orders from this other bald man... They wanted my tonic and forced me to create more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Mal\u00e1ka!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "82",
+            "content": "*'''Doctor:''' ''I had no choice! They threatened to kill my pets!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''Then they caged you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "84",
+            "content": "*'''Doctor:''' ''Well, they refused to let me return to my pets. So, I poisoned a few of them, yes, yes. No one can keep my away from my pets, yes, yes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "85",
+            "content": "(If players choose \"Why \"pets?\"\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D60",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Your \"pets\" must have a history.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "87",
+            "content": "*'''Doctor:''' ''I don't know and I don't need to know. I just know that I was made to feed them my tonic in a strange cave similar to this one. If it fails, I get to keep my pets and care for them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''This tonic must be special.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "89",
+            "content": "*'''Doctor:''' ''Yes, yes! It makes my pets so strong! Ah but, like I said, the side effects can be rather dire...It was perhaps a miscalculation on my part. My poor pets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "90",
+            "content": "(Make the medicine)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''I need the medicine you mentioned. Give it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "92",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "93",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "94",
+            "content": "|-|If players chose \"Not a chance\" earlier=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "95",
+            "content": "*'''Doctor:''' ''What? Whatever for? I am not obliged to. I will do no such thing, no, no!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "96",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "97",
+            "content": "Threaten \u2013 You're useless.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D66",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''Then you are useless to me. I should end your life and misdeeds here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "99",
+            "content": "*'''Doctor:''' ''No, no! No violence needed! I'll do as you say!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "100",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "101",
+            "content": "I need the medicine.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''I need the medicine for someone I know. He's afflicted with the consequences of your tonic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "103",
+            "content": "*'''Doctor:''' ''What! It cannot be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''You wouldn't forsake a pet, would you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "105",
+            "content": "*'''Doctor:''' ''I cannot abandon my pets''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "106",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC10",
+            "global_id": "107",
+            "content": "|-|If players chose \"It's possible\" earlier=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D72",
+            "global_id": "108",
+            "content": "*'''Doctor:''' ''But, my pet, why do you want it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I need it for someone I know''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "110",
+            "content": "*'''Doctor:''' ''There are others afflicted by my tonic? It cannot be!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''Just give me the medicine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "112",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D76",
+            "global_id": "113",
+            "content": "*'''Doctor:''' ''I'm afraid it'll take time to make. Yes,yes. First, get rid of those mal\u00e1kes who kept me away from my pets! They're at the fortress just down the road.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''I'll get rid of them. I expect the medicine in return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "115",
+            "content": "*'''Doctor:''' ''Yes, yes, it'll take time for me to gather the ingredients. You might want to take a look around Thasos City first. I heard that strange things are happening there, yes, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "116",
+            "content": "Kassandra whispered to herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D79",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''The medicine could be helpful to Neleus. First, I should deal with the Doctor's captors.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "118",
+            "content": "Kassandra travelled to the [[Koinyra Fortress]], killing the Doctor's captors.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D80",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''They won't bother the Doctor again..''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''That's taken care of. Now, the Doctor mentioned strange things happening in the city. I should look around.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

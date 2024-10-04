@@ -1,0 +1,276 @@
+{
+    "Quest_Name": "Tides of War",
+    "Quest_ID": "226389",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Tides of War 1.png",
+        "description": "'Using her great skills of observation and deduction, Kassandra searched for the ciphers to help her unlock the secrets of the mysterious Chimera's Breath.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Side",
+        "previous": "Theatrics and Espionage",
+        "source": "Kassandra",
+        "location": "Achaia, Greece<br>Aegean Sea",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Tides of War''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to the [[Gyras|engineer]]'s [[Parmys|wife]] about the [[Chimera's Breath]] weapon plans.",
+    "Section_Dialogue": "Kassandra spoke to Parmys.\n*'''Parmys:''' ''I saw you talking to my husband. I can help.''\n*'''Kassandra:''' ''The engineer's wife. What do you know about the weapon plans?''\n*'''Parmys:''' ''My husband scattered code books around [[Achaia]]. Some are amongst the [[Phila|Tempest]]'s fleet and others are in the [[Patrai Military Shipyard|shipyard]]. With them, you'll learn how to build and install the weapon. Then you can end the Tempest and avenge my husband.''\n<tabber>\n|-|Your husband will be avenged.=\n*'''Kassandra:''' ''I'll end the Tempest with or without your husband's weapon. Either way, he'll be avenged.''\n|-|I will do my best.=\n*'''Kassandra:''' ''The Tempest's fleet is powerful. Avenging your husband will be difficult. But I'll try.''\n</tabber>\n\n*'''Parmys:''' ''He would be happy to hear that.''\n(Asked \"Where are the ships?\")\n*'''Kassandra:''' ''There plenty of ships in Achaia. What should I look for?''\n*'''Parmys:''' ''The Tempest's ships patrolling the harbor will be a good place to start.''\n(Asked \"Where is the shipyard?\")\n*'''Kassandra:''' ''You said some of the code books are in the shipyard. Where is it?''\n*'''Parmys:''' ''The Patrai Military Shipyard is the one at the edge of the city.''\n(Leave \u2013 \"I'll get started.\")\n*'''Kassandra:''' ''I'll find those code books.''\n[[File:ACOD Tides of War 2.png|thumb|250px|Kassandra finding the book beneath the stairs on the ship]]\nKassandra travelled to the Patrai Military Shipyard. [[Ikaros]] called out one of the code books on a prototype [[trireme]].\n*'''Kassandra:''' ''Found it!''\nKassandra infiltrated the shipyard and retrieved the book.\n*'''Kassandra:''' ''This must be one of the code books the engineer's wife mentioned. I can't understand any of this, but maybe [[Barnabas]] can.''\nIkaros spied another on a column beneath the roof of the warehouse.\n*'''Kassandra:''' ''I see it.''\n[[File:ACOD Tides of War 3.png|thumb|250px|Kassandra recovering the book beneath the roof]]\nShe climbed to the book and retrieved it.\n*'''Kassandra:''' ''Another code book. Good.''\nKassandra left the shipyard and travelled to the [[Adrestia]]. She departed Patrai and sailed after the ships carrying the code books. Ikaros identified them from the air.\n*'''Kassandra:''' ''That's what I'm looking for.''\n*'''Kassandra:''' ''There it is!''\n[[File:ACOD Tides of War 4.png|thumb|250px|The ''Adrestia'' chasing down the ships containing the book]]\nThe books were aboard [[Sparta]]n patrol ships.  Kassandra ordered the crew to open fire on them.\n*'''Kassandra:''' ''Let's destroy the patrols before they call for reinforcements.''\nShe destroyed a Spartan ship and recovered a code book.\n*'''Kassandra:''' ''A code book. I'll give this to Barnabas.''\nKassandra chased down the other ship and recovered the last book.\n*'''Kassandra:''' ''That should be the last of them.''\nAfter some time, the Chimera's Breath was successfully installed at the bow of the Adrestia.",
+    "Section_Outcome": "Kassandra found and collected all code books about the Chimera's Breath weapon.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra spoke to Parmys.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Parmys:''' ''I saw you talking to my husband. I can help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''The engineer's wife. What do you know about the weapon plans?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Parmys:''' ''My husband scattered code books around [[Achaia]]. Some are amongst the [[Phila|Tempest]]'s fleet and others are in the [[Patrai Military Shipyard|shipyard]]. With them, you'll learn how to build and install the weapon. Then you can end the Tempest and avenge my husband.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|Your husband will be avenged.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I'll end the Tempest with or without your husband's weapon. Either way, he'll be avenged.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|I will do my best.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''The Tempest's fleet is powerful. Avenging your husband will be difficult. But I'll try.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "10",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Parmys:''' ''He would be happy to hear that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "13",
+            "content": "(Asked \"Where are the ships?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''There plenty of ships in Achaia. What should I look for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Parmys:''' ''The Tempest's ships patrolling the harbor will be a good place to start.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "16",
+            "content": "(Asked \"Where is the shipyard?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You said some of the code books are in the shipyard. Where is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Parmys:''' ''The Patrai Military Shipyard is the one at the edge of the city.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "19",
+            "content": "(Leave \u2013 \"I'll get started.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll find those code books.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "21",
+            "content": "[[File:ACOD Tides of War 2.png|thumb|250px|Kassandra finding the book beneath the stairs on the ship]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "22",
+            "content": "Kassandra travelled to the Patrai Military Shipyard. [[Ikaros]] called out one of the code books on a prototype [[trireme]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Found it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra infiltrated the shipyard and retrieved the book.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''This must be one of the code books the engineer's wife mentioned. I can't understand any of this, but maybe [[Barnabas]] can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "26",
+            "content": "Ikaros spied another on a column beneath the roof of the warehouse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I see it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "28",
+            "content": "[[File:ACOD Tides of War 3.png|thumb|250px|Kassandra recovering the book beneath the roof]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": "She climbed to the book and retrieved it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Another code book. Good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "31",
+            "content": "Kassandra left the shipyard and travelled to the [[Adrestia]]. She departed Patrai and sailed after the ships carrying the code books. Ikaros identified them from the air.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''That's what I'm looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''There it is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "34",
+            "content": "[[File:ACOD Tides of War 4.png|thumb|250px|The ''Adrestia'' chasing down the ships containing the book]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "35",
+            "content": "The books were aboard [[Sparta]]n patrol ships.  Kassandra ordered the crew to open fire on them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Let's destroy the patrols before they call for reinforcements.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "37",
+            "content": "She destroyed a Spartan ship and recovered a code book.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''A code book. I'll give this to Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "39",
+            "content": "Kassandra chased down the other ship and recovered the last book.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''That should be the last of them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "41",
+            "content": "After some time, the Chimera's Breath was successfully installed at the bow of the Adrestia.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

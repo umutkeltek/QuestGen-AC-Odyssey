@@ -1,0 +1,763 @@
+{
+    "Quest_Name": "Persuasion Check",
+    "Quest_ID": "234729",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Persuasion Check 5.png",
+        "description": "'Kassandra knew Sokrates would stand a better chance at trial if he convinced others to stand up for him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "'The Lost Tales of Greece'",
+        "previous": "Finding One's Voice",
+        "next": "Deposition Opposition {{c|concurrent}}<br>You're Such a Sokratease",
+        "source": "Kassandra",
+        "location": "Sanctuary of Delphi, Phokis, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Persuasion Check''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with other philosopher to ask for help in defending [[Sokrates]].",
+    "Section_Dialogue": "Kassandra traveled to the [[Sanctuary of Delphi]]. As she approached Sokrates' fellow philosophers, she considered how they might help.\n*'''Kassandra:''' ''Maybe I can convince them to stand up for Sokrates at the trial.''\nShe listened in on their conversation.\n*'''Philosopher 1:''' ''It's as [[Xenophanes]] said, of course! We have given the [[Greek mythology|gods]] [[human]] forms because we wish them to be as we are.''\n*'''Philosopher 2:''' ''No, they are as they are. Who are we to give form to the gods?''\n*'''Philosopher 1:''' ''Exactly my point! As he said, if [[Cattle|oxen]] or horses or any beast could produce art as we do, they would form the gods in the image of themselves.''\n*'''Philosopher 2:''' ''Yes, well they can't. And you've simply shown me again why Xenophanes is problematic.''\n*'''Philosopher 1:''' ''Come now, don't be like that. It's OK to be wrong... sometimes.''\n*'''Philosopher 2:''' ''Ha! I wouldn't know what that's like.''\n[[File:ACOD Persuasion Check 3.png|thumb|250px|Kassandra joining the conversation]]\nShe joined in on their conversation.\n*'''Philosopher 1:''' ''Do not students take what they learn from their teachers? What then if the teacher is wrong? Does that not simply perpetuate these wrong teachings among future generations?''\n*'''Philosopher 2:''' ''You assume the students aren't wise enough to understand the flaws of the teacher. Think of those who came before us. First [[Thales of Miletus|Thales]], then his student [[Anaximandros]], and then [[Anaximenes]]. Without the teachings of those before him, it's safe to say Anaximenes would not have reached the conclusions he did.''\n*'''Philosopher 1:''' ''I don't think that's true. Perhaps this new face can offer a different perspective.''\n\n<tabber>\n|-|I don't know who those people are.=\n*'''Kassandra:''' ''I've never heard the names you just mentioned.''\n*'''Philosopher 1:''' ''It's never too late to learn. But even so, one doesn't need to know who they are to answer. Is it not a risk that wrong ideas will be passed along if a student doesn't have the wisdom to seek the truth?''\n|-|I wasn't listening.=\n*'''Kassandra:''' ''I didn't hear a single thing you just said.''\n*'''Philosopher 1:''' ''Is that so? Well, let me simplify it quickly. Thales taught Anaximandros, who taught Anaximenes. Wouldn't you agree that students learn from the failings of their teachers?''\n{{#tag:tabber|\nI've never heard those names before.=\n*'''Kassandra:''' ''I've never heard the names you just mentioned.''\n*'''Philosopher 1:''' ''It's never too late to learn. But even so, one doesn't need to know who they are to answer. Is it not a risk that wrong ideas will be passed along if a student doesn't have the wisdom to seek the truth?''\n{{!}}-{{!}}\nStudents learn from their teachers' failings.=\n*'''Kassandra:''' ''A student gets to take all the knowledge of their teacher without needing to come up with answers themselves. If they're smart, they should surpass those they studied under.''\n*'''Philosopher 1:''' ''An astute observation. The time saved by receiving the knowledge allows the student not only to expand on the ideas, but to come up with more of their own. But what if the student expands on ideas without first seeking the truth behind them?''\n}}\n|-|The student always surpasses the teacher.=\n*'''Kassandra:''' ''A student gets to take all the knowledge of their teacher without needing to come up with answers themselves. If they're smart, they should surpass those they studied under.''\n*'''Philosopher 1:''' ''An astute observation. The time saved by receiving the knowledge allows the student not only to expand on the ideas, but to come up with more of their own. But what if the student expands on ideas without first seeking the truth behind them?''\n</tabber>\n<tabber>\n|-|We need to think for ourselves.=\n*'''Kassandra:''' ''If we listen to others and take what they say as fact, we only have ourselves to blame.''\n*'''Philosopher 2:''' ''So, no matter who is speaking, student or teacher, we must spend time trying to understand if what they say is even true.''\n|-|We need to learn from our teachers.=\n*'''Kassandra:''' ''If a student asks questions before first learning from their teacher, they've not only failed their teacher, but themselves.''\n*'''Philosopher 2:''' ''Yes. And more would do well to challenge what they hear.''\n</tabber>\n\n*'''Philosopher 1:''' ''Your appearance betrays you,'' misthios. ''Clearly you've taken on a teacher of your own.''\n*'''Kassandra:''' ''Something like that. He's the reason I'm here. Sokrates needs your help.''\n*'''Philosopher 2:''' ''Sokrates? Ha! If it's another debate you want, it will be hard for us to decide who hates that man more. Why would we help'' him?\n\n<tabber>\n|-|Threaten \u2013 Help Sokrates, or I'll hurt you.=\n*'''Kassandra:''' ''You can either help him, or I can show you that I'm not a ''misthios'' only in looks.''\n*'''Philosopher 2:''' ''I didn't realize Sokrates taught his students to harm those who disagree with them.''\n*'''Kassandra:''' ''I'm a different student than you're used to.''\n*'''Philosopher 2:''' ''We wouldn't stand a chance against you in a fight, but that doesn't mean we'll do what you say through threat of violence. You've been an interesting part of the conversation thus far, so we'll give you another chance. Why should we help Sokrates?''\n{{#tag:tabber|\nEnemy or not, Sokrates needs help.=\n*'''Kassandra:''' ''It doesn't matter if he's your worst enemy. If they're willing to imprison someone like Sokrates only for his words, what's to say they won't do the same to you?''\n*'''Philosopher 1:''' ''So you want us to help out of fear of being imprisoned ourselves?''\n*'''Kassandra:''' ''I don't care why you help. If I hadn't said his name, would you think it was right Sokrates was locked up?''\n*'''Philosopher 1:''' ''If it's as you say and it was for his words, then no.''\n*'''Kassandra:''' ''And aren't you afraid it could happen to you, too?''\n*'''Philosopher 2:''' ''Of course. If we can't speak our words, what else are we to do?''\n*'''Kassandra:''' ''If you believe that, then you should help.''\n*'''Philosopher 2:''' ''Fine, fine, you've made your point and you've made it well. Sokrates deserves our help, but we don't give it lightly.''\n*'''Kassandra:''' ''That makes it worth even more.''\n*'''Philosopher 2:''' ''We'll be on our way then. We'll gather some others as well. Make sure our voices are heard. Believe it or not, we're pretty good at causing a scene.''\n*'''Kassandra:''' ''If you're like Sokrates, that's not hard to believe.''\n{{!}}-{{!}}\nYou have a moral obligation to help.=\n*'''Kassandra:''' ''Shouldn't we help those in need?''\n*'''Philosopher 1:''' ''As much as we possibly can, yes.''\n*'''Kassandra:''' ''And isn't Sokrates in need?''\n*'''Philosopher 2:''' ''I suppose so...''\n*'''Kassandra:''' ''If you saw a traveler wounded on the side of the road, would you help him, or would you first find out if he was a good person?''\n*'''Philosopher 1:''' ''Obviously we would rush to help.''\n*'''Kassandra:''' ''Right now, Sokrates is that wounded traveler. He needs your help.''\n*'''Philosopher 1:''' ''Fine, fine. You've made your point and you've made it well. Sokrates deserves our help, but we don't give it lightly.''\n*'''Kassandra:''' ''That makes it worth even more.''\n*'''Philosopher 2:''' ''We'll be on our way then. We'll gather some others as well. Make sure our voices are heard. Believe it or not, we're pretty good at causing a scene.''\n*'''Kassandra:''' ''If you're like Sokrates, that's not hard to believe.''\n}}\n|-|Sokrates is just like you.=\n*'''Kassandra:''' ''It doesn't matter if he's your worst enemy. If they're willing to imprison someone like Sokrates only for his words, what's to say they won't do the same to you?''\n*'''Philosopher 1:''' ''So you want us to help out of fear of being imprisoned ourselves?''\n*'''Kassandra:''' ''I don't care why you help. If I hadn't said his name, would you think it was right Sokrates was locked up?''\n*'''Philosopher 1:''' ''If it's as you say and it was for his words, then no.''\n*'''Kassandra:''' ''And aren't you afraid it could happen to you, too?''\n*'''Philosopher 2:''' ''Of course. If we can't speak our words, what else are we to do?''\n*'''Kassandra:''' ''If you believe that, then you should help.''\n*'''Philosopher 2:''' ''Fine, fine, you've made your point and you've made it well. Sokrates deserves our help, but we don't give it lightly.''\n*'''Kassandra:''' ''That makes it worth even more.''\n*'''Philosopher 2:''' ''We'll be on our way then. We'll gather some others as well. Make sure our voices are heard. Believe it or not, we're pretty good at causing a scene.''\n*'''Kassandra:''' ''If you're like Sokrates, that's not hard to believe.''\n</tabber>\n\nThe Philosophers left and Kassandra was approached by a young boy named [[Plato|Aristokles]].\n\n*'''Aristokles:''' ''Wow, I've never seen someone convince them so easily before!''\n*'''Kassandra:''' ''Is that so? Guess I should feel proud. I'm surprised to see a child here.''\n*'''Aristokles:''' ''Is there an age where it would suddenly be OK to debate with them? What then of the night before I turn that age? Should we be prevented from doing what we wish due to the world's view of us?''\n\n<tabber>\n|-|Not you too.=\n*'''Kassandra:''' ''I can't even have a normal conversation with a child.''\n*'''Aristokles:''' ''Normal is no fun! Look around. Everyone here wants the same thing.''\n*'''Kassandra:''' ''Headaches?''\n*'''Aristokles:''' ''Debate!''\n|-|I take it back.=\n*'''Kassandra:''' ''I regret doubting you at all.''\n*'''Aristokles:''' ''Thank you! There are few things greater than gaining the understanding of another.''\n*'''Kassandra:''' ''On that we disagree.''\n*'''Aristokles:''' ''Disagreements can lead to even'' more ''understanding!''\n</tabber>\n[[File:ACOD Persuasion Check 6.png|thumb|250px|Kassandra speaking to Aristokles]]\n*'''Kassandra:''' ''You're the first kid I've met who'd rather debate than play.''\n*'''Aristokles:''' ''Don't tell the others, but I'm envious you're a student of Sokrates. I hope one day to be one as well.''\n*'''Kassandra:''' ''You're on the right path. What's your name?''\n*'''Aristokles:''' ''Aristokles. Although, I've never liked that name much.''\n*'''Kassandra:''' ''It does sound like countless others I've heard around Athens. Why not choose another?''\n*'''Aristokles:''' ''I can do that? Hmm... my brother always had a problem saying my name, so he called me Plato instead. Perhaps I'll use that.''\n*'''Kassandra:''' ''I like it.''\n*'''Aristokles:''' ''Thank you. Well, I better hurry after the others.'' Chaire!",
+    "Section_Outcome": "Kassandra gained the help of the philosophers and met the young Plato.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories relived using the Animus HR-8.5]]\n[[Category:Memories of Kassandra]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Sokrates's Trial",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to the [[Sanctuary of Delphi]]. As she approached Sokrates' fellow philosophers, she considered how they might help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Maybe I can convince them to stand up for Sokrates at the trial.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She listened in on their conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Philosopher 1:''' ''It's as [[Xenophanes]] said, of course! We have given the [[Greek mythology|gods]] [[human]] forms because we wish them to be as we are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Philosopher 2:''' ''No, they are as they are. Who are we to give form to the gods?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Philosopher 1:''' ''Exactly my point! As he said, if [[Cattle|oxen]] or horses or any beast could produce art as we do, they would form the gods in the image of themselves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Philosopher 2:''' ''Yes, well they can't. And you've simply shown me again why Xenophanes is problematic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Philosopher 1:''' ''Come now, don't be like that. It's OK to be wrong... sometimes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Philosopher 2:''' ''Ha! I wouldn't know what that's like.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "10",
+            "content": "[[File:ACOD Persuasion Check 3.png|thumb|250px|Kassandra joining the conversation]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "She joined in on their conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Philosopher 1:''' ''Do not students take what they learn from their teachers? What then if the teacher is wrong? Does that not simply perpetuate these wrong teachings among future generations?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Philosopher 2:''' ''You assume the students aren't wise enough to understand the flaws of the teacher. Think of those who came before us. First [[Thales of Miletus|Thales]], then his student [[Anaximandros]], and then [[Anaximenes]]. Without the teachings of those before him, it's safe to say Anaximenes would not have reached the conclusions he did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Philosopher 1:''' ''I don't think that's true. Perhaps this new face can offer a different perspective.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "17",
+            "content": "|-|I don't know who those people are.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I've never heard the names you just mentioned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Philosopher 1:''' ''It's never too late to learn. But even so, one doesn't need to know who they are to answer. Is it not a risk that wrong ideas will be passed along if a student doesn't have the wisdom to seek the truth?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|I wasn't listening.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I didn't hear a single thing you just said.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Philosopher 1:''' ''Is that so? Well, let me simplify it quickly. Thales taught Anaximandros, who taught Anaximenes. Wouldn't you agree that students learn from the failings of their teachers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "23",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "24",
+            "content": "I've never heard those names before.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I've never heard the names you just mentioned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Philosopher 1:''' ''It's never too late to learn. But even so, one doesn't need to know who they are to answer. Is it not a risk that wrong ideas will be passed along if a student doesn't have the wisdom to seek the truth?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "27",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "Students learn from their teachers' failings.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''A student gets to take all the knowledge of their teacher without needing to come up with answers themselves. If they're smart, they should surpass those they studied under.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Philosopher 1:''' ''An astute observation. The time saved by receiving the knowledge allows the student not only to expand on the ideas, but to come up with more of their own. But what if the student expands on ideas without first seeking the truth behind them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "31",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC5",
+            "global_id": "32",
+            "content": "|-|The student always surpasses the teacher.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''A student gets to take all the knowledge of their teacher without needing to come up with answers themselves. If they're smart, they should surpass those they studied under.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Philosopher 1:''' ''An astute observation. The time saved by receiving the knowledge allows the student not only to expand on the ideas, but to come up with more of their own. But what if the student expands on ideas without first seeking the truth behind them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "35",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "36",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "37",
+            "content": "|-|We need to think for ourselves.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''If we listen to others and take what they say as fact, we only have ourselves to blame.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Philosopher 2:''' ''So, no matter who is speaking, student or teacher, we must spend time trying to understand if what they say is even true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "40",
+            "content": "|-|We need to learn from our teachers.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''If a student asks questions before first learning from their teacher, they've not only failed their teacher, but themselves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Philosopher 2:''' ''Yes. And more would do well to challenge what they hear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "43",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Philosopher 1:''' ''Your appearance betrays you,'' misthios. ''Clearly you've taken on a teacher of your own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Something like that. He's the reason I'm here. Sokrates needs your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "*'''Philosopher 2:''' ''Sokrates? Ha! If it's another debate you want, it will be hard for us to decide who hates that man more. Why would we help'' him?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "50",
+            "content": "|-|Threaten \u2013 Help Sokrates, or I'll hurt you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''You can either help him, or I can show you that I'm not a ''misthios'' only in looks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "52",
+            "content": "*'''Philosopher 2:''' ''I didn't realize Sokrates taught his students to harm those who disagree with them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I'm a different student than you're used to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "54",
+            "content": "*'''Philosopher 2:''' ''We wouldn't stand a chance against you in a fight, but that doesn't mean we'll do what you say through threat of violence. You've been an interesting part of the conversation thus far, so we'll give you another chance. Why should we help Sokrates?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "55",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "56",
+            "content": "Enemy or not, Sokrates needs help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''It doesn't matter if he's your worst enemy. If they're willing to imprison someone like Sokrates only for his words, what's to say they won't do the same to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "58",
+            "content": "*'''Philosopher 1:''' ''So you want us to help out of fear of being imprisoned ourselves?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''I don't care why you help. If I hadn't said his name, would you think it was right Sokrates was locked up?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "60",
+            "content": "*'''Philosopher 1:''' ''If it's as you say and it was for his words, then no.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''And aren't you afraid it could happen to you, too?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "62",
+            "content": "*'''Philosopher 2:''' ''Of course. If we can't speak our words, what else are we to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''If you believe that, then you should help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "64",
+            "content": "*'''Philosopher 2:''' ''Fine, fine, you've made your point and you've made it well. Sokrates deserves our help, but we don't give it lightly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''That makes it worth even more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "66",
+            "content": "*'''Philosopher 2:''' ''We'll be on our way then. We'll gather some others as well. Make sure our voices are heard. Believe it or not, we're pretty good at causing a scene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''If you're like Sokrates, that's not hard to believe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "68",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "69",
+            "content": "You have a moral obligation to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Shouldn't we help those in need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "71",
+            "content": "*'''Philosopher 1:''' ''As much as we possibly can, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''And isn't Sokrates in need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "73",
+            "content": "*'''Philosopher 2:''' ''I suppose so...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''If you saw a traveler wounded on the side of the road, would you help him, or would you first find out if he was a good person?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "75",
+            "content": "*'''Philosopher 1:''' ''Obviously we would rush to help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Right now, Sokrates is that wounded traveler. He needs your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "77",
+            "content": "*'''Philosopher 1:''' ''Fine, fine. You've made your point and you've made it well. Sokrates deserves our help, but we don't give it lightly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''That makes it worth even more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "79",
+            "content": "*'''Philosopher 2:''' ''We'll be on our way then. We'll gather some others as well. Make sure our voices are heard. Believe it or not, we're pretty good at causing a scene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''If you're like Sokrates, that's not hard to believe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "81",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC11",
+            "global_id": "82",
+            "content": "|-|Sokrates is just like you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''It doesn't matter if he's your worst enemy. If they're willing to imprison someone like Sokrates only for his words, what's to say they won't do the same to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "84",
+            "content": "*'''Philosopher 1:''' ''So you want us to help out of fear of being imprisoned ourselves?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''I don't care why you help. If I hadn't said his name, would you think it was right Sokrates was locked up?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "86",
+            "content": "*'''Philosopher 1:''' ''If it's as you say and it was for his words, then no.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''And aren't you afraid it could happen to you, too?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "88",
+            "content": "*'''Philosopher 2:''' ''Of course. If we can't speak our words, what else are we to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''If you believe that, then you should help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "90",
+            "content": "*'''Philosopher 2:''' ''Fine, fine, you've made your point and you've made it well. Sokrates deserves our help, but we don't give it lightly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''That makes it worth even more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "92",
+            "content": "*'''Philosopher 2:''' ''We'll be on our way then. We'll gather some others as well. Make sure our voices are heard. Believe it or not, we're pretty good at causing a scene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''If you're like Sokrates, that's not hard to believe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "94",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "95",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "96",
+            "content": "The Philosophers left and Kassandra was approached by a young boy named [[Plato|Aristokles]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "97",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D65",
+            "global_id": "98",
+            "content": "*'''Aristokles:''' ''Wow, I've never seen someone convince them so easily before!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''Is that so? Guess I should feel proud. I'm surprised to see a child here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "100",
+            "content": "*'''Aristokles:''' ''Is there an age where it would suddenly be OK to debate with them? What then of the night before I turn that age? Should we be prevented from doing what we wish due to the world's view of us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "101",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "102",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "103",
+            "content": "|-|Not you too.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''I can't even have a normal conversation with a child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "105",
+            "content": "*'''Aristokles:''' ''Normal is no fun! Look around. Everyone here wants the same thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''Headaches?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "107",
+            "content": "*'''Aristokles:''' ''Debate!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC13",
+            "global_id": "108",
+            "content": "|-|I take it back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D72",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I regret doubting you at all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "110",
+            "content": "*'''Aristokles:''' ''Thank you! There are few things greater than gaining the understanding of another.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''On that we disagree.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "112",
+            "content": "*'''Aristokles:''' ''Disagreements can lead to even'' more ''understanding!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "113",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I2",
+            "global_id": "114",
+            "content": "[[File:ACOD Persuasion Check 6.png|thumb|250px|Kassandra speaking to Aristokles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D76",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''You're the first kid I've met who'd rather debate than play.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "116",
+            "content": "*'''Aristokles:''' ''Don't tell the others, but I'm envious you're a student of Sokrates. I hope one day to be one as well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''You're on the right path. What's your name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "118",
+            "content": "*'''Aristokles:''' ''Aristokles. Although, I've never liked that name much.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''It does sound like countless others I've heard around Athens. Why not choose another?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "120",
+            "content": "*'''Aristokles:''' ''I can do that? Hmm... my brother always had a problem saying my name, so he called me Plato instead. Perhaps I'll use that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''I like it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "122",
+            "content": "*'''Aristokles:''' ''Thank you. Well, I better hurry after the others.'' Chaire!",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

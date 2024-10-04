@@ -1,0 +1,1026 @@
+{
+    "Quest_Name": "Moving On",
+    "Quest_ID": "227487",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After spending time getting to know both brothers, Kassandra decided to check in on Lykinos and Timotheos at their house.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Wounds of Days Gone By",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece<br />Argolis, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Moving On''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to the brothers' home in the [[Port of Kechries]], only to find it in a mess.",
+    "Section_Dialogue": "*'''Kassandra:''' ''I should check in on [[Timotheos]] and [[Lykinos]] as their father's house.''\n\nWhen she reached the house, she found it ransacked, with a dead body nearby.\n\n*'''Kassandra:''' ''What happened here?''\n\nShe went over to the dead body.\n\n*'''Kassandra:''' ''This looks like one of the [[bandit]]s that killed [[Diokles (Fisherman)|Diokles]].''\n\nShe went over to some coins on a table.\n\n*'''Kassandra:''' ''Whoever did this didn't take anything.''\n\nShe saw Lykinos on the floor, hurt.\n\n*'''Kassandra:''' ''Lykinos! Are you all right?''\n*'''Lykinos:''' ''They took him. The bandits who killed my ''pater'' took Timotheos!''\n*'''Kassandra:''' ''Where did they go?''\n*'''Lykinos:''' ''To the ruins of Mycenae! Please, you have to help him!''\n\nShe quickly made her way to the ruins. After killing the bandits in her way, she found Timotheos tied up. \n\n*'''Kassandra:''' ''Timotheos! We have to get out of here. Timotheos?''\n\nTimotheos lost control again, and charged past her.\n\n*'''Timotheos:''' ''Die, [[Sparta]]n dogs!To the [[Charon|Ferryman]] with you!''\n\nAfter she killed the remaining bandits.\n\n*'''Kassandra:''' ''Timotheos. It's over!''\n*'''Timotheos:''' ''Where are they? Cursed Spartan dogs! Where are they hiding?''\n*'''Kassandra:''' ''You're safe, Timotheos. I promise.''\n\nHe finally turned to look at her.\n\n*'''Timotheos:''' ''Kassandra?''\n\nThey embraced.\n\n*'''Kassandra:''' ''It's me. You're all right now.''\n\nLykinos came running up to them.\n\n*'''Lykinos:''' ''Timotheos! You're safe!''\n*'''Timotheos:''' ''You've saved us once again, mercenary.''\n*'''Lykinos:''' ''In more ways than one.''\n\n[[Hypatos (Bandit)|Hypatos]] and a group of bandits slowly walk behind them.\n\n*'''Hypatos''' ''The famed Eagle Bearer hasn't saved you just yet.''\n*'''Hypatos''' ''It's nice to finally meet Diokles's boys.''\n*'''Lykinos:''' ''Who are you?''\n*'''Hypatos''' ''I'm dear Diokles's business partner. Or at least I was. Until I had to terminate our arrangement.''\n*'''Timotheos:''' ''You mean you had him killed?''\n*'''Hypatos''' ''A last resort. Our partnership funded poor Diokles's gambling for years. His mistake was gambling not with drachmae he earned from me, but with drachmae he ''stole'' from me.''\n*'''Lykinos:''' ''You're lying. There's no way our ''pater'' would ever work with you.''\n*'''Hypatos''' ''Believe what you want. It doesn't change the fact that Diokles screwed me over.''\n*'''Kassandra:''' ''You got your payment in Diokles's blood. What do you want with Lykinos and Timotheos?''\n<tabber>\n(If the Monger was not yet killed or killed secretly)=\n*'''Hypatos''' ''Diokles may be dead, but I haven't received my drachmae yet.''\n*'''Timotheos:''' ''You expect me to pay?''\n*'''Hypatos''' ''One way or another, yes.''\n{{#tag:tabber|\nFight - Let's get this over with.=\n*'''Kassandra:''' ''Enough. Let's finish this already.''\n*'''Hypatos''' ''So be it.''\nKassandra attacked and killed Hypatos and his men.\n{{!}}-{{!}}\nI'll pay their debts.[10000]=\n{{!}}-{{!}}\nWe can talk this out.=\n*'''Kassandra:''' ''Can't we come to a more peaceful arrangement?''\n*'''Hypatos''' ''If the brothers can't pay, there's nothing left to discuss.''\n*'''Kassandra:''' ''What about you and me?''\n*'''Hypatos''' ''You? Maybe there ''is'' something the great Eagle Bearer could do for me.''\n*'''Kassandra:''' ''Well? What is it?''\n*'''Hypatos''' ''There's a man in Korinth. He's my biggest competitor. I need him taken care of. Publically. Big guy, swears a lot. Can't make it five steps in Korinth without hearing about him.''\n(If players not yet killed the Monger)\n*'''Kassandra:''' ''You mean [[the Monger]]?''\n*'''Hypatos''' ''Exactly.''\n*'''Hypatos''' ''Oh and Eagle Bearer? His death better be a bloody spectacle. Otherwise the debt goes unpaid.''\nHypatos and his men left.<br /><br />\n(If players killed the Monger secretly)\n*'''Kassandra:''' ''If you're talking about the Monger, I already took care of him.''\n*'''Hypatos''' ''Impossible! I would have heard about it.''\n*'''Kassandra:''' ''I dealt with him quietly.''\n*'''Hypatos''' ''How would a secret execution send his customers to me? This changes nothing. We're done here.''\nWith no choice, she was forced to kill Hypatos and his men.\n}}\n|-|(If the Monger was killed in public)=\n*'''Hypatos''' ''I was going to clear Diokles's debt through his boys, but you took out my biggest competitors in Korinth.''\n*'''Kassandra:''' ''Glad I helped?''\n*'''Hypatos''' ''You did me a favor, so I'm willing to let these boys go to repay what I owe you, misthios.''\n*'''Lykinos:''' ''He killed my pater. Are you really going to let him go.''\n*'''Hypatos''' ''Yes, misthios. Are you going to let me go?''\n{{#tag:tabber|\nFight - You die today.=\n*'''Kassandra:''' ''No. You'll pay for what you've done.''\n*'''Hypatos''' ''Have it your way, Eagle Bearer.''\nKassandra attacked and killed Hypatos and his men.\n{{!}}-{{!}}\nYou can go.=\n*'''Kassandra:''' ''There's been enough bloodshed. You can go.''\n*'''Hypatos''' ''A smart move. Consider the debt repaid.''\n}}\n</tabber>\n\n*'''Timotheos:''' ''Thank you for saving me, Kassandra. There is something I've been meaning to tell you.''\n*'''Lykinos:''' ''I need to tell Kassandra something, too.''\n(Following dialogue dependent on choices made in [[Wounds of Days Gone By]] and [[Career Orientation]])\n<tabber>\n(Timotheos not calmed down)=\n*'''Timotheos:''' ''I'm sorry for running from you the other day. It wasn't... how I really feel about you.''\n*'''Lykinos:''' ''I would never leave you.''\n*'''Timotheos:''' ''What I mean to say is, I shouldn't have run from you when... I want to be with you.''\n|-|\n(Timotheos calmed down)=\n*'''Timotheos:''' ''When I'm with you, the darkness inside me fades away. I didn't think I'd feel happiness like this again.''\n</tabber>\n\n*'''Lykinos:''' ''I'm the only reason you even know each other.''\n*'''Lykinos:''' ''The [[fates]] have spoken. The gods brought us together. I feel it in the fiber of my soul.''\n<tabber>\n|-|I choose Lykinos.=\n*'''Kassandra:''' ''I feel it, too, Lykinos. I want to be with you.''\n{{#tag:tabber|\n(If Timotheos was not romanced)=\n*'''Timotheos:''' ''I see. I leave you two alone then.''\n*'''Lykinos:''' ''The gods should envy me right now''\n*'''Kassandra:''' ''Don't tempt them.''\nAfter Timotheos left Kassandra kissed Lykinos passionately.\n{{!}}-{{!}}\n(If Timotheos was romanced)=\n*'''Timotheos:''' ''After we...? You're choosing my brother?''\n*'''Lykinos:''' ''You slept with my brother?''\n*'''Kassandra:''' ''Well, I...''\n*'''Lykinos:''' ''If the answer to that question isn't \"no\". then we don't have anything left to talk about.''\nA hurt Lykinos stormed past Kassandra, Timotheos shook his head as he left too.\n}}\n|-|I choose nobody.=\n*'''Kassandra:''' ''I just like you as friends. Both of you.''\n*'''Timotheos:''' ''I... see.''\n*'''Lykinos:''' ''If that's how you really feel...''\n*'''Timotheos:''' ''Well. Thank you again. For saving me. And for everything.''\n*'''Lykinos:''' ''Goodbye, I guess.''\n|-|I choose Timotheos.=\n*'''Kassandra:''' ''I'm sorry, Lykinos... But Thimotheos is right. I have feelings for him.''\n{{#tag:tabber|\n(If Lykinos was not romanced)=\n*'''Lykinos:''' ''I suppose... I understand. I'll leave you two''\n*'''Timotheos:''' ''I want to go everywhere with you.''\n*'''Kassandra:''' ''That can be arranged.''\nAfter Lykinos left Kassandra kissed Timotheos passionately.\n{{!}}-{{!}}\n(If Lykinos was romanced)=\n*'''Lykinos:''' ''You can't seriously choose him after we...''\n*'''Timotheos:''' ''You slept with Lykinos?''\n*'''Kassandra:''' ''It didn't mean -''\n*'''Timotheos:''' ''Don't finish that thought. How could you do this to us?''\nA hurt Timotheos stormed past Kassandra and Lykinos left with an angry look on his face.\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra rescued Timotheos from the bandits at [[Mycenae]]. Aterwards Kassandra had to deal with [[Hypatos (Bandit)|Hypatos]], the murderer of [[Diokles (Fisherman)|Diokles]], by either killing him, paying him, or killing [[The Monger]] publicly. After dealing with Hypatos, Kassandra has the option of dating one of the two brothers, or decline both offers.",
+    "Section_Trivia": "*Whether the Monger has been dealt with earlier during the main quest and if he was killed secretly or in public can lead to different dialogues in the conversation with Hypatos.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Brother's Seduction",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''I should check in on [[Timotheos]] and [[Lykinos]] as their father's house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N1",
+            "global_id": "3",
+            "content": "When she reached the house, she found it ransacked, with a dead body nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What happened here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "She went over to the dead body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''This looks like one of the [[bandit]]s that killed [[Diokles (Fisherman)|Diokles]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "She went over to some coins on a table.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D4",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Whoever did this didn't take anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "15",
+            "content": "She saw Lykinos on the floor, hurt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D5",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Lykinos! Are you all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "18",
+            "content": "*'''Lykinos:''' ''They took him. The bandits who killed my ''pater'' took Timotheos!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Where did they go?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "20",
+            "content": "*'''Lykinos:''' ''To the ruins of Mycenae! Please, you have to help him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "22",
+            "content": "She quickly made her way to the ruins. After killing the bandits in her way, she found Timotheos tied up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U10",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D9",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Timotheos! We have to get out of here. Timotheos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "26",
+            "content": "Timotheos lost control again, and charged past her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U12",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "28",
+            "content": "*'''Timotheos:''' ''Die, [[Sparta]]n dogs!To the [[Charon|Ferryman]] with you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "30",
+            "content": "After she killed the remaining bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U14",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D11",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Timotheos. It's over!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "33",
+            "content": "*'''Timotheos:''' ''Where are they? Cursed Spartan dogs! Where are they hiding?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''You're safe, Timotheos. I promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "36",
+            "content": "He finally turned to look at her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U16",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D14",
+            "global_id": "38",
+            "content": "*'''Timotheos:''' ''Kassandra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "40",
+            "content": "They embraced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U18",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''It's me. You're all right now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "44",
+            "content": "Lykinos came running up to them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U20",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "46",
+            "content": "*'''Lykinos:''' ''Timotheos! You're safe!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "47",
+            "content": "*'''Timotheos:''' ''You've saved us once again, mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "48",
+            "content": "*'''Lykinos:''' ''In more ways than one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "49",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "50",
+            "content": "[[Hypatos (Bandit)|Hypatos]] and a group of bandits slowly walk behind them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "52",
+            "content": "*'''Hypatos''' ''The famed Eagle Bearer hasn't saved you just yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "53",
+            "content": "*'''Hypatos''' ''It's nice to finally meet Diokles's boys.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "54",
+            "content": "*'''Lykinos:''' ''Who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "55",
+            "content": "*'''Hypatos''' ''I'm dear Diokles's business partner. Or at least I was. Until I had to terminate our arrangement.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "56",
+            "content": "*'''Timotheos:''' ''You mean you had him killed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "57",
+            "content": "*'''Hypatos''' ''A last resort. Our partnership funded poor Diokles's gambling for years. His mistake was gambling not with drachmae he earned from me, but with drachmae he ''stole'' from me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "58",
+            "content": "*'''Lykinos:''' ''You're lying. There's no way our ''pater'' would ever work with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "59",
+            "content": "*'''Hypatos''' ''Believe what you want. It doesn't change the fact that Diokles screwed me over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''You got your payment in Diokles's blood. What do you want with Lykinos and Timotheos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "62",
+            "content": "(If the Monger was not yet killed or killed secretly)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "63",
+            "content": "*'''Hypatos''' ''Diokles may be dead, but I haven't received my drachmae yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "64",
+            "content": "*'''Timotheos:''' ''You expect me to pay?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "65",
+            "content": "*'''Hypatos''' ''One way or another, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "66",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "67",
+            "content": "Fight - Let's get this over with.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Enough. Let's finish this already.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "69",
+            "content": "*'''Hypatos''' ''So be it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "70",
+            "content": "Kassandra attacked and killed Hypatos and his men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "71",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "72",
+            "content": "I'll pay their debts.[10000]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "73",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "74",
+            "content": "We can talk this out.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''Can't we come to a more peaceful arrangement?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "76",
+            "content": "*'''Hypatos''' ''If the brothers can't pay, there's nothing left to discuss.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''What about you and me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "78",
+            "content": "*'''Hypatos''' ''You? Maybe there ''is'' something the great Eagle Bearer could do for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Well? What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "80",
+            "content": "*'''Hypatos''' ''There's a man in Korinth. He's my biggest competitor. I need him taken care of. Publically. Big guy, swears a lot. Can't make it five steps in Korinth without hearing about him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "81",
+            "content": "(If players not yet killed the Monger)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D39",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''You mean [[the Monger]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "83",
+            "content": "*'''Hypatos''' ''Exactly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "84",
+            "content": "*'''Hypatos''' ''Oh and Eagle Bearer? His death better be a bloody spectacle. Otherwise the debt goes unpaid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "85",
+            "content": "Hypatos and his men left.<br /><br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C2",
+            "global_id": "86",
+            "content": "(If players killed the Monger secretly)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D42",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''If you're talking about the Monger, I already took care of him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "88",
+            "content": "*'''Hypatos''' ''Impossible! I would have heard about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''I dealt with him quietly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "90",
+            "content": "*'''Hypatos''' ''How would a secret execution send his customers to me? This changes nothing. We're done here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "91",
+            "content": "With no choice, she was forced to kill Hypatos and his men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "92",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC5",
+            "global_id": "93",
+            "content": "|-|(If the Monger was killed in public)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "94",
+            "content": "*'''Hypatos''' ''I was going to clear Diokles's debt through his boys, but you took out my biggest competitors in Korinth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Glad I helped?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "96",
+            "content": "*'''Hypatos''' ''You did me a favor, so I'm willing to let these boys go to repay what I owe you, misthios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "97",
+            "content": "*'''Lykinos:''' ''He killed my pater. Are you really going to let him go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "98",
+            "content": "*'''Hypatos''' ''Yes, misthios. Are you going to let me go?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "99",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "100",
+            "content": "Fight - You die today.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''No. You'll pay for what you've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "102",
+            "content": "*'''Hypatos''' ''Have it your way, Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "103",
+            "content": "Kassandra attacked and killed Hypatos and his men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "104",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "105",
+            "content": "You can go.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''There's been enough bloodshed. You can go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "107",
+            "content": "*'''Hypatos''' ''A smart move. Consider the debt repaid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "108",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "109",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U23",
+            "global_id": "110",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D55",
+            "global_id": "111",
+            "content": "*'''Timotheos:''' ''Thank you for saving me, Kassandra. There is something I've been meaning to tell you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "112",
+            "content": "*'''Lykinos:''' ''I need to tell Kassandra something, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "113",
+            "content": "(Following dialogue dependent on choices made in [[Wounds of Days Gone By]] and [[Career Orientation]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TS2",
+            "global_id": "114",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "115",
+            "content": "(Timotheos not calmed down)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "116",
+            "content": "*'''Timotheos:''' ''I'm sorry for running from you the other day. It wasn't... how I really feel about you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "117",
+            "content": "*'''Lykinos:''' ''I would never leave you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "118",
+            "content": "*'''Timotheos:''' ''What I mean to say is, I shouldn't have run from you when... I want to be with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "119",
+            "content": "|-|",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC10",
+            "global_id": "120",
+            "content": "(Timotheos calmed down)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "121",
+            "content": "*'''Timotheos:''' ''When I'm with you, the darkness inside me fades away. I didn't think I'd feel happiness like this again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "122",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U24",
+            "global_id": "123",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D61",
+            "global_id": "124",
+            "content": "*'''Lykinos:''' ''I'm the only reason you even know each other.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "125",
+            "content": "*'''Lykinos:''' ''The [[fates]] have spoken. The gods brought us together. I feel it in the fiber of my soul.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "126",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "127",
+            "content": "|-|I choose Lykinos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''I feel it, too, Lykinos. I want to be with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "129",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "130",
+            "content": "(If Timotheos was not romanced)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "131",
+            "content": "*'''Timotheos:''' ''I see. I leave you two alone then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "132",
+            "content": "*'''Lykinos:''' ''The gods should envy me right now''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "133",
+            "content": "*'''Kassandra:''' ''Don't tempt them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "134",
+            "content": "After Timotheos left Kassandra kissed Lykinos passionately.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "135",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "136",
+            "content": "(If Timotheos was romanced)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "137",
+            "content": "*'''Timotheos:''' ''After we...? You're choosing my brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "138",
+            "content": "*'''Lykinos:''' ''You slept with my brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "139",
+            "content": "*'''Kassandra:''' ''Well, I...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "140",
+            "content": "*'''Lykinos:''' ''If the answer to that question isn't \"no\". then we don't have anything left to talk about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "141",
+            "content": "A hurt Lykinos stormed past Kassandra, Timotheos shook his head as he left too.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "142",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC14",
+            "global_id": "143",
+            "content": "|-|I choose nobody.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''I just like you as friends. Both of you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "145",
+            "content": "*'''Timotheos:''' ''I... see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "146",
+            "content": "*'''Lykinos:''' ''If that's how you really feel...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "147",
+            "content": "*'''Timotheos:''' ''Well. Thank you again. For saving me. And for everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "148",
+            "content": "*'''Lykinos:''' ''Goodbye, I guess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC15",
+            "global_id": "149",
+            "content": "|-|I choose Timotheos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D76",
+            "global_id": "150",
+            "content": "*'''Kassandra:''' ''I'm sorry, Lykinos... But Thimotheos is right. I have feelings for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "151",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "152",
+            "content": "(If Lykinos was not romanced)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D77",
+            "global_id": "153",
+            "content": "*'''Lykinos:''' ''I suppose... I understand. I'll leave you two''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "154",
+            "content": "*'''Timotheos:''' ''I want to go everywhere with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "155",
+            "content": "*'''Kassandra:''' ''That can be arranged.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "156",
+            "content": "After Lykinos left Kassandra kissed Timotheos passionately.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "157",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC17",
+            "global_id": "158",
+            "content": "(If Lykinos was romanced)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D80",
+            "global_id": "159",
+            "content": "*'''Lykinos:''' ''You can't seriously choose him after we...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "160",
+            "content": "*'''Timotheos:''' ''You slept with Lykinos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''It didn't mean -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "162",
+            "content": "*'''Timotheos:''' ''Don't finish that thought. How could you do this to us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "163",
+            "content": "A hurt Timotheos stormed past Kassandra and Lykinos left with an angry look on his face.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "164",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE3",
+            "global_id": "165",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "Quest_Name": "Swift as Wind",
+    "Quest_ID": "223695",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Seeing the success of his initiative thus far, Demosthenes determined to maintain his course. Many Spartan Polemarchs would lose their lives at his word.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "In the Midst of Chaos",
+        "next": "Last Request",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Swift as Wind''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Encouraged by Kassandra's success, Demosthenes tasked her to bring down more of the Spartan ''polemarchoi''.",
+    "Section_Dialogue": "*'''Kassandra:\u00a0'''''Of course. What do you need?''\n*'''Demosthenes:\u00a0'''''At this rate, the Spartans will need to recruit from their farmers.''\n*'''Kassandra:\u00a0'''''You're really not fond\u00a0Sparta.''\n*'''Demosthenes:\u00a0'''''Would you be, were you me? They challenge all that Athens stands for. They care nothing for art, or education, or philosophy. For them, warfare is the only goal.''\n*'''Kassandra:\u00a0'''''Strange thing to hear from a general in the Athenian army.''\n*'''Demosthenes:\u00a0'''''I serve Athens with arms because I am skilled with fighting and strategy. But I protect those who serve our culture and legacy.''\n*'''Kassandra:\u00a0'''''They're lucky to have you.''\n*'''Demosthenes:\u00a0'''''I've earned my place. Would you be interested in more work removing Spartan commanders?''\n*'''Kassandra:\u00a0'''''I'll get you your seals.''\n(If players choose \"Why are the Spartans attacking Athens?\")\n*'''Kassandra:\u00a0'''''Why do you think the Spartans are attacking Athens now?''\n*'''Demosthenes:\u00a0'''''Why do they do anything? For conquest. For glory. Because they know no other life than war.''\n(If players choose \"What will you do with the seals?\")\n*'''Kassandra: '''''What'''''\u00a0'''''will you do with all these seals?''\n*'''Demosthenes:\u00a0'''''For now, I'll use them as proof of what I've achieved. It will give my words weight. Very few Athenians have ever seen a Spartan seal.''\n*'''Kassandra:\u00a0'''''But you have plans for them later.''\n*'''Demosthenes:\u00a0'''''Someday, I want children to see them. Then they'll witness me donate them to a temple. That should inspire them to earn their own.''\n(If players choose \"What else is on your mind?\")\n*'''Kassandra:\u00a0'''''You seem thoughtful. Thinking of what happened to your grandfather?''\n*'''Demosthenes:\u00a0'''''No. Thinking of the first battle I lost.''\n*'''Kassandra: '''''What happened?''\n*'''Demosthenes:\u00a0'''''I overestimated my own abilities. We were supposed to lay siege to a city, but I was impatient. I felt the need to prove myself... at the expense of my men.''\n*'''Kassandra:\u00a0'''''You abandoned the siege.''\n*'''Demosthenes:\u00a0'''''Yes. I led an attack my men weren't prepared for, on Aitolia. It was pure hubris on my part, and my men paid for it. My closest friend died in the battle. Never again.''\n*'''Kassandra:\u00a0'''''I see why you're so determined to get the Spartans at a disadvantage.''\n*'''Demosthenes:\u00a0'''''They are already at a disadvantage. They made an enemy of me.''\n(Leave \u2013 \"I have what I need.\")\n*'''Kassandra:\u00a0'''''I know enough to keep going.''\nAfter she finishes her task, Kassandra approached Demosthenes.\n*'''Demosthenes:\u00a0'''''Do you have my seals?''\n*'''Kassandra:\u00a0'''''I do.''\n*'''Demosthenes:\u00a0'''''The Spartans must be aware of your actions by now. They can't be happy. Interested in upsetting them some more?''\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Demosthenes eliminate three Spartan ''polemarchs'' and recover their seals. She was again tasked to retrieve more after being given his [[Demosthenes' Battleplate|breastplate]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Demosthenes",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:\u00a0'''''Of course. What do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Demosthenes:\u00a0'''''At this rate, the Spartans will need to recruit from their farmers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:\u00a0'''''You're really not fond\u00a0Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Demosthenes:\u00a0'''''Would you be, were you me? They challenge all that Athens stands for. They care nothing for art, or education, or philosophy. For them, warfare is the only goal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:\u00a0'''''Strange thing to hear from a general in the Athenian army.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Demosthenes:\u00a0'''''I serve Athens with arms because I am skilled with fighting and strategy. But I protect those who serve our culture and legacy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "7",
+            "content": "*'''Kassandra:\u00a0'''''They're lucky to have you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "8",
+            "content": "*'''Demosthenes:\u00a0'''''I've earned my place. Would you be interested in more work removing Spartan commanders?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "9",
+            "content": "*'''Kassandra:\u00a0'''''I'll get you your seals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "10",
+            "content": "(If players choose \"Why are the Spartans attacking Athens?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Kassandra:\u00a0'''''Why do you think the Spartans are attacking Athens now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "12",
+            "content": "*'''Demosthenes:\u00a0'''''Why do they do anything? For conquest. For glory. Because they know no other life than war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "13",
+            "content": "(If players choose \"What will you do with the seals?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Kassandra: '''''What'''''\u00a0'''''will you do with all these seals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Demosthenes:\u00a0'''''For now, I'll use them as proof of what I've achieved. It will give my words weight. Very few Athenians have ever seen a Spartan seal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "16",
+            "content": "*'''Kassandra:\u00a0'''''But you have plans for them later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "17",
+            "content": "*'''Demosthenes:\u00a0'''''Someday, I want children to see them. Then they'll witness me donate them to a temple. That should inspire them to earn their own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "18",
+            "content": "(If players choose \"What else is on your mind?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Kassandra:\u00a0'''''You seem thoughtful. Thinking of what happened to your grandfather?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "20",
+            "content": "*'''Demosthenes:\u00a0'''''No. Thinking of the first battle I lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "21",
+            "content": "*'''Kassandra: '''''What happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "22",
+            "content": "*'''Demosthenes:\u00a0'''''I overestimated my own abilities. We were supposed to lay siege to a city, but I was impatient. I felt the need to prove myself... at the expense of my men.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "23",
+            "content": "*'''Kassandra:\u00a0'''''You abandoned the siege.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "24",
+            "content": "*'''Demosthenes:\u00a0'''''Yes. I led an attack my men weren't prepared for, on Aitolia. It was pure hubris on my part, and my men paid for it. My closest friend died in the battle. Never again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "25",
+            "content": "*'''Kassandra:\u00a0'''''I see why you're so determined to get the Spartans at a disadvantage.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "26",
+            "content": "*'''Demosthenes:\u00a0'''''They are already at a disadvantage. They made an enemy of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "27",
+            "content": "(Leave \u2013 \"I have what I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "28",
+            "content": "*'''Kassandra:\u00a0'''''I know enough to keep going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "29",
+            "content": "After she finishes her task, Kassandra approached Demosthenes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "30",
+            "content": "*'''Demosthenes:\u00a0'''''Do you have my seals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "31",
+            "content": "*'''Kassandra:\u00a0'''''I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "32",
+            "content": "*'''Demosthenes:\u00a0'''''The Spartans must be aware of your actions by now. They can't be happy. Interested in upsetting them some more?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "33",
+            "content": "(Dialogue continues to start the next quest.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

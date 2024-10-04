@@ -1,0 +1,333 @@
+{
+    "Quest_Name": "Undoing What's Been Done",
+    "Quest_ID": "232529",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra reluctantly agreed to let Phoibe prove herself by saving the survivor of the Cyclops of Kephallonia|Cyclops's attack. But the Cyclops's real plans had only just begun to take shape.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Phoibe}}",
+        "previous": "A Young Warrior's Ghosts",
+        "next": "The Warrior, the Eagle Bearer",
+        "source": "Kassandra",
+        "location": "The Scorched Lands, the Underworld"
+    },
+    "General_Description": "'''Undoing What's Been Done''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Phoibe]] went to find the [[Keres]] to save the survivor of the attack by the [[Cyclops of Kephallonia]]. Unfortunately she hasn't returned.",
+    "Section_Dialogue": "After Phoibe had not returned in a timely fashion, Kassandra set off to [[Salmoneus' Hubris]] after her. [[Ikaros]] found traces of Phoibe's passage at the villa overlooking the River [[Styx]].\n*'''Kassandra:''' ''This is it.''\nKassandra made her way to the villa and called out for Phoibe.\n*'''Kassandra:''' ''Phoibe?''\nShe found [[Chara]] resting on top of some rubble.\n*'''Kassandra:''' ''Phoibe's eagle... But where is she?''\nAfter picking up the toy eagle, she was ambushed by the Cyclops' guards.\n*'''Cyclops Guard:''' ''Eagle Bearer! The Cyclops said you'd be coming.''\n*'''Kassandra:''' ''Tell me what you did to Phoibe.''\nKassandra killed the ambushers and recovered a note from one of their corpses.\n:'''BRING ME THAT GIRL:'''<br>''That [[Kephallonia]]n girl and her ''[[Mercenary|misthios]]'' friend are here. Time to have a little family reunion. Find her. Bring her to the [[Ancient Temenos]]. If we can't get to the ''misthios'', then we let the ''misthios'' come to us.''\nKassandra made her way to the Ancient Temenos and navigated its caverns until she came across some bandits, Hades Orbs that sapped her power, and a prisoner in the deepest part of the cave.\n*'''Kassandra:''' ''A prisoner. Maybe she saw Phoibe.''\nKassandra disrupted the orbs with arrows and killed the bandits.\n*'''Kassandra:''' ''I recognize every face here from Kephallonia. All of them worked for the Cyclops.''\nKassandra moved through a crack in the wall to reach the prison cells and free the prisoner.\n*'''Mortal Woman:''' ''The Eagle Bearer. I overheard the Cyclops saying you were in the [[underworld]], but I didn't believe it.''\n*'''Kassandra:''' ''I'm looking for a girl. Her name was Phoibe... Is... Her name is Phoibe.''\n*'''Mortal Woman:''' ''They took a girl onto one of their boats, but...''\n*'''Kassandra:''' ''But what?''\n*'''Mortal Woman:''' ''She wasn't moving.''\n(If \"Where did they sail?\" is chosen.)\n*'''Kassandra:''' ''Tell me where they were sailing.''\n*'''Mortal Woman:''' ''I couldn't see, but [[Charon]]'s at the dock on the riverbank. No one sails without him knowing.''\n(If \"When were they here?\" is chosen.)\n*'''Kassandra:''' ''How long ago did they leave?''\n*'''Mortal Woman:''' ''If you set sail now, you can probably catch up to them. But be quick.''\n(Leave \u2013 \"I have to stop him.\")\n*'''Kassandra:''' ''Get out of here while you can. I'm going to find the Cyclops and stop him once and for all.''\nKassandra handed her the torch. The woman gave her an {{Wiki|Charon's obol|obol}} in exchange.\n*'''Mortal Woman:''' ''Take this as thanks. You can pay Charon to send you down the Styx after them.''\nKassandra left the Ancient Temenos and made her way to Charon's dock.\n*'''Kassandra:''' ''Charon! One of the prisoners said the Cyclops took a friend of mine down the Styx.''\n*'''Charon:''' ''Oh, the young girl from [[Elysium]]? They dumped her lifeless body into one of my old boats.''\n*'''Kassandra:''' ''Take me to her.''\n*'''Charon:''' ''What is it you fleshlings do to calm down... Breathe? Yes. Breathe and tell me what happened.''\n<tabber>\n|-|I can pay you to take me.=\n*'''Kassandra:''' ''There's no time to explain! Here, I can pay. Now let's sail. ''\nCharon took the payment.\n|-|Threaten \u2013 Take me!=\n*'''Kassandra:''' ''There's no time, Charon! We're taking your ferry down the fucking Styx, now.''\n|-|The Cyclops is toying with me.=\n*'''Kassandra:''' ''The Cyclops hated me in life, and he hates me in death. He's using my friend to get to me. Help me stop this.''\n</tabber>\n*'''Charon:''' ''Very well. I know precisely where the Cyclops of Kephallonia was taking your young friend.''\nCharon led Kassandra down to the water.\n*'''Charon:''' ''It's a gate. The place should seem familiar to all of you.''\n*'''Kassandra:''' ''Thank you. Now, we have to go.''\nCharon sailed their boat down the River Styx and out into seemingly open water to the shores of an island under a bright sun. He stopped the boat near the shore and Kassandra waded out onto land. She nodded at Charon, who returned a short bow, before she turned to hunt down the Cyclops.",
+    "Section_Outcome": "Phoibe had been taken captive by the Cyclops of Kephallonia. Kassandra enlisted Charon's aid to pursue him down the River Styx.",
+    "Section_Behind_the_scenes": "The ambush when players pick up Chara may not spawn. If this is the case, players will not be able to access the world map or Ikaros. The quest marker will be beyond the bounds of the map. If players save and reload after the bug, they will spawn on the facsimile of Kephallonia, skipping the interactions with the Mortal Woman and Charon.{{cite|7 March 2022. Verify}}",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Torment of Hades]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After Phoibe had not returned in a timely fashion, Kassandra set off to [[Salmoneus' Hubris]] after her. [[Ikaros]] found traces of Phoibe's passage at the villa overlooking the River [[Styx]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''This is it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra made her way to the villa and called out for Phoibe.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Phoibe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She found [[Chara]] resting on top of some rubble.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Phoibe's eagle... But where is she?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "After picking up the toy eagle, she was ambushed by the Cyclops' guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Cyclops Guard:''' ''Eagle Bearer! The Cyclops said you'd be coming.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Tell me what you did to Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "10",
+            "content": "Kassandra killed the ambushers and recovered a note from one of their corpses.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "11",
+            "content": ":'''BRING ME THAT GIRL:'''<br>''That [[Kephallonia]]n girl and her ''[[Mercenary|misthios]]'' friend are here. Time to have a little family reunion. Find her. Bring her to the [[Ancient Temenos]]. If we can't get to the ''misthios'', then we let the ''misthios'' come to us.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "12",
+            "content": "Kassandra made her way to the Ancient Temenos and navigated its caverns until she came across some bandits, Hades Orbs that sapped her power, and a prisoner in the deepest part of the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''A prisoner. Maybe she saw Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "14",
+            "content": "Kassandra disrupted the orbs with arrows and killed the bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I recognize every face here from Kephallonia. All of them worked for the Cyclops.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "16",
+            "content": "Kassandra moved through a crack in the wall to reach the prison cells and free the prisoner.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Mortal Woman:''' ''The Eagle Bearer. I overheard the Cyclops saying you were in the [[underworld]], but I didn't believe it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'm looking for a girl. Her name was Phoibe... Is... Her name is Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Mortal Woman:''' ''They took a girl onto one of their boats, but...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''But what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Mortal Woman:''' ''She wasn't moving.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "22",
+            "content": "(If \"Where did they sail?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Tell me where they were sailing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Mortal Woman:''' ''I couldn't see, but [[Charon]]'s at the dock on the riverbank. No one sails without him knowing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "25",
+            "content": "(If \"When were they here?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''How long ago did they leave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Mortal Woman:''' ''If you set sail now, you can probably catch up to them. But be quick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "28",
+            "content": "(Leave \u2013 \"I have to stop him.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Get out of here while you can. I'm going to find the Cyclops and stop him once and for all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "30",
+            "content": "Kassandra handed her the torch. The woman gave her an {{Wiki|Charon's obol|obol}} in exchange.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Mortal Woman:''' ''Take this as thanks. You can pay Charon to send you down the Styx after them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "32",
+            "content": "Kassandra left the Ancient Temenos and made her way to Charon's dock.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Charon! One of the prisoners said the Cyclops took a friend of mine down the Styx.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Charon:''' ''Oh, the young girl from [[Elysium]]? They dumped her lifeless body into one of my old boats.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Take me to her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Charon:''' ''What is it you fleshlings do to calm down... Breathe? Yes. Breathe and tell me what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "37",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "38",
+            "content": "|-|I can pay you to take me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''There's no time to explain! Here, I can pay. Now let's sail. ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "40",
+            "content": "Charon took the payment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "41",
+            "content": "|-|Threaten \u2013 Take me!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''There's no time, Charon! We're taking your ferry down the fucking Styx, now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "43",
+            "content": "|-|The Cyclops is toying with me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''The Cyclops hated me in life, and he hates me in death. He's using my friend to get to me. Help me stop this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "45",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Charon:''' ''Very well. I know precisely where the Cyclops of Kephallonia was taking your young friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "47",
+            "content": "Charon led Kassandra down to the water.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Charon:''' ''It's a gate. The place should seem familiar to all of you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Thank you. Now, we have to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "50",
+            "content": "Charon sailed their boat down the River Styx and out into seemingly open water to the shores of an island under a bright sun. He stopped the boat near the shore and Kassandra waded out onto land. She nodded at Charon, who returned a short bow, before she turned to hunt down the Cyclops.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "Quest_Name": "Hunting Hyrkanos",
+    "Quest_ID": "222729",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Hunting Hyrkanos.jpg",
+        "description": "'Dolios located Hyrkanos, a dangerous mercenary who was disrupting the Spartan advance in the Megaris|region. He asked Kassandra to deal with the menace before he could do any more damage.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Portion Control",
+        "next": "Crumble and Burn",
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Hunting Hyrkanos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "On [[Dolios]]' suggestion, Kassandra sought to eliminate the [[Athens|Athenian]]-affiliated [[mercenary]] [[Hyrkanos the Cunning|Hyrkanos]].",
+    "Section_Dialogue": "Kassandra travelled to [[Megara]]. He found Hyrkanos patrolling the [[Sanctuary of Athena, Megara|Sanctuary of Athena]]. \n*'''Kassandra:''' ''This must be Hyrkanos's camp...''\nShe travelled to the sanctuary and eliminated Hyrkanos, looting his body.\n*'''Kassandra:''' ''Hmm, this has been quite profitable. Maybe I should hunt down more mercenaries.''\nKassandra returned to Dolios in the [[Occupied Forest of Tripodiskos]].\n*'''Kassandra:''' ''The mercenary Hyrkanos is dead.''\n*'''Dolios:''' ''[[Sparta]] thanks you, misthios.''\nDolios walked away.\n*'''Kassandra:''' ''What about my reward?''\n*'''Dolios:''' ''We never entered into a contract. This is something you did yourself... But be assured Sparta is grateful.''\n*'''Kassandra:''' ''Great...''",
+    "Section_Outcome": "Kassandra eliminated Hyrkanos and reported to Dolios about her mission.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:La traque d'Hyrkanos]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.f",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to [[Megara]]. He found Hyrkanos patrolling the [[Sanctuary of Athena, Megara|Sanctuary of Athena]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''This must be Hyrkanos's camp...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She travelled to the sanctuary and eliminated Hyrkanos, looting his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Hmm, this has been quite profitable. Maybe I should hunt down more mercenaries.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to Dolios in the [[Occupied Forest of Tripodiskos]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''The mercenary Hyrkanos is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Dolios:''' ''[[Sparta]] thanks you, misthios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "Dolios walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What about my reward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Dolios:''' ''We never entered into a contract. This is something you did yourself... But be assured Sparta is grateful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Great...''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

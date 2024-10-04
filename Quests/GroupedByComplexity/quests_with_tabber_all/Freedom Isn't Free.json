@@ -1,0 +1,588 @@
+{
+    "Quest_Name": "Freedom Isn't Free",
+    "Quest_ID": "223519",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_c": {
+            "description": "dependent"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "File:ACOD-FreedomIsntFree-01.jpg",
+        "description": "'By the orders of Chalkis's Magistrate of Chalkis|Magistrate, Agapios hired Kassandra to take down The Dagger, who\u2014by the claim of many\u2014had been corrupting Euboea.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Agapios}}",
+        "previous": "Death and Taxes",
+        "concurrent": "Dagger to the Heart<br>Wasn't Born the Kingfisher<br>Blood and Water<br>The Taxman Cometh {{c|dependent}}",
+        "next": "Sharp Tongue",
+        "source": "Kassandra",
+        "location": "Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Freedom Isn't Free''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra followed [[Agapios]]' advice and met with him at the [[Slave Market]] to follow on the leads he had on [[The Dagger]].",
+    "Section_Dialogue": "Kassandra entered the Slave Market and overheard traffickers promoting their [[human]] stock.\n*'''Civilian 1:''' ''These slaves are local\u2014straight from [[Eretria]]! They're experienced workers. formerly part of the rebuild happening right now. They could be yours! Don't let their skills go to waste! We start the bidding at 500 [[drachma]]e per slave!''\n*'''Civilian 2:''' ''500 drachmae!''\n*'''Civilian 3:''' ''510!''\n*'''Civilian 4:''' ''515!''\n*'''Civilian 1:''' ''Please, please, these aren't legless [[goat]]s\u2014these are strong, educated, and quite willing workers.''\n*'''Civilian 5:''' ''520.''\n*'''Civilian 1:''' Sold!\n*'''Civilian 6:''' ''Do these look like'' [[Pephka]]n ''slaves to you?! 250 drachmae, minimum.''\n*'''Civilian 7:''' ''But can they read? Write?''\n*'''Civilian 6:''' ''Well, uh, one can!''\n*'''Civilian 7:''' ''Really?''\n*'''Civilian 6:''' ''...Yes!''\n*'''Civilian 7:''' ''300 drachmae for the lot''\n*'''Civilian 6:''' ''Sold!''\n*'''Civilian 8:''' ''You're busy people, doing your best to keep up in today's relentless world. With a slave to call your own, you'll have the advantage you need to get ahead!''\n*'''Civilian 9:''' ''Not only is life easier and safer with a slave, it's'' more rewarding''! You're not just purchasing highly skilled workers, you're purchasing'' family''!''\n*'''Civilian 10:''' ''Surely they're worth 1,500 drachmae!''\n*'''Civilian 11:''' ''...1,200?''\n*'''Civilian 10:''' ''Sir, this is a set\u2014you get husband and wife together!''\n*'''Civilian 11:''' ''1,250.''\n*'''Civilian 10:''' ''Deal!''\nAt the back of the market, she saw Agapios and his master poring over documents on a table set up under a pavilion.\n*'''Agapios:''' ''No, no, no, this can't\u2014how is this possible?!''\n*'''[[Magistrate of Chalkis|Magistrate]]:''' ''Agapios, what's wrong? What have you found?''\n*'''Agapios:''' ''Master, it's a name. Written in the records over and over again. The name of the man leading The Dagger. The [[Neritos|Kingfisher]].''\n<tabber>\n|-|Bring the Kingfisher to justice.=\n*'''Kassandra:''' ''Once you know the Kingfisher's real name, bring him to a court of law. he and The Dagger have wounded [[Euboea]]\u2014Euboea should have a chance to decide his fate.''\n|-|Gut him.=\n*'''Kassandra:''' ''You should tear this Kingfisher open with his own blades and hang the corpse as a warning to any who would dare cross Euboea.''\n*'''Magistrate:''' ''Typical ''[[Mercenary|misthios]]'' thinking. It's not that simple.''\n</tabber>\n*'''Magistrate:''' ''Agapios, tell her.''\n*'''Agapios:''' ''When we were young, when we'd play, I was the Robin, and the Kingfisher... was my brother. But he died, he-he... should be dead. I mourned him. I made him a grave! Please tell me he's not one of them. I beg you, tell me my brother's not a Dagger!''\n<tabber>\n|-|You know your brother best.=\n*'''Kassandra:''' ''You know your brother better than these records. If you believe this Kingfisher isn't him, then you're right.''\n*'''Agapios:''' ''Thank you, yes. The boy I knew\u2014there's no way he could be involved in this.''\n|-|The evidence doesn't lie.=\n*'''Kassandra:''' ''Your brother is likely involved in this, Agapios. If he is the Kingfisher, he's working with The Dagger.''\n*'''Agapios:''' ''No. That's not the boy I knew. He protected me, saved me. He's\u2014whoever this Kingfisher is, it can't be my brother.''\n</tabber>\n(If \"How do you know your brother died?\" is chosen)\n*'''Kassandra:''' ''When your brother died, did you... did you see his body?''\n*'''Agapios:''' ''No, no body at all. No sign, no word, nothing. After'' mater ''died,'' pater ''was... not as fit to feed us as he once was, so my brother made sure we never went hungry. He would [[fish]], every day. Until he didn't return.''\n(\"Tell me your brother's name.\")\n*'''Kassandra:''' ''Your brother can't have been born the \"Kingfisher.\"''\n*'''Agapios:''' ''Of course he wasn't! Neritos. His name was Neritos. Older than me\u2014More trouble than me, too. Fighting, stealing\u2014But he always looked out for me.''\n[[File:ACOD-FreedomIsntFree-02.jpg|thumb|250px|The Magistrate talks to Agapios]]\n*'''Magistrate:''' ''Nothing is more important to Euboea's survival than stopping The Dagger. I'm sorry, old friend\u2014the Kingfisher must be dealt with, whether he's your brother or not.''\n*'''Agapios:''' ''I\u2014yes, master. I understand.''\nThe magistrate left.\n*'''Agapios:''' ''Please'' [[Mercenary|misthios]]'', help me uncover the Kingfisher's true identity. We can clear my brother's name and stop The Dagger. Euboea would be in your debt\u2014more in your debt. The Magistrate's treasury runs deep... Your reward would not be small.''\n(Accept \u2013 \"I'll help you\".)\n*'''Kassandra:''' ''Whatever it takes, I'm in. Family can be... [[Alexios|complicated]]. We'll clear your brother's name and save all Euboea while we're at it.''\n*'''Agapios:''' ''I know a farmer who's had dealings with The Dagger's inner circle. If anyone's seen the Kingfisher's true face, it's him.''\n*'''Kassandra:''' ''I should pay him a visit. Any other leads?''\n*'''Agapios:''' ''There's a [[Smuggler's Shipwreck|shipwreck]] along Euboea's southern coast, and the [[Amphitheater, Chalkis City|theater]] in [[Chalkis City]] has been spreading The Dagger's lies.''\n(If \"How will a [[shipwreck]] help us?\" is chosen.)\n*'''Kassandra:''' ''We're in a [[Peloponnesian War|war]], [[ship]]s are sunk daily. Why does this ship matter?''\n*'''Agapios:''' ''Because this ship appears to belong to The Dagger. A [[Slavery|slave]] I trust waits by a temple above the ruins in [[Eretria]]. Speak with her to learn more.''\n(If the farmer had already been encountered separately from Agapios' quest, the dialogue option changes.)\n<tabber>\nWhat can you tell me about the farmer?=\n*'''Kassandra:''' ''You said you know a farmer who's had dealings with The Dagger. Maybe I could beat some information out of him...''\n*'''Agapios:''' ''Ha! No, no, he wasn't friends with them\u2014he was targeted by them! He's rich\u2014or he was. Anytime someone in The Dagger needed to line their tunic with [[drachma]]e, they'd visit him.''\n*'''Kassandra:''' ''Then he may know the Kingfisher's true identity.''\n*'''Agapios:''' ''Which would clear my brother's name.''\n|-|Why does your farmer sound familiar?=\n*'''Kassandra:''' ''A farmer who's had dealings with The Dagger... I've met your farmer! He didn't know anything important.''\n*'''Agapios:''' ''Did you try mentioning my name?''\n*'''Kassandra:''' ''I didn't know you were famous, Agapios.''\n*'''Agapios:''' ''I'm not saying I'm famous, but in certain circles, well... My name will open doors.''\n</tabber>\n(If \"What can you tell me about the theater?\" is chosen.)\n*'''Kassandra:''' ''You mentioned... an evil theater?''\n*'''Agapios:''' ''The theater in Chalkis City is a more potent weapon than you realize,'' misthios''. The Dagger use propaganda to poison the minds of Euboeans. See what you can learn there.''\n[[File:ACOD-FreedomIsntFree-03.jpg|thumb|250px|Agapios informs Kassandra of possible leads]]\n(If \"How do you know all this?\" is chosen.)\n*'''Kassandra:''' ''You seem well connected. How is that?''\n*'''Agapios:''' ''For a slave, you mean? We're not without eyes and ears,'' misthios''. We see much, and we share it, slave to slave. Leads, warnings, anything that might help us survive all the way from today... to tomorrow.''\n(Leave \u2013 \"I've heard enough.\")\n*'''Kassandra:''' ''I have enough to go on. And the Kingfisher, if I discover he ''is'' your brother, if he is the man behind The Dagger...''\n*'''Agapios:''' ''He won't be. Return to me when you've learned all you can.''\nBefore leaving, Kassandra spoke to Agapios once more.\n*'''Agapios:''' ''Have you found what we need to prove my brother's innocence and stop The Dagger?''\n*'''Kassandra:''' ''Not yet.''\n*'''Agapios:''' ''The Dagger works in the shadows\u2014we mustn't make a move until we've learned everything we can. Is there anything else I can tell you?''\n*'''Kassandra:''' ''I've heard enough. I'll return once I've uncovered all I can.''\nKassandra departed and sought out Agapios' contacts, eventually uncovering a clue about The Dagger from each of them.\n*'''Kassandra:''' ''That's the last of Agapios' leads. Better tell him what I've learned. He isn't going to want to hear this.''",
+    "Section_Outcome": "Kassandra sought out Agapios' contacts and after gaining a number of clues from each of them, learned The Dagger was indeed Agapios' brother Neritos, he worshipped the hero [[Achilles]], and he ran his operations from the island of [[Skyros]].",
+    "Section_Behind_the_scenes": "Although Kassandra, and the players by extension, can hear the slave drivers promoting human cargo as prospective clients engage in bidding wars, the market tends to remain empty in open-world exploration. This results in situations where either ambient dialogue triggers despite there being no characters present, or where stages have slaves on them and their drivers beside it, but the slavers hawk wares to nobody.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Agapios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra entered the Slave Market and overheard traffickers promoting their [[human]] stock.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian 1:''' ''These slaves are local\u2014straight from [[Eretria]]! They're experienced workers. formerly part of the rebuild happening right now. They could be yours! Don't let their skills go to waste! We start the bidding at 500 [[drachma]]e per slave!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian 2:''' ''500 drachmae!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Civilian 3:''' ''510!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Civilian 4:''' ''515!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Civilian 1:''' ''Please, please, these aren't legless [[goat]]s\u2014these are strong, educated, and quite willing workers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Civilian 5:''' ''520.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Civilian 1:''' Sold!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Civilian 6:''' ''Do these look like'' [[Pephka]]n ''slaves to you?! 250 drachmae, minimum.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Civilian 7:''' ''But can they read? Write?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Civilian 6:''' ''Well, uh, one can!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "12",
+            "content": "*'''Civilian 7:''' ''Really?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "13",
+            "content": "*'''Civilian 6:''' ''...Yes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "14",
+            "content": "*'''Civilian 7:''' ''300 drachmae for the lot''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "15",
+            "content": "*'''Civilian 6:''' ''Sold!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "16",
+            "content": "*'''Civilian 8:''' ''You're busy people, doing your best to keep up in today's relentless world. With a slave to call your own, you'll have the advantage you need to get ahead!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "17",
+            "content": "*'''Civilian 9:''' ''Not only is life easier and safer with a slave, it's'' more rewarding''! You're not just purchasing highly skilled workers, you're purchasing'' family''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "18",
+            "content": "*'''Civilian 10:''' ''Surely they're worth 1,500 drachmae!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "19",
+            "content": "*'''Civilian 11:''' ''...1,200?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "20",
+            "content": "*'''Civilian 10:''' ''Sir, this is a set\u2014you get husband and wife together!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "21",
+            "content": "*'''Civilian 11:''' ''1,250.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "22",
+            "content": "*'''Civilian 10:''' ''Deal!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "23",
+            "content": "At the back of the market, she saw Agapios and his master poring over documents on a table set up under a pavilion.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "24",
+            "content": "*'''Agapios:''' ''No, no, no, this can't\u2014how is this possible?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "25",
+            "content": "*'''[[Magistrate of Chalkis|Magistrate]]:''' ''Agapios, what's wrong? What have you found?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "26",
+            "content": "*'''Agapios:''' ''Master, it's a name. Written in the records over and over again. The name of the man leading The Dagger. The [[Neritos|Kingfisher]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "27",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "28",
+            "content": "|-|Bring the Kingfisher to justice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Once you know the Kingfisher's real name, bring him to a court of law. he and The Dagger have wounded [[Euboea]]\u2014Euboea should have a chance to decide his fate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "30",
+            "content": "|-|Gut him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''You should tear this Kingfisher open with his own blades and hang the corpse as a warning to any who would dare cross Euboea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "32",
+            "content": "*'''Magistrate:''' ''Typical ''[[Mercenary|misthios]]'' thinking. It's not that simple.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "33",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D28",
+            "global_id": "34",
+            "content": "*'''Magistrate:''' ''Agapios, tell her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "35",
+            "content": "*'''Agapios:''' ''When we were young, when we'd play, I was the Robin, and the Kingfisher... was my brother. But he died, he-he... should be dead. I mourned him. I made him a grave! Please tell me he's not one of them. I beg you, tell me my brother's not a Dagger!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "36",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "37",
+            "content": "|-|You know your brother best.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''You know your brother better than these records. If you believe this Kingfisher isn't him, then you're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "39",
+            "content": "*'''Agapios:''' ''Thank you, yes. The boy I knew\u2014there's no way he could be involved in this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "40",
+            "content": "|-|The evidence doesn't lie.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Your brother is likely involved in this, Agapios. If he is the Kingfisher, he's working with The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "42",
+            "content": "*'''Agapios:''' ''No. That's not the boy I knew. He protected me, saved me. He's\u2014whoever this Kingfisher is, it can't be my brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "43",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "44",
+            "content": "(If \"How do you know your brother died?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D34",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''When your brother died, did you... did you see his body?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "46",
+            "content": "*'''Agapios:''' ''No, no body at all. No sign, no word, nothing. After'' mater ''died,'' pater ''was... not as fit to feed us as he once was, so my brother made sure we never went hungry. He would [[fish]], every day. Until he didn't return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "47",
+            "content": "(\"Tell me your brother's name.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Your brother can't have been born the \"Kingfisher.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "49",
+            "content": "*'''Agapios:''' ''Of course he wasn't! Neritos. His name was Neritos. Older than me\u2014More trouble than me, too. Fighting, stealing\u2014But he always looked out for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "50",
+            "content": "[[File:ACOD-FreedomIsntFree-02.jpg|thumb|250px|The Magistrate talks to Agapios]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D38",
+            "global_id": "51",
+            "content": "*'''Magistrate:''' ''Nothing is more important to Euboea's survival than stopping The Dagger. I'm sorry, old friend\u2014the Kingfisher must be dealt with, whether he's your brother or not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "52",
+            "content": "*'''Agapios:''' ''I\u2014yes, master. I understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "53",
+            "content": "The magistrate left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "54",
+            "content": "*'''Agapios:''' ''Please'' [[Mercenary|misthios]]'', help me uncover the Kingfisher's true identity. We can clear my brother's name and stop The Dagger. Euboea would be in your debt\u2014more in your debt. The Magistrate's treasury runs deep... Your reward would not be small.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "55",
+            "content": "(Accept \u2013 \"I'll help you\".)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Whatever it takes, I'm in. Family can be... [[Alexios|complicated]]. We'll clear your brother's name and save all Euboea while we're at it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "57",
+            "content": "*'''Agapios:''' ''I know a farmer who's had dealings with The Dagger's inner circle. If anyone's seen the Kingfisher's true face, it's him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I should pay him a visit. Any other leads?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "59",
+            "content": "*'''Agapios:''' ''There's a [[Smuggler's Shipwreck|shipwreck]] along Euboea's southern coast, and the [[Amphitheater, Chalkis City|theater]] in [[Chalkis City]] has been spreading The Dagger's lies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "60",
+            "content": "(If \"How will a [[shipwreck]] help us?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D45",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''We're in a [[Peloponnesian War|war]], [[ship]]s are sunk daily. Why does this ship matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "62",
+            "content": "*'''Agapios:''' ''Because this ship appears to belong to The Dagger. A [[Slavery|slave]] I trust waits by a temple above the ruins in [[Eretria]]. Speak with her to learn more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "63",
+            "content": "(If the farmer had already been encountered separately from Agapios' quest, the dialogue option changes.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TS3",
+            "global_id": "64",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "65",
+            "content": "What can you tell me about the farmer?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''You said you know a farmer who's had dealings with The Dagger. Maybe I could beat some information out of him...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "67",
+            "content": "*'''Agapios:''' ''Ha! No, no, he wasn't friends with them\u2014he was targeted by them! He's rich\u2014or he was. Anytime someone in The Dagger needed to line their tunic with [[drachma]]e, they'd visit him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Then he may know the Kingfisher's true identity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "69",
+            "content": "*'''Agapios:''' ''Which would clear my brother's name.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "70",
+            "content": "|-|Why does your farmer sound familiar?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''A farmer who's had dealings with The Dagger... I've met your farmer! He didn't know anything important.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "72",
+            "content": "*'''Agapios:''' ''Did you try mentioning my name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I didn't know you were famous, Agapios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "74",
+            "content": "*'''Agapios:''' ''I'm not saying I'm famous, but in certain circles, well... My name will open doors.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "75",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C3",
+            "global_id": "76",
+            "content": "(If \"What can you tell me about the theater?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D55",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''You mentioned... an evil theater?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "78",
+            "content": "*'''Agapios:''' ''The theater in Chalkis City is a more potent weapon than you realize,'' misthios''. The Dagger use propaganda to poison the minds of Euboeans. See what you can learn there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "79",
+            "content": "[[File:ACOD-FreedomIsntFree-03.jpg|thumb|250px|Agapios informs Kassandra of possible leads]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C4",
+            "global_id": "80",
+            "content": "(If \"How do you know all this?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D57",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''You seem well connected. How is that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "82",
+            "content": "*'''Agapios:''' ''For a slave, you mean? We're not without eyes and ears,'' misthios''. We see much, and we share it, slave to slave. Leads, warnings, anything that might help us survive all the way from today... to tomorrow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "83",
+            "content": "(Leave \u2013 \"I've heard enough.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D59",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''I have enough to go on. And the Kingfisher, if I discover he ''is'' your brother, if he is the man behind The Dagger...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "85",
+            "content": "*'''Agapios:''' ''He won't be. Return to me when you've learned all you can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "86",
+            "content": "Before leaving, Kassandra spoke to Agapios once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "87",
+            "content": "*'''Agapios:''' ''Have you found what we need to prove my brother's innocence and stop The Dagger?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Not yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "89",
+            "content": "*'''Agapios:''' ''The Dagger works in the shadows\u2014we mustn't make a move until we've learned everything we can. Is there anything else I can tell you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I've heard enough. I'll return once I've uncovered all I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "91",
+            "content": "Kassandra departed and sought out Agapios' contacts, eventually uncovering a clue about The Dagger from each of them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''That's the last of Agapios' leads. Better tell him what I've learned. He isn't going to want to hear this.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

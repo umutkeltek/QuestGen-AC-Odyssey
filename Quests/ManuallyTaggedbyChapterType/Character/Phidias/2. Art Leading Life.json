@@ -1,0 +1,40 @@
+{
+    "QuestName": "Art Leading Life",
+    "QuestID": "225008",
+    "Revision": {
+        "id": "1047477",
+        "parentid": "996343",
+        "timestamp": "2023-06-13T19:13:16Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047477",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "j00tp4pc23yf1d30no08n2h9bufkr99"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Art Leading Life 1.png",
+        "description": "'Phidias had decoded the secret message found near the Statue of Zeus, Olympia|statue of Zeus. It listed the location of three famous statues throughout the Greece|Greek world that needed Kassandra's investigative eye.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Side, Character {{c|Phidias}}",
+        "previous": "The Message, the Stick, and the Artist",
+        "next": "Pieces of the Puzzle",
+        "concurrent": "The Kytheran Statue<br>The Samian Statue<br>The Thasian Statue",
+        "source": "Kassandra",
+        "location": "Sanctuary of Olympia, Elis, Greece",
+        "date": "428 BCE/c. 422 BCE"
+    },
+    "General_Description": "'''Art Leading Life''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Phidias told Kassandra the locations of the statues from the ''{{Wiki|scytale}}''{{'}}s deciphered message to uncover the remaining symbols.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Well, don't keep me waiting. What did it say?''\n*'''Phidias:''' ''It's a list of statues, and... there's something else, but it's not complete.''\n*'''Kassandra:''' ''Do you think the complete message will be revealed once all the statues have been visited?''\n*'''Phidias:''' ''I would assume so.''\n*'''Kassandra:''' ''Someone's gone to a lot of trouble to ensure this remains a secret.''\n*'''Phidias:''' ''Maybe it will reveal the identity of the ones who want to dispose of me... Will you help?''\n(Accept \u2013 \"Tell me more.\")\n*'''Kassandra:''' ''Tell me what I need to do.''\n*'''Phidias:''' ''There are three locations listed. Each region has a statue of some renown placed there.''\n*'''Kassandra:''' ''So it's safe to say that at each of these statues, there'll be a clue''\n*'''Phidias:''' ''Yes, it'll be quite a journey, the statues are scattered all over. There's one near [[Kythera]] , another at [[Thasos]] , and also [[Samos]] .''\n(If \"Tell me about the [[Aphrodite's Beauty|statue]] near Kythera.\" is chosen.)\n*'''Kassandra:''' ''What statue should I be looking for in Kythera?''\n*'''Phidias:''' ''Oh, what an island! The birthplace of the goddess of love. How I wish I could go with you...''\n*'''Kassandra:''' ''It is a fitting place then to look for [[Aphrodite]] .''\n*'''Phidias:''' ''Exactly! The island lies at the southeastern tip of the [[Peloponnese]] . You will find what we seek at Aphrodite's feet.''\n(If \"Tell me about the statue near Thasos.\" is chosen.)\n*'''Kassandra:''' ''What's in Thasos?''\n*'''Phidias:''' ''Ah, a controversial statue indeed. It can only be the one of [[Theagenes of Thasos|Theagenes]] from this northern isle.''\n*'''Kassandra:''' ''Theagenes?''\n*'''Phidias:''' ''The [[Olympic Games|Olympic]] hero! It's even rumored that [[Herakles]] himself was his father. He was exquisitely immortalized by the sculptor [[Glaukias of Aegina]] .''\n(If \"Tell me about the statue near Samos.\" is chosen.)\n*'''Kassandra:''' ''What statue should I seek in Samos?''\n*'''Phidias:''' ''Well, it's not exactly Samos or [[Lesbos]] , but a [[Island of Triton|small island]] nestled between. In the bosom of the ocean, one might say.''\nKassandra gets slightly impatient.\n*'''Kassandra:''' ''Stick to the statue. What is it?''\n*'''Phidias:''' ''Why [[Poseidon]], of course! It is as if you are watching the god himself holding back the waves.''\n*'''Kassandra:''' ''I should be on my way. This will take some time.''\n*'''Phidias:''' ''Of course, but I am excited to see where this will lead.''\n*'''Kassandra:''' ''As am I. Stay safe, Phidias.''\n*'''Phidias:''' ''You too, and return to me as soon as you have all the clues.''\n*'''Kassandra:''' ''Don't worry, I will.''\nKassandra left the [[Phidias' Workshop, Olympia|workshop]] and prepared for her journey.\n*'''Kassandra:''' ''This won't be an easy task, but whatever the messages reveal must be important...''\nAfter long years reuniting her family and visiting the places Phidias had indicated, she eventually got all the symbols and returned to the workshop.",
+    "Section_Outcome": "Looking to decipher the rest of the cryptic intended for Phidias, Kassandra tried to help\u00a0him by acquiring the other symbols all across the Greek islands. However, when she returned, she found him murdered by a marble block he started working on.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

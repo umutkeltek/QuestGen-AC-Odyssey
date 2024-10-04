@@ -1,0 +1,384 @@
+{
+    "Quest_Name": "The Heir of Memories",
+    "Quest_ID": "229543",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Heir of Memories Memory Screenshot 01.png",
+        "description": "'A small, cryptic note left to Kassandra contained more questions than answers. To Layla Hassan|whom was she meant to pledge herself? And for that matter, why?'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "next": "Finding Theras",
+        "source": "Kassandra, Layla Hassan",
+        "location": "Island of Triton|Island of Triton, Greece<br />Gateway to the Lost City, Greece",
+        "date": "c. 422 BCE<br />2018"
+    },
+    "General_Description": "'''The Heir of Memories''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with the [[Aletheia|contact]] on the [[Island of Triton|Island]] of [[Triton]].",
+    "Section_Dialogue": "After receiving a cryptic note, Kassandra travelled to the island south of [[Chios]]. Arriving on the island, she saw a strange figure near the giant statue of [[Poseidon]].\n*'''Aletheia:''' ''Keeper. You came.''\n*'''Kassandra:''' ''That's... Am I seeing things?''\nKassandra approached the figure.\n*'''Aletheia:''' ''Keeper. You have come far to meet me here.''\n*'''Kassandra:''' ''Keeper? My name is Kassandra.''\n*'''Aletheia:''' ''Names changes, but this task is eternal. You are the Keeper, she who keeps the [[Great Seal to Atlantis|Great Seal]] closed and the [[Staff of Hermes Trismegistus|Staff]] of [[Hermes Trismegistus]] safe.''\n\n<tabber>\n|-|I choose my own tasks.=\n*'''Kassandra:''' ''Any \"tasks\" I perform, I decide. Now who are you?''\n*'''Aletheia:''' ''I am called many things, but you can tell me, Aletheia. With the Staff in your hands, we are now entwined.''\n|-|I recognize your voice.=\n*'''Kassandra:''' ''Your voice. I heard it in [[Atlantis]].''\n*'''Aletheia:''' ''You remember. My name is Aletheia. With the Staff in your hands, we are now entwined.''\n|-|Tell me more.=\n*'''Kassandra:''' ''Tell me more about this task.''\n*'''Aletheia:''' ''To be entwined with mine. I've been called by many names, but you may call me Aletheia.''\n</tabber>\n*'''Kassandra:''' ''Entwined... how?''\n*'''Aletheia:''' ''I can now present myself to you in a form that you recognize. You must deliver me to the [[Layla Hassan|Heir of Memories]]. Even now, she watches us. When I speak to you, I speak through you to her.''\n\n<tabber>\n|-|I don't understand.=\n*'''Kassandra:''' ''None of this makes any sense, Aletheia.''\n*'''Aletheia:''' ''It will. In Atlantis, the Great Seal hid itself from [[Pythagoras]]. It wants to be opened, but not by him. Your task is to prepare the Heir of Memories to open it. Pledge yourself.''\n|-|I think I understand.=\n*'''Kassandra:''' ''So, I'm supposed to hold the Staff until this \"Heir\" person takes it from me. What will happen to me?''\n*'''Aletheia:''' ''What happens to all of us. Then she will open the Great Seal to Atlantis. It longs to be opened. Your task is to be the Keeper until that time. Pledge yourself.''\n</tabber>\n(If \"Where is the Heir of Memories?\" is chosen.)\n*'''Kassandra:''' ''Where is this Heir?''\n*'''Aletheia:''' ''Now where, but [[Modern times|when]]. She is yet to be, but even still, she is here watching us now.''\n\n(If \"I'll keep the staff for the Heir.\" is chosen.)\n*'''Kassandra:''' ''Fine. I pledge to keep the Staff until the Heir of Memories, whoever that is, is ready to take it.''\n*'''Aletheia:''' ''Keeper, our task is to guide the Heir of Memories to the symbols. A man called [[Theras]] knows of their whereabouts.''\n*'''Kassandra:''' ''Theras... The guy who helped get [[Phidias]] out of [[Athens]]? Is that why you've brought me back to this place?''\n*'''Aletheia:''' ''Here, the role of the Keeper bound itself to you, though you didn't know it yet. Now, to uncover the truth, we must go to Theras.''\n\n(If \"Who is the Heir of Memories?\" is chosen.)\n*'''Kassandra:''' ''How will I know this Heir of Memories when I see her?''\n*'''Aletheia:''' ''She will come to you. The end of your journey is n the Hall of Atlantis, where her true journey begins.''\n\n(If \"Who is the Keeper?\" is chosen.)\n*'''Kassandra:''' ''I don't understand who the \"Keeper\" is.''\n*'''Aletheia:''' ''The Keeper isn't a person, but a task. And it is yours. Pythagoras held the Staff to exploit its power. The Keeper's task is to restrain it and protect it from the hands of corruption until the Heir of Memories appears.''\n\n(If \"What are you?\" is chosen.)\n*'''Kassandra:''' ''Who, or what are you?''\n*'''Aletheia:''' ''I am Aletheia. Pythagoras called my people the Ones Who Came Before, but we are the [[Isu]]. Like you, I invited rebellion into the world, though there complications. I replicated my consciousness in the Staff of Hermes Trismegistus so that I speak with you and the Heir.''\n\n(If \"Where is Theras?\" is chosen.)\n*'''Kassandra:''' ''Theras could be anywhere now.''\n*'''Aletheia:''' ''What I know is that he was brought to [[Seriphos]], but be careful. He went against his will.''\n\n(If \"I'll go find Theras.\" is chosen)\n*'''Kassandra:''' ''I'm going to find Theras. I'm guess you're coming with me?''\n*'''Aletheia:''' ''Our tasks are the same.''",
+    "Section_Outcome": "Kassandra met with Aletheia on the Island of Triton, one of the many [[Isu]], due to Kassandra possessing the Staff of Hermes Trismegistus. Kassandra pledged herself to become the gatekeeper and holding on to the staff for the Heir of Memories.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Heir of Memories",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After receiving a cryptic note, Kassandra travelled to the island south of [[Chios]]. Arriving on the island, she saw a strange figure near the giant statue of [[Poseidon]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Aletheia:''' ''Keeper. You came.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''That's... Am I seeing things?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra approached the figure.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Aletheia:''' ''Keeper. You have come far to meet me here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Keeper? My name is Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Aletheia:''' ''Names changes, but this task is eternal. You are the Keeper, she who keeps the [[Great Seal to Atlantis|Great Seal]] closed and the [[Staff of Hermes Trismegistus|Staff]] of [[Hermes Trismegistus]] safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|I choose my own tasks.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Any \"tasks\" I perform, I decide. Now who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Aletheia:''' ''I am called many things, but you can tell me, Aletheia. With the Staff in your hands, we are now entwined.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|I recognize your voice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Your voice. I heard it in [[Atlantis]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Aletheia:''' ''You remember. My name is Aletheia. With the Staff in your hands, we are now entwined.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "16",
+            "content": "|-|Tell me more.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Tell me more about this task.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Aletheia:''' ''To be entwined with mine. I've been called by many names, but you may call me Aletheia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Entwined... how?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Aletheia:''' ''I can now present myself to you in a form that you recognize. You must deliver me to the [[Layla Hassan|Heir of Memories]]. Even now, she watches us. When I speak to you, I speak through you to her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "23",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "24",
+            "content": "|-|I don't understand.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''None of this makes any sense, Aletheia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Aletheia:''' ''It will. In Atlantis, the Great Seal hid itself from [[Pythagoras]]. It wants to be opened, but not by him. Your task is to prepare the Heir of Memories to open it. Pledge yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "27",
+            "content": "|-|I think I understand.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''So, I'm supposed to hold the Staff until this \"Heir\" person takes it from me. What will happen to me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Aletheia:''' ''What happens to all of us. Then she will open the Great Seal to Atlantis. It longs to be opened. Your task is to be the Keeper until that time. Pledge yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "31",
+            "content": "(If \"Where is the Heir of Memories?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Where is this Heir?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Aletheia:''' ''Now where, but [[Modern times|when]]. She is yet to be, but even still, she is here watching us now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "35",
+            "content": "(If \"I'll keep the staff for the Heir.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Fine. I pledge to keep the Staff until the Heir of Memories, whoever that is, is ready to take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Aletheia:''' ''Keeper, our task is to guide the Heir of Memories to the symbols. A man called [[Theras]] knows of their whereabouts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Theras... The guy who helped get [[Phidias]] out of [[Athens]]? Is that why you've brought me back to this place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Aletheia:''' ''Here, the role of the Keeper bound itself to you, though you didn't know it yet. Now, to uncover the truth, we must go to Theras.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "41",
+            "content": "(If \"Who is the Heir of Memories?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''How will I know this Heir of Memories when I see her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Aletheia:''' ''She will come to you. The end of your journey is n the Hall of Atlantis, where her true journey begins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C4",
+            "global_id": "45",
+            "content": "(If \"Who is the Keeper?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I don't understand who the \"Keeper\" is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "*'''Aletheia:''' ''The Keeper isn't a person, but a task. And it is yours. Pythagoras held the Staff to exploit its power. The Keeper's task is to restrain it and protect it from the hands of corruption until the Heir of Memories appears.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C5",
+            "global_id": "49",
+            "content": "(If \"What are you?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Who, or what are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "51",
+            "content": "*'''Aletheia:''' ''I am Aletheia. Pythagoras called my people the Ones Who Came Before, but we are the [[Isu]]. Like you, I invited rebellion into the world, though there complications. I replicated my consciousness in the Staff of Hermes Trismegistus so that I speak with you and the Heir.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "52",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C6",
+            "global_id": "53",
+            "content": "(If \"Where is Theras?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Theras could be anywhere now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "55",
+            "content": "*'''Aletheia:''' ''What I know is that he was brought to [[Seriphos]], but be careful. He went against his will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C7",
+            "global_id": "57",
+            "content": "(If \"I'll go find Theras.\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D32",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I'm going to find Theras. I'm guess you're coming with me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "59",
+            "content": "*'''Aletheia:''' ''Our tasks are the same.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

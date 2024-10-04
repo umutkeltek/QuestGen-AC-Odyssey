@@ -1,0 +1,43 @@
+{
+    "QuestName": "Spy vs. Friend",
+    "QuestID": "236793",
+    "Revision": {
+        "id": "1047564",
+        "parentid": "845888",
+        "timestamp": "2023-06-13T19:33:31Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047564",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "m7egio5imobexxsu4clrlahxkow0zui"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Spy vs. Friend",
+        "image": null,
+        "description": "'An area of burnt forest took on brief strategic importance when Spartan spies, Athens|Athenian spies, and Mercenary|mercenaries all occupied it at the same time.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Spy vs. Friend''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[Sparta]]n spy sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''What's the difference between an [[Athens|Athenian]] sword and a Spartan sword? The Spartan sword has been used.''\nShe sought out the spy and addressed him.\n*'''Kassandra:''' ''I saw the note you posted. What's the matter?''\n*'''Man:''' ''Be warned. Athens has spies in these woods.''\n*'''Kassandra:''' ''So does Sparta, it seems.''\n*'''Man:''' ''True. But those Athenians have a battle plan that we can't let get out.''\n<tabber>\n|-|You want it brought back to you.=\n*'''Kassandra:''' ''And you want me to get it from the Athenians.''\n*'''Man:''' ''That's exactly it. Will you do it for me?''\n|-|You want all the Athenians dead.=\n</tabber>\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''All right. I'll do it.''\n*'''Man:''' ''Thank you. This must be done carefully.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra did as asked, and then returned to the spy.\n*'''Man:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Man:''' ''Sparta owes you a great deal. Take this.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

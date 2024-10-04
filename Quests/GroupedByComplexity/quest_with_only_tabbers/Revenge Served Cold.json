@@ -1,0 +1,204 @@
+{
+    "Quest_Name": "Revenge Served Cold",
+    "Quest_ID": "224111",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Revenge Served Cold",
+        "image": "ACOd-RevengeServedCold-meeting.jpg",
+        "description": "'In Gortyn, Kassandra came across grieving families who'd fallen victim to the Followers of Ares. Anguished, they beseeched Kassandra to avenge their dead.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "source": "Kassandra",
+        "location": "Gortyn, Messara, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Revenge Served Cold''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While visiting [[Gortyn]], Kassandra's attention was drawn by a [[Family Leader|woman]] outside the [[Temple of Athena Poliouchos]].",
+    "Section_Dialogue": "As Kassandra approached the temple on the akropolis of Gortyn, she heard a woman call out.\n*'''Woman:''' ''Help! Won't somebody help me?''\nIntrigued, she addressed the woman.\n*'''Kassandra:''' ''What do you need?''\n*'''Woman:''' ''Peace of mind.<br>And ''revenge.<br>''Can you bring me this, ''[[Mercenary|misthios]]''? We will give you all the [[drachma]]e we have.''\n(Accept - I'll hear you out.)\n*'''Kassandra:''' ''I need more information first.''\n*'''Woman:''' ''The [[Followers of Ares]] are burning our villages and claiming our families for their sacrifices.''\n*'''Kassandra:''' ''Those ''mal\u00e1kes'' are making trouble all over the [[Greece|Greek]] world.''\n*'''Woman:''' ''That's why I want you to make them suffer like we have - so that our living can find peace, and our dead can be -<br>Be'' avenged.\n(Accept - I'll help you.)\n*'''Kassandra:''' ''My spear is yours.''\n*'''Woman:''' ''Thank you, ''misthios''. You have no idea how much this means to us.''\n*'''Kassandra:''' ''I'll need to know where the Followers are hiding.''\n*'''Woman:''' ''The Followers of Ares live in [[Cave of Rhea|caves]] [[Gerontospilios|among]] the mountain ranges of [[Zeus' Playground]].''\n*'''Kassandra:''' ''I'll flush them out.''\nKassandra left the woman and the Messaran families she was the spokesperson to, and sought out the Followers of Ares. She also freed the Messarans in their clutches before returning to the woman, who was praying to [[Athena]] within the temple.\n*'''Kassandra:''' ''The Followers of Ares are with [[Hades]] now.''\n*'''Woman:''' ''Thank you, ''misthios''. How can we repay you?''\n\n<tabber>\n|-|I'm the expensive option.=\n*'''Kassandra:''' ''Nothing is free in this world, especially my time.''\n*'''Woman:''' ''I understand ''misthios'', I only wish we could give you more.''\n|-|Justice is free.=\n*'''Kassandra:''' ''You can't put a price on justice. Those men deserved the end they got.''\n*'''Woman:''' ''You gave us something drachmae can't buy... peace. For that we'll be forever grateful.<br>But we cannot leave you without showing our gratitude. Please take [[Belt of Ares (quest reward)|this]]. I have no need for it any longer.''\n</tabber>\nRewarded, Kassandra left the woman and the Messaran families.",
+    "Section_Trivia": "*The game will count Followers of Ares already slain in Messara before the quest is active. However, there is no special dialogue for having already killed 10 prior to speaking to the quest giver.\n*The choice at the end only affects the amount of drachmae received; the belt is identical in both.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Messara",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As Kassandra approached the temple on the akropolis of Gortyn, she heard a woman call out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Woman:''' ''Help! Won't somebody help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Intrigued, she addressed the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''Peace of mind.<br>And ''revenge.<br>''Can you bring me this, ''[[Mercenary|misthios]]''? We will give you all the [[drachma]]e we have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "6",
+            "content": "(Accept - I'll hear you out.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I need more information first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Woman:''' ''The [[Followers of Ares]] are burning our villages and claiming our families for their sacrifices.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Those ''mal\u00e1kes'' are making trouble all over the [[Greece|Greek]] world.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Woman:''' ''That's why I want you to make them suffer like we have - so that our living can find peace, and our dead can be -<br>Be'' avenged.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "11",
+            "content": "(Accept - I'll help you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''My spear is yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Woman:''' ''Thank you, ''misthios''. You have no idea how much this means to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'll need to know where the Followers are hiding.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''The Followers of Ares live in [[Cave of Rhea|caves]] [[Gerontospilios|among]] the mountain ranges of [[Zeus' Playground]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'll flush them out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "17",
+            "content": "Kassandra left the woman and the Messaran families she was the spokesperson to, and sought out the Followers of Ares. She also freed the Messarans in their clutches before returning to the woman, who was praying to [[Athena]] within the temple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''The Followers of Ares are with [[Hades]] now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Woman:''' ''Thank you, ''misthios''. How can we repay you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "22",
+            "content": "|-|I'm the expensive option.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Nothing is free in this world, especially my time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Woman:''' ''I understand ''misthios'', I only wish we could give you more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "25",
+            "content": "|-|Justice is free.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''You can't put a price on justice. Those men deserved the end they got.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Woman:''' ''You gave us something drachmae can't buy... peace. For that we'll be forever grateful.<br>But we cannot leave you without showing our gratitude. Please take [[Belt of Ares (quest reward)|this]]. I have no need for it any longer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "28",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "29",
+            "content": "Rewarded, Kassandra left the woman and the Messaran families.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

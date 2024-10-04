@@ -1,0 +1,44 @@
+{
+    "QuestName": "Feverish Deserters",
+    "QuestID": "236795",
+    "Revision": {
+        "id": "1047529",
+        "parentid": "845886",
+        "timestamp": "2023-06-13T19:27:40Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047529",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "9csvkqs4ld7tcg85j5igp7w7bvks5yo"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Feverish Deserters",
+        "image": null,
+        "description": "'An herbalist, anxious for the feverish deserters she had seen, claimed they would infect all in their path if they did not receive the medicine she had made.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Feverish Deserters''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An herbalist sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Deserting soldiers are spreading sickness in their path. They may not realize it. Please hurry, I need a mercenary quickly.''\nShe sought out the herbalist and addressed her.\n*'''Kassandra:''' ''I saw the message you left on the board. What's happening?''\n*'''Woman:''' ''A group of [[Sparta]]n deserters just passed through. They were feverish, probably contagious. I tried to help them, but they wouldn't stop.''\n*'''Kassandra:''' ''They sound like fools. But then again, they are deserters.''\n*'''Woman:''' ''I made up some ''[[St. John's wort|hypereikon]]'' extract to treat them. But it may already be too late.''\n*'''Kassandra:''' ''Too late?''\n*'''Woman:''' ''If they see reason and take the medicine in time, they might live.''\n*'''Kassandra:''' ''But if they don't, they're in for agonizing deaths.''\n*'''Woman:''' ''Yes. Them and anyone in the next town where they take leave.''\n*'''Kassandra:''' ''You want me to kill the Spartan deserters for their dishonor.''\n*'''Woman:''' ''Are you up for it?''\n(Accept - Those cowards are mine.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Thank you, ''misthios.\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra sought out the deserters and slew them before returning to the herbalist.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''I knew the gods intended us to meet. Please, take this.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the herbalist.",
+    "Section_Trivia": "*It is possible that this quest has Kassandra delivering the medicine to the soldiers/their commander, instead of killing the deserters.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,42 @@
+{
+    "QuestName": "A Full Bladder",
+    "QuestID": "223501",
+    "Revision": {
+        "id": "1047531",
+        "parentid": "961873",
+        "timestamp": "2023-06-13T19:28:00Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047531",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "73la4ml716nd2oq7n2tst8csh3xoe9q"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "A Full Bladder",
+        "image": null,
+        "description": "'Spies were said to hide messages inside unusual objects, including the dried bladder of a bear. A spy sought more dead bears for her messages.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''A Full Bladder''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A spy for the [[Athens|Athenians]] required the aid of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra sought out the spy and addressed her.\n*'''Kassandra:''' ''You're the one who left the message on the [[Message board|board]]. What's going on?''\n*'''Woman:''' ''I have an important message for the Athenian commander\u2026 It's concealed inside a dried [[bear]]'s bladder for complete secrecy.''\n*'''Kassandra:''' ''Why are you hiding the message?''\n*'''Woman:''' ''Because, ''misthios'', the message contains information on the [[Sparta]]ns' movements!<br>Unfortunately, this is my last bear bladder. I'll need more.''\n*'''Kassandra:''' ''Does someone sell them?''\n*'''Woman:''' ''I usually take them from dead bears I find in the forest. But they've been scarce lately, and I need to get this message to the commander.''\n<tabber>\n|-|You need it delivered.=\n*'''Kassandra:''' ''You want me to deliver it to the Athenian commander.''\n*'''Woman:''' ''That's exactly it. Will you do it?''\n|-|You want the bears killed.=\n</tabber>\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Good. Please handle this... delicately.''\n*'''Kassandra:''' ''We're done here.''\nKassandra left the woman, and found the commander.\n*'''Kassandra:''' ''A woman told me you\u2019d be expecting this.''\n*'''Man:''' ''Thank you, ''misthios''! Here, this is for you.''",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

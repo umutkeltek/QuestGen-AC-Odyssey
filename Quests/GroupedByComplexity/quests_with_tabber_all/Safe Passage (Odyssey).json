@@ -1,0 +1,684 @@
+{
+    "Quest_Name": "Safe Passage (Odyssey)",
+    "Quest_ID": "226376",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory of Kassandra | the [[Safe Passage | genetic memory]] of Aveline de Grandpr\u00e9"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Safe Passage",
+        "image": "ACOD Safe Passage 4.png",
+        "description": "'With everything in the Tempest's control working against them, Kassandra, Kleta, and Orontas had to find a way to obtain safe passage out of Achaia in the midst of the lockdown.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Main, Support",
+        "previous": "Prodigal",
+        "next": "Calm Before the Storm",
+        "source": "Kassandra",
+        "location": "Achaia, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Safe Passage''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra traveled to [[Pellene]] to meet with [[Orontas]] and reclaim the ships needed to escort the stranded out of Achaia.",
+    "Section_Dialogue": "Kassandra made her way to the dock near the [[Shipwreck Cove]], where some [[civilian]]s were indulging in drink and song.\n*'''Civilian:''' ''Ho-ho-ho, over the [[Aegean Sea|Aegean]] we go!<br>We blubber, and stutter, and jubber until we drown below!''\nOrontas called out to her.\n*'''Orontas:''' Misthios''! Over here.''\nKassandra approached him. They walked towards a finely-dressed man deep in his cups, the shipyard foreman [[Ariston]]. He downed his drink.\n*'''Ariston:''' ''More wine!''\n*'''Orontas:''' ''Here's the man we're looking for, ''misthios''.''\n*'''Ariston:''' Chaire, chaire,'' my friend! I recognize you... I took your ships, didn't I? At the docks?''\nHe laughed it off in a drunken stupor. Kassandra crossed her arms.\n*'''Kassandra:''' ''We've come to get those ships back.''\n*'''Ariston:''' ''Why, would be my first question. But then I realized... I don't really care. Because you're a ''misthios''!''\nHe laughed at his drunken humor once more. Kassandra and Orontas exchanged glances.\n*'''Ariston:''' ''Let bygones be bygones, my friend! We drink! Except for the mercenary.''\nHe leaned closer to them.\n*'''Ariston:''' ''Now, sail away from me. Oh right, you can't!''\nHe laughed.\n\n<tabber>\n|-|I could just take the ships.=\n*'''Kassandra:''' ''It seems like it'd be easier to silence you and your crew, ''then'' take back the ships.''\nOrontas glanced over at her and shook his head disapprovingly.\n*'''Ariston:''' ''See? Your kind is always thirsty for bloodshed.''\n*'''Orontas:''' ''Violence is not always the answer, ''misthios''.''\nAriston became more lucid and leaned over to whisper to Orontas.\n*'''Ariston:''' ''This is why I hate mercenaries. They think violence solves everything.''\n*'''Kassandra:''' ''I can still hear you.''\n*'''Ariston:''' ''Fine. Calm down. If we want to deal, we must do it like civilized individuals.''\n*'''Kassandra:''' ''What do you propose?''\n\n|-|I'm sure we can make a deal.=\n*'''Kassandra:''' ''I think we got off on the wrong foot. I'm sure a smart man like you knows when to make a useful friend. If you help me, I'll help you.''\nOrontas glanced over at her and nodded approvingly. Ariston became slightly more lucid.\n</tabber>\n[[File:ACOD Safe Passage 2.png|thumb|250px|Ariston negotiating a deal]]\n*'''Ariston:''' ''Helping you would cost more than my left arm. If I am to risk incurring the [[Phila|Tempest]]'s wrath, there should be a sizable benefit for me.<br>I heard valuables can be found at Shipwreck Cove, not far from here. Or... I could always use more [[drachma]]e. You can buy wine with drachmae.''\n<tabber>\n|-|I'll pay with drachmae. [50000]=\n*'''Kassandra:''' ''I'd rather not run around. Here's your drachmae.''\nShe handed him a pouch of coins, and Ariston chortled as he accepted it.\n*'''Ariston:''' ''Now we're talking. Make sure it's enough\u2014my friendship doesn't come cheap.''\n\n|-|I'll see what I can do.=\n*'''Kassandra:''' ''I'll take a look around Shipwreck Cove for the valuables.''\n*'''Ariston:''' ''Remember, ''misthios''. I don't take trash.''\nKassandra turned away to hunt for valuables.  Ariston added singing to his drunken stupor.\n*'''Ariston:''' ''I got a lovely lady, but she looks a bit like [[Hades]]! Though her curves are wavy, just like\u2014''\nHe interrupted himself.\n*'''Ariston:''' ''Hey! Where's the wine gone?!''\n[[Ikaros]] set to finding some items of value for Kassandra.<br>\n*'''Kassandra:''' ''There it is!''\n*'''Kassandra:''' ''Found it!''\n*'''Kassandra:''' ''Here it is.''\n*'''Kassandra:''' ''That's what I'm looking for.''\n*'''Kassandra:''' ''I see it.''\nKassandra ran around the beach and swam beneath the waves gathering a sizable collection of valuables.\n*'''Kassandra:''' ''These should be enough.''\nKassandra returned to Orontas and Ariston with her collection.\n*'''Orontas:''' Misthios'', you're back.''\n*'''Ariston:''' ''Do you have the valuables I want?''\n(back to choices, \"I have the valuables\" available)\n|-|I have the valuables.=\n*'''Kassandra:''' ''I found what you wanted at Shipwreck Cove.''\n*'''Ariston:''' ''Splendid! Hand it over.''\nKassandra handed over the trinkets.\n*'''Ariston:''' ''This will do!''\n</tabber>\n*'''Kassandra:''' ''A deal's a deal.''\n*'''Ariston:''' ''I never go back on my word! Only a dishonorable ''mal\u00e1kas'' will break an oath.''\nHe turned his attention to Orontas.\n*'''Ariston:''' ''I'll give you your ships back, but good luck getting past the Tempest. Just take a good look outside at all those wrecks, ''misthios''. Now, if you'll excuse me...''\nAriston took his leave.\n*'''Orontas:''' ''Thanks to you, ''misthios'', we have what we need. Now, we\u2014''\nKleta hurried up to them with urgency in her voice.\n*'''Kleta:''' ''Orontas. Kassandra.''\nShe pointed to the nearby patrol of [[Greece|Greek]] soldiers. They turned to march up the docks. Kassandra drew her [[Spear of Leonidas|spear]] expectantly, but Orontas held out his arm to stop her.\n*'''Greek Soldier:''' Misthios'', no need for bloodshed. I just need you to come quietly, please. Releasing the stranded has angered the Tempest. Someone just needs to take responsibility, and everyone will be fine.''\n[[File:ACOD Safe Passage 5.png|thumb|250px|Orontas surrending himself to the guards]]\n*'''Orontas:''' ''Take me then. They have nothing to do with this. I'm the one you're after.''\nKassandra was upset by Orontas giving himself up. The soldier nodded to him and gestured him to follow. As the soldiers closed guard around Orontas, Kleta and Kassandra approached him.\n*'''Orontas:''' ''We have done enough, there's no need to escalate this further. Promise me that you will see our plan through to the end.''\nKassandra nodded. The soldiers escorted him away without a fight. Kleta and Kassandra looked at each other, then back in Orontas' direction, then they walked to the edge of the dock to observe the shipwrecks.\n*'''Kleta:''' ''Did ''she'' do all this? This destruction... all this ruin... It's painful to watch. It feels like she's becoming someone I don't know.''\n\n<tabber>\n|-|The Tempest is still your daughter.=\n*'''Kassandra:''' ''No matter what happens, blood is blood. She's still your daughter.''\n|-|She is beyond forgiveness.=\n*'''Kassandra:''' ''The Tempest can't be redeemed. Look at the chaos she's caused to Achaia and to you.''\n</tabber>\n*'''Kleta:''' ''Parents always believe in their children, as foolish as that may be.''\n[[File:ACOD Safe Passage 7.png|thumb|250px|Kleta reflecting on her past mistakes with Phila]]\nKleta turned from the water, regretting her past decisions.\n*'''Kleta:''' ''I should have stopped her sooner\u2014stopped her from joining the [[Order of the Ancients|Order]]. I should have...''\nShe began to tear up, and stopped, stepping towards Kassandra.\n*'''Kleta:''' ''When the time comes to face the Tempest, my Phila...''\nShe clasped Kassandra's hands briefly before stepping back.\n*'''Kleta:''' ''What will you do, Kassandra?''\n\n<tabber>\n|-|I'll bring the Tempest back.=\n*'''Kassandra:''' ''I promise, I'll do my best to bring her back.''\n|-|I'll destroy her.=\n*'''Kassandra:''' ''I'm sorry, Kleta. She needs to be dealt with.''\n</tabber>[[File:ACOD Safe Passage 8.png|thumb|250px|Kleta thanking Kassandra before leaving]]\nKleta understood.\n*'''Kleta:''' ''I was so proud of her. I don't think I ever told her that.<br>There are still so many things I wish I had said.''\nShe sobbed, shrugged, then looked at the wrecks of ships anew, composing herself.\n*'''Kleta:''' ''I should go help the rest. We'll meet up in [[Patrai]] when we're ready. Thank you, Kassandra. For everything.''",
+    "Section_Outcome": "Kassandra, Orontas, and Kleta secured the ships they needed to evacuate the stranded, but Tempest's men took Orontas into custody. Kleta and Kassandra were left to secure the evacuation.",
+    "Section_Trivia": "*Although roughly eight collectible quest items become available when choosing to collect valuables, only six are required. All outstanding valuables are unloaded after the sixth item is collected. If players opt to pay in drachmae afterwards, the collected items will be removed from the inventory as soon as the quest flag updates.\n*Due to the mere handful of recordings of flavor dialogue issued in response to tracking down objects of value, some items will share responses.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to the dock near the [[Shipwreck Cove]], where some [[civilian]]s were indulging in drink and song.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''Ho-ho-ho, over the [[Aegean Sea|Aegean]] we go!<br>We blubber, and stutter, and jubber until we drown below!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Orontas called out to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Orontas:''' Misthios''! Over here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra approached him. They walked towards a finely-dressed man deep in his cups, the shipyard foreman [[Ariston]]. He downed his drink.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Ariston:''' ''More wine!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Orontas:''' ''Here's the man we're looking for, ''misthios''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Ariston:''' Chaire, chaire,'' my friend! I recognize you... I took your ships, didn't I? At the docks?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "He laughed it off in a drunken stupor. Kassandra crossed her arms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''We've come to get those ships back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Ariston:''' ''Why, would be my first question. But then I realized... I don't really care. Because you're a ''misthios''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "12",
+            "content": "He laughed at his drunken humor once more. Kassandra and Orontas exchanged glances.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Ariston:''' ''Let bygones be bygones, my friend! We drink! Except for the mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "14",
+            "content": "He leaned closer to them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Ariston:''' ''Now, sail away from me. Oh right, you can't!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "16",
+            "content": "He laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "18",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "19",
+            "content": "|-|I could just take the ships.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It seems like it'd be easier to silence you and your crew, ''then'' take back the ships.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "21",
+            "content": "Orontas glanced over at her and shook his head disapprovingly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Ariston:''' ''See? Your kind is always thirsty for bloodshed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Orontas:''' ''Violence is not always the answer, ''misthios''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "24",
+            "content": "Ariston became more lucid and leaned over to whisper to Orontas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Ariston:''' ''This is why I hate mercenaries. They think violence solves everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I can still hear you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Ariston:''' ''Fine. Calm down. If we want to deal, we must do it like civilized individuals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''What do you propose?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "30",
+            "content": "|-|I'm sure we can make a deal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I think we got off on the wrong foot. I'm sure a smart man like you knows when to make a useful friend. If you help me, I'll help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "32",
+            "content": "Orontas glanced over at her and nodded approvingly. Ariston became slightly more lucid.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "33",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "34",
+            "content": "[[File:ACOD Safe Passage 2.png|thumb|250px|Ariston negotiating a deal]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D18",
+            "global_id": "35",
+            "content": "*'''Ariston:''' ''Helping you would cost more than my left arm. If I am to risk incurring the [[Phila|Tempest]]'s wrath, there should be a sizable benefit for me.<br>I heard valuables can be found at Shipwreck Cove, not far from here. Or... I could always use more [[drachma]]e. You can buy wine with drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "36",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "37",
+            "content": "|-|I'll pay with drachmae. [50000]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'd rather not run around. Here's your drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "39",
+            "content": "She handed him a pouch of coins, and Ariston chortled as he accepted it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "40",
+            "content": "*'''Ariston:''' ''Now we're talking. Make sure it's enough\u2014my friendship doesn't come cheap.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "42",
+            "content": "|-|I'll see what I can do.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I'll take a look around Shipwreck Cove for the valuables.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Ariston:''' ''Remember, ''misthios''. I don't take trash.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "45",
+            "content": "Kassandra turned away to hunt for valuables.  Ariston added singing to his drunken stupor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "46",
+            "content": "*'''Ariston:''' ''I got a lovely lady, but she looks a bit like [[Hades]]! Though her curves are wavy, just like\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "47",
+            "content": "He interrupted himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "48",
+            "content": "*'''Ariston:''' ''Hey! Where's the wine gone?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "49",
+            "content": "[[Ikaros]] set to finding some items of value for Kassandra.<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''There it is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Found it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Here it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''That's what I'm looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I see it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "55",
+            "content": "Kassandra ran around the beach and swam beneath the waves gathering a sizable collection of valuables.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''These should be enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "57",
+            "content": "Kassandra returned to Orontas and Ariston with her collection.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "58",
+            "content": "*'''Orontas:''' Misthios'', you're back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "59",
+            "content": "*'''Ariston:''' ''Do you have the valuables I want?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "60",
+            "content": "(back to choices, \"I have the valuables\" available)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC5",
+            "global_id": "61",
+            "content": "|-|I have the valuables.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I found what you wanted at Shipwreck Cove.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "63",
+            "content": "*'''Ariston:''' ''Splendid! Hand it over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "64",
+            "content": "Kassandra handed over the trinkets.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "65",
+            "content": "*'''Ariston:''' ''This will do!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "66",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D36",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''A deal's a deal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "68",
+            "content": "*'''Ariston:''' ''I never go back on my word! Only a dishonorable ''mal\u00e1kas'' will break an oath.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "69",
+            "content": "He turned his attention to Orontas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "70",
+            "content": "*'''Ariston:''' ''I'll give you your ships back, but good luck getting past the Tempest. Just take a good look outside at all those wrecks, ''misthios''. Now, if you'll excuse me...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "71",
+            "content": "Ariston took his leave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "72",
+            "content": "*'''Orontas:''' ''Thanks to you, ''misthios'', we have what we need. Now, we\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "73",
+            "content": "Kleta hurried up to them with urgency in her voice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "74",
+            "content": "*'''Kleta:''' ''Orontas. Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "75",
+            "content": "She pointed to the nearby patrol of [[Greece|Greek]] soldiers. They turned to march up the docks. Kassandra drew her [[Spear of Leonidas|spear]] expectantly, but Orontas held out his arm to stop her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "76",
+            "content": "*'''Greek Soldier:''' Misthios'', no need for bloodshed. I just need you to come quietly, please. Releasing the stranded has angered the Tempest. Someone just needs to take responsibility, and everyone will be fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "77",
+            "content": "[[File:ACOD Safe Passage 5.png|thumb|250px|Orontas surrending himself to the guards]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D42",
+            "global_id": "78",
+            "content": "*'''Orontas:''' ''Take me then. They have nothing to do with this. I'm the one you're after.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "79",
+            "content": "Kassandra was upset by Orontas giving himself up. The soldier nodded to him and gestured him to follow. As the soldiers closed guard around Orontas, Kleta and Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "80",
+            "content": "*'''Orontas:''' ''We have done enough, there's no need to escalate this further. Promise me that you will see our plan through to the end.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "81",
+            "content": "Kassandra nodded. The soldiers escorted him away without a fight. Kleta and Kassandra looked at each other, then back in Orontas' direction, then they walked to the edge of the dock to observe the shipwrecks.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "82",
+            "content": "*'''Kleta:''' ''Did ''she'' do all this? This destruction... all this ruin... It's painful to watch. It feels like she's becoming someone I don't know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "84",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "85",
+            "content": "|-|The Tempest is still your daughter.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''No matter what happens, blood is blood. She's still your daughter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "87",
+            "content": "|-|She is beyond forgiveness.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''The Tempest can't be redeemed. Look at the chaos she's caused to Achaia and to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "89",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D47",
+            "global_id": "90",
+            "content": "*'''Kleta:''' ''Parents always believe in their children, as foolish as that may be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "91",
+            "content": "[[File:ACOD Safe Passage 7.png|thumb|250px|Kleta reflecting on her past mistakes with Phila]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N24",
+            "global_id": "92",
+            "content": "Kleta turned from the water, regretting her past decisions.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D48",
+            "global_id": "93",
+            "content": "*'''Kleta:''' ''I should have stopped her sooner\u2014stopped her from joining the [[Order of the Ancients|Order]]. I should have...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "94",
+            "content": "She began to tear up, and stopped, stepping towards Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "95",
+            "content": "*'''Kleta:''' ''When the time comes to face the Tempest, my Phila...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "96",
+            "content": "She clasped Kassandra's hands briefly before stepping back.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "97",
+            "content": "*'''Kleta:''' ''What will you do, Kassandra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "98",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "99",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "100",
+            "content": "|-|I'll bring the Tempest back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''I promise, I'll do my best to bring her back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "102",
+            "content": "|-|I'll destroy her.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''I'm sorry, Kleta. She needs to be dealt with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "104",
+            "content": "</tabber>[[File:ACOD Safe Passage 8.png|thumb|250px|Kleta thanking Kassandra before leaving]]",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N27",
+            "global_id": "105",
+            "content": "Kleta understood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "106",
+            "content": "*'''Kleta:''' ''I was so proud of her. I don't think I ever told her that.<br>There are still so many things I wish I had said.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N28",
+            "global_id": "107",
+            "content": "She sobbed, shrugged, then looked at the wrecks of ships anew, composing herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "108",
+            "content": "*'''Kleta:''' ''I should go help the rest. We'll meet up in [[Patrai]] when we're ready. Thank you, Kassandra. For everything.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

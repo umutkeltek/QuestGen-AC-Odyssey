@@ -1,0 +1,1370 @@
+{
+    "Quest_Name": "School of Hard Knocks",
+    "Quest_ID": "225164",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Have You Seen My Mikkos?",
+        "next": "Retribution",
+        "concurrent": "Doctor's Pet<br>Indulging Just a Little",
+        "description": "'Tasked with getting information, Kassandra visited an Olympic Games|Olympic Champion's Gymnasium|gymnasium in Thasos City|Thasos famed for training young athletes.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Mikkos}}",
+        "source": "Kassandra",
+        "location": "Thasos, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''School of Hard Knocks''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra visited the [[Champion's Gymnasium]] in [[Thasos City]] to help [[Mikkos]] gain information.",
+    "Section_Dialogue": "Infront of the gymnasium, Kassandra found a young girl standing in front of two men.\n*'''Kassandra:''' ''Something seems to be going on over there.''\n*'''Student:''' ''We told you, he's not here! Stop coming back! Don't make me punch you!''\n*'''[[Ide (Thasian)|Ide]]:''' ''You wouldn't punch a little girl!''\n*'''Student:''' ''But we can kick you. Don't come here again!''\nKassandra approached the little girl.\n*'''Ide:''' ''Idiots! I'll be back, you can't keep me away forever! I'll find a way in!''\nIde turned around and glanced at Kassandra.\n*'''Ide:''' ''You look strong enough. Can you help me?''\n*'''Kassandra:''' ''Depends on what you need.''\n*'''Ide:''' ''Information! My brother, [[Solon (Thasian)|Solon]], has been missing for weeks! No one listens! They say he ran away! But he wouldn't leave me alone, he wouldn't! He knows I hate being by myself. Anyway, he was last seen training at this school. I'm sure it has something to do with his disappearance! Please can you help me find out what happened to him?''\n(Accept \u2013 I'll investigate.)\n*'''Kassandra:''' ''I'll see what I can find out.''\n*'''Ide:''' ''You're nicer than you look. Thank you!''\n*'''Kassandra:''' ''Don't thank me just yet\u2014my help doesn't come cheap.''\n*'''Ide:''' ''What? You would demand [[drachma]]e from a child?''\n<tabber>\n|-|It's not necessary.=\n*'''Kassandra:''' ''I guess we can work something out.''\n*'''Ide:''' ''I don't have much, but I'll repay you with whatever I have.''\n*'''Kassandra:''' ''That will do.''\n|-|Everything has a price.=\n*'''Kassandra:''' ''I don't discriminate.''\nThe girl spits in anger.\n*'''Ide:''' [[Mercenary|Misthios]]. ''I have some drachmae, but you must first find out what happened.''\n*'''Kassandra:''' ''I'll prepare to be shortchanged.''\n</tabber>\n*'''Ide:''' ''I think the trainer might know about my brother's disappearance, but be careful\u2014rumor has it he can take out a [[Chimera]] with his bare [[fist]]s. Or was it that he ''looks'' like a Chimera with bare firsts? In any case, I'd take caution not to look for a fight.''\n*'''Kassandra:''' ''I don't look for fights, they usually find me.''\n(If \"Why do people train here?\" is chosen.)\n*'''Kassandra:''' ''Why are there so many young athletes training at this school?''\n*'''Ide:''' ''You've never heard of this place? This school is what Thasos is known for! It was founded by [[Theagenes of Thasos|Theageneses]], the famous [[Olympic Games|Olympian]]. Many others like my brother train here in hopes of becoming the next Olympic champion''\n(If \"When did your brother go missing?\" is chosen.)\n*'''Kassandra:''' ''Your brother must have been gone for a long time.''\n*'''Ide:''' ''Weeks. It's been weeks. He would never leave me alone for so long.''\n*'''Ide:''' ''He used to boast about future Olympic victories and adventures. He always said he'd make me the proudest sister in all the [[Greece|Greek]] world... But how can he do that when he's not even here?!''\n(Leave \u2013 I'll be back.)\n*'''Kassandra:''' ''I'll find out what happened to your brother.''\n*'''Ide:''' ''Please hurry. It's been too quiet around here without him.''\nKassandra left the girl and made her way in, whispering to herself.\n*'''Kassandra:''' ''Looks like Mikkos was right. There is something going on here. I'll get to the bottom of this.''\nWhile entering the courtyard, she overheard a conversation.\n*'''Student 1:''' ''Theageneses was the best! [[Euthymos]] didn't even stand a chance in that match. Look at how weak he is.''\n*'''Student 2:''' ''Euthymos... That name seems familiar somehow...''\nKassandra reached the courtyard, approaching the trainer.\n*'''The Great Euthymos:''' ''If you've come to enroll in my school, I'm afraid you're at ''least'' ten years too late.''\n*'''Kassandra:''' ''Shame. You must be the one training these athletes.''\n*'''The Great Euthymos:''' ''Have you not heard of me? I am Euthymos, master Olympic trainer. Under my charge, my students seize victories as easily as Theageneses seized the bronze statue of Thasos. Everyone has heard of me!''\n<tabber>\n|-|I haven't heard of you.=\n*'''Kassandra:''' ''Who? I've never heard your name before today.''\n*'''The Great Euthymos:''' ''Then you must be quite deaf!''\n|-|I've heard rumours.=\n*'''Kassandra:''' ''They say that you loo\u2014that you can take down a Chimera with your bare fists.''\n*'''The Great Euthymos:''' ''These rumors, they are took kind! And all true.''\n</tabber>\n*'''Kassandra:''' ''I've heard other things, though. In particular, that students of yours have gone missing.''\n*'''The Great Euthymos:''' ''Missing? Nonsense! My students are champions. They fly towards adventure all the time. Under my wing, they will soar to great heights like a hot-blooded [[Pegasos]]!''\n*'''Kassandra:''' ''Do you remember a former student named Solon?''\n*'''The Great Euthymos:''' ''You think you can storm in ''my'' school and demand answers like an impertinent [[Slavery|slave]]? You'll sooner be gutted like one!''\n<tabber>\n|-|I just want answers.=\n*'''Kassandra:''' ''I need to know if your school has a connection to the disappearances.''\n*'''The Great Euthymos:''' ''Connection? Nonsense! This is a place of blood, sweat, and brawn! The only things that vanish here are the weaknesses in heart and body.''\n|-|\ud83d\udd9d I'll cut you.=\n*'''Kassandra:''' ''Not if I cut the answers from your throat first.''\n*'''The Great Euthymos:''' ''Such pretty words! They almost scare me!''\n</tabber>\n*'''Kassandra:''' ''How about we put our skills to the test?''\n*'''The Great Euthymos:''' ''I'd rather not waste my time or my skills on the likes of a nobody.''\n*'''Kassandra:''' ''Sounds like you're backing down.''\nEuthymos stepped forward to stand in front of Kassandra.\n*'''The Great Euthymos:''' ''Taunts won't work, ''misthios''!''\nA student, having heard the conversation, approached both Kassandra and Euthymos.\n*'''Student:''' ''Hold on... you seem familiar. I recognize you! You were in the Olympics! You're the champion, I'm sure of it!''\nThe trainer backed away.\n<tabber>\n|-|Yes, I am the champion.=\n{{#tag:tabber|\nIf Kassandra competed in the Olympics=\n*'''Kassandra:''' ''Yes, you'are looking at an Olympic champion.''\n*'''The Great Euthymos:''' ''Get back to your trainin\u2014''\n{{!}}-{{!}}\nIf Kassandra had not competed in the Olympics=\n*'''Kassandra:''' ''Of course I'm an Olympic champion. Many times over, in fact.''\n*'''The Great Euthymos:''' ''I don't believe\u2014''\n}}\n*'''Student:''' ''You're amazing! Tell us, what do we need to do to be a true champion?''\n{{#tag:tabber|\nA power pose.=\n*'''Kassandra:''' ''A true champion needs a dominant power pose. Like so.''\n*'''The Great Euthymos:''' ''Power pose? My pose is so much better.''\n{{!}}-{{!}}\nProper exercise and diet.=\n{{#tag:tabber|\nIf Kassandra competed in the Olympics=\n*'''Kassandra:''' ''A true champion runs daily with the weight of two [[Cattle|cows]] slung across the shoulders.''\n*'''The Great Euthymos:''' ''Hmph. Doesn't sound impressive to me.''\n{{!}}-{{!}}\nIf Kassandra had not competed in the Olympics=\n*'''Kassandra:''' ''A true champion has to eat the Champion's Feast before a match.''\n*'''The Great Euthymos:''' ''I've never heard of it. What is it?''\n*'''Kassandra:''' ''Swallowing a dozen bowls of [[sheep]] and buffalo ''delicates''. It gives you unimaginable stamina, and the strength of [[Herakles]]''\n*'''The Great Euthymos:''' ''Lies! Don't listen to this liar!''\n*'''Kassandra:''' ''You can't prove it's a lie.''\n*'''The Great Euthymos:''' ''Yes I can, because I've tried it. The only thing it gives you is an upset stomach! You are no champion. Prepare for the taste of defeat!''\n(Proceed to \"I'll fight the students\".)\n}}\n{{!}}-{{!}}\nModesty.=\n*'''Kassandra:''' ''Anyone can be a champion. But it takes hard work and a commitment to your passion.''\n*'''The Great Euthymos:''' ''That is what I always say!''\n}}\n*'''The Great Euthymos:''' ''So, an Olympic champion strolls into my school, steals my thunder, and dares to challenge me, the great Euthymos?''\n*'''Kassandra:''' ''Does the great Euthymos accept this challenge, or is he too afraid?''\n*'''The Great Euthymos:''' ''Afraid?''\nThe trainer laughed.\n*'''The Great Euthymos:''' ''Try sparring with my students first. We'll see if you are as strong as you say you are.''\n|-|No, I'm not.=\n*'''Kassandra:''' ''You have me wrong. I'm just a passing ''misthios''.''\nDisappointed, the student returned to training.\n*'''The Great Euthymos:''' ''Ha! I knew from first sight that you couldn't be the champion. You don't have the stature.''\n*'''Kassandra:''' ''I advise you to not take me lightly.''\n*'''The Great Euthymos:''' ''Ho, is that so? What say you have a go at some of my best students, then?''\n</tabber>\n<tabber>\n|-|I'll fight the students.=\n{{#tag:tabber|\nIf Kassandra suggested a sparring match=\n*'''Kassandra:''' ''Let's see what your students are made of.''\n*'''The Great Euthymos:''' ''Be careful, I heard the healers have their hands full these days.''\n*'''Kassandra:''' ''I'm sure they will find time to tend to injured youth.''\nKassandra followed Euthymos to a small yard reserved for sparring sessions. In her first fight, she went against a student wielding a [[spear]].\n{{!}}-{{!}}\nIf Kassandra had not competed in the Olympics=\n}}\n*'''The Great Euthymos:''' ''Don't hit too hard, the ''misthios'' might cry!''\n*'''Student 1:''' ''Can you withstand the might of my spear?''\nKassandra defeated the student. However, three more students joined in the fight.\n*'''The Great Euthymos:''' ''Easy? Let's see if you can handle this! Play nice, my students!''\n*'''Student 2:''' ''I'll poke you hard!''\n*'''Student 3:''' ''Is that all you got, ''misthios''?''\n*'''Student 4:''' ''Bam!''\nKassandra defeated them all.\n*'''The Great Euthymos:''' ''Not bad. Even the best of my students cannot stand against you.''\n*'''Kassandra:''' ''Warm up is over.''\n*'''The Great Euthymos:''' ''Such fire! Come then, if you dare. Face me like a real warrior in our arena! I'll be careful not to break too many bones.''\n|-|I'll train your students.=\n(Only available if Kassandra had competed in the Olympics)\n*'''Kassandra:''' ''Since I'm the Olympic champion, shouldn't I train your students instead? I'm sure they agree that I'm better qualified.''\n*'''The Great Euthymos:''' ''Qualified? You dare challenge my position? You have the courage of a [[lion]], ''misthios'', but you'll soon be slaughtered like a goat. Prepare yourself and face me like the champion you say you are!''\n|-|Drachmae over violence. [3000]=\n*'''Kassandra:''' ''I'd rather not hurt the students. Maybe we could arrange something with drachmae?''\n*'''The Great Euthymos:''' ''Arrangements can always be made with drachmae.  Donations to the school are always welcome. Your help in the upkeep is appreciated. Now I hope the healers find the time to tend to you after we're done.''\n*'''Kassandra:''' ''I'll be fine. The same cannot be said for you, however.''\n</tabber>\nKassandra followed the trainer to a small arena in the gymnasium.\n*'''The Great Euthymos:''' ''My loyal students! This ''misthios'' has the nerve to challenge me, the great Euthymos, at ''my''\u2014ahem, ''our'' school! This is your last chance, ''misthios''. It can all end if you simply walk away.''\n*'''Kassandra:''' ''Are you done talking?''\n*'''The Great Euthymos:''' ''We'll see what you are made of then, hmm? We'll fight like ''real'' champions.''\nThe fight began as Kassandra and Euthymos drew their [[sword]]s, engaging each other.\n*'''The Great Euthymos:''' ''Child's play! How dare you challenge me? My ''mater'' hits harder!''\nAs Kassandra landed a few blows, Euthymos called for assistance from his students, who attacked Kassandra.\n*'''The Great Euthymos:''' ''Taste the true might of my students!''\n*'''Student 1:''' ''You won't defeat our master, ''misthios''!''\n*'''Student 2:''' ''For our master!''\n*'''The Great Euthymos:''' ''My students! My pride!''\n*'''Student 3:''' ''Weak! Get out of our school!''\n*'''The Great Euthymos:''' ''Show me your loyalty! Is this what a champion is made of?''\n*'''Student 1:''' ''You're unworthy!''\nKassandra defeated the trainer and his students.\n*'''The Great Euthymos:''' ''All right, all right. I yield! You've ruined my reputation. How will my students learn from me now?''\n*'''Kassandra:''' ''You were ruined by pride. I had no part in it.''\n*'''Student:''' ''We've nothing to learn from a fallen master.''\nThe student from earlier approached both of them.\n*'''Student:''' ''Some of us want to follow in your footsteps, ''misthios''. Can we come with you?''\n<tabber>\n|-|\ud83e\udd1d Join me on my ship.=\n*'''Kassandra:''' ''I could use a few good warriors.''\n*'''Student:''' ''You hear that? We're going to be warriors!''\nThe student left for the docks to board the ''[[Adrestia]]''.\n|-|No, stay here.=\n*'''Kassandra:''' ''You should continue to train here.''\nThe student looked crestfallen and left.\n</tabber>\n*'''The Great Euthymos:''' ''Fine! You've won. You are worthy. I'll tell you what I know. Keeping a school like this is expensive. But, we receive a good lump of drachmae from this rich fellow to keep things running. He visits now and then, stinking of wine, frequently accompanied by strange men.''\n*'''Kassandra:''' ''I assume they're not here to admire the training grounds?''\n*'''The Great Euthymos:''' ''I notice that they tend to favor my star athletes, the ones who exhibit exemplary skills and performance. They watch them very closely.''\n*'''Kassandra:''' ''Solon was one of them.''\n*'''The Great Euthymos:''' ''Yes... He was one of my top students, along with another boy named [[Neleus]]. They were good friends and great athletes. They stopped coming to school soon after the men came. I worry that something has happened to them.''\n*'''Kassandra:''' ''Yet you do nothing, even when you clearly know something isn't right.''\n*'''The Great Euthymos:''' ''This fellow has [[Cult of Kosmos|powerful allies]] and influence. I've tried to do something, ''misthios''. I've asked questions, and I was told to stop for my own good and the good of the students. As much as I hate to admit it, I am powerless.''\nAs Euthymos explained, Ide eavesdropped from behind a pillar.\n<tabber>\n|-|Take caution.=\n*'''Kassandra:''' ''It's best if you stay here and keep out of their way. Let me deal with this.''\n*'''The Great Euthymos:''' ''I'm sorry that I'm not of much help.''\n|-|Stand up for yourself.=\n*'''Kassandra:''' ''A strong man like you shouldn't take orders from a drunk fool.''\n*'''The Great Euthymos:''' ''I... You're right. I've been... weak, for far too long. Thank you, ''misthios''. I may still have other strengths to hone.''\n</tabber>\nIde stormed forward.\n*'''Ide:''' ''I heard everything! How can you stand by while your students are being taken? All for drachmae?!''\n*'''The Great Euthymos:''' ''How did you get in here? Is she your daughter?''\n*'''Ide:''' ''Men like you are the worst! I can't rely on you, I can't rely on anyone. I'm going to save my brother.''\nThe girl ran off.\n*'''The Great Euthymos:''' ''Her brother...? By [[Jupiter|Zeus]], I... What have I done?''\n<tabber>\n|-|If Euthymos was told to stay away=\n*'''Euthymos:''' ''What have I done...''\n|-|If Euthymos was told to take action=\n*'''Euthymos:''' ''No more cowering. I'm the master of this school. I need to act like one.''\n</tabber>\nKassandra whispered to herself.\n<tabber>\n|-|Option 1=\n*'''Kassandra:''' ''I should go back to the doctor for the antidote.''\n|-|Option 2=\n*'''Kassandra:''' ''Solon and others are missing. Maybe Neleus was going to be next... Mikkos will want to know about this.''\n|-|Option 3=\n*'''Kassandra:''' ''The little girl's brother is still missing, and so is my reward.''\n</tabber>",
+    "Section_Outcome": "Kassandra investigated the Olympic gymnasium mentioned by Mikkos, finding that a number of students were taken away from \"strange men\", and that Neleus was going to be the next.",
+    "Section_Behind_the_scenes": "The name of the memory is a reference to the phrase \"{{Wiki|School of Hard Knocks}}\", meaning sometimes painful learning experiences one gets from life's negative aspects, in contrast with formal education systems.\n\nIf players told Euthymos to stand up for himself, he will storm the [[Ancient Stronghold]] alongside them in the memory \"[[Retribution]]\".\n\nIf the student is recruited as a lieutenant for the ''Adrestia'', he has a unique avatar.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Mikkos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Infront of the gymnasium, Kassandra found a young girl standing in front of two men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Something seems to be going on over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Student:''' ''We told you, he's not here! Stop coming back! Don't make me punch you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''[[Ide (Thasian)|Ide]]:''' ''You wouldn't punch a little girl!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Student:''' ''But we can kick you. Don't come here again!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "Kassandra approached the little girl.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Ide:''' ''Idiots! I'll be back, you can't keep me away forever! I'll find a way in!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "Ide turned around and glanced at Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Ide:''' ''You look strong enough. Can you help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Depends on what you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Ide:''' ''Information! My brother, [[Solon (Thasian)|Solon]], has been missing for weeks! No one listens! They say he ran away! But he wouldn't leave me alone, he wouldn't! He knows I hate being by myself. Anyway, he was last seen training at this school. I'm sure it has something to do with his disappearance! Please can you help me find out what happened to him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Accept \u2013 I'll investigate.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll see what I can find out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Ide:''' ''You're nicer than you look. Thank you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Don't thank me just yet\u2014my help doesn't come cheap.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Ide:''' ''What? You would demand [[drachma]]e from a child?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|It's not necessary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I guess we can work something out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Ide:''' ''I don't have much, but I'll repay you with whatever I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''That will do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "22",
+            "content": "|-|Everything has a price.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I don't discriminate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "24",
+            "content": "The girl spits in anger.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Ide:''' [[Mercenary|Misthios]]. ''I have some drachmae, but you must first find out what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I'll prepare to be shortchanged.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Ide:''' ''I think the trainer might know about my brother's disappearance, but be careful\u2014rumor has it he can take out a [[Chimera]] with his bare [[fist]]s. Or was it that he ''looks'' like a Chimera with bare firsts? In any case, I'd take caution not to look for a fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I don't look for fights, they usually find me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "30",
+            "content": "(If \"Why do people train here?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Why are there so many young athletes training at this school?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Ide:''' ''You've never heard of this place? This school is what Thasos is known for! It was founded by [[Theagenes of Thasos|Theageneses]], the famous [[Olympic Games|Olympian]]. Many others like my brother train here in hopes of becoming the next Olympic champion''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "33",
+            "content": "(If \"When did your brother go missing?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Your brother must have been gone for a long time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Ide:''' ''Weeks. It's been weeks. He would never leave me alone for so long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Ide:''' ''He used to boast about future Olympic victories and adventures. He always said he'd make me the proudest sister in all the [[Greece|Greek]] world... But how can he do that when he's not even here?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "37",
+            "content": "(Leave \u2013 I'll be back.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll find out what happened to your brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Ide:''' ''Please hurry. It's been too quiet around here without him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "40",
+            "content": "Kassandra left the girl and made her way in, whispering to herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Looks like Mikkos was right. There is something going on here. I'll get to the bottom of this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "42",
+            "content": "While entering the courtyard, she overheard a conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "43",
+            "content": "*'''Student 1:''' ''Theageneses was the best! [[Euthymos]] didn't even stand a chance in that match. Look at how weak he is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "44",
+            "content": "*'''Student 2:''' ''Euthymos... That name seems familiar somehow...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "Kassandra reached the courtyard, approaching the trainer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''The Great Euthymos:''' ''If you've come to enroll in my school, I'm afraid you're at ''least'' ten years too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Shame. You must be the one training these athletes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "48",
+            "content": "*'''The Great Euthymos:''' ''Have you not heard of me? I am Euthymos, master Olympic trainer. Under my charge, my students seize victories as easily as Theageneses seized the bronze statue of Thasos. Everyone has heard of me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "50",
+            "content": "|-|I haven't heard of you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Who? I've never heard your name before today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "52",
+            "content": "*'''The Great Euthymos:''' ''Then you must be quite deaf!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "53",
+            "content": "|-|I've heard rumours.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''They say that you loo\u2014that you can take down a Chimera with your bare fists.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''The Great Euthymos:''' ''These rumors, they are took kind! And all true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "56",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D38",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''I've heard other things, though. In particular, that students of yours have gone missing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "58",
+            "content": "*'''The Great Euthymos:''' ''Missing? Nonsense! My students are champions. They fly towards adventure all the time. Under my wing, they will soar to great heights like a hot-blooded [[Pegasos]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''Do you remember a former student named Solon?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "60",
+            "content": "*'''The Great Euthymos:''' ''You think you can storm in ''my'' school and demand answers like an impertinent [[Slavery|slave]]? You'll sooner be gutted like one!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "62",
+            "content": "|-|I just want answers.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''I need to know if your school has a connection to the disappearances.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "64",
+            "content": "*'''The Great Euthymos:''' ''Connection? Nonsense! This is a place of blood, sweat, and brawn! The only things that vanish here are the weaknesses in heart and body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "65",
+            "content": "|-|\ud83d\udd9d I'll cut you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Not if I cut the answers from your throat first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "67",
+            "content": "*'''The Great Euthymos:''' ''Such pretty words! They almost scare me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "68",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D46",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''How about we put our skills to the test?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "70",
+            "content": "*'''The Great Euthymos:''' ''I'd rather not waste my time or my skills on the likes of a nobody.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''Sounds like you're backing down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "72",
+            "content": "Euthymos stepped forward to stand in front of Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "73",
+            "content": "*'''The Great Euthymos:''' ''Taunts won't work, ''misthios''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "74",
+            "content": "A student, having heard the conversation, approached both Kassandra and Euthymos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "75",
+            "content": "*'''Student:''' ''Hold on... you seem familiar. I recognize you! You were in the Olympics! You're the champion, I'm sure of it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "76",
+            "content": "The trainer backed away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS4",
+            "global_id": "77",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "78",
+            "content": "|-|Yes, I am the champion.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "79",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "80",
+            "content": "If Kassandra competed in the Olympics=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Yes, you'are looking at an Olympic champion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "82",
+            "content": "*'''The Great Euthymos:''' ''Get back to your trainin\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "83",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "84",
+            "content": "If Kassandra had not competed in the Olympics=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Of course I'm an Olympic champion. Many times over, in fact.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "86",
+            "content": "*'''The Great Euthymos:''' ''I don't believe\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "87",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D55",
+            "global_id": "88",
+            "content": "*'''Student:''' ''You're amazing! Tell us, what do we need to do to be a true champion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "89",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "90",
+            "content": "A power pose.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''A true champion needs a dominant power pose. Like so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "92",
+            "content": "*'''The Great Euthymos:''' ''Power pose? My pose is so much better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "93",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "94",
+            "content": "Proper exercise and diet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "95",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "96",
+            "content": "If Kassandra competed in the Olympics=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''A true champion runs daily with the weight of two [[Cattle|cows]] slung across the shoulders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "98",
+            "content": "*'''The Great Euthymos:''' ''Hmph. Doesn't sound impressive to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "99",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "100",
+            "content": "If Kassandra had not competed in the Olympics=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''A true champion has to eat the Champion's Feast before a match.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "102",
+            "content": "*'''The Great Euthymos:''' ''I've never heard of it. What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''Swallowing a dozen bowls of [[sheep]] and buffalo ''delicates''. It gives you unimaginable stamina, and the strength of [[Herakles]]''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "104",
+            "content": "*'''The Great Euthymos:''' ''Lies! Don't listen to this liar!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''You can't prove it's a lie.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "106",
+            "content": "*'''The Great Euthymos:''' ''Yes I can, because I've tried it. The only thing it gives you is an upset stomach! You are no champion. Prepare for the taste of defeat!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "107",
+            "content": "(Proceed to \"I'll fight the students\".)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "108",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "109",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC14",
+            "global_id": "110",
+            "content": "Modesty.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D66",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''Anyone can be a champion. But it takes hard work and a commitment to your passion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "112",
+            "content": "*'''The Great Euthymos:''' ''That is what I always say!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "113",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D68",
+            "global_id": "114",
+            "content": "*'''The Great Euthymos:''' ''So, an Olympic champion strolls into my school, steals my thunder, and dares to challenge me, the great Euthymos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''Does the great Euthymos accept this challenge, or is he too afraid?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "116",
+            "content": "*'''The Great Euthymos:''' ''Afraid?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "117",
+            "content": "The trainer laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "118",
+            "content": "*'''The Great Euthymos:''' ''Try sparring with my students first. We'll see if you are as strong as you say you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC15",
+            "global_id": "119",
+            "content": "|-|No, I'm not.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D72",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''You have me wrong. I'm just a passing ''misthios''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "121",
+            "content": "Disappointed, the student returned to training.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "122",
+            "content": "*'''The Great Euthymos:''' ''Ha! I knew from first sight that you couldn't be the champion. You don't have the stature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''I advise you to not take me lightly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "124",
+            "content": "*'''The Great Euthymos:''' ''Ho, is that so? What say you have a go at some of my best students, then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "125",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS5",
+            "global_id": "126",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "127",
+            "content": "|-|I'll fight the students.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "128",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC17",
+            "global_id": "129",
+            "content": "If Kassandra suggested a sparring match=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D76",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''Let's see what your students are made of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "131",
+            "content": "*'''The Great Euthymos:''' ''Be careful, I heard the healers have their hands full these days.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''I'm sure they will find time to tend to injured youth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "133",
+            "content": "Kassandra followed Euthymos to a small yard reserved for sparring sessions. In her first fight, she went against a student wielding a [[spear]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "134",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC18",
+            "global_id": "135",
+            "content": "If Kassandra had not competed in the Olympics=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "136",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D79",
+            "global_id": "137",
+            "content": "*'''The Great Euthymos:''' ''Don't hit too hard, the ''misthios'' might cry!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "138",
+            "content": "*'''Student 1:''' ''Can you withstand the might of my spear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "139",
+            "content": "Kassandra defeated the student. However, three more students joined in the fight.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D81",
+            "global_id": "140",
+            "content": "*'''The Great Euthymos:''' ''Easy? Let's see if you can handle this! Play nice, my students!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "141",
+            "content": "*'''Student 2:''' ''I'll poke you hard!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "142",
+            "content": "*'''Student 3:''' ''Is that all you got, ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "143",
+            "content": "*'''Student 4:''' ''Bam!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "144",
+            "content": "Kassandra defeated them all.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D85",
+            "global_id": "145",
+            "content": "*'''The Great Euthymos:''' ''Not bad. Even the best of my students cannot stand against you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "146",
+            "content": "*'''Kassandra:''' ''Warm up is over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "147",
+            "content": "*'''The Great Euthymos:''' ''Such fire! Come then, if you dare. Face me like a real warrior in our arena! I'll be careful not to break too many bones.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC19",
+            "global_id": "148",
+            "content": "|-|I'll train your students.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O4",
+            "global_id": "149",
+            "content": "(Only available if Kassandra had competed in the Olympics)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D88",
+            "global_id": "150",
+            "content": "*'''Kassandra:''' ''Since I'm the Olympic champion, shouldn't I train your students instead? I'm sure they agree that I'm better qualified.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "151",
+            "content": "*'''The Great Euthymos:''' ''Qualified? You dare challenge my position? You have the courage of a [[lion]], ''misthios'', but you'll soon be slaughtered like a goat. Prepare yourself and face me like the champion you say you are!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC20",
+            "global_id": "152",
+            "content": "|-|Drachmae over violence. [3000]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D90",
+            "global_id": "153",
+            "content": "*'''Kassandra:''' ''I'd rather not hurt the students. Maybe we could arrange something with drachmae?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "154",
+            "content": "*'''The Great Euthymos:''' ''Arrangements can always be made with drachmae.  Donations to the school are always welcome. Your help in the upkeep is appreciated. Now I hope the healers find the time to tend to you after we're done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "155",
+            "content": "*'''Kassandra:''' ''I'll be fine. The same cannot be said for you, however.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "156",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N16",
+            "global_id": "157",
+            "content": "Kassandra followed the trainer to a small arena in the gymnasium.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D93",
+            "global_id": "158",
+            "content": "*'''The Great Euthymos:''' ''My loyal students! This ''misthios'' has the nerve to challenge me, the great Euthymos, at ''my''\u2014ahem, ''our'' school! This is your last chance, ''misthios''. It can all end if you simply walk away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D94",
+            "global_id": "159",
+            "content": "*'''Kassandra:''' ''Are you done talking?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "160",
+            "content": "*'''The Great Euthymos:''' ''We'll see what you are made of then, hmm? We'll fight like ''real'' champions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "161",
+            "content": "The fight began as Kassandra and Euthymos drew their [[sword]]s, engaging each other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D96",
+            "global_id": "162",
+            "content": "*'''The Great Euthymos:''' ''Child's play! How dare you challenge me? My ''mater'' hits harder!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "163",
+            "content": "As Kassandra landed a few blows, Euthymos called for assistance from his students, who attacked Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D97",
+            "global_id": "164",
+            "content": "*'''The Great Euthymos:''' ''Taste the true might of my students!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D98",
+            "global_id": "165",
+            "content": "*'''Student 1:''' ''You won't defeat our master, ''misthios''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D99",
+            "global_id": "166",
+            "content": "*'''Student 2:''' ''For our master!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D100",
+            "global_id": "167",
+            "content": "*'''The Great Euthymos:''' ''My students! My pride!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "168",
+            "content": "*'''Student 3:''' ''Weak! Get out of our school!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D102",
+            "global_id": "169",
+            "content": "*'''The Great Euthymos:''' ''Show me your loyalty! Is this what a champion is made of?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D103",
+            "global_id": "170",
+            "content": "*'''Student 1:''' ''You're unworthy!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "171",
+            "content": "Kassandra defeated the trainer and his students.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D104",
+            "global_id": "172",
+            "content": "*'''The Great Euthymos:''' ''All right, all right. I yield! You've ruined my reputation. How will my students learn from me now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D105",
+            "global_id": "173",
+            "content": "*'''Kassandra:''' ''You were ruined by pride. I had no part in it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D106",
+            "global_id": "174",
+            "content": "*'''Student:''' ''We've nothing to learn from a fallen master.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "175",
+            "content": "The student from earlier approached both of them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D107",
+            "global_id": "176",
+            "content": "*'''Student:''' ''Some of us want to follow in your footsteps, ''misthios''. Can we come with you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS6",
+            "global_id": "177",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC21",
+            "global_id": "178",
+            "content": "|-|\ud83e\udd1d Join me on my ship.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D108",
+            "global_id": "179",
+            "content": "*'''Kassandra:''' ''I could use a few good warriors.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D109",
+            "global_id": "180",
+            "content": "*'''Student:''' ''You hear that? We're going to be warriors!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "181",
+            "content": "The student left for the docks to board the ''[[Adrestia]]''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC22",
+            "global_id": "182",
+            "content": "|-|No, stay here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D110",
+            "global_id": "183",
+            "content": "*'''Kassandra:''' ''You should continue to train here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "184",
+            "content": "The student looked crestfallen and left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE6",
+            "global_id": "185",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D111",
+            "global_id": "186",
+            "content": "*'''The Great Euthymos:''' ''Fine! You've won. You are worthy. I'll tell you what I know. Keeping a school like this is expensive. But, we receive a good lump of drachmae from this rich fellow to keep things running. He visits now and then, stinking of wine, frequently accompanied by strange men.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D112",
+            "global_id": "187",
+            "content": "*'''Kassandra:''' ''I assume they're not here to admire the training grounds?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D113",
+            "global_id": "188",
+            "content": "*'''The Great Euthymos:''' ''I notice that they tend to favor my star athletes, the ones who exhibit exemplary skills and performance. They watch them very closely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D114",
+            "global_id": "189",
+            "content": "*'''Kassandra:''' ''Solon was one of them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D115",
+            "global_id": "190",
+            "content": "*'''The Great Euthymos:''' ''Yes... He was one of my top students, along with another boy named [[Neleus]]. They were good friends and great athletes. They stopped coming to school soon after the men came. I worry that something has happened to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D116",
+            "global_id": "191",
+            "content": "*'''Kassandra:''' ''Yet you do nothing, even when you clearly know something isn't right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D117",
+            "global_id": "192",
+            "content": "*'''The Great Euthymos:''' ''This fellow has [[Cult of Kosmos|powerful allies]] and influence. I've tried to do something, ''misthios''. I've asked questions, and I was told to stop for my own good and the good of the students. As much as I hate to admit it, I am powerless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "193",
+            "content": "As Euthymos explained, Ide eavesdropped from behind a pillar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS7",
+            "global_id": "194",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC23",
+            "global_id": "195",
+            "content": "|-|Take caution.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D118",
+            "global_id": "196",
+            "content": "*'''Kassandra:''' ''It's best if you stay here and keep out of their way. Let me deal with this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D119",
+            "global_id": "197",
+            "content": "*'''The Great Euthymos:''' ''I'm sorry that I'm not of much help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC24",
+            "global_id": "198",
+            "content": "|-|Stand up for yourself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D120",
+            "global_id": "199",
+            "content": "*'''Kassandra:''' ''A strong man like you shouldn't take orders from a drunk fool.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D121",
+            "global_id": "200",
+            "content": "*'''The Great Euthymos:''' ''I... You're right. I've been... weak, for far too long. Thank you, ''misthios''. I may still have other strengths to hone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE7",
+            "global_id": "201",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N24",
+            "global_id": "202",
+            "content": "Ide stormed forward.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D122",
+            "global_id": "203",
+            "content": "*'''Ide:''' ''I heard everything! How can you stand by while your students are being taken? All for drachmae?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D123",
+            "global_id": "204",
+            "content": "*'''The Great Euthymos:''' ''How did you get in here? Is she your daughter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D124",
+            "global_id": "205",
+            "content": "*'''Ide:''' ''Men like you are the worst! I can't rely on you, I can't rely on anyone. I'm going to save my brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "206",
+            "content": "The girl ran off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D125",
+            "global_id": "207",
+            "content": "*'''The Great Euthymos:''' ''Her brother...? By [[Jupiter|Zeus]], I... What have I done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS8",
+            "global_id": "208",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC25",
+            "global_id": "209",
+            "content": "|-|If Euthymos was told to stay away=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D126",
+            "global_id": "210",
+            "content": "*'''Euthymos:''' ''What have I done...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC26",
+            "global_id": "211",
+            "content": "|-|If Euthymos was told to take action=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D127",
+            "global_id": "212",
+            "content": "*'''Euthymos:''' ''No more cowering. I'm the master of this school. I need to act like one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE8",
+            "global_id": "213",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N26",
+            "global_id": "214",
+            "content": "Kassandra whispered to herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS9",
+            "global_id": "215",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC27",
+            "global_id": "216",
+            "content": "|-|Option 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D128",
+            "global_id": "217",
+            "content": "*'''Kassandra:''' ''I should go back to the doctor for the antidote.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC28",
+            "global_id": "218",
+            "content": "|-|Option 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D129",
+            "global_id": "219",
+            "content": "*'''Kassandra:''' ''Solon and others are missing. Maybe Neleus was going to be next... Mikkos will want to know about this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC29",
+            "global_id": "220",
+            "content": "|-|Option 3=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D130",
+            "global_id": "221",
+            "content": "*'''Kassandra:''' ''The little girl's brother is still missing, and so is my reward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE9",
+            "global_id": "222",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

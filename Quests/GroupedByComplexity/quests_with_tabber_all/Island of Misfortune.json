@@ -1,0 +1,999 @@
+{
+    "Quest_Name": "Island of Misfortune",
+    "Quest_ID": "223311",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Island_of_Misfortune - Assassin's Creed Odyssey.png",
+        "description": "'Kassandra's search for Myrrine|her mother led her to seek out Xenia, a ruthless admiral with a vicious reputation.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Perikles's Symposium",
+        "next": "First Do No Harm",
+        "concurrent": "A Chest Full of Drachmae<br>Recruitment Drive<br>Red in the Wreckage<br>We're Not Thieves",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Island of Misfortune''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Keos]] to look for [[Xenia]], a [[Piracy|pirate]] who may have information on her [[Myrrine|mother]]'s whereabouts.",
+    "Section_Dialogue": "Kassandra boarded the ''[[Adrestia]]'' to set sail for Keos, where Xenia awaited. Upon departing the dock, Kassandra and Barnabas discussed her findings at the symposium.\n*'''Barnabas:''' ''Did you find what you were looking for in [[Athens]]?''\n*'''Kassandra:''' ''A few clues\u2014but this won't be easy.''\n*'''Barnabas:''' ''Well it's a good start! All we can do now is trust the path the gods have laid out for us.''\n*'''Kassandra:''' ''I'm not the only one looking for my mother. The [[Cult of Kosmos|cult]] that wanted [[Nikolaos]] dead? They're also on my trail.''\n*'''Barnabas:''' ''Oh, they're no match for you.''\n*'''Kassandra:''' ''You got that right.''\nAs the ''Adrestia'' approached Keos, Barnabas issued a warning.\n*'''Barnabas:''' ''The seas are treacherous around Keos. We should be careful.''\n*'''[[Herodotos]]:''' ''What? [[Charybdis]] and [[Skylla]] await at the bottom of the [[Aegean Sea|sea]], I suppose?''\n*'''Barnabas:''' ''No. Pirates. A lot of them.''\n*'''Herodotos:''' ''Huh. Only pirates?''\nThe ship docked at [[Koressia]], whereupon Kassandra disembarked.\n*'''Kassandra:''' ''Hmm, I don't see any [[soldier]]s here. Only pirates. They must be running the whole island.''\nKassandra made her way to the [[Temple of Athena Nedousia|Temple]] of [[Athena]] overlooking the settlement, evading pirates where she could. Before she could open the doors to the temple, Xenia tossed a man through them.\n*'''Soldier:''' ''Gods have mercy!''\n*'''Xenia:''' ''You\u2014want\u2014''mercy''?''\nXenia took out a [[Short blade|knife]] and grabbed the man, carving a symbol on his forehead.\n*'''Xenia:''' ''Those who trade in [[Slavery|slaves]] anywhere on ''my'' island will be marked as slaves themselves...''\nShe tossed the man to the ground.\n*'''Xenia:''' ''...Then hauled to [[Attika]] and fed to the system they tried to profit from.''\nThe man scrambled back to his feet. Xenia addressed the other men.\n*'''Xenia:''' ''Get this scum out of my sight.''\n[[File:ACOD Island of Misfortune 01.png|thumb|250px|Kassandra witnessing the torture]]\nAs the men led the slave trader away, Xenia turned her attention to Kassandra.\n*'''Kassandra:''' ''I thought all pirates were slavers.''\n*'''Xenia:''' ''And you are?''\n*'''Kassandra:''' ''My name is Kassandra.''\n*'''Xenia:''' ''Well, Kassandra, we're all thought to be murderers too. So, tell me why I shouldn't kill you right here.''\n<tabber>\n|-|I need information.=\n*'''Kassandra:''' ''I was told you're a trader of information.''\n*'''Xenia:''' ''Among other things, yes.''\n*'''Kassandra:''' ''I'm looking for someone.''\n|-|I came to meet you.=\n*'''Kassandra:''' ''I came to find the great pirate Xenia. That's you, isn't it?''\n*'''Xenia:''' ''I like the sound of that, but what was your plan once you found me?''\n*'''Kassandra:''' ''I came to offer you a deal.''\n</tabber>\n<tabber>\n|-|If Kassandra killed someone=\n{{#tag:tabber|\nIntro 1=\n*'''Xenia:''' ''Entering my city and killing my followers is a strange way to strike a deal.''\n*'''Kassandra:''' ''I didn't think they'd let me just walk in, and I don't have time to waste.''\n{{!}}-{{!}}\nIntro 2=\n*'''Kassandra:''' ''I butchered several of your \"men\" to get here. What makes you think you'd fare any better?''\n*'''Xenia:''' ''You ''are'' a bold one. I like that, but don't think your words scare me, girl. There's a fine line between confidence and disrespect.''\n*'''Kassandra:''' ''Lucky for both of us, I didn't come looking for a fight.''\n}}\n|-|If Kassandra did not kill anyone=\n*'''Xenia:''' ''Sneaking into my city is a strange way to make a first impression.''\n*'''Kassandra:''' ''I needed to speak with you directly. I didn't think your pirates would just let me walk up and knock.''\n</tabber>\n*'''Xenia:''' ''Then speak.''\n*'''Kassandra:''' ''I'm looking for a woman. She left [[Sparta]] when I was a child.''\n*'''Xenia:''' ''I'll need more than that, Kassandra.''\n*'''Kassandra:''' ''She has birthmarks on her arm that form the constellation [[Aquila (constellation)|Aquila]].''\n*'''Xenia:''' ''Now that is something I can work with. Just who exactly is this woman?''\n<tabber>\n|-|My mother.=\n*'''Kassandra:''' ''She's my mother. I haven't seen her since I was a child.''\n*'''Xenia:''' ''So, you're on a quest to find your family.''\n*'''Kassandra:''' ''Something like that.''\n*'''Xenia:''' ''Then your path is not an easy one.''\n|-|You don't need to know.=\n*'''Kassandra:''' ''It doesn't matter who she is to me.''\n*'''Xenia:''' ''Maybe not.''\n|-|A criminal.=\n*'''Kassandra:''' ''She's a criminal who fled Sparta many years ago. I was hired to bring her back.''\n*'''Xenia:''' ''I see. So, she's dangerous?''\n*'''Kassandra:''' ''To you, I don't think anyone is dangerous.''\n*'''Xenia:''' ''If only that were true.''\n</tabber>\n[[File:ACOD Island of Misfortune 02.png|thumb|250px|Kassandra following Xenia outside the temple]]\nXenia beckoned Kassandra to follow her as she walked to the overlook.\n*'''Kassandra:''' ''[[Aspasia]]'s the one who sent me to find you.''\n*'''Xenia:''' ''Aspasia? Now why would she do that?''\n*'''Kassandra:''' ''She said you might have information that could help me in my search.''\n*'''Xenia:''' ''You can have anything for the right price.''\n*'''Kassandra:''' ''And what is that price?''\n<tabber>\n|-|If Kassandra killed someone=\n*'''Xenia:''' ''Considering you butchered a few of my people, I feel like compensation is in order.''\nXenia charged Kassandra 17,000 [[drachma]]e for the information.\n|-|If Kassandra did not kill anymore.=\n*'''Xenia:''' ''One you can afford, I'm sure.''\nXenia charged Kassandra 15,000 drachmae for the information.\n</tabber>\n(If \"Why so much?\" was chosen.)\n*'''Kassandra:''' ''Why do you need so much drachmae?''\n*'''Xenia:''' ''I have a city to secure and people to protect. I have no interest in going to war\u2014I just want to make sure the [[Peloponnesian War|war]] doesn't come to us.''\n<tabber>\n|-|I don't have it.=\n*'''Kassandra:''' ''I don't have that kind of drachmae.''\n*'''Xenia:''' ''I find that surprising, given your profession.''\n*'''Kassandra:''' ''What proof do I have that you'll even find her?''\n*'''Xenia:''' ''I already know Myrrine.''\n*'''Kassandra:''' ''How do you know that name?''\n*'''Xenia:''' ''That's not all I know.''\n*'''Kassandra:''' ''Getting that much drachmae won't be easy.''\n*'''Xenia:''' ''You have a ship and a crew. That's enough to find work here in Koressia. And there's a stockpile of drachmae held in the [[Koressia Fort|fort]] on the far side of the island.''\n*'''Kassandra:''' ''You want me to steal from your island?''\n*'''Xenia:''' ''The other locals aren't too happy about us pirates. Their leader has amassed a fortune. If they have no drachmae, they can't do anything stupid.''\nKassandra was skeptical.\n*'''Xenia:''' ''Don't worry. As long as you're working for me, you're one of us.''\n|-|I'll be back.=\n*'''Kassandra:''' ''I don't have the drachmae yet, but I'll return when I do.''\n*'''Xenia:''' ''There's no rush on my part. If you need work, check with my people in the city. I'm sure they'd have use for a capable [[mercenary]].''\n</tabber>\nKassandra took her leave and reflected on the conversation.\n*'''Kassandra:''' ''Trust a pirate to only help for a boat-load of drachmae. If I'm going to pay her, I need to find some work on this island.''\nWalking down into the settlement, she noticed the other pirates were leaving her be.\n*'''Kassandra:''' ''It should be much easier to travel the island now that everyone won't try to kill me on sight.''\nShe also spied some of the buildings destroyed in Xenia's coup.\n*'''Kassandra:''' ''Xenia and her crew really destroyed the place. If they burn everything, how do they expect to keep the people quiet?''\nIn time, Kassandra gathered enough drachmae and returned to Xenia at the temple.\n*'''Xenia:''' ''The mighty not-Spartan returns!''\n<tabber>\n|-|If Kassandra was charged 17,000 drachmae=\nKassandra looked at Xenia cross-eyed and lightly shook her head before handing over the drachmae.\n*'''Kassandra:''' ''Here, take it.''\n*'''Xenia:''' ''A pleasure doing business.''\n|-|If Kassandra was charged 15,000 drachmae=\n*'''Kassandra:''' ''Here, take your drachmae.''\n*'''Xenia:''' ''Nothing feels better than a heavy purse filled with coin.''\nKassandra handed over the drachmae.\n</tabber>\n*'''Kassandra:''' ''The information I need, how long will it take?''\n*'''Xenia:''' ''I already have it.''\n*'''Kassandra:''' ''You do?''\n*'''Xenia:''' ''Your \"Myrrine\" now sails under the name of Phoenix. She started as a member of my crew, but we parted ways not too long ago.''\n[[File:Island of Misfortune - Myrrine and Xenia - Assassin's Creed Odyssey.png|thumb|250px|Myrrine and Xenia]]\nIn a flashback, Xenia walked to Myrrine, who stood on the shore, gazing out over the ocean.\n*'''Myrrine:''' ''I'm leaving soon.''\n*'''Xenia:''' ''Keos is your home.''\n*'''Myrrine:''' ''But this isn't my true calling\u2014my purpose.''\n*'''Xenia:''' ''You might never find what you are looking for, Phoenix.''\n*'''Myrrine:''' ''I can't stop until I do.''\n*'''Xenia:''' ''You are a great pirate.''\n*'''Myrrine:''' ''And you are an even greater friend. Don't forget me.''\nThe scene returned to the present.\n(If \"Where is she?\" was chosen.)\n*'''Kassandra:''' ''Do you know where she is now?''\n*'''Xenia:''' ''She sailed southeast with her crew in search of a greater calling.''\n(If \"Why did she leave?\" was chosen.)\n*'''Kassandra:''' ''She was part of your crew?''\n*'''Xenia:''' ''For a time.''\n*'''Kassandra:''' ''Why did she leave?''\n*'''Xenia:''' ''Much too interested in the politics of war\u2014a waste of a good pirate if you ask me. I haven't heard from her since she left.''\n(If \"How did you meet her?\" was chosen.)\n*'''Kassandra:''' ''Keos is a long way from Sparta. How did your paths cross?''\n*'''Xenia:''' ''On the sea, long ago. In her, I saw a better life. In me, she found freedom. Together, we owned the waves.''\n*'''Kassandra:''' ''I can't believe she was a pirate.''\n*'''Xenia:''' ''She's the kind of woman who, once she sets her mind to something, gets it done.''\n(Leave \u2013 \"I have what I need.\")\n*'''Kassandra:''' ''Thank you. I...''\n*'''Xenia:''' ''Home isn't a place, it's the people you're with. If you don't find what you're looking for, there's a place for you here.''\nKassandra nodded her head in thanks before leaving Xenia and the temple.\n*'''Kassandra:''' ''Phoenix. There have to be people who know that name.''",
+    "Section_Outcome": "Kassandra learned that her mother sailed southeast of Keos using the moniker \"Phoenix.\"",
+    "Section_Behind_the_scenes": "Completing this quest, along with \"[[Ashes to Ashes]]\" and \"[[Monger Down]]\", will immediately fulfill the requirements to begin the next chapter of the main quest. As certain quests such as \"[[For the People]]\" will no longer be available at that point, it may behoove the player to fulfill this objective last, as it is relatively convenient to return and pay Xenia for the information whenever the player is ready to advance the story.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "9.",
+    "Chapter_Name": "Pirate Hospitality",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra boarded the ''[[Adrestia]]'' to set sail for Keos, where Xenia awaited. Upon departing the dock, Kassandra and Barnabas discussed her findings at the symposium.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Barnabas:''' ''Did you find what you were looking for in [[Athens]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''A few clues\u2014but this won't be easy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Barnabas:''' ''Well it's a good start! All we can do now is trust the path the gods have laid out for us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I'm not the only one looking for my mother. The [[Cult of Kosmos|cult]] that wanted [[Nikolaos]] dead? They're also on my trail.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Barnabas:''' ''Oh, they're no match for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You got that right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "As the ''Adrestia'' approached Keos, Barnabas issued a warning.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Barnabas:''' ''The seas are treacherous around Keos. We should be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''[[Herodotos]]:''' ''What? [[Charybdis]] and [[Skylla]] await at the bottom of the [[Aegean Sea|sea]], I suppose?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Barnabas:''' ''No. Pirates. A lot of them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Herodotos:''' ''Huh. Only pirates?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "The ship docked at [[Koressia]], whereupon Kassandra disembarked.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Hmm, I don't see any [[soldier]]s here. Only pirates. They must be running the whole island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "15",
+            "content": "Kassandra made her way to the [[Temple of Athena Nedousia|Temple]] of [[Athena]] overlooking the settlement, evading pirates where she could. Before she could open the doors to the temple, Xenia tossed a man through them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Soldier:''' ''Gods have mercy!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Xenia:''' ''You\u2014want\u2014''mercy''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "18",
+            "content": "Xenia took out a [[Short blade|knife]] and grabbed the man, carving a symbol on his forehead.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Xenia:''' ''Those who trade in [[Slavery|slaves]] anywhere on ''my'' island will be marked as slaves themselves...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "20",
+            "content": "She tossed the man to the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Xenia:''' ''...Then hauled to [[Attika]] and fed to the system they tried to profit from.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "22",
+            "content": "The man scrambled back to his feet. Xenia addressed the other men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Xenia:''' ''Get this scum out of my sight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "24",
+            "content": "[[File:ACOD Island of Misfortune 01.png|thumb|250px|Kassandra witnessing the torture]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N8",
+            "global_id": "25",
+            "content": "As the men led the slave trader away, Xenia turned her attention to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I thought all pirates were slavers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Xenia:''' ''And you are?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''My name is Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Xenia:''' ''Well, Kassandra, we're all thought to be murderers too. So, tell me why I shouldn't kill you right here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "30",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "31",
+            "content": "|-|I need information.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I was told you're a trader of information.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Xenia:''' ''Among other things, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm looking for someone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "35",
+            "content": "|-|I came to meet you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I came to find the great pirate Xenia. That's you, isn't it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "37",
+            "content": "*'''Xenia:''' ''I like the sound of that, but what was your plan once you found me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I came to offer you a deal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "40",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "41",
+            "content": "|-|If Kassandra killed someone=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "42",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "43",
+            "content": "Intro 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Xenia:''' ''Entering my city and killing my followers is a strange way to strike a deal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I didn't think they'd let me just walk in, and I don't have time to waste.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "46",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "47",
+            "content": "Intro 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I butchered several of your \"men\" to get here. What makes you think you'd fare any better?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Xenia:''' ''You ''are'' a bold one. I like that, but don't think your words scare me, girl. There's a fine line between confidence and disrespect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Lucky for both of us, I didn't come looking for a fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "51",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "52",
+            "content": "|-|If Kassandra did not kill anyone=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Xenia:''' ''Sneaking into my city is a strange way to make a first impression.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I needed to speak with you directly. I didn't think your pirates would just let me walk up and knock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "55",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D34",
+            "global_id": "56",
+            "content": "*'''Xenia:''' ''Then speak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''I'm looking for a woman. She left [[Sparta]] when I was a child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "58",
+            "content": "*'''Xenia:''' ''I'll need more than that, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''She has birthmarks on her arm that form the constellation [[Aquila (constellation)|Aquila]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "60",
+            "content": "*'''Xenia:''' ''Now that is something I can work with. Just who exactly is this woman?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "62",
+            "content": "|-|My mother.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''She's my mother. I haven't seen her since I was a child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "64",
+            "content": "*'''Xenia:''' ''So, you're on a quest to find your family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Something like that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "66",
+            "content": "*'''Xenia:''' ''Then your path is not an easy one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "67",
+            "content": "|-|You don't need to know.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''It doesn't matter who she is to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "69",
+            "content": "*'''Xenia:''' ''Maybe not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "70",
+            "content": "|-|A criminal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''She's a criminal who fled Sparta many years ago. I was hired to bring her back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "72",
+            "content": "*'''Xenia:''' ''I see. So, she's dangerous?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''To you, I don't think anyone is dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "74",
+            "content": "*'''Xenia:''' ''If only that were true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "75",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I2",
+            "global_id": "76",
+            "content": "[[File:ACOD Island of Misfortune 02.png|thumb|250px|Kassandra following Xenia outside the temple]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N9",
+            "global_id": "77",
+            "content": "Xenia beckoned Kassandra to follow her as she walked to the overlook.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''[[Aspasia]]'s the one who sent me to find you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "79",
+            "content": "*'''Xenia:''' ''Aspasia? Now why would she do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''She said you might have information that could help me in my search.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "81",
+            "content": "*'''Xenia:''' ''You can have anything for the right price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''And what is that price?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "83",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "84",
+            "content": "|-|If Kassandra killed someone=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "85",
+            "content": "*'''Xenia:''' ''Considering you butchered a few of my people, I feel like compensation is in order.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "86",
+            "content": "Xenia charged Kassandra 17,000 [[drachma]]e for the information.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC11",
+            "global_id": "87",
+            "content": "|-|If Kassandra did not kill anymore.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "88",
+            "content": "*'''Xenia:''' ''One you can afford, I'm sure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "89",
+            "content": "Xenia charged Kassandra 15,000 drachmae for the information.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE4",
+            "global_id": "90",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "91",
+            "content": "(If \"Why so much?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D56",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''Why do you need so much drachmae?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "93",
+            "content": "*'''Xenia:''' ''I have a city to secure and people to protect. I have no interest in going to war\u2014I just want to make sure the [[Peloponnesian War|war]] doesn't come to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "94",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "95",
+            "content": "|-|I don't have it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''I don't have that kind of drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "97",
+            "content": "*'''Xenia:''' ''I find that surprising, given your profession.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''What proof do I have that you'll even find her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "99",
+            "content": "*'''Xenia:''' ''I already know Myrrine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''How do you know that name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "101",
+            "content": "*'''Xenia:''' ''That's not all I know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''Getting that much drachmae won't be easy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "103",
+            "content": "*'''Xenia:''' ''You have a ship and a crew. That's enough to find work here in Koressia. And there's a stockpile of drachmae held in the [[Koressia Fort|fort]] on the far side of the island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''You want me to steal from your island?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "105",
+            "content": "*'''Xenia:''' ''The other locals aren't too happy about us pirates. Their leader has amassed a fortune. If they have no drachmae, they can't do anything stupid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "106",
+            "content": "Kassandra was skeptical.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "107",
+            "content": "*'''Xenia:''' ''Don't worry. As long as you're working for me, you're one of us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC13",
+            "global_id": "108",
+            "content": "|-|I'll be back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D69",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I don't have the drachmae yet, but I'll return when I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "110",
+            "content": "*'''Xenia:''' ''There's no rush on my part. If you need work, check with my people in the city. I'm sure they'd have use for a capable [[mercenary]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "111",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N13",
+            "global_id": "112",
+            "content": "Kassandra took her leave and reflected on the conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Trust a pirate to only help for a boat-load of drachmae. If I'm going to pay her, I need to find some work on this island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "114",
+            "content": "Walking down into the settlement, she noticed the other pirates were leaving her be.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''It should be much easier to travel the island now that everyone won't try to kill me on sight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "116",
+            "content": "She also spied some of the buildings destroyed in Xenia's coup.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''Xenia and her crew really destroyed the place. If they burn everything, how do they expect to keep the people quiet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "118",
+            "content": "In time, Kassandra gathered enough drachmae and returned to Xenia at the temple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D74",
+            "global_id": "119",
+            "content": "*'''Xenia:''' ''The mighty not-Spartan returns!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS6",
+            "global_id": "120",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC14",
+            "global_id": "121",
+            "content": "|-|If Kassandra was charged 17,000 drachmae=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N17",
+            "global_id": "122",
+            "content": "Kassandra looked at Xenia cross-eyed and lightly shook her head before handing over the drachmae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D75",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''Here, take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "124",
+            "content": "*'''Xenia:''' ''A pleasure doing business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC15",
+            "global_id": "125",
+            "content": "|-|If Kassandra was charged 15,000 drachmae=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D77",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''Here, take your drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "127",
+            "content": "*'''Xenia:''' ''Nothing feels better than a heavy purse filled with coin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "128",
+            "content": "Kassandra handed over the drachmae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE6",
+            "global_id": "129",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D79",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''The information I need, how long will it take?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "131",
+            "content": "*'''Xenia:''' ''I already have it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''You do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "133",
+            "content": "*'''Xenia:''' ''Your \"Myrrine\" now sails under the name of Phoenix. She started as a member of my crew, but we parted ways not too long ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "134",
+            "content": "[[File:Island of Misfortune - Myrrine and Xenia - Assassin's Creed Odyssey.png|thumb|250px|Myrrine and Xenia]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N19",
+            "global_id": "135",
+            "content": "In a flashback, Xenia walked to Myrrine, who stood on the shore, gazing out over the ocean.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D83",
+            "global_id": "136",
+            "content": "*'''Myrrine:''' ''I'm leaving soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "137",
+            "content": "*'''Xenia:''' ''Keos is your home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "138",
+            "content": "*'''Myrrine:''' ''But this isn't my true calling\u2014my purpose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "139",
+            "content": "*'''Xenia:''' ''You might never find what you are looking for, Phoenix.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "140",
+            "content": "*'''Myrrine:''' ''I can't stop until I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "141",
+            "content": "*'''Xenia:''' ''You are a great pirate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "142",
+            "content": "*'''Myrrine:''' ''And you are an even greater friend. Don't forget me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "143",
+            "content": "The scene returned to the present.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C2",
+            "global_id": "144",
+            "content": "(If \"Where is she?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D90",
+            "global_id": "145",
+            "content": "*'''Kassandra:''' ''Do you know where she is now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "146",
+            "content": "*'''Xenia:''' ''She sailed southeast with her crew in search of a greater calling.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "147",
+            "content": "(If \"Why did she leave?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D92",
+            "global_id": "148",
+            "content": "*'''Kassandra:''' ''She was part of your crew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "149",
+            "content": "*'''Xenia:''' ''For a time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D94",
+            "global_id": "150",
+            "content": "*'''Kassandra:''' ''Why did she leave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "151",
+            "content": "*'''Xenia:''' ''Much too interested in the politics of war\u2014a waste of a good pirate if you ask me. I haven't heard from her since she left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "152",
+            "content": "(If \"How did you meet her?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D96",
+            "global_id": "153",
+            "content": "*'''Kassandra:''' ''Keos is a long way from Sparta. How did your paths cross?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D97",
+            "global_id": "154",
+            "content": "*'''Xenia:''' ''On the sea, long ago. In her, I saw a better life. In me, she found freedom. Together, we owned the waves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D98",
+            "global_id": "155",
+            "content": "*'''Kassandra:''' ''I can't believe she was a pirate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D99",
+            "global_id": "156",
+            "content": "*'''Xenia:''' ''She's the kind of woman who, once she sets her mind to something, gets it done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "157",
+            "content": "(Leave \u2013 \"I have what I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D100",
+            "global_id": "158",
+            "content": "*'''Kassandra:''' ''Thank you. I...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "159",
+            "content": "*'''Xenia:''' ''Home isn't a place, it's the people you're with. If you don't find what you're looking for, there's a place for you here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "160",
+            "content": "Kassandra nodded her head in thanks before leaving Xenia and the temple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D102",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''Phoenix. There have to be people who know that name.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

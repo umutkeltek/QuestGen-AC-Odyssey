@@ -1,0 +1,234 @@
+{
+    "Quest_Name": "The Goddesses' Hunt",
+    "Quest_ID": "223058",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_c": {
+            "description": "support"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side. Character {{c|Daughters of Artemis}}",
+        "previous": "The Daughters of Artemis",
+        "next": "The Hind of Keryneia {{c|support}}<br>\nThe Nemean Lion {{c|support}}<br>\nThe Kretan Bull {{c|support}}<br>\nThe Lykaon Wolf {{c|support}}<br>\nThe Erymanthian Boar {{c|support}}<br>\nKallisto the Bear {{c|support}}<br>\nThe Krokottas Hyena {{c|support}}<br>\nArtemis's Request",
+        "source": "Kassandra",
+        "location": "Temple of Artemis, Phokis",
+        "date": "431 BCE - 422 BCE"
+    },
+    "General_Description": "'''The Goddesses' Hunt''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Daphnae]] challenged [[Kassandra]] to hunt down seven legendary creatures throughout the [[Greece|Greek]] world and deliver their pelts back to her.",
+    "Section_Dialogue": "As Kassandra hunted the legendary beasts across the Greek world, she would return to Daphnae at regular intervals to hand over the pelts she had acquired. The pelts were skinned from the [[The Hind of Keryneia|Hind of Keryneia]] on [[Euboea]], the [[The Nemean Lion|Nemean Lion]] in [[Argolis]], the [[The Lykaon Wolf|Lykaon Wolf]] in [[Lakonia]], [[Kallisto the Bear (memory)|Kallisto the Bear]] in [[Arkadia]], the [[The Erymanthian Boar|Erymanthian Boar]] in [[Elis]], the [[The Krokottas Hyena|Krokottas Hyena]] on the island of [[Kythera]], and the [[The Kretan Bull|Kretan Bull]] in [[Messara]].\n\nAround the time Kassandra collected the final pelt, Daphnae relocated to the island of [[Chios]] to join her sisters at the [[Huntress Village]]. Kassandra met with her on the hills overlooking the village.\n*'''Daphnae:''' ''Beast slayer! I'm glad to see you.''\n*'''Kassandra:''' ''Daphnae. I didn't think you would be.''\n*'''Daphnae:''' ''The path I set you on is fraught with danger. You could have been killed, or given up.''\n\n<tabber>\n|-|Flirt \u2013 It was worth it to see you.=\n*'''Kassandra:''' ''No danger could have kept me from seeing you again.''\n*'''Daphnae:''' ''Maybe, you're getting ahead of yourself. Maybe...''\n|-|Danger means nothing to me.=\n*'''Kassandra:''' ''There's nothing I've faced that I haven't overcome.''\n*'''Daphnae:''' ''Be careful. Pride is a shield of reeds. It can blind you from danger, and offers no protection.''\n</tabber>\n(Leave \u2013 \"I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''\n\nAt the end of her hunts, Kassandra handed over the final pelt.\n*'''Kassandra:''' ''That should be all the pelts.''\n*'''Daphnae:''' ''Yes. But your trial is not yet over.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Daphnae:''' ''You have proven yourself a mighty hunter in the eyes of Artemis, but there is one creature you have yet to defeat. This animal is no simple prey. Meet me and my sisters on the cliff overlooking our village for your final test.''\n\n<tabber>\n|-|Wait!=\n*'''Kassandra:''' ''Wait! Why the secrecy?''\n*'''Daphnae:''' ''Because it's more fun this way...''\n|-|Leave \u2013 I'll be there.=\n*'''Kassandra:''' ''When?''\n*'''Daphnae:''' ''When you are ready.''\n</tabber>\nDaphnae took her leave and joined with her sisters further down the hill, directly above the Huntress Village.",
+    "Section_Outcome": "*Kassandra hunted the legendary animals across Greece, earning the right to undergo the final trial of the Daughters of Artemis.",
+    "Section_Trivia": "*Daphnae relocates to Chios at the very moment the final pelt is collected, but not before the final beast is slain. This allows the other six to be given to her in the more easily-accessible [[Phokis]] as needed.\n*After Daphnae relocates to Chios, handing over the pelts will complete the quest, thus potentially locking players out of a chance to romance her, as well as dialogue choices in Artemis's Request. Thus it is recommended that you deliver the pelts to her in Phokis, before slaying the final beast.\n*If Kallisto the Bear's pelt is given last, followed by an intimate moment, the \"summary\" dialogue at the end is skipped and the quest concludes.\n*The legendary animals' dead bodies will persist globally if their pelts are not collected immediately after slaying them.\n*The level of the reward items is tied to the player's level at the moment the pelt is handed over to Daphnae, not when the beast is slain. Furthermore, all legendary armor set pieces automatically scale to the level of the final piece, even if the previous pieces were collected much earlier. Players can use this to strategically maximize the strength of the armor and weapon rewards without having to pay a heavy upgrade cost at a blacksmith.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As Kassandra hunted the legendary beasts across the Greek world, she would return to Daphnae at regular intervals to hand over the pelts she had acquired. The pelts were skinned from the [[The Hind of Keryneia|Hind of Keryneia]] on [[Euboea]], the [[The Nemean Lion|Nemean Lion]] in [[Argolis]], the [[The Lykaon Wolf|Lykaon Wolf]] in [[Lakonia]], [[Kallisto the Bear (memory)|Kallisto the Bear]] in [[Arkadia]], the [[The Erymanthian Boar|Erymanthian Boar]] in [[Elis]], the [[The Krokottas Hyena|Krokottas Hyena]] on the island of [[Kythera]], and the [[The Kretan Bull|Kretan Bull]] in [[Messara]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Around the time Kassandra collected the final pelt, Daphnae relocated to the island of [[Chios]] to join her sisters at the [[Huntress Village]]. Kassandra met with her on the hills overlooking the village.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Daphnae:''' ''Beast slayer! I'm glad to see you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Daphnae. I didn't think you would be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''The path I set you on is fraught with danger. You could have been killed, or given up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Flirt \u2013 It was worth it to see you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''No danger could have kept me from seeing you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Daphnae:''' ''Maybe, you're getting ahead of yourself. Maybe...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|Danger means nothing to me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''There's nothing I've faced that I haven't overcome.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Daphnae:''' ''Be careful. Pride is a shield of reeds. It can blind you from danger, and offers no protection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "16",
+            "content": "(Leave \u2013 \"I'll return soon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "At the end of her hunts, Kassandra handed over the final pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''That should be all the pelts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Daphnae:''' ''Yes. But your trial is not yet over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Daphnae:''' ''You have proven yourself a mighty hunter in the eyes of Artemis, but there is one creature you have yet to defeat. This animal is no simple prey. Meet me and my sisters on the cliff overlooking our village for your final test.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "25",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "26",
+            "content": "|-|Wait!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Wait! Why the secrecy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Daphnae:''' ''Because it's more fun this way...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "29",
+            "content": "|-|Leave \u2013 I'll be there.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''When?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Daphnae:''' ''When you are ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "32",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "33",
+            "content": "Daphnae took her leave and joined with her sisters further down the hill, directly above the Huntress Village.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

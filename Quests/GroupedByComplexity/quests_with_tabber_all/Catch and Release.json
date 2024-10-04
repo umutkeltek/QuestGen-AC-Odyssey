@@ -1,0 +1,391 @@
+{
+    "Quest_Name": "Catch and Release",
+    "Quest_ID": "224083",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Catch and Release",
+        "image": "ACOd-C&R-reunited.jpg",
+        "description": "'Fearing her husband had been lost to Piracy|pirates, a woman hired Kassandra to find him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Heraklion, Messara, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Catch and Release''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "The forlorn cries of a fisherman's wife drew the attention of Kassandra in [[Heraklion]], and she agreed to help her.",
+    "Section_Dialogue": "While near the [[Fisherman's Beachhead]] in Heraklion, Kassandra heard a woman in distress.\n*'''Civilian:''' ''Help! Somebody help me!''\nShe spoke to the woman.\n*'''Kassandra:''' ''What's the problem?''\n*'''Civilian:''' ''My husband is missing. He went out fishing yesterday near [[Anaphi]] and hasn't returned.''\n<tabber>\n|-|He deserves his fate.=\n*'''Kassandra:''' ''Your husband is a poor fisherman if he can't take care of himself at [[Aegean Sea|sea]].''\n*'''Civilian:''' ''He's a great fisherman. It's... it's something else -''\n*'''Kassandra:''' ''What?''\n|-|You're right to worry.=\n*'''Kassandra:''' ''You must miss him.''\n*'''Civilian:''' ''This is more than a wife missing her husband. I truly fear he's in danger.''\n*'''Kassandra:''' ''In danger of what?''\n</tabber>\n*'''Civilian:''' ''[[Piracy|Pirates]]. They were spotted in the area recently. I told him it was too dangerous, but we needed the [[drachma]]e to pay [[Swordfish]].''\n(Swordfish alive only - If players asked \"Who is Swordfish?\")\n*'''Kassandra:''' ''Tell me about Swordfish.''\n*'''Civilian:''' ''My husband knows more about him than I do. Please save him, and he'll tell you anything!''\n(If players asked \"How could your husband survive?\")\n*'''Kassandra:''' ''If pirates got to him, he may already be dead.''\n*'''Civilian:''' ''I can't give up hope. He has a fast ship - if he saw the pirates, he'd head to the nearest shore.''\n(If players chose \"Sounds like you need help.)\n*'''Kassandra:''' ''I could rescue your husband, for a price.''\n*'''Civilian:''' ''Please! I'll find a way to pay. Just get him back.''\n(Accept - \"I'll help you.\")\n*'''Kassandra:''' ''I'll look for your husband. Where should I start?''\n*'''Civilian:''' ''His favorite fishing spot is on the west coast of Anaphi, north of here.''\n*'''Kassandra:''' ''If he's alive, I'll find him.''\n\nKassandra boarded the ''[[Adrestia]]'' and sailed north towards Anaphi. She spotted the [[Anaphi Shipwreck|wreckage]] of the fisherman's vessel off the western coast, and [[Ikaros]] helped her find the man.\n*'''Kassandra:''' ''There he is!''\nHe and his fellows were beset by pirates. Kassandra leapt into the fray and managed to save him from the pirates.\n*'''Kassandra:''' ''Your wife sent me to find you.''\n*'''Civilian:''' ''Praise [[Poseidon]]. The pirates were waiting for high tide to attack.''\n*'''Kassandra:''' ''We need to leave now. I'll escort you back to Heraklion.''\n*'''Civilian:''' ''I'm right behind you.''\n\nKassandra escorted him back to Fisherman's Beachhead and spoke to the reunited couple.\n*'''Civilian:''' ''I owe you beyond measure.<br>How can I repay you?''\n<tabber>\n|-|With lots of drachmae.=\n*'''Kassandra:''' ''My services are expensive.''\n*'''Civilian:''' ''I - of course. You're worth every drachma. There would be more, but Swordfish already took his cut.''\n|-|No reward necessary.=\n*'''Kassandra:''' ''There's enough widows in this world - we didn't need another. I was happy to help.''\n*'''Civilian:''' ''We're behind on our payments to Swordfish, so your kindness is appreciated. But here, take this.''\n</tabber>\n(Swordfish dead)\n*'''Kassandra:''' ''Swordfish? You don't need to worry about him anymore. He's dead.''\n*'''Civilian:''' ''Dead?''\n*'''Civilian:''' ''He may be gone, but there will always be someone who takes advantage of the honest and the weak.''\n*'''Civilian:''' ''Still... Thank you, ''misthios.\n\n(Swordfish under investigation)<br>\nKassandra inquired about Swordfish.\n*'''Kassandra:''' ''Tell me about Swordfish.''\n*'''Civilian:''' ''Swordfish... even his name -<br>I last saw him many years ago, diving for treasure around [[Fisherman's Beacon]]. I haven't seen him since.<br>But his presence is felt everywhere in Heraklion. He's here, somewhere.''\nKassandra took her leave, noting where to find Swordfish.\n*'''Kassandra:''' ''I should check out the waters near the beacon.''",
+    "Section_Outcome": "Kassandra rescued the wayward fisherman and returned him home safely.",
+    "Section_Trivia": "*The hero makes a closing comment to check out the waters near the beacon, which is part of the investigation into Swordfish, even if the investigation is not active at the time this quest is completed.  It does not trigger if Swordfish is already dead, however.\n*Even if the quest is completed prior to activating [[Blood in the Water (Odyssey)|Blood in the Water]], it will automatically increment that quest's investigation bar by one third.  Completing the investigation bar is ultimately not required to locate Swordfish and complete that quest.\n*Although the quest objective states the fisherman is on the player's ship, he is not actually loaded as a passenger. In fact, his actor is immediately moved back to his wife's location, and thus the player needs only fast travel back to complete the quest.\n*The quest rewards the [[Swordfish Spear]] and the same amount of XP regardless of choice, with the \"Lots of drachmae\" option yielding significantly more money than the alternative.\n*Viewing the fisherman with Ikaros during this mission shows he has a unique rare avatar, but he cannot be recruited as a lieutenant for the Adrestia, as no damage is dealt to him if Kassandra attempts to attack him.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Prise et reprise]]",
+    "Chapter_SequenceID": "26.",
+    "Chapter_Name": "Minotour - A Place of Twists and Turns",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While near the [[Fisherman's Beachhead]] in Heraklion, Kassandra heard a woman in distress.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''Help! Somebody help me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She spoke to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What's the problem?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''My husband is missing. He went out fishing yesterday near [[Anaphi]] and hasn't returned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|He deserves his fate.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Your husband is a poor fisherman if he can't take care of himself at [[Aegean Sea|sea]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Civilian:''' ''He's a great fisherman. It's... it's something else -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|You're right to worry.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''You must miss him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Civilian:''' ''This is more than a wife missing her husband. I truly fear he's in danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''In danger of what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Civilian:''' ''[[Piracy|Pirates]]. They were spotted in the area recently. I told him it was too dangerous, but we needed the [[drachma]]e to pay [[Swordfish]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Swordfish alive only - If players asked \"Who is Swordfish?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Tell me about Swordfish.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Civilian:''' ''My husband knows more about him than I do. Please save him, and he'll tell you anything!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "20",
+            "content": "(If players asked \"How could your husband survive?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''If pirates got to him, he may already be dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Civilian:''' ''I can't give up hope. He has a fast ship - if he saw the pirates, he'd head to the nearest shore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "23",
+            "content": "(If players chose \"Sounds like you need help.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I could rescue your husband, for a price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Civilian:''' ''Please! I'll find a way to pay. Just get him back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "26",
+            "content": "(Accept - \"I'll help you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I'll look for your husband. Where should I start?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Civilian:''' ''His favorite fishing spot is on the west coast of Anaphi, north of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''If he's alive, I'll find him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "31",
+            "content": "Kassandra boarded the ''[[Adrestia]]'' and sailed north towards Anaphi. She spotted the [[Anaphi Shipwreck|wreckage]] of the fisherman's vessel off the western coast, and [[Ikaros]] helped her find the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''There he is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "33",
+            "content": "He and his fellows were beset by pirates. Kassandra leapt into the fray and managed to save him from the pirates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Your wife sent me to find you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Civilian:''' ''Praise [[Poseidon]]. The pirates were waiting for high tide to attack.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''We need to leave now. I'll escort you back to Heraklion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Civilian:''' ''I'm right behind you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "39",
+            "content": "Kassandra escorted him back to Fisherman's Beachhead and spoke to the reunited couple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Civilian:''' ''I owe you beyond measure.<br>How can I repay you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "41",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "42",
+            "content": "|-|With lots of drachmae.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''My services are expensive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Civilian:''' ''I - of course. You're worth every drachma. There would be more, but Swordfish already took his cut.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "45",
+            "content": "|-|No reward necessary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''There's enough widows in this world - we didn't need another. I was happy to help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "47",
+            "content": "*'''Civilian:''' ''We're behind on our payments to Swordfish, so your kindness is appreciated. But here, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "48",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O3",
+            "global_id": "49",
+            "content": "(Swordfish dead)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Swordfish? You don't need to worry about him anymore. He's dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "51",
+            "content": "*'''Civilian:''' ''Dead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "52",
+            "content": "*'''Civilian:''' ''He may be gone, but there will always be someone who takes advantage of the honest and the weak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "53",
+            "content": "*'''Civilian:''' ''Still... Thank you, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "54",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "55",
+            "content": "(Swordfish under investigation)<br>",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "56",
+            "content": "Kassandra inquired about Swordfish.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Tell me about Swordfish.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "58",
+            "content": "*'''Civilian:''' ''Swordfish... even his name -<br>I last saw him many years ago, diving for treasure around [[Fisherman's Beacon]]. I haven't seen him since.<br>But his presence is felt everywhere in Heraklion. He's here, somewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "59",
+            "content": "Kassandra took her leave, noting where to find Swordfish.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I should check out the waters near the beacon.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

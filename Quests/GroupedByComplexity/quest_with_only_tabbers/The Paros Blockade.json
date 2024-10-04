@@ -1,0 +1,392 @@
+{
+    "Quest_Name": "The Paros Blockade",
+    "Quest_ID": "224191",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Quarry Quandary",
+        "next": "Unified Front",
+        "image": "ACOD_The_Paros_Blockade.png",
+        "description": "'Paros Island|Paros blockaded the Naxos harbor in preparation for an assault. Myrrine feared the Naxos Island|Naxos fleet couldn't take Paros alone, but Kassandra knew her own crew was up to the task.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "source": "Kassandra",
+        "location": "Naxos Island, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''The Paros Blockade''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In an attempt to force [[Naxos Island]] into submission, [[Paros Island]]'s ships blockaded the [[Naxos]] harbor. [[Myrrine]], nor her daughter [[Kassandra]], would allow them to succeed.",
+    "Section_Dialogue": "With her tasks completed, Kassandra returned to Myrrine at her [[Naxos villa|villa]], but [[Hektor]] entered with urgent news.\n*'''Myrrine:''' ''You may speak.''\n*'''Hektor:''' ''Ships from [[Paros]] have blockaded the harbor.''\n*'''Myrrine:''' ''Gods curse [[Silanos]] and his damned [[Cult of Kosmos|Cult]]. Do they never tire of meddling?''\nFrustrated, she and [[Aspasia]] walked to the balcony to look out at the blockade.\n*'''Myrrine:''' ''Tell them I'm on my way.''\nHektor left as Kassandra joined them.\n*'''Kassandra:''' ''A blockade?''\n*'''Myrrine:''' ''I've refused to pay tribute to [[Athens]], and Paros is taking advantage of the situation.''\n*'''Myrrine:''' ''There goes our hope of striking first.''\n*'''Kassandra:''' ''I can bring my [[Adrestia|ship]] around and clear the harbor.''\n*'''Myrrine:''' ''Just you against an entire blockade?''\n<tabber>\n|-|It will be easy.=\n*'''Kassandra:''' ''You're right. It's terrible odds for Paros.''\n|-|We have no choice.=\n*'''Kassandra:''' ''I don't see another option. But I have the best crew on the [[Aegean Sea|Aegean]].''\n</tabber>\n*'''Myrrine:''' ''Be safe... and come back to me, lamb.''\n[[File:ACOD_The_Paros_Blockade_-_Kassandra_Report_Mission.png|thumb|250px|Kassandra reporting her success]]\nKassandra took the ''Adrestia'' out to sea to meet the blockade. She sank all of the ships and returned to Myrrine at the port.\n*'''Kassandra:''' ''The harbor is clear. We need to move out before they send reinforcements.''\n*'''Myrrine:''' ''We're almost ready. [[Timo]]?''\n*'''Timo:''' ''The ships are loading now. They'll be ready on your command.''\n*'''Myrrine:''' ''Kassandra. A word.''\n(If players asked \"What's wrong?\")\n*'''Kassandra:''' ''Is something wrong?''\n*'''Myrrine:''' ''Besides the attacks on my island and the Cult's meddling? No. But we must speak privately.''\n(If players chose \"Of course.\")\n*'''Kassandra:''' ''Whatever you need.''\n[[File:ACOD_The_Paros_Blockade_-_Myrrine_Discussing_With_Kassandra.png|thumb|250px|Kassandra Myrrine discussing the Cult]]\nThe two walked away from the dock.\n*'''Myrrine:''' ''The Cult must be stopped. When we return to [[Lakonia]], it will be dangerous.''\n*'''Kassandra:''' ''I'm used to it.''\n*'''Kassandra:''' ''We both are.''\n*'''Myrrine:''' ''Here, I know who I can and cannot trust. I would have said that about [[Sparta]], too. But this news about the [[Two Kings of Sparta|King]]...''\n*'''Kassandra:''' ''Did Aspasia find out ''which'' of the kings is working with the Cult?''\n*'''Myrrine:''' ''For all we know, it's both. We must cleanse [[Sparta]] of its corruption no matter the cost.''\n<tabber>\n|-|I stand with you.=\n*'''Kassandra:''' ''At least now we can face them together.''\n*'''Myrrine:''' ''Yes. For all that those bastards tried to take from us. And your [[Alexios|brother]]...<br>We will find him.''\n|-|We should focus on Paros.=\n*'''Kassandra:''' ''Once Paros is dealt with, we will get to work.''\n*'''Myrrine:''' ''You're right.''\n</tabber>\n*'''Myrrine:''' ''Come see me when you're ready.''\nThey returned to Timo. Myrrine turned to Kassandra.\n*'''Myrrine:''' ''Are you ready to sail?''\n(If players asked \"Where are we sailing?\")\n*'''Kassandra:''' ''Where to?''\n*'''Myrrine:''' ''We're going to destroy the fleet of Paros once and for all. Only then will Naxos be secure enough for us to leave.''\n(Accept \u2013 \"I'm ready.\")\n*'''Kassandra:''' ''I'm ready.''\n[[File:ACOD_The_Paros_Blockade_-_Myrrine_Timo_Closeup.png|thumb|250px|Timo and Myrrine]]\nMyrrine turned to Timo.\n*'''Myrrine:''' ''Then I leave this to you.''\nThe two clasped each other's arms.\n*'''Timo:''' ''With your shield, or on it.''\n*'''Myrrine:''' ''And now we strike a blow to the Cult.''",
+    "Section_Outcome": "Kassanda single-handedly smashed Paros's naval blockade, allowing Naxos to rally for a final assault on their fleet.",
+    "Section_Trivia": "*Timo's comment \"With your shield, or on it\" is a variant of a Spartan saying recorded by [[Plutarch]] in his ''{{Wiki|Moralia}}''. It may also be considered reference to the movie ''{{Wiki|300 (film)|300}}'', as Timo's words are verbatim.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Le blocus de Paros]]",
+    "Chapter_SequenceID": "14.",
+    "Chapter_Name": "Paradise Lost",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "With her tasks completed, Kassandra returned to Myrrine at her [[Naxos villa|villa]], but [[Hektor]] entered with urgent news.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Myrrine:''' ''You may speak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Hektor:''' ''Ships from [[Paros]] have blockaded the harbor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Myrrine:''' ''Gods curse [[Silanos]] and his damned [[Cult of Kosmos|Cult]]. Do they never tire of meddling?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Frustrated, she and [[Aspasia]] walked to the balcony to look out at the blockade.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Myrrine:''' ''Tell them I'm on my way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Hektor left as Kassandra joined them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''A blockade?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Myrrine:''' ''I've refused to pay tribute to [[Athens]], and Paros is taking advantage of the situation.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Myrrine:''' ''There goes our hope of striking first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I can bring my [[Adrestia|ship]] around and clear the harbor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Myrrine:''' ''Just you against an entire blockade?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|It will be easy.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''You're right. It's terrible odds for Paros.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|We have no choice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I don't see another option. But I have the best crew on the [[Aegean Sea|Aegean]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Myrrine:''' ''Be safe... and come back to me, lamb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "20",
+            "content": "[[File:ACOD_The_Paros_Blockade_-_Kassandra_Report_Mission.png|thumb|250px|Kassandra reporting her success]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "21",
+            "content": "Kassandra took the ''Adrestia'' out to sea to meet the blockade. She sank all of the ships and returned to Myrrine at the port.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''The harbor is clear. We need to move out before they send reinforcements.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Myrrine:''' ''We're almost ready. [[Timo]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Timo:''' ''The ships are loading now. They'll be ready on your command.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Myrrine:''' ''Kassandra. A word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "26",
+            "content": "(If players asked \"What's wrong?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Is something wrong?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Myrrine:''' ''Besides the attacks on my island and the Cult's meddling? No. But we must speak privately.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "29",
+            "content": "(If players chose \"Of course.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Whatever you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "31",
+            "content": "[[File:ACOD_The_Paros_Blockade_-_Myrrine_Discussing_With_Kassandra.png|thumb|250px|Kassandra Myrrine discussing the Cult]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "32",
+            "content": "The two walked away from the dock.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Myrrine:''' ''The Cult must be stopped. When we return to [[Lakonia]], it will be dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm used to it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''We both are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Myrrine:''' ''Here, I know who I can and cannot trust. I would have said that about [[Sparta]], too. But this news about the [[Two Kings of Sparta|King]]...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Did Aspasia find out ''which'' of the kings is working with the Cult?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Myrrine:''' ''For all we know, it's both. We must cleanse [[Sparta]] of its corruption no matter the cost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "40",
+            "content": "|-|I stand with you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''At least now we can face them together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Myrrine:''' ''Yes. For all that those bastards tried to take from us. And your [[Alexios|brother]]...<br>We will find him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "43",
+            "content": "|-|We should focus on Paros.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Once Paros is dealt with, we will get to work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Myrrine:''' ''You're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "46",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Myrrine:''' ''Come see me when you're ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "48",
+            "content": "They returned to Timo. Myrrine turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "49",
+            "content": "*'''Myrrine:''' ''Are you ready to sail?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "50",
+            "content": "(If players asked \"Where are we sailing?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Where to?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Myrrine:''' ''We're going to destroy the fleet of Paros once and for all. Only then will Naxos be secure enough for us to leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "53",
+            "content": "(Accept \u2013 \"I'm ready.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I'm ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "55",
+            "content": "[[File:ACOD_The_Paros_Blockade_-_Myrrine_Timo_Closeup.png|thumb|250px|Timo and Myrrine]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "56",
+            "content": "Myrrine turned to Timo.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "57",
+            "content": "*'''Myrrine:''' ''Then I leave this to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "58",
+            "content": "The two clasped each other's arms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "59",
+            "content": "*'''Timo:''' ''With your shield, or on it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "60",
+            "content": "*'''Myrrine:''' ''And now we strike a blow to the Cult.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

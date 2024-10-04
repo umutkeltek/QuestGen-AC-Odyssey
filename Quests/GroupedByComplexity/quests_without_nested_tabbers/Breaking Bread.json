@@ -1,0 +1,194 @@
+{
+    "Quest_Name": "Breaking Bread",
+    "Quest_ID": "224444",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Kassandra,_Kepheus_camp,_and_Fort_of_Arkas.png",
+        "description": "'Arkadia was Sparta's breadbasket, which Lagos kept full. Protecting him was Spartan duty, with its warriors as his armor. Myrrine knew the only way to pierce Lagos' throat was to shatter that armor.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "previous": "Judge, Jury, Executioner (Odyssey)|Judge, Jury, Executioner",
+        "next": "Fourth-Degree Burns",
+        "source": "Kassandra",
+        "location": "Arkadia, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''Breaking Bread''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Myrrine]] tasked Kassandra with eliminating [[Lagos]]' men.",
+    "Section_Dialogue": "Kassandra made her way to the camp.\n*'''Kassandra:''' ''This looks like the camp. Time to send some guards to [[Hades]].''\nKassandra made her way to the [[Fort of Arkas]].\n*'''Kassandra:''' ''The fort at last. Should find a quiet way in.''\nKassandra made her way to the [[Tegea Barracks]].\n*'''Kassandra:''' ''Ah. These must be the barracks ''[[Myrrine|mater]]'' spoke of.''\nDepending on the order she cleared the locations, Kassandra remarked on her progress.<br />\n(If the camp is cleared first.)\n*'''Kassandra:''' ''The camp is clear. I still have to find the barracks and the fort. The fort is also in Smuggler's Forest\u2014I should start there.''\n(If the fort is cleared next.)\n**'''Kassandra:''' ''Now that the fort and camp have been cleared, I should head to the barracks.''\n(If the barracks are cleared next.)\n**'''Kassandra:''' ''That takes care of the barracks and the camp. Now I need to clear the fort.''\n(If the barracks are cleared first.)\n*'''Kassandra:''' ''The barracks are clear. But Lagos still has guards at the camp and the fort. Both are in Smuggler's Forest.''\n(If the camp is cleared next.)\n**'''Kassandra:''' ''That takes care of the camp and the barracks. My last target [is] the fort, which is also in Smuggler's Forest.''\n(If the fort is cleared next.)\n**'''Kassandra:''' ''That takes care of the fort and the barracks. Time to deal with Lagos's guards at the camp.''\n(If the fort is cleared first.)\n*'''Kassandra:''' ''The camp should be nearby, I'll head there first. Then on to the barracks.''\n(If the camp is cleared next.)\n**'''Kassandra:''' ''Two strongholds down. Now I just need to find these barracks'' mater ''spoke of. She said they were in [[Tegea]].''\n(If the barracks are cleared next.)\n**'''Kassandra:''' ''The barracks and the fort are clear. Time to find the camp.''\n(After all three locations are cleared.)\n*'''Kassandra:''' Mater'' said [[Lagos]] is hiding in [[Fort Samikon]]. Time to go pay him a little visit.''",
+    "Section_Outcome": "Kassandra crippled Lagos' forces by striking at them in their most critical assembly areas.",
+    "Section_Trivia": "*Completing the quest reduces Lagos' persistent bounty, as the quest sends his forces scrambling. Together with [[Gluten Free]] and [[Fourth-Degree Burns]], this can remove up to two of the three helmets before dealing with Lagos and lifting the bounty altogether.\n*The quest's name is contradictory to the metaphor of the same name, as the latter pertains to making peace or compromise with an enemy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:De mal en \u00e9pi]]",
+    "Chapter_SequenceID": "18.",
+    "Chapter_Name": "The Cult and the Archon",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to the camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''This looks like the camp. Time to send some guards to [[Hades]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra made her way to the [[Fort of Arkas]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The fort at last. Should find a quiet way in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra made her way to the [[Tegea Barracks]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Ah. These must be the barracks ''[[Myrrine|mater]]'' spoke of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Depending on the order she cleared the locations, Kassandra remarked on her progress.<br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(If the camp is cleared first.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''The camp is clear. I still have to find the barracks and the fort. The fort is also in Smuggler's Forest\u2014I should start there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "10",
+            "content": "(If the fort is cleared next.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "**'''Kassandra:''' ''Now that the fort and camp have been cleared, I should head to the barracks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "12",
+            "content": "(If the barracks are cleared next.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "**'''Kassandra:''' ''That takes care of the barracks and the camp. Now I need to clear the fort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "14",
+            "content": "(If the barracks are cleared first.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''The barracks are clear. But Lagos still has guards at the camp and the fort. Both are in Smuggler's Forest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O5",
+            "global_id": "16",
+            "content": "(If the camp is cleared next.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "**'''Kassandra:''' ''That takes care of the camp and the barracks. My last target [is] the fort, which is also in Smuggler's Forest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O6",
+            "global_id": "18",
+            "content": "(If the fort is cleared next.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "**'''Kassandra:''' ''That takes care of the fort and the barracks. Time to deal with Lagos's guards at the camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O7",
+            "global_id": "20",
+            "content": "(If the fort is cleared first.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''The camp should be nearby, I'll head there first. Then on to the barracks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O8",
+            "global_id": "22",
+            "content": "(If the camp is cleared next.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "**'''Kassandra:''' ''Two strongholds down. Now I just need to find these barracks'' mater ''spoke of. She said they were in [[Tegea]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O9",
+            "global_id": "24",
+            "content": "(If the barracks are cleared next.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "**'''Kassandra:''' ''The barracks and the fort are clear. Time to find the camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O10",
+            "global_id": "26",
+            "content": "(After all three locations are cleared.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' Mater'' said [[Lagos]] is hiding in [[Fort Samikon]]. Time to go pay him a little visit.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

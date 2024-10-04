@@ -1,0 +1,56 @@
+{
+    "Quest_Name": "The Thasian Statue",
+    "Quest_ID": "225011",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_Thasos_-_Statue_of_Theagenes.png",
+        "description": "'Another statue on the list, said Phidias, would point Kassandra to Thasos. There she'd find the hidden symbol on the Statue of Theagenes of Thasos|Theagenes.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "previous": "Art Leading Life",
+        "next": "Pieces of the Puzzle",
+        "concurrent": "The Kytheran Statue<br>The Samian Statue",
+        "type": "Side, Character, Support",
+        "source": "Kassandra",
+        "location": "Thasos City, Thasos, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''The Thasian Statue''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "At [[Phidias]]' decree, Kassandra made her way to the ''[[Thasos City|chora]]'' on [[Thasos]], and sought out the [[Statue of Theagenes|statue]] of [[Theagenes of Thasos|Theagenes]].",
+    "Section_Dialogue": "Kassandra arrived in Thasos City\u00a0and came across the statue at the center of the agora. She chuckled while observing it.\n*'''Kassandra:''' ''So this is meant to be the mighty champion Theagenes. Preserved for all time... sitting on his ass.''\nShe climbed on the plinth behind the statue and made a copy of the symbol of a [[bear]]'s head from the rock the statue is sitting on.\n*'''Kassandra:''' ''Got it!''",
+    "Section_Outcome": "Kassandra recovered the symbol on the statue.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Phidias",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived in Thasos City\u00a0and came across the statue at the center of the agora. She chuckled while observing it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''So this is meant to be the mighty champion Theagenes. Preserved for all time... sitting on his ass.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She climbed on the plinth behind the statue and made a copy of the symbol of a [[bear]]'s head from the rock the statue is sitting on.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Got it!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

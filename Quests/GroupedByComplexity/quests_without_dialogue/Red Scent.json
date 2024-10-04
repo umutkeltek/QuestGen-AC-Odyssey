@@ -1,0 +1,35 @@
+{
+    "Quest_Name": "Red Scent",
+    "Quest_ID": "222858",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "A Specific General",
+        "next": "Heart and Sole",
+        "source": "Kassandra",
+        "location": "Leader House, Lokris|Leader House, Lokris",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Red Scent''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''What makes the [[Red Lake]] red? Take a dive and search for a hidden cave. You'll find out if you grab the [[Cattle|bull]] by its horns.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Ainigmata Ostraka",
+    "Chapter_Type": null,
+    "Quest_SequenceID": null
+}

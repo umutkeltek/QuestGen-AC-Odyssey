@@ -1,0 +1,590 @@
+{
+    "Quest_Name": "A Venomous Encounter",
+    "Quest_ID": "222817",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD A Venomous Encounter - Kassandra at Aktis' Home.png",
+        "description": "'Perikles mentioned a colleague named Metiochos who missed an appointment. To enter the symposium, Kassandra needed to find him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Welcome to Athens",
+        "next": "Perikles's Symposium",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "May 431 BCE"
+    },
+    "General_Description": "'''A Venomous Encounter''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Perikles]] to look for his friend [[Metiochos]].",
+    "Section_Dialogue": "After meeting with Perikles, Kassandra set out to locate Metiochos and discover his fate. Approaching Metiochos' dwelling, she heard him crying for help.\n*'''Metiochos:''' ''Help me! Please, someone. By the gods, why did it have to be [[snake]]s? Help me! If you leave, these [[snake]]s will kill me! Get me out of here! Hurry! Kill these snakes before it's too late!''\nEntering the building, Kassandra saw it was full of snakes. Metiochos was tied in a corner.\n*'''Kassandra:''' ''Why are there so many snakes?''\nShe slew the snakes and freed Metiochos.\n*'''Metiochos:''' ''Blessed be the god that sent you here. I'd have been eaten alive if it weren't for you.''\n*'''Kassandra:''' ''I don't think they'd eat you.''\n*'''Metiochos:''' ''But they would have certainly killed me, so thank you.''\n<tabber>\n|-|I'm happy to help.=\n*'''Kassandra:''' ''I'm always happy to help someone in need.''\n*'''Metiochos:''' ''The world could do with more like you. Especially now.''\n|-|You owe me.=\n*'''Kassandra:''' ''My life-saving services aren't free.''\nMetiochos relunctantly handed over a pouch of [[drachma]]e.\n*'''Metiochos:''' ''Of course.''\n</tabber>\n*'''Kassandra:''' ''Perikles sent me. He was worried about you. Do you often get tied up and surrounded by snakes?''\n*'''Metiochos:''' ''How can you joke about this? Thugs broke into my home, dragged me here, tied me up, and surrounded me with these hideous creatures. They must be stopped!''\n*'''Kassandra:''' ''The snakes?''\n*'''Metiochos:''' ''The THUGS!!!''\n[[File:ACOD A Venomous Encounter - Metiochos.jpg|thumb|240px|Metiochos talking to Kassandra]]\n(If \"Why snakes?\" is chosen.)\n*'''Kassandra:''' ''Why would anyone do this?''\n*'''Metiochos:''' ''Politicians are easy targets in these troubled times. When they tied me up, they said ''I'' was a snake\u2014that I should die by my own kind.''\n(If \"Who were the thugs?\" is chosen.)\n*'''Kassandra:''' ''Did you recognize the people who did this?''\n*'''Metiochos:''' ''Perikles asked me to go down to the [[Fishing District]] and talk with the poor and sick\u2014to give them hope. That's how I recognized their voices.''\n*'''Kassandra:''' ''Oh, yes?''\n*'''Metiochos:''' ''They threw rotten food and yelled insults at me. These thugs disguised their faces, but their voices and the stench of fish were unmistakable.''\n(If \"Where can I find them?\" is chosen.)\n*'''Kassandra:''' ''Where should I look?''\n*'''Metiochos:''' ''I couldn't see their faces, but I recognized their voices from one of the districts I visited. They're regulars at [[Kleon]]'s rallies\u2014they live in the flooded part of the city near the wall.''\n(If \"I have what I need.\" is chosen,)\n*'''Kassandra:''' ''I'll track them down, Metiochos. Don't worry.''\n*'''Metiochos:''' ''Tensions are high right now. At this rate we'll tear each other apart within the city before the [[Sparta]]ns can breach the walls.''\nWith the information in hand, Kassandra proceeded through [[Athens]] to where the attackers were located, descending into the Fishing District.\n*'''Kassandra:''' ''The part of Athens I doubt Perikles is proud to talk about.''\nIn a building, she found snakes.\n*'''Kassandra:''' ''Snakes... like the ones that were meant to kill Metiochos.''\nShe discovered a body in the tall grass.\n*'''Kassandra:''' ''Hmm, snake bites, and someone hid the body. Though I have a feeling this death was an accident.''\nShe soon found a letter.\n*'''Kassandra:''' ''It looks like the thugs who attacked Metiochos weren't the masterminds behind this plot.''\n*'''Letter:''' ''Now's the time to strike! Perikles's corrupt friend Metiochos has been oppressing the poor for too long. Take these snakes\u2014you know what you have to do. Metiochos will just be the first. Remember the words of Kleon, and let them inspire us all to greatness.''\n*'''Kassandra:''' ''This must be the house of Metiochos's attackers, but the letter proves they're just tools in someone else's plan. Whose?''\n[[File:A Venomous Encounter - Assassins Creed Odyssey.png|thumb|250px|Kassandra confronted by Pratinos and his friends]]\n[[Pratinos]] and a group of friends strode up to her.\n*'''Pratinos:''' ''What the fuck are you doing sniffing around my house?''\n*'''Kassandra:''' ''You attacked Metiochos. I found the snakes, the letter from your ''friend'', and a body... all here.''\n*'''Civilian:''' ''Ah, poor [[Aktis]].''\n*'''Pratinos:''''' We all knew the risks. Change don't happen without a bit of blood being spilled.''\n(If \"Why did you do it?\" is chosen.)\n*'''Kassandra:''' ''Why kill Metiochos with snakes?''\n*'''Pratinos:''' ''We're prisoners in our own city because of Perikles and his crooked friends. The [[The Poisoner|snake dealer]] told us it's time to send a message\u2014time they suffered.''\n(If \"What should I do with you?\" is chosen.)\n*'''Kassandra:''' ''You can't take the law into your own hands. Now I need to decide what to do with you.''\n*'''Pratinos:''' ''Kleon says it's time we took the city back from the elite\u2014time to fight. Don't matter what you do to us, there'll be others who follow our lead.''\n(If \"Tell me where you got the snakes.\" is chosen.)\n*'''Kassandra:''' ''I know someone gave you those snakes\u2014they used you to do their dirty work. I want to know who.''\n*'''Pratinos:''' ''He's a real hero of Athens. No puppet of Perikles is going to stop him.''\n<tabber>\n|-|Threaten \u2013 Tell me or else.=\n*'''Kassandra:''' ''Tell me what I want to know, or I'll cut you down right now. Your cause will be forgotten and so will you.''\n|-|Don't protect a criminal.=\n*'''Kassandra:''' ''Don't be someone's puppet. Tell me where the snake dealer is.''\n</tabber>\n*'''Pratinos:''' ''All right, all right. He's got a camp just outside the walls. Sells his snakes from there.''\n<tabber>\n|-|Attack \u2013 Time to die.=\n*'''Kassandra:''' ''You've crossed a line. Now you must pay the price.''\n*'''Pratinos:''' ''We'll never surrender to the likes of you. We will make Athens great again.''\nKassandra fought and eliminated Pratinos and his friends.\n|-|Get out of my sight.=\n*'''Kassandra:''' ''It's not too late to make a difference, but we have to work together.''\n*'''Pratinos:''' ''Maybe you're right\u2014you didn't have to show us mercy. But where do we start?''\n*'''Kassandra:''' ''Start here\u2014this district is your home. Ignore the politicians and concentrate on where you can make change.''\n*'''Pratinos:''' ''Thank you, we will try.''\n</tabber>\nKassandra departed to find and kill the snake dealer.\n*'''Kassandra:''' ''I need to rid Athens of this snake seller.''\nThe camp was easy to find, marked by a fire. The poisoner lay within, and Kassandra attacked.\n*'''Mercenary:''' ''You'll feel the sting of my venom. I'll end you, ''misthios''. You can't stop me.''\n*'''Kassandra:''' ''His death should keep friends of Perikles safe.''\nShe returned to Metiochos with news of her success.\n*'''Kassandra:''' ''Looks like your situation's improved since we last met.''\n*'''Metiochos:''' ''The danger has passed for now, but while those monsters are out there, no one is safe.''\n*'''Kassandra:''' ''A group of fishermen tied you up. They were being used by a snake dealer working for enemies of Athens.''\n*'''Metiochos:''' ''What did you do with them?''\n*'''Kassandra:''' ''I showed them the errors of their ways and sent them on their way. They won't be bothering you again.''\n*'''Metiochos:''' ''I'm glad no blood was shed, but how do you know they won't return?''\n*'''Kassandra:''' ''I made it very clear that doing anything stupid would make me angry.''\n*'''Metiochos:''' ''Well that must have been a terrifying experience for them. Thank you for your help, ''misthios''. I'll be sure to mention this to Perikles.''",
+    "Section_Outcome": "Kassandra saved Metiochos, and dealt with the men responsible.",
+    "Section_Behind_the_scenes": "Sparing the fishermen triggers the impact quest \"[[Fight Fire with Fire]]\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Une rencontre empoisonn\u00e9e]]",
+    "Chapter_SequenceID": "8.",
+    "Chapter_Name": "The Road to the Symposium",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After meeting with Perikles, Kassandra set out to locate Metiochos and discover his fate. Approaching Metiochos' dwelling, she heard him crying for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Metiochos:''' ''Help me! Please, someone. By the gods, why did it have to be [[snake]]s? Help me! If you leave, these [[snake]]s will kill me! Get me out of here! Hurry! Kill these snakes before it's too late!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Entering the building, Kassandra saw it was full of snakes. Metiochos was tied in a corner.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Why are there so many snakes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She slew the snakes and freed Metiochos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Metiochos:''' ''Blessed be the god that sent you here. I'd have been eaten alive if it weren't for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I don't think they'd eat you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Metiochos:''' ''But they would have certainly killed me, so thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|I'm happy to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm always happy to help someone in need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Metiochos:''' ''The world could do with more like you. Especially now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|You owe me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''My life-saving services aren't free.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "15",
+            "content": "Metiochos relunctantly handed over a pouch of [[drachma]]e.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Metiochos:''' ''Of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Perikles sent me. He was worried about you. Do you often get tied up and surrounded by snakes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Metiochos:''' ''How can you joke about this? Thugs broke into my home, dragged me here, tied me up, and surrounded me with these hideous creatures. They must be stopped!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''The snakes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Metiochos:''' ''The THUGS!!!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "22",
+            "content": "[[File:ACOD A Venomous Encounter - Metiochos.jpg|thumb|240px|Metiochos talking to Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "23",
+            "content": "(If \"Why snakes?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Why would anyone do this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Metiochos:''' ''Politicians are easy targets in these troubled times. When they tied me up, they said ''I'' was a snake\u2014that I should die by my own kind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "26",
+            "content": "(If \"Who were the thugs?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Did you recognize the people who did this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Metiochos:''' ''Perikles asked me to go down to the [[Fishing District]] and talk with the poor and sick\u2014to give them hope. That's how I recognized their voices.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Oh, yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Metiochos:''' ''They threw rotten food and yelled insults at me. These thugs disguised their faces, but their voices and the stench of fish were unmistakable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "31",
+            "content": "(If \"Where can I find them?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Where should I look?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Metiochos:''' ''I couldn't see their faces, but I recognized their voices from one of the districts I visited. They're regulars at [[Kleon]]'s rallies\u2014they live in the flooded part of the city near the wall.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "34",
+            "content": "(If \"I have what I need.\" is chosen,)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I'll track them down, Metiochos. Don't worry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Metiochos:''' ''Tensions are high right now. At this rate we'll tear each other apart within the city before the [[Sparta]]ns can breach the walls.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "37",
+            "content": "With the information in hand, Kassandra proceeded through [[Athens]] to where the attackers were located, descending into the Fishing District.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''The part of Athens I doubt Perikles is proud to talk about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "39",
+            "content": "In a building, she found snakes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Snakes... like the ones that were meant to kill Metiochos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "41",
+            "content": "She discovered a body in the tall grass.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Hmm, snake bites, and someone hid the body. Though I have a feeling this death was an accident.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "43",
+            "content": "She soon found a letter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''It looks like the thugs who attacked Metiochos weren't the masterminds behind this plot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Letter:''' ''Now's the time to strike! Perikles's corrupt friend Metiochos has been oppressing the poor for too long. Take these snakes\u2014you know what you have to do. Metiochos will just be the first. Remember the words of Kleon, and let them inspire us all to greatness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''This must be the house of Metiochos's attackers, but the letter proves they're just tools in someone else's plan. Whose?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "47",
+            "content": "[[File:A Venomous Encounter - Assassins Creed Odyssey.png|thumb|250px|Kassandra confronted by Pratinos and his friends]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N9",
+            "global_id": "48",
+            "content": "[[Pratinos]] and a group of friends strode up to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Pratinos:''' ''What the fuck are you doing sniffing around my house?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''You attacked Metiochos. I found the snakes, the letter from your ''friend'', and a body... all here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Civilian:''' ''Ah, poor [[Aktis]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Pratinos:''''' We all knew the risks. Change don't happen without a bit of blood being spilled.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "53",
+            "content": "(If \"Why did you do it?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Why kill Metiochos with snakes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Pratinos:''' ''We're prisoners in our own city because of Perikles and his crooked friends. The [[The Poisoner|snake dealer]] told us it's time to send a message\u2014time they suffered.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "56",
+            "content": "(If \"What should I do with you?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D36",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''You can't take the law into your own hands. Now I need to decide what to do with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "58",
+            "content": "*'''Pratinos:''' ''Kleon says it's time we took the city back from the elite\u2014time to fight. Don't matter what you do to us, there'll be others who follow our lead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "59",
+            "content": "(If \"Tell me where you got the snakes.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D38",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I know someone gave you those snakes\u2014they used you to do their dirty work. I want to know who.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "61",
+            "content": "*'''Pratinos:''' ''He's a real hero of Athens. No puppet of Perikles is going to stop him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "62",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "63",
+            "content": "|-|Threaten \u2013 Tell me or else.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Tell me what I want to know, or I'll cut you down right now. Your cause will be forgotten and so will you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "65",
+            "content": "|-|Don't protect a criminal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Don't be someone's puppet. Tell me where the snake dealer is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "67",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D42",
+            "global_id": "68",
+            "content": "*'''Pratinos:''' ''All right, all right. He's got a camp just outside the walls. Sells his snakes from there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "69",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "70",
+            "content": "|-|Attack \u2013 Time to die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''You've crossed a line. Now you must pay the price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "72",
+            "content": "*'''Pratinos:''' ''We'll never surrender to the likes of you. We will make Athens great again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "73",
+            "content": "Kassandra fought and eliminated Pratinos and his friends.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC6",
+            "global_id": "74",
+            "content": "|-|Get out of my sight.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''It's not too late to make a difference, but we have to work together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "76",
+            "content": "*'''Pratinos:''' ''Maybe you're right\u2014you didn't have to show us mercy. But where do we start?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Start here\u2014this district is your home. Ignore the politicians and concentrate on where you can make change.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "78",
+            "content": "*'''Pratinos:''' ''Thank you, we will try.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "79",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N11",
+            "global_id": "80",
+            "content": "Kassandra departed to find and kill the snake dealer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''I need to rid Athens of this snake seller.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "82",
+            "content": "The camp was easy to find, marked by a fire. The poisoner lay within, and Kassandra attacked.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "83",
+            "content": "*'''Mercenary:''' ''You'll feel the sting of my venom. I'll end you, ''misthios''. You can't stop me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''His death should keep friends of Perikles safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "85",
+            "content": "She returned to Metiochos with news of her success.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Looks like your situation's improved since we last met.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "87",
+            "content": "*'''Metiochos:''' ''The danger has passed for now, but while those monsters are out there, no one is safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''A group of fishermen tied you up. They were being used by a snake dealer working for enemies of Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "89",
+            "content": "*'''Metiochos:''' ''What did you do with them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I showed them the errors of their ways and sent them on their way. They won't be bothering you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "91",
+            "content": "*'''Metiochos:''' ''I'm glad no blood was shed, but how do you know they won't return?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''I made it very clear that doing anything stupid would make me angry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "93",
+            "content": "*'''Metiochos:''' ''Well that must have been a terrifying experience for them. Thank you for your help, ''misthios''. I'll be sure to mention this to Perikles.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

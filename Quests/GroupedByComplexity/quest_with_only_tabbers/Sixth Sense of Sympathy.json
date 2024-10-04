@@ -1,0 +1,295 @@
+{
+    "Quest_Name": "Sixth Sense of Sympathy",
+    "Quest_ID": "233647",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA JoA Sixth Sense of Sympathy - Isu Harbormaster and Kassandra.png",
+        "description": "'Determined to find Alkon (Atlantis)|Alkon's Rhene|mother, Kassandra tracked down the Isu Isu Harbormaster|Harbormaster. Getting answers from her however, proved a little more difficult.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Side, Support",
+        "previous": "Good From Far, Far From Good",
+        "next": "Through the Cracks {{c|concurrent}}<br />Good From Far, Far From Good",
+        "source": "Kassandra",
+        "location": "Porimos Ring, Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Sixth Sense of Sympathy''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Alkon (Atlantis)|Alkon]] to look for information about his [[Rhene|mother]]'s whereabouts.",
+    "Section_Dialogue": "After parting ways with [[Alkon (Atlantis)|Alkon]], Kassandra travelled to the nearby harbor to speak with the [[Isu Harbormaster]] regarding his mother [[Rhene]].\n*'''[[Isu]] Harbormaster:''' [[Dikastes]]''. Have you come to analyze the recently discovered coral permutations fastened to the hulls of our vessels?''\n*'''Kassandra:''' ''Uh, no. I'm looking for a woman named Rhene.''\n*'''Isu Harbormaster:''' ''Yes well, that is a subject I have absolutely zero authority in I'm afraid. I cannot help you.''\nAn individual watched from afar, which the harbormaster spotted.\n*'''Kassandra:''' ''Her son is very worried.''\nThe Isu glanced at the watcher before kneeling down.\n*'''Isu Harbormaster:''' ''Please do not asphyxiate me!''\n*'''Kassandra:''' ''What are you doing?''\nThe harbormaster whispered.\n*'''Isu Harbormaster:''' ''I like [[human]]s. And I liked Rhene! Poor Alkon! But if they hear me talking to you they'll kill me.''\nThe harbormaster stood up.\n<tabber>\n|-|Fine, I'll play along.=\nKassandra winked, agreeing to go with the harbormaster's plan. She drew out her [[Spear of Leonidas|spear]].\n*'''Kassandra:''' ''Tell me where she is or I'll cut you.''\n*'''Isu Harbormaster:''' ''I told you I don't know anything!''\nThe harbormaster leaned closer to Kassandra.\n*'''Isu Harbormaster:'''  ''You'll find my contact not far from here. But be careful, a traps has been set for you.''\n*'''Kassandra:''' ''You've made the ''Dikastes'' very angry!''\nKassandra then whispered to the harbormaster.\n*'''Kassandra:''' ''Thank you!''\nShe sheathed her spear and the harbor master finished their performance aloud.\n*'''Isu Harbormaster:''' ''Please don't tell [[Poseidon]].''\nThe individual watching them left.\n*'''Isu Harbormaster:''' ''You have compassion, ''Dikastes''. You may be the only one who can calm the brewing storm between humans and Isu.''\nKassandra departed the harbor and headed inwards towards the city. Along the way, she noticed several [[guards]].\n*'''Kassandra:''' ''The harbormaster was right. They're waiting for me. Well, I'd hate to disappoint them.''\n|-|Threaten \u2013 I'm not in the mood for games.=\nKassandra got enraged.\n*'''Kassandra:''' ''I'm tired of games. Just tell me where she is or I'll be the one to \"asphyxiate\" you.''\n*'''Isu Harbormaster:''' ''An Isu took her.''\n*'''Kassandra:''' ''Where?''\n*'''Isu Harbormaster:''' ''I do not know. But one of my contacts is nearby. Get your answers there.''\nThe individual cracked their knuckles.\n*'''Kassandra:''' ''Now, was that so hard?''\n*'''Isu Harbormaster:''' ''Poseidon was wrong. A storm is brewing between humans and Isu, ''Dikastes''. And I fear you will only serve to hasten its imminent arrival.''\nKassandra departed the harbor and headed inwards towards the city. When she reached a square with a fountain she suddenly got ambushed by guards.\n*'''Kassandra:''' ''An ambush! That ''mal\u00e1kas'' Isu tricked me.''\n</tabber>\n\nKassandra easily dispatched the guards, and recovered a note from one of them.\n*'''Note from [[Xarios]]:'''<br />''[[Project Olympos]] must move forward at all costs. I recently delivered the human woman from the harbor and will continue to deliver humans.<br /><br />If the [[hybrid]] starts asking questions, send her to this location. We will make sure she gets the answers she deserves.<br /><br />Anyone discovered aiding the hybrid will face the wrath of [[Hera]].<br /><br />Xarios''\n*'''Kassandra:''' ''A note. So this [[Xarios]] abducted Rhene. I'm going to find him.''",
+    "Section_Outcome": "Kassandra learned that Rhene was taken away by an Isu named Xarios as part of the Olympos Project",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Judgment of Atlantis]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After parting ways with [[Alkon (Atlantis)|Alkon]], Kassandra travelled to the nearby harbor to speak with the [[Isu Harbormaster]] regarding his mother [[Rhene]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''[[Isu]] Harbormaster:''' [[Dikastes]]''. Have you come to analyze the recently discovered coral permutations fastened to the hulls of our vessels?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Uh, no. I'm looking for a woman named Rhene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Isu Harbormaster:''' ''Yes well, that is a subject I have absolutely zero authority in I'm afraid. I cannot help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "An individual watched from afar, which the harbormaster spotted.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Her son is very worried.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "The Isu glanced at the watcher before kneeling down.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Isu Harbormaster:''' ''Please do not asphyxiate me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What are you doing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "The harbormaster whispered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Isu Harbormaster:''' ''I like [[human]]s. And I liked Rhene! Poor Alkon! But if they hear me talking to you they'll kill me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "12",
+            "content": "The harbormaster stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|Fine, I'll play along.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "15",
+            "content": "Kassandra winked, agreeing to go with the harbormaster's plan. She drew out her [[Spear of Leonidas|spear]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Tell me where she is or I'll cut you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Isu Harbormaster:''' ''I told you I don't know anything!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "18",
+            "content": "The harbormaster leaned closer to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Isu Harbormaster:'''  ''You'll find my contact not far from here. But be careful, a traps has been set for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''You've made the ''Dikastes'' very angry!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "21",
+            "content": "Kassandra then whispered to the harbormaster.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Thank you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "23",
+            "content": "She sheathed her spear and the harbor master finished their performance aloud.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Isu Harbormaster:''' ''Please don't tell [[Poseidon]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "25",
+            "content": "The individual watching them left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Isu Harbormaster:''' ''You have compassion, ''Dikastes''. You may be the only one who can calm the brewing storm between humans and Isu.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "27",
+            "content": "Kassandra departed the harbor and headed inwards towards the city. Along the way, she noticed several [[guards]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''The harbormaster was right. They're waiting for me. Well, I'd hate to disappoint them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "29",
+            "content": "|-|Threaten \u2013 I'm not in the mood for games.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N12",
+            "global_id": "30",
+            "content": "Kassandra got enraged.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I'm tired of games. Just tell me where she is or I'll be the one to \"asphyxiate\" you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Isu Harbormaster:''' ''An Isu took her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Where?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Isu Harbormaster:''' ''I do not know. But one of my contacts is nearby. Get your answers there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "35",
+            "content": "The individual cracked their knuckles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Now, was that so hard?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Isu Harbormaster:''' ''Poseidon was wrong. A storm is brewing between humans and Isu, ''Dikastes''. And I fear you will only serve to hasten its imminent arrival.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "38",
+            "content": "Kassandra departed the harbor and headed inwards towards the city. When she reached a square with a fountain she suddenly got ambushed by guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''An ambush! That ''mal\u00e1kas'' Isu tricked me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "40",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N15",
+            "global_id": "42",
+            "content": "Kassandra easily dispatched the guards, and recovered a note from one of them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "43",
+            "content": "*'''Note from [[Xarios]]:'''<br />''[[Project Olympos]] must move forward at all costs. I recently delivered the human woman from the harbor and will continue to deliver humans.<br /><br />If the [[hybrid]] starts asking questions, send her to this location. We will make sure she gets the answers she deserves.<br /><br />Anyone discovered aiding the hybrid will face the wrath of [[Hera]].<br /><br />Xarios''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''A note. So this [[Xarios]] abducted Rhene. I'm going to find him.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

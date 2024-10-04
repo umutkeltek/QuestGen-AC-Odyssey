@@ -1,0 +1,141 @@
+{
+    "Quest_Name": "A Slithery Plea",
+    "Quest_ID": "225067",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra met Bryce at - such was Bryce's claim - the Petrified Temple|lair of the Writhing Dread. Bryce asked Kassandra to aid her in saving her Ligeia|lover.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Love's Long Shadow",
+        "next": "Hard to Artemis<br>Heavy is the Spear",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''A Slithery Plea''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met [[Bryce]] at the entrance to the [[Petrified Temple|lair]] of the [[Writhing Dread]].",
+    "Section_Dialogue": "Kassandra returned to Bryce at the entrance to the [[Petrified Temple]] to ask or revisit questions about where to go.\n\n([[Hard to Artemis]] not yet complete)\n*'''Bryce:''' ''Did Ligeia's people have the key?''\n*'''Kassandra:''' ''I haven't found it yet, but I will.''\n*'''Bryce:''' ''Please hurry, there hasn't been\u2014I can't hear anything inside the lair. It's gone quiet.''\n\n(If players asked \"Where exactly is the key?\")\n*'''Kassandra:''' ''You said Ligeia knew how to get into the lair\u2014where exactly is the key?''\n*'''Bryce:''' ''The Daughters of Artemis hide their most prized possessions in a cave in their village. It's protected by wild beasts and fierce warriors. The key is shaped like a disk. If they have it, it'll be there.''\n(If players asked \"Where can I find this mercenary?\")\n*'''Kassandra:''' ''This mercenary, the \"Slayer of the Writhing Dread,\" where can I find him?''\n*'''Bryce:''' ''He waits in a temple atop the hill in [[Ancient Pearl]]. Champions from all over seek to challenge him to build their reputations, but there's no way he killed the Creature. If he did, how was Ligeia taken?''\n*'''Kassandra:''' ''Did you see the Creature yourself?''\n*'''Bryce:''' ''No, but only the Writhing Dread would be strong enough to take Ligeia! She's too fierce. ...And too stubborn.''\n(Leave \u2013 \"I'll be on my way.\")\n*'''Kassandra:''' ''I'll be back.''\n*'''Bryce:''' ''With answers, not questions, I hope.''",
+    "Section_Outcome": "Kassandra investigated the [[Huntress Village]] on [[Chios]] and the [[Mountain Temple of Poseidon]], in connection with her seeking a way to open the entrance to the Petrified Temple.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Une supplique ondoyante]]",
+    "Chapter_SequenceID": "25.",
+    "Chapter_Name": "Shadows of Serpents",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Bryce at the entrance to the [[Petrified Temple]] to ask or revisit questions about where to go.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "3",
+            "content": "([[Hard to Artemis]] not yet complete)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Bryce:''' ''Did Ligeia's people have the key?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I haven't found it yet, but I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Bryce:''' ''Please hurry, there hasn't been\u2014I can't hear anything inside the lair. It's gone quiet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "8",
+            "content": "(If players asked \"Where exactly is the key?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''You said Ligeia knew how to get into the lair\u2014where exactly is the key?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Bryce:''' ''The Daughters of Artemis hide their most prized possessions in a cave in their village. It's protected by wild beasts and fierce warriors. The key is shaped like a disk. If they have it, it'll be there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "11",
+            "content": "(If players asked \"Where can I find this mercenary?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''This mercenary, the \"Slayer of the Writhing Dread,\" where can I find him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Bryce:''' ''He waits in a temple atop the hill in [[Ancient Pearl]]. Champions from all over seek to challenge him to build their reputations, but there's no way he killed the Creature. If he did, how was Ligeia taken?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Did you see the Creature yourself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Bryce:''' ''No, but only the Writhing Dread would be strong enough to take Ligeia! She's too fierce. ...And too stubborn.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "16",
+            "content": "(Leave \u2013 \"I'll be on my way.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll be back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Bryce:''' ''With answers, not questions, I hope.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

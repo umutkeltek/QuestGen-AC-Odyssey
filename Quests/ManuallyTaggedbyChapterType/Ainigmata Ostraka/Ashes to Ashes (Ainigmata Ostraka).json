@@ -1,0 +1,42 @@
+{
+    "QuestName": "Ashes to Ashes (Ainigmata Ostraka)",
+    "QuestID": "222849",
+    "Revision": {
+        "id": "1048547",
+        "parentid": "998984",
+        "timestamp": "2023-06-15T16:26:52Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1048547",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "es0rsjzlrpyo3m9xjz4038mjpoa8y9g"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Otheruses": {
+            "description": "the Ainigmata Ostraka | [[Ashes to Ashes]]"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "next": "Bottomless Lake",
+        "source": "Kassandra",
+        "location": "Markos' Vineyard, Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Ashes to Ashes''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''When times are bad, it can be easy to turn away from the gods. Go to the burned temple in [[Village of Kausos|Kausos Village]], in the [[Cursed Valley of Pali]]. I can be found in a pile of burning ashes, where a worshiping man left his post to begin his new life as a [[Piracy|pirate]].''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n\n<!--interwiki links-->\n[[de:Asche zu Asche]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

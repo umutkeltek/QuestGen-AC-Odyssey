@@ -1,0 +1,209 @@
+{
+    "Quest_Name": "The Knights",
+    "Quest_ID": "224988",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra | Aristophanes' [[The Knights (play) | play]] of the same name"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd TheKnights.png",
+        "description": "'With the The Knights (play)|play complete and the people aware of Kleon's plan for Mytilene, Kassandra returned to Sokrates to find out what the next step was.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Unearthing the Truth",
+        "next": "We Will Rise",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "c. 424 BCE"
+    },
+    "General_Description": "'''The Knights''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to speak to [[Aristophanes]] and [[Sokrates]] after their successful attempt to damage [[Kleon]]'s reputation.",
+    "Section_Dialogue": "Kassandra met with Aristophanes and Sokrates at the meeting room in [[Perikles' Residence]].\n*'''Kassandra:''' ''So, what's next?''\n*'''Aristophanes:''' ''The [[The Knights (play)|play]] was a great success, as I knew it would be. With that and the proof you presented at the [[Pnyx]], Kleon has lost much of his popularity.''\n*'''Sokrates:''' ''Now he heads to [[Amphipolis]] in an effort to redeem himself.''\n[[File:ACOD The Knights 2.png|thumb|250px|A messenger asking Kassandra to meet Brasidas]]\nA man rushed into the room.\n*'''Civilian:''' ''Kassandra! [[Brasidas]] sent me to find you. He's alive and well.''\n*'''Kassandra:''' ''Where is he now?''\n*'''Civilian:''' ''Amphipolis. They're preparing for [[Battle of Amphipolis|battle]].''\n*'''Kassandra:''' ''If you reach him before I do, tell him I'm on the way.''\n*'''Sokrates:''' ''So what are you going to do?''\n\n<tabber>\n|-|I'm going to kill Kleon.=\n*'''Kassandra:''' ''Kleon dies now. This is our chance.''\n*'''Sokrates:''' ''The plan is already working. Death shouldn't be brought early, even to someone like Kleon.''\n*'''Kassandra:''' ''He's ''exactly'' the type death should come early to. Not all who live deserve to grow old, Sokrates.''\n*'''Sokrates:''' ''And you decide who deserves it?''\n*'''Kassandra:''' ''This time I do.''\nSokrates sighed as Kassandra prepared to leave the room.\n*'''Sokrates:''' ''Then safe travels.''\n|-|I'm going to help Brasidas.=\n*'''Kassandra:''' ''Brasidas needs my help. I plan on giving it to him. Though should our paths cross, I won't hesitate to kill Kleon.''\nKassandra prepared to leave.\n*'''Sokrates:''' ''Whatever you decide, remember he is only a man.''\n*'''Kassandra:''' ''I can't promise anything.''\n*'''Sokrates:''' ''Be safe.''\n</tabber>\nKassandra left.",
+    "Section_Outcome": "Kassandra learned that Brasidas had survived the [[Battle of Pylos]] and sought her aid for the upcoming Battle of Amphipolis, which she accepted and promptly travelled to.",
+    "Section_Trivia": "*The name of the memory is a reference to the historical play, also titled ''[[The Knights (play)|The Knights]]'', which was the fourth play written by [[Aristophanes]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Les cavaliers]]",
+    "Chapter_SequenceID": "22.",
+    "Chapter_Name": "Public Opinion",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra met with Aristophanes and Sokrates at the meeting room in [[Perikles' Residence]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''So, what's next?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Aristophanes:''' ''The [[The Knights (play)|play]] was a great success, as I knew it would be. With that and the proof you presented at the [[Pnyx]], Kleon has lost much of his popularity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Sokrates:''' ''Now he heads to [[Amphipolis]] in an effort to redeem himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "5",
+            "content": "[[File:ACOD The Knights 2.png|thumb|250px|A messenger asking Kassandra to meet Brasidas]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "A man rushed into the room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Civilian:''' ''Kassandra! [[Brasidas]] sent me to find you. He's alive and well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Where is he now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Civilian:''' ''Amphipolis. They're preparing for [[Battle of Amphipolis|battle]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''If you reach him before I do, tell him I'm on the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Sokrates:''' ''So what are you going to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|I'm going to kill Kleon.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Kleon dies now. This is our chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Sokrates:''' ''The plan is already working. Death shouldn't be brought early, even to someone like Kleon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''He's ''exactly'' the type death should come early to. Not all who live deserve to grow old, Sokrates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Sokrates:''' ''And you decide who deserves it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''This time I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "20",
+            "content": "Sokrates sighed as Kassandra prepared to leave the room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Sokrates:''' ''Then safe travels.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "22",
+            "content": "|-|I'm going to help Brasidas.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Brasidas needs my help. I plan on giving it to him. Though should our paths cross, I won't hesitate to kill Kleon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "24",
+            "content": "Kassandra prepared to leave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Sokrates:''' ''Whatever you decide, remember he is only a man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I can't promise anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Sokrates:''' ''Be safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "28",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": "Kassandra left.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

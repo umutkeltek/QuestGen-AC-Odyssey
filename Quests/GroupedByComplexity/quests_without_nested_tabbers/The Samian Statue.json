@@ -1,0 +1,57 @@
+{
+    "Quest_Name": "The Samian Statue",
+    "Quest_ID": "225010",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Samian Statue.png",
+        "description": "'According to Phidias, another hidden symbol would be located on the Statue of Poseidon|Statue of Poseidon.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "previous": "Art Leading Life",
+        "next": "Pieces of the Puzzle",
+        "concurrent": "The Kytheran Statue<br>The Thasian Statue",
+        "type": "Side, Character, Support",
+        "source": "Kassandra",
+        "location": "Island of Triton, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''The Samian Statue''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought out the [[Statue of Poseidon, Samos|statue]] of the god [[Poseidon]] on the [[Island of Triton]] north of [[Samos]].",
+    "Section_Dialogue": "Kassandra arrived at the Island of Triton and used Ikaros to spot a massive statue.\n*'''Kassandra:''' ''Incredible, [[Phidias]] was right. The artist has captured Poseidon in all his magnificence.''\nShe climbed the statue and made a copy of the symbol on the shaft of the trident.\n*'''Kassandra:''' ''Got it!''",
+    "Section_Outcome": "Kassandra recovered the symbol on the statue.",
+    "Section_Behind_the_scenes": "The symbol on the statue features the emblem seen on the banner of the [[Southern Sporades]], instead of the emblem most often associated with Poseidon, that of a [[trident]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Phidias",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived at the Island of Triton and used Ikaros to spot a massive statue.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Incredible, [[Phidias]] was right. The artist has captured Poseidon in all his magnificence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She climbed the statue and made a copy of the symbol on the shaft of the trident.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Got it!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

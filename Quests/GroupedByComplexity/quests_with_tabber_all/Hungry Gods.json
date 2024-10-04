@@ -1,0 +1,364 @@
+{
+    "Quest_Name": "Hungry Gods",
+    "Quest_ID": "222625",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Hungry Gods.png",
+        "description": "'A worried worshipper was sure that something strange was going on in Drogarati Cave, but he couldn't figure out what.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kephallonia Islands}}",
+        "previous": "In the Footsteps of Gods",
+        "next": "Shark the Vagrant",
+        "source": "Kassandra",
+        "location": "Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Hungry Gods''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across a sick-looking man outside the [[Drogarati Cave]].",
+    "Section_Dialogue": "Kassandra approached the man outside the cave.\n*'''Kassandra:''' ''You don't look so good.''\n*'''Civilian:''' ''I angered them I think. The [[Greek mythology|gods]].''\n\n<tabber>\n|-|Time to repent.=\n*'''Kassandra:''' ''Uh oh. Murder or impiety?''\n*'''Civilian:''' ''Neither!''\n|-|That doesn't sound good.=\n*'''Kassandra:''' ''It's possible. I hear they can be vengeful.''\n</tabber>\n[[File:ACOD_-_Hungry_Gods_2.png|thumb|240px|Kassandra talking to the man]]\n*'''Civilian:''' ''I used to worship [[Hermes Trismegistus|Hermes]] at the Drogarati Cave. There are gods there too, y'know.''\n*'''Kassandra:''' ''In the cave?''\n*'''Civilian:''' ''They grant wishes if you bring 'em tribute! So everyone makes an offering and asks for something in return. No wishes of mine granted, though. And I'm running out of money and tribute\u2014I'm poor myself you know! ...I did something wrong.''\n*'''Kassandra:''' ''Hermes. He can be a trickster.''\n*'''Civilian:''' ''Oh, but there're'' many ''gods in this cave\u2014all askin' for different things! Go hear 'em yourself! You'll get my last tribute if you do. I need to know if they're real.''\n*'''Kassandra:''' ''All right, don't worry. I'll go.''\n*'''Civilian:''' ''Oh thank you! Remember: be careful where you step,'' [[Mercenary|misthios]]''\u2014you'll be walking on holy ground!''\n*'''Kassandra:''' ''We'll see about that.''\nKassandra entered the cave and went deeper, before reaching a lair containing a statue of Hermes. She investigated some broken vases on the ground near the statue.\n*'''Kassandra:''' ''Someone dropped offerings here... Looks like they were trying to carry them away behind the statue?''\nKassandra looked behind the statue and found a small opening.\n*'''Kassandra:''' ''There's a draft here... A crack in the wall?''\nKassandra went through the opening and found a small cavern within. Going further in, she came across a group of [[bandit]]s and eliminated them.\n*'''Kassandra:''' ''Bandits all along. People should've known something was off. And here's all their loot.''\n[[File:ACOD_-_Hungry_Gods_3.png|thumb|240px|A woman begs for salvation from Hermes]]\nKassandra reached the same opening, finding a woman worshipping the statue of Hermes.\n*'''Civilian:''' ''All I can offer you is devotion, but I need your help. I'm poor. I have four hungry children and nothing else. I weave baskets for the market, but my cart is ruined. How can I repair it? Or sell my wares without it? Without you?''\n\n<tabber>\n|-|...=\nKassandra made no response.\n*'''Civilian:''' ''I need you to listen. Talk to me.''\nKassandra again made no response.\n*'''Civilian:''' ''Prove to me you're listening. I'll never turn away from you. Save us\u2014please!''\nKassandra again made no response. The woman started crying.\n*'''Civilian:''' ''...What will I tell them? You've turned your back on me, Hermes. You temp me to do dark things.''\nThe woman left.\n|-|I hear your prayer.=\n*'''Kassandra:''' ''...I'm listening, child of Hermes.''\n*'''Civilian:''' ''Oh, mighty god! I beg you\u2014help me!''\n*'''Kassandra:''' ''Your prayer is, er, heard. You will find riches at your door sooner than you... expect.''\n*'''Civilian:''' ''I knew you'd listen! My every sunrise is yours. Everything beneath my humble roof in [[Sami]] is devoted to you.''\n*'''Kassandra:''' ''Yes. Now, go home and wait for fate to intervene.''\n*'''Civilian:''' ''I will, great god, I will!''\nThe woman left the cave.\n*'''Kassandra:''' ''Well, if money's what she needs, the bandits' stolen loot will do just fine.''\n</tabber>\nKassandra returned to the man.\n*'''Kassandra:''' ''No gods in the caves. Only bandits stealing peoples' hopes and [[drachma]]e.''\n*'''Civilian:''' ''I knew it! [[Thieves]]!''\n*'''Kassandra:''' ''At least you know you won't face [[Zeus]]' wrath. Maybe he'll take pity on you.''\n*'''Civilian:''' ''I hope Zeus brings his wrath on those bandits.''\n*'''Kassandra:''' ''Don't worry, I brought mine. That should be good enough.''",
+    "Section_Outcome": "Kassandra helped the man to investigate the cave, finding out that a group of bandits were taking advantage of offerings left for the Greek god Hermes.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[de:Hungrige G\u00f6tter]]\n[[fr:Dieux insatiables]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kephallonia Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the man outside the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''You don't look so good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian:''' ''I angered them I think. The [[Greek mythology|gods]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|Time to repent.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Uh oh. Murder or impiety?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Civilian:''' ''Neither!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|That doesn't sound good.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''It's possible. I hear they can be vengeful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "12",
+            "content": "[[File:ACOD_-_Hungry_Gods_2.png|thumb|240px|Kassandra talking to the man]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Civilian:''' ''I used to worship [[Hermes Trismegistus|Hermes]] at the Drogarati Cave. There are gods there too, y'know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''In the cave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Civilian:''' ''They grant wishes if you bring 'em tribute! So everyone makes an offering and asks for something in return. No wishes of mine granted, though. And I'm running out of money and tribute\u2014I'm poor myself you know! ...I did something wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Hermes. He can be a trickster.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''Oh, but there're'' many ''gods in this cave\u2014all askin' for different things! Go hear 'em yourself! You'll get my last tribute if you do. I need to know if they're real.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''All right, don't worry. I'll go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Civilian:''' ''Oh thank you! Remember: be careful where you step,'' [[Mercenary|misthios]]''\u2014you'll be walking on holy ground!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''We'll see about that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "21",
+            "content": "Kassandra entered the cave and went deeper, before reaching a lair containing a statue of Hermes. She investigated some broken vases on the ground near the statue.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Someone dropped offerings here... Looks like they were trying to carry them away behind the statue?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "23",
+            "content": "Kassandra looked behind the statue and found a small opening.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''There's a draft here... A crack in the wall?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Kassandra went through the opening and found a small cavern within. Going further in, she came across a group of [[bandit]]s and eliminated them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Bandits all along. People should've known something was off. And here's all their loot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "27",
+            "content": "[[File:ACOD_-_Hungry_Gods_3.png|thumb|240px|A woman begs for salvation from Hermes]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "28",
+            "content": "Kassandra reached the same opening, finding a woman worshipping the statue of Hermes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Civilian:''' ''All I can offer you is devotion, but I need your help. I'm poor. I have four hungry children and nothing else. I weave baskets for the market, but my cart is ruined. How can I repair it? Or sell my wares without it? Without you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "31",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "32",
+            "content": "|-|...=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "33",
+            "content": "Kassandra made no response.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Civilian:''' ''I need you to listen. Talk to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "35",
+            "content": "Kassandra again made no response.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Civilian:''' ''Prove to me you're listening. I'll never turn away from you. Save us\u2014please!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "37",
+            "content": "Kassandra again made no response. The woman started crying.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Civilian:''' ''...What will I tell them? You've turned your back on me, Hermes. You temp me to do dark things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "39",
+            "content": "The woman left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "40",
+            "content": "|-|I hear your prayer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''...I'm listening, child of Hermes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "42",
+            "content": "*'''Civilian:''' ''Oh, mighty god! I beg you\u2014help me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Your prayer is, er, heard. You will find riches at your door sooner than you... expect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Civilian:''' ''I knew you'd listen! My every sunrise is yours. Everything beneath my humble roof in [[Sami]] is devoted to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Yes. Now, go home and wait for fate to intervene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Civilian:''' ''I will, great god, I will!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "47",
+            "content": "The woman left the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Well, if money's what she needs, the bandits' stolen loot will do just fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "49",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N11",
+            "global_id": "50",
+            "content": "Kassandra returned to the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''No gods in the caves. Only bandits stealing peoples' hopes and [[drachma]]e.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "52",
+            "content": "*'''Civilian:''' ''I knew it! [[Thieves]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''At least you know you won't face [[Zeus]]' wrath. Maybe he'll take pity on you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "54",
+            "content": "*'''Civilian:''' ''I hope Zeus brings his wrath on those bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Don't worry, I brought mine. That should be good enough.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

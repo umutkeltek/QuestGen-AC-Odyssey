@@ -1,0 +1,264 @@
+{
+    "Quest_Name": "Honey Eyes",
+    "Quest_ID": "232435",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Honey Eyes",
+        "description": "'After Kassandra provided Kleio with safe passage from Korinth, a musician soon fell in love with the 'Courtesan|hetaera'. Yet the ring she wished give her was stolen.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Escort Service",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Honey Eyes''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire. ''Anything you need a [[mercenary]]'s help with?''\n*'''Woman:''' ''I can't contain myself. My lover has eyes poured from [[honey]] by [[Aphrodite]] herself. Her lips taste as if they were picked from pomegranate seeds. Her scent\u2013''\n*'''Kassandra:''' ''I get the picture.''\n*'''Woman:''' ''But that's not even to speak of her soul. My darling [[Kleio]]'s sweet wanderer's heart lead her to me all the way from Korinth!''\n\n<tabber>\n|-|Actually, I brought Kleio here.=\n*'''Kassandra:''' ''I actually provided safe passage for a ''[[Courtesan|hetaera]]'' named Kleio aboard my [[Adrestia|ship]].''\n*'''Woman:''' ''You? You are responsible for the happiness that courses through every fiber of my being?''\n*'''Kassandra:''' ''Looks like it.''\n|-|That's enough.=\n</tabber>\n\n*'''Woman:''' ''Oh, mercenary, this is my lucky day. I had a ring I wished to get engraved for my darling Kleio, but it was stolen just this morning.''\n*'''Kassandra:''' ''So you want me to take it from the bandits.''\n*'''Woman:''' ''You catch on fast. Will you do it? / Obviously. Do we have a deal? / Yes, I need it back at all costs.''\n\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Woman:''' ''The glory will be yours, mercenary.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra hunted the bandits and retrieved the ring and returned to the woman.\n\n(If already completed)\n*'''Kassandra:''' ''Sounds like you can stop worrying \u2013 I've taken care of everything.''\n\n*'''Woman:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Woman:''' ''The gods were smiling on me the day we met. Thank you. Please, for your trouble.'' / ''The gods favored me the day we met. Take this for your troubles,'' misthios.\n*'''Kassandra:''' ''All in a day's work.''\n\n<tabber>\n|-|[OFFER] You should join my crew.=\n*'''Kassandra:''' ''You're strong, capable, and obviously resourceful. I could use someone like you on my ship. What do you say?''\n*'''Woman:''' ''The sea is a [[Muses|muse]] for many, but not for me. My own muse wouldn't be happy if I left.''\n*'''Kassandra:''' ''You're making a mistake, but I'll respect your decision.''\n|-|Thank you.=\n</tabber>",
+    "Section_Outcome": "Kassandra helped the musician regain her ring, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' Chaire. ''Anything you need a [[mercenary]]'s help with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Woman:''' ''I can't contain myself. My lover has eyes poured from [[honey]] by [[Aphrodite]] herself. Her lips taste as if they were picked from pomegranate seeds. Her scent\u2013''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I get the picture.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Woman:''' ''But that's not even to speak of her soul. My darling [[Kleio]]'s sweet wanderer's heart lead her to me all the way from Korinth!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|Actually, I brought Kleio here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I actually provided safe passage for a ''[[Courtesan|hetaera]]'' named Kleio aboard my [[Adrestia|ship]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''You? You are responsible for the happiness that courses through every fiber of my being?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Looks like it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|That's enough.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Woman:''' ''Oh, mercenary, this is my lucky day. I had a ring I wished to get engraved for my darling Kleio, but it was stolen just this morning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''So you want me to take it from the bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''You catch on fast. Will you do it? / Obviously. Do we have a deal? / Yes, I need it back at all costs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "18",
+            "content": "(Accept - I'll bring it to you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'll help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Woman:''' ''The glory will be yours, mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "22",
+            "content": "Kassandra hunted the bandits and retrieved the ring and returned to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "24",
+            "content": "(If already completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Sounds like you can stop worrying \u2013 I've taken care of everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Woman:''' ''Did you get it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''It's all yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Woman:''' ''The gods were smiling on me the day we met. Thank you. Please, for your trouble.'' / ''The gods favored me the day we met. Take this for your troubles,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "32",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "33",
+            "content": "|-|[OFFER] You should join my crew.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''You're strong, capable, and obviously resourceful. I could use someone like you on my ship. What do you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Woman:''' ''The sea is a [[Muses|muse]] for many, but not for me. My own muse wouldn't be happy if I left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''You're making a mistake, but I'll respect your decision.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "37",
+            "content": "|-|Thank you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

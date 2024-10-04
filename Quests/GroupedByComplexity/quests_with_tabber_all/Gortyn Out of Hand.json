@@ -1,0 +1,287 @@
+{
+    "Quest_Name": "Gortyn Out of Hand",
+    "Quest_ID": "224112",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-GOoH-Ptolemaiosawait.jpg",
+        "description": "'Some would argue war wasn't good for much, but Ptolemaios|one man thought it was just what Gortyn needed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Messara}}",
+        "previous": "Flowers for the Dead",
+        "next": "Revenge Served Cold",
+        "source": "Kassandra",
+        "location": "Gortyn, Messara, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Gortyn Out of Hand''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by the [[Ptolemaios|head]] of a {{Wiki|Boule (ancient Greece)|boule}} to help his ''[[polis]]'' lose a war.",
+    "Section_Dialogue": "While at the [[Gortyn Code]], Kassandra found an individual calling out to her.\n*'''Civilian:''' [[Mercenary|Misthios]]''! I have a job for you.''\n*'''Kassandra:''' ''What's going on?''\n*'''Civilian:''' ''This job will be dangerous and could get us both killed.''\n*'''Kassandra:''' ''All my jobs are dangerous.''\n*'''Civilian:''' ''This job is about power\u2014the power to rule Gortyn by starting a war.''\n<tabber>\n|-|War comes at a cost.=\n*'''Kassandra:''' ''Wars cost both [[drachma]]e and lives.''\n*'''Civilian:''' ''I know the price. A war will be devastating, but in the end it's what's best for Gortyn.''\n*'''Kassandra:''' ''What do you have in mind?''\n|-|We'll need help.=\n*'''Kassandra:''' ''We can't start a war on our own - we'll need supporters and soldiers.''\n*'''Civilian:''' ''I have support from the captain of the army and the region's upper class.''\n*'''Kassandra:''' ''OK, then tell me your plan.''\n</tabber>\n*'''Civilian:''' ''I'm the head of the boule council, and according to our code, after a war is lost, the council chooses our next leader... Me.''\n*'''Kassandra:''' ''And you need some heads to roll to get things started?''\n*'''Civilian:''' ''Just one head... There's a visiting herald from [[Phaistos Village|Phaistos]]. No doubt here to broker peace with Gortyn.<br />His murder will guarantee that war is the only option for Gortyn.''\n*'''Kassandra:''' ''And my fee?''\n*'''Civilian:''' ''You'll be paid very handsomely for your efforts.''\n*'''Kassandra:''' ''I'll start the war for you. But first, I need more information.''\n*'''Civilian:''' ''Before the war can truly begin, we'll need your help weakening Gortyn. Destroy their supplies, steal their valuables... and kill that ''mal\u00e1kas'' visiting herald.''\n(If \"Where is the herald?\" is chosen)\n*'''Kassandra:''' ''Where can I find the visiting herald?''\n*'''Civilian;''' ''This \"man of peace\" stays at the [[Leader House, Messara|Leader House]] at night, and wanders around Gortyn during the day.<br />Kill him, and Gortyn will be blamed for his murder.''\n(If \"Where are the supplies?\" is chosen)\n*'''Kassandra:''' ''Tell me about the supplies I should destroy.''\n*'''Civilian:''' ''The weapon racks and supplies in [[Daidalos Fort]] must be destroyed to ensure they don't win the war.''\n(If \"Where can I find the valuables?\" is chosen)\n*'''Kassandra:''' ''There's plenty of valuables to be found in Daidalos Fort.''\n*'''Civilian:''' ''Stealing from there will hurt the Gortyn war effort most.''\n(Leave \u2013 \"I have enough information.\")\n*'''Kassandra:''' ''I'll start this war for you. I hope you know what you're doing.''\n*'''Civilian:''' ''We've been planning this for a while. See me when everything is complete.''\nKassandra departed and tracked down the herald. After killing him, she recovered a note from his body.\n::'''Towards a Unified [[Messara]]:'''<br />''Your aid in helping us defeat Phaistos is greatly appreciated. As promised, I will personally see to it that you are made part of my boule council. I am aware of your concern with Ptolemaios. I will get rid of him if he proves to be an obstacle. Speak of this to no one.''\nKassandra travelled to Daidalos Fort to track down the Leader of Messara. Killing him, she recovered a [[Cult of Kosmos clues#Gods of the Aegean Sea|note]] written to him by his [[Cult of Kosmos|Cultist]] [[Melanthos|son]]. After destroying the supplies, Kassandra left the fort and returned to the politician.\n*'''Kassandra:''' ''It's done. Gortyn is weak and ready for new leadership.''\n*'''Civilian:''' ''Praise the gods! Here's a reward for your troubles.''\nThe politician left.\n*'''Kassandra:''' ''After war, the boule council chooses a new leader.''",
+    "Section_Outcome": "Kassandra weakened Gortyn's strength to help the head of the boule council, Ptolemaios, become the city's new leader.",
+    "Section_Behind_the_scenes": "*Ptolemaios becomes the new Nation Leader of Messara at the conclusion of this memory, and he will immediately take up residence in [[Daidalos Fort]] with a fresh group of bodyguards affiliated with either [[Athens]] or [[Sparta]], depending on who controls the region. Should that faction later lose control of the region, he will be replaced by a randomly-generated leader for the opposing side, while he remains affiliated with the faction in control at the moment of his ascension.\n*Killing Ptolemaios after this memory will result in him eventually being replaced by another randomly-generated leader.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Messara",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While at the [[Gortyn Code]], Kassandra found an individual calling out to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' [[Mercenary|Misthios]]''! I have a job for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Civilian:''' ''This job will be dangerous and could get us both killed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''All my jobs are dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Civilian:''' ''This job is about power\u2014the power to rule Gortyn by starting a war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|War comes at a cost.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Wars cost both [[drachma]]e and lives.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Civilian:''' ''I know the price. A war will be devastating, but in the end it's what's best for Gortyn.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''What do you have in mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|We'll need help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''We can't start a war on our own - we'll need supporters and soldiers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Civilian:''' ''I have support from the captain of the army and the region's upper class.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''OK, then tell me your plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "16",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''I'm the head of the boule council, and according to our code, after a war is lost, the council chooses our next leader... Me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''And you need some heads to roll to get things started?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Civilian:''' ''Just one head... There's a visiting herald from [[Phaistos Village|Phaistos]]. No doubt here to broker peace with Gortyn.<br />His murder will guarantee that war is the only option for Gortyn.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''And my fee?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Civilian:''' ''You'll be paid very handsomely for your efforts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'll start the war for you. But first, I need more information.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Civilian:''' ''Before the war can truly begin, we'll need your help weakening Gortyn. Destroy their supplies, steal their valuables... and kill that ''mal\u00e1kas'' visiting herald.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If \"Where is the herald?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Where can I find the visiting herald?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "26",
+            "content": "*'''Civilian;''' ''This \"man of peace\" stays at the [[Leader House, Messara|Leader House]] at night, and wanders around Gortyn during the day.<br />Kill him, and Gortyn will be blamed for his murder.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "27",
+            "content": "(If \"Where are the supplies?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Tell me about the supplies I should destroy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Civilian:''' ''The weapon racks and supplies in [[Daidalos Fort]] must be destroyed to ensure they don't win the war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "30",
+            "content": "(If \"Where can I find the valuables?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''There's plenty of valuables to be found in Daidalos Fort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Civilian:''' ''Stealing from there will hurt the Gortyn war effort most.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "33",
+            "content": "(Leave \u2013 \"I have enough information.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'll start this war for you. I hope you know what you're doing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "35",
+            "content": "*'''Civilian:''' ''We've been planning this for a while. See me when everything is complete.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "36",
+            "content": "Kassandra departed and tracked down the herald. After killing him, she recovered a note from his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "37",
+            "content": "::'''Towards a Unified [[Messara]]:'''<br />''Your aid in helping us defeat Phaistos is greatly appreciated. As promised, I will personally see to it that you are made part of my boule council. I am aware of your concern with Ptolemaios. I will get rid of him if he proves to be an obstacle. Speak of this to no one.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "38",
+            "content": "Kassandra travelled to Daidalos Fort to track down the Leader of Messara. Killing him, she recovered a [[Cult of Kosmos clues#Gods of the Aegean Sea|note]] written to him by his [[Cult of Kosmos|Cultist]] [[Melanthos|son]]. After destroying the supplies, Kassandra left the fort and returned to the politician.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''It's done. Gortyn is weak and ready for new leadership.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "40",
+            "content": "*'''Civilian:''' ''Praise the gods! Here's a reward for your troubles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "41",
+            "content": "The politician left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''After war, the boule council chooses a new leader.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

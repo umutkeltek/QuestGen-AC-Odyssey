@@ -1,0 +1,39 @@
+{
+    "QuestName": "Swift as Wind",
+    "QuestID": "223695",
+    "Revision": {
+        "id": "1047448",
+        "parentid": "830004",
+        "timestamp": "2023-06-13T19:05:49Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047448",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "0o2ijfgisndi2gnxq6tyfqqpp1gtoro"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Seeing the success of his initiative thus far, Demosthenes determined to maintain his course. Many Spartan Polemarchs would lose their lives at his word.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "In the Midst of Chaos",
+        "next": "Last Request",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Swift as Wind''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Encouraged by Kassandra's success, Demosthenes tasked her to bring down more of the Spartan ''polemarchoi''.",
+    "Section_Dialogue": "*'''Kassandra:\u00a0'''''Of course. What do you need?''\n*'''Demosthenes:\u00a0'''''At this rate, the Spartans will need to recruit from their farmers.''\n*'''Kassandra:\u00a0'''''You're really not fond\u00a0Sparta.''\n*'''Demosthenes:\u00a0'''''Would you be, were you me? They challenge all that Athens stands for. They care nothing for art, or education, or philosophy. For them, warfare is the only goal.''\n*'''Kassandra:\u00a0'''''Strange thing to hear from a general in the Athenian army.''\n*'''Demosthenes:\u00a0'''''I serve Athens with arms because I am skilled with fighting and strategy. But I protect those who serve our culture and legacy.''\n*'''Kassandra:\u00a0'''''They're lucky to have you.''\n*'''Demosthenes:\u00a0'''''I've earned my place. Would you be interested in more work removing Spartan commanders?''\n*'''Kassandra:\u00a0'''''I'll get you your seals.''\n(If players choose \"Why are the Spartans attacking Athens?\")\n*'''Kassandra:\u00a0'''''Why do you think the Spartans are attacking Athens now?''\n*'''Demosthenes:\u00a0'''''Why do they do anything? For conquest. For glory. Because they know no other life than war.''\n(If players choose \"What will you do with the seals?\")\n*'''Kassandra: '''''What'''''\u00a0'''''will you do with all these seals?''\n*'''Demosthenes:\u00a0'''''For now, I'll use them as proof of what I've achieved. It will give my words weight. Very few Athenians have ever seen a Spartan seal.''\n*'''Kassandra:\u00a0'''''But you have plans for them later.''\n*'''Demosthenes:\u00a0'''''Someday, I want children to see them. Then they'll witness me donate them to a temple. That should inspire them to earn their own.''\n(If players choose \"What else is on your mind?\")\n*'''Kassandra:\u00a0'''''You seem thoughtful. Thinking of what happened to your grandfather?''\n*'''Demosthenes:\u00a0'''''No. Thinking of the first battle I lost.''\n*'''Kassandra: '''''What happened?''\n*'''Demosthenes:\u00a0'''''I overestimated my own abilities. We were supposed to lay siege to a city, but I was impatient. I felt the need to prove myself... at the expense of my men.''\n*'''Kassandra:\u00a0'''''You abandoned the siege.''\n*'''Demosthenes:\u00a0'''''Yes. I led an attack my men weren't prepared for, on Aitolia. It was pure hubris on my part, and my men paid for it. My closest friend died in the battle. Never again.''\n*'''Kassandra:\u00a0'''''I see why you're so determined to get the Spartans at a disadvantage.''\n*'''Demosthenes:\u00a0'''''They are already at a disadvantage. They made an enemy of me.''\n(Leave \u2013 \"I have what I need.\")\n*'''Kassandra:\u00a0'''''I know enough to keep going.''\nAfter she finishes her task, Kassandra approached Demosthenes.\n*'''Demosthenes:\u00a0'''''Do you have my seals?''\n*'''Kassandra:\u00a0'''''I do.''\n*'''Demosthenes:\u00a0'''''The Spartans must be aware of your actions by now. They can't be happy. Interested in upsetting them some more?''\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Demosthenes eliminate three Spartan ''polemarchs'' and recover their seals. She was again tasked to retrieve more after being given his [[Demosthenes' Battleplate|breastplate]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

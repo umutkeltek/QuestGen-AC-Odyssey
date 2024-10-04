@@ -1,0 +1,613 @@
+{
+    "Quest_Name": "Idiot Hunt",
+    "Quest_ID": "224050",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Idiot Hunt 3.png",
+        "description": "'Kassandra ventured into the wilds to help a worried woman find her husband - an idiot, by her claim.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kythera Island}}",
+        "next": "Purple Pain",
+        "source": "Kassandra",
+        "location": "Kythera Island, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Idiot Hunt''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a woman in [[Skandeia Harbor]] who requested her to find her husband.",
+    "Section_Dialogue": "While in the [[Skandeia Harbor]], Kassandra came across a woman calling for her aid.\n*'''Civilian:''' ''Oh, a real adventurer! Please, help!<br>Please, ''[[Mercenary|misthios]]''! It's my idiot husband!''\nKassandra approached her.\n*'''Civilian:''' Misthios''! My husband!''\n*'''Kassandra:''' ''What's wrong with him?''\n*'''Civilian:''' ''He's an idiot.''\n*'''Kassandra:''' ''That's one problem I can't solve.''\n[[File:ACOD Idiot Hunt 1.png|thumb|250px|The woman asked Kassandra to help locate her husband]]\n*'''Civilian:''' ''He's a fisherman who thought he could make better [[drachma]]e hunting [[Eurasian lynx|lynx]]\u2014spent everything we had on a [[Death-Mark Bow|bow]]! I haven't seen him in three days. ''Please, misthios,'' will you find my idiot?''\n*'''Kassandra:''' ''Not only will I find your idiot, I'll bring him home.''\n*'''Civilian:''' ''Thank you! He was last seen west of Skandeia Harbor. Please hurry.''\n(If players asked \"How good a huntsman is he?\")\n*'''Kassandra:''' ''So he's an idiot\u2014but is he a good huntsman?''\n*'''Civilian:''' ''He struggled with fish, ''misthios. Tiny, toothless fish.'' And now the fool is ''hunting lynx.\n(If players asked \"Where did he go?\")\n*'''Kassandra:''' ''You said your husband headed\u2014''\n*'''Civilian:''' ''The biggest lynx live in [[Hunter's Cave|caves]] near the [[Mycenaean Ruins|ruins]]. Knowing my idiot, that's where he'd go.''\n(If players asked \"What reward are you offering?\")\n*'''Kassandra:''' ''How much is your husband worth to you?''\n*'''Civilian:''' ''You can keep his bow. It was the talk of the agora before he bought it.<br>Then I'll make sure he never uses it again.''\n(If players chose \"I'll find him.\")\n*'''Kassandra:''' ''He's been gone a while. I should get going.''\n*'''Civilian:''' ''You'll find him. I know it.''\n*'''Kassandra:''' ''How?''\n*'''Civilian:''' ''Because ''you're'' not an idiot.''\n[[File:ACOD Idiot Hunt 2.png|thumb|250px|Kassandra outside the cave mentioned by the wife]]\nKassandra headed northwest to a cave, which was surrounded by a pack of lynx.\n*'''Kassandra:''' ''Lynx don't prowl for nothing... Must be something in that cave.''\nEntering the cave, she heard someone.\n*'''Civilian:''' ''That... is a lot of blood!<br>Help! I can hear you!<br>Please, I\u2014there's so much blood, help!''\nKassandra found the hunter on the ground, injured.\n[[File:ACOD Idiot Hunt 4.png|thumb|250px|Kassandra finds the husband heavily wounded]]\n(If Kassandra had not yet met the wife, she instead questioned the civilian about how he got there.)\n*'''Civilian:''' ''I knew you weren't a lynx. Heard you're footsteps. Only two. Lynx have four.''\n*'''Kassandra:''' ''You're seriously wounded.''\n*'''Civilian:''' ''These lynx\u2014uh, they're a bit tougher than the sea bass I usually catch. Could you help a fellow hunter home to his wife?''\n(Accept \u2013 \"I'll get you home.\")\n*'''Kassandra:''' ''I'll see what I can do.''\n*'''Civilian:''' ''Thank the gods! She's in Skandeia Harbor.''\n(If players asked \"What's your wife like?\")\n*'''Kassandra:''' ''Tell me about your wife.''\n*'''Civilian:''' She's'' the real lynx!''\nThe hunter laughed at his own joke.\n*'''Civilian:''' ''Please don't tell her I said that.''\n(If players asked \"What reward are you offering?\")\n*'''Kassandra:''' ''If I get you home safe, what's my reward?''\n*'''Civilian:''' ''My [[bow]]. It's my pride and joy\u2014sold almost everything I owned to buy it.''\n(If players asked \"How can you call yourself a hunter?\")\n*'''Kassandra:''' ''You said you usually catch sea bass\u2014what made you think you could take on a lynx?''\n*'''Civilian:''' ''Never seen a Kytherian sea bass, have you? Even a lynx wouldn't touch 'em!<br>If you fancy yourself a ''hunter'', though... there's a [[Krokottas Hyena|monstrous beast]] in the south. Was gonna go after it myself once I broke in my bow.''\n*'''Kassandra:''' ''Monstrous beast, huh? I'll have to see it for myself.''\n(Leave \u2013 \"Let's get you home.\")\n*'''Kassandra:''' ''You've lost a lot of blood. If you're going to make it home, we'll need to move now.''\nShe carried him on her back out of the cave.\n*'''Civilian:''' ''Ow, ow, ow!''\n[[File:ACOD Idiot Hunt 5.png|thumb|250px|Kassandra escorting the husband back to town]]\nShe began making her way back to Skandeia Harbor.\n*'''Civilian:''' ''How much blood can a man lose? I'm getting tired.''\nFortunately, Kassandra made it back to his wife with him still in one piece.\n\n(If players met the husband first)\n*'''Kassandra:''' ''And you must be his wife.''\n**'''Civilian:''' ''The wife of an idiot, I'm afraid.''\n[[File:ACOD Idiot Hunt 6.png|thumb|250px|The husband reunited with his wife]]\nRegardless of who Kassandra spoke to first, she successfully reunited the husband and wife.\n*'''Civilian 1:''' ''Missed your idiot?''\n*'''Civilian 2:''' ''My love, you're alive!''\n*'''Civilian 2:''' ''So. Are we having lynx for dinner?''\n*'''Civilian 1:''' ''Enough about the lynx.''\nThe couple embraced and shared a moment.\n<tabber>\n|-|You're a beautiful couple.=\n*'''Kassandra:''' ''I'm happy to see you reunited.''\n|-|You're a crazy couple.=\n*'''Kassandra:''' ''You are the strangest people I've ever met.''\n*'''Civilian 2:''' ''Love ''is'' strange, ''misthios''. Best to embrace it.''\n</tabber>\nThe two began to kiss each other passionately and noisily.\n*'''Kassandra:''' ''Wonderful. I'll leave you to, ah\u2014''<br>Chaire.\nKassandra walked away with her reward.\n\nIf the man died.\n*'''Woman:''' ''What happened?!''\n<tabber>\n|-|I couldn't save him.=\n*'''Kassandra:''' ''I found him in a cave, surrounded by lynx. He'd killed a few, but was too far gone to bring home.''\n*'''Woman:''' ''So my husband was alive when you found him?''\n*'''Kassandra:''' ''He was badly wounded - ''\n*'''Woman:''' ''But breathing? You - you could have helped him!''\n*'''Kassandra:''' ''I did all I could - ''\n|-|Lie - He's left you.=\n*'''Kassandra:''' ''I found him in a cave not far from here. He was wounded, but alive.''\n*'''Woman:''' ''I - what?''\n*'''Kassandra:''' ''I stopped the bleeding and offered to bring him home, but he didn't want to come back.''\n</tabber>\n*'''Woman:''' ''Liar! How - you killed him! I'll send every mercenary in the [[Greece|Greek]] world after you!''\nTrue to her word, two mercenaries begun to hunt Kassandra.",
+    "Section_Outcome": "Kassandra helped the woman to find and rescue her husband.",
+    "Section_Trivia": "*If the quest is started by going to the cave first, the player can talk to the husband and ask him questions. During this questioning, he will mention a \"beast to the south\" that can only be the [[Krokottas Hyena]]. The protagonist will mention they should see this for themselves, even if the beast has already been encountered and slain.\n*If the cave is approached, but not explored and thus missing meeting the husband, the animals will kill him while you go and talk to the wife.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kythera Island",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in the [[Skandeia Harbor]], Kassandra came across a woman calling for her aid.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''Oh, a real adventurer! Please, help!<br>Please, ''[[Mercenary|misthios]]''! It's my idiot husband!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Civilian:''' Misthios''! My husband!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What's wrong with him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Civilian:''' ''He's an idiot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''That's one problem I can't solve.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "8",
+            "content": "[[File:ACOD Idiot Hunt 1.png|thumb|250px|The woman asked Kassandra to help locate her husband]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Civilian:''' ''He's a fisherman who thought he could make better [[drachma]]e hunting [[Eurasian lynx|lynx]]\u2014spent everything we had on a [[Death-Mark Bow|bow]]! I haven't seen him in three days. ''Please, misthios,'' will you find my idiot?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Not only will I find your idiot, I'll bring him home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Civilian:''' ''Thank you! He was last seen west of Skandeia Harbor. Please hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "12",
+            "content": "(If players asked \"How good a huntsman is he?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''So he's an idiot\u2014but is he a good huntsman?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Civilian:''' ''He struggled with fish, ''misthios. Tiny, toothless fish.'' And now the fool is ''hunting lynx.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "15",
+            "content": "(If players asked \"Where did he go?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''You said your husband headed\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''The biggest lynx live in [[Hunter's Cave|caves]] near the [[Mycenaean Ruins|ruins]]. Knowing my idiot, that's where he'd go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "18",
+            "content": "(If players asked \"What reward are you offering?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''How much is your husband worth to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Civilian:''' ''You can keep his bow. It was the talk of the agora before he bought it.<br>Then I'll make sure he never uses it again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "21",
+            "content": "(If players chose \"I'll find him.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''He's been gone a while. I should get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Civilian:''' ''You'll find him. I know it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''How?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Civilian:''' ''Because ''you're'' not an idiot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "26",
+            "content": "[[File:ACOD Idiot Hunt 2.png|thumb|250px|Kassandra outside the cave mentioned by the wife]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "27",
+            "content": "Kassandra headed northwest to a cave, which was surrounded by a pack of lynx.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Lynx don't prowl for nothing... Must be something in that cave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "29",
+            "content": "Entering the cave, she heard someone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Civilian:''' ''That... is a lot of blood!<br>Help! I can hear you!<br>Please, I\u2014there's so much blood, help!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "31",
+            "content": "Kassandra found the hunter on the ground, injured.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "32",
+            "content": "[[File:ACOD Idiot Hunt 4.png|thumb|250px|Kassandra finds the husband heavily wounded]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "O1",
+            "global_id": "33",
+            "content": "(If Kassandra had not yet met the wife, she instead questioned the civilian about how he got there.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Civilian:''' ''I knew you weren't a lynx. Heard you're footsteps. Only two. Lynx have four.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''You're seriously wounded.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Civilian:''' ''These lynx\u2014uh, they're a bit tougher than the sea bass I usually catch. Could you help a fellow hunter home to his wife?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "37",
+            "content": "(Accept \u2013 \"I'll get you home.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll see what I can do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "39",
+            "content": "*'''Civilian:''' ''Thank the gods! She's in Skandeia Harbor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "40",
+            "content": "(If players asked \"What's your wife like?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Tell me about your wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Civilian:''' She's'' the real lynx!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": "The hunter laughed at his own joke.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Civilian:''' ''Please don't tell her I said that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "45",
+            "content": "(If players asked \"What reward are you offering?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D29",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''If I get you home safe, what's my reward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Civilian:''' ''My [[bow]]. It's my pride and joy\u2014sold almost everything I owned to buy it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "48",
+            "content": "(If players asked \"How can you call yourself a hunter?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D31",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''You said you usually catch sea bass\u2014what made you think you could take on a lynx?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "50",
+            "content": "*'''Civilian:''' ''Never seen a Kytherian sea bass, have you? Even a lynx wouldn't touch 'em!<br>If you fancy yourself a ''hunter'', though... there's a [[Krokottas Hyena|monstrous beast]] in the south. Was gonna go after it myself once I broke in my bow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Monstrous beast, huh? I'll have to see it for myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "52",
+            "content": "(Leave \u2013 \"Let's get you home.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''You've lost a lot of blood. If you're going to make it home, we'll need to move now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "54",
+            "content": "She carried him on her back out of the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Civilian:''' ''Ow, ow, ow!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "56",
+            "content": "[[File:ACOD Idiot Hunt 5.png|thumb|250px|Kassandra escorting the husband back to town]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N8",
+            "global_id": "57",
+            "content": "She began making her way back to Skandeia Harbor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "58",
+            "content": "*'''Civilian:''' ''How much blood can a man lose? I'm getting tired.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "59",
+            "content": "Fortunately, Kassandra made it back to his wife with him still in one piece.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C8",
+            "global_id": "61",
+            "content": "(If players met the husband first)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D37",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''And you must be his wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "63",
+            "content": "**'''Civilian:''' ''The wife of an idiot, I'm afraid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "64",
+            "content": "[[File:ACOD Idiot Hunt 6.png|thumb|250px|The husband reunited with his wife]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "65",
+            "content": "Regardless of who Kassandra spoke to first, she successfully reunited the husband and wife.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "*'''Civilian 1:''' ''Missed your idiot?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Civilian 2:''' ''My love, you're alive!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "68",
+            "content": "*'''Civilian 2:''' ''So. Are we having lynx for dinner?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "69",
+            "content": "*'''Civilian 1:''' ''Enough about the lynx.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "70",
+            "content": "The couple embraced and shared a moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "71",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "72",
+            "content": "|-|You're a beautiful couple.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I'm happy to see you reunited.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "74",
+            "content": "|-|You're a crazy couple.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''You are the strangest people I've ever met.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "76",
+            "content": "*'''Civilian 2:''' ''Love ''is'' strange, ''misthios''. Best to embrace it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "77",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N12",
+            "global_id": "78",
+            "content": "The two began to kiss each other passionately and noisily.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Wonderful. I'll leave you to, ah\u2014''<br>Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "80",
+            "content": "Kassandra walked away with her reward.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "81",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N14",
+            "global_id": "82",
+            "content": "If the man died.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "83",
+            "content": "*'''Woman:''' ''What happened?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "84",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "85",
+            "content": "|-|I couldn't save him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''I found him in a cave, surrounded by lynx. He'd killed a few, but was too far gone to bring home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "87",
+            "content": "*'''Woman:''' ''So my husband was alive when you found him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''He was badly wounded - ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "89",
+            "content": "*'''Woman:''' ''But breathing? You - you could have helped him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I did all I could - ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "91",
+            "content": "|-|Lie - He's left you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''I found him in a cave not far from here. He was wounded, but alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "93",
+            "content": "*'''Woman:''' ''I - what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''I stopped the bleeding and offered to bring him home, but he didn't want to come back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "95",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D56",
+            "global_id": "96",
+            "content": "*'''Woman:''' ''Liar! How - you killed him! I'll send every mercenary in the [[Greece|Greek]] world after you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "97",
+            "content": "True to her word, two mercenaries begun to hunt Kassandra.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

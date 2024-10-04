@@ -1,0 +1,40 @@
+{
+    "QuestName": "Defense of Samos",
+    "QuestID": "233150",
+    "Revision": {
+        "id": "1047396",
+        "parentid": "901492",
+        "timestamp": "2023-06-13T18:26:14Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047396",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "oxe34s9rrse3wjalmwe4cuujok6gmfd"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'With Mestor (Samian)|Mestor's plan uncovered and the Persian ships on their way, Herodotos and Kassandra set out to defend Samos before it was too late.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Family Values (Samos)|Family Values",
+        "next": "Moving Forward",
+        "source": "Kassandra",
+        "location": "Aegean Sea near Samos, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Defense of Samos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "Kassandra and [[Herodotos]] saw the [[Persia]]n fleet arriving at [[Samos]].",
+    "Section_Dialogue": "Kassandra boarded the [[Adrestia]] and approached the fleet.\n\n*'''Herodotos:''' ''We can't let them reach Samos. It's up to us.''\n*'''Herodotos:''' ''There they are! Persian ships!''\n\nWith two destroyed.\n\n*'''Herodotos:''' ''Destroy them all!''\n\nWith all the ships destroyed, she spoke with Herodotos.\n\n*'''Herodotos:'''\u00a0''Samos is safe.''\n*'''Kassandra:'''''\u00a0What about [[Mestor]]?''\n*'''Herodotos:'''\u00a0''After his faulure, he won't get a second chance. Plus, there's no way he'd stay on Samos now.''\n\n<tabber>\n|-|(If Theodoros was accused)=\n*'''Kassandra:''' ''About [[Theodoros]]... It was my fault you accused him.''\n*'''Herodotos:''' ''But only because I didn't trust myself enough to do so.''\n*'''Kassandra:''' ''But you trusted me.''\n*'''Herodotos:''' ''My trust in you was sound. It was still ''my'' choice to accuse him, not yours.''\n\n|-|(If Mestor was accused)=\n*'''Kassandra:''' ''Theodoros has changed.''\n*'''Herodotos:''' ''He's the Theodoros I remembered. He was always willing to admit fault. It's a trait too few people share.''\n*'''Kassandra:''' ''Then you believe things will be OK? Even if you leave Samos again?''\n*'''Herodotos:''' ''Of course. Theodoros has work to do here, and he understands mine is elsewhere.''\n*'''Kassandra:''' ''Good.''\n\n</tabber>\n\n*'''Herodotos:''' ''Thank you for everything, Kassandra. Without you, I couldn't have gotten through this.''",
+    "Section_Outcome": "Kassandra defeated the four Persian ships with the [[Adrestia]].",
+    "Section_Trivia": "Even though they are Persian ships, they are listed as Pirate vessels.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

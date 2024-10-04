@@ -1,0 +1,39 @@
+{
+    "QuestName": "Rage of a Spartan",
+    "QuestID": "236229",
+    "Revision": {
+        "id": "1047556",
+        "parentid": "841823",
+        "timestamp": "2023-06-13T19:31:55Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047556",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "hq8yh2s9lsp4h0opqnqc0m2xnjg7e12"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Athens|Athenians in Spartan territory could not rest easy once the enemy soldiers were dead. This is the story of a woman who hired Mercenary|mercenaries against the Athenians.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Rage of a Spartan''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A woman hired Kassandra to deal with an [[Athens|Athenian]] Commander.",
+    "Section_Dialogue": "*'''Kassandra:''' ''You're the one who left the message on the [[Message board|board]]. What's going on?''\n*'''Woman:''' ''The Athenians defeated the soldiers and killed most of the men. But they are fools if they think they are safe now.''\n*'''Kassandra:''' ''What are you planning?''\n*'''Woman:''' ''[[Sparta]]n women are not like weak Athenian women. We have [[Drachma|money]], and property, and rage. I will use all to strike at their commanders, soldiers, and fleet.''\n*'''Kassandra:''' ''Of course. You want me to deal with the Athenian commander.''\n*'''Woman:''' ''Are you up for it?''\n(Accept \u2013 The commander's head is mine.)\n*'''Kassandra:''' ''I'll handle this.''\n*'''Woman:''' ''You truly are sent by the gods.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra left the woman, and sought out the commander, killing him before returning to the woman.\n*'''Woman:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Woman:''' ''You've earned your payment, ''misthios''. Here. This is for you.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra dealt with the Athenian Commander, and was rewarded for it.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

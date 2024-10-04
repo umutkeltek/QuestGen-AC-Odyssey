@@ -1,0 +1,391 @@
+{
+    "Quest_Name": "The Great Contender",
+    "Quest_ID": "225246",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Great Contender 4.png",
+        "description": "'To be victorious in the Battle of One Hundred Hands, Kassandra needed to crush all those who stood in her way.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Call to Arms (Melos)|Call to Arms",
+        "next": "Legend No More",
+        "source": "Kassandra",
+        "location": "Melos, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''The Great Contender''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra participated in the [[Battle of One Hundred Hands]].",
+    "Section_Dialogue": "Kassandra followed [[Drakios]] to the area where participants prepared.\n*'''Drakios:''' ''Ah, more fresh blood.<br>By the look of these warriors, this Battle of One Hundred Hands is going to be one for the ages. Indeed, I think it will have people talking for years.<br>Your gear could be the difference between victory or death. Don't forget to visit [[Gernadios]] for the best weapons and armor.''\n*'''[[Blacksmith]]:''' ''Thanks, Drakios.''\nDrakios halted before great gates.\n*'''Drakios:''' ''Prepare, warriors. The Battle will commence soon.''\nPrepared and ready, Kassandra approached Drakios.\n*'''Drakios:''' ''Ah, the ''[[Mercenary|misthios]]'' arrives. Then we can begin.''\n[[File:ACOD The Great Contender 2.png|thumb|250px|Kassandra among the contestants]]\nKassandra gathered alongside other participants, watching as Drakios gave a speech on a platform.\n*'''Drakios:''' ''We are gathered here again for the Battle of One Hundred Hands.<br>Indeed, impressive warriors from all over the [[Greece|Greek]] world have come to test their might and skill against each other.<br>Whether it is the sharpest [[sword]] in the [[Athens|Athenian]] army, or the broadest [[shield]] [[Sparta]] can muster, all now stand alone against the many.''\n<tabber>\n|-|If Kassandra already met Roxana=\nKassandra turned to look towards [[Roxana]], who similarly glanced at Kassandra.\n|-|If Kassandra had not met Roxana before=\n</tabber>\n*'''Drakios:''' ''At our climax, the final two will face off on a special battlefield, but only one will be called Champion. Let the Battle of One Hundred Hands begin!''\nThe horn sounded to signify the start of the tournament. The participants including Kassandra and Roxana took their positions in the battlefield.\n*'''Drakios:''' ''Remember that horn. You'll hear it throughout the Battle, marking your progress. Now fight!''\n[[File:ACOD The Great Contender 5.png|thumb|250px|Kassandra fighting the contestants]]\nThe horn sounded again, beginning the tournament. Kassandra made her first kills in the open area, before heading towards a quarry area where more participants were fighting in.\n*'''Kassandra:''' ''Fighting with [[Obsidian glass|obsidian]] [[Obsidian Sword|swords]]? I'd win against them using my [[fist]]s.''\nThe horn sounded for the first twenty-five deaths.\n*'''Kassandra:''' ''The second horn. That means a quarter of the combatants are dead.''\nKassandra cleared the area of enemies.\n*'''Kassandra:''' ''The other contestants must be somewhere else.''\nThe horn sounded once again.\n*'''Kassandra:''' ''Another horn. Half the fighters are already dead.''\nAs Kassandra travelled the island, she came across a sulfur pit.\n*'''Kassandra:''' ''Smells like rotten eggs.''\nShe continued to kill her way across the battlefield.\n*'''Kassandra:''' ''I need to keep moving.''\nShe noticed groups of fighters actively working together, against the Battle's rules.\n*'''Kassandra:''' ''I thought this was every fighter for herself. These people are clearly working together.''\nThe final horn blasted.\n*'''Kassandra:''' ''I'm nearly finished. I should return to Drakios.''\nShe took stock of all the dead strewn across the battlefield.\n*'''Kassandra:''' ''These bodies... Such a waste of life for sport.''\n<tabber>\n|-|If Kassandra already met Roxana=\n*'''Kassandra''' ''I haven't seen Roxana among the dead.''\n|-|If Kassandra had not met Roxana before=\n</tabber>\nAs Kassandra made her way back to the city gates, she mused on the collective strength of the fighters.\n*'''Kassandra:''' ''I can only imagine the might of all these warriors aligned against the [[Cult of Kosmos|Cult]]. Instead, we came to [[Melos]] to slaughter each other over a sack of drachmae.''\nKassandra approached the gates as Drakios gave a slow clap.\n*'''Kassandra:''' ''Is there a final challenger?''\n*'''Drakios:''' ''Indeed there is! Patience, Kassandra, patience.''\n<tabber>\n|-|If Kassandra completed Roxana's quests=\n*'''Kassandra:''' ''Tell me, Drakios! Is it Roxana? Is she alive?''\n*'''Drakios:''' ''Your final challenger approaches.''\n[[File:ACOD The Great Contender 6.png|thumb|250px|Roxana, the other surviving contestant]]\nThe other surviving challenger approached. It was Roxana of Hydrea.\n*'''Drakios:''' ''Come! We will finish this in the shadow of the [[Typhon's Revenge|volcano]] in the east.''\n|-|If Kassandra had not met Roxana before=\n*'''Drakios:''' ''Well done, Kassandra. Well done. Your final challenge takes you to the volcano to the east.''\n*'''Kassandra:''' ''And then you'll give me the information I want about the Cult.''\n*'''Drakios:''' ''Indeed, I will. But before that, one contestant remains.''\nRoxana approached Kassandra, and they acknowledged each other.\n</tabber>",
+    "Section_Outcome": "Kassandra killed her way to the top of the battle royale, meeting Roxana of Hydrea in the final round.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Drakios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra followed [[Drakios]] to the area where participants prepared.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Drakios:''' ''Ah, more fresh blood.<br>By the look of these warriors, this Battle of One Hundred Hands is going to be one for the ages. Indeed, I think it will have people talking for years.<br>Your gear could be the difference between victory or death. Don't forget to visit [[Gernadios]] for the best weapons and armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''[[Blacksmith]]:''' ''Thanks, Drakios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Drakios halted before great gates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Drakios:''' ''Prepare, warriors. The Battle will commence soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Prepared and ready, Kassandra approached Drakios.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Drakios:''' ''Ah, the ''[[Mercenary|misthios]]'' arrives. Then we can begin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "8",
+            "content": "[[File:ACOD The Great Contender 2.png|thumb|250px|Kassandra among the contestants]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra gathered alongside other participants, watching as Drakios gave a speech on a platform.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Drakios:''' ''We are gathered here again for the Battle of One Hundred Hands.<br>Indeed, impressive warriors from all over the [[Greece|Greek]] world have come to test their might and skill against each other.<br>Whether it is the sharpest [[sword]] in the [[Athens|Athenian]] army, or the broadest [[shield]] [[Sparta]] can muster, all now stand alone against the many.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|If Kassandra already met Roxana=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N5",
+            "global_id": "13",
+            "content": "Kassandra turned to look towards [[Roxana]], who similarly glanced at Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|If Kassandra had not met Roxana before=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D6",
+            "global_id": "16",
+            "content": "*'''Drakios:''' ''At our climax, the final two will face off on a special battlefield, but only one will be called Champion. Let the Battle of One Hundred Hands begin!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "17",
+            "content": "The horn sounded to signify the start of the tournament. The participants including Kassandra and Roxana took their positions in the battlefield.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "18",
+            "content": "*'''Drakios:''' ''Remember that horn. You'll hear it throughout the Battle, marking your progress. Now fight!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "19",
+            "content": "[[File:ACOD The Great Contender 5.png|thumb|250px|Kassandra fighting the contestants]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "20",
+            "content": "The horn sounded again, beginning the tournament. Kassandra made her first kills in the open area, before heading towards a quarry area where more participants were fighting in.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Fighting with [[Obsidian glass|obsidian]] [[Obsidian Sword|swords]]? I'd win against them using my [[fist]]s.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "22",
+            "content": "The horn sounded for the first twenty-five deaths.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''The second horn. That means a quarter of the combatants are dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "24",
+            "content": "Kassandra cleared the area of enemies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''The other contestants must be somewhere else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "26",
+            "content": "The horn sounded once again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Another horn. Half the fighters are already dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "28",
+            "content": "As Kassandra travelled the island, she came across a sulfur pit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Smells like rotten eggs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "30",
+            "content": "She continued to kill her way across the battlefield.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I need to keep moving.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "32",
+            "content": "She noticed groups of fighters actively working together, against the Battle's rules.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I thought this was every fighter for herself. These people are clearly working together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "34",
+            "content": "The final horn blasted.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I'm nearly finished. I should return to Drakios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "36",
+            "content": "She took stock of all the dead strewn across the battlefield.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''These bodies... Such a waste of life for sport.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "38",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "39",
+            "content": "|-|If Kassandra already met Roxana=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "40",
+            "content": "*'''Kassandra''' ''I haven't seen Roxana among the dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "41",
+            "content": "|-|If Kassandra had not met Roxana before=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "42",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N16",
+            "global_id": "43",
+            "content": "As Kassandra made her way back to the city gates, she mused on the collective strength of the fighters.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I can only imagine the might of all these warriors aligned against the [[Cult of Kosmos|Cult]]. Instead, we came to [[Melos]] to slaughter each other over a sack of drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "45",
+            "content": "Kassandra approached the gates as Drakios gave a slow clap.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Is there a final challenger?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "47",
+            "content": "*'''Drakios:''' ''Indeed there is! Patience, Kassandra, patience.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "48",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "49",
+            "content": "|-|If Kassandra completed Roxana's quests=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Tell me, Drakios! Is it Roxana? Is she alive?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "51",
+            "content": "*'''Drakios:''' ''Your final challenger approaches.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "52",
+            "content": "[[File:ACOD The Great Contender 6.png|thumb|250px|Roxana, the other surviving contestant]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N18",
+            "global_id": "53",
+            "content": "The other surviving challenger approached. It was Roxana of Hydrea.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "54",
+            "content": "*'''Drakios:''' ''Come! We will finish this in the shadow of the [[Typhon's Revenge|volcano]] in the east.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "55",
+            "content": "|-|If Kassandra had not met Roxana before=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "56",
+            "content": "*'''Drakios:''' ''Well done, Kassandra. Well done. Your final challenge takes you to the volcano to the east.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''And then you'll give me the information I want about the Cult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "58",
+            "content": "*'''Drakios:''' ''Indeed, I will. But before that, one contestant remains.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "59",
+            "content": "Roxana approached Kassandra, and they acknowledged each other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "60",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

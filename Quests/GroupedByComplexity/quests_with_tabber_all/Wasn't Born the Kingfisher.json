@@ -1,0 +1,218 @@
+{
+    "Quest_Name": "Wasn't Born the Kingfisher",
+    "Quest_ID": "225234",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD-WasntBornTheKingfisher-01.jpg",
+        "description": "'Kassandra learned there was more to the farmer's story than he let on.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support {{c|Agapios}}",
+        "previous": "Dagger to the Heart",
+        "next": "Blood and Water",
+        "source": "Kassandra",
+        "location": "Chalkis Farm, Euboea, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Wasn't Born the Kingfisher''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to the [[Chalkis Farm]], hoping to know more information on The Dagger.",
+    "Section_Dialogue": "Kassandra approached the Chalkis Farm once again, only to find The Dagger's thugs awaiting her in ambush.\n*'''Rogue:''' ''The ''[[Mercenary|misthios]]''! Let's get them!''\nKassandra dispatched the ambushers, then approached the farmer.\n*'''Farmer:''' ''I'm sorry, ''misthios.'' I had no choice.''\nShe spoke to him.\n*'''Kassandra:''' ''What was that about?''\n*'''Farmer:''' ''I'm sorry, ''misthios''. They knew we talked\u2014they threatened me. The Dagger REALLY don't like you.''{{-}}\n<tabber>\n|-|Don't worry about it.=\n*'''Kassandra:''' ''You told them what you had to in order to survive. There's no shame in that.''\n*'''Farmer:''' ''Thank you.''\n|-|Threaten \u2013 Don't ever do that again.=\n*'''Kassandra:''' ''If you ever do that again, I will kill you myself.''\n*'''Farmer:''' ''I understand.''\n</tabber>\nIn spite of the ambush, the Farmer was happy to see her again.\n*'''Farmer:''' ''It's great to see you again. Have you come for some [[olive]] oil?''\n[[File:ACOD-WasntBornTheKingfisher-02.jpg|thumb|250px|Kassandra fighting off the ambush]]\n*'''Kassandra:''' ''No. I came to talk to you about The Dagger.''\n*'''Farmer:''' ''I've got nothing to say about that.''\n*'''Kassandra:''' ''Look, I'm here to let you know that I'm working with the local magistrate and his worker, [[Agapios]], to bring them down. But in order to do that, I need to know what you know.''\n*'''Farmer:''' ''You don't want to know what I know. Trust me.''\n*'''Kassandra:''' ''Tell me!''\nThe Farmer cowed before Kassandra.\n[[File:ACOD-WasntBornTheKingfisher-03.jpg|thumb|250px|The Farmer reveals the Kingfisher's identity]]\n*'''Farmer:''' ''[[Neritos]]. His name is Neritos.''\n*'''Kassandra:''' ''No. It can't be true. I'm going to end this once and for all.''\nKassandra turned away, but before leaving the grounds, she talked to the farmer again.\n*'''Farmer:''' ''Thanks for saving me. Stop by my farm anytime for some free olive oil.''\nKassandra left with the terrible truth she had learned.\n*'''Kassandra:''' ''I still need to meet all of Agapios' contacts.''",
+    "Section_Outcome": "Kassandra uncovered the Kingfisher's name, putting her one step closer to freeing Euboea from the Dagger, and was given [[Agapios' Staff]] by the farmer in thanks for saving him.",
+    "Section_Trivia": "*If the multiple quests to uncover the Dagger leader's identity have been started before completing \"[[The Taxman Cometh]]\", this quest will not be triggered. Instead, the ambush will be skipped and the necessary dialogues will be integrated into \"The Taxman Cometh,\" replacing the default conversations with the farmer and his wife, resulting in players missing out on the XP and rewards from doing both as separate quests.\n*Although the enemies ambush the player, they are able to act as witnesses to their allies' deaths and issue a bounty for each one killed. Six thugs in total allows for up to 5 or 6 murder charges at once, which almost certainly guarantees a bounty hunter will start pursuing the player, if not join the thugs in the battle.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Agapios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.d",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the Chalkis Farm once again, only to find The Dagger's thugs awaiting her in ambush.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Rogue:''' ''The ''[[Mercenary|misthios]]''! Let's get them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra dispatched the ambushers, then approached the farmer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Farmer:''' ''I'm sorry, ''misthios.'' I had no choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''What was that about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Farmer:''' ''I'm sorry, ''misthios''. They knew we talked\u2014they threatened me. The Dagger REALLY don't like you.''{{-}}",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Don't worry about it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You told them what you had to in order to survive. There's no shame in that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Farmer:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|Threaten \u2013 Don't ever do that again.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''If you ever do that again, I will kill you myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Farmer:''' ''I understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "16",
+            "content": "In spite of the ambush, the Farmer was happy to see her again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Farmer:''' ''It's great to see you again. Have you come for some [[olive]] oil?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "18",
+            "content": "[[File:ACOD-WasntBornTheKingfisher-02.jpg|thumb|250px|Kassandra fighting off the ambush]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''No. I came to talk to you about The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Farmer:''' ''I've got nothing to say about that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Look, I'm here to let you know that I'm working with the local magistrate and his worker, [[Agapios]], to bring them down. But in order to do that, I need to know what you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Farmer:''' ''You don't want to know what I know. Trust me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Tell me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "24",
+            "content": "The Farmer cowed before Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "25",
+            "content": "[[File:ACOD-WasntBornTheKingfisher-03.jpg|thumb|250px|The Farmer reveals the Kingfisher's identity]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Farmer:''' ''[[Neritos]]. His name is Neritos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''No. It can't be true. I'm going to end this once and for all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "28",
+            "content": "Kassandra turned away, but before leaving the grounds, she talked to the farmer again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Farmer:''' ''Thanks for saving me. Stop by my farm anytime for some free olive oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "30",
+            "content": "Kassandra left with the terrible truth she had learned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I still need to meet all of Agapios' contacts.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

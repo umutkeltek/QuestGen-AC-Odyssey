@@ -1,0 +1,542 @@
+{
+    "Quest_Name": "Heroes of the Arena",
+    "Quest_ID": "225012",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra, now reigning champion of the Pephka Arena|Arena, was surprised by Skoura's offer to fight one last mystery opponent who was said to be the best fighter in the Arena's history.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "They Just Want Cruelty",
+        "source": "Kassandra",
+        "location": "Pephka, Crete, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Heroes of the Arena''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Having beaten all the reigning champions of the [[Pephka Arena|Arena]], Kassandra was told there was one more for her to fight.",
+    "Section_Dialogue": "Kassandra approached [[Praxis (Arena)|Praxis]] to arrange her match. He spat before her.\n*'''Kassandra:''' ''Gross.''\n*'''Praxis:''' ''You wanna fight someone in the arena?''\n(If \"Mystery opponent\" was chosen.)\n*'''Kassandra:''' ''I'll face this mystery opponent in the arena.''\n*'''Praxis:''' ''[[Skoura]] said even the [[Greek mythology|gods]] will cheer for this one...''\nKassandra entered the Arena one more time and waited for her opponent. As she waved to the crowd, Skoura appeared donned in [[armor]].\n*'''Kassandra:''' ''Skoura?''\n*'''Skoura:''' ''Look at this, ''misthios''! Feel it! Everything I've been collapses down into this moment. The war. My time in the arena. My daughter [[Anaia]]. And you. You, ''misthios''!''\n(If \"Why are you doing this?\" was chosen.)\n*'''Kassandra:''' ''Why are you doing this?!''\n*'''Skoura:''' ''I ''found'' a way. Thanks to you, I found a way to live again!''\n(If \"What about your daughter?\" was chosen.)\n*'''Kassandra:''' ''What about Anaia? Think of her, Skoura!''\n*'''Skoura:''' ''I've been thinking of her every day since she was born. And now now more than ever.''\n(If \"We don't have to fight.\" was chosen.)\n*'''Kassandra:''' ''You need to rethink this. You don't know what you're doing...''\n*'''Skoura:''' ''I know exactly what I'm doing. You're going to have to fight me, ''misthios''. I won't hesitate killing you if you let me.''\n<tabber>\n|-|I won't fight you.=\n*'''Kassandra:''' ''I won't fight you, friend. I refuse.''\n*'''Skoura:''' ''Then you choose death, ''misthios''!''\n|-|Attack - Fine. I'll end you.=\n*'''Kassandra:''' ''Fine, old man. I'll send you into the next life.''\n*'''Skoura:''' ''By all means!''\n</tabber>\nRegardless, Skoura drew his [[Skoura's Spear|spear]], forcing Kassandra to draw [[Spear of Leonidas|hers]]. Skoura attacked with all of the strength left in his battle-worn body, but he was no match for the newest Hero of the Arena. After exchanging several blows, she drove the Spear of Leonidas deep into his gut while [[Maion]] looked on with sadness. Skoura collapsed to the ground in his own blood as Maion turned and left.\n*'''Skoura:''' ''Not bad for an old man, huh?''\n<tabber>\n|-|No. Not bad at all.=\n*'''Kassandra:''' ''Not bad for an old man. Not bad at all.''\n*'''Skoura:''' ''I thought so, too.''\n*'''Kassandra:''' ''What about Anaia, your daughter?''\n|-|You shouldn't have done this.=\n*'''Kassandra:''' ''What were you thinking?! Why would you step foot in here against me? What about Anaia, your daughter?''\n</tabber>\nSkoura divulged the truth about Anaia.\n*'''Skoura:''' ''Anaia's gone. She's been dead for nine years.''\n*'''Kassandra:''' ''So when you said you'd see her again...''\n*'''Skoura:''' ''I was scared that when I finally saw her again, she'd see what I'd become\u2013a useless old man... But you showed me there was still a way I could go to her proudly.''\n*'''Kassandra:''' ''As Hero of the Arena...''\n*'''Skoura:''' ''Do you think she'd be proud?''\n<tabber>\n|-|Yes, your daughter would be proud.=\n*'''Kassandra:''' ''She'd be proud. I would be.''\n*'''Skoura:''' ''I'll tell her of a new Hero of the Arena. A warrior of true honor.''\n*'''Skoura:''' ''Thank you, friend.''\nSkoura passed away from his wounds, at peace with the life he lived.\n|-|No, she wouldn't.=\n*'''Kassandra:''' ''No. I couldn't be... I couldn't be.''\nSkoura passed away from his wounds.\n</tabber>\nAt [[Warrior's Rest]], Skoura had been laid to rest and a memorial erected. Kassandra stared out at the sea as Maion approached her.\n<tabber>\n|-|If Kassandra praised Skoura=\n*'''Maion:''' ''Peaceful, isn't it?''\n*'''Kassandra:''' ''It's what we all hope to earn one day.''\n*'''Maion:''' ''Peace and respect.''\n|-|If Kassandra criticized Skoura=\n*'''Maion:''' ''I don't blame you. I don't know what I would've done in your position. I think that's why he didn't tell me what he was planning. I would've tried to stop him.''\n*'''Kassandra:''' ''I did try. And look where that got him.''\n*'''Maion:''' ''Skoura was a true warrior. He deserves peace now. And respect.''\n</tabber>\nRegardless, Kassandra asked him about peace and respect.\n*'''Kassandra:''' ''How do we truly earn those? Peace and respect.''\n*'''Maion:''' ''Once we're gone, our deeds must speak for themselves. They've defined us and our legacy. It's how we're remembered that matters most. How will you remember Skoura?''\n<tabber>\n|-|As a hero.=\n*'''Kassandra:''' ''I'll remember him as he truly was, a Hero of the Arena. And a friend.''\nMaion nodded before his stoic expression broke slightly.\n|-|As a sad, broken old man.=\n*'''Kassandra:''' ''He was a sad, broken old man who should've known better than to step foot in the arena with me.''\nMaion was clearly hurt by her words and flicked his hand at her.\n*'''Maion:''' ''You're a fool.''\n</tabber>\nRegardless, Maion asked if she wished to return to the Arena with him.\n*'''Maion:''' ''The crowds never rest, ''misthios''. Would you like to go back to the arena with me?''\n<tabber>\n|-|I'll go back to the arena with you.=\n*'''Kassandra:''' ''Let's go.''\nKassandra returned to the Arena with Maion before parting ways.\n|-|I'll stay here.=\n*'''Kassandra:''' ''You go. I think I'll stay here awhile.''\nMaion took his leave of Kassandra while she remained at the memorial for a time.\n</tabber>",
+    "Section_Outcome": "Kassandra killed Skoura, the \"mystery opponent\" he had offered her, and put the old warrior to rest.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Heroes of the Arena",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached [[Praxis (Arena)|Praxis]] to arrange her match. He spat before her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Gross.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Praxis:''' ''You wanna fight someone in the arena?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "4",
+            "content": "(If \"Mystery opponent\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I'll face this mystery opponent in the arena.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Praxis:''' ''[[Skoura]] said even the [[Greek mythology|gods]] will cheer for this one...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "Kassandra entered the Arena one more time and waited for her opponent. As she waved to the crowd, Skoura appeared donned in [[armor]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Skoura?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Skoura:''' ''Look at this, ''misthios''! Feel it! Everything I've been collapses down into this moment. The war. My time in the arena. My daughter [[Anaia]]. And you. You, ''misthios''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "10",
+            "content": "(If \"Why are you doing this?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Why are you doing this?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Skoura:''' ''I ''found'' a way. Thanks to you, I found a way to live again!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "13",
+            "content": "(If \"What about your daughter?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''What about Anaia? Think of her, Skoura!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Skoura:''' ''I've been thinking of her every day since she was born. And now now more than ever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "16",
+            "content": "(If \"We don't have to fight.\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You need to rethink this. You don't know what you're doing...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Skoura:''' ''I know exactly what I'm doing. You're going to have to fight me, ''misthios''. I won't hesitate killing you if you let me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "19",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "20",
+            "content": "|-|I won't fight you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I won't fight you, friend. I refuse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Skoura:''' ''Then you choose death, ''misthios''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "|-|Attack - Fine. I'll end you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Fine, old man. I'll send you into the next life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Skoura:''' ''By all means!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "26",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "27",
+            "content": "Regardless, Skoura drew his [[Skoura's Spear|spear]], forcing Kassandra to draw [[Spear of Leonidas|hers]]. Skoura attacked with all of the strength left in his battle-worn body, but he was no match for the newest Hero of the Arena. After exchanging several blows, she drove the Spear of Leonidas deep into his gut while [[Maion]] looked on with sadness. Skoura collapsed to the ground in his own blood as Maion turned and left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Skoura:''' ''Not bad for an old man, huh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "29",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "30",
+            "content": "|-|No. Not bad at all.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Not bad for an old man. Not bad at all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Skoura:''' ''I thought so, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''What about Anaia, your daughter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "34",
+            "content": "|-|You shouldn't have done this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''What were you thinking?! Why would you step foot in here against me? What about Anaia, your daughter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "36",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "37",
+            "content": "Skoura divulged the truth about Anaia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Skoura:''' ''Anaia's gone. She's been dead for nine years.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''So when you said you'd see her again...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Skoura:''' ''I was scared that when I finally saw her again, she'd see what I'd become\u2013a useless old man... But you showed me there was still a way I could go to her proudly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''As Hero of the Arena...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Skoura:''' ''Do you think she'd be proud?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "44",
+            "content": "|-|Yes, your daughter would be proud.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''She'd be proud. I would be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Skoura:''' ''I'll tell her of a new Hero of the Arena. A warrior of true honor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "47",
+            "content": "*'''Skoura:''' ''Thank you, friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "48",
+            "content": "Skoura passed away from his wounds, at peace with the life he lived.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC6",
+            "global_id": "49",
+            "content": "|-|No, she wouldn't.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''No. I couldn't be... I couldn't be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "51",
+            "content": "Skoura passed away from his wounds.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "52",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N7",
+            "global_id": "53",
+            "content": "At [[Warrior's Rest]], Skoura had been laid to rest and a memorial erected. Kassandra stared out at the sea as Maion approached her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS4",
+            "global_id": "54",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "55",
+            "content": "|-|If Kassandra praised Skoura=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "56",
+            "content": "*'''Maion:''' ''Peaceful, isn't it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''It's what we all hope to earn one day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "58",
+            "content": "*'''Maion:''' ''Peace and respect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "59",
+            "content": "|-|If Kassandra criticized Skoura=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "60",
+            "content": "*'''Maion:''' ''I don't blame you. I don't know what I would've done in your position. I think that's why he didn't tell me what he was planning. I would've tried to stop him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''I did try. And look where that got him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "62",
+            "content": "*'''Maion:''' ''Skoura was a true warrior. He deserves peace now. And respect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N8",
+            "global_id": "64",
+            "content": "Regardless, Kassandra asked him about peace and respect.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''How do we truly earn those? Peace and respect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "66",
+            "content": "*'''Maion:''' ''Once we're gone, our deeds must speak for themselves. They've defined us and our legacy. It's how we're remembered that matters most. How will you remember Skoura?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "67",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "68",
+            "content": "|-|As a hero.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''I'll remember him as he truly was, a Hero of the Arena. And a friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "70",
+            "content": "Maion nodded before his stoic expression broke slightly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC10",
+            "global_id": "71",
+            "content": "|-|As a sad, broken old man.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''He was a sad, broken old man who should've known better than to step foot in the arena with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "73",
+            "content": "Maion was clearly hurt by her words and flicked his hand at her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "74",
+            "content": "*'''Maion:''' ''You're a fool.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "75",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N11",
+            "global_id": "76",
+            "content": "Regardless, Maion asked if she wished to return to the Arena with him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "77",
+            "content": "*'''Maion:''' ''The crowds never rest, ''misthios''. Would you like to go back to the arena with me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS6",
+            "global_id": "78",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "79",
+            "content": "|-|I'll go back to the arena with you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "81",
+            "content": "Kassandra returned to the Arena with Maion before parting ways.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC12",
+            "global_id": "82",
+            "content": "|-|I'll stay here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''You go. I think I'll stay here awhile.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "84",
+            "content": "Maion took his leave of Kassandra while she remained at the memorial for a time.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE6",
+            "global_id": "85",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

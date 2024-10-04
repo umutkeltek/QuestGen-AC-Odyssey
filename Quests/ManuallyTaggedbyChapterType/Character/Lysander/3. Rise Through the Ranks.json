@@ -1,0 +1,43 @@
+{
+    "QuestName": "Rise Through the Ranks",
+    "QuestID": "224622",
+    "Revision": {
+        "id": "1047464",
+        "parentid": "841940",
+        "timestamp": "2023-06-13T19:10:04Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047464",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "1dqph6lm4747j9osh0yn7c5al94qduu"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Rise Through the Ranks",
+        "image": null,
+        "description": "'While many Leaders were positioned for greatness by lineage, Lysander was not born into luxury. Helot|Humble origins stoked his fire, and also his bitterness.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Only Fools Want War",
+        "next": "The Cost of War",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Rise Through the Ranks''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Lysander]] about recovering more [[Athens|Athenian]] ''[[polemarch]]'' seals.",
+    "Section_Dialogue": "*'''Kassandra:''' ''You seem pleased, General.''\n*'''Lysander:''' ''Supply lines cut. Troops tremble. And I rise through the ranks!''\n*'''Kassandra:''' ''Congratulations.''\n(If players asked \"What is your strategy to win?\")\n*'''Kassandra:''' ''Your strategy has served you well so far. What will it take to win?''\nLysander was somewhat incensed by her question.\n*'''Lysander:''' ''I'm not idle while you kill commanders. I've had enemy forts surveyed and know all of their supply runs.''\nKassandra realized her role in his plans.\n*'''Kassandra:''' ''So I've been a diversion.''\n*'''Lysander:''' ''Soon I'll know their sea routes.''\n(If players asked \"How far will you rise through the ranks?\")\n*'''Kassandra:''' ''You've made it further than most leaders.''\nLysander haughtily pointed at himself.\n*'''Lysander:''' ''Others boast of royal blood. I'm a descendant of [[Herakles]]. That gives me more legitimate claim to lead even [[Archidamos]].''\n(Leave \u2013 \"No more questions.\")\n*'''Kassandra:''' ''That's all for now.''\n*'''Lysander:''' ''If you're done wasting time... Go and strike the fort commanders down.''\nKassandra replied loathingly.\n*'''Kassandra:''' ''As you command, General.''\u200b\u200b\u200b\u200b\u200b\u200b\n\nIn time, Kassandra returned with the seals.\n*'''Kassandra:''' ''The task is done. Here are the seals as proof.''\nLysander turned merry.\n*'''Lysander:''' ''I'll be commander soon. And then I'll be crowned by the gods.''\n*'''Kassandra:''' ''The Athenians seem unsure how to react.''\nLysander spoke disparagingly.\n*'''Lysander:''' ''Unlike Spartans, Athenians answer to the whims of ignorant peasants. It makes them slow to react. Spartans do what needs to be done. Such as eliminating enemy commanders.''\n\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander recover three more ''polemarch'' seals.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

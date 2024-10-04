@@ -1,0 +1,109 @@
+{
+    "Quest_Name": "Learning the Ropes",
+    "Quest_ID": "222487",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Learning the Ropes 1.png",
+        "description": "'Barnabas's Adrestia|ship has seen better days, but Kassandra quickly learned how to make it formidable once more.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Big Break",
+        "next": "Equal Employment Opportunity Program",
+        "source": "Kassandra",
+        "location": "Aegean Sea",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Learning the Ropes''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "As her first mission as the captain of the ''[[Adrestia]]'', Kassandra was asked by [[Barnabas]] to retrieve cargo stolen by the [[Cyclops of Kephallonia|Cyclops]]' mem.",
+    "Section_Dialogue": "*'''Barnabas:''' ''Nothing like a sea breeze!''\n*'''Kassandra:''' ''Does the deck always feel like it's moving?''\n*'''Barnabas:''' ''I've got the perfect opportunity for you to get your sea legs.''\n*'''Kassandra:''' ''Oh, what would that be?''\n*'''Barnabas:''' ''Well, when the Cyclops was giving me a drumming, his pirates took my cargo. I know their ship, and I know where they're heading. What say we get it back?''\n*'''Kassandra:''' ''Sure. It'll be a good opportunity to see how your ship and crew perform.''\nKassandra took command of the ship while Barnabas issued orders to his men.\n*'''Barnabas:''' ''All right there, let's get moving! Let's see how the sails have held up.''\n[[File:ACOD Learning the Ropes 1.png|thumb|250px|The ''Adrestia'' destroying the bandit ship]]\nIn little time, the ''Adrestia'' caught up to the pirate ship holding Barnabas's goods. A fight ensued.\n*'''Barnabas:''' ''There she is!''\nWith the pirate ship damaged, Barnabas suggested a ramming maneuver.\n*'''Barnabas:''' ''Ram them from the side, and cleave that ship in two!''",
+    "Section_Outcome": "Kassandra retrieved Barnabas' shipment.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Apprentissage]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Barnabas:''' ''Nothing like a sea breeze!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Does the deck always feel like it's moving?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Barnabas:''' ''I've got the perfect opportunity for you to get your sea legs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Oh, what would that be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Barnabas:''' ''Well, when the Cyclops was giving me a drumming, his pirates took my cargo. I know their ship, and I know where they're heading. What say we get it back?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Sure. It'll be a good opportunity to see how your ship and crew perform.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "7",
+            "content": "Kassandra took command of the ship while Barnabas issued orders to his men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Barnabas:''' ''All right there, let's get moving! Let's see how the sails have held up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "9",
+            "content": "[[File:ACOD Learning the Ropes 1.png|thumb|250px|The ''Adrestia'' destroying the bandit ship]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "10",
+            "content": "In little time, the ''Adrestia'' caught up to the pirate ship holding Barnabas's goods. A fight ensued.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Barnabas:''' ''There she is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "With the pirate ship damaged, Barnabas suggested a ramming maneuver.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Barnabas:''' ''Ram them from the side, and cleave that ship in two!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

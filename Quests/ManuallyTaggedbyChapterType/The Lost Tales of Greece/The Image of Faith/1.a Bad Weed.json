@@ -1,0 +1,39 @@
+{
+    "QuestName": "Bad Weed",
+    "QuestID": "225599",
+    "Revision": {
+        "id": "1047199",
+        "parentid": "990966",
+        "timestamp": "2023-06-13T02:54:05Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047199",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "qe0pzvivpdvgw1uyrdpyn3blkq13z2c"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Farmer Menalkas feared the gods had cursed him. Kassandra needed to investigate to see if he had truly angered the gods, or whether a more earthly cause was responsible for his terrors.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "The Measure of a Man",
+        "next": "Down From On High",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "431\u2013422 BCE"
+    },
+    "General_Description": "'''Bad Weed''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke with [[Menalkas]] at [[Linou Farm]] to learn about his woes.",
+    "Section_Dialogue": "(According to the previous user, if you destroy a silo before doing this Lost Tales quest, you will ruin this mission.)\n\nKassandra approaches a man staring at his destroyed farm.\n\n*'''Menalkas:''' ''Great and terrible Eagle Bearer, why did you burn my farm?! You are no god, no here. Your touch turns all to ash!''\n*'''Kassandra:''' ''The world is full of pain and mysteries. I did not mean to harm you, but... I'm sorry you were hurt.''\n\n(If the player hasn't burnt down the silo when they approach Menalkas.)\n\nKassandra approach Menalkas, who is lying on the ground.\n*'''Menalkas:''' ''Why have you forsaken me, Eagle Bearer?! What have I done to offend all the powers on Olympos? How can I redeem myself?''\n*'''Kassandra:''' ''Forsaken you? I don't think we've ever met.''\n*'''Menalkas:''' ''Eh? Who? You? ''You''!''\n*'''Kassandra:''' ''Yes, me. Tell me what's wrong.''\n*'''Menalkas:''' ''I have been cursed by the gods! They speak to me all day and night, filling my head with visions and fears. I cannot work, and my crops wither.''\n(If players choose \"How did you get cursed?\")\n*'''Kassandra:''' ''Why did the gods curse you?''\n*'''Menalkas:''' ''I do not know what I did. I've heard the voices of the gods, day and night, since I took over the farm after my father passed. The voices won't let me sleep nor rest, and the farm is so much work!''\n(If players choose \"What is the curse?\")\n*'''Kassandra:''' ''What is the curse?''\n*'''Menalkas:''' ''The gods speak of terrifying things. That the sky will open and drown the fields and my farm. That dark writhing things will come from the ground and feast on my crops and on my flesh. That the earth will open and swallow us whole.''\n(Leave \u2013 Let's get our hands dirty.)\n*'''Kassandra:''' ''I'll take a look around the farm and see if I can find out what has befallen you.''\n*'''Menalkas:''' ''Thank you, Eagle Bearer! You are of Olympos! They will listen to you.''\n*'''Kassandra:''' ''Perhaps. But first I must determine if this truly is the work of the gods, or if your plight is of a more earthly nature.''\nWhen she investigated the broken vases near the silos.\n*'''Kassandra:''' ''These vases were dedicated to the gods. If Menalkas broke them, the gods might be angered. Demeter and Dionysos might have sickened his crops ''and'' polluted his mind.''\nWhen she investigated the wooden horse doll near the broken vases.\n*'''Kassandra:''' ''Look at this little guy. These offerings look abandoned and long neglected. Not a good way to honor Demeter or Zeus.''\nWhen she investigated the rotten crops behind the silo.\n*'''Kassandra:''' ''Hmm. These crops stink... Could that rot affect the mind? I wonder if all the crops in the silo are the same.''\nWhen she investigated pots of water in the wooden cart.\n*'''Kassandra:''' ''The water in this pot reeks like the Styx. Maybe the disease is seeping into the water. This seems like an earthly cause, not a sign of the gods.''\nWhen she talks to the nearby civilian.\n*'''Civilian:''' ''Menalkas is a sad case. Thinks he's been cursed by the powers that be. I told him that's ridiculous.''\n*'''Kassandra:''' ''Why ridiculous?''\n*'''Civilian:''' ''Because if you wanted to punish him, you'd just smite him, or have an eagle fly down and eat his eyes, or the like. You wouldn't curse his harvest. Of course not. You're the Eagle Bearer, Arrow of Artemis, Shield of Athena, Child of Zeus. Not the Mistress of Blighted Crops. That's beneath you.''\n*'''Kassandra:''' ''So Menalkas's problems are caused by...?''\n*'''Civilian:''' ''Some kind of sickness in the crops. That's what's making him crazy.''\nOnce she investigated all the clues.\n*'''Kassandra:''' ''I think I've seen everything. Is Menalkas affected by the gods, or is there a more earthly cause to his illness? I should talk to him.''\nKassandra returns to Menalkas to report on her findings.\n*'''Menalkas:''' ''Eagle Bearer, do you know why the gods have cursed me?''\n\n<Tabber>\n|-|This is an earthly plague.=\n*'''Kassandra:''' ''I think some infestation has taken root in your crops and is polluting your mind.''\n*'''Menalkas:''' ''What do we do?! How do we appease the gods?''\n*'''Kassandra:''' ''This has nothing to do with the gods. I will set fire to the silo where you keep your harvest and burn out the rot to clear your mind.''\n*'''Menalkas:''' ''I... I hope you are right, Eagle Bearer!''\n|-|You didn't show proper devotion.=\n*'''Kassandra:''' ''You have been cursed because you didn't show proper respect, and let sacred artifacts fall into ruin.''\n*'''Menalkas:''' ''What must I do to appease Cthonic Demeter and Stygian Persephone?''\n*'''Kassandra:''' ''We need a big sacrifice to get their attention. I'll burn the silo that holds your harvest as a sign of your devotion.''\n*'''Menalkas:''' ''If... If you think that is best, Eagle Bearer.''\n*'''Kassandra:''' ''Do not doubt me!''\n</Tabber>\n\nKassandra proceeded to burn down the silo containing the rotting crops. Once the silo has exploded, she returned to speak to Menalkas.\n\n*'''Menalkas:''' ''All that work, gone to smoke!''\n*'''Kassandra:''' ''No one said it would be easy.''\n*'''Menalkas:''' ''It had to be done. I confess, I do feel a bit better already. Thank you for all your help and guidance.''",
+    "Section_Outcome": "Kassandra helps a farmer learn what is wrong with his crops.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,813 @@
+{
+    "Quest_Name": "Popular",
+    "Quest_ID": "231051",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Finding the last of Lethe's water would not be the end of Kassandra and Hekate working together.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "previous": "Have Another Drink",
+        "next": "Dead Kings and Pretty Things",
+        "source": "Kassandra",
+        "location": "Pheraia's Retreat, Elysium<br />",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Popular''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Dialogue": "Kassandra met with Hekate in the flower fields near the [[Three Peaks Crossroad]]. She had calmed down from her confrontation with [[Persephone]].\n*'''Kassandra:''' ''You've had your alone time. Tell me what's next.''\n*'''Hekate:''' ''You're keeping up. Good. There's one more place we must weaken Persephone before our time together draws to a close. Her most devoted followers are gathering in a villa near Persephone's Embrace. These are the most vile humans in [[Elysium]] that serve her every whim and dark desire.''\n*'''Kassandra:''' ''Are they under her possession?''\n*'''Hekate:''' ''You might say they're more obsessed than possessed. But if you're thinking you can save these humans, you're sorely mistaken. Persephone's hold on them is too strong.''\n<tabber>\n|-|You're turning on humans now.=\n*'''Kassandra:''' ''Until now, you've been helping humans, not hurting them.''\n*'''Hekate:''' ''I'm helping people who help us and hurting people who stand in our way. Try to stay with me, won't you?''\n|-|Anything to stop Persephone.=\n*'''Kassandra:''' ''Whatever gets us closer to bringing down Persephone.''\n*'''Hekate:''' ''I'm glad you see reason.''\n</tabber>\n*'''Kassandra:''' ''So what do you have in mind for Persephone's followers?''\n*'''Hekate:''' ''Poison in their wine should do the trick. Unfortunately, the wolf nearby ate the last of my aconite. You'll need to hunt it and extract the poison from its liver. The symposium shouldn't be too difficult to infiltrate, but once you're there, try to blend in with the other Persephone-obsessed humans.''\n:(If [[Persephone's Little Birds]] has begun prior to this conversation)\n:*'''Kassandra:''' ''[[Adonis]] mentioned having rebel spies that attend similar events.''\n:*'''Hekate:''' ''Ah. Then you might want to warn such a spy not to drink the wine. I'm sure Adonis gave you a code to tell the spy you're an ally.''\n:*'''Kassandra:''' ''He did. Any idea what the spy might look like?''\n:*'''Hekate:''' ''From what I've heard, these spies tend to be middle-aged men wearing floral patterns and with animal motifs on their jewelry. A little obvious if you ask me.''\n*'''Kassandra:''' ''I'll find the poison and infiltrate the symposium.''\n*'''Hekate:''' ''Don't worry, there'll be plenty of time to leave once the humans start drinking. Good luck.''\nKassandra took her leave and headed to the [[Aconite Flower Bed]] atop the cliffs to the east. [[Ikaros]] spotted the wolf that had turned a sickly shade of green from aconite poisoning.\n*'''Kassandra:''' ''Here it is.''\nKassandra killed the wolf and its fellows, then extracted the aconite from its liver.\n*'''Kassandra:''' ''That's the poison. Now I've got a symposium to attend. [[Perikles's Symposium|Another]] one.''\n\nKassandra made her way to [[The Devoted Sanctuary]] to join the symposium.\n*'''Leader of Devotees:''' ''A fresh face! Is this your first time at a Devoted Followers symposium?''\n*'''Kassandra:''' ''Er, yes.''\n*'''Leader of Devotees:''' ''Don't look so nervous, friend! Why don't you go meet some people, and then we'll toast to our new arrivals. Oh! If you're at a loss for words, let other members know whether you think Adonis or [[Hermes]] is Persephone's soulmate. We debate that for hours here.''\nKassandra entered the symposium and poisoned the first jar of wine in a nearby alcove. When she turned around, a devotee asked her about Persephone's soulmate.\n*'''Persephone Devotee:''' ''Tell me, stranger. Who do you think Persephone's soulmate is? The god or the human?''\n<tabber>\n|-|Hermes is Persephone's soulmate.=\n*'''Kassandra:''' ''Hermes. He clearly adores Persephone.''\n*'''Persephone Devotee:''' ''Thank the gods, someone here with some sense. Hermes doesn't get his due. He would follow Persephone to the end of the underworld.''\n|-|Adonis is Persephone's soulmate.=\n*'''Kassandra:''' ''Adonis. Persephone adores him.''\n*'''Persephone Devotee:''' ''A while ago I would have agreed with you but... everyone knows Adonis has been slumming it with some human lately. Persephone deserves better.''\n</tabber>\nKassandra continued down the path and found a middle-aged man with animal motif jewelry. She spoke to him.\n*'''Persephone Devotee:''' ''Praise Persephone, friend.''\n(Asked \"Who does Persephone's dirty work?\")\n*'''Kassandra:''' ''Who spies and kills for Persephone? Is it your group?''\n*'''Persephone Devotee:''' ''What? No! Persephone would never want that. I think you're in the wrong place.''\n(Leave \u2013 \"I should go.\")\n*'''Kassandra:''' ''I should go meet more people.''\n:(Warning the spy \u2013 Chose \"Violets bloom in winter.\")\n:*'''Kassandra:''' ''Violets only bloom in Elysium winters.''\n:*'''Persephone Devotee:''' ''Persephone's favorite flowers are poppies. Everyone knows that.''\nKassandra rounded the corner and overheard two devotees talking.\n*'''Persephone Devotee:''' ''Persephone sent Adonis the most beautiful boat after he destroyed yet another [[felucca]] trying to escape Elysium.''\n*'''Persephone Devotee:''' ''When will that ridiculous man realize Persephone is perfect for him?''\nUnder the pergola, she found another middle-aged man with animal motif jewelry and spoke to him.\n*'''Persephone Devotee:''' ''Enjoying the symposium?''\n(Asked \"What's the purpose of this symposium?\")\n*'''Kassandra:''' ''So what do Persephone's Devoted Followers do?''\n*'''Persephone Devotee:''' ''For fun? We discuss the latest events in Persephone's life, plan symposiums, organize monuments in Persephone's honor...''\n(Leave \u2013 \"Never mind.\")\n*'''Kassandra:''' ''I should be going.''\n:(Warning the spy \u2013 Chose \"Violets bloom in winter.\")\n:*'''Kassandra:''' ''Violets only bloom in Elysium winters.''\n:*'''Persephone Devotee:''' ''I... think you may have me confused with someone else.''\nKassandra continued on her way and poisoned the second jar of wine. As she turned around, two devotees asked her to settle an argument.\n*'''Persephone Devotee:''' ''Settle an argument, friend. We just got word that Persephone is expanding her palace. Should she build into the east or west of Elysium?''\n<tabber>\n|-|Persephone should expand to the east.=\n*'''Kassandra:''' ''Only the best for Persephone, so... east.''\n*'''Persephone Devotee:''' ''What? No! There's nothing for her to see in the east. What's she going to stare at, Hekate's hovel? That makes no sense.''\n|-|Persephone should expand to the west.=\n*'''Kassandra:''' ''I think she should expand west.''\n*'''Persephone Devotee:''' ''Thank you! If she wants a view of all the [[Minos|Minoan]] architecture, she must add a wing in the west.''\n</tabber>\nKassandra descended the stairs, overhearing more conversation. \n*'''Persephone Devotee:''' ''Did you hear that Persephone refused [[Hades]] an invitation to her upcoming divine symposium?''\n*'''Persephone Devotee:''' ''Why wouldn't she? He's her captor.''\nShe found a third middle-aged devotee with animal motif jewelry and spoke to him.\n*'''Persephone Devotee:''' ''Having a good time?''\n(Asked \"Who can join Persephone's Devoted Followers?\")\n*'''Kassandra:''' ''How exclusive is this group?''\n*'''Persephone Devotee:''' ''Not at all. We welcome new faces with open arms. Anyone who's willing to discuss Persephone all day long can join.''\n(Leave \u2013 \"I should go.\")\n*'''Kassandra:''' ''Enjoy the party.''\n:(Warning the spy \u2013 Chose \"Violets bloom in winter.\")\n:*'''Kassandra:''' ''Violets only bloom in Elysium winters.''\n:*'''Persephone Devotee:''' ''Cold as Hades' heart.''\n:*'''Kassandra:''' ''Whatever you do, don't drink the wine.''\n:The devotee nodded and left.\nShe found the third and final jar of wine and poisoned it. When she was done, a woman fetched some wine and asked her about a rumor.\n*'''Persephone Devotee:''' ''I know they're old rumors, but what do you think of the whispers that Hekate seeks to steal Persephone's throne for herself?''\n<tabber>\n|-|I think it's just a rumor.=\n*'''Kassandra:''' ''They look like good friends to me.''\n*'''Persephone Devotee:''' ''You know, I completely agree. Persephone needs someone like Hekate by her side supporting her.''\n|-|I think the rumors are true.=\n*'''Kassandra:''' ''Anyone who can't see that Hekate is trying to rule Elysium herself is blind.''\n*'''Persephone Devotee:''' ''Persephone? Blind? How could you say such a thing? She has molded Elysium into paradise. She's a visionary.''\n</tabber>\nWith the aconite dispensed, Kassandra returned to the leader of devotees for the toast.\n<tabber>\n|-|2-3 correct choices=\nKassandra's responses mostly resonated with the devotees, and she was welcomed.\n*'''Kassandra:''' ''I'm ready for the toast.''\n*'''Leader of Devotees:''' ''You know, everyone is saying what a great conversationalist you are. So knowledgeable about Persephone. You'll be a perfect fit here.''\nThe leader of devotees left to collect some wine. Kassandra thought aloud.\n*'''Kassandra:''' ''These people don't really seem as corrupt as Hekate made them out to be.''\nThe leader of devotees returned with two cups of wine, handing one to Kassandra.\n*'''Leader of Devotees:''' ''Everyone gather to toast our new members.''\n{{#tag:tabber|\nCheers!=\nKassandra turned and held her cup up to the statue of Persephone.\n*'''Kassandra:''' ''To Persephone!''\n*'''Leader of Devotees:''' ''To Persephone!''\nThe devotees drank while Kassandra only held her cup to her mouth. She walked away with a frown as the leader of devotees began coughing immediately. He dropped to the ground, dead, and all the other devotees soon followed.\n*'''Kassandra:''' ''What? Hekate said it would take time to sink in. I'd better get out of here before\u2014''\n{{!}}-{{!}}\nDon't drink the wine!=\n*'''Kassandra:''' ''Wait! The wine was, er, well... I poisoned it.''\nKassandra threw away her cup. The leader of devotees dropped his in shock.\n*'''Leader of Devotees:''' ''After we welcomed you so warmly? You're no friend! Guards!''\n}}\n|-|0-1 correct choices=\nKassandra's responses did not resonate with the devotees and drew too much suspicion.\n*'''Leader of Devotees:''' ''Oh, friend. Did you really think we wouldn't notice you tampering with our drinks? And after we welcomed you with open arms. Guards!''\n</tabber>\nThe guards surrounded and attacked Kassandra, forcing her to flee. She escaped the symposium and lost her pursuers.\n*'''Kassandra:''' ''Hekate owes me answers. The symposium wasn't at all what I expected.''\n:([[The Beacons Are Lit]] not completed)\n:*'''Kassandra:''' ''Why do I get the feeling I've been played?''",
+    "Section_Outcome": "Kassandra poisoned three jars of wine with [[aconite]], and was either caught in the act or successfully poisoned Persephone's willfully devoted followers.",
+    "Section_Behind_the_scenes": "The name of the memory is likely a reference to the song {{Wiki|Popular (Wicked song)|Popular}} by the Broadway musical ''{{Wiki|Wicked (musical)|Wicked}}''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Fields of Elysium]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra met with Hekate in the flower fields near the [[Three Peaks Crossroad]]. She had calmed down from her confrontation with [[Persephone]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''You've had your alone time. Tell me what's next.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Hekate:''' ''You're keeping up. Good. There's one more place we must weaken Persephone before our time together draws to a close. Her most devoted followers are gathering in a villa near Persephone's Embrace. These are the most vile humans in [[Elysium]] that serve her every whim and dark desire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Are they under her possession?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Hekate:''' ''You might say they're more obsessed than possessed. But if you're thinking you can save these humans, you're sorely mistaken. Persephone's hold on them is too strong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|You're turning on humans now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Until now, you've been helping humans, not hurting them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Hekate:''' ''I'm helping people who help us and hurting people who stand in our way. Try to stay with me, won't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Anything to stop Persephone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Whatever gets us closer to bringing down Persephone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Hekate:''' ''I'm glad you see reason.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''So what do you have in mind for Persephone's followers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Hekate:''' ''Poison in their wine should do the trick. Unfortunately, the wolf nearby ate the last of my aconite. You'll need to hunt it and extract the poison from its liver. The symposium shouldn't be too difficult to infiltrate, but once you're there, try to blend in with the other Persephone-obsessed humans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "16",
+            "content": ":(If [[Persephone's Little Birds]] has begun prior to this conversation)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "17",
+            "content": ":*'''Kassandra:''' ''[[Adonis]] mentioned having rebel spies that attend similar events.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": ":*'''Hekate:''' ''Ah. Then you might want to warn such a spy not to drink the wine. I'm sure Adonis gave you a code to tell the spy you're an ally.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N5",
+            "global_id": "19",
+            "content": ":*'''Kassandra:''' ''He did. Any idea what the spy might look like?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "20",
+            "content": ":*'''Hekate:''' ''From what I've heard, these spies tend to be middle-aged men wearing floral patterns and with animal motifs on their jewelry. A little obvious if you ask me.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll find the poison and infiltrate the symposium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Hekate:''' ''Don't worry, there'll be plenty of time to leave once the humans start drinking. Good luck.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "23",
+            "content": "Kassandra took her leave and headed to the [[Aconite Flower Bed]] atop the cliffs to the east. [[Ikaros]] spotted the wolf that had turned a sickly shade of green from aconite poisoning.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Here it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "25",
+            "content": "Kassandra killed the wolf and its fellows, then extracted the aconite from its liver.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''That's the poison. Now I've got a symposium to attend. [[Perikles's Symposium|Another]] one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "28",
+            "content": "Kassandra made her way to [[The Devoted Sanctuary]] to join the symposium.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Leader of Devotees:''' ''A fresh face! Is this your first time at a Devoted Followers symposium?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Er, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Leader of Devotees:''' ''Don't look so nervous, friend! Why don't you go meet some people, and then we'll toast to our new arrivals. Oh! If you're at a loss for words, let other members know whether you think Adonis or [[Hermes]] is Persephone's soulmate. We debate that for hours here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "32",
+            "content": "Kassandra entered the symposium and poisoned the first jar of wine in a nearby alcove. When she turned around, a devotee asked her about Persephone's soulmate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Persephone Devotee:''' ''Tell me, stranger. Who do you think Persephone's soulmate is? The god or the human?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "34",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "35",
+            "content": "|-|Hermes is Persephone's soulmate.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Hermes. He clearly adores Persephone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Persephone Devotee:''' ''Thank the gods, someone here with some sense. Hermes doesn't get his due. He would follow Persephone to the end of the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "38",
+            "content": "|-|Adonis is Persephone's soulmate.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Adonis. Persephone adores him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Persephone Devotee:''' ''A while ago I would have agreed with you but... everyone knows Adonis has been slumming it with some human lately. Persephone deserves better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "41",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N11",
+            "global_id": "42",
+            "content": "Kassandra continued down the path and found a middle-aged man with animal motif jewelry. She spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "43",
+            "content": "*'''Persephone Devotee:''' ''Praise Persephone, friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "44",
+            "content": "(Asked \"Who does Persephone's dirty work?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Who spies and kills for Persephone? Is it your group?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "46",
+            "content": "*'''Persephone Devotee:''' ''What? No! Persephone would never want that. I think you're in the wrong place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "47",
+            "content": "(Leave \u2013 \"I should go.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I should go meet more people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "49",
+            "content": ":(Warning the spy \u2013 Chose \"Violets bloom in winter.\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N13",
+            "global_id": "50",
+            "content": ":*'''Kassandra:''' ''Violets only bloom in Elysium winters.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N14",
+            "global_id": "51",
+            "content": ":*'''Persephone Devotee:''' ''Persephone's favorite flowers are poppies. Everyone knows that.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N15",
+            "global_id": "52",
+            "content": "Kassandra rounded the corner and overheard two devotees talking.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "53",
+            "content": "*'''Persephone Devotee:''' ''Persephone sent Adonis the most beautiful boat after he destroyed yet another [[felucca]] trying to escape Elysium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "54",
+            "content": "*'''Persephone Devotee:''' ''When will that ridiculous man realize Persephone is perfect for him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "55",
+            "content": "Under the pergola, she found another middle-aged man with animal motif jewelry and spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "56",
+            "content": "*'''Persephone Devotee:''' ''Enjoying the symposium?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "57",
+            "content": "(Asked \"What's the purpose of this symposium?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''So what do Persephone's Devoted Followers do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "59",
+            "content": "*'''Persephone Devotee:''' ''For fun? We discuss the latest events in Persephone's life, plan symposiums, organize monuments in Persephone's honor...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "60",
+            "content": "(Leave \u2013 \"Never mind.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''I should be going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "62",
+            "content": ":(Warning the spy \u2013 Chose \"Violets bloom in winter.\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N18",
+            "global_id": "63",
+            "content": ":*'''Kassandra:''' ''Violets only bloom in Elysium winters.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N19",
+            "global_id": "64",
+            "content": ":*'''Persephone Devotee:''' ''I... think you may have me confused with someone else.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N20",
+            "global_id": "65",
+            "content": "Kassandra continued on her way and poisoned the second jar of wine. As she turned around, two devotees asked her to settle an argument.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "66",
+            "content": "*'''Persephone Devotee:''' ''Settle an argument, friend. We just got word that Persephone is expanding her palace. Should she build into the east or west of Elysium?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "67",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "68",
+            "content": "|-|Persephone should expand to the east.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Only the best for Persephone, so... east.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "70",
+            "content": "*'''Persephone Devotee:''' ''What? No! There's nothing for her to see in the east. What's she going to stare at, Hekate's hovel? That makes no sense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "71",
+            "content": "|-|Persephone should expand to the west.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I think she should expand west.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "73",
+            "content": "*'''Persephone Devotee:''' ''Thank you! If she wants a view of all the [[Minos|Minoan]] architecture, she must add a wing in the west.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "74",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N21",
+            "global_id": "75",
+            "content": "Kassandra descended the stairs, overhearing more conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "76",
+            "content": "*'''Persephone Devotee:''' ''Did you hear that Persephone refused [[Hades]] an invitation to her upcoming divine symposium?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "77",
+            "content": "*'''Persephone Devotee:''' ''Why wouldn't she? He's her captor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "78",
+            "content": "She found a third middle-aged devotee with animal motif jewelry and spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "79",
+            "content": "*'''Persephone Devotee:''' ''Having a good time?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "80",
+            "content": "(Asked \"Who can join Persephone's Devoted Followers?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D41",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''How exclusive is this group?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "82",
+            "content": "*'''Persephone Devotee:''' ''Not at all. We welcome new faces with open arms. Anyone who's willing to discuss Persephone all day long can join.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "83",
+            "content": "(Leave \u2013 \"I should go.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Enjoy the party.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "85",
+            "content": ":(Warning the spy \u2013 Chose \"Violets bloom in winter.\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N24",
+            "global_id": "86",
+            "content": ":*'''Kassandra:''' ''Violets only bloom in Elysium winters.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N25",
+            "global_id": "87",
+            "content": ":*'''Persephone Devotee:''' ''Cold as Hades' heart.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N26",
+            "global_id": "88",
+            "content": ":*'''Kassandra:''' ''Whatever you do, don't drink the wine.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N27",
+            "global_id": "89",
+            "content": ":The devotee nodded and left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N28",
+            "global_id": "90",
+            "content": "She found the third and final jar of wine and poisoned it. When she was done, a woman fetched some wine and asked her about a rumor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "91",
+            "content": "*'''Persephone Devotee:''' ''I know they're old rumors, but what do you think of the whispers that Hekate seeks to steal Persephone's throne for herself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "92",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "93",
+            "content": "|-|I think it's just a rumor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''They look like good friends to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "95",
+            "content": "*'''Persephone Devotee:''' ''You know, I completely agree. Persephone needs someone like Hekate by her side supporting her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "96",
+            "content": "|-|I think the rumors are true.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''Anyone who can't see that Hekate is trying to rule Elysium herself is blind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "98",
+            "content": "*'''Persephone Devotee:''' ''Persephone? Blind? How could you say such a thing? She has molded Elysium into paradise. She's a visionary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "99",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N29",
+            "global_id": "100",
+            "content": "With the aconite dispensed, Kassandra returned to the leader of devotees for the toast.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS5",
+            "global_id": "101",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "102",
+            "content": "|-|2-3 correct choices=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N30",
+            "global_id": "103",
+            "content": "Kassandra's responses mostly resonated with the devotees, and she was welcomed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''I'm ready for the toast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "105",
+            "content": "*'''Leader of Devotees:''' ''You know, everyone is saying what a great conversationalist you are. So knowledgeable about Persephone. You'll be a perfect fit here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N31",
+            "global_id": "106",
+            "content": "The leader of devotees left to collect some wine. Kassandra thought aloud.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''These people don't really seem as corrupt as Hekate made them out to be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N32",
+            "global_id": "108",
+            "content": "The leader of devotees returned with two cups of wine, handing one to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "109",
+            "content": "*'''Leader of Devotees:''' ''Everyone gather to toast our new members.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "110",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "111",
+            "content": "Cheers!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N33",
+            "global_id": "112",
+            "content": "Kassandra turned and held her cup up to the statue of Persephone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''To Persephone!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "114",
+            "content": "*'''Leader of Devotees:''' ''To Persephone!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N34",
+            "global_id": "115",
+            "content": "The devotees drank while Kassandra only held her cup to her mouth. She walked away with a frown as the leader of devotees began coughing immediately. He dropped to the ground, dead, and all the other devotees soon followed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''What? Hekate said it would take time to sink in. I'd better get out of here before\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "117",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "118",
+            "content": "Don't drink the wine!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''Wait! The wine was, er, well... I poisoned it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N35",
+            "global_id": "120",
+            "content": "Kassandra threw away her cup. The leader of devotees dropped his in shock.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "121",
+            "content": "*'''Leader of Devotees:''' ''After we welcomed you so warmly? You're no friend! Guards!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "122",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC12",
+            "global_id": "123",
+            "content": "|-|0-1 correct choices=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N36",
+            "global_id": "124",
+            "content": "Kassandra's responses did not resonate with the devotees and drew too much suspicion.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D58",
+            "global_id": "125",
+            "content": "*'''Leader of Devotees:''' ''Oh, friend. Did you really think we wouldn't notice you tampering with our drinks? And after we welcomed you with open arms. Guards!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "126",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N37",
+            "global_id": "127",
+            "content": "The guards surrounded and attacked Kassandra, forcing her to flee. She escaped the symposium and lost her pursuers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''Hekate owes me answers. The symposium wasn't at all what I expected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N38",
+            "global_id": "129",
+            "content": ":([[The Beacons Are Lit]] not completed)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N39",
+            "global_id": "130",
+            "content": ":*'''Kassandra:''' ''Why do I get the feeling I've been played?''",
+            "segment_type": "Narrative"
+        }
+    ]
+}

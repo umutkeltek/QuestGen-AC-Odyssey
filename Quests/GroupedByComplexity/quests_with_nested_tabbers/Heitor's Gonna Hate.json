@@ -1,0 +1,565 @@
+{
+    "Quest_Name": "Heitor's Gonna Hate",
+    "Quest_ID": "223761",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Heitor's Gonna Hate.png",
+        "description": "'Heitor had one more request for Kassandra. An old mercenary Himilko|friend of his had been captured, and he hoped Kassandra would free him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Heitor}}",
+        "previous": "A Friend in Need...",
+        "source": "Kassandra",
+        "location": "Attika, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Heitor's Gonna Hate''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to her old friend [[Heitor]], who had one more request from her.",
+    "Section_Dialogue": "Kassandra approached Heitor in [[Dekelia]].\n*'''Kassandra:''' ''Heitor.''\n*'''Heitor:''' ''Ah, my friend! I'm so glad you're here.''\n*'''Kassandra:''' ''I know that look... If you need a favor, just tell me.''\n*'''Heitor:''' ''Well... yes. A small one. A [[mercenary]] and [[Himilko|old]] friend of mine has gotten himself captured.''\n*'''Kassandra:''' ''So you'd like me to free him.''\n*'''Heitor:''' ''Sadly, I'm no longer able to do these things myself, otherwise I wouldn't ask.''\n*'''Kassandra:''' ''Ok, I'll do it.''\n*'''Heitor:''' ''Thank you, my friend. Once you've rescue him, take him to the beach. I've left a boat there for him to escape.''\n(If players choose \"Where is your friend being held?\")\n*'''Kassandra:''' ''Tell me where to look for him.''\n*'''Heitor:''' ''He's in a [[Rhamnous Military Camp|military camp]] just north of here.''\n(If players choose \"Why save him?\")\n*'''Kassandra:''' ''Why are you so worried about a mercenary?''\n*'''Heitor:''' ''He's a friend. Didn't I do the same for you? Remember that trouble you and Markos got into...''\n*'''Kassandra:''' ''Yes, yes, you're right.''\n*'''Heitor:''' ''If we're not going to look out for each other, who will?''\n(If players choose \"I need to go.\")\n*'''Kassandra:''' ''Time to go get your friend.''\nKassandra travelled to the Rhamnous Military Camp, where she found the mercenary being held in a cage. After killing the nearby guards, she freed the mercenary and escorted him to the beach. There, she found Heitor with a boat.\n*'''Heitor:''' ''There you are! I was starting to think you wouldn't show up.''\n*'''Himilko:''' ''You!''\n*'''Heitor:''' ''Hello, Himilko. Long time.''\n*'''Kassandra:''' ''Heitor, what's going on? Why are you here?''\n*'''Himilko:''' ''Of course. He didn't tell, did he? You've been used, my friend.''\n*'''Heitor:''' ''Shut up. I'm not here to hear you talk. I'm here to see you die.''\n\n<tabber>\n|-|Not Accused=\n(If in [[A Friend in Need...]], Kassandra unsuccessfully asked Heitor to fess up.)\n*'''Kassandra:''' ''You deceived me! You asked me to rescue him just so you could kill him.''\n*'''Heitor:''' ''I didn't lie... just omitted some details, that's all.''\n|-|Accused=\n(If in [[A Friend in Need...]], Kassandra accused Heitor of lying to her about Harpe.)\n*'''Kassandra:''' ''You lied to me again. This isn\u2019t how friendships work, Heitor.''\n*'''Heitor:''' ''Listen, please. I\u2019m sorry, but you don\u2019t know what this man did to me.''\n*'''Himilko''' ''That\u2019s fucking rich, Heitor. Why don\u2019t you tell her the truth?''\n*'''Heitor:''' ''Shut up, murderer!''\n*'''Kassandra:''' ''What\u2019s going on?''\n*'''Heitor:''' ''Trust me, this man needs to die. I gave you a contract to bring him to me. Do not interfere, and I will reward you well.''\n</tabber>\n\n<tabber>\n|-|This doesn't make any sense.=\n*'''Kassandra:''' ''I got him out as you asked, so why kill him now? I could have dealt with him if that's what you wanted.''\n*'''Heitor:''' ''Because I had to see him.''\n*'''Kassandra:''' ''Why?''\n*'''Heitor:''' ''Because he killed the love of my life.''\n*'''Himilko:''' ''We both shared guilt in that, but she was my wife!''\n*'''Kassandra:''' ''Your wife?''\n*'''Heitor:''' ''She wouldn't have died if..''\n*'''Himilko:''' ''What? If I hadn't caught you? If you hadn't attacked me? If she hadn't tried to stop us? If our blades hadn't struck her down? Who's to blame here?''\n{{#tag:tabber|\nThis won't bring her back.=\n*'''Kassandra:''' ''Despite what either of you did, this won't bring her back.''\n*'''Heitor:''' ''It will make me feel better...''\n*'''Himilko:''' ''And that's more important to you in the end isn't it? Easing your conscience.''\n*'''Kassandra:''' ''You think killing him would make you feel better? I guarantee it won't, and it sounds like she wouldn't have wanted either of you to get hurt.''\n{{!}}-{{!}}\nSort it out between yourselves.=\n*'''Kassandra:''' ''You're both at fault in her death. And Heitor... I don't know, and don't want to know, why you were sleeping with another man's wife.''\n*'''Heitor:''' ''We were in love!''\n*'''Himilko:''' ''You idiot. Do you think you were the only one? When we went on campaigns, do you think she worried about her husband? About as much as we worried about our wives!''\n*'''Heitor:''' ''No, she loved me. She told me so. We were going to run away together.''\n*'''Himilko:''' ''She'd leave her home for you, with nothing. I heard you had to sell your sword, the only thing you ever owned of value. Why would she go with a lowly misthios?''\n*'''Kassandra:''' ''You mal\u00e1kes need to sort this out between yourselves.''\nHeitor punched Himilko repeatedly and the quest ended.\n{{!}}-{{!}}\nSounds like an accident.=\n*'''Kassandra:''' ''It sounds like neither of you was at fault.''\n*'''Heitor:''' ''He drew his weapon first.''\n*'''Himilko:''' ''You were with my wife. What did you expect? It is my right to restore my honor!''\n*'''Kassandra:''' ''It seems neither of you wanted to kill her. There are no winners here, and neither of you has to die. Let it go.''\n}}\n*'''Heitor:''' ''You're right. I'm sorry.''\n*'''Himilko:''' ''Fuck your sorry, you destroyed my life that night. But I agree with your friend. Let's just pray we never see each other again.''\nHimilko left.\n*'''Heitor:''' ''Why you...''\n*'''Kassandra:''' ''Let him go. You made the right choice here.''\n*'''Heitor:''' ''Sometimes we cannot make up for the mistakes of our past. I'm just glad all those years with me didn't rub off on you.''\n*'''Kassandra:''' ''Sometimes we need to move on from the past, like I did from [[Kephallonia]]. You have a chance to make a new life\u2014use it.''\n|-|Go ahead, kill him.=\n*'''Kassandra:''' ''I don't need to know your reasons or hear your excuses.''\n*'''Heitor:''' ''This man has wronged me, Kassandra. If you'll just listen...''\n*'''Himilko:''' ''Oh, just get it over with. To be honest, it will be a relief for me. We're both guilty\u2014at least ''I'' can accept that.''\n*'''Kassandra:''' ''Just pay me. I don't want any part of this.''\n*'''Heitor:''' ''Here, this should be more than enough. I threw in a little extra for old time's sake.''\n*'''Kassandra:''' ''You mean for lying. I'm done with old times\u2014it's why I left Kephallonia.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped Heitor to free his old \"friend\" Himilko, bringing him to the beach and learning more than she knew. She either chose to let Heitor kill the mercenary or migitate their grudge towards each other.",
+    "Section_Trivia": "*An alternative dialogue can obtained if Himilko is killed before Kassandra reached the beach. However, Heitor's past with Himilko won't be revealed. Regardless, the memory can be completed and Kassandra will be rewarded.\n*The name of this memory is a play on the proverb ''\"Haters Gonna Hate\"'', meaning people who dislike something or someone will always find a way to keep disliking it, even when the reasoning makes no sense at all.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Le tort d'Heitor]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Heitor",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Heitor in [[Dekelia]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Heitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Heitor:''' ''Ah, my friend! I'm so glad you're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I know that look... If you need a favor, just tell me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Heitor:''' ''Well... yes. A small one. A [[mercenary]] and [[Himilko|old]] friend of mine has gotten himself captured.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''So you'd like me to free him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Heitor:''' ''Sadly, I'm no longer able to do these things myself, otherwise I wouldn't ask.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Ok, I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Heitor:''' ''Thank you, my friend. Once you've rescue him, take him to the beach. I've left a boat there for him to escape.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "10",
+            "content": "(If players choose \"Where is your friend being held?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Tell me where to look for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Heitor:''' ''He's in a [[Rhamnous Military Camp|military camp]] just north of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "13",
+            "content": "(If players choose \"Why save him?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Why are you so worried about a mercenary?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Heitor:''' ''He's a friend. Didn't I do the same for you? Remember that trouble you and Markos got into...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Yes, yes, you're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Heitor:''' ''If we're not going to look out for each other, who will?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "18",
+            "content": "(If players choose \"I need to go.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Time to go get your friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "20",
+            "content": "Kassandra travelled to the Rhamnous Military Camp, where she found the mercenary being held in a cage. After killing the nearby guards, she freed the mercenary and escorted him to the beach. There, she found Heitor with a boat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Heitor:''' ''There you are! I was starting to think you wouldn't show up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Himilko:''' ''You!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Heitor:''' ''Hello, Himilko. Long time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Heitor, what's going on? Why are you here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "25",
+            "content": "*'''Himilko:''' ''Of course. He didn't tell, did he? You've been used, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "26",
+            "content": "*'''Heitor:''' ''Shut up. I'm not here to hear you talk. I'm here to see you die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "28",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "29",
+            "content": "|-|Not Accused=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O1",
+            "global_id": "30",
+            "content": "(If in [[A Friend in Need...]], Kassandra unsuccessfully asked Heitor to fess up.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''You deceived me! You asked me to rescue him just so you could kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Heitor:''' ''I didn't lie... just omitted some details, that's all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "33",
+            "content": "|-|Accused=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "34",
+            "content": "(If in [[A Friend in Need...]], Kassandra accused Heitor of lying to her about Harpe.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''You lied to me again. This isn\u2019t how friendships work, Heitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Heitor:''' ''Listen, please. I\u2019m sorry, but you don\u2019t know what this man did to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Himilko''' ''That\u2019s fucking rich, Heitor. Why don\u2019t you tell her the truth?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Heitor:''' ''Shut up, murderer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''What\u2019s going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Heitor:''' ''Trust me, this man needs to die. I gave you a contract to bring him to me. Do not interfere, and I will reward you well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "41",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "44",
+            "content": "|-|This doesn't make any sense.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I got him out as you asked, so why kill him now? I could have dealt with him if that's what you wanted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Heitor:''' ''Because I had to see him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "48",
+            "content": "*'''Heitor:''' ''Because he killed the love of my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "49",
+            "content": "*'''Himilko:''' ''We both shared guilt in that, but she was my wife!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Your wife?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "51",
+            "content": "*'''Heitor:''' ''She wouldn't have died if..''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "52",
+            "content": "*'''Himilko:''' ''What? If I hadn't caught you? If you hadn't attacked me? If she hadn't tried to stop us? If our blades hadn't struck her down? Who's to blame here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "53",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "54",
+            "content": "This won't bring her back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Despite what either of you did, this won't bring her back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "56",
+            "content": "*'''Heitor:''' ''It will make me feel better...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "57",
+            "content": "*'''Himilko:''' ''And that's more important to you in the end isn't it? Easing your conscience.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''You think killing him would make you feel better? I guarantee it won't, and it sounds like she wouldn't have wanted either of you to get hurt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "59",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "60",
+            "content": "Sort it out between yourselves.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''You're both at fault in her death. And Heitor... I don't know, and don't want to know, why you were sleeping with another man's wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "62",
+            "content": "*'''Heitor:''' ''We were in love!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "63",
+            "content": "*'''Himilko:''' ''You idiot. Do you think you were the only one? When we went on campaigns, do you think she worried about her husband? About as much as we worried about our wives!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "64",
+            "content": "*'''Heitor:''' ''No, she loved me. She told me so. We were going to run away together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "65",
+            "content": "*'''Himilko:''' ''She'd leave her home for you, with nothing. I heard you had to sell your sword, the only thing you ever owned of value. Why would she go with a lowly misthios?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''You mal\u00e1kes need to sort this out between yourselves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "67",
+            "content": "Heitor punched Himilko repeatedly and the quest ended.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "68",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "69",
+            "content": "Sounds like an accident.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''It sounds like neither of you was at fault.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "71",
+            "content": "*'''Heitor:''' ''He drew his weapon first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "72",
+            "content": "*'''Himilko:''' ''You were with my wife. What did you expect? It is my right to restore my honor!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''It seems neither of you wanted to kill her. There are no winners here, and neither of you has to die. Let it go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "74",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D52",
+            "global_id": "75",
+            "content": "*'''Heitor:''' ''You're right. I'm sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "76",
+            "content": "*'''Himilko:''' ''Fuck your sorry, you destroyed my life that night. But I agree with your friend. Let's just pray we never see each other again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "77",
+            "content": "Himilko left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "78",
+            "content": "*'''Heitor:''' ''Why you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Let him go. You made the right choice here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "80",
+            "content": "*'''Heitor:''' ''Sometimes we cannot make up for the mistakes of our past. I'm just glad all those years with me didn't rub off on you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Sometimes we need to move on from the past, like I did from [[Kephallonia]]. You have a chance to make a new life\u2014use it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "82",
+            "content": "|-|Go ahead, kill him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''I don't need to know your reasons or hear your excuses.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "84",
+            "content": "*'''Heitor:''' ''This man has wronged me, Kassandra. If you'll just listen...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "85",
+            "content": "*'''Himilko:''' ''Oh, just get it over with. To be honest, it will be a relief for me. We're both guilty\u2014at least ''I'' can accept that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Just pay me. I don't want any part of this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "87",
+            "content": "*'''Heitor:''' ''Here, this should be more than enough. I threw in a little extra for old time's sake.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''You mean for lying. I'm done with old times\u2014it's why I left Kephallonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "89",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

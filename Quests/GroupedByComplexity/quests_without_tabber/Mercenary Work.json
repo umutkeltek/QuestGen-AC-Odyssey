@@ -1,0 +1,97 @@
+{
+    "Quest_Name": "Mercenary Work",
+    "Quest_ID": "223454",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Mercenary Work.png",
+        "description": "'As Kassandra had learned, any job is a good job - no matter how small. Ilos, a Kephallonian armorer, needed wolf furs for the war effort, and knew Kassandra could provide them easily.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kephallonia Islands}}",
+        "previous": "Shark the Vagrant",
+        "next": "A Small Odyssey",
+        "source": "Kassandra",
+        "location": "Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Mercenary Work''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across a bounty work to collect several [[wolf]] pelts.",
+    "Section_Dialogue": "While in [[Sami]], Kassandra came across a contract placed on a [[message board]] by [[Ilos]], requesting her to collect several wolf pelts. After doing so, she returned to Ilos in Sami.\n*'''Kassandra:''' ''I should've known it was you who'd ask for the furs, Ilos.''\n*'''Civilian:''' ''And I should've known it was you to get them for me. Kassandra is always on the job.''\n*'''Kassandra:''' ''Don't tell [[Markos]], he'll get jealous.''\n*'''Civilian:''' ''I post it publically to give the others a chance, but you're always so keen.''\n*'''Kassandra:''' ''What are the pelts for this time?''\n*'''Civilian:''' ''The [[Athens|Athenians]] want [[armor]] for the war. Good protection for them, good [[drachma]]e for me.''\n*'''Kassandra:''' ''Here they are, all encountered for.''\n*'''Civilian:''' ''In record time, too. Take your pay, it's well earned.''\n*'''Kassandra:''' ''Stay out of trouble, Ilos.''\n*'''Civilian:''' ''You should take your own advice!''",
+    "Section_Outcome": "Kassandra helped Ilos get wolf pelts for his new armors.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kephallonia Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in [[Sami]], Kassandra came across a contract placed on a [[message board]] by [[Ilos]], requesting her to collect several wolf pelts. After doing so, she returned to Ilos in Sami.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I should've known it was you who'd ask for the furs, Ilos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian:''' ''And I should've known it was you to get them for me. Kassandra is always on the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Don't tell [[Markos]], he'll get jealous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''I post it publically to give the others a chance, but you're always so keen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''What are the pelts for this time?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Civilian:''' ''The [[Athens|Athenians]] want [[armor]] for the war. Good protection for them, good [[drachma]]e for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Here they are, all encountered for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Civilian:''' ''In record time, too. Take your pay, it's well earned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Stay out of trouble, Ilos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Civilian:''' ''You should take your own advice!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

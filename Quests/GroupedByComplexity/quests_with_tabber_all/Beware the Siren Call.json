@@ -1,0 +1,416 @@
+{
+    "Quest_Name": "Beware the Siren Call",
+    "Quest_ID": "229199",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-BewaretheSirenCall-kill.jpg",
+        "description": "'From behind a painted wall, a screeching came. Kassandra agreed to face the hidden horror lurking behind, but did not know if she'd return alive.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Main",
+        "previous": "Odyssey Into the Past",
+        "next": "Daddy's Home",
+        "concurrent": "To Be Nobody<br>Wine for the Swine",
+        "source": "Kassandra",
+        "location": "Tomb of Polybotes, Kos, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Beware the Siren Call''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Following [[Barnabas]]' [[lotus]] flower inspired vision, the ''[[Adrestia]]'' set sail towards [[Kos]].",
+    "Section_Dialogue": "As they neared Kos, Barnabas grew excited.\n*'''Barnabas:''' ''That's Kos! I recognize it from my vision. A painted wall guards a [[Siren (mythology)|siren]]'s den there. Be careful!''\nKassandra disembarked, and explored [[Pharmakeia Bay]] on Kos. Eventually she found her way to an old, decrepit wall with a worn painting: the entrance to the [[Tomb of Polybotes]]. She broke through it and entered the tomb. Behind her, the wall collapsed. An eerie sound reverberated through the stone walls.\n*'''Kassandra:''' ''That sound... Are there ''actual'' sirens here?''\n:(If Kassandra had [[Honey|beeswax]] in her possession.)\n:*'''Kassandra:''' ''I should put the beeswax in my ears, just in case.''\nKassandra commenced to explore the tomb. From the depths, pained cries echoed.\n*'''Unknown:''' ''Aarrrgggghhhhh''\nWithin the hallways of the tomb, hurt or dead people laid. Kassandra passed them by. In a chamber, she found female [[Followers of Ares]], and slew them. In the furthermost chamber was their leader, standing before an altar. Kassandra killed her as well, then discovered an ''aulos'' on the priestess.\n*'''Kassandra:''' ''An aulos. Looks old.''\nA man approached Kassandra as she stood above her kill.\n*'''[[Eurylochos]]:''' ''Please... don't hurt us.''\n*'''Kassandra:''' ''I'm not going to hurt you, I will free you. What are you doing here?''\n*'''Eurylochos:''' ''My whole life, I heard tales of the siren song\u2014a sound so sweet men would gladly die to hear it. You have no idea how dull life is for a fisherman with a love of poetry and music.''\n*'''Kassandra:''' ''You ''chose'' to be here?''\n*'''Eurylochos:''' ''I... I didn't know this is what I would find. By the time I realized, there was no escape.''\n(If \"What do you know about this aulos?\" is chosen.)\n*'''Kassandra:''' ''I found this aulos. What do you know about it?''\n*'''Eurylochos:''' ''That one was special. They stole it from the woman who escaped. But that was a long time ago.''\n(If \"Who are these women?\" is chosen.)\n*'''Kassandra:''' ''This tomb is full of bloodthirsty women. Who are they?''\n*'''Eurylochos:''' ''No one speaks. They drain my blood, then boil and drink it. In their rituals, they scream into the night. I'm so tired, but I never sleep. Please, save me.''\n(If \"Why are you here again?\" is chosen.)\n*'''Kassandra:''' ''So, what are you doing here?''\n*'''Eurylochos:''' ''My whole life, I heard tales of the siren song\u2014a sound so sweet men would gladly die to hear it. You have no idea how dull life is for a fisherman with a love of poetry and music.''\n<tabber>\n|-|Option 1=\n(I'm getting you out of here.)\n*'''Kassandra:''' ''You can't stay here. Join my crew. A man named Barnabas will greet you on my ship.''\nKassandra left the tomb and rejoined an eager Barnabas on the ''Adrestia''.\n|-|Option 2=\n(If [[To Be Nobody]] is completed \u2013 I know someone you should meet.)\n*'''Kassandra:''' ''You're obsessed with poetry and you're a fisherman. I have an opportunity for you to have both those things, without being held like some animal.''\n*'''Eurylochos:''' ''Anything would be better than this.''\n</tabber>\n<tabber>\n|-|Let's go now.=\n*'''Kassandra:''' ''Come with me.''\nThe scene shifted to [[Anaphi]], where she addressed [[Polyphemos]].\n*'''Kassandra:''' ''I can't stay with you, big guy, but I think I found someone you should meet.''\nShe introduced Eurylochos to Polyphemos.\n*'''Kassandra:''' ''Eurylochos, this is Polyphemos. Polyphemos, Eurylochos.''\nPolyphemos regarded Eurylochos.\n*'''Polyphemos:''' ''Show you [[Drakontospilo|cave]]?''\n*'''Eurylochos:''' ''Show me everything, my big friend. This is the grandest, most spectacular shore on which I've ever laid my weary eyes. I want to see it all!''\nAs Eurylochos went to admire the shore, Polyphemos addressed Kassandra.\n*'''Polyphemos:''' ''You Little. But big heart. Take this. Special gift.''\n|-|Join my crew, and I'll take you there.=\n*'''Kassandra:''' ''Meet me at my ship, the ''Adrestia''. I promise you, you will not be disappointed.''\n*'''Eurylochos:''' ''It's been so long since I was shown kindness. My thanks.''\n</tabber>\n*'''Barnabas:''' ''About my Leda, do you have any news?''\n(\"I found this aulos.\")\n*'''Kassandra:''' ''I found this aulos on a \"siren\"... if you could call her that.''\n*'''Barnabas:''' ''An aulos! My wife always loved these. I bet she learned to play it alongside the sirens as they sung men to their deaths. Just like her.''\n<tabber>\n|-|I'm sure Leda was good company.=\n*'''Kassandra:''' ''I'll bet the sirens and Leda were good friends.''\n*'''Barnabas:''' ''She was so mesmerizing. Her song always worked on me.''\n|-|There's no such things as sirens.=\n*'''Kassandra:''' ''There were no sirens, just bloodthirsty priestesses. And this aulos? It could be anybody's.''\n*'''Barnabas:''' ''Then how did we know where to look? It's a clue, and [[Persephone]] led us right to it.''\n</tabber>\nBarnabas took the aulos.",
+    "Section_Outcome": "Kassandra explored the Tomb of Polybotes in order to find something about Leda. Instead, she ended the rule of the Followers of Ares therein and freed their prisoners, including Eurylochos.\n\n\"Beware the Siren Call\" will complete as soon as \"Odyssey Into the Past\" starts if players already explored the tomb, but Eurylochos will still inexplicably appear to give the \"good\" ending at the end of \"To Be Nobody\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:M\u00e9fie-toi de l'appel des Sir\u00e8nes]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Friend Worth Dying For",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As they neared Kos, Barnabas grew excited.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Barnabas:''' ''That's Kos! I recognize it from my vision. A painted wall guards a [[Siren (mythology)|siren]]'s den there. Be careful!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra disembarked, and explored [[Pharmakeia Bay]] on Kos. Eventually she found her way to an old, decrepit wall with a worn painting: the entrance to the [[Tomb of Polybotes]]. She broke through it and entered the tomb. Behind her, the wall collapsed. An eerie sound reverberated through the stone walls.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''That sound... Are there ''actual'' sirens here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": ":(If Kassandra had [[Honey|beeswax]] in her possession.)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "6",
+            "content": ":*'''Kassandra:''' ''I should put the beeswax in my ears, just in case.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N5",
+            "global_id": "7",
+            "content": "Kassandra commenced to explore the tomb. From the depths, pained cries echoed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Unknown:''' ''Aarrrgggghhhhh''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "9",
+            "content": "Within the hallways of the tomb, hurt or dead people laid. Kassandra passed them by. In a chamber, she found female [[Followers of Ares]], and slew them. In the furthermost chamber was their leader, standing before an altar. Kassandra killed her as well, then discovered an ''aulos'' on the priestess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''An aulos. Looks old.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "11",
+            "content": "A man approached Kassandra as she stood above her kill.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''[[Eurylochos]]:''' ''Please... don't hurt us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'm not going to hurt you, I will free you. What are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Eurylochos:''' ''My whole life, I heard tales of the siren song\u2014a sound so sweet men would gladly die to hear it. You have no idea how dull life is for a fisherman with a love of poetry and music.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''You ''chose'' to be here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Eurylochos:''' ''I... I didn't know this is what I would find. By the time I realized, there was no escape.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "17",
+            "content": "(If \"What do you know about this aulos?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I found this aulos. What do you know about it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Eurylochos:''' ''That one was special. They stole it from the woman who escaped. But that was a long time ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "20",
+            "content": "(If \"Who are these women?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''This tomb is full of bloodthirsty women. Who are they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Eurylochos:''' ''No one speaks. They drain my blood, then boil and drink it. In their rituals, they scream into the night. I'm so tired, but I never sleep. Please, save me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "23",
+            "content": "(If \"Why are you here again?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''So, what are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Eurylochos:''' ''My whole life, I heard tales of the siren song\u2014a sound so sweet men would gladly die to hear it. You have no idea how dull life is for a fisherman with a love of poetry and music.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "26",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "27",
+            "content": "|-|Option 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O1",
+            "global_id": "28",
+            "content": "(I'm getting you out of here.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''You can't stay here. Join my crew. A man named Barnabas will greet you on my ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "30",
+            "content": "Kassandra left the tomb and rejoined an eager Barnabas on the ''Adrestia''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "31",
+            "content": "|-|Option 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "32",
+            "content": "(If [[To Be Nobody]] is completed \u2013 I know someone you should meet.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''You're obsessed with poetry and you're a fisherman. I have an opportunity for you to have both those things, without being held like some animal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Eurylochos:''' ''Anything would be better than this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "35",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "36",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "37",
+            "content": "|-|Let's go now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Come with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "39",
+            "content": "The scene shifted to [[Anaphi]], where she addressed [[Polyphemos]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I can't stay with you, big guy, but I think I found someone you should meet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "41",
+            "content": "She introduced Eurylochos to Polyphemos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Eurylochos, this is Polyphemos. Polyphemos, Eurylochos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "43",
+            "content": "Polyphemos regarded Eurylochos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Polyphemos:''' ''Show you [[Drakontospilo|cave]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "45",
+            "content": "*'''Eurylochos:''' ''Show me everything, my big friend. This is the grandest, most spectacular shore on which I've ever laid my weary eyes. I want to see it all!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "46",
+            "content": "As Eurylochos went to admire the shore, Polyphemos addressed Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "47",
+            "content": "*'''Polyphemos:''' ''You Little. But big heart. Take this. Special gift.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "48",
+            "content": "|-|Join my crew, and I'll take you there.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Meet me at my ship, the ''Adrestia''. I promise you, you will not be disappointed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "50",
+            "content": "*'''Eurylochos:''' ''It's been so long since I was shown kindness. My thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "51",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D27",
+            "global_id": "52",
+            "content": "*'''Barnabas:''' ''About my Leda, do you have any news?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "53",
+            "content": "(\"I found this aulos.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I found this aulos on a \"siren\"... if you could call her that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Barnabas:''' ''An aulos! My wife always loved these. I bet she learned to play it alongside the sirens as they sung men to their deaths. Just like her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "56",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "57",
+            "content": "|-|I'm sure Leda was good company.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I'll bet the sirens and Leda were good friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "59",
+            "content": "*'''Barnabas:''' ''She was so mesmerizing. Her song always worked on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "60",
+            "content": "|-|There's no such things as sirens.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''There were no sirens, just bloodthirsty priestesses. And this aulos? It could be anybody's.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Barnabas:''' ''Then how did we know where to look? It's a clue, and [[Persephone]] led us right to it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N13",
+            "global_id": "64",
+            "content": "Barnabas took the aulos.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

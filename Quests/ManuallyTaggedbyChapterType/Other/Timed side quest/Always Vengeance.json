@@ -1,0 +1,39 @@
+{
+    "QuestName": "Always Vengeance",
+    "QuestID": "223000",
+    "Revision": {
+        "id": "1047501",
+        "parentid": "804223",
+        "timestamp": "2023-06-13T19:21:20Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047501",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "jssxbp2ifkz53h7sl54ri28u7p0zdml"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Always Vengeance''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Sparta]]n soldiers occupying [[Athens|Athenian]] lands were always targets of vengeance. Even a midwife, it turns out, would hire [[Mercenary|mercenaries]] to kill soldiers.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

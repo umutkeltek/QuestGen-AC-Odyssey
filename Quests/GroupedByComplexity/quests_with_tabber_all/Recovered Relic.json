@@ -1,0 +1,242 @@
+{
+    "Quest_Name": "Recovered Relic",
+    "Quest_ID": "243756",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Recovered Relic",
+        "description": "'An artist, delighted with her find, planned to offer a beautiful votive figure to the temple priestess. Yet, she feared the Followers of Ares|Followers of Ares and their shrine.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Recovered Relic''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "An artist sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n:'''Note'''<br>''I have an offering to give, but I'm afraid. Please, come see me.''\nShe sought out the artist and addressed her.\n*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Woman:''' ''Look at this votive figure I found at the market. It's simple, but beautiful. I have not seen its style before.''\n*'''Kassandra:''' ''Is it valuable?''\n*'''Woman:''' ''Not in [[drachma]]e, no. But I'm sure the priestess at the temple would appreciate it. So would the [[Followers of Ares|Followers]] of [[Ares]], but they and their dark shrine scare me.''\n<tabber>\n|-|Kill the Followers of Ares=\n(\"You want all the Followers of Ares killed.\")\n*'''Kassandra:''' ''So you'd like me to wipe out the Followers of Ares.''\n*'''Woman:''' ''You understand quickly. I need every last one to die.''\n(\"You need it delivered.\")\n*'''Kassandra:''' ''And you'll pay me to deliver it to her.''\n*'''Woman:''' ''No, all the Followers must die.''\n(Accept \u2013 \"I'll handle it.\")\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''Please be careful.''\n*'''Kassandra:''' Chaire.\nKassandra left the artist and sought out the Followers of Ares nearby, killing them before she returned to the woman.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''The gods favored me the day we met. Take this for your trouble,'' misthios.\n*'''Kassandra:''' ''Thank you.''\n|-|Deliver=\n*'''Kassandra:''' ''And you'll pay me to deliver it to her.''\n*'''Woman:''' ''You understand quickly.''\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Woman:''' ''Exactly. It must arrive without a scratch.''\n*'''Kassandra:''' ''May the [[Fates]] be on your side.''\nKassandra left the artist and sought out the priestess in a temple nearby, and hailed her.\n*'''Kassandra:''' ''Someone thought you might need this.''\n*'''Woman:''' ''Thanks! Here, for your efforts, mercenary.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped the artist, and was rewarded for this.",
+    "Section_Behind_the_scenes": "The dialogue for timed quests in ''[[Assassin's Creed: Odyssey]]'' is part scripted, part randomly generated from a pool of generic statements. As such, the wording encountered varies.\n\nAll timed quests have two variants, as noted: when given a choice, the desired is always the top one.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": ":'''Note'''<br>''I have an offering to give, but I'm afraid. Please, come see me.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "3",
+            "content": "She sought out the artist and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''Look at this votive figure I found at the market. It's simple, but beautiful. I have not seen its style before.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Is it valuable?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''Not in [[drachma]]e, no. But I'm sure the priestess at the temple would appreciate it. So would the [[Followers of Ares|Followers]] of [[Ares]], but they and their dark shrine scare me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Kill the Followers of Ares=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(\"You want all the Followers of Ares killed.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''So you'd like me to wipe out the Followers of Ares.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''You understand quickly. I need every last one to die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "13",
+            "content": "(\"You need it delivered.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''And you'll pay me to deliver it to her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''No, all the Followers must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "16",
+            "content": "(Accept \u2013 \"I'll handle it.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Woman:''' ''Please be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Kassandra left the artist and sought out the Followers of Ares nearby, killing them before she returned to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Woman:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Woman:''' ''The gods favored me the day we met. Take this for your trouble,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "25",
+            "content": "|-|Deliver=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''And you'll pay me to deliver it to her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Woman:''' ''You understand quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "28",
+            "content": "(Accept - I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Woman:''' ''Exactly. It must arrive without a scratch.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''May the [[Fates]] be on your side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "32",
+            "content": "Kassandra left the artist and sought out the priestess in a temple nearby, and hailed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Someone thought you might need this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Woman:''' ''Thanks! Here, for your efforts, mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "35",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

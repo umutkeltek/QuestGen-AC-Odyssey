@@ -1,0 +1,30 @@
+{
+    "Quest_Name": "Pressed for Time",
+    "Quest_ID": "222855",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Pressed_For_Time_Solution.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Happy Hour",
+        "next": "A Finger Tip",
+        "source": "Kassandra",
+        "location": "Prometheus and the Birth of Humankind, Phokis",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Pressed for Time'''\u00a0is\u00a0a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''If you slip beside the [[Leader House, Phokis|Leader's house]] in [[Pilgrim's Landing]], you can find me in a large bowl of [[olive]]s.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Ainigmata Ostraka",
+    "Chapter_Type": null,
+    "Quest_SequenceID": null
+}

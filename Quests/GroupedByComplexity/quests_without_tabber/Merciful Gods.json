@@ -1,0 +1,67 @@
+{
+    "Quest_Name": "Merciful Gods",
+    "Quest_ID": "223566",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Merciful_Gods.png",
+        "description": "'Since Kassandra had agreed to play Hermes Trismegistus|god, she needed to fulfill the promise she made to the desperate worshipper.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Hungry Gods",
+        "source": "Kassandra",
+        "location": "Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Merciful Gods''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to the woman's house to fulfil her promise.",
+    "Section_Dialogue": "Kassandra travelled to the woman's house in [[Sami]]. She investigated the wrecked cart.\n*'''Kassandra:''' ''Just like she said. The cart looks pretty worse-for-wear.''\nShe investigated the basket on the floor.\n*'''Kassandra:''' ''Looks like these new baskets were off to market\u2014until the cart broke.''\nKassandra placed some of the loot she recovered from [[Drogarati Cave]] cave in a basket.\n*'''Kassandra:''' ''This should help. Better them than the [[bandit]]s.''",
+    "Section_Outcome": "Kassandra fulfilled her promise to the woman, storing several treasures in a basket in her home.",
+    "Section_Behind_the_scenes": "This quest is triggered by choosing to reply to the woman's prayers to Hermes in \"[[Hungry Gods]]\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Dieux mis\u00e9ricordieux]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the woman's house in [[Sami]]. She investigated the wrecked cart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Just like she said. The cart looks pretty worse-for-wear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She investigated the basket on the floor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Looks like these new baskets were off to market\u2014until the cart broke.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra placed some of the loot she recovered from [[Drogarati Cave]] cave in a basket.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''This should help. Better them than the [[bandit]]s.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

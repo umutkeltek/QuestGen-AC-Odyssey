@@ -1,0 +1,245 @@
+{
+    "Quest_Name": "Another Kind of Poetry",
+    "Quest_ID": "223800",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey downloadable content#Limited edition content | Assassin's Creed: Odyssey Limited edition content]]'' \u2014 ''[[Secrets of Greece]]''"
+        },
+        "Tag_c": {
+            "description": "[[Demokritos]]"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Demokritos revealed his true intentions. He used the theorems to prove his {{Wiki|Atomism|Atomic Theory}} for the same reasons fools do anything: love. But to win a poet's heart, he'd need help one last time.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Demokritos}}",
+        "previous": "The Dunce Conundrum",
+        "source": "Kassandra",
+        "location": "Achaia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Another Kind of Poetry''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra followed [[Demokritos]] as he hoped to confess his love to a poet using {{Wiki|Atomism|his theorems}}.",
+    "Section_Dialogue": "Kassandra accompanied Demokritos on his way to confess his feelings.\n\n*'''Kassandra:''' ''I never would've guessed you were a lover.''\n*'''Demokritos:''' ''Well, I wasn't. My theory\u2014that all atoms exist with a great void between them\u2014s a bit like the life I've lived.''\n*'''Kassandra:''' ''But not anymore. Now you're filling that void.''\n*'''Demokritos:''' ''Maybe... maybe what fills the void, and what draws us together, is love.''\n*'''Kassandra:''' ''Save that\u00a0line for the poet, Demokritos. It's a good one.''\n*'''Demokritos:''' ''You think so? All right, I will!''\n\nArriving at the poet's house, Demokritos was horrified to find [[bandit]]s killing her.\n\n*'''Demokritos:''' ''No! That's her! Those bandits... Stop them!''\n\nKassandra swiftly dealt with the bandits.\n\n*'''Kassandra:''' ''Demokritos... I'm sorry.''\n*'''Demokritos:''' ''They killed her. For it to end like this... after all this time.''\n<tabber>\n|-|Read her your \"poem.\"=\n*'''Kassandra:''' ''You have your theorem, and the others... read them to her. Let her see your poetry.''\n*'''Demokritos:''' ''It's too late.''\n*'''Kassandra:''' ''It's never too late.''\n|-|We should go.=\n*'''Kassandra:''' ''Someone's going to find us here and think we did this. Demokritos... we have to go.''\n*'''Demokritos:''' ''I... I left once before, I won't leave again.''\n*'''Kassandra:''' ''Demokritos, please.''\n</tabber>\n\n*'''Demokritos:''' ''You can go. In another life... she might've known my love for her. You might have been my student. Imagine the happiness we'd have known.''\n*'''Kassandra:''' ''A wise man told me, \"The richest person in any land is the one who wants for the least.\" Don't want for the past, Demokritos.''\n*'''Demokritos:''' ''I'll leave soon enough. But for now, I think I want for privacy. Take [[Inventor's Helmet|this]], and leave me to mourn, Kassandra.''\n\nBefore leaving, Kassandra spoke to Demokritos once more.\n\n*'''Demokritos:''' ''There is no force in the universe greater than that which binds two people together.''",
+    "Section_Outcome": "Kassandra left Demokritos to mourn over his would-be lover.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Une autre forme de po\u00e9sie]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Demokritos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra accompanied Demokritos on his way to confess his feelings.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I never would've guessed you were a lover.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Demokritos:''' ''Well, I wasn't. My theory\u2014that all atoms exist with a great void between them\u2014s a bit like the life I've lived.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''But not anymore. Now you're filling that void.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Demokritos:''' ''Maybe... maybe what fills the void, and what draws us together, is love.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Save that\u00a0line for the poet, Demokritos. It's a good one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Demokritos:''' ''You think so? All right, I will!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "10",
+            "content": "Arriving at the poet's house, Demokritos was horrified to find [[bandit]]s killing her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Demokritos:''' ''No! That's her! Those bandits... Stop them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra swiftly dealt with the bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Demokritos... I'm sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Demokritos:''' ''They killed her. For it to end like this... after all this time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "18",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "19",
+            "content": "|-|Read her your \"poem.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''You have your theorem, and the others... read them to her. Let her see your poetry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Demokritos:''' ''It's too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''It's never too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "|-|We should go.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Someone's going to find us here and think we did this. Demokritos... we have to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Demokritos:''' ''I... I left once before, I won't leave again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Demokritos, please.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U6",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Demokritos:''' ''You can go. In another life... she might've known my love for her. You might have been my student. Imagine the happiness we'd have known.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''A wise man told me, \"The richest person in any land is the one who wants for the least.\" Don't want for the past, Demokritos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Demokritos:''' ''I'll leave soon enough. But for now, I think I want for privacy. Take [[Inventor's Helmet|this]], and leave me to mourn, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "33",
+            "content": "Before leaving, Kassandra spoke to Demokritos once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Demokritos:''' ''There is no force in the universe greater than that which binds two people together.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

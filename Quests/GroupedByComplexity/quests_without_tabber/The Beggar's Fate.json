@@ -1,0 +1,119 @@
+{
+    "Quest_Name": "The Beggar's Fate",
+    "Quest_ID": "223027",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Beggar's Fate",
+        "image": "ACOD-TheBeggarsFate-01.jpg",
+        "description": "'Upon being framed (so he claims) for the destruction of a shrine, one man lost his citizenship to Athens, and was determined to have revenge.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Beggar's Fate''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A beggar tasked Kassandra with killing the man who framed him.",
+    "Section_Dialogue": "Kassandra talked to a beggar in the market.\n*'''Kassandra:''' Chaire''. Anything you need a [[mercenary]]'s help with?''\n*'''Man:''' ''[[Athens]] has abandoned me, ''misthios''. I was accused of trying to destroy a shrine, and now I have nothing. I have lost my citizenship.''\n*'''Kassandra:''' ''That's a harsh punishment.''\n*'''Man:''' ''I was framed! Now, I wish I had destroyed it. Or at least had my revenge on the man that framed me.''\n*'''Kassandra:''' ''You want me to kill him.''\n[[File:ACOD-TheBeggarsFate-02.jpg|thumb|250px|Kassandra killing the official]]\n*'''Man:''' ''Yes. His death is the only answer.''\n(Accept \u2013 I'll handle it)\n*'''Kassandra:''' ''You can count on me.''\n*'''Man:''' ''It's time someone showed me mercy.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra found and killed the official, then returned to the beggar.\n*'''Kassandra:''' ''Your man is dead.''\n*'''Man:''' ''Thank you. For everything. Please, this isn't much, but take it.''",
+    "Section_Outcome": "Kassandra killed the official alleged to have framed a man for desecrating a shrine.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra talked to a beggar in the market.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' Chaire''. Anything you need a [[mercenary]]'s help with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''[[Athens]] has abandoned me, ''misthios''. I was accused of trying to destroy a shrine, and now I have nothing. I have lost my citizenship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''That's a harsh punishment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Man:''' ''I was framed! Now, I wish I had destroyed it. Or at least had my revenge on the man that framed me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You want me to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "7",
+            "content": "[[File:ACOD-TheBeggarsFate-02.jpg|thumb|250px|Kassandra killing the official]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Man:''' ''Yes. His death is the only answer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "9",
+            "content": "(Accept \u2013 I'll handle it)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Man:''' ''It's time someone showed me mercy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "13",
+            "content": "Kassandra found and killed the official, then returned to the beggar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Man:''' ''Thank you. For everything. Please, this isn't much, but take it.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

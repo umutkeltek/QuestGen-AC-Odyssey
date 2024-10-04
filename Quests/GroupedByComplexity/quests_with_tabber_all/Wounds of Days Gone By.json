@@ -1,0 +1,982 @@
+{
+    "Quest_Name": "Wounds of Days Gone By",
+    "Quest_ID": "227483",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Upon encountering Timotheos training on the cliffs, Kassandra challenged the ex-warrior to a friendly sparring match.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Career Orientation",
+        "next": "Moving On",
+        "source": "Kassandra",
+        "location": "Isle of Salamis, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Wounds of Days Gone By''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Timotheos]], who was training on a cliff near the [[Isle of Salamis]].",
+    "Section_Dialogue": "Timotheos saw Kassandra approaching.\n\n*'''Timotheos:''' ''Kassandra! There you are.''\n\nKassandra walked closer.\n\n*'''Kassandra:''' ''Am I interrupting?''\n*'''Timotheos:''' ''This is where I used to practice sparring with [[Diokles|my father]]. After he retired to the fishing business, he lost interest. But I kept up the practice on my own.''\n<tabber>\n|-|Flirt - You shouldn't train alone.=\n*'''Kassandra:''' ''Doesn't training on your own get lonely?''\n|-|Training alone isn't a challenge.=\n*'''Kassandra:''' ''Sparring without a partner isn't a real challenge.''\n</tabber>\n\n*'''Timotheos:''' ''Are you trying to goad me into a sparring match, [[mercenary]]?''\n*'''Kassandra:''' ''I might be interested in some friendly competition.''\n*'''Timotheos:''' ''I... don't think that's a good idea.''\n*'''Kassandra:''' ''Are you scared, [[Athens|Athenian]]?''\n*'''Timotheos:'''  ''I just... Fine. Let's spar.''\n\n(If players choose \"Let's start.\")\n\n*'''Kassandra:''' ''Let's see what you've got.''\n\nDuring the fight, Timotheos got in a few punches.\n\n*'''Kassandra:''' ''That all you've got?''\n*'''Timotheos:''' ''Ha! I'm just getting started.''\n\nTimotheos began taunting Kassandra.\n\n*'''Timotheos:''' ''Come on, mercenary! Keep up!''\n*'''Kassandra:''' ''Please! You're the one slowing down.''\n\nKassandra landed some punches herself.\n\n*'''Timotheos:''' ''Filthy [[Sparta]]ns!''\n*'''Kassandra:''' ''Timotheos, are you OK?''\n\nTimotheos was forced to his knee.\n\n*'''Kassandra:''' ''You fought well, Athenian. Timotheos?''\n\nTimotheos quickly charged her.\n\n*'''Kassandra:''' ''Timotheos, what are you doing?''\n*'''Timotheos:''' ''I\u2014No. Stop. Stop.''\n\nHe grabbed his head.\n\n*'''Timotheos:''' ''No! No! Stay back! Get away from me!''\n<tabber>\n|-|I'll stay back. (calming)=\n*'''Kassandra:''' ''I'll stay back. I promise.''\n*'''Timotheos:''' ''I\u2014don't know what I'll do if you get too close.''\n|-|Let me help. (aggravating)=\n*'''Kassandra:''' ''I'm not going to hurt you. Let me\u2014''\n*'''Timotheos:''' ''Don't you get it? I might hurt you if you don't stay away!''\n</tabber>\n\n*'''Kassandra:''' ''You're not going to hurt me, Timotheos.''\n*'''Timotheos:''' ''You don't... you don't know that. I don't know if I could stop myself right now.''\n<tabber>\n|-|You couldn't hurt me. (aggravating)=\n*'''Kassandra:''' ''Even if you did try to hurt me, I'm more than capable of fending you off.''\n*'''Timotheos:''' ''That's not... You're underestimating what I'll do when this happens.''\n|-|You won't hurt me. (calming)=\n*'''Kassandra:''' ''I know you're stronger than whatever this is.''\n*'''Timotheos:''' ''When I get like this... If I lose control for even a second, the terrible things I see myself doing...''\n</tabber>\n\n*'''Kassandra:''' ''Timotheos...''\n*'''Timotheos:''' ''No, no, no. Stop. Stop!''\n<tabber>\n|-|Breathe. (calming)=\n*'''Kassandra:''' ''Just breathe.''\n*'''Timotheos:''' ''I'm OK. I'm OK. Thank you.''\n|-|Control yourself. (aggravating)=\n*'''Kassandra:''' ''Just calm down.''\n*'''Timotheos:''' ''Like it's that fucking easy!''\n</tabber>\n\n*'''Kassandra:''' ''You're safe, Timotheos. I promise.''\n\n(If Kassandra was not able to calm Timotheos down)\n\n*'''Timotheos:''' ''I need to be alone right now. I - I'm sorry.''\n\nTimotheos left a puzzled Kassandra behind.\n(If Kassandra was able to calm Timotheos down)\n\n*'''Timotheos:''' ''I feel... better. Thank you. Would you mind... staying with me for a moment?''\n*'''Kassandra:''' ''Whatever you need.''\n\nAfter a while, they sat and watched the sunset.\n\n*'''Timotheos:''' ''Father handled coming back from [[Peloponnesian War|the war]] so much better than I did. Any loud noise or unexpected hand on my shoulder, and my heart bursts from my chest. But he never flinched.''\n*'''Kassandra:''' ''Did you tell him?''\n*'''Timotheos:''' ''I couldn't bear to tell father the reason I was discharged, let alone this. I wanted to make him proud.''\n*'''Kassandra:''' ''Why were you discharged?''\n*'''Timotheos:''' ''I... lost control in a battle and killed one of my comrades. My commander and I were close, so he discharged me with mania instead of charging me with treason. When I returned from the war, father never asked why. I don't know if he suspected or...''\n*'''Kassandra:''' ''Maybe he was hiding his struggles the way you hid yours.''\n*'''Timotheos:''' ''If that's true, he was strong enough to hide it from everyone. I'm too weak to even hide it from you.''\n<tabber>\n|-|You're a survivor.=\n*'''Kassandra:''' ''Pain doesn't make you weak. Timotheos. You're a survivor.''\n*'''Timotheos:''' ''When the battle hasn't been won, is there really honor in coming back alive?''\nShe stood up, and lowered her hand to him.\n*'''Kassandra:''' ''It's going to be all right, Timotheos.''\nHe took her hand, and stood up. Joining her in watching the sunset.\n*'''Timotheos:''' ''For the first time, I think it might be.''\n|-|Flirt-You're strong.=\n*'''Kassandra:''' ''Timotheos, you're a strong person. Anyone can see that.''\n*'''Timotheos:''' ''You think I'm strong?''\n{{#tag:tabber|\nYou're tough.=\n*'''Kassandra:''' ''You know you're tough''\n*'''Timotheos:''' ''Still nice to hear you say it.''\n{{!}}-{{!}}\nStop fishing for compliments.=\n*'''Kassandra:''' ''Maybe if you stopped brooding for a second, you'd see it, too.''\n*'''Timotheos:''' ''My father just died.''\n*'''Kassandra:''' ''I... You're right. Sorry''\n*'''Timotheos:''' ''It's... fine.''\n{{!}}-{{!}}\nYou care about people.=\n*'''Kassandra:''' ''Anyone who cares for people the way you do is strong, Timotheos.''\n*'''Timotheos:''' ''You think i'm caring.''\n*'''Kassandra:''' ''Of course. You care for Lykinos... and others.''\n*'''Timotheos:''' ''Others?''\n}}\nShe stood up, and lowered her hand to him.\n*'''Kassandra:''' ''You're going to be all right, Timotheos.''\nHe took her hand, and stood up.\n*'''Timotheos:''' ''Thank you. And... under normal circumstances, I would never tell you to stay away from me.''\n{{#tag:tabber|\nFlirt - Let's get closer.=\n*'''Kassandra:''' ''We could get closer now.''\n*'''Timotheos:''' ''What are we waiting for?''\nThe two kissed and spent the night together.\n{{!}}-{{!}}\nLet's stay where we are.=\n*'''Kassandra:''' ''I think we're close enough for now.''\n*'''Timotheos:''' ''All right. this is nice, too.''\nKassandra turned around he joined her in watching the sunset.\n}}\n|-|Everyone carries scars.=\n*'''Kassandra:''' ''War isn't easy, Timotheos. Everyone comes back with wounds that never heal.''\n*'''Timotheos:''' ''Physical scars fade. I'm not sure the ones I have ever will.''\nShe stood up, and lowered her hand to him.\n*'''Kassandra:''' ''It's going to be all right, Timotheos.''\nHe took her hand, and stood up. Joining her in watching the sunset.\n*'''Timotheos:''' ''For the first time, I think it might be.''\n</tabber>\nRegardless, Kassandra thought she should pay the two brothers a visit.\n\n*'''Kassandra:''' ''I should check in on Timotheos und Lykinos at their father's house.''",
+    "Section_Outcome": "Kassandra and Timotheos sparred, after which it turns out he was suffering from {{Wiki|post-traumatic stress disorder}} due to the war.",
+    "Section_Trivia": "*To calm down Thimotheos, players should choose 1 or 2 of the \"calming\" responses for the first two choices and \"Breathe\" for the third one, otherwise their attempts will prove futile.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Brother's Seduction",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Timotheos saw Kassandra approaching.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Timotheos:''' ''Kassandra! There you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra walked closer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Am I interrupting?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Timotheos:''' ''This is where I used to practice sparring with [[Diokles|my father]]. After he retired to the fishing business, he lost interest. But I kept up the practice on my own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Flirt - You shouldn't train alone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Doesn't training on your own get lonely?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|Training alone isn't a challenge.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Sparring without a partner isn't a real challenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D6",
+            "global_id": "16",
+            "content": "*'''Timotheos:''' ''Are you trying to goad me into a sparring match, [[mercenary]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I might be interested in some friendly competition.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Timotheos:''' ''I... don't think that's a good idea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Are you scared, [[Athens|Athenian]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Timotheos:'''  ''I just... Fine. Let's spar.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "22",
+            "content": "(If players choose \"Let's start.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U6",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Let's see what you've got.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "26",
+            "content": "During the fight, Timotheos got in a few punches.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''That all you've got?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "29",
+            "content": "*'''Timotheos:''' ''Ha! I'm just getting started.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "31",
+            "content": "Timotheos began taunting Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U10",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D14",
+            "global_id": "33",
+            "content": "*'''Timotheos:''' ''Come on, mercenary! Keep up!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Please! You're the one slowing down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "36",
+            "content": "Kassandra landed some punches herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U12",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "38",
+            "content": "*'''Timotheos:''' ''Filthy [[Sparta]]ns!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Timotheos, are you OK?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "41",
+            "content": "Timotheos was forced to his knee.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U14",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D18",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''You fought well, Athenian. Timotheos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "Timotheos quickly charged her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U16",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Timotheos, what are you doing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "48",
+            "content": "*'''Timotheos:''' ''I\u2014No. Stop. Stop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "49",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "50",
+            "content": "He grabbed his head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U18",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D21",
+            "global_id": "52",
+            "content": "*'''Timotheos:''' ''No! No! Stay back! Get away from me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "53",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "54",
+            "content": "|-|I'll stay back. (calming)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I'll stay back. I promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "56",
+            "content": "*'''Timotheos:''' ''I\u2014don't know what I'll do if you get too close.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "57",
+            "content": "|-|Let me help. (aggravating)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I'm not going to hurt you. Let me\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "59",
+            "content": "*'''Timotheos:''' ''Don't you get it? I might hurt you if you don't stay away!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "60",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U19",
+            "global_id": "61",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D26",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''You're not going to hurt me, Timotheos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "63",
+            "content": "*'''Timotheos:''' ''You don't... you don't know that. I don't know if I could stop myself right now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "64",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "65",
+            "content": "|-|You couldn't hurt me. (aggravating)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Even if you did try to hurt me, I'm more than capable of fending you off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "67",
+            "content": "*'''Timotheos:''' ''That's not... You're underestimating what I'll do when this happens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "68",
+            "content": "|-|You won't hurt me. (calming)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''I know you're stronger than whatever this is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "70",
+            "content": "*'''Timotheos:''' ''When I get like this... If I lose control for even a second, the terrible things I see myself doing...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "71",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U20",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D32",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Timotheos...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "74",
+            "content": "*'''Timotheos:''' ''No, no, no. Stop. Stop!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "75",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "76",
+            "content": "|-|Breathe. (calming)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Just breathe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "78",
+            "content": "*'''Timotheos:''' ''I'm OK. I'm OK. Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "79",
+            "content": "|-|Control yourself. (aggravating)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Just calm down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "81",
+            "content": "*'''Timotheos:''' ''Like it's that fucking easy!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "82",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U21",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D38",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''You're safe, Timotheos. I promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U22",
+            "global_id": "85",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "86",
+            "content": "(If Kassandra was not able to calm Timotheos down)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U23",
+            "global_id": "87",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D39",
+            "global_id": "88",
+            "content": "*'''Timotheos:''' ''I need to be alone right now. I - I'm sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U24",
+            "global_id": "89",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "90",
+            "content": "Timotheos left a puzzled Kassandra behind.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O2",
+            "global_id": "91",
+            "content": "(If Kassandra was able to calm Timotheos down)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U25",
+            "global_id": "92",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D40",
+            "global_id": "93",
+            "content": "*'''Timotheos:''' ''I feel... better. Thank you. Would you mind... staying with me for a moment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Whatever you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U26",
+            "global_id": "95",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "96",
+            "content": "After a while, they sat and watched the sunset.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U27",
+            "global_id": "97",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D42",
+            "global_id": "98",
+            "content": "*'''Timotheos:''' ''Father handled coming back from [[Peloponnesian War|the war]] so much better than I did. Any loud noise or unexpected hand on my shoulder, and my heart bursts from my chest. But he never flinched.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''Did you tell him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "100",
+            "content": "*'''Timotheos:''' ''I couldn't bear to tell father the reason I was discharged, let alone this. I wanted to make him proud.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Why were you discharged?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "102",
+            "content": "*'''Timotheos:''' ''I... lost control in a battle and killed one of my comrades. My commander and I were close, so he discharged me with mania instead of charging me with treason. When I returned from the war, father never asked why. I don't know if he suspected or...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''Maybe he was hiding his struggles the way you hid yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "104",
+            "content": "*'''Timotheos:''' ''If that's true, he was strong enough to hide it from everyone. I'm too weak to even hide it from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "105",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "106",
+            "content": "|-|You're a survivor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''Pain doesn't make you weak. Timotheos. You're a survivor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "108",
+            "content": "*'''Timotheos:''' ''When the battle hasn't been won, is there really honor in coming back alive?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "109",
+            "content": "She stood up, and lowered her hand to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''It's going to be all right, Timotheos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "111",
+            "content": "He took her hand, and stood up. Joining her in watching the sunset.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "112",
+            "content": "*'''Timotheos:''' ''For the first time, I think it might be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "113",
+            "content": "|-|Flirt-You're strong.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''Timotheos, you're a strong person. Anyone can see that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "115",
+            "content": "*'''Timotheos:''' ''You think I'm strong?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "116",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "117",
+            "content": "You're tough.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''You know you're tough''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "119",
+            "content": "*'''Timotheos:''' ''Still nice to hear you say it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "120",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "121",
+            "content": "Stop fishing for compliments.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "122",
+            "content": "*'''Kassandra:''' ''Maybe if you stopped brooding for a second, you'd see it, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "123",
+            "content": "*'''Timotheos:''' ''My father just died.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "124",
+            "content": "*'''Kassandra:''' ''I... You're right. Sorry''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "125",
+            "content": "*'''Timotheos:''' ''It's... fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "126",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "127",
+            "content": "You care about people.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D61",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''Anyone who cares for people the way you do is strong, Timotheos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "129",
+            "content": "*'''Timotheos:''' ''You think i'm caring.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''Of course. You care for Lykinos... and others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "131",
+            "content": "*'''Timotheos:''' ''Others?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "132",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "N13",
+            "global_id": "133",
+            "content": "She stood up, and lowered her hand to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''You're going to be all right, Timotheos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "135",
+            "content": "He took her hand, and stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D66",
+            "global_id": "136",
+            "content": "*'''Timotheos:''' ''Thank you. And... under normal circumstances, I would never tell you to stay away from me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "137",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC14",
+            "global_id": "138",
+            "content": "Flirt - Let's get closer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "139",
+            "content": "*'''Kassandra:''' ''We could get closer now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "140",
+            "content": "*'''Timotheos:''' ''What are we waiting for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "141",
+            "content": "The two kissed and spent the night together.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "142",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC15",
+            "global_id": "143",
+            "content": "Let's stay where we are.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D69",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''I think we're close enough for now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "145",
+            "content": "*'''Timotheos:''' ''All right. this is nice, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "146",
+            "content": "Kassandra turned around he joined her in watching the sunset.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "147",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC16",
+            "global_id": "148",
+            "content": "|-|Everyone carries scars.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "149",
+            "content": "*'''Kassandra:''' ''War isn't easy, Timotheos. Everyone comes back with wounds that never heal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "150",
+            "content": "*'''Timotheos:''' ''Physical scars fade. I'm not sure the ones I have ever will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "151",
+            "content": "She stood up, and lowered her hand to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "152",
+            "content": "*'''Kassandra:''' ''It's going to be all right, Timotheos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "153",
+            "content": "He took her hand, and stood up. Joining her in watching the sunset.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D74",
+            "global_id": "154",
+            "content": "*'''Timotheos:''' ''For the first time, I think it might be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "155",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N19",
+            "global_id": "156",
+            "content": "Regardless, Kassandra thought she should pay the two brothers a visit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U28",
+            "global_id": "157",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D75",
+            "global_id": "158",
+            "content": "*'''Kassandra:''' ''I should check in on Timotheos und Lykinos at their father's house.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

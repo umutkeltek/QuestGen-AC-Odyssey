@@ -1,0 +1,276 @@
+{
+    "Quest_Name": "Knives in the Dark",
+    "Quest_ID": "226381",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "one of the main quests of the DLC ''The Legacy of the First Blade'' | [[Knife in the Dark]], a timed side quest"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Legacy of the First Blade | Assassin's Creed: Odyssey \u2212 Legacy of the First Blade]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra learned of the Phila|Tempest's designs to find and eliminate her. Such hubris! The Tempest stationed personal Mercenary|mercenaries across Achaia to watch out for the Eagle Bearer.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Main",
+        "next": "Atos the Beast Caller (memory)|Atos the Beast Caller<br />Hirpes the Sordid (memory)|Hirpes the Sordid",
+        "source": "Kassandra",
+        "location": "Achaia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Knives in the Dark''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra discovered a correspondence uncovering the [[Order of the Storm]]'s attempts to eliminate her by hiring [[Mercenary|mercenaries]].",
+    "Section_Dialogue": "In [[Patrai]], she [[Atos the Beast Caller (memory)|faced]] [[Atos the Beast Caller]].  [[Ikaros]] pointed him out.\n*'''Kassandra:''' ''There they are!''\nShe killed the mercenary and his [[bear]] familiar.\n\nWhile traveling in [[Pellene]], Kassandra [[Hirpes the Sordid (memory)|spied]] [[Hirpes the Sordid]], one of the mercenaries sent to kill her.\n*'''Kassandra:''' ''There he is!''\nShe pounced on the mercenary.\n*'''Mercenary:''' ''The [[Phila|Tempest]] demands your head, Eagle Bearer!''\n*'''Kassandra:''' ''She'll have yours instead.''\nShe wore Hirpes down and killed him.\n\nWith the first of two mercenaries dead, Kassandra recovered correspondence leading to the remaining three.\n*'''Mercenary Correspondence:'''<br>''We'll cover [[Boura]]. [[Aias the Clean|Aias]] will [[Aias the Clean (memory)|work with the soldiers]] and their [[Polemarch]].''\n\nKassandra traveled to [[Olouros Fortress]] to [[Aias the Clean (memory)|locate]] [[Aias the Clean]].\n*'''Kassandra:''' ''He's over there.''\nKassandra eliminated the mercenary, as well as any soldiers that got in her way.\n\nKassandra traveled to the [[House of the Phoenician]] to [[Kephalon the Thinker (memory)|find]] a pair of mercenaries, [[Kephalon the Thinker]] and [[Proktos the Moon King]], working [[Proktos the Moon King (memory)|together]]. Ikaros identified Kephalon.\n*'''Kassandra:''' ''I see him.''\nIkaros also identified Proktos.\n*'''Kassandra:''' ''Found him!''\n\nProktos the Moon King charged at her, and Kassandra groaned.\n*'''Kassandra:''' ''Another one of the Tempest's hired hands.''\nShe evaded his poisoned blades and killed him.\n\nShe engaged Kephalon the Thinker.\n*'''Mercenary:''' ''Your death will bring me great fortune, Eagle Bearer. I'll name my new villa after you.''\n*'''Kassandra:''' ''Too bad you'll never see it.''\nShe outmaneuvered his blunt weapon and defeated him.\n\nAfter killing one mercenary, Kassandra determined that more would follow.\n*'''Kassandra:''' ''This mercenary was sent by the Tempest. He won't be the last.''\nAfter killing the second mercenary, Kassandra pondered the value of the contract on her.\n*'''Kassandra:''' ''More mercenaries sent by the Tempest. Must be some bounty.''\nKassandra killed a third mercenary.\n*'''Kassandra:''' ''The Tempest ''will'' run out of mercenaries eventually.''\nKassandra defeated all of the mercenaries pursuing her.\n*'''Kassandra:''' ''That should be the last of them.''",
+    "Section_Outcome": "Kassandra eliminated the five mercenaries hired by the Order of the Storm.",
+    "Section_Trivia": "*Although players become aware of the bounty at the warehouse during [[Persian Puppetry]], the mercenaries do not become available until after the Tempest's ships are sunk and the quest fully complete.\n*The last three mercenaries, [[Aias the Clean]], [[Kephalon the Thinker]], and [[Proktos the Moon King]], do not spawn until both [[Atos the Beast Caller]] and [[Hirpes the Sordid]] have been defeated.\n**Thus, it would seem the most efficient path to killing them all is to return to Patrai immediately after sinking the boats to kill Atos, followed by Hirpes in Pellene, collecting the correspondence to spawn the other three, then killing Aias in the nearby Olouros Fortress before wrapping up the pair near Boura.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "In [[Patrai]], she [[Atos the Beast Caller (memory)|faced]] [[Atos the Beast Caller]].  [[Ikaros]] pointed him out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There they are!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She killed the mercenary and his [[bear]] familiar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "While traveling in [[Pellene]], Kassandra [[Hirpes the Sordid (memory)|spied]] [[Hirpes the Sordid]], one of the mercenaries sent to kill her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''There he is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "She pounced on the mercenary.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Mercenary:''' ''The [[Phila|Tempest]] demands your head, Eagle Bearer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''She'll have yours instead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "10",
+            "content": "She wore Hirpes down and killed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "12",
+            "content": "With the first of two mercenaries dead, Kassandra recovered correspondence leading to the remaining three.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Mercenary Correspondence:'''<br>''We'll cover [[Boura]]. [[Aias the Clean|Aias]] will [[Aias the Clean (memory)|work with the soldiers]] and their [[Polemarch]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "15",
+            "content": "Kassandra traveled to [[Olouros Fortress]] to [[Aias the Clean (memory)|locate]] [[Aias the Clean]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''He's over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "17",
+            "content": "Kassandra eliminated the mercenary, as well as any soldiers that got in her way.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "19",
+            "content": "Kassandra traveled to the [[House of the Phoenician]] to [[Kephalon the Thinker (memory)|find]] a pair of mercenaries, [[Kephalon the Thinker]] and [[Proktos the Moon King]], working [[Proktos the Moon King (memory)|together]]. Ikaros identified Kephalon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I see him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "21",
+            "content": "Ikaros also identified Proktos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Found him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "24",
+            "content": "Proktos the Moon King charged at her, and Kassandra groaned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Another one of the Tempest's hired hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "26",
+            "content": "She evaded his poisoned blades and killed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "28",
+            "content": "She engaged Kephalon the Thinker.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "29",
+            "content": "*'''Mercenary:''' ''Your death will bring me great fortune, Eagle Bearer. I'll name my new villa after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Too bad you'll never see it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "31",
+            "content": "She outmaneuvered his blunt weapon and defeated him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N15",
+            "global_id": "33",
+            "content": "After killing one mercenary, Kassandra determined that more would follow.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''This mercenary was sent by the Tempest. He won't be the last.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "35",
+            "content": "After killing the second mercenary, Kassandra pondered the value of the contract on her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''More mercenaries sent by the Tempest. Must be some bounty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "37",
+            "content": "Kassandra killed a third mercenary.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''The Tempest ''will'' run out of mercenaries eventually.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "39",
+            "content": "Kassandra defeated all of the mercenaries pursuing her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''That should be the last of them.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

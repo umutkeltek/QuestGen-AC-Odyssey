@@ -1,0 +1,57 @@
+{
+    "Quest_Name": "The Con of Cons",
+    "Quest_ID": "243659",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Con of Cons",
+        "description": "'It's time the liar gets what's coming to him. Show the Cerberus a captured Con - dead or alive - and make yourself rich.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "conc": "A Business Opportunity<br>Dead or Alive (Odyssey)|Dead or Alive",
+        "source": "Kassandra",
+        "location": "Kos, Greece",
+        "date": "426 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Con of Cons''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra accepted a quest from the Message Board to hunt down the Con of Kos for the Cerberus.",
+    "Section_Dialogue": "Kassandra accepted the quest.\n*'''Kassandra:''' ''Lots of contracts about this Con of Kos. Must be a bonehead.''\nKassandra traveled to [[Artemisia Fort]] to find the target.\n:(Dialogue continued in [[A Business Opportunity]])",
+    "Section_Outcome": "The Con of Kos was Markos all along, Kassandra then helped her old friend with a new problem.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Side, World",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra accepted the quest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Lots of contracts about this Con of Kos. Must be a bonehead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra traveled to [[Artemisia Fort]] to find the target.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "4",
+            "content": ":(Dialogue continued in [[A Business Opportunity]])",
+            "segment_type": "Narrative"
+        }
+    ]
+}

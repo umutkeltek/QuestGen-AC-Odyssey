@@ -1,0 +1,38 @@
+{
+    "QuestName": "Party Supplies",
+    "QuestID": "243750",
+    "Revision": {
+        "id": "886984",
+        "parentid": "884962",
+        "timestamp": "2020-07-17T04:50:31Z",
+        "contributor": null,
+        "origin": "886984",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ctoz5l640jobllywxp9dfm3s3z11ksk"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Party Supplies",
+        "image": "ACOD Party Supplies 2.png",
+        "description": "'Piracy|Pirates and Great white shark|sharks were problems for revelers who wanted to recover a sunken cask of good wine for their banquet according to one 'hetaera.",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Party Supplies''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A ''[[hetaera]]'' sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "[[File:ACOD Party Supplies 1.png|thumb|250px]]\nKassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br />''Strong swimmer needed for an urgent errand. Please come see me.''\nShe sought out the ''hetaera'' and addressed her.\n*'''Kassandra:''' '' I got your message on the board. What's going on?''\n*'''Woman:''' ''A crate of good [[wine]] was lost at sea - [[Piracy|pirates]] sank a [[merchant]] [[ship]]. I need that wine for tonight's banquet.''\n*'''Kassandra:''' ''You can probably still get it back... if you don't mind getting wet.''\n*'''Woman:''' ''Only someone truly brave would wade into those waters now. The pirates are still nearby, and I've heard rumors of a [[Great white shark|shark]] spotted close to the port.''\n\n<tabber>\n|-|Kill Sharks=\n*'''Kassandra:''' ''So I should kill all the sharks.''\n*'''Woman:''' ''Ah. Not only do you possess the strength of [[Herakles]], but the wits of [[Hermes]], too.''\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''All right. I'll do it.''\n*'''Woman:''' ''Good. You're doing me a great service.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra went out and slew the sharks before returning to the woman.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''Job well done, mercenary. Here, this is yours.''\n*'''Kassandra:''' ''Happy to help.''\n\n|-|Destroy Pirate ships=\n*'''Kassandra:''' ''You want me to destroy all the pirate ships.''\n*'''Woman:''' ''The horizon should be clear of ships once you\u2019re done.''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''All right. I'm in.''\n*'''Woman:''' ''Glad to hear it.''\n*'''Kassandra:''' Chaire'', stranger.''\n(Find, destroy, return)\n*'''Woman:''' ''Did you destroy them all?''\n*'''Kassandra:''' '' It would be hard to piece them back together.''\n*'''Woman:''' ''You've earned your payment, ''misthios''. Here. This is for you.''\n*'''Kassandra:''' ''All in a day's work.''\n</tabber>",
+    "Section_Outcome": "Kassandra did as the ''hetaera'' asked, and was rewarded for this.",
+    "Section_Behind_the_scenes": "The dialogue for timed quests in ''[[Assassin's Creed: Odyssey]]'' is part scripted, part randomly generated from a pool of generic statements. As such, the wording encountered varies.\n\nAll timed quests have two variants, as noted: when given a choice, the desired is always the top one.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD Party Supplies 3.png\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

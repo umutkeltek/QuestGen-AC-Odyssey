@@ -1,0 +1,261 @@
+{
+    "Quest_Name": "Battle of 300 (memory)",
+    "Quest_ID": "251117",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Battle of Thermopylae | event]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Introduction - Leonidas - Assassins Creed Odyssey.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "next": "So It Begins",
+        "source": "Leonidas I of Sparta",
+        "location": "Malis, Greece",
+        "date": "480 BCE"
+    },
+    "General_Description": "'''Battle of 300''' was a virtual representation of one of [[Leonidas I of Sparta|Leonidas I]] of [[Sparta]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Leonidas and [[Spartan army|his army]] prepared for the battle against the [[Persia]]ns.",
+    "Section_Dialogue": "Leonidas stood on the top of a cliff, when [[Dienekes]] approached him.\n*'''Dienekes:''' ''We are ready, my king.''\n*'''Leonidas:''' ''Tell me, Dienekes, have you ever gone fishing with your son?''\n*'''Dienekes:''' ''No, never. A soldier's life is all I've had the honor to know.''\n*'''Leonidas:''' ''I would have liked to have gone fishing with {{Wiki|Pleistarchus|my son}}. But now...''\nLeonidas put his helm on.\n*'''Leonidas:''' ''Let's meet our fate, shall we?''\nLeonidas and Dienekes went to the rest of their army, after witnessing dozens of Persians [[ship]]s at the coast. Leonidas walked among his men.\n[[File:KingLeonidas.PNG|thumb|250px|Leonidas rallies his troops]]\n*'''Leonidas:''' ''Spartans! Every breath that you have taken, has led you to this moment. Every drop of blood, sweat and tear, all of it, has led to where you stand right now. The Persians come to make slaves of us all. I have a better idea. I say we drench the gods with their blood. What say you Spartans?''\nThe Spartans roared.\n*'''Leonidas:''' ''For our sons!''\nThe Spartans roared again.\n*'''Leonidas:''' ''For our daughters!''\nThe Spartans roared again.\n*'''Leonidas:''' ''For Sparta!''\n[[File:ACOD Kurush Spartan Soldiers.png|thumb|250px|Kurush fighting two Spartans]]\nThe Spartans roared three times, then mounted guard for the incoming Persian attack. Amid the battle, Leonidas fought and killed a few Persians with [[Spear of Leonidas|his spear]]. He then killed three captains before making his way to the commander, [[Kurush]]. The two men threw themselves off a cliff, and stood up.\n*'''Kurush:''' ''Puny Spartan! I'll bring [[Xerxes I of Persia|Xerxes]] your head.''\n*'''Leonidas:''' ''Xerxes send his sheep to slaughter. Come, Persian!''\n*'''Kurush:''' ''I will bring Xerxes your head, you insolent Spartan fool!''\n*'''Leonidas:''' ''Come and get it!''\n*'''Leonidas:''' ''My ''son'' is more of a warrior than you.''\n*'''Kurush:''' ''Once I'm done with you, king, all of Sparta's sons will be slaves for Xerxes!''\n*'''Leonidas:''' ''Sparta's sons would rather die!''\n*'''Kurush:''' ''That can be arranged.''\nLeonidas killed Kurush.\n*'''Leonidas:''' ''No match for a Spartan!''\nAt the end of the battle, the Spartan were piling up the bodies of the Persians. A Spartan soldier brought a Persian soldier tied to Leonidas.\n*'''Spartan Light Soldier:''' ''We are betrayed, my king. Xerxes knows of [[Cave of Kratos|the path]] behind the mountain. They are coming.''\n*'''Persian Soldier:''' ''By dawn, you'll be completely surrounded!''\n*'''Leonidas:''' ''We are Spartans, when we are not.''\n*'''Persian Soldier:''' ''Spartans!''\nThe Persian spat on Leonidas.\n*'''Persian Soldier:''' ''That word will mean nothing when Xerxes wipes your bloodline from the face of th\u2014''\n\nLeonidas stabbed the Persian on the mouth, killing him. He then addressed his men.\n*'''Leonidas:''' ''Today was a day the Persians will never forget. Tomorrow is a day the world will remember.",
+    "Section_Outcome": "The Spartans won the battle against the Persians but were alerted of a new attack.",
+    "Section_Trivia": "* When starting a New Game Plus, the Battle of 300 is skipped entirely.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:L'\u00e9veil (Odyssey)]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "1.",
+    "Chapter_Name": "Another Day, Another Drachma",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Leonidas stood on the top of a cliff, when [[Dienekes]] approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Dienekes:''' ''We are ready, my king.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Leonidas:''' ''Tell me, Dienekes, have you ever gone fishing with your son?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Dienekes:''' ''No, never. A soldier's life is all I've had the honor to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Leonidas:''' ''I would have liked to have gone fishing with {{Wiki|Pleistarchus|my son}}. But now...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "Leonidas put his helm on.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Leonidas:''' ''Let's meet our fate, shall we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "Leonidas and Dienekes went to the rest of their army, after witnessing dozens of Persians [[ship]]s at the coast. Leonidas walked among his men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "9",
+            "content": "[[File:KingLeonidas.PNG|thumb|250px|Leonidas rallies his troops]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Leonidas:''' ''Spartans! Every breath that you have taken, has led you to this moment. Every drop of blood, sweat and tear, all of it, has led to where you stand right now. The Persians come to make slaves of us all. I have a better idea. I say we drench the gods with their blood. What say you Spartans?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "The Spartans roared.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Leonidas:''' ''For our sons!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "13",
+            "content": "The Spartans roared again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Leonidas:''' ''For our daughters!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "15",
+            "content": "The Spartans roared again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Leonidas:''' ''For Sparta!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "17",
+            "content": "[[File:ACOD Kurush Spartan Soldiers.png|thumb|250px|Kurush fighting two Spartans]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "18",
+            "content": "The Spartans roared three times, then mounted guard for the incoming Persian attack. Amid the battle, Leonidas fought and killed a few Persians with [[Spear of Leonidas|his spear]]. He then killed three captains before making his way to the commander, [[Kurush]]. The two men threw themselves off a cliff, and stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kurush:''' ''Puny Spartan! I'll bring [[Xerxes I of Persia|Xerxes]] your head.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Leonidas:''' ''Xerxes send his sheep to slaughter. Come, Persian!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kurush:''' ''I will bring Xerxes your head, you insolent Spartan fool!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Leonidas:''' ''Come and get it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Leonidas:''' ''My ''son'' is more of a warrior than you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kurush:''' ''Once I'm done with you, king, all of Sparta's sons will be slaves for Xerxes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Leonidas:''' ''Sparta's sons would rather die!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kurush:''' ''That can be arranged.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "27",
+            "content": "Leonidas killed Kurush.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Leonidas:''' ''No match for a Spartan!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "29",
+            "content": "At the end of the battle, the Spartan were piling up the bodies of the Persians. A Spartan soldier brought a Persian soldier tied to Leonidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Spartan Light Soldier:''' ''We are betrayed, my king. Xerxes knows of [[Cave of Kratos|the path]] behind the mountain. They are coming.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Persian Soldier:''' ''By dawn, you'll be completely surrounded!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Leonidas:''' ''We are Spartans, when we are not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Persian Soldier:''' ''Spartans!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "34",
+            "content": "The Persian spat on Leonidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "35",
+            "content": "*'''Persian Soldier:''' ''That word will mean nothing when Xerxes wipes your bloodline from the face of th\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "36",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "37",
+            "content": "Leonidas stabbed the Persian on the mouth, killing him. He then addressed his men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Leonidas:''' ''Today was a day the Persians will never forget. Tomorrow is a day the world will remember.",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

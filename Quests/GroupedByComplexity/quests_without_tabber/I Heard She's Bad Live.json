@@ -1,0 +1,140 @@
+{
+    "Quest_Name": "I Heard She's Bad Live",
+    "Quest_ID": "236469",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "I Heard She's Bad Live",
+        "description": "'Angered by how the Spartan soldiers insulted her and her music, a musician vowed a bloody revenge.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''I Heard She's Bad Live''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a musician who felt the [[soldier]]s she'd played to earlier hadn't appreciated her art.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''[[Sparta]]n soldiers are dogs! My [[drachma]]e to anyone who can help me get justice.''\nShe sought out the Musician and addressed her.\n*'''Kassandra:''' ''I picked up your message on the board. What's happening?''\n*'''Woman:''' ''Uncultured fools. Swine. At least the [[Athens|Athenian]] soldiers behaved like [[human]]s.''\n*'''Kassandra:''' ''Your music wasn't popular with the Spartans?''\n*'''Woman:''' ''They spat on me. They threatened and leered. Told me to go back to the city and give birth to sons. May the crows take them and the commander who invited me to come play here.''\n*'''Kassandra:''' ''Let me guess - you need me to kill the Spartan commander?''\n*'''Woman:''' ''Obviously. Do we have a deal?''\n(Accept - The commander's head is mine.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Woman:''' ''Thank the [[muses]].''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra sought out the Spartan commander at his camp nearby, and slew him before returning to the Musician.\n*'''Woman:''' ''You again. Have you killed him?'' \n*'''Kassandra:''' ''Your man is dead.''\n*'''Woman:''' ''You're truly a great warrior. Please take this as thanks.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra helped the musician to get her revenge, and was rewarded for this.",
+    "Section_Trivia": "*Knocking out and recruiting the commander instead of killing him does not affect the dialogue.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''[[Sparta]]n soldiers are dogs! My [[drachma]]e to anyone who can help me get justice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the Musician and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I picked up your message on the board. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''Uncultured fools. Swine. At least the [[Athens|Athenian]] soldiers behaved like [[human]]s.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Your music wasn't popular with the Spartans?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''They spat on me. They threatened and leered. Told me to go back to the city and give birth to sons. May the crows take them and the commander who invited me to come play here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Let me guess - you need me to kill the Spartan commander?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''Obviously. Do we have a deal?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - The commander's head is mine.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'll help you. You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''Thank the [[muses]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra sought out the Spartan commander at his camp nearby, and slew him before returning to the Musician.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Woman:''' ''You're truly a great warrior. Please take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

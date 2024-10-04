@@ -1,0 +1,303 @@
+{
+    "Quest_Name": "Know Your Enemy",
+    "Quest_ID": "224628",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'General Lysander always made a careful study of his enemies. As we're all bound to our character, this skill, above all others, would promise him the upper hand.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "The Cost of War",
+        "next": "Nemesis (memory)|Nemesis",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Know Your Enemy''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After collecting three ''[[polemarch]]'' seals, Kassandra returned to [[Lysander]] in [[Sparta]].",
+    "Section_Dialogue": "(Dialogue continues from\u00a0The Cost of War)\n*'''Kassandra:''' ''Fine. I'll kill more for you.''\n*'''Lysander:''' ''My soldiers think me bloodthirsty. I know the cost of war. Neither side will be clean of it.''\n*'''Kassandra:''' ''Your plan is working.''\n*'''Lysander:''' ''And the [[Athens|Athenian]] think me battle shy!''\n*'''Kassandra:''' ''That makes you happy?''\n*'''Lysander:''' ''I held my army back, so they dropped their guard. And then we ran them aground.''\n(If players choose \"How goes the war?\")\n*'''Kassandra:''' ''So I take it the war is going well for you, then?''\n*'''Lysander:''' ''Enough questions.''\n(If players choose \"What will you do if you win?\")\n*'''Kassandra:''' ''What will you do if you win?''\n*'''Lysander:''' ''Enough talk.''\n(If players choose \"OK. No more questions.\")\n*'''Kassandra:''' ''Fine. I won't ask any more questions.''\n*'''Lysander:''' ''Tell me then, Eagle Bearer, you must be pleased with our progress.''\n*'''Kassandra:''' ''As you said, tactics will win this.''\n*'''Lysander:''' ''When this is over, I'll try my hand at politics.''\n*'''Kassandra:''' ''I'm sure it'll suit you.''\n*'''Lysander:''' ''Go then, kill the enemy command. This is our war to win.''\n*'''Kassandra:''' ''I'll do it, General.''\nKassandra returns to Lysander.\n*'''Kassandra:''' ''I have the seals. Spartan troops have the outpost.''\n*'''Lysander:''' ''While you were gone, I oversaw the capture of three thousand. Yet still my men suck their thumbs.''\n*'''Kassandra:''' ''Three thousand prisoners?''\n*'''Lysander:''' ''Not anymore. They've been executed. Do you disapprove?''\n\n<tabber>\n|-|War is war.=\n*'''Kassandra:''' ''They'd do it to us.''\n*'''Lysander:''' ''So we understand one another then.''\n*'''Kassandra:''' ''Perfectly.''\n|-|Our actions are our legacy.=\n*'''Kassandra:''' ''Our actions live on long after we're dead.''\nLysander turns infuriated.\n*'''Lysander:''' ''Don't you dare lecture me, Eagle Bearer. The gods approve of my actions.''\n*'''Kassandra:''' ''Then I'll leave you to the gods.''\n*'''Lysander:''' ''Your Spartan blood boils, does it?''\n</tabber>\n\n*'''Kassandra:''' ''These seals should provide you ample proof.''\n*'''Lysander:''' ''My command on the battlefield has been more than secured.''\n*'''Kassandra:''' ''You're welcome.''\n*'''Lysander:''' ''We're well-positioned for battle. Troops have been deployed and will control more ground soon. Your efforts were invaluable. I won't forget it.''\n*'''Kassandra:''' ''Thank you, General.''",
+    "Section_Outcome": "Kassandra helped Lysander eliminate three Athenian ''polemarchs'' and recover their seals. She was again tasked to retrieve more.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lysander",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "O1",
+            "global_id": "1",
+            "content": "(Dialogue continues from\u00a0The Cost of War)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Fine. I'll kill more for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Lysander:''' ''My soldiers think me bloodthirsty. I know the cost of war. Neither side will be clean of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Your plan is working.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Lysander:''' ''And the [[Athens|Athenian]] think me battle shy!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''That makes you happy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Lysander:''' ''I held my army back, so they dropped their guard. And then we ran them aground.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "8",
+            "content": "(If players choose \"How goes the war?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''So I take it the war is going well for you, then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Lysander:''' ''Enough questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "11",
+            "content": "(If players choose \"What will you do if you win?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''What will you do if you win?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Lysander:''' ''Enough talk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "14",
+            "content": "(If players choose \"OK. No more questions.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Fine. I won't ask any more questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Lysander:''' ''Tell me then, Eagle Bearer, you must be pleased with our progress.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''As you said, tactics will win this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Lysander:''' ''When this is over, I'll try my hand at politics.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'm sure it'll suit you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Lysander:''' ''Go then, kill the enemy command. This is our war to win.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll do it, General.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "22",
+            "content": "Kassandra returns to Lysander.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I have the seals. Spartan troops have the outpost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "24",
+            "content": "*'''Lysander:''' ''While you were gone, I oversaw the capture of three thousand. Yet still my men suck their thumbs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Three thousand prisoners?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "26",
+            "content": "*'''Lysander:''' ''Not anymore. They've been executed. Do you disapprove?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "28",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "29",
+            "content": "|-|War is war.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''They'd do it to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Lysander:''' ''So we understand one another then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Perfectly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "33",
+            "content": "|-|Our actions are our legacy.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Our actions live on long after we're dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "35",
+            "content": "Lysander turns infuriated.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Lysander:''' ''Don't you dare lecture me, Eagle Bearer. The gods approve of my actions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Then I'll leave you to the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "38",
+            "content": "*'''Lysander:''' ''Your Spartan blood boils, does it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D29",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''These seals should provide you ample proof.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "42",
+            "content": "*'''Lysander:''' ''My command on the battlefield has been more than secured.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''You're welcome.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Lysander:''' ''We're well-positioned for battle. Troops have been deployed and will control more ground soon. Your efforts were invaluable. I won't forget it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Thank you, General.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

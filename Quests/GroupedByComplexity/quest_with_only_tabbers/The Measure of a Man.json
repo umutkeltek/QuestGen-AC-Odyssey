@@ -1,0 +1,630 @@
+{
+    "Quest_Name": "The Measure of a Man",
+    "Quest_ID": "225598",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory of Kassandra | the [[The Measure of a Norseman | genetic memory]] of Eivor Varinsdottir"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd The Measure of a Man.png",
+        "description": "'After renowned artist Polykleitos was robbed by bandits, he beseeched the gods for help. Kassandra agreed to help him recover his missing tools, noting he was overcome by a sense of wonder.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "next": "Bad Weed",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Measure of a Man''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found the famed sculptor [[Polykleitos]] in [[Elis]] calling for help.",
+    "Section_Dialogue": "As Kassandra walked the roads of Elis, she came across a man kneeling by the road, beseeching the gods for help.\n*'''Polykleitos:''' ''Help! Please!''\nKassandra approached Polykleitos.\n*'''Polykleitos:''' ''Please, dear gods, can anyone help? Those artless swine have ruined me! Ruined!''\n<tabber>\n|-|The gods sent me to help.=\n*'''Kassandra:''' ''Divine winds have brought your cries to me. Tell me what you need.''\n*'''Polykleitos:''' ''Amazing! Please, friend, filthy bandits attacked me and stole all of my belongings. My tools are worthless to them, but invaluable to me. I am ruined unless you help!''\n\n|-|Tell me what I can do to help.=\n*'''Kassandra:''' ''I find the gods leave us to fend for ourselves. Tell me what you need, and maybe I can help you.''\n*'''Polykleitos:''' ''True enough. You look like you can handle yourself. Filthy swine stole my prized tools, though they are worthless to them. I am ruined, unless you can help me.''\n\n</tabber>\n(Accept \u2013 Point me toward those thieves.)\n*'''Kassandra:''' ''Point me towards these thieves, and I will bring the heavens down upon them!''\n*'''Polykleitos:''' ''Praise [[Zeus]]! I am the artist, Polykleitos. Hunt down the [[bandit]]s and recover my prized tools. Wait... what is your name, ''misthios?\n*'''Kassandra:''' ''I am called Kassandra.''\n*'''Polykleitos:''' ''By the gods... could it be true?''\n*'''Kassandra:''' ''What?''\n*'''Polykleitos:''' ''No, nothing! Please, recover my tools and I'll see you rewarded.''\nKassandra tracked the bandits south to [[Quicksand Bay]] and retrieved Polykleitos' mallet and chisel from a pouch in their camp. She returned to Polykleitos with his tools in hand.\n*'''Kassandra:''' ''I found your tools.''\nPolykleitos was delighted.\n*'''Polykleitos:''' ''I can't believe it! Maybe you really are from [[Mount Olympos|Olympos]].''\n\n<tabber>\n|-|The blood of the gods flows through me.=\n*'''Kassandra:''' ''Yes, I am of the blood of Olympos.''\n*'''Polykleitos:''' ''Amazing, maybe those villagers from [[Linou Farm]] had it right. That is where I'm going now, and I could use an escort.''\n|-|Don't be ridiculous, I'm like you.=\n*'''Kassandra:''' ''No, my friend. I am flesh and blood like you.''\n*'''Polykleitos:''' ''Oh well, at least those villagers from [[Linou Farm]] pay well. I need to get there safely. If you escort me, I'm sure they will treat you lavishly.''\n</tabber>\n(If players choose \"What is this village?\")\n*'''Kassandra:''' ''What can you tell me about this village?''\n*'''Polykleitos:''' ''Linou is a small region of devout villagers and farmers. Hard-working people. Very serious in their beliefs. They hired me to make them a sculpture of, well, the Eagle Bearer.''\n*'''Kassandra:''' ''Really. Why?''\n*'''Polykleiptos:''' ''They know your name and your deeds, and believe you to be their savior.''\n(If players choose \"Why did you think I was a god?\")\n*'''Kassandra:''' ''Why did you think I carried the blood of Olympos in my veins?''\n*'''Polykleitos:''' ''Your reputation proceeds you. And the villagers of Linou can't stop talking about you.''\n(Leave \u2013 Let's go to this village.)\n*'''Kassandra:''' ''Lead me to Linou Farm. I'll make sure you get there safely.''\n*'''Polykleitos:''' ''Excellent. I'm sure they will honor you with gifts and riches.''\n*'''Kassandra:''' ''Then let's go.''\nKassandra and Polykleitos mounted their horses and travelled to Linou Farm.\n*'''Kassandra:''' ''How did you learn of this village?''\n*'''Polykleitos:''' ''My doctrine on beauty is renowned. Village priestesses came to my home in [[Argos]] and begged me to come and fashion a figure for them.''\n*'''Kassandra:''' ''You came all the way from [[Argos]]?''\n*'''Polykleitos:''' ''They offered good drachmae. It's not easy being an artist, you know.''\n*'''Kassandra:''' ''And what is the statue going to look like when you are done?''\n*'''Polykleitos:''' ''Well, you, I suppose.''\n*'''Kassandra:''' ''Me?''\n*'''Polykleitos:''' ''They worship the Eagle Bearer. They told me lots of stories. A pretty fair description, though I expected you to be taller. And to have a smaller nose.''\n*'''Kassandra:''' ''This theory of yours, who determines what is beautiful?''\n*'''Polykleitos:''' ''Math.''\n*'''Kassandra:''' ''Math?''\n*'''Polykleitos:''' ''Exactly. Beauty is an equation derived from the commensurability of all the parts of the body. From finger to finger. Fingers to the palm and wrist. Those to the forearm, and the forearm to the upper arm, and like that to include the whole of the body.''\n*'''Kassandra:''' ''Huh. Math.''\nKassandra escorted Polykleitos safely to Linou Farm.\n*'''Polykleitos:''' ''Gratitude, friend. You saved my hide. And you've given me great reference. Let us talk to the Priestess [[Hexione]] and be properly welcomed!''\nKassandra and Polykleitos walked over to where the Priestess Hexione was standing.\n*'''Priestess Hexione:''' ''Good Polykleitos! You made it!''\n*'''Polykleitos:''' ''Priestess Hexione, my journey was a test from the gods... but look what miracle they have delivered!''\n*'''Priestess Hexione:''' ''Who is this?''\n*'''Kassandra:''' ''I am Kassandra.''\n*'''Polykleitos:''' ''The ''misthios'' you told me about! She appeared like a bolt from [[Zeus]] and rescued me from road bandits.''\n*'''Priestess Hexione:''' ''The Eagle Bearer... This is an unexpected honor!''\n*'''Kassandra:''' ''Glad to visit. Uh, how have you heard of me?''\n*'''Priestess Hexione:''' ''Certainly you jest! Your deeds are carried along the winds and sung through the stars. We are but a poor village, but your being here gives us hope to cling to in this hard world.''\n*'''Polykleitos:''' ''And soon there will be a statue to capture a hint of your glory.''\n*'''Priestess Hexione:''' ''To have our patron walk among us and give us divine fortune is a wonder. We will be eternally blessed!''\n\n<tabber>\n|-|You are right to recognize my greatness.=\n*'''Kassandra:''' ''You do me a great honor. I am pleased to walk among your people.''\n*'''Priestess Hexione:''' ''Oh thank you, Eagle Bearer! There are many humble servants here who could benefit from your attention.''\n*'''Kassandra:''' ''Tell me their names.''\n|-|You give me too much credit.=\n*'''Kassandra:''' ''You are giving me honors I don't deserve. I am just happy I could help Polykleitos.''\n*'''Priestess Hexione:''' ''Great and humble is the Eagle Bearer! There are many lowly servants in our village who could benefit from a kind word from someone of your grace.''\n*'''Kassandra:''' ''Uh, who are they?''\n</tabber>\n*'''Priestess Hexione:''' ''There is the shepherdess, [[Heriphile]]. You can find her near the stables, south of here. [[Akatos]], the hunter, who has a small house on the west end of the village. And [[Menalkas]], a young farmer. His fields are to the east.''\n*'''Kassandra:'''\n(If players choose \"What is the shepherdess's story?\")\n*'''Kassandra:''' ''Who is the shepherdess, and what's her story?''\n*'''Priestess Hexione:''' ''Heriphile tends a small herd of goats. Recently she had a scare in the forest and lost two of her flock to wolves.''\n(If players choose \"What does the hunter need?\")\n*'''Kassandra:''' ''What can you tell me about the hunter?''\n*'''Priestess Hexione:''' ''Akatos is worried he cannot provide for the village since he recently injured himself. Perhaps you could ease his fears.''\n(If players choose \"What can you tell me about the farmer?\")\n*'''Kassandra:''' ''Priestess, who is the farmer?''\n*'''Priestess Hexione:''' ''Menalkas fears he is cursed. A visit from the Eagle Bearer could restore his faith and purpose.''\n(If players choose \"Leave \u2013 I'll see what I can do.\")\n*'''Kassandra:''' ''I will see what I can do for your people.''\n*'''Priestess Hexione:''' ''Not my people, divine Eagle Bearer. We priestesses are but humble servants of your exalted greatness. When you have spoken to them, find me.''\n*'''Priestess Hexione:''' ''My sisters and I want to prepare a proper celebration for your portentous visitation.''",
+    "Section_Outcome": "Kassandra retrieved Polykleitos' tools from the bandits and escorted him to Linou Farm where the villagers were awed at her presence. Kassandra agreed to help some of the villagers with her \"divine presence\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Image of Faith",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As Kassandra walked the roads of Elis, she came across a man kneeling by the road, beseeching the gods for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Polykleitos:''' ''Help! Please!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached Polykleitos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Polykleitos:''' ''Please, dear gods, can anyone help? Those artless swine have ruined me! Ruined!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|The gods sent me to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Divine winds have brought your cries to me. Tell me what you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Polykleitos:''' ''Amazing! Please, friend, filthy bandits attacked me and stole all of my belongings. My tools are worthless to them, but invaluable to me. I am ruined unless you help!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Tell me what I can do to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I find the gods leave us to fend for ourselves. Tell me what you need, and maybe I can help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Polykleitos:''' ''True enough. You look like you can handle yourself. Filthy swine stole my prized tools, though they are worthless to them. I am ruined, unless you can help me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "15",
+            "content": "(Accept \u2013 Point me toward those thieves.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Point me towards these thieves, and I will bring the heavens down upon them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Polykleitos:''' ''Praise [[Zeus]]! I am the artist, Polykleitos. Hunt down the [[bandit]]s and recover my prized tools. Wait... what is your name, ''misthios?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I am called Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Polykleitos:''' ''By the gods... could it be true?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Polykleitos:''' ''No, nothing! Please, recover my tools and I'll see you rewarded.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "22",
+            "content": "Kassandra tracked the bandits south to [[Quicksand Bay]] and retrieved Polykleitos' mallet and chisel from a pouch in their camp. She returned to Polykleitos with his tools in hand.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I found your tools.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "24",
+            "content": "Polykleitos was delighted.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Polykleitos:''' ''I can't believe it! Maybe you really are from [[Mount Olympos|Olympos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "27",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "28",
+            "content": "|-|The blood of the gods flows through me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Yes, I am of the blood of Olympos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Polykleitos:''' ''Amazing, maybe those villagers from [[Linou Farm]] had it right. That is where I'm going now, and I could use an escort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "31",
+            "content": "|-|Don't be ridiculous, I'm like you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''No, my friend. I am flesh and blood like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Polykleitos:''' ''Oh well, at least those villagers from [[Linou Farm]] pay well. I need to get there safely. If you escort me, I'm sure they will treat you lavishly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "34",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "35",
+            "content": "(If players choose \"What is this village?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''What can you tell me about this village?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Polykleitos:''' ''Linou is a small region of devout villagers and farmers. Hard-working people. Very serious in their beliefs. They hired me to make them a sculpture of, well, the Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Really. Why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Polykleiptos:''' ''They know your name and your deeds, and believe you to be their savior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "40",
+            "content": "(If players choose \"Why did you think I was a god?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Why did you think I carried the blood of Olympos in my veins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Polykleitos:''' ''Your reputation proceeds you. And the villagers of Linou can't stop talking about you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "43",
+            "content": "(Leave \u2013 Let's go to this village.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Lead me to Linou Farm. I'll make sure you get there safely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "45",
+            "content": "*'''Polykleitos:''' ''Excellent. I'm sure they will honor you with gifts and riches.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Then let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "47",
+            "content": "Kassandra and Polykleitos mounted their horses and travelled to Linou Farm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''How did you learn of this village?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "49",
+            "content": "*'''Polykleitos:''' ''My doctrine on beauty is renowned. Village priestesses came to my home in [[Argos]] and begged me to come and fashion a figure for them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''You came all the way from [[Argos]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "51",
+            "content": "*'''Polykleitos:''' ''They offered good drachmae. It's not easy being an artist, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''And what is the statue going to look like when you are done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "53",
+            "content": "*'''Polykleitos:''' ''Well, you, I suppose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Polykleitos:''' ''They worship the Eagle Bearer. They told me lots of stories. A pretty fair description, though I expected you to be taller. And to have a smaller nose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''This theory of yours, who determines what is beautiful?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "57",
+            "content": "*'''Polykleitos:''' ''Math.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''Math?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Polykleitos:''' ''Exactly. Beauty is an equation derived from the commensurability of all the parts of the body. From finger to finger. Fingers to the palm and wrist. Those to the forearm, and the forearm to the upper arm, and like that to include the whole of the body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Huh. Math.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "61",
+            "content": "Kassandra escorted Polykleitos safely to Linou Farm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "62",
+            "content": "*'''Polykleitos:''' ''Gratitude, friend. You saved my hide. And you've given me great reference. Let us talk to the Priestess [[Hexione]] and be properly welcomed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "63",
+            "content": "Kassandra and Polykleitos walked over to where the Priestess Hexione was standing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "64",
+            "content": "*'''Priestess Hexione:''' ''Good Polykleitos! You made it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Polykleitos:''' ''Priestess Hexione, my journey was a test from the gods... but look what miracle they have delivered!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "66",
+            "content": "*'''Priestess Hexione:''' ''Who is this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''I am Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "68",
+            "content": "*'''Polykleitos:''' ''The ''misthios'' you told me about! She appeared like a bolt from [[Zeus]] and rescued me from road bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "69",
+            "content": "*'''Priestess Hexione:''' ''The Eagle Bearer... This is an unexpected honor!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Glad to visit. Uh, how have you heard of me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "71",
+            "content": "*'''Priestess Hexione:''' ''Certainly you jest! Your deeds are carried along the winds and sung through the stars. We are but a poor village, but your being here gives us hope to cling to in this hard world.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "72",
+            "content": "*'''Polykleitos:''' ''And soon there will be a statue to capture a hint of your glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "73",
+            "content": "*'''Priestess Hexione:''' ''To have our patron walk among us and give us divine fortune is a wonder. We will be eternally blessed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "74",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "75",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "76",
+            "content": "|-|You are right to recognize my greatness.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''You do me a great honor. I am pleased to walk among your people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "78",
+            "content": "*'''Priestess Hexione:''' ''Oh thank you, Eagle Bearer! There are many humble servants here who could benefit from your attention.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Tell me their names.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "80",
+            "content": "|-|You give me too much credit.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''You are giving me honors I don't deserve. I am just happy I could help Polykleitos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "82",
+            "content": "*'''Priestess Hexione:''' ''Great and humble is the Eagle Bearer! There are many lowly servants in our village who could benefit from a kind word from someone of your grace.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''Uh, who are they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "84",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D58",
+            "global_id": "85",
+            "content": "*'''Priestess Hexione:''' ''There is the shepherdess, [[Heriphile]]. You can find her near the stables, south of here. [[Akatos]], the hunter, who has a small house on the west end of the village. And [[Menalkas]], a young farmer. His fields are to the east.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "86",
+            "content": "*'''Kassandra:'''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "87",
+            "content": "(If players choose \"What is the shepherdess's story?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D60",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Who is the shepherdess, and what's her story?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "89",
+            "content": "*'''Priestess Hexione:''' ''Heriphile tends a small herd of goats. Recently she had a scare in the forest and lost two of her flock to wolves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "90",
+            "content": "(If players choose \"What does the hunter need?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D62",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''What can you tell me about the hunter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "92",
+            "content": "*'''Priestess Hexione:''' ''Akatos is worried he cannot provide for the village since he recently injured himself. Perhaps you could ease his fears.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "93",
+            "content": "(If players choose \"What can you tell me about the farmer?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D64",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Priestess, who is the farmer?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "95",
+            "content": "*'''Priestess Hexione:''' ''Menalkas fears he is cursed. A visit from the Eagle Bearer could restore his faith and purpose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "96",
+            "content": "(If players choose \"Leave \u2013 I'll see what I can do.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D66",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''I will see what I can do for your people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "98",
+            "content": "*'''Priestess Hexione:''' ''Not my people, divine Eagle Bearer. We priestesses are but humble servants of your exalted greatness. When you have spoken to them, find me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "99",
+            "content": "*'''Priestess Hexione:''' ''My sisters and I want to prepare a proper celebration for your portentous visitation.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

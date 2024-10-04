@@ -1,0 +1,265 @@
+{
+    "Quest_Name": "Sacred Vows",
+    "Quest_ID": "224368",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Birds of a Feather (Odyssey)|Birds of a Feather",
+        "next": "Rumored Bracelet Location",
+        "image": "ACOD_Xenia_Treasure_Hunt.png",
+        "description": "'The rapacious Piracy|pirate queen Xenia asked Kassandra to find a Makedonian bracelet left by a foreign dignitary for the gods at one of the several sanctuaries.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Xenia}}",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Sacred Vows''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Returning to the [[Piracy|pirate]] queen [[Xenia]], Kassandra was tasked to find another treasure.",
+    "Section_Dialogue": "Kassandra approached Xenia again.\n*'''Xenia:''' ''You flew like the west wind in retrieving my [[Golden Feather of Ajax|golden]] [[eagle]] [[feather]]. Now, fetch me another rarity.''\n<tabber>\n|-|Sure, I'm up for the job.=\n*'''Kassandra:''' ''Sure, I'm up for whatever challenge you have in mind.''\n|-|I'm not interested now.=\n*'''Kassandra:''' ''Sorry, Xenia. Another time, perhaps.''\nXenia, happy, punched a solid fist in the air as Kassandra returned.\n*'''Xenia:''' ''You're back. Good. Will you find the [[Makedonia]]n bracelet for my pleasure?''\n(Back to dialogue choice one)\n</tabber>\n*'''Xenia:''' ''A wealthy noble from [[Makedonia]] is visiting various sanctuaries throughout the [[Aegean Sea|Aegean]], looking for the most sacred to make a great offering.''\n*'''Kassandra:''' ''Oh? What would he offer the gods, and why?''\n*'''Xenia:''' ''The why is unimportant. Perhaps he asks the gods to make his [[drachma]]e multiply, or to harden his cock.''\nKassandra laughed.\n*'''Xenia:''' ''But the offering is said to be crafted golden bracelet, as beautiful as [[Aphrodite]], with workmanship to rival that of [[Hephaistos]]. It would look better on my wrist than on an altar.''\n(If players choose \"Where are the sacred sites?\")\n*'''Kassandra:''' ''So, how far do I have to travel to find these sacred sites?''\n*'''Xenia:''' ''I had one of my loyal crew, [[Anaximander]], draw several maps to show you the locations. He's clever with a stylus.''\n(If players choose \"What are the risks?\")\n*'''Kassandra:''' ''Any [[guard]]s at these holy sites?''\n*'''Xenia:''' ''Probably not, though I suppose you risk offending the gods and earning their enmity for all time. If you take stock in that sort of thing.''\n*'''Kassandra:''' ''Good enough for now. I'll keep an eye out for the bracelet you want.''\nSometime later, Kassandra returned with the bracelet.\n*'''Xenia:''' ''Ah, my lovely [[Mercenary|misthios]]. What news?''\n<tabber>\n|-|I expect to be paid for my time.=\nKassandra gives it to her.\n*'''Kassandra:''' ''The time I sink into finding these trinkets for you had better be amply rewarded.''\n*'''Xenia:''' ''Does my little [[hoplite]] feel undervalued?''\n*'''Kassandra:''' ''I don't see you risking your life over wild waters.''\n*'''Xenia:''' ''Ha! In my youth I sailed every sea and explored every island as if driven by [[Poseidon]]. But now I carry a burden like [[Atlas]]. Don't worry, Kassandra. I have a fat purse for your efforts.''\n|-|I found it for you.=\n*'''Kassandra:''' ''An amazing piece. You will look magnificent with it, like Aphrodite herself.''\n*'''Xenia:''' ''I am no soft and simple plaything.''\n*'''Kassandra:''' ''No, of course not. It will look mighty -''\nXenia groans in disgust.\n*'''Xenia:''' ''Stop trying to insert your tongue in my ass.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped Xenia to recovered the highly treasured Makedonian bracelet",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Xenia again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Xenia:''' ''You flew like the west wind in retrieving my [[Golden Feather of Ajax|golden]] [[eagle]] [[feather]]. Now, fetch me another rarity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-|Sure, I'm up for the job.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Sure, I'm up for whatever challenge you have in mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "6",
+            "content": "|-|I'm not interested now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Sorry, Xenia. Another time, perhaps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "Xenia, happy, punched a solid fist in the air as Kassandra returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Xenia:''' ''You're back. Good. Will you find the [[Makedonia]]n bracelet for my pleasure?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Back to dialogue choice one)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Xenia:''' ''A wealthy noble from [[Makedonia]] is visiting various sanctuaries throughout the [[Aegean Sea|Aegean]], looking for the most sacred to make a great offering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Oh? What would he offer the gods, and why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Xenia:''' ''The why is unimportant. Perhaps he asks the gods to make his [[drachma]]e multiply, or to harden his cock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "15",
+            "content": "Kassandra laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Xenia:''' ''But the offering is said to be crafted golden bracelet, as beautiful as [[Aphrodite]], with workmanship to rival that of [[Hephaistos]]. It would look better on my wrist than on an altar.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "17",
+            "content": "(If players choose \"Where are the sacred sites?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''So, how far do I have to travel to find these sacred sites?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Xenia:''' ''I had one of my loyal crew, [[Anaximander]], draw several maps to show you the locations. He's clever with a stylus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "20",
+            "content": "(If players choose \"What are the risks?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Any [[guard]]s at these holy sites?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Xenia:''' ''Probably not, though I suppose you risk offending the gods and earning their enmity for all time. If you take stock in that sort of thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Good enough for now. I'll keep an eye out for the bracelet you want.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "24",
+            "content": "Sometime later, Kassandra returned with the bracelet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Xenia:''' ''Ah, my lovely [[Mercenary|misthios]]. What news?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "26",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "27",
+            "content": "|-|I expect to be paid for my time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N5",
+            "global_id": "28",
+            "content": "Kassandra gives it to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''The time I sink into finding these trinkets for you had better be amply rewarded.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Xenia:''' ''Does my little [[hoplite]] feel undervalued?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I don't see you risking your life over wild waters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Xenia:''' ''Ha! In my youth I sailed every sea and explored every island as if driven by [[Poseidon]]. But now I carry a burden like [[Atlas]]. Don't worry, Kassandra. I have a fat purse for your efforts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "33",
+            "content": "|-|I found it for you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''An amazing piece. You will look magnificent with it, like Aphrodite herself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Xenia:''' ''I am no soft and simple plaything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''No, of course not. It will look mighty -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "37",
+            "content": "Xenia groans in disgust.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Xenia:''' ''Stop trying to insert your tongue in my ass.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

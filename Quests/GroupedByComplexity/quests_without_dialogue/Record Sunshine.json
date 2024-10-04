@@ -1,0 +1,32 @@
+{
+    "Quest_Name": "Record Sunshine",
+    "Quest_ID": "222853",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Hound Docked",
+        "next": "Happy Hour",
+        "source": "Kassandra",
+        "location": "Leader House, Megaris|Leader House, Megara, Megaris",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Record Sunshine''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''An unusual request came to eliminate some records. I didn't want any trouble so I took a small journey west to [[Mount Geraneia]]. Take a dive in the center of the bay and find them on the shelf in a sunken ruin.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Ainigmata Ostraka",
+    "Chapter_Type": null,
+    "Quest_SequenceID": null
+}

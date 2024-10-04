@@ -1,0 +1,519 @@
+{
+    "Quest_Name": "Love's Long Shadow",
+    "Quest_ID": "225068",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Having saved a panic-stricken Bryce from an angry mob, Kassandra unknowingly became part of a tragic tale involving two star-crossed lovers...'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Romancing the Stone Garden",
+        "next": "A Slithery Plea",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Love's Long Shadow''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Bryce]] after defeating the mob who threatened to kill her.",
+    "Section_Dialogue": "Outside the [[Dread Ruins]], Kassandra spoke with Bryce, who reminisced on her use for them.\n*'''Bryce:''' ''This place was ours\u2014Ligeia's and mine. A forbidden place for forbidden love.''\nKassandra commented wryly on the building's dilapidation.\n*'''Kassandra:''' ''Not much of a love nest. I've seen more romantic funerals.''\n*'''Bryce:''' ''I found scraps of her clothes leading to the Writhing Dread's lair. Please, we need to hurry.''\n(Accept \u2013 \"Let's go.\")\n*'''Kassandra:''' ''Time to find Ligeia. You lead the way.''\nKassandra followed Bryce into the valley, where the trees were twisted unnaturally and orange, luminescent ore shone through the thick fog.\n*'''Kassandra:''' ''What happened to these trees? I shouldn't be here.''\nThey made their way further into the valley.\n*'''Kassandra:''' ''...What is this place? It's empty of life.''\n*'''Bryce:''' ''We enter the realm of the Writhing Dread. Listen... It's as if sound itself is afraid of what the fog veils.''\n*'''Kassandra:''' ''It's getting hard to breathe. Even the air is... ''dead.\nKassandra noticed several statues of soldiers, life-sized with fearful expressions.\n*'''Kassandra:''' ''These statues are unnervingly lifelike... and their faces are contorted in fear.''\n*'''Bryce:''' ''It destroys all living things, transforming them to stone and leaving them frozen in fear for all eternity.''\nThe trench opened into a small bog with a ruined stonework.\n*'''Bryce:''' ''If Ligeia\u2014if she's... if she's stone, how will we bury her? She'll never meet [[Charon]].''\nIn the distance, a woman's howl rang out through the fog.\n*'''Bryce:''' ''Ligeia? LIGEIA!''\nBryce sprinted in the direction of the howl.\n*'''Kassandra:''' ''Bryce! Wait\u2014''\n*'''Kassandra:''' Mal\u00e1ka''... better go after her.''\nBefore following her, Kassandra noticed a rag on a nearby stone. It matched the garb of the [[Daughters of Artemis]].\n*'''Kassandra:''' ''A scrap of clothing\u2014my guess Ligeia's. Whatever tore it from her was savage...''\nBefore long, they had both reached the steps of the [[Petrified Temple]]. It loomed menacingly with sleek architecture not of the Greek world's making. At the sealed entrance, they heard the howl once more.\n*'''Bryce:''' ''Ligeia! That's her! Kassandra, she's alive.''\n<tabber>\n|-|(Accept \u2013 \"We need to get inside.\")=\n*'''Kassandra:''' ''We need to get inside, but I see no openings... and the walls are too smooth to climb.''\n*'''Bryce:''' ''She shouldn't be in there. She should be in my arms. Her breath, her smell...''\n|-|Wait.=\n*'''Kassandra:''' ''That scream came from someone in mortal danger. By now - if that was Ligeia, she's beyond my help. I wouldn't hold out much hope for her.'' Chaire.\nKassandra walked away.\n*'''Bryce:''' ''Mal\u00e1kas misthios! You know nothing of love or hope. I will be with Ligeia again, in life or in death!''\n(If players return to her.)\n*'''Bryce:''' ''Ligeia's still trapped and - I-I need your help.''\n(Back to the first choice)\n</tabber>\n\nBryce reminisced.\n*'''Bryce:''' ''Every night we'd meet at the Dread Ruins. I was late, just once. I wanted to find her a rose\u2014something as perfect as she is.''\nShe looked down, blaming herself.\n*'''Bryce:''' ''This is my fault. If I'd gotten there in time\u2014''\n\n<tabber>\n|-|It's your fault.=\n*'''Kassandra:''' ''This ''is'' your fault\u2014what were you thinking meeting in a cursed valley full of fog?''\n*'''Bryce:''' ''We didn't believe the stories\u2014''\n*'''Kassandra:''' ''You invited death. And when it answered, Ligeia faced it alone.''\n*'''Bryce:''' ''But I will make it right.''\n|-|It's not your fault.=\n*'''Kassandra:''' ''Then you'd ''both'' be trapped inside.''\n*'''Bryce:''' ''Together.''\n*'''Kassandra:''' ''You were searching for a rose, a gift. Never regret an act of kindness, Bryce.''\n*'''Bryce:''' ''Thank you.''\nKassandra nodded and turned her head back to the door.\n</tabber>\n*'''Kassandra:''' ''What do you know about this place?''\n*'''Bryce:''' ''Ligeia's a Daughter of Artemis. Her people trained here long ago. A legend tells of an [[Gorgon Disk|ancient artifact]] they recovered in a pit full of snakes. She believed they still had it, hidden in their [[Huntress Village|village]] on [[Chios]].''\n*'''Kassandra:''' ''I'll find it.''\n*'''Bryce:''' ''There's also a [[Zetes the Retired|mercenary]], a man who claims he killed the Creature\u2014''\n*'''Kassandra:''' ''Impossible.''\n*'''Bryce:''' ''But many believe him\u2014he might know something.''\n(If players asked \"Where exactly is the key?\")\n*'''Kassandra:''' ''You said Ligeia knew how to get into the lair\u2014where exactly is the key?''\n*'''Bryce:''' ''The Daughters of Artemis hide their most prized possessions in a cave in their village. It's protected by wild beasts and fierce warriors. The key is shaped like a disk. If they have it, it'll be there.''\n(If players asked \"Where can I find this mercenary?\")\n*'''Kassandra:''' ''This mercenary, the \"Slayer of the Writhing Dread,\" where can I find him?''\n*'''Bryce:''' ''He waits in a temple atop the hill in [[Ancient Pearl]]. Champions from all over seek to challenge him to build their reputations, but there's no way he killed the Creature. If he did, how was Ligeia taken?''\n*'''Kassandra:''' ''Did you see the Creature yourself?''\n*'''Bryce:''' ''No, but only the Writhing Dread would be strong enough to take Ligeia! She's too fierce. ...And too stubborn.''\n(Leave \u2013 \"I'll be back.\")\n*'''Kassandra:''' ''I'll find a way inside, and then I'll kill this Creature.''\n*'''Bryce:''' ''And I'll find Ligeia the rose I should have given her that night.''\nBryce turned towards the steps and recited the work of [[Sappho]].\n*'''Bryce:''' \"Someone, I tell you, in another time will remember us.\"\n*'''Kassandra:''' ''The poet Sappho.''\n*'''Bryce:''' ''Our favorite. Please, Kassandra. Hurry.''\nKassandra took her leave and pondered where she should go.\n*'''Kassandra:''' ''The region of the Ancient Pearl.''",
+    "Section_Outcome": "Kassandra escorted Bryce to the Petrified Temple, then departed to investigate a means to enter and slay the Writhing Dread.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:L'ombre infinie de l'amour]]",
+    "Chapter_SequenceID": "25.",
+    "Chapter_Name": "Shadows of Serpents",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Outside the [[Dread Ruins]], Kassandra spoke with Bryce, who reminisced on her use for them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Bryce:''' ''This place was ours\u2014Ligeia's and mine. A forbidden place for forbidden love.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra commented wryly on the building's dilapidation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Not much of a love nest. I've seen more romantic funerals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Bryce:''' ''I found scraps of her clothes leading to the Writhing Dread's lair. Please, we need to hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "6",
+            "content": "(Accept \u2013 \"Let's go.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Time to find Ligeia. You lead the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "Kassandra followed Bryce into the valley, where the trees were twisted unnaturally and orange, luminescent ore shone through the thick fog.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What happened to these trees? I shouldn't be here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "They made their way further into the valley.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''...What is this place? It's empty of life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Bryce:''' ''We enter the realm of the Writhing Dread. Listen... It's as if sound itself is afraid of what the fog veils.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''It's getting hard to breathe. Even the air is... ''dead.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "14",
+            "content": "Kassandra noticed several statues of soldiers, life-sized with fearful expressions.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''These statues are unnervingly lifelike... and their faces are contorted in fear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Bryce:''' ''It destroys all living things, transforming them to stone and leaving them frozen in fear for all eternity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "17",
+            "content": "The trench opened into a small bog with a ruined stonework.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Bryce:''' ''If Ligeia\u2014if she's... if she's stone, how will we bury her? She'll never meet [[Charon]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "19",
+            "content": "In the distance, a woman's howl rang out through the fog.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Bryce:''' ''Ligeia? LIGEIA!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "21",
+            "content": "Bryce sprinted in the direction of the howl.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Bryce! Wait\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' Mal\u00e1ka''... better go after her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "24",
+            "content": "Before following her, Kassandra noticed a rag on a nearby stone. It matched the garb of the [[Daughters of Artemis]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''A scrap of clothing\u2014my guess Ligeia's. Whatever tore it from her was savage...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "26",
+            "content": "Before long, they had both reached the steps of the [[Petrified Temple]]. It loomed menacingly with sleek architecture not of the Greek world's making. At the sealed entrance, they heard the howl once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Bryce:''' ''Ligeia! That's her! Kassandra, she's alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "28",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "29",
+            "content": "|-|(Accept \u2013 \"We need to get inside.\")=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''We need to get inside, but I see no openings... and the walls are too smooth to climb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Bryce:''' ''She shouldn't be in there. She should be in my arms. Her breath, her smell...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "32",
+            "content": "|-|Wait.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''That scream came from someone in mortal danger. By now - if that was Ligeia, she's beyond my help. I wouldn't hold out much hope for her.'' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "34",
+            "content": "Kassandra walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Bryce:''' ''Mal\u00e1kas misthios! You know nothing of love or hope. I will be with Ligeia again, in life or in death!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "36",
+            "content": "(If players return to her.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Bryce:''' ''Ligeia's still trapped and - I-I need your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "38",
+            "content": "(Back to the first choice)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "41",
+            "content": "Bryce reminisced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "42",
+            "content": "*'''Bryce:''' ''Every night we'd meet at the Dread Ruins. I was late, just once. I wanted to find her a rose\u2014something as perfect as she is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "43",
+            "content": "She looked down, blaming herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "44",
+            "content": "*'''Bryce:''' ''This is my fault. If I'd gotten there in time\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "46",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "47",
+            "content": "|-|It's your fault.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''This ''is'' your fault\u2014what were you thinking meeting in a cursed valley full of fog?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "49",
+            "content": "*'''Bryce:''' ''We didn't believe the stories\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''You invited death. And when it answered, Ligeia faced it alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "51",
+            "content": "*'''Bryce:''' ''But I will make it right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "52",
+            "content": "|-|It's not your fault.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Then you'd ''both'' be trapped inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "54",
+            "content": "*'''Bryce:''' ''Together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''You were searching for a rose, a gift. Never regret an act of kindness, Bryce.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "56",
+            "content": "*'''Bryce:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "57",
+            "content": "Kassandra nodded and turned her head back to the door.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "58",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D32",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''What do you know about this place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "60",
+            "content": "*'''Bryce:''' ''Ligeia's a Daughter of Artemis. Her people trained here long ago. A legend tells of an [[Gorgon Disk|ancient artifact]] they recovered in a pit full of snakes. She believed they still had it, hidden in their [[Huntress Village|village]] on [[Chios]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''I'll find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "62",
+            "content": "*'''Bryce:''' ''There's also a [[Zetes the Retired|mercenary]], a man who claims he killed the Creature\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Impossible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "64",
+            "content": "*'''Bryce:''' ''But many believe him\u2014he might know something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "65",
+            "content": "(If players asked \"Where exactly is the key?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D38",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''You said Ligeia knew how to get into the lair\u2014where exactly is the key?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "67",
+            "content": "*'''Bryce:''' ''The Daughters of Artemis hide their most prized possessions in a cave in their village. It's protected by wild beasts and fierce warriors. The key is shaped like a disk. If they have it, it'll be there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "68",
+            "content": "(If players asked \"Where can I find this mercenary?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D40",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''This mercenary, the \"Slayer of the Writhing Dread,\" where can I find him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "70",
+            "content": "*'''Bryce:''' ''He waits in a temple atop the hill in [[Ancient Pearl]]. Champions from all over seek to challenge him to build their reputations, but there's no way he killed the Creature. If he did, how was Ligeia taken?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''Did you see the Creature yourself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "72",
+            "content": "*'''Bryce:''' ''No, but only the Writhing Dread would be strong enough to take Ligeia! She's too fierce. ...And too stubborn.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "73",
+            "content": "(Leave \u2013 \"I'll be back.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I'll find a way inside, and then I'll kill this Creature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Bryce:''' ''And I'll find Ligeia the rose I should have given her that night.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "76",
+            "content": "Bryce turned towards the steps and recited the work of [[Sappho]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "77",
+            "content": "*'''Bryce:''' \"Someone, I tell you, in another time will remember us.\"",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''The poet Sappho.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "79",
+            "content": "*'''Bryce:''' ''Our favorite. Please, Kassandra. Hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "80",
+            "content": "Kassandra took her leave and pondered where she should go.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''The region of the Ancient Pearl.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

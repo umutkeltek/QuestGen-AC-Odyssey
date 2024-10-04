@@ -1,0 +1,41 @@
+{
+    "QuestName": "Piecing the Puzzle",
+    "QuestID": "225291",
+    "Revision": {
+        "id": "1045764",
+        "parentid": "901282",
+        "timestamp": "2023-06-06T03:11:41Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1045764",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "cy9anm0e7r8ts8g731a8sglilmdcvpq"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "Assassin's Creed: Odyssey \u2014 [[Legacy of the First Blade]]"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Piecing the Puzzle",
+        "image": null,
+        "description": "'Having found inconclusive leads to the Pactyas (Ancients)|Huntsman's location, Kassandra returned to Natakas to piece things together.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Main, Support",
+        "previous": "Mysterious Malady<br>Whimpers Through the Fog<br>Revealing the Recruiter",
+        "next": "Protector of Persia",
+        "source": "Kassandra",
+        "location": "Makedonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Piecing the Puzzle''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Natakas]] with information about the [[Pactyas (Ancients)|Huntsman]] she had collected.",
+    "Section_Dialogue": "Kassandra returned to Natakas to discuss her findings.\n*'''Natakas:''' ''You're back.''\n([[Mysterious Malady]] complete)\n*'''Kassandra:''' ''You did well back at [[Potidaia]]. But we still need more information about the Huntsman.''\n*'''Natakas:''' ''You're right. We know he commands an army of animals, but [[Makedonia]]'s a huge\u2014''\n*'''Kassandra:''' ''I'll follow up on the other leads.''\n([[Revealing the Recruiter]] complete)\n*'''Kassandra:''' ''I've killed the [[Bubares|Recruiter]], your father was there too. He didn't have much to say about the Huntsman apart from the fact that he's near a lake.''\n*'''Natakas:''' ''And my father? Where is he\u2014''\n*'''Kassandra:''' ''He left to continue his search. Don't worry Natakas.''\n*'''Natakas:''' ''Easy for you to say.''\n([[Whimpers Through the Fog]] complete)\n*'''Kassandra:''' ''That contact of yours in the [[Therme Wetlands|wetland]] led me to a madman. I believe it might've been the Huntsman himself.''\n*'''Natakas:''' ''If you're back here looking the way you are, he must've gotten away.''\n*'''Kassandra:''' ''He won't the next time.''\n\n(All three quests complete)<br>\nHaving collected all of the clues she could, Kassandra decided to return to [[Natakas]] to discuss her findings.\n*'''Kassandra:''' ''I should go back to Natakas with these clues. He might know what to make of them.''\nKassandra reached the hideout and spoke with Natakas.\n*'''Natakas:''' ''You're back. What did you find?''\n*'''Kassandra:''' ''Clues. Maybe you'll know what to do with them. One, the Huntsman is supposed to be waiting in the [[Forest of the Huntsman|forest]]. Two, he's surrounded by animals. And three, he's by a lake.''\n*'''Natakas:''' ''I think I know where that might be. There's a crack in a cliff face that leads to a [[Huntsman's Glade|glade]]. If it's where I think it is...''\n*'''Kassandra:''' ''Let's go!''\n*'''Natakas:''' ''I can't, not yet. This is the Huntsman. We've suffered at his blades for years. Father should be there to see him die. I'll find him and join you at the glade.''\n(Accept \u2013 \"Time to kill the Huntsman.\")\n*'''Kassandra:''' ''If the Huntsman's in this glade, I won't be able to wait for you and Darius.''\n*'''Natakas:''' ''I'll be there.''",
+    "Section_Outcome": "Kassandra discovered the location of the Huntsman with Natakas' help and set out to confront him.",
+    "Section_Trivia": "*After completing [[Revealing the Recruiter]] and returning to talk to Natakas, they'll wonder where he has gone.  Ironically, Darius may be seen standing in the background, at the campfire eating a bowl of stew.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

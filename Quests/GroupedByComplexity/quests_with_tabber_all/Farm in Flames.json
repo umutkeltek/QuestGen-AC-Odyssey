@@ -1,0 +1,615 @@
+{
+    "Quest_Name": "Farm in Flames",
+    "Quest_ID": "223969",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'It was only a matter of time until the Cerberus brothers went after Markos to split him in two. In a preemptive strike, Markos asks you to distract them by burning their farm.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Markos}}",
+        "previous": "Old Friends, Old Problems",
+        "next": "Markos's Fate",
+        "source": "Kassandra",
+        "location": "Kos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Farm in Flames''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following [[Markos]]' direction, [[Kassandra]] set out to destroy the silos belong to the Cerberus brothers.",
+    "Section_Dialogue": "Kassandra returned to Markos at the vineyard.\n*'''Markos:''' ''Ah, she's returned! Let me guess... the Cerberus wants to order another amphora's worth.''\n<tabber>\n|-| If players had refused to drink the wine=\n*'''Kassandra:''' ''He wouldnt even drink it. He thought it was poisoned.''\n*'''Markos:''' ''Nonsense! Who would think such a thing of Markos. Go to him, try again!''\n*'''Kassandra:''' ''Not a chance. His bodyguards went after me. He was not happy.''\n*'''Markos:''' ''Oh that's not a good thing.''\n{{#tag:tabber|\nIf players fought and killed Cerberus. =\n*'''Kassandra:''' ''Either way he's dead now.''\n*'''Markos:''' ''Dead? That's just great. I guess there's only two left to deal with now.''\n*'''Kassandra:''' ''Two?''\n*'''Markos:''' ''The Cerebrus is three men. Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets!''\n*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''\n*'''Kassandra:''' ''Strike? You and what army?''\n*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''\n{{!}}-{{!}}\nIf players did not kill Cerberus. =\n*'''Kassandra:''' ''No, it's not good. The Cerberus will come after you.''\n*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''\n*'''Kassandra:''' ''Strike? You and what army?''\n*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''\n*'''Kassandra:''' ''You have it all figured out, don't you?''\n*'''Markos:''' ''There's only three of them, plus their little group of men. It'll be easy, my friend!''\n*'''Kassandra:''' ''Three?!''\n*'''Markos:''' ''Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets! Each with as much bite as the last.''\n*'''Kassandra:''' ''Great. So there are two others that'll want revenge.''\n*'''Markos:''' ''Wait a minute, wait a minute\u2014that means two of them haven't tried my wine!''\n}}\n|-|If players drank the wine=\n*'''Kassandra:''' ''The wine made us sick, Markos.''\n*'''Markos:''' ''Impossible! It was my best batch. I double checked.''\n{{#tag:tabber|\nIf players fought and killed Cerberus. =\n*'''Kassandra:''' ''Either way he's dead now.''\n*'''Markos:''' ''Dead? That's just great. I guess there's only two left to deal with now.''\n*'''Kassandra:''' ''Two?''\n*'''Markos:''' ''The Cerebrus is three men. Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets!''\n*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''\n*'''Kassandra:''' ''Strike? You and what army?''\n*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''\n{{!}}-{{!}}\nIf players did not kill Cerberus. =\n*'''Kassandra:''' ''If you wanted him dead, you should've told me.''\n*'''Markos:''' ''I did tell you\u2014I'm a new Markos! I don't want people dead, I want what's right. But... that isn't good news.''\n*'''Kassandra:''' ''No, it's not good. The Cerberus will come after you.''\n*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''\n*'''Kassandra:''' ''Strike? You and what army?''\n*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''\n*'''Kassandra:''' ''You have it all figured out, don't you?''\n*'''Markos:''' ''There's only three of them, plus their little group of men. It'll be easy, my friend!''\n*'''Kassandra:''' ''Three?!''\n*'''Markos:''' ''Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets! Each with as much bite as the last.''\n*'''Kassandra:''' ''Great. So there are two others that'll want revenge.''\n*'''Markos:''' ''Wait a minute, wait a minute\u2014that means two of them haven't tried my wine!''\n{{!}}-{{!}}\n}}\n</tabber>\n*'''Kassandra:''' ''So what are you going to do?''\n*'''Markos:''' ''They need to be spooked. As Mama says, a threat is like a bear\u2014very scary! We'll burn the Cerberus' farm. Specifically, the silos.''\n*'''Kassandra:''' ''That's not a good idea.''\n*'''Markos:''' ''When have you had reason not to trust me? Don't answer that, my friend. Just trust me!''\n(Accept \u2013 I'll burn their farm.)\n*'''Kassandra:''' ''It better work... Though I'm skeptical.''\n*'''Markos:''' ''It's even worth sacrificing them as potential customers.''\n(If players choose \"What does the farm grow?\")\n*'''Kassandra:''' ''Do you want the crops burned, too?''\n*'''Markos:''' ''They grow herbs\u2014harmless plants for medicine. It's just the silos that should go. Blow them up!''\n(If players choose \"Who are the Cerberus brothers?\")\n*'''Kassandra:''' ''You couldn't have mentioned there were three of them before?''\n*'''Markos:''' ''I thought it was implied. Having triplets runs in their family.''\n*'''Kassandra:''' ''That's a lot of cerberuses.''\n*'''Markos:''' ''Let's hope they don't procreate and have Cerberus puppies.''\n(Leave \u2013 I'll go now.)\n*'''Kassandra:''' ''I'll pay their farm a visit.''\n*'''Markos:''' ''Give them a good scare. I'm pretty sure it's the farm in Astypalia City... Their goons are always hanging around.''\n<tabber>\n|-| If the silos weren't already burned down=\n*'''Kassandra:''' ''Got it.''\nKassandra approached the farm near [[Astypalia City]]. Spotting a silo, she set it on fire\n*'''Kassandra:''' ''That's one silo down.''\nAs Kassandra approached another silo, she overheard a farmer.\n*'''Farmer:''' ''What the fuck? My silos! Stop!''\nKassandra burned down another silo.\n*'''Kassandra:''' ''One more silo to go.''\nKassandra approached another silo and similarly burned it down.\n*'''Kassandra:''' ''Done. I'll tell Markos it made quite the impression.''\n\n|-| If the silos were already burned down=\n*'''Kassandra:''' ''The farm in Astypalia City? I burned those silos, and I didn't see any Cerberus there.''\n*'''Markos:''' '' What? Their soldiers are always hanging around...''\n*'''Kassandra:''' ''I'm sure. There were only scared farmers.''\n*'''Markos:''' ''No dogs and no Cerberus... Maybe it's not their farm after all. We sure dodged that arrow.''\n*'''Kassandra:''' ''It won't stop the Cereberus from coming for you.''\n(Transitions into [[Markos's Fate]])\n</tabber>",
+    "Section_Outcome": "Kassandra helped Markos to burn down the Cerberus' farm silos.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Markos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Markos at the vineyard.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Markos:''' ''Ah, she's returned! Let me guess... the Cerberus wants to order another amphora's worth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-| If players had refused to drink the wine=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''He wouldnt even drink it. He thought it was poisoned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Markos:''' ''Nonsense! Who would think such a thing of Markos. Go to him, try again!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Not a chance. His bodyguards went after me. He was not happy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Markos:''' ''Oh that's not a good thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "9",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "If players fought and killed Cerberus. =",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Either way he's dead now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Markos:''' ''Dead? That's just great. I guess there's only two left to deal with now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Two?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Markos:''' ''The Cerebrus is three men. Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Strike? You and what army?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "18",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "19",
+            "content": "If players did not kill Cerberus. =",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''No, it's not good. The Cerberus will come after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Strike? You and what army?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''You have it all figured out, don't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Markos:''' ''There's only three of them, plus their little group of men. It'll be easy, my friend!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Three?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "27",
+            "content": "*'''Markos:''' ''Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets! Each with as much bite as the last.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Great. So there are two others that'll want revenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Markos:''' ''Wait a minute, wait a minute\u2014that means two of them haven't tried my wine!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "30",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC4",
+            "global_id": "31",
+            "content": "|-|If players drank the wine=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''The wine made us sick, Markos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "33",
+            "content": "*'''Markos:''' ''Impossible! It was my best batch. I double checked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "34",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "35",
+            "content": "If players fought and killed Cerberus. =",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Either way he's dead now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Markos:''' ''Dead? That's just great. I guess there's only two left to deal with now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Two?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Markos:''' ''The Cerebrus is three men. Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Strike? You and what army?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "43",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "44",
+            "content": "If players did not kill Cerberus. =",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''If you wanted him dead, you should've told me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "46",
+            "content": "*'''Markos:''' ''I did tell you\u2014I'm a new Markos! I don't want people dead, I want what's right. But... that isn't good news.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''No, it's not good. The Cerberus will come after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "48",
+            "content": "*'''Markos:''' ''What to do, what to do...? What am I saying? Kassandra, this is when we strike.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Strike? You and what army?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "50",
+            "content": "*'''Markos:''' ''I have a demi-god for a best friend! That's an army as strong as twenty soldiers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''You have it all figured out, don't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "52",
+            "content": "*'''Markos:''' ''There's only three of them, plus their little group of men. It'll be easy, my friend!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Three?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "54",
+            "content": "*'''Markos:''' ''Why do you think they're called the Cerberus? Because they're three brothers\u2014triplets! Each with as much bite as the last.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Great. So there are two others that'll want revenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "56",
+            "content": "*'''Markos:''' ''Wait a minute, wait a minute\u2014that means two of them haven't tried my wine!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "57",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "58",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "59",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D44",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''So what are you going to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "61",
+            "content": "*'''Markos:''' ''They need to be spooked. As Mama says, a threat is like a bear\u2014very scary! We'll burn the Cerberus' farm. Specifically, the silos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''That's not a good idea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "63",
+            "content": "*'''Markos:''' ''When have you had reason not to trust me? Don't answer that, my friend. Just trust me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "64",
+            "content": "(Accept \u2013 I'll burn their farm.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''It better work... Though I'm skeptical.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "66",
+            "content": "*'''Markos:''' ''It's even worth sacrificing them as potential customers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "67",
+            "content": "(If players choose \"What does the farm grow?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D50",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Do you want the crops burned, too?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "69",
+            "content": "*'''Markos:''' ''They grow herbs\u2014harmless plants for medicine. It's just the silos that should go. Blow them up!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "70",
+            "content": "(If players choose \"Who are the Cerberus brothers?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D52",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''You couldn't have mentioned there were three of them before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "72",
+            "content": "*'''Markos:''' ''I thought it was implied. Having triplets runs in their family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''That's a lot of cerberuses.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "74",
+            "content": "*'''Markos:''' ''Let's hope they don't procreate and have Cerberus puppies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "75",
+            "content": "(Leave \u2013 I'll go now.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''I'll pay their farm a visit.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "77",
+            "content": "*'''Markos:''' ''Give them a good scare. I'm pretty sure it's the farm in Astypalia City... Their goons are always hanging around.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "78",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "79",
+            "content": "|-| If the silos weren't already burned down=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Got it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "81",
+            "content": "Kassandra approached the farm near [[Astypalia City]]. Spotting a silo, she set it on fire",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''That's one silo down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "83",
+            "content": "As Kassandra approached another silo, she overheard a farmer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "84",
+            "content": "*'''Farmer:''' ''What the fuck? My silos! Stop!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "85",
+            "content": "Kassandra burned down another silo.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''One more silo to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "87",
+            "content": "Kassandra approached another silo and similarly burned it down.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Done. I'll tell Markos it made quite the impression.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "89",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC8",
+            "global_id": "90",
+            "content": "|-| If the silos were already burned down=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''The farm in Astypalia City? I burned those silos, and I didn't see any Cerberus there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "92",
+            "content": "*'''Markos:''' '' What? Their soldiers are always hanging around...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''I'm sure. There were only scared farmers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "94",
+            "content": "*'''Markos:''' ''No dogs and no Cerberus... Maybe it's not their farm after all. We sure dodged that arrow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''It won't stop the Cereberus from coming for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "96",
+            "content": "(Transitions into [[Markos's Fate]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "97",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

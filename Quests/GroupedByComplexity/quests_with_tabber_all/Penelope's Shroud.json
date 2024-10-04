@@ -1,0 +1,433 @@
+{
+    "Quest_Name": "Penelope's Shroud",
+    "Quest_ID": "222385",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Penelopes_Shroud_-_Assassins_Creed_Odyssey.png",
+        "description": "'Enticed by the mysterious Elpenor, Kassandra accepted his request to retrieve the mythical Shroud of Penelope|shroud of Penelope. its recovery, said Elpenor, was crucial, and Kassandra was determined to find out why.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Fancy Guests",
+        "next": "The Big Break",
+        "source": "Kassandra",
+        "location": "Ithaka, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Penelope's Shroud''' was a virtual representation of one of the [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra accepted the mysterious [[Elpenor]]'s request to recover the [[Shroud of Penelope]].",
+    "Section_Dialogue": "Kassandra departed the shore and [[Elpenor]] to recover [[Penelope]]'s Shroud. The island of [[Ithaka]] rested across the waters.\n*'''Kassandra:''' ''Headed to Odysseus's island on a tiny boat. Let\u2019s try not to piss off [[Poseidon]], shall we?''\nWorking through the ruins of [[Odysseus]]' [[Odysseus' Palace|Palace]], Kassandra came across [[Odessa]], imprisoned in a [[wood]]en cage. Kassandra freed Odessa after killing the guards.\n*'''Odessa:''' ''Hey, get me out of here!''\n*'''Kassandra:''' ''Let's get out of here. Can you fight?''\n*'''Odessa:''' ''I'd be ''happy'' to.''\n(The above continues with the side quest [[A Small Odyssey]])\n\nKassandra found the shroud, intending to escape the Palace.\n*'''Kassandra:''' ''Penelope's shroud. In the flesh. I mean cloth.''\nHaving found the shroud, Kassandra left Ithaka and travelled to the [[Temple of Zeus (Kephallonia)|Temple of Zeus]] near [[Sami]]. There, she found Elpenor and his servant.\n*'''Elpenor:''' ''Kassandra. Good news, I hope.''\n[[File:ACOD_Penelope's_Shroud_-_Kassandra_Handing_Over_Shroud.png|thumb|250px|Kassandra with the shroud]]\nKassandra took out the shroud.\n*'''Kassandra:''' ''Safe and sound.''\n*'''Elpenor:''' ''Well done. And now the shroud is yours.''\n*'''Kassandra:''' ''You don't want it? After all that?''\n*'''Elpenor:''' ''I gained something more valuable today. For your troubles, ''[[Mercenary|misthios]]''.''\nElpenor's servant tossed a bag of coins to the table before Kassandra.\n*'''Kassandra:''' ''If I knew any better, I'd think you were testing me.''\n*'''Elpenor:''' ''Perhaps.''\nThe servant then handed Kassandra a scroll.\n*'''Elpenor:''' ''You did well, ''misthios''. Tell me, how do you feel about killing a general in [[Megaris]]? Do this for me, and earn ''double'' what you earned today. Are you up to the task? It would take you far away from [[Kephallonia]]. So far away you might never return.''\n<tabber>\n|-|Military ranks mean nothing to me.=\n*'''Kassandra:''' ''Generals bleed like anyone else.''\n*'''Elpinor:''' ''Good.''\n|-|I'm a misthios, not an assassin.=\n*'''Kassandra:''' ''I'm not an assassin.''\n*'''Elpenor:''' ''There's a first time for everything.''\n</tabber>\n*'''Elpenor:''' ''What do you say?''\n(If players choose \"Who is the general I have to kill?\")\n*'''Kassandra:''' ''Who is this general?''\n*'''Elpenor:''' ''They call him \"[[Nikolaos|The Wolf]].\"''\n*'''Kassandra:''' ''He do something to offend you?''\n*'''Elpenor:''' ''Yes... He's costing me drachmae. He's not good for business.''\n(If players choose \"What can you tell me about Megaris?\")\n*'''Kassandra:''' ''Anything I should know about Megaris?''\n*'''Elpenor:''' ''Only that it's the most valuable land in the [[Greece|Greek]] world, from a military perspective of course. Unfortunately for Megarians, it has two very powerful neighbors who just can't seem to play nice. In the tug of war between [[Korinth]] and [[Athens]], Megaris is the rope.''\n(If players choose \"Why choose me?\")\n*'''Kassandra:''' ''Why me?''\n*'''Elpenor:''' ''Because no one knows who you are. You're invisible.''\n(If players choose \"I'll take the contract.\")\n*'''Kassandra:''' ''I accept.''\n*'''Elpenor:''' ''Splendid. You'll need a boat. You have one, don't you?''\n<tabber>\n|-|I have a boat.=\n*'''Kassandra:''' ''Of course.''\n|-|I don't have a boat.=\n*'''Kassandra:''' ''If I had a boat, we wouldn't be having this conversation.''\n*'''Elpenor:''' ''A shame. It's too far of a swim I'm afraid, even for you.''\n*'''Kassandra:''' ''I'll find one.''\n</tabber>\n*'''Elpenor:''' ''Good. I hope it's sturdy.''\n*'''Kassandra:''' ''And why is that?''\n*'''Elpenor:''' ''The seas are much more dangerous, I'm afraid. [[Peloponnesian War|War]] is coming, and the Wolf is on the wrong side.''\n(If players choose \"What war?\")\n*'''Kassandra:''' ''War? With who?''\n*'''Elpenor:''' ''The entire Greek world is at each other's throats. What rock have you been hiding under, exactly?''\n*'''Kassandra:''' ''Kephallonia.''\n(If players choose \"Why should I trust you?\")\n*'''Kassandra:''' ''And how do I know you're on the right side?''\n*'''Elpenor:''' ''Because I'm the one paying you.''\n(If players choose\"I'm right for the job.\")\n*'''Kassandra:''' ''You won't be disappointed.''\n*'''Elpenor:''' ''When your job in Megaris is done, come find me at [[Pilgrim's Landing]] in [[Phokis]].''",
+    "Section_Outcome": "Kassandra helped Elpenor to recover Penelope's shroud, but was offered to keep it instead. Elpenor offered her a contract to hunt down a general known as the Wolf.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Le voile de P\u00e9n\u00e9lope]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "2.",
+    "Chapter_Name": "A Debt to Pay",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra departed the shore and [[Elpenor]] to recover [[Penelope]]'s Shroud. The island of [[Ithaka]] rested across the waters.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Headed to Odysseus's island on a tiny boat. Let\u2019s try not to piss off [[Poseidon]], shall we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Working through the ruins of [[Odysseus]]' [[Odysseus' Palace|Palace]], Kassandra came across [[Odessa]], imprisoned in a [[wood]]en cage. Kassandra freed Odessa after killing the guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Odessa:''' ''Hey, get me out of here!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Let's get out of here. Can you fight?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Odessa:''' ''I'd be ''happy'' to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(The above continues with the side quest [[A Small Odyssey]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Kassandra found the shroud, intending to escape the Palace.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Penelope's shroud. In the flesh. I mean cloth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "Having found the shroud, Kassandra left Ithaka and travelled to the [[Temple of Zeus (Kephallonia)|Temple of Zeus]] near [[Sami]]. There, she found Elpenor and his servant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Elpenor:''' ''Kassandra. Good news, I hope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "13",
+            "content": "[[File:ACOD_Penelope's_Shroud_-_Kassandra_Handing_Over_Shroud.png|thumb|250px|Kassandra with the shroud]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "14",
+            "content": "Kassandra took out the shroud.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Safe and sound.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Elpenor:''' ''Well done. And now the shroud is yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You don't want it? After all that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Elpenor:''' ''I gained something more valuable today. For your troubles, ''[[Mercenary|misthios]]''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "19",
+            "content": "Elpenor's servant tossed a bag of coins to the table before Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''If I knew any better, I'd think you were testing me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Elpenor:''' ''Perhaps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "22",
+            "content": "The servant then handed Kassandra a scroll.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Elpenor:''' ''You did well, ''misthios''. Tell me, how do you feel about killing a general in [[Megaris]]? Do this for me, and earn ''double'' what you earned today. Are you up to the task? It would take you far away from [[Kephallonia]]. So far away you might never return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "25",
+            "content": "|-|Military ranks mean nothing to me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Generals bleed like anyone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Elpinor:''' ''Good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "28",
+            "content": "|-|I'm a misthios, not an assassin.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I'm not an assassin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Elpenor:''' ''There's a first time for everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "31",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Elpenor:''' ''What do you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "33",
+            "content": "(If players choose \"Who is the general I have to kill?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Who is this general?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Elpenor:''' ''They call him \"[[Nikolaos|The Wolf]].\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''He do something to offend you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Elpenor:''' ''Yes... He's costing me drachmae. He's not good for business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "38",
+            "content": "(If players choose \"What can you tell me about Megaris?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Anything I should know about Megaris?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Elpenor:''' ''Only that it's the most valuable land in the [[Greece|Greek]] world, from a military perspective of course. Unfortunately for Megarians, it has two very powerful neighbors who just can't seem to play nice. In the tug of war between [[Korinth]] and [[Athens]], Megaris is the rope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "41",
+            "content": "(If players choose \"Why choose me?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D25",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Why me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Elpenor:''' ''Because no one knows who you are. You're invisible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "44",
+            "content": "(If players choose \"I'll take the contract.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I accept.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Elpenor:''' ''Splendid. You'll need a boat. You have one, don't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "48",
+            "content": "|-|I have a boat.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "50",
+            "content": "|-|I don't have a boat.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''If I had a boat, we wouldn't be having this conversation.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "52",
+            "content": "*'''Elpenor:''' ''A shame. It's too far of a swim I'm afraid, even for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I'll find one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D33",
+            "global_id": "55",
+            "content": "*'''Elpenor:''' ''Good. I hope it's sturdy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''And why is that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "57",
+            "content": "*'''Elpenor:''' ''The seas are much more dangerous, I'm afraid. [[Peloponnesian War|War]] is coming, and the Wolf is on the wrong side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "58",
+            "content": "(If players choose \"What war?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D36",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''War? With who?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "60",
+            "content": "*'''Elpenor:''' ''The entire Greek world is at each other's throats. What rock have you been hiding under, exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Kephallonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "62",
+            "content": "(If players choose \"Why should I trust you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D39",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''And how do I know you're on the right side?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "64",
+            "content": "*'''Elpenor:''' ''Because I'm the one paying you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "65",
+            "content": "(If players choose\"I'm right for the job.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D41",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''You won't be disappointed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "67",
+            "content": "*'''Elpenor:''' ''When your job in Megaris is done, come find me at [[Pilgrim's Landing]] in [[Phokis]].''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

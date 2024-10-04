@@ -1,0 +1,46 @@
+{
+    "QuestName": "Fight Fire with Fire",
+    "QuestID": "236212",
+    "Revision": {
+        "id": "1047489",
+        "parentid": "863342",
+        "timestamp": "2023-06-13T19:18:26Z",
+        "contributor": null,
+        "comment": "imageneed template",
+        "origin": "1047489",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ivvuqr3qgynlj1usttpehdclkdyqbyr"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra | [[Fight Fire with Fire (Rebellion) | the memory]] of Aguilar de Nerha"
+        },
+        "Tag_Update": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'?'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact Side Quest",
+        "previous": "A Venomous Encounter",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Fight Fire with Fire''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "Kassandra met a man.\n*'''Kassandra:''' ''You left a note on the board. What's going on?''\n*'''Man:''' ''You're the ''[[Mercenary|misthios]]'' that got involved with [[Metiochos]] and those fishermen right? One of those guys is my brother.''\n*'''Kassandra:''' ''Uh... glad I could help?''\n*'''Man:''' ''And I heard about your speech about \"restoring the city.\" You really inspired me! Got me thinking about how to make these big, influential types pay for what they've done.''\n<tabber>\n|-|The elites shouldn't have to pay in blood.=\n*'''Kassandra:''' ''No, you've got it all wrong. I told those fisherman (sic) they couldn't just fight fire with fire.''\n*'''Man:''' ''You don't have to pretend with me. I know you want to take our the problematic elites so our [[Athens|city]] can be truly run by the people. Why else would you let the fishermen go? I'm doing my part.''\n*'''Kassandra:''' ''And what is your part, exactly?''\n*'''Man:''' ''I'm hitting elites every way I can. Killing them, their wives. Even threatening their children. Only trouble is, someone got wind of the good work I'm doing for you. Now, soldiers are coming to kill me.''\n*'''Kassandra:''' ''You want me to be the protector.''\n*'''Man:''' ''That's right.''\n(Accept - I'm going to help you.)\n|-|You better watch yourself.=\n</tabber>",
+    "Section_Outcome": null,
+    "Section_Trivia": "*This quest is triggered by sparing the fishermen in [[A Venomous Encounter]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

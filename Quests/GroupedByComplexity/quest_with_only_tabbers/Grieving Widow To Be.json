@@ -1,0 +1,189 @@
+{
+    "Quest_Name": "Grieving Widow To Be",
+    "Quest_ID": "227489",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra met a 'Courtesan|hetaera' who, by her claim, was to marry The Monger before his death at Kassandra's hand. Kassandra claimed another mercenary was responsible and was hired to kill them.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Monger Down",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Grieving Widow To Be''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following the death of [[The Monger]], Kassandra ran into a [[Courtesan|''hetaera'']] who wished to see his killer slain.",
+    "Section_Dialogue": "*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Hetaera:''' ''I know you killed the Monger, you home-wrecking'' mal\u00e1kas.\n<tabber>\n|-|Yes, I did kill the Monger.=\n*'''Kassandra:''' ''You're right. I killed that pig so everyone could see.''\n*'''Hetaera:''' ''That ''pig'' was my husband-to-be. And because of you, I'm destined to be a ''[[Courtesan|hetaera]]'' for my entire life and die an old maid.<br>You've killed any chance I had at a normal life.''\n(Quest failed)\n|-|The Monger was destroying Korinthia.=\n*'''Kassandra:''' ''I don't understand why you're so upset. The Monger was running [[Korinthia]] into the ground.''\n*'''Hetaera:''' ''Who cares about Korinthia?! I care about my own fucking life that you've ruined. He was going to marry me. Me! How many chances do you think a ''[[Courtesan|hetaera]]'' gets in a lifetime?''\n(Quest failed)\n|-|(Lie) No, I didn't kill the Monger.=\n*'''Kassandra:''' ''I... don't know what you're talking about.''\n*'''Hetaera:''' ''If it wasn't you who killed my husband-to-be, you're going to find the fucker who did. I want you to go out there and kill the [[mercenary]] that slit his throat.''\n*'''Kassandra:''' ''So you need me to send him to [[Hades]]?''\n*'''Hetaera:''' ''That's exactly it. The mercenary must die.''\n(Accept - I'll kill the mercenary.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Hetaera:''' ''Good. You're doing me a great service.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\n</tabber>\nKassandra set out to find the mercenary, and dealt with them before returning to the ''hetaera''.\n*'''Hetaera:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Hetaera:''' ''You've set great things in motion. Take this as thanks.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra hunted down the mercenary and killed them.",
+    "Section_Trivia": "*This quest is triggered by choosing to kill The Monger publicly at the theater in [[Monger Down]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Messara",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Hetaera:''' ''I know you killed the Monger, you home-wrecking'' mal\u00e1kas.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-|Yes, I did kill the Monger.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''You're right. I killed that pig so everyone could see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Hetaera:''' ''That ''pig'' was my husband-to-be. And because of you, I'm destined to be a ''[[Courtesan|hetaera]]'' for my entire life and die an old maid.<br>You've killed any chance I had at a normal life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(Quest failed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|The Monger was destroying Korinthia.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I don't understand why you're so upset. The Monger was running [[Korinthia]] into the ground.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Hetaera:''' ''Who cares about Korinthia?! I care about my own fucking life that you've ruined. He was going to marry me. Me! How many chances do you think a ''[[Courtesan|hetaera]]'' gets in a lifetime?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "11",
+            "content": "(Quest failed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC3",
+            "global_id": "12",
+            "content": "|-|(Lie) No, I didn't kill the Monger.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I... don't know what you're talking about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Hetaera:''' ''If it wasn't you who killed my husband-to-be, you're going to find the fucker who did. I want you to go out there and kill the [[mercenary]] that slit his throat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''So you need me to send him to [[Hades]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Hetaera:''' ''That's exactly it. The mercenary must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "17",
+            "content": "(Accept - I'll kill the mercenary.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Hetaera:''' ''Good. You're doing me a great service.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "21",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N1",
+            "global_id": "22",
+            "content": "Kassandra set out to find the mercenary, and dealt with them before returning to the ''hetaera''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Hetaera:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Hetaera:''' ''You've set great things in motion. Take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

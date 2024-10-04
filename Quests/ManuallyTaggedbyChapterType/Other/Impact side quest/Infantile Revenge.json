@@ -1,0 +1,37 @@
+{
+    "QuestName": "Infantile Revenge",
+    "QuestID": "229391",
+    "Revision": {
+        "id": "841849",
+        "parentid": "829786",
+        "timestamp": "2019-10-17T12:06:06Z",
+        "contributor": null,
+        "origin": "841849",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "pfcitxupixdl7t5kdnyazgd6vsdnvra"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-InfantileRevenge-shrinesite.jpg",
+        "description": "'After Kassandra saved the baby Alethea from the false priestess Chrysis, a midwife hoped she could rely on the 'Mercenary|misthios' to destroy Chrysis' remaining shrine.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Ashes to Ashes",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Argolis, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Infantile Revenge''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a midwife who asked her to destroy the remains of [[Chrysis]]' influence.",
+    "Section_Dialogue": "A woman in [[Argolis]] drew Kassandra's attention.\n*'''Kassandra:''' ''Chaire. Need any help?''\n*'''Woman:''' ''Eagle Bearer! I don't know how to thank you.''\n<tabber>\n|-|You should thank me.=\n*'''Kassandra:''' ''I accept your gratitude. I'm sure I've done something to warrant it.''\n|-|You don't need to thank me.=\n*'''Kassandra:''' ''I'm not sure what I've done that warrants your thanks.''\n</tabber>\n*'''Woman:''' ''You saved baby [[Alethea]] from that terrible witch, [[Chrysis]]. Because of you, both mother and child are reunited, and the whole village knows the mistake the [[priests of Asklepios]] made.''\n*'''Kassandra:''' ''Hopefully no more innocent children will be taken from their mothers in the name of [[Hera]].''\n*'''Woman:''' ''Yes, we need to put a stop to this madness once and for all. The village hopes you will help them this one final time to destroy the remaining shrine that Chrysis built.''\n*'''Kassandra:''' ''So I must find and destroy it?''\n*'''Woman:''' ''Yes, the shrine must be destroyed.''\n(Accept - I'll destroy it.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Woman:''' ''I'm in your debt.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra made her way to a shrine nearby, occupied by some [[Followers of Ares]]. She destroyed the shrine before returning to the midwife.\n*'''Woman:''' ''You again. Has it been destroyed, ''[[Mercenary|misthios]]?\n*'''Kassandra:''' ''It's been smashed to pieces, just like you asked.''\n*'''Woman:''' ''You're truly skilled, ''misthios''. Here. For you.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra helped the woman to destroy a shrine built by Chrysis.",
+    "Section_Trivia": "*This quest is only available if the infant is saved from the burning shrine in the quest [[Ashes to Ashes]].",
+    "Section_Gallery": "<gallery widths=\"180\" position=\"center\" captionalign=\"center\">\nACOd-InfantileRevenge-MidwifeKass.jpg|The midwife and Kassandra\nACOd-InfantileRevenge-FoAKassfight.jpg|Kassandra fighting the Followers before the shrine\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

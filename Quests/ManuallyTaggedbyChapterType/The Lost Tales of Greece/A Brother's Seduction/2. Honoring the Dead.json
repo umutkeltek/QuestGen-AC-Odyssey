@@ -1,0 +1,39 @@
+{
+    "QuestName": "Honoring the Dead",
+    "QuestID": "227478",
+    "Revision": {
+        "id": "1047216",
+        "parentid": "1004538",
+        "timestamp": "2023-06-13T03:22:41Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047216",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "8k4k1w90gpdi11wtg1jruneh67nvotj"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Lykinos, an Athens|Athenian poet of alleged renown, found out from his brother, Timotheos, that Diokles|their father had been murdered. The brothers asked Kassandra to help prepare them for the funeral.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "'The Lost Tales of Greece'",
+        "previous": "Prodigal Son's Return",
+        "next": "Career Orientation<br />Wounds of Days Gone By",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Honoring the Dead''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": null,
+    "Section_Dialogue": "Arriving at the cemetery, she found [[Timotheos]] waiting.\n\n*'''Timotheos:''' ''There you are. Do you have the [[armor]] I asked for?''\n<tabber>\n(If players brought the real armor)=\n*'''Kassandra:''' ''I have [[Diokles|your father]]'s armor, Timotheos.''\nKassandra handed him the armor.\n*'''Timotheos:''' ''That's... that's great news! Where did you find it?''\n*'''Kassandra:''' ''I went to the [[merchant]] in town. The armor wasn't stolen, Timotheos. Your father sold it.''\n*'''Timotheos:''' ''That doesn't make any sense. My father wouldn't lie to me. What matters is you got the armor back. Thank you, ''misthios''. Truly.''\n|-|\n(If players brought the cheap armor)=\n* '''Kassandra:''' ''Here's the [[Athens|Athenian]] Armor''.\nKassandra handed him the armor.\n* '''Timotheos:''' ''This works. We'll be able to give him a proper burial after all.''\n* '''Kassandra:''' ''Every warrior should be buried in their nation's colors.''\n* '''Timotheos:''' ''Yes. That's true. Thank you for your help.''\n</tabber>\n\n*'''Kassandra:''' ''You're welcome.''\n*'''Timotheos:''' ''Now I just need an offering of oil for the ceremony.''\n*'''Kassandra:''' ''I'll see what I can do.''\n*'''Timotheos:''' ''Thank you. It means a lot. I should go dress my father.''\n\nLykinos ran over as Timotheos left.\n\n*'''Lykinos:''' Misthios''! Any news?''\n*'''Kassandra:''' ''I took care of the bandits, Lykinos.''\n*'''Lykinos:''' ''I can breathe easier knowing my ''pater'' has been avenged. There's no chance those ''mal\u00e1kas'' had any explanation for their heinous actions?''\n<tabber>\n(If Kassandra found the reason for the bandits' actions)=\n{{#tag:tabber|\nYour father had debts.=\n*'''Kassandra:''' ''Your father owed the bandit leader Equatos quite a bit of [[drachma]]e.''\n*'''Lykinos:''' ''What business could he have had with that scum?''\nKassandra remained silent.\n*'''Lykinos:''' ''What matters is that they've paid for their crimes. Thank you, Kassandra''\n{{!}}-{{!}}\nIt was senseless violence.=\n*'''Kassandra:''' ''It was just a random act of violence.''\n*'''Lykinos:''' ''Then I'm glad those monsters are dead. Thank you, Kassandra.''\n}}\n|-|\n(If Kassandra didn't find the reason for the bandits' actions)=\n*'''Kassandra:''' ''I didn't find out why.''\n*'''Lykinos:''' ''All the same, I'll rest easier knowing they can't hurt anyone else. Thank you, Kassandra.''\n</tabber>\n\n*'''Kassandra:''' ''Now you can focus on mourning.''\n*'''Lykinos:''' ''I should probably let Timotheos know about this. If you're staying for the burial, I'm sure an offering of wine would mean a great deal to my ''pater''.''\n*'''Kassandra:''' ''Timotheos asked me to pick up oil as well. Where can I find the offerings?''\n*'''Lykinos:''' ''He did? I mean... You should be able to find what we need at the docks.''\n*'''Kassandra:''' ''I'll be back soon.''\n\nShe sneaked in, and found the offerings at the [[Sea Captain's Dock]].\n<tabber>\n(If Kassandra found the oil first)=\n*'''Kassandra:''' ''Got the oil. I could get the wine... or just head back to the burial.''\n|-|\n(If Kassandra found the wine first)=\n*'''Kassandra:''' ''Got the wine. I could get the oil... or just head back to the burial.''\n</tabber>\n(If Kassandra got both offerings)\n\n*'''Kassandra:''' ''That's both of the offerings. I should head back to the burial.''\n\nShe made her way back to the cemetery.\n\n*'''Timotheos:''' ''How could you be so stupid? More bloodshed, Lykinos?''\n*'''Lykinos:''' Pater''<nowiki/>'s death needed vengeance. I took care of it.''\n*'''Timotheos:''' ''You took care of it? You really think it will end there?''\n*'''Lykinos:''' ''Kassandra, you agree with me, right?''\n<tabber>\n|-|Lykinos is right. Revenge was necessary.=\n*'''Kassandra:''' ''Lykinos is right. The bandits needed to be stopped.''\n|-|Timotheos is right. Violence creates violence.=\n*'''Kassandra:''' ''Timotheos was right. Provoking the bandits was shortsighted.''\n*'''Lykinos:''' ''If I recall, you were less concerned when you were getting paid.''\n</tabber>\n\n*'''Timotheos:''' ''Someone else's father probably just died because of you. Then it'll be your head next.''\n*'''Lykinos:''' ''You'd like that, wouldn't you?''\n*'''Timotheos:''' ''What? No! Why would you say that?''\n*'''Lykinos:''' ''You've been nothing but cruel to me since I got here.''\n*'''Timotheos:''' ''I'm sorry, Lykinos. I just don't want to lose you, too.''\n*'''Lykinos:''' ''We only have each other now that ''pater's'' gone.''\n*'''Timotheos:''' ''We should proceed with the burial. Did you find an offering?''\n<tabber>\n|-|I brought oil for Timotheos.=\n*'''Kassandra:''' ''Here, Timotheos. An offering of oil for your father.''\n*'''Timotheos:''' ''Thank you.''\n|-|I brought both offerings.=\n*'''Kassandra:''' ''I brought you both what you asked for.''\n*'''Timotheos:''' ''Then thank you from both of us.''\n*'''Lykinos:''' ''I can thank Kassandra myself.''\n|-|I brought wine for Lykinos.=\n*'''Kassandra:''' ''Here, Lykinos. An offering of wine.''\n*'''Lykinos:''' ''It's perfect.''\n</tabber>\n\n*'''Kassandra:''' ''I did what I could. I hope your father's journey across the [[Styx]] is peaceful.''\n*'''Timotheos:''' ''Lykinos, come. We must prepare the altar.''\n*'''Lykinos:''' ''In a moment. I'd love to see you once more before you leave town. Please, find me after the ceremony.''\n*'''Timotheos:''' ''See you around, ''Misthios''.''\n\nKassandra watched as the ceremony began. After a while, she started walking away.",
+    "Section_Outcome": "Kassandra helped the brothers out with the burial of their father.\n\nIf Diokles' Armor was collected but NOT handed over it turns into an Epic Chest piece at the conclusion of this mission.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

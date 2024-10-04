@@ -1,0 +1,139 @@
+{
+    "Quest_Name": "The Con Woman at the Fountain",
+    "Quest_ID": "243675",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Con Woman at the Fountain",
+        "description": "'The fountains, a place where women mixed and talked, were the site of a Thief|theft. A thief distracted the other women while they were robbed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Con Woman at the Fountain''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A woman who had been [[Thief|robbed]] asked Kassandra to deliver retribution.",
+    "Section_Dialogue": "Kasssandra approached the woman.\n*'''Kassandra:''' ''Need something?''\n*'''Woman:''' ''At the fountains, another woman offered to help me with my amphora since I also had a heavy basket. She was very chatty. I didn't know her, but it was nice to talk and have help.''\n*'''Kassandra:''' ''So what happened?''\n*'''Woman:''' ''While I was talking to her, someone helped themselves to my purchases. Then she left quickly after I discovered this theft. I think she set me up to be robbed!''\n*'''Kassandra:''' ''You want me to kill her?''\n*'''Woman:''' ''Yes. Her death is the only solution.''\n(Accept \u2013 I'll handle it.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Woman:''' ''You truly are sent by the gods.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra located the guilty woman and killed her.\n*'''Kassandra:''' ''Glad that's over with. Now to get paid.''\nKassandra returned to the woman.\n*'''Woman:''' ''You. Have you killed her?''\n*'''Kassandra:''' ''She's no longer your concern.''\n*'''Woman:''' ''I'm glad I put my faith in you, ''[[Mercenary|misthios]]''. Please take this.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra tracked and killed the thief who had robbed a woman.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kasssandra approached the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Need something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Woman:''' ''At the fountains, another woman offered to help me with my amphora since I also had a heavy basket. She was very chatty. I didn't know her, but it was nice to talk and have help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''So what happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''While I was talking to her, someone helped themselves to my purchases. Then she left quickly after I discovered this theft. I think she set me up to be robbed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You want me to kill her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''Yes. Her death is the only solution.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(Accept \u2013 I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'm the one for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Woman:''' ''You truly are sent by the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "Kassandra located the guilty woman and killed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Glad that's over with. Now to get paid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra returned to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''You. Have you killed her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''She's no longer your concern.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Woman:''' ''I'm glad I put my faith in you, ''[[Mercenary|misthios]]''. Please take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

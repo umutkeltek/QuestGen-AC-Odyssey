@@ -1,0 +1,38 @@
+{
+    "QuestName": "Daughters of Artemis and Daughters of Aphrodite",
+    "QuestID": "226150",
+    "Revision": {
+        "id": "1047203",
+        "parentid": "854785",
+        "timestamp": "2023-06-13T02:58:20Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047203",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "3jooi6o98h0ud05ylmz1c6njpgsy4w2"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Sharp Lessons",
+        "next": "Learning the Land",
+        "source": "Kassandra",
+        "location": "Phokis, Greece"
+    },
+    "General_Description": "'''Daughters of Artemis and Daughters of Aphrodite''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A rebel faction of the [[Daughters of Artemis]] made camp near [[Lalaia]]. Kassandra ventured there to investigate their intentions and seek aid for the threatened village.",
+    "Section_Dialogue": "After becoming leader of the Daughters of Artemis, Kassandra learned of a group of Daughters that had rebelled against her leadership happened to be near Lalaia, which was in need of skilled warriors to defend it. She made her way to the [[Forest Camp]] to negotiate.\n*'''Kassandra:''' ''Hello?''\nThe Daughters returned her greeting with a somewhat hostile gaze.\n*'''Kassandra:''' ''The traditional welcome of the Daughters of Artemis.''\n*'''Abrota:''' ''You are the Eagle Bearer, Messenger of Zeus, and Leader of the Daughters of Artemis?''\n*'''Kassandra:''' ''I earned the title by defeating [[Daphnae]]. I've come to ask for your help. The village near here is under siege by the [[Sons of Xerxes]].''\n*'''Abrota:''' ''We followed Daphnae. We do not follow you. You are a brute and a thug. Great leaders aren't measured by the piles of bodies at their feet, but by the help they give others.''\n\n<tabber>\n|-|Great leaders keep us safe.=\n*'''Kassandra:''' ''Without the sword and [[Spear of Leonidas|spear of my grandfather]], King [[Leonidas I of Sparta|Leonidas]], this coast would belong to the Persians. Great leaders protect us from invasion, no matter the price in blood.''\n|-|I feel the same way.=\n*'''Kassandra:''' ''A selfish leader is no leader at all. A good leader helps people in their time of need.''\n</tabber>\n*'''Abrota:''' ''A great leader also provides for their people. Daphnae always kept us in meat and shelter. You kill animals for trophies. Like the [[Zeus|god]] you champion, you are selfish. Why would we trust you?''\n\n<tabber>\n|-|I hunt like Artemis.=\n*'''Kassandra:''' ''If [[Artemis]] found me unworthy, I would not have returned with the pelts of the [[Nemean Lion]] or [[Kallisto the Bear]]. If anything, this proves me more Artemis' champion than Zeus'.''\n|-|I only take what I need.=\n*'''Kassandra:''' ''I grew up with nothing and have not forgotten the ache of hunger. I take what I need and no more.''\n</tabber>\n*'''Abrota:''' ''Why do you care about this village and why do you expect our sympathy? What do we stand to gain from this?''\n\n<tabber>\n|-|You will gain resources.=\n*'''Kassandra:''' ''This forest may provide you with food and shelter for now, but you won't be able to fend off the Sons of Xerxes for long. You need those resources.''\n|-|You will gain allies.=\n*'''Kassandra:''' ''The women of Lalaia have food and shelter, but are not prepared to defend themselves from raiding bandits. An alliance benefits you both.''\n</tabber>\nAbrota considered Kassandra's responses.\n\n<tabber>\n|-|2+ \"assertive\" choices=\n*'''Abrota:''' ''Power radiates off you the same way it did Daphnae. I can see now why you carry her title. If you can get me and my best warrior to yield, then my bow and sisters are yours.''\n|-|2+ \"compassionate\" choices=\n*'''Abrota:''' ''I'm surprised by your compassion, Hero, and beginning to see what Daphnae saw in you. Still, I do not submit to any leader who cannot defeat me and my best warrior in combat. If you can get me on my back, then I bow. Only then.''\n</tabber>\n*'''Abrota:''' ''Telesilla, join me!''\nThe two women attacked Kassandra, but she defeated them swiftly.\n*'''Abrota:''' ''I yield! You have proven yourself worthy of your titles. My warriors and I are yours.''\n*'''Kassandra:''' ''You fought well. You know the direction of Lalaia, yes?''\n*'''Abrota:''' ''Of course. We'll gather our things and join you there.''\n*'''Kassandra:''' ''I expect to see you defending Lalaia when the Sons of Xerxes attack.''\n*'''Abrota:''' ''Yes, Champion.''\n\nIf this is the last of the three quests completed:\n*'''Kassandra:''' ''I've done all I can for these women. Time to get back to Periktione.''",
+    "Section_Outcome": "*Kassandra dueled Abrota and Telesilla, earning the loyalty of the camp's Daughters of Artemis and recruiting them to the defense of Lalaia.",
+    "Section_Trivia": "*This quest is only available if the player has assumed leadership of the Daughters of Artemis by killing [[Daphnae]] at the end of [[Artemis's Request]].\n*For the purposes of Abrota's final statement, the first dialogue choices are decidedly \"assertive\" in tone and the second dialogue choices are decidedly \"compassionate.\"",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

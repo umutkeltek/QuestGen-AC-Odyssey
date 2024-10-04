@@ -1,0 +1,415 @@
+{
+    "Quest_Name": "Priceless Treasure",
+    "Quest_ID": "225147",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Priceless Treasure Memory.png",
+        "description": "'After one of her crews was attacked and its cargo lost, Xenia implored Kassandra to recover her precious coffer and, if possible, rescue her imprisoned crew.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Throw the Dice",
+        "source": "Kassandra",
+        "location": "Pirate's Revenge, Keos, Greece<br />Erymanthos Peaks, Achaia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Priceless Treasure''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After helping [[Xenia]] to recover [[Pan]]'s flute and [[Apollo]]'s lyre, Kassandra was entrusted with one more task by the [[Piracy|pirate]] leader.",
+    "Section_Dialogue": "Xenia brought Kassandra to one of the shelter, where [[Galateia|one]] of Xenia's crew was in.\n*'''Xenia:''' ''Still breathing?''\n*'''Galateia:''' ''Everything hurts, so I guess so.''\n*'''Xenia:''' ''Galateia limped home after her [[ship]] was attacked. She lost vital cargo, and several of her crew were taken prisoner. You could fix these problems for me.''\n*'''Kassandra:''' ''What do you need?''\n*'''Xenia:''' ''Galateia, tell your story.''\n*'''Galateia:''' ''We were sailing near [[Pellene]], when we were ambushed. Our ship was boarded and sunk. I escaped, but I lost our prized cargo.''\n(If players choose \"Who attacked you?\")\n*'''Kassandra:''' ''Who attacked you, and why?''\n*'''Galateia:''' ''Soldiers of one faction or another. They are all the same to me.''\n*'''Kassandra:''' ''That doesn't make finding them easier.''\n*'''Galateia:''' ''I was too busy holding in my guts to worry about what banner they were flying.''\n*'''Xenia:''' ''Calm yourself. Galateia told me the thieving scum retreated to the [[Olouros Fortress]].''\n*'''Galateia:''' ''Yeah, in [[Achaia]].''\n(If players choose \"What were you carrying?\")\n*'''Kassandra:''' ''What did your crew lose that was so dear?''\n*'''Galateia:''' ''A prized old coffer for Xenia.''\n*'''Xenia:''' ''The exact what and why are not important. Only understand that the coffer carries something I value greatly. Bring it back, and I'll reward you well.''\n(If players choose \"What happened to the crew?\")\n*'''Kassandra:''' ''What happened to the rest of the crew?''\n*'''Galateia:''' ''Many died in the fighting, but I saw at least three dragged off by the'' mal\u00e1kes.\n*'''Kassandra:''' ''And where were you?''\n*'''Galateia:''' ''Bleeding in the surf, trying to make sure I did not go to the crows. So someone would live to tell the tale.''\n*'''Xenia:''' ''Rest, Galateia. Among the missing are my master of maps, [[Anaximander]], keen-eyed [[Iaira]], and Galateia's brother, [[Kittos]]. They are all terribly loyal. It would be a shame to lose them.''\n(If players choose \"I'll find the crew and shipment.\")\n*'''Kassandra:''' ''Leave it to me. I'll find your crew and your precious cargo.''\nKassandra travelled to the Olouros Fortress in Achaia. Infiltrating the [[fort]], she found Iaira and Kittos's cage together and freed them. A little later, she found Anaximander in the fort's courtyard and, after freeing him, carried him out and talked to him.\n*'''Kassandra:''' ''You must be Anaximander.''\n*'''Anaximander:''' ''Eh, yes. How did you know?''\n*'''Kassandra:''' ''I've studied so many of your maps, I feel as if I know you.''\n*'''Anaximander:''' ''Our precious cargo, Xenia's coffer, will be held in their treasury. Can you recover it?''\n*'''Kassandra:''' ''I will.''\n*'''Anaximander:''' ''May [[Poseidon]] shower you with fortune for saving me.''\n*'''Kassandra:''' ''Thank you. You should be safe now.''\nShe goes back deep inside the fort to find the building Anaximander said the coffer will be, and she saw it inside sitting on a small table and grabbed it.\n*'''Kassandra:''' ''This must be the coffer that Xenia covets.''\nKassandra returned to Xenia in Keos, handing her the coffer.\n\n(If players didn't save Xenia's crew.)\n*'''Xenia:''' ''You recovered my coffer. Gratitude.''\nXenia receives the item, then turns around and looks at a distance.\n*'''Xenia:''' ''Still, the loss of my crew hurts a great deal. It's harder to prize anything greater than the people you trust.''\n(If players saved Xenia's crew.)\n*'''Xenia:''' ''You found the coffer and rescued my crew! I know you'll find it ridiculous, but this clay doll was a gift from my mother. A strong figure she was, tough as [[Hera]] and clever as [[Athena]]. She cared for us after my wretch of a father got himself lost or dead.''\n*'''Kassandra:''' ''I... didn't expect that.''\nRegardless, Xenia will show her appreciation and invites her.\n*'''Xenia:''' ''No one is only one thing, my West Wind.''\n*'''Kassandra:''' ''True...''\nXenia moves closer to Kassandra and holds both of her hands.\n*'''Xenia:''' ''Enough chatter. I have another use for your tongue and your hands. Your skills are needed.''\n\n<tabber>\n|-|Let's get you out of that armor.=\n*'''Kassandra:''' ''Yes. I'll go down with you.''\n*'''Xenia:''' ''Perfect. Let me show my private collection.''\nThey entered Xenia's home. Sometime later, Kassandra came out. \n*'''Xenia:''' ''Kassandra, your presence makes the day hot and sultry. I know I can never own the West Wind, but it pleases me that I was able to tame it for a little while.''\n|-|Not today. I'll pass.=\nKassandra lets go of her hands.\n*'''Kassandra:''' ''I don't have time to breathe, let alone anything else. Glad you are happy with what I recovered, though.''\n*'''Xenia:''' ''Gratitude, ''[https://assassinscreed.fandom.com/wiki/Mercenary#5th_century_BCE misthios]. ''You've done right by me.''\nKassandra leaves.\n*'''Xenia:''' ''What could have been another life, my West Wind? I will always see the fire in your eyes reflected in the treasures you brought me. Farewell, Kassandra.''\n</tabber>",
+    "Section_Outcome": "*Kassandra succeeded in recovering Xenia's coffer from Olouros Fortress and finishing the treasure hunts for her.",
+    "Section_Trivia": "* It is possible to find Xenia's coffer before freeing any of the crew members. Once you pick up the coffer, the quest objective progresses to delivering it to Xenia, not accounting for the fact that you are supposed to rescue the crew members. You are still able to find and free them, though. Carrying Anaximander out of the fort after having already retrieved the coffer will cause him to stand up and run away without any dialogue. Xenia will still thank you for rescuing her crew, even in this state.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Xenia brought Kassandra to one of the shelter, where [[Galateia|one]] of Xenia's crew was in.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Xenia:''' ''Still breathing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Galateia:''' ''Everything hurts, so I guess so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Xenia:''' ''Galateia limped home after her [[ship]] was attacked. She lost vital cargo, and several of her crew were taken prisoner. You could fix these problems for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Xenia:''' ''Galateia, tell your story.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Galateia:''' ''We were sailing near [[Pellene]], when we were ambushed. Our ship was boarded and sunk. I escaped, but I lost our prized cargo.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "8",
+            "content": "(If players choose \"Who attacked you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Who attacked you, and why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Galateia:''' ''Soldiers of one faction or another. They are all the same to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''That doesn't make finding them easier.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Galateia:''' ''I was too busy holding in my guts to worry about what banner they were flying.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Xenia:''' ''Calm yourself. Galateia told me the thieving scum retreated to the [[Olouros Fortress]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Galateia:''' ''Yeah, in [[Achaia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "15",
+            "content": "(If players choose \"What were you carrying?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''What did your crew lose that was so dear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Galateia:''' ''A prized old coffer for Xenia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Xenia:''' ''The exact what and why are not important. Only understand that the coffer carries something I value greatly. Bring it back, and I'll reward you well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "19",
+            "content": "(If players choose \"What happened to the crew?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What happened to the rest of the crew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "21",
+            "content": "*'''Galateia:''' ''Many died in the fighting, but I saw at least three dragged off by the'' mal\u00e1kes.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''And where were you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "23",
+            "content": "*'''Galateia:''' ''Bleeding in the surf, trying to make sure I did not go to the crows. So someone would live to tell the tale.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "24",
+            "content": "*'''Xenia:''' ''Rest, Galateia. Among the missing are my master of maps, [[Anaximander]], keen-eyed [[Iaira]], and Galateia's brother, [[Kittos]]. They are all terribly loyal. It would be a shame to lose them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "25",
+            "content": "(If players choose \"I'll find the crew and shipment.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Leave it to me. I'll find your crew and your precious cargo.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "27",
+            "content": "Kassandra travelled to the Olouros Fortress in Achaia. Infiltrating the [[fort]], she found Iaira and Kittos's cage together and freed them. A little later, she found Anaximander in the fort's courtyard and, after freeing him, carried him out and talked to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''You must be Anaximander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "29",
+            "content": "*'''Anaximander:''' ''Eh, yes. How did you know?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''I've studied so many of your maps, I feel as if I know you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "31",
+            "content": "*'''Anaximander:''' ''Our precious cargo, Xenia's coffer, will be held in their treasury. Can you recover it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "33",
+            "content": "*'''Anaximander:''' ''May [[Poseidon]] shower you with fortune for saving me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Thank you. You should be safe now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "35",
+            "content": "She goes back deep inside the fort to find the building Anaximander said the coffer will be, and she saw it inside sitting on a small table and grabbed it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This must be the coffer that Xenia covets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "37",
+            "content": "Kassandra returned to Xenia in Keos, handing her the coffer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C5",
+            "global_id": "39",
+            "content": "(If players didn't save Xenia's crew.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "40",
+            "content": "*'''Xenia:''' ''You recovered my coffer. Gratitude.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "41",
+            "content": "Xenia receives the item, then turns around and looks at a distance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Xenia:''' ''Still, the loss of my crew hurts a great deal. It's harder to prize anything greater than the people you trust.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "43",
+            "content": "(If players saved Xenia's crew.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Xenia:''' ''You found the coffer and rescued my crew! I know you'll find it ridiculous, but this clay doll was a gift from my mother. A strong figure she was, tough as [[Hera]] and clever as [[Athena]]. She cared for us after my wretch of a father got himself lost or dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I... didn't expect that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "46",
+            "content": "Regardless, Xenia will show her appreciation and invites her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "47",
+            "content": "*'''Xenia:''' ''No one is only one thing, my West Wind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''True...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "49",
+            "content": "Xenia moves closer to Kassandra and holds both of her hands.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "50",
+            "content": "*'''Xenia:''' ''Enough chatter. I have another use for your tongue and your hands. Your skills are needed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "52",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "53",
+            "content": "|-|Let's get you out of that armor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Yes. I'll go down with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "55",
+            "content": "*'''Xenia:''' ''Perfect. Let me show my private collection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "56",
+            "content": "They entered Xenia's home. Sometime later, Kassandra came out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "57",
+            "content": "*'''Xenia:''' ''Kassandra, your presence makes the day hot and sultry. I know I can never own the West Wind, but it pleases me that I was able to tame it for a little while.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "58",
+            "content": "|-|Not today. I'll pass.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N9",
+            "global_id": "59",
+            "content": "Kassandra lets go of her hands.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I don't have time to breathe, let alone anything else. Glad you are happy with what I recovered, though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Xenia:''' ''Gratitude, ''[https://assassinscreed.fandom.com/wiki/Mercenary#5th_century_BCE misthios]. ''You've done right by me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "62",
+            "content": "Kassandra leaves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "63",
+            "content": "*'''Xenia:''' ''What could have been another life, my West Wind? I will always see the fire in your eyes reflected in the treasures you brought me. Farewell, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "64",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

@@ -1,0 +1,813 @@
+{
+    "Quest_Name": "Old Friends, Old Problems",
+    "Quest_ID": "223968",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Unsurprisingly, Markos got into trouble again after failing to pay debt to the Cerberus brothers|Cerberus. To appease him, Markos asked Kassandra to deliver his best wine to the Cerberus as a peace offering.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Markos}}",
+        "previous": "A Business Opportunity",
+        "next": "Farm in Flames",
+        "source": "Kassandra",
+        "location": "Kos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Old Friends, Old Problems''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra caught up with [[Markos]] after rescuing him from the [[Artemisia Fort]].",
+    "Section_Dialogue": "*'''Markos:''' ''Kassandra, welcome to the [[Aion Vineyard|newest]] of the Markos estates. I wasn't expecting company, but one must always be prepared! Wine?''\n*'''Kassandra:''' ''Markos, I can't believe you're here.''\n*'''Markos:''' ''Believe it, my friend! I'm not a man of one city, but of all cities. Who am I to deny the rest of the [[Greece|Greek]] world what I have to offer?''\n(If players choose \"Why did you leave [[Kephallonia]]?\")\n*'''Kassandra:''' ''What brings you to [[Kos]], of all places?''\n*'''Markos:''' ''I've learned a thing or two about soil. Turns out, Kephallonia wasn't the best place for grapes. Plus, the locals here love wine.''\n*'''Kassandra:''' ''Everybody loves wine.''\n(Following dialogue dependent on decision made in [[The Blood Fever]])\n\n<tabber>\n|-|If players allowed the family to be killed=\n*'''Markos:''' ''Besides, how profitable could I have been in a town of thieves and mercenaries? Not very.''\n|-|If players saved the family=\n*'''Markos:''' ''On top of that, Kephallonia isn't as, uh, busy as it was before. Plague came from [[Village of Kausos|Kausos]], and many died. It was bad for business.''\n</tabber>\n(If players choose \"How long have you been here?\")\n*'''Kassandra:''' ''Been here long?''\n*'''Markos:''' ''Long enough to establish myself as the foremost wine-seller in Kos! Well, the one wine-seller in Jos. The Koans will come around eventually.''\n(\"You came a long way.\")\n*'''Kassandra:''' ''You made it a long way from home.''\n*'''Markos:''' ''I could say the same to you! Did you find what you were looking for?''\n(If [[A Mother's Prayers]] is completed) \n*'''Kassandra:''' ''I did. I found my [[Myrrine|mother]].''\n(Otherwise)\n\n* '''Kassandra:''' ''I'm still searching.''\n\n*'''Markos:''' ''What a coincidence\u2014I found my Mama too!''\n*'''Kassandra:''' ''Here? In Kos?''\n*'''Markos:''' ''Since Kos is her home, Kos is my home too. Say hello, Mama!''\nMarkos and Kassandra turned to a older lady sitting on a bench drinking her wine.\n\n<tabber>\n|-|That's not your mother.=\n*'''Kassandra:''' ''Your \"Mama\"? You told me your mother was dead.''\n*'''Markos:''' ''Right, this is my adopted Mama. We've become so close, she wouldn't have it other way!''\n|-|It's nice to meet her.=\n*'''Kassandra:''' ''I see the resemblance.''\n*'''Markos:''' ''We come from a sturdy stock, she and I.''\n*'''Kassandra:''' ''Funny. I remember you telling me your mother died a long time ago.''\n*'''Markos:''' ''Right, this is my ''adopted'' Mama. We've become so close, she wouldn't have it other way!''\n</tabber>\n*'''Kassandra:''' ''Come on, Markos. The truth.''\nMarkos giggled.\n*'''Markos:''' ''Well, Mama is the owner of the vineyard. When her husband met his untimely death, it was going to be auctioned off. Something had to be done!''\n*'''Kassandra:''' ''So you stepped in to help. How generous.''\n*'''Markos:''' ''It's ridiculous a wonderful lady such as Mama can't inherit her own property. Now, we run the vineyard together. Isn't that right, Mama?''\nThe older lady, now drunk, walked past both Kassandra and Markos holding a wine jar.\n*'''Markos:''' ''She'd put up a fuss if she disagreed. It's her land, but she shares it with her precious son\u2014me!''\n\n<tabber>\n|-|I'm glad it's worked out for you.=\n*'''Kassandra:''' ''It's a nice place you've commandeered, Markos.''\n*'''Markos:''' ''If I didn't know you so well, I'd think you were serious! I'm always laughing these days.''\n*'''Kassandra:''' ''You weren't laughing much when you were tied up in that fort.''\n|-|Sounds like a scheme.=\n*'''Kassandra:''' ''Don't think I've forgotten that \"Markos always has a plan.\" Sounds like one of your schemes.''\n*'''Markos:''' ''Kassandra, that was the old Markos. These days, I live a peaceful life.''\n*'''Kassandra:''' ''You were tied up in a fort. That's peaceful?''\n</tabber>\n*'''Markos:''' ''Eh\u2014about that. I have a bit of a problem on my hands.''\n*'''Kassandra:''' ''Why am I not surprised?''\n*'''Markos:''' ''But it's something I know you could help me with, my friend! I know your credentials.''\n(\"I'm listening.\")\n*'''Kassandra:''' ''Go on.''\n*'''Markos:''' ''You know me... I borrow some [[drachma]]e., and before I know it, they're calling me the Con of Kos! All thanks to the [[Cerberus brothers|Cerberus]]\u2014whom I owe the most.''\n*'''Kassandra:''' ''The Cerberus? First the [[Cyclops of Kephallonia|Cyclops]], and now this? Don't tell me it's a three-headed dog.''\n*'''Markos:''' ''Don't be ridiculous! This is nothing like the Cyclops. This time, I wish to make a peace offering\u2014with nothing less than my finest wine.''\n*'''Kassandra:''' ''\"Finest?\" Palatable, maybe.''\n*'''Markos:''' ''Kassandra, you're like family to me. And since I'm family to you, I'm sure you wouldn't mind helping.''\n*'''Kassandra:''' ''You're sure, are you?''\n*'''Markos:''' ''I promise I can afford to pay you this time. Just take my wine to the Cerberus\u2014simple!''\n(Accept \u2013 I'll bring the wine.)\n*'''Kassandra:''' ''Fine. For old time's sake.''\nKassandra took the wine from Markos.\n*'''Markos:''' ''I can always count on you! And the Cerberus can count on a nice wine pairing with dinner. Take it to his house.''\n*'''Kassandra:''' ''The Cerberus better not bite me.''\nKassandra travelled to [[Astypalia City]], where the Cerberus lived in. She approached one of the men.\n*'''Kassandra:''' ''Are you the Cerberus?''\n*'''Greek Soldier:''' ''Who wants to know?''\n*'''Kassandra:''' ''Only one head.<br />A gift for you. Have you ever had Markos' wine? It's the best of the best.''\n*'''Greek Soldier:''' ''What's so good about it?''\n\n<tabber>\n|-|Lie \u2013 It's sweet.=\n*'''Kassandra:''' ''It's very... sweet. Perfect with chestnut bread.''\n|-|Lie \u2013 It's rich.=\n*'''Kassandra:''' ''If you savor your wine, you'll like it. It's very rich.''\n</tabber>\n*'''Greek Soldier:''' ''He's not gonna win me over with wine. I never forget whose purse my drachmae goes into.''\nKassandra noticed several men surrounding her.\n*'''Kassandra:''' ''It's a peace offering. A thank you for waiting so patiently for him to pay you back.''\n*'''Greek Soldier:''' ''Hmm. Then drink with me, if you think it's so good.''\n\n<tabber>\n|-|Sure, I'll drink.=\n*'''Kassandra:''' ''All right.''\nKassandra sat down with the Cerberus to drink the wine. As they drank, the man coughed and stood up.\n*'''Greek Soldier:''' ''It's poisoned!''\n*'''Kassandra:''' ''No, that's just the wine.''\n*'''Greek Soldier:''' ''You tricked me!''\n*'''Kassandra:''' ''I'm gonna be sick.''\n*'''Greek Soldier:''' ''Guards! Guards!''\nKassandra fled the area or killed the two men..\n*'''Kassandra:''' ''Ugh. Still have the taste of Markos' wine in my mouth.''\n|-|No, thanks.=\n*'''Kassandra:''' ''The wine's yours.''\n*'''Greek Soldier:''' ''I insist.''\n*'''Kassandra:''' ''I'm not thirsty.''\n*'''Greek Soldier:''' ''You're hiding something. If you don't drink, I'll know it's poisoned.''\n{{#tag:tabber|\nFine, I'll drink too. =\n*'''Kassandra:''' ''All right.''\nKassandra sat down with the Cerberus to drink the wine. As they drank, the man coughed and stood up.\n*'''Greek Soldier:''' ''It's poisoned!''\n*'''Kassandra:''' ''No, that's just the wine.''\n*'''Greek Soldier:''' ''You tricked me!''\n*'''Kassandra:''' ''I'm gonna be sick.''\n*'''Greek Soldier:''' ''Guards! Guards!''\nKassandra fled the area or killed the two men.\n{{!}}-{{!}}\nI won't drink.=\n*'''Kassandra:''' ''It's not poison. Drink it.''\n*'''Greek Soldier:''' ''You'd like that wouldn't you. I know Markos wants me dead, and now I want you dead.''\n*'''Greek Soldier:''' ''Guards! Guards!''\nKassandra either fought and killed the two men or ran off.\n\n{{!}}-{{!}}\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra helped Markos to deliver wine to the Cerberus, only to realize it had been poisoned and the Cerberus were three brothers.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Markos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Markos:''' ''Kassandra, welcome to the [[Aion Vineyard|newest]] of the Markos estates. I wasn't expecting company, but one must always be prepared! Wine?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Markos, I can't believe you're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Markos:''' ''Believe it, my friend! I'm not a man of one city, but of all cities. Who am I to deny the rest of the [[Greece|Greek]] world what I have to offer?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "4",
+            "content": "(If players choose \"Why did you leave [[Kephallonia]]?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What brings you to [[Kos]], of all places?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Markos:''' ''I've learned a thing or two about soil. Turns out, Kephallonia wasn't the best place for grapes. Plus, the locals here love wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Everybody loves wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(Following dialogue dependent on decision made in [[The Blood Fever]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|If players allowed the family to be killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Markos:''' ''Besides, how profitable could I have been in a town of thieves and mercenaries? Not very.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|If players saved the family=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Markos:''' ''On top of that, Kephallonia isn't as, uh, busy as it was before. Plague came from [[Village of Kausos|Kausos]], and many died. It was bad for business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C2",
+            "global_id": "16",
+            "content": "(If players choose \"How long have you been here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Been here long?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Markos:''' ''Long enough to establish myself as the foremost wine-seller in Kos! Well, the one wine-seller in Jos. The Koans will come around eventually.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "19",
+            "content": "(\"You came a long way.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''You made it a long way from home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Markos:''' ''I could say the same to you! Did you find what you were looking for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "22",
+            "content": "(If [[A Mother's Prayers]] is completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I did. I found my [[Myrrine|mother]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "24",
+            "content": "(Otherwise)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U2",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "* '''Kassandra:''' ''I'm still searching.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Markos:''' ''What a coincidence\u2014I found my Mama too!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Here? In Kos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Markos:''' ''Since Kos is her home, Kos is my home too. Say hello, Mama!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "31",
+            "content": "Markos and Kassandra turned to a older lady sitting on a bench drinking her wine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "33",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "34",
+            "content": "|-|That's not your mother.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Your \"Mama\"? You told me your mother was dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Markos:''' ''Right, this is my adopted Mama. We've become so close, she wouldn't have it other way!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "37",
+            "content": "|-|It's nice to meet her.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I see the resemblance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "39",
+            "content": "*'''Markos:''' ''We come from a sturdy stock, she and I.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Funny. I remember you telling me your mother died a long time ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Markos:''' ''Right, this is my ''adopted'' Mama. We've become so close, she wouldn't have it other way!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "42",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D24",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Come on, Markos. The truth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "44",
+            "content": "Markos giggled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Markos:''' ''Well, Mama is the owner of the vineyard. When her husband met his untimely death, it was going to be auctioned off. Something had to be done!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''So you stepped in to help. How generous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "*'''Markos:''' ''It's ridiculous a wonderful lady such as Mama can't inherit her own property. Now, we run the vineyard together. Isn't that right, Mama?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "48",
+            "content": "The older lady, now drunk, walked past both Kassandra and Markos holding a wine jar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "49",
+            "content": "*'''Markos:''' ''She'd put up a fuss if she disagreed. It's her land, but she shares it with her precious son\u2014me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "51",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "52",
+            "content": "|-|I'm glad it's worked out for you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''It's a nice place you've commandeered, Markos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "54",
+            "content": "*'''Markos:''' ''If I didn't know you so well, I'd think you were serious! I'm always laughing these days.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''You weren't laughing much when you were tied up in that fort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "56",
+            "content": "|-|Sounds like a scheme.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Don't think I've forgotten that \"Markos always has a plan.\" Sounds like one of your schemes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "58",
+            "content": "*'''Markos:''' ''Kassandra, that was the old Markos. These days, I live a peaceful life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''You were tied up in a fort. That's peaceful?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "60",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D35",
+            "global_id": "61",
+            "content": "*'''Markos:''' ''Eh\u2014about that. I have a bit of a problem on my hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''Why am I not surprised?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "63",
+            "content": "*'''Markos:''' ''But it's something I know you could help me with, my friend! I know your credentials.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O5",
+            "global_id": "64",
+            "content": "(\"I'm listening.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Go on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "*'''Markos:''' ''You know me... I borrow some [[drachma]]e., and before I know it, they're calling me the Con of Kos! All thanks to the [[Cerberus brothers|Cerberus]]\u2014whom I owe the most.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''The Cerberus? First the [[Cyclops of Kephallonia|Cyclops]], and now this? Don't tell me it's a three-headed dog.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "68",
+            "content": "*'''Markos:''' ''Don't be ridiculous! This is nothing like the Cyclops. This time, I wish to make a peace offering\u2014with nothing less than my finest wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''\"Finest?\" Palatable, maybe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "70",
+            "content": "*'''Markos:''' ''Kassandra, you're like family to me. And since I'm family to you, I'm sure you wouldn't mind helping.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''You're sure, are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "72",
+            "content": "*'''Markos:''' ''I promise I can afford to pay you this time. Just take my wine to the Cerberus\u2014simple!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O6",
+            "global_id": "73",
+            "content": "(Accept \u2013 I'll bring the wine.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Fine. For old time's sake.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "75",
+            "content": "Kassandra took the wine from Markos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "76",
+            "content": "*'''Markos:''' ''I can always count on you! And the Cerberus can count on a nice wine pairing with dinner. Take it to his house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''The Cerberus better not bite me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "78",
+            "content": "Kassandra travelled to [[Astypalia City]], where the Cerberus lived in. She approached one of the men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Are you the Cerberus?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "80",
+            "content": "*'''Greek Soldier:''' ''Who wants to know?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Only one head.<br />A gift for you. Have you ever had Markos' wine? It's the best of the best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "82",
+            "content": "*'''Greek Soldier:''' ''What's so good about it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "84",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "85",
+            "content": "|-|Lie \u2013 It's sweet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''It's very... sweet. Perfect with chestnut bread.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "87",
+            "content": "|-|Lie \u2013 It's rich.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''If you savor your wine, you'll like it. It's very rich.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "89",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D55",
+            "global_id": "90",
+            "content": "*'''Greek Soldier:''' ''He's not gonna win me over with wine. I never forget whose purse my drachmae goes into.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "91",
+            "content": "Kassandra noticed several men surrounding her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''It's a peace offering. A thank you for waiting so patiently for him to pay you back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "93",
+            "content": "*'''Greek Soldier:''' ''Hmm. Then drink with me, if you think it's so good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "94",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS5",
+            "global_id": "95",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "96",
+            "content": "|-|Sure, I'll drink.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''All right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "98",
+            "content": "Kassandra sat down with the Cerberus to drink the wine. As they drank, the man coughed and stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "99",
+            "content": "*'''Greek Soldier:''' ''It's poisoned!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''No, that's just the wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "101",
+            "content": "*'''Greek Soldier:''' ''You tricked me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''I'm gonna be sick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "103",
+            "content": "*'''Greek Soldier:''' ''Guards! Guards!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "104",
+            "content": "Kassandra fled the area or killed the two men..",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D64",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''Ugh. Still have the taste of Markos' wine in my mouth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "106",
+            "content": "|-|No, thanks.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''The wine's yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "108",
+            "content": "*'''Greek Soldier:''' ''I insist.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I'm not thirsty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "110",
+            "content": "*'''Greek Soldier:''' ''You're hiding something. If you don't drink, I'll know it's poisoned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "111",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "112",
+            "content": "Fine, I'll drink too. =",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D69",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''All right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "114",
+            "content": "Kassandra sat down with the Cerberus to drink the wine. As they drank, the man coughed and stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "115",
+            "content": "*'''Greek Soldier:''' ''It's poisoned!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''No, that's just the wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "117",
+            "content": "*'''Greek Soldier:''' ''You tricked me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''I'm gonna be sick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "119",
+            "content": "*'''Greek Soldier:''' ''Guards! Guards!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "120",
+            "content": "Kassandra fled the area or killed the two men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "121",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "122",
+            "content": "I won't drink.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D75",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''It's not poison. Drink it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "124",
+            "content": "*'''Greek Soldier:''' ''You'd like that wouldn't you. I know Markos wants me dead, and now I want you dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "125",
+            "content": "*'''Greek Soldier:''' ''Guards! Guards!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "126",
+            "content": "Kassandra either fought and killed the two men or ran off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "127",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "128",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "129",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE5",
+            "global_id": "130",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

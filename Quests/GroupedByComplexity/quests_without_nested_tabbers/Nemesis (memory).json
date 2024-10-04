@@ -1,0 +1,67 @@
+{
+    "Quest_Name": "Nemesis (memory)",
+    "Quest_ID": "224630",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory | the Greek [[Nemesis (deity) | goddess]]"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Nemesis",
+        "description": "'Polemarch Lysander looked across the battlefield. He could taste success in the air. He only needed to seize it. It was then that he demanded Kassandra fight for Sparta in the Big Battle of Megaris.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Lysander}}",
+        "previous": "Know Your Enemy",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "424 BCE"
+    },
+    "General_Description": "'''Nemesis''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Having retrieved three ''[[polemarch]]oi'' seals, Kassandra was requested by the [[Sparta]]n general [[Lysander]] to join him in battle.",
+    "Section_Dialogue": "Kassandra spoke to Lysander.\n*'''Lysander:''' ''You played both sides, and now there is only one choice to make. But know this... I see events play out so clearly that even the [[Pythia|oracles]] envy me. Fight alongside me or not. Decide!''\n*'''Kassandra:''' ''Sparta is the only sure winner here.''\n*'''Lysander:''' ''Your mistake is believing success will make us friends.''\nKassandra joined the Spartans in battle, killing a number of Athenian soldiers. They ultimately won the battle.",
+    "Section_Outcome": "Kassandra helped Sparta to defeat the Athenian army in battle.",
+    "Section_Behind_the_scenes": "Accepting and completing \"Nemesis\" locks \"[[The Final Battle]]\" from [[Demosthenes]].\n\nGiven that the battle is possibly inspired by the historical [[Battle of Megaris|Battle of Megara]] in 424 BCE won by Athenian forces, this memory may be non-canon.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lysander",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "6.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra spoke to Lysander.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Lysander:''' ''You played both sides, and now there is only one choice to make. But know this... I see events play out so clearly that even the [[Pythia|oracles]] envy me. Fight alongside me or not. Decide!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Sparta is the only sure winner here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Lysander:''' ''Your mistake is believing success will make us friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra joined the Spartans in battle, killing a number of Athenian soldiers. They ultimately won the battle.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

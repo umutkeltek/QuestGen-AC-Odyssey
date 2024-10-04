@@ -1,0 +1,403 @@
+{
+    "Quest_Name": "The Battle of Pylos",
+    "Quest_ID": "224369",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | [[Battle of Pylos | the battle]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Battle of Pylos 6.png",
+        "description": "'With Spartan soldiers cornered at Pylos, Brasidas asked Kassandra to join forces with Sparta to help turn the tide of battle. It was also rumored that Alexios|Deimos was fighting for the Athens|Athenians.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "A Bloody Feast",
+        "next": "Doing Time",
+        "source": "Kassandra",
+        "location": "Messenia, Greece",
+        "date": "Summer 425 BCE"
+    },
+    "General_Description": "'''The Battle of Pylos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was requested to join [[Brasidas]] at the [[Battle of Pylos]].",
+    "Section_Dialogue": "===Spartan camp===\nEntering the Spartan camp is optional. Kassandra may instead enter the battle directly.\n\nLeaving [[Sparta]], Kassandra travelled to the Spartan camp in [[Pylos]], [[Messenia]]. She spoke to one of the [[Labotas|soldiers]] there.\n*'''Kassandra:''' ''Where's Brasidas?''\n*'''Labotas:''' ''What do you want with him?''\n\n<tabber>\n|-|None of your business.=\n*'''Kassandra:''' ''Don't question me\u2014take me to him.''\n*'''Labotas:''' ''It concerns Sparta, so it concerns me.''\n*'''Kassandra:''' ''If you were so \"concerned,\" you'd be with your brothers preparing for battle. Now let's go.''\n|-|He's a friend.=\n*'''Kassandra:''' ''We fought together.''\n*'''Labotas:''' ''A friend?''\n*'''Kassandra:''' ''Yes... and a friend of Sparta. Now take me to him.''\n</tabber>\n*'''Labotas:''' ''Stop. I have orders\u2014stand guard and wait for reinforcements. They were due two nights ago.''\n\n<tabber>\n|-|I am your reinforcements.=\n*'''Kassandra:''' ''You can stop waiting. I've arrived.''\n*'''Labotas:''' ''You?! The [[Athens|Athenians]] are dogs at our throats. You won't talk so tough once you see them.''\n*'''Kassandra:''' ''I join you, and all they'll see is the [[Charon|ferryman]].''\n*'''Labotas:''' ''Ha! Well met, warrior. You better fight as good as you talk. Come. We go to Brasidas.''\n|-|They're not coming.=\n*'''Kassandra:''' ''I didn't see any of your ships when I came in, but I can help.''\n*'''Labotas:''' ''They're... sunk? My father was the captain on one of those ships. Come. Pledge your [[Spear of Leonidas|spear]] to Brasidas.''\n</tabber>\nKassandra, Labotas and the rest of the Spartans entered the fray.\n\n===Battle===\n[[File:ACOD The Battle of Pylos 3.png|thumb|250px|Deimos entering the battlefield]]\nAfter Kassandra eliminated several Athenian soldiers, she and the other Spartans witnessed [[Alexios|Deimos]] marching onto the battlefield wielding the [[Sword of Damokles]], fighting for Athens. Brasidas charged at him. Kassandra yelled out.\n*'''Kassandra:''' ''Brasidas!''\n*'''Brasidas:''' ''Yaaaarh!''\nDeimos deflected Brasidas' attack and felled him with apparent ease.\n[[File:ACOD The Battle of Pylos 5.png|thumb|250px|Kassandra confronting Deimos]]\n*'''Kassandra:''' ''Deimos! ...This fight is between you and me.''\n*'''Deimos:''' ''And it is one you can not win.''\nKassandra and Deimos engaged with each other.\n*'''Kassandra:''' ''If Brasidas dies, his blood is on your hands.''\n*'''Deimos:''' ''His, yours, and every one of your friends'.''\n*'''Kassandra:''' ''Are you mad?! We can still stop\u2014''\n*'''Deimos:''' ''Enough! We will not stop.''\n*'''Kassandra:''' ''I don't want to kill you, Alexios. But I ''will'' stop you.''\n*'''Deimos:''' ''My name is Deimos!''\nThey fought to a stalemate, clashing their weapons together.\n*'''Kassandra:''' ''If we continue, one of us will die.''\n*'''Deimos:''' ''Isn't that the point?''\nThey jumped back from each other.\n*'''Kassandra:''' ''I found ''[[Myrrine|mater]].\n*'''Deimos:''' ''Finally reunited, only to lose each other again.''\nAs Deimos rushed in to pounce on Kassandra, a large burning tree fell onto him.\n\n<tabber>\n|-|You made your choice.=\nKassandra stepped forward. While she looked at Deimos' body, another burning tree fell, landing on top of her.\n|-|Hold on!=\nKassandra stepped forward, preparing to help free Deimos. However, another burning tree fell, landing on top of her.\n</tabber>",
+    "Section_Spartan_camp": "Entering the Spartan camp is optional. Kassandra may instead enter the battle directly.\n\nLeaving [[Sparta]], Kassandra travelled to the Spartan camp in [[Pylos]], [[Messenia]]. She spoke to one of the [[Labotas|soldiers]] there.\n*'''Kassandra:''' ''Where's Brasidas?''\n*'''Labotas:''' ''What do you want with him?''\n\n<tabber>\n|-|None of your business.=\n*'''Kassandra:''' ''Don't question me\u2014take me to him.''\n*'''Labotas:''' ''It concerns Sparta, so it concerns me.''\n*'''Kassandra:''' ''If you were so \"concerned,\" you'd be with your brothers preparing for battle. Now let's go.''\n|-|He's a friend.=\n*'''Kassandra:''' ''We fought together.''\n*'''Labotas:''' ''A friend?''\n*'''Kassandra:''' ''Yes... and a friend of Sparta. Now take me to him.''\n</tabber>\n*'''Labotas:''' ''Stop. I have orders\u2014stand guard and wait for reinforcements. They were due two nights ago.''\n\n<tabber>\n|-|I am your reinforcements.=\n*'''Kassandra:''' ''You can stop waiting. I've arrived.''\n*'''Labotas:''' ''You?! The [[Athens|Athenians]] are dogs at our throats. You won't talk so tough once you see them.''\n*'''Kassandra:''' ''I join you, and all they'll see is the [[Charon|ferryman]].''\n*'''Labotas:''' ''Ha! Well met, warrior. You better fight as good as you talk. Come. We go to Brasidas.''\n|-|They're not coming.=\n*'''Kassandra:''' ''I didn't see any of your ships when I came in, but I can help.''\n*'''Labotas:''' ''They're... sunk? My father was the captain on one of those ships. Come. Pledge your [[Spear of Leonidas|spear]] to Brasidas.''\n</tabber>\nKassandra, Labotas and the rest of the Spartans entered the fray.",
+    "Section_Battle": "[[File:ACOD The Battle of Pylos 3.png|thumb|250px|Deimos entering the battlefield]]\nAfter Kassandra eliminated several Athenian soldiers, she and the other Spartans witnessed [[Alexios|Deimos]] marching onto the battlefield wielding the [[Sword of Damokles]], fighting for Athens. Brasidas charged at him. Kassandra yelled out.\n*'''Kassandra:''' ''Brasidas!''\n*'''Brasidas:''' ''Yaaaarh!''\nDeimos deflected Brasidas' attack and felled him with apparent ease.\n[[File:ACOD The Battle of Pylos 5.png|thumb|250px|Kassandra confronting Deimos]]\n*'''Kassandra:''' ''Deimos! ...This fight is between you and me.''\n*'''Deimos:''' ''And it is one you can not win.''\nKassandra and Deimos engaged with each other.\n*'''Kassandra:''' ''If Brasidas dies, his blood is on your hands.''\n*'''Deimos:''' ''His, yours, and every one of your friends'.''\n*'''Kassandra:''' ''Are you mad?! We can still stop\u2014''\n*'''Deimos:''' ''Enough! We will not stop.''\n*'''Kassandra:''' ''I don't want to kill you, Alexios. But I ''will'' stop you.''\n*'''Deimos:''' ''My name is Deimos!''\nThey fought to a stalemate, clashing their weapons together.\n*'''Kassandra:''' ''If we continue, one of us will die.''\n*'''Deimos:''' ''Isn't that the point?''\nThey jumped back from each other.\n*'''Kassandra:''' ''I found ''[[Myrrine|mater]].\n*'''Deimos:''' ''Finally reunited, only to lose each other again.''\nAs Deimos rushed in to pounce on Kassandra, a large burning tree fell onto him.\n\n<tabber>\n|-|You made your choice.=\nKassandra stepped forward. While she looked at Deimos' body, another burning tree fell, landing on top of her.\n|-|Hold on!=\nKassandra stepped forward, preparing to help free Deimos. However, another burning tree fell, landing on top of her.\n</tabber>",
+    "Section_Outcome": "Kassandra participated in the Battle of Pylos, where she met and fought against Deimos. She and Deimos were later trapped by falling burning trees.",
+    "Section_Trivia": "*The dialogue in the beginning can be skipped. The players can simply enter the battlefield and the memory will proceed accordingly.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La bataille de Pylos]]",
+    "Chapter_SequenceID": "20.",
+    "Chapter_Name": "The Cultist King",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "PC1",
+            "global_id": "1",
+            "content": "===Spartan camp===",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Entering the Spartan camp is optional. Kassandra may instead enter the battle directly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Leaving [[Sparta]], Kassandra travelled to the Spartan camp in [[Pylos]], [[Messenia]]. She spoke to one of the [[Labotas|soldiers]] there.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Where's Brasidas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Labotas:''' ''What do you want with him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|None of your business.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Don't question me\u2014take me to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Labotas:''' ''It concerns Sparta, so it concerns me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''If you were so \"concerned,\" you'd be with your brothers preparing for battle. Now let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "13",
+            "content": "|-|He's a friend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''We fought together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Labotas:''' ''A friend?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Yes... and a friend of Sparta. Now take me to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Labotas:''' ''Stop. I have orders\u2014stand guard and wait for reinforcements. They were due two nights ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "20",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "21",
+            "content": "|-|I am your reinforcements.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''You can stop waiting. I've arrived.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Labotas:''' ''You?! The [[Athens|Athenians]] are dogs at our throats. You won't talk so tough once you see them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I join you, and all they'll see is the [[Charon|ferryman]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Labotas:''' ''Ha! Well met, warrior. You better fight as good as you talk. Come. We go to Brasidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "26",
+            "content": "|-|They're not coming.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I didn't see any of your ships when I came in, but I can help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Labotas:''' ''They're... sunk? My father was the captain on one of those ships. Come. Pledge your [[Spear of Leonidas|spear]] to Brasidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "29",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "30",
+            "content": "Kassandra, Labotas and the rest of the Spartans entered the fray.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC6",
+            "global_id": "32",
+            "content": "===Battle===",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "I1",
+            "global_id": "33",
+            "content": "[[File:ACOD The Battle of Pylos 3.png|thumb|250px|Deimos entering the battlefield]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "After Kassandra eliminated several Athenian soldiers, she and the other Spartans witnessed [[Alexios|Deimos]] marching onto the battlefield wielding the [[Sword of Damokles]], fighting for Athens. Brasidas charged at him. Kassandra yelled out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Brasidas!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "36",
+            "content": "*'''Brasidas:''' ''Yaaaarh!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "37",
+            "content": "Deimos deflected Brasidas' attack and felled him with apparent ease.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "38",
+            "content": "[[File:ACOD The Battle of Pylos 5.png|thumb|250px|Kassandra confronting Deimos]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D18",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Deimos! ...This fight is between you and me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "40",
+            "content": "*'''Deimos:''' ''And it is one you can not win.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "41",
+            "content": "Kassandra and Deimos engaged with each other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''If Brasidas dies, his blood is on your hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Deimos:''' ''His, yours, and every one of your friends'.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Are you mad?! We can still stop\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "45",
+            "content": "*'''Deimos:''' ''Enough! We will not stop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I don't want to kill you, Alexios. But I ''will'' stop you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "47",
+            "content": "*'''Deimos:''' ''My name is Deimos!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "48",
+            "content": "They fought to a stalemate, clashing their weapons together.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''If we continue, one of us will die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "50",
+            "content": "*'''Deimos:''' ''Isn't that the point?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "51",
+            "content": "They jumped back from each other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''I found ''[[Myrrine|mater]].",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "53",
+            "content": "*'''Deimos:''' ''Finally reunited, only to lose each other again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "54",
+            "content": "As Deimos rushed in to pounce on Kassandra, a large burning tree fell onto him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "55",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "56",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "57",
+            "content": "|-|You made your choice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N10",
+            "global_id": "58",
+            "content": "Kassandra stepped forward. While she looked at Deimos' body, another burning tree fell, landing on top of her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC8",
+            "global_id": "59",
+            "content": "|-|Hold on!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N11",
+            "global_id": "60",
+            "content": "Kassandra stepped forward, preparing to help free Deimos. However, another burning tree fell, landing on top of her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "61",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

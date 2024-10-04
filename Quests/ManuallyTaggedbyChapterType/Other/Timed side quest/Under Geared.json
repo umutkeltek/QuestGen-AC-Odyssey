@@ -1,0 +1,42 @@
+{
+    "QuestName": "Under Geared",
+    "QuestID": "236226",
+    "Revision": {
+        "id": "1047511",
+        "parentid": "841488",
+        "timestamp": "2023-06-13T19:24:47Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047511",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "9d274jqkiomrvb3l997upv7qnemjxk5"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'While athletes traditionally competed naked, they still had equipment that needed to be looked after. Missing javelins were reported after a series of thefts.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Under Geared''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An athlete drew Kassandra's attention to the [[Thief|thieves]] in the city.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire,'' friend. Anything a [[mercenary]] can do for you?''\n*'''Athlete:''' ''Is nothing safe from thieves in this city? Even the athletic equipment has been stolen.''\n*'''Kassandra:''' ''What equipment? Most of the athletes I've seen barely wear clothes.''\n*'''Athlete:''' ''The javelins,'' misthios''. Stop thinking about naked athletes and help us with these thieves!''\n\n<tabber>\n|-|You want the supplies brought back to you.=\n*'''Kassandra:''' ''You want me to get it from the bandits?''\n*'''Athlete:''' ''It should be an easy task for someone with your talent.''\n|-|You want them all killed.=\n*'''Kassandra:''' ''\n*'''Athlete:''' ''\n</tabber>\n(Accept \u2013 I'll bring it to you.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Athlete:''' ''Braver than you look. Good luck.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra left the athlete, and sought out the bandits' camp. Within, she found the missing javelin, and returned to the athlete.\n*'''Athlete:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Athlete:''' ''Job well done, mercenary. Here, this is yours.''\n*'''Kassandra:''' ''All in a day's work.''\nThe athlete rewarded Kassandra for her help.",
+    "Section_Outcome": "Kassandra helped an athlete with their problem, and was rewarded with [[drachma]]e.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

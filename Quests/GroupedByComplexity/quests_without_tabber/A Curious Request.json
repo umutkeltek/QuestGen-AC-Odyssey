@@ -1,0 +1,114 @@
+{
+    "Quest_Name": "A Curious Request",
+    "Quest_ID": "225273",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD LotFBH A Curious Request - Ide and Kassandra.png",
+        "description": "'Kassandra heard a cry for help from an Ide|old lady and freed her from imprisonment.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Side",
+        "next": "Taking Out the Competition",
+        "source": "Kassandra",
+        "location": "Makedonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''A Curious Request''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Drawn by the cries of help, Kassandra infiltrated the [[Ischagoras Military Camp]], and found an elderly [[Ide|lady]] tied up within.",
+    "Section_Dialogue": "During her time in [[Makedonia]], Kassandra drew near the Ischagoras Military Camp. She infiltrated the camp and began dispatching the guards within, then overheard a woman tied up in a nearby tent out to her for help.\n*'''Civilian:''' ''I'm over here! I need your help breaking out!''\nKassandra made quick work of the remaining guards and untied the woman.\n*'''Civilian:''' ''Let's get the fuck out of here!''\nKassandra escorted the woman to safety.\n*'''Civilian:''' ''[[Mercenary|Misthios]], thank you! Those fuckers thought they could hold me, but they just didn't understand. No prison can hold me. Nobody can hold me down. Not even that stupid [[Order of the Ancients|Order]]...''\n*'''Kassandra:''' ''Right...''\n*'''Civilian:''' ''They were ruining my favorite wine-drinking view with all their mercenaries. No one wants to see trashy mercenaries around their homes.<br>No offense.''\n*'''Kassandra:''' ''None taken.''\n*'''Civilian:''' ''You know, I overheard them say they had brought another three mercenaries here. Can you believe that?''\n(Accept \u2013 \"I can kill some mercenaries for you.\")\n*'''Kassandra:''' ''I'll help get your view back.''\n*'''Civilian:''' ''Fuck yes! There's three mercenaries, remember. Once they're gone, I'd love to share a cup of wine with you in my spot. Even if you are a misthios yourself.''\n*'''Kassandra:''' ''I'd like that.''",
+    "Section_Outcome": "Kassandra freed Ide and escorted her out of the camp to safety. The old woman requested her help in eliminating several mercenaries.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "During her time in [[Makedonia]], Kassandra drew near the Ischagoras Military Camp. She infiltrated the camp and began dispatching the guards within, then overheard a woman tied up in a nearby tent out to her for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''I'm over here! I need your help breaking out!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra made quick work of the remaining guards and untied the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Civilian:''' ''Let's get the fuck out of here!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra escorted the woman to safety.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Civilian:''' ''[[Mercenary|Misthios]], thank you! Those fuckers thought they could hold me, but they just didn't understand. No prison can hold me. Nobody can hold me down. Not even that stupid [[Order of the Ancients|Order]]...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Right...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Civilian:''' ''They were ruining my favorite wine-drinking view with all their mercenaries. No one wants to see trashy mercenaries around their homes.<br>No offense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''None taken.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Civilian:''' ''You know, I overheard them say they had brought another three mercenaries here. Can you believe that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "11",
+            "content": "(Accept \u2013 \"I can kill some mercenaries for you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll help get your view back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Civilian:''' ''Fuck yes! There's three mercenaries, remember. Once they're gone, I'd love to share a cup of wine with you in my spot. Even if you are a misthios yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'd like that.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

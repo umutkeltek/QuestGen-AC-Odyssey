@@ -1,0 +1,39 @@
+{
+    "QuestName": "Down From On High",
+    "QuestID": "225602",
+    "Revision": {
+        "id": "1047200",
+        "parentid": "990968",
+        "timestamp": "2023-06-13T02:54:12Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047200",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "24az2ukwejm0naepeloroazmldpd65q"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'One of the villagers of Linou Farm|Linou who needed Kassandra's help was Heriphile, a shepherdess. When her flock was attacked by Wolf|wolves, she lost her eagle totem. She asked her idol, Kassandra, to recover it.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Bad Weed",
+        "next": "The Wild Hunt",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "431\u2013422 BCE"
+    },
+    "General_Description": "'''Down From On High''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke with [[Heriphile]] at the [[Linou Farm|farm]].",
+    "Section_Dialogue": "Kassandra went over to the shepherdess, who was shocked to see her.\n\n*'''Heriphile:''' ''By... by the gods! It's... it's you!''\n*'''Kassandra:''' ''Yes, well, it certainly is me. You are a shepherdess?''\n*'''Heriphile:''' ''You know me! You know me so well!''\n*'''Kassandra:''' ''Tell me what happened.''\n*'''Heriphile:''' ''I was herding my flock when... it was horrible! Wolves! Blood and screams everywhere!''\n*'''Kassandra:''' ''Did you get hurt?''\n*'''Heriphile:''' ''No... you protected me.''\n*'''Kassandra:''' ''I did?''\n*'''Heriphile:''' ''I carry your totem, to pray to, to watch over me. But... I was so scared I dropped my totem as I ran.''\n*'''Kassandra:''' ''I can look for your totem.''\n*'''Heriphile:''' ''Oh! Thank you! Thank you! Thank you! Thank you!''\n\n(If players choose \"Where did the attack happen?\")\n\n*'''Kassandra:''' ''Where were you attacked?''\n*'''Heriphile:''' ''I was leading my flock to pasture through the forest south of the city. I know others have heard wolves howling there on many nights, but I took a chance.''\n\n(If players choose \"What can you tell me about the totem?\")\n\n*'''Kassandra:''' ''Tell me about this totem.''\n*'''Heriphile:''' ''It's... a simple thing. An eagle of rough wood and crudely fashioned. It does not come close to capturing your divine glory, but still, it has kept me safe until now.''\n*'''Kassandra:''' ''Ah. I, uh, wish it had protected you better.''\n*'''Heriphile:''' ''No! It is I who must apologize to you for losing it. I feared you would be angry with me.''\n*'''Kassandra:''' ''No, no, of course not.''\n\n(If players choose \"I'll look for the totem.\")\n\n*'''Kassandra:''' ''I'll look for your lost totem.''\n\nBefore she left, she talked to her once more.\n\n*'''Heriphile:''' ''Eagle Bearer, have you found my totem yet? The forest has become so dangerous now because of the wolves. I hope you find it.''\n\nReaching the area where Heriphile was attacked, she noticed animal tracks on the ground.\n\n*'''Kassandra:''' ''Wolf spoor. They must den near here.''\n\nThere was discarded basket nearby.\n\n*'''Kassandra:''' ''Heriphile must have dropped this basket when the wolves attacked.''\n\nShe saw a blood trail.\n\n*'''Kassandra:''' ''Blood trail. The pack went this way.''\n\nNear the blood trail was a dead sheep.\n\n*'''Kassandra:''' ''One of Heriphile's flock. Or what's left of him after the wolf's breakfast.''\n\nShe noticed a cave not that far away.\n\n*'''Kassandra:''' ''That must be the den of the wolves that attacked Heriphile's flock. Worth a look.''\n\nShe took care of the wolves, and saw a bag among the carcasses.\n\n*'''Kassandra:''' ''Remarkable that a wolf dragged this bag here. Almost like it was driven. Here is the totem.''\n\nShe returned to Heriphile.\n\n*'''Heriphile:''' ''Invincible Eagle Bearer, the priestess said you battled the wolves as if guided by blood-stained Ares himself.''\n*'''Kassandra:''' ''How did she know that?''\n*'''Heriphile:''' ''She burns offerings of young goats to see signs of your passage! She said you found my totem!''\n\n<Tabber>\n|-|It was just luck.=\n*'''Kassandra:''' ''It was luck that I was able to find it. The wolves had dragged it deep into their den. Here you go.''\n*'''Heriphile:''' ''Gratitude, Eagle Bearer! Would you bless it for me?''\n*'''Kassandra:''' ''You don't need my blessing. Just watch the world around you. And you can call me Kassandra.''\n*'''Heriphile:''' ''Thank you, Eagle... Kassandra.''\n|-|I see many things others cannot.=\n*'''Kassandra:''' ''The world is hard and has shaped me to be able to see things and overcome challenges others cannot.''\n*'''Heriphile:''' ''We owe everything to you, your greatness. We will not let you down.''\n*'''Kassandra:''' ''I know you won't.''\n</Tabber>",
+    "Section_Outcome": "Kassandra helped Heriphile deal with a den of wolves, and found her good luck totem.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

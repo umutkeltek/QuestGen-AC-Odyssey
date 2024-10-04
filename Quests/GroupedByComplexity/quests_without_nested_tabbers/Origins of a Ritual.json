@@ -1,0 +1,98 @@
+{
+    "Quest_Name": "Origins of a Ritual",
+    "Quest_ID": "224454",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Origins of a Ritual 1.png",
+        "description": "'Eppie's clue indicated a stele piece was taken to a Burned Temple of Charites|temple within Orchomenos|Orchomenos City. The wealthy would have understood its value for rituals and hoarded it jealously.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Eppie}}",
+        "previous": "Chasing Phantoms",
+        "next": "The Tribute",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Origins of a Ritual''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Eppie]] tasked Kassandra to recover the stele piece in the city of [[Orchomenos]].",
+    "Section_Dialogue": "Kassandra made her way to Orchomenos, heading towards the [[Burned Temple of Charites|temple]] of the [[Charites]] mentioned by Eppie. There, she found it to have been burned down.\n*'''Kassandra:''' ''Someone's beaten me to it. I'll have to take a closer look.''\nKassandra investigated a torn scarf near the entrance.\n*'''Kassandra:''' ''A battered scarf. I'm looking for someone with torn clothes...''\nShe entered the ruins and found a broken pot.\n*'''Kassandra:''' ''These pots were broken before the fire.''\nShe spoke to a [[Augeia|woman]] who was investigating the burning nearby.\n*'''Augeia:''' ''Is nothing sacred? Ancient and valuable relics were housed in this temple. Now the scum has taken it all and burned it down.''\n*'''Kassandra:''' ''They've burned it to cover their tracks.''\n*'''Augeia:''' ''The scum ran off towards town with an armload of our most sacred items. Likely in the beggars' quarter, from the look of him.''\nFollowing the woman's advice, Kassandra headed towards the beggar quarters of the city. There, she found the culprit and eliminated him, recover the stele and a [[Rusty Mycenaean Armor|chestpiece]] from his body.",
+    "Section_Outcome": "Kassandra recovered the stele piece hidden in the temple of the Charites in Orchomenos.",
+    "Section_Behind_the_scenes": "If the culprit is not killed, he can be knocked out and recruited as a lieutenant for the ''Adrestia''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Eppie",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to Orchomenos, heading towards the [[Burned Temple of Charites|temple]] of the [[Charites]] mentioned by Eppie. There, she found it to have been burned down.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Someone's beaten me to it. I'll have to take a closer look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra investigated a torn scarf near the entrance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''A battered scarf. I'm looking for someone with torn clothes...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She entered the ruins and found a broken pot.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''These pots were broken before the fire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "She spoke to a [[Augeia|woman]] who was investigating the burning nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Augeia:''' ''Is nothing sacred? Ancient and valuable relics were housed in this temple. Now the scum has taken it all and burned it down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''They've burned it to cover their tracks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Augeia:''' ''The scum ran off towards town with an armload of our most sacred items. Likely in the beggars' quarter, from the look of him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "11",
+            "content": "Following the woman's advice, Kassandra headed towards the beggar quarters of the city. There, she found the culprit and eliminated him, recover the stele and a [[Rusty Mycenaean Armor|chestpiece]] from his body.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

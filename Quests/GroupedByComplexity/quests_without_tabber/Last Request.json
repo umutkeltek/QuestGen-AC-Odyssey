@@ -1,0 +1,169 @@
+{
+    "Quest_Name": "Last Request",
+    "Quest_ID": "223696",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Last Request.png",
+        "description": "'Though steeped in blood, Demosthenes pursued his course. Far better to take Spartan lives than lose Athens|Athenian ones.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Demosthenes}}",
+        "previous": "Swift as Wind",
+        "next": "The Final Battle",
+        "source": "Kassandra",
+        "location": "Athens, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Last Request''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to the [[Athens|Athenian]] general [[Demosthenes]], who wanted her help one last time.",
+    "Section_Dialogue": "*'''Kassandra:''' ''I might. What would you like me to do?''\n*'''Demosthenes:''' ''You've impressed me, [[Mercenary|misthios]].''\n*'''Kassandra:''' ''For a [[Sparta]]n.''\n*'''Demosthenes:''' ''Yes, as you say. It seems our fleet is under attack, and I need to redirect the troops to help. I will ask you to take on the Spartan command again.''\n*'''Kassandra:''' ''The [[Polemarch|commanders]] will be taken care of.''\n(If players choose \"Why is Athens at war?\")\n*'''Kassandra:''' ''You seem to admire art and philosophy... But how can someone who truly values that go to [[Peloponnesian War|war]]?''\n*'''Demosthenes:''' ''If you have any care for knowledge or the arts, you must be ready to defend these rights. I am here to take up arms so that they can continue to enrich our culture. As long as they are threatened, battle must be fought.''\n(If players choose \"Why does a general support democracy?\")\n*'''Kassandra:''' ''You expect total obedience from your soldiers, I suppose. So why do you fight for [[democracy]]?''\n*'''Demosthenes:''' ''What is free will? It's essential that citizens play an active role in the function of their state.''\n*'''Kassandra:''' ''But Athens recognizes only ''select'' citizens. Spartans recognize merit. In Sparta, a [[Helot|slave]] can rise.''\n*'''Demosthenes:''' ''Spartan rule would mean the demise of democracy.''\n(Leave - \"I'll leave now.\")\n*'''Kassandra:''' ''I'll leave now.''\nKassandra returns to Demosthenes with the seals.\n*'''Demosthenes:''' ''Perhaps [[Athena]] was smiling down upon Athens when she sent you to me. You've far surpassed my expectations.''\n*'''Kassandra:''' ''I always aim to do a good job.''\n*'''Demosthenes:''' ''You have. Beyond that, you've shown an understanding of war and its price. That's a lesson some never learn. This General [[Lysander]], you know him?''\n*'''Kassandra:''' ''What Spartan doesn't?''\n*'''Demosthenes:''' ''If he's as good as he seems, then I'm even more grateful for your help. I respect his reputation, if not the man.''\n*'''Kassandra:''' ''War changes the rules for us all.''\n*'''Demosthenes:''' ''So it does. Thank you, [[Ikaros|Eagle]] Bearer. I'm sure we'll meet again.''",
+    "Section_Outcome": "Kassandra helped Demosthenes get rid of the Spartan polemarchs for the last time, and he gave her his last [[Demosthenes' Gauntlets|piece]] of armor.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Demosthenes",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''I might. What would you like me to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Demosthenes:''' ''You've impressed me, [[Mercenary|misthios]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''For a [[Sparta]]n.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Demosthenes:''' ''Yes, as you say. It seems our fleet is under attack, and I need to redirect the troops to help. I will ask you to take on the Spartan command again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''The [[Polemarch|commanders]] will be taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "6",
+            "content": "(If players choose \"Why is Athens at war?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You seem to admire art and philosophy... But how can someone who truly values that go to [[Peloponnesian War|war]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Demosthenes:''' ''If you have any care for knowledge or the arts, you must be ready to defend these rights. I am here to take up arms so that they can continue to enrich our culture. As long as they are threatened, battle must be fought.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "9",
+            "content": "(If players choose \"Why does a general support democracy?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You expect total obedience from your soldiers, I suppose. So why do you fight for [[democracy]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Demosthenes:''' ''What is free will? It's essential that citizens play an active role in the function of their state.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''But Athens recognizes only ''select'' citizens. Spartans recognize merit. In Sparta, a [[Helot|slave]] can rise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Demosthenes:''' ''Spartan rule would mean the demise of democracy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Leave - \"I'll leave now.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I'll leave now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "16",
+            "content": "Kassandra returns to Demosthenes with the seals.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Demosthenes:''' ''Perhaps [[Athena]] was smiling down upon Athens when she sent you to me. You've far surpassed my expectations.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I always aim to do a good job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Demosthenes:''' ''You have. Beyond that, you've shown an understanding of war and its price. That's a lesson some never learn. This General [[Lysander]], you know him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What Spartan doesn't?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "21",
+            "content": "*'''Demosthenes:''' ''If he's as good as he seems, then I'm even more grateful for your help. I respect his reputation, if not the man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''War changes the rules for us all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "23",
+            "content": "*'''Demosthenes:''' ''So it does. Thank you, [[Ikaros|Eagle]] Bearer. I'm sure we'll meet again.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

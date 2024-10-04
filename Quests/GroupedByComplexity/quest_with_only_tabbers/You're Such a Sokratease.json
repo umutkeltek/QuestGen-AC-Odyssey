@@ -1,0 +1,640 @@
+{
+    "Quest_Name": "You're Such a Sokratease",
+    "Quest_ID": "234808",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_c": {
+            "description": "concurrent"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD You're Such a Sokratease 6.png",
+        "description": "'Kassandra returned to Sokrates and found her action weren't in vain.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "'The Lost Tales of Greece'",
+        "previous": "Persuasion Check {{c|concurrent}}<br />Deposition Opposition {{c|concurrent}}",
+        "source": "Kassandra",
+        "location": "Kirrha, Phokis, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''You're Such a Sokratease''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Sokrates]] again.",
+    "Section_Dialogue": "Kassandra met with Sokrates at the [[Leader House, Phokis|leader house]].\n*'''Kassandra:''' ''Sokrates? You're... here.''\n*'''Sokrates:''' ''I am!''\n*'''Kassandra:''' ''What happened? The trial couldn't have taken place that quickly.''\n*'''Sokrates:''' ''Had I been given the chance to defend myself, it would have been quick indeed. But unfortunately for me, I was let free before I could.''\n*'''Kassandra:''' ''That's good news.''\n*'''Sokrates:''' ''Apparently those who had charges to bring against me were found dead, and evidence they claimed to have missing.''\n*'''Kassandra:''' ''It sounds like someone was looking out for you.''\n*'''Sokrates:''' ''There were also some people protesting my arrest, I was told. I have to ask... Did you have something to do with this?''\n\n<tabber>\n|-|I helped free you.=\n*'''Kassandra:''' ''Do you really need to ask?''\n*'''Sokrates:''' ''No, but you still deserved the chance to answer.''\n|-|Lie \u2013 It wasn't me.=\n*'''Kassandra:''' ''Me? Kill? Steal? Arrange protests?''\n*'''Sokrates:''' ''Yes.''\n*'''Kassandra:''' ''It does sound like me, but it was someone else this time.''\n*'''Sokrates:''' ''I'm glad I asked.''\n</tabber>\n\n*'''Kassandra:''' ''Did you have time to find an answer for the [[Pythia (431 BCE)|Pythia]]'s words?''\n*'''Sokrates:''' ''I thought it would have taken me much longer than it did, but the moment I stopped thinking about it, it came to me like a flash of [[Jupiter|Zeus]]'s lightning.''\n\n(\"What was the answer?\")\n*'''Kassandra:''' ''So do you agree with the Pythia or not?''\n*'''Sokrates:''' ''The [[Greek mythology|Gods]] cannot lie, yet I know that I know nothing. I had to understand what it meant to for one who knows nothing to be called wise. I realized that though the Pythia said my name, she did not mean me.''\n*'''Kassandra:''' ''Who did she mean then?''\n*'''Sokrates:''' ''That is not an answer I'd yet like to voice. It's one that people may not want to hear, and I must think on how I wish to share my new beliefs with Athens.''\n*'''Kassandra:''' ''Whatever it is, be careful. I don't want to find you've been arrested again.''\n\n(Leave \u2013 Let's get you home.)\n*'''Kassandra:''' ''We should get you home. I'm sure you'll be more comfortable there.''\n*'''Sokrates:''' ''In some ways, that will be true. In others... Well, [[Xanthippe]] will decide that.''\n[[File:ACOD You're Such a Sokratease 2.png|thumb|250px|Kassandra escorting Sokrates]]\nKassandra escorted Sokrates home.\n*'''Sokrates:''' ''Being free feels good, but I don't believe Xanthippe will be happy with me.''\n*'''Kassandra:''' ''She has good reason to be mad this time.''\n*'''Sokrates:''' ''We argue often about how I need to be careful with what I say and where I say it. This will only give her more cause to bring it up.''\n*'''Kassandra:''' ''That doesn't sound very fun.''\n*'''Sokrates:''' ''Oh, you misunderstand. I love it.''\n*'''Kassandra:''' ''You do?''\n*'''Sokrates:''' ''People see Xanthippe and believe it's her beauty that drew me to her, but it's her argumentative spirit I lust for.''\n*'''Kassandra:''' ''Nobody ever likes that about me.''\n*'''Sokrates:''' ''Having my opinions and thoughts challenged helps me refine them and to grow as a person.''\n*'''Kassandra:''' ''And... she likes these arguments?''\n*'''Sokrates:''' ''Oh, I doubt it. But it's in those fiery moments that her spirit is strongest, like an untamed [[horse]].''\n*'''Kassandra:''' ''Don't call her a horse to her face.''\n*'''Sokrates:''' ''I'm afraid your advice is a bit too late.''\n\nThey were attacked by [[Cult of Kosmos|Cultist]] [[Soldier|guards]].\n*'''Kassandra:''' ''Get somewhere safe, Sokrates!''\nKassandra killed them all.\n*'''Sokrates:''' ''I wonder what that was about.''\n*'''Kassandra:''' ''With the things I do, it's sometimes hard to know.''\n*'''Sokrates:''' ''Let's hurry back before anything else happens.''\n\nKassandra resumed escorting Sokrates. At the gateway of [[Kirrha]], they met Xanthippe.\n*'''Xanthippe:''' ''You came back. Finally. I'm ready to return to Athens. I've had enough of [[Phokis]] and this talk of the Pythia.''\n*'''Sokrates:''' ''You will be happy to hear I have no need for her words any longer.''\n*'''Xanthippe:''' ''Then something positive came out of this after all.''\n*'''Kassandra:''' ''I just remembered... a student of yours has been taking notes of your teachings. He wanted you to have them.''\n[[File:ACOD You're Such a Sokratease 5.png|thumb|250px|Sokrates burning the scroll]]\nKassandra handed Sokrates the teachings. Sokrates looked at the scroll for a moment, before tossing it into the nearby brazier.\n*'''Kassandra:''' ''What did you do that for?''\n*'''Sokrates:''' ''Nobody asked him to write down my words.''\n*'''Kassandra:''' ''Even so, why not keep it? Share it with others.''\n*'''Sokrates:''' ''Because of a story I was told as a boy.''\n\n<tabber>\n|-|Tell me the story.=\n*'''Kassandra:''' ''Alright, let's hear it.''\n*'''Sokrates:''' ''The king of [[Egypt]], [[Thamus]], was visited by the [[Egyptian mythology|god]] [[Thoth|Theuth]]. Theuth offered the invention of writing to the king and told him it was an elixir of memory and wisdom. But Thamus disagreed. He believed the people would no longer use their memories, for they would simply read instead. These written words would not offer true wisdom, but only the appearance of such.''\n*'''Kassandra:''' ''You don't want your words written down so others can't use them to pretend to be smart.''\n*'''Sokrates:''' ''Much like creatures in a painting, the words sit there unmoving. If you ask them a question, they will preserve a solemn silence, and no matter how many times you ask, they will only ever say the same thing. They cannot defend their message.''\n*'''Kassandra:''' ''That's the part you like. The defense of your words.''\n*'''Sokrates:''' ''All who speak should defend their words if questioned about them. ''That'' is why I choose to speak and not write, that is why any words of mine that last beyond my final breath will be those that people choose to remember. Those words will be true wisdom, and not an illusion.''\n|-|No stories, please.=\n*'''Kassandra:''' ''I've had my fill of stories.''\n*'''Sokrates:''' ''Then I'll save it for another time, should it be relevant. But know I did it for a good reason, and it was my decision to make.''\n</tabber>\n\n(\"What are you going to do now?\")\n*'''Kassandra:''' ''What's you plan now?''\n*'''Sokrates:''' ''After I return to [[Athens]], there is much I need to consider.''\n*'''Kassandra:''' ''You'll be careful, right?''\n*'''Sokrates:''' ''If I have to choose between saying nothing and staying safe, or speaking up and risking my life, the choice is easy.''\n\n(Leave \u2013 It's time for me to go.)\n*'''Kassandra:''' ''I should get going. I'm glad you're free.''\n*'''Sokrates:''' ''As am I. Although, if you'll allow me, there is something...''\n*'''Kassandra:''' ''I doubt I could stop you.''\n*'''Sokrates:''' ''We like to believe that action means progress, but it's control that's so truly desired. The more we do, the more control it seems we have, but the less we allow for others. If we grip too tightly, we'll find we've crushed what it is we were holding onto.''\n*'''Kassandra:''' ''Meaning?''\n*'''Sokrates:''' ''Meaning we must sometimes let life unfold without trying to influence the outcome.''\n*'''Kassandra:''' ''I'll keep that in mind.''\n[[File:ACOD You're Such a Sokratease 7.png|thumb|250px|Kassandra parting ways with Sokrates]]\nKassandra turned to leave but quickly remembered something.\n*'''Kassandra:''' ''I almost forgot. In your letter, you said you had something to ask me. What was it?''\n*'''Sokrates:''' ''You know, I've completely forgotten now. Take care, Kassandra.''\n*'''Kassandra:''' ''Stay out of trouble, Sokrates.''",
+    "Section_Outcome": "Sokrates was let free before his trial even started thanks to Kassandra's efforts. He and his wife Xanthippe were reunited after being attacked by two Cult of Kosmos guards.",
+    "Section_Trivia": "Kassandra commits the unique crime of \"Tainting the Youth\" for aiding Sokrates.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Sokrates's Trial",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra met with Sokrates at the [[Leader House, Phokis|leader house]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Sokrates? You're... here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Sokrates:''' ''I am!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What happened? The trial couldn't have taken place that quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Sokrates:''' ''Had I been given the chance to defend myself, it would have been quick indeed. But unfortunately for me, I was let free before I could.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''That's good news.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Sokrates:''' ''Apparently those who had charges to bring against me were found dead, and evidence they claimed to have missing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''It sounds like someone was looking out for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Sokrates:''' ''There were also some people protesting my arrest, I was told. I have to ask... Did you have something to do with this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|I helped free you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Do you really need to ask?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Sokrates:''' ''No, but you still deserved the chance to answer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Lie \u2013 It wasn't me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Me? Kill? Steal? Arrange protests?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Sokrates:''' ''Yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''It does sound like me, but it was someone else this time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Sokrates:''' ''I'm glad I asked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "20",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Did you have time to find an answer for the [[Pythia (431 BCE)|Pythia]]'s words?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Sokrates:''' ''I thought it would have taken me much longer than it did, but the moment I stopped thinking about it, it came to me like a flash of [[Jupiter|Zeus]]'s lightning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "25",
+            "content": "(\"What was the answer?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''So do you agree with the Pythia or not?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Sokrates:''' ''The [[Greek mythology|Gods]] cannot lie, yet I know that I know nothing. I had to understand what it meant to for one who knows nothing to be called wise. I realized that though the Pythia said my name, she did not mean me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Who did she mean then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Sokrates:''' ''That is not an answer I'd yet like to voice. It's one that people may not want to hear, and I must think on how I wish to share my new beliefs with Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Whatever it is, be careful. I don't want to find you've been arrested again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "32",
+            "content": "(Leave \u2013 Let's get you home.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''We should get you home. I'm sure you'll be more comfortable there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Sokrates:''' ''In some ways, that will be true. In others... Well, [[Xanthippe]] will decide that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "35",
+            "content": "[[File:ACOD You're Such a Sokratease 2.png|thumb|250px|Kassandra escorting Sokrates]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "36",
+            "content": "Kassandra escorted Sokrates home.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Sokrates:''' ''Being free feels good, but I don't believe Xanthippe will be happy with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''She has good reason to be mad this time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Sokrates:''' ''We argue often about how I need to be careful with what I say and where I say it. This will only give her more cause to bring it up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''That doesn't sound very fun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Sokrates:''' ''Oh, you misunderstand. I love it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''You do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "43",
+            "content": "*'''Sokrates:''' ''People see Xanthippe and believe it's her beauty that drew me to her, but it's her argumentative spirit I lust for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Nobody ever likes that about me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "45",
+            "content": "*'''Sokrates:''' ''Having my opinions and thoughts challenged helps me refine them and to grow as a person.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''And... she likes these arguments?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "47",
+            "content": "*'''Sokrates:''' ''Oh, I doubt it. But it's in those fiery moments that her spirit is strongest, like an untamed [[horse]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Don't call her a horse to her face.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "49",
+            "content": "*'''Sokrates:''' ''I'm afraid your advice is a bit too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "51",
+            "content": "They were attacked by [[Cult of Kosmos|Cultist]] [[Soldier|guards]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Get somewhere safe, Sokrates!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "53",
+            "content": "Kassandra killed them all.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "54",
+            "content": "*'''Sokrates:''' ''I wonder what that was about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''With the things I do, it's sometimes hard to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "56",
+            "content": "*'''Sokrates:''' ''Let's hurry back before anything else happens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "57",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "58",
+            "content": "Kassandra resumed escorting Sokrates. At the gateway of [[Kirrha]], they met Xanthippe.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "59",
+            "content": "*'''Xanthippe:''' ''You came back. Finally. I'm ready to return to Athens. I've had enough of [[Phokis]] and this talk of the Pythia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "60",
+            "content": "*'''Sokrates:''' ''You will be happy to hear I have no need for her words any longer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "61",
+            "content": "*'''Xanthippe:''' ''Then something positive came out of this after all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I just remembered... a student of yours has been taking notes of your teachings. He wanted you to have them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "63",
+            "content": "[[File:ACOD You're Such a Sokratease 5.png|thumb|250px|Sokrates burning the scroll]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "64",
+            "content": "Kassandra handed Sokrates the teachings. Sokrates looked at the scroll for a moment, before tossing it into the nearby brazier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''What did you do that for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "66",
+            "content": "*'''Sokrates:''' ''Nobody asked him to write down my words.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Even so, why not keep it? Share it with others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "68",
+            "content": "*'''Sokrates:''' ''Because of a story I was told as a boy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "69",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "70",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "71",
+            "content": "|-|Tell me the story.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Alright, let's hear it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "73",
+            "content": "*'''Sokrates:''' ''The king of [[Egypt]], [[Thamus]], was visited by the [[Egyptian mythology|god]] [[Thoth|Theuth]]. Theuth offered the invention of writing to the king and told him it was an elixir of memory and wisdom. But Thamus disagreed. He believed the people would no longer use their memories, for they would simply read instead. These written words would not offer true wisdom, but only the appearance of such.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''You don't want your words written down so others can't use them to pretend to be smart.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "75",
+            "content": "*'''Sokrates:''' ''Much like creatures in a painting, the words sit there unmoving. If you ask them a question, they will preserve a solemn silence, and no matter how many times you ask, they will only ever say the same thing. They cannot defend their message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''That's the part you like. The defense of your words.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "77",
+            "content": "*'''Sokrates:''' ''All who speak should defend their words if questioned about them. ''That'' is why I choose to speak and not write, that is why any words of mine that last beyond my final breath will be those that people choose to remember. Those words will be true wisdom, and not an illusion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "78",
+            "content": "|-|No stories, please.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''I've had my fill of stories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "80",
+            "content": "*'''Sokrates:''' ''Then I'll save it for another time, should it be relevant. But know I did it for a good reason, and it was my decision to make.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "81",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U8",
+            "global_id": "82",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "83",
+            "content": "(\"What are you going to do now?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''What's you plan now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "85",
+            "content": "*'''Sokrates:''' ''After I return to [[Athens]], there is much I need to consider.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''You'll be careful, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "87",
+            "content": "*'''Sokrates:''' ''If I have to choose between saying nothing and staying safe, or speaking up and risking my life, the choice is easy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "88",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "89",
+            "content": "(Leave \u2013 It's time for me to go.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D61",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I should get going. I'm glad you're free.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "91",
+            "content": "*'''Sokrates:''' ''As am I. Although, if you'll allow me, there is something...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''I doubt I could stop you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "93",
+            "content": "*'''Sokrates:''' ''We like to believe that action means progress, but it's control that's so truly desired. The more we do, the more control it seems we have, but the less we allow for others. If we grip too tightly, we'll find we've crushed what it is we were holding onto.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Meaning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "95",
+            "content": "*'''Sokrates:''' ''Meaning we must sometimes let life unfold without trying to influence the outcome.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''I'll keep that in mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "97",
+            "content": "[[File:ACOD You're Such a Sokratease 7.png|thumb|250px|Kassandra parting ways with Sokrates]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "98",
+            "content": "Kassandra turned to leave but quickly remembered something.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''I almost forgot. In your letter, you said you had something to ask me. What was it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "100",
+            "content": "*'''Sokrates:''' ''You know, I've completely forgotten now. Take care, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Stay out of trouble, Sokrates.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

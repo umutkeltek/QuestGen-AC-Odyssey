@@ -1,0 +1,811 @@
+{
+    "Quest_Name": "Portion Control",
+    "Quest_ID": "222725",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Portion Control - Dolios Meets Kassandra.png",
+        "description": "'Tensions were high in the Spartan camp after a supply convoy was plundered and the men guarding it killed. In hopes of gaining more favor with the Spartans, Kassandra set out to find the perpetrator.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "The Missing Map",
+        "next": "Hunting Hyrkanos",
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Portion Control''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across a [[Sparta]]n [[soldier]] near the [[Farm of Tripodiskos]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''Could be one of [[Stentor]]'s scouts. Looks like he's run into problems.''\nKassandra approached the Spartan soldier near a destroyed convoy.\n*'''[[Dolios]]:''' ''I'll gut every last [[Athens|Athenian]] responsible for this. Fucking cowards. Once they're dead, Stentor will know I'm worthy of fighting by his side.''\nKassandra spoke to the soldier.\n*'''Kassandra:''' ''What happened here?''\n*'''Dolios:''' ''What business is it of yours, [[Mercenary|misthios]]? Do you know anything about this?''\n<tabber>\n|-|Be glad I don't.=\n*'''Kassandra:''' ''If I did, you'd already be dead.<br />But it's your lucky day, I'm here to help. Stentor sent me.''\nKassandra took out her badge.\n|-|I'm a friend.=\n*'''Kassandra:''' ''I'm a professional and a friend.''\n*'''Dolios:''' ''What's that supposed to mean?''\n*'''Kassandra:''' ''If it had been me, I'd have been smart enough to try and hide the evidence.''\n*'''Dolios:''' ''Fair point. Whoever did this was brazen and foolish... Leaving it to be so easily discovered.''\n*'''Kassandra:''' ''Or they wanted to send a message.''\nKassandra took out a badge.\n*'''Kassandra:''' ''Stentor sent me. I'm here to help wherever I can.''\n</tabber>\n*'''Dolios:''' ''Stentor sent you?''\n*'''Kassandra:''' ''Sparta doesn't fully control [[Megaris]]... yet. It's easier for me to move freely in certain areas of Megaris than a Spartan.''\n*'''Dolios:''' ''The Athenians have proven more resilient here than expected, but they will not stand...''\n*'''Kassandra:''' ''...Before Sparta, yes\u2014I've heard the speeches. But until that glorious day comes, we should find out what happened here.''\n*'''Dolios:''' ''Do you have any ideas?''\n*'''Kassandra:''' ''Not yet but I will.<br />I should get a closer look to figure out what happened here.''\n[[File:ACOD_Portion_Control_-_Spartan_Soldier_Bodies.jpg|thumb|250px|Kassandra investigating the bodies]]\nKassandra investigated the bodies covered in sheets.\n*'''Kassandra:''' ''These were professional soldiers, slaughtered to a man. I don't think [[bandit]]s could have done this...''\nKassandra investigated the destroyed supply carts.\n*'''Kassandra:''' ''The supplies are missing. They can't have gone far though... they didn't use the carts.''\nKassandra investigated some tracks near the cart.\n*'''Kassandra:''' ''Looks like they went this way into the forest.<br />I don't think I'll find anything else. I should report back.''\nKassandra returned to Dolios.\n*'''Dolios:''' ''So was it the Athenians?''\n*'''Kassandra:''' ''I found some fragments of green crystal...''\n*'''Dolios:''' ''Bandits then! The mountains here are riddled with caves, and the war has made them brazen.''\n<tabber>\n|-|Here's what I know.=\n*'''Kassandra:''' ''If it was Athenians, they would have taken the carts as well as the supplies... And bandits, they wouldn't have stood a chance against trained Spartans.''\n*'''Dolios:''' ''What are you saying?''\n|-|Here's what my gut says.=\n*'''Kassandra:''' ''Nothing about this adds up...''\n*'''Dolios:''' ''In what way?''\n*'''Kassandra:''' ''There's no bodies, at least not any assailants. Athenians would have taken the carts and their dead, but bandits would have left their fallen in the dust.''\n*'''Dolios:''' ''Then who did it?''\n</tabber>\n*'''Kassandra:''' ''I'm not sure. Whoever did this went into the forest... So I'll start by looking there.''\nKassandra headed into the forest. With [[Ikaros]]' help, she found a cave southwest of the [[Grave of Tereus]].\n*'''Kassandra:''' ''There\u2019s food being cooked near here.''\n*'''Kassandra:''' ''There they are!''\n[[File:ACOD_Portion_Control_-_Kassandra_Finds_Villagers.png|thumb|250px|Kassandra finding a group of villagers]]\nKassandra entered the cave and found a group of villagers with a bunch of supplies.\n*'''Kassandra:''' ''Is this a private gathering, or can anyone join?''\n*'''[[Neaera]]:''' ''Wha... What are y... Please, please just leave.''\n*'''Kassandra:''' ''You don't look like murderers, was that the Spartans' mistake?''\n*'''Neaera:''' ''What? Wait! No, please you don't understand!''\n*'''Kassandra:''' ''What's to understand? It all seems perfectly clear.''\n*'''Neaera:''' ''Please, let me plead our case?''\n<tabber>\n|-|No more talking.=\n*'''Kassandra:''' ''You are murderers and thieves, and deserve no better.''\n*'''Neaera:''' ''Please, no! You don't understand, it was a mercenary that killed the soldiers!''\nKassandra fought Neaera and the villagers.\n*'''Neaera:''' ''Please, no!''\n*'''Civilian:''' ''Mercenaries attacked the wagons, not us!''\n*'''Neaera:''' ''We were just hungry...''\nKassandra eliminated the villagers and returned to Dolios.\n*'''Dolios:''' ''Kassandra Did you find the ones responsible?''\n*'''Kassandra:''' ''I found your supplies with a bunch of hungry Megarians.''\n*'''Dolios:''' ''And?''\n*'''Kassandra:''' ''They won't trouble you again.''\n|-|Explain yourself.=\n*'''Kassandra:''' ''You'd better tell me why I shouldn't just kill you and return the goods.''\n*'''Neaera:''' ''Please, I'll tell you anything you want to know.''\n{{#tag:tabber|\nWho are you?=\n*'''Kassandra:''' ''You're the sorriest band of thieves I've ever seen.''\n*'''Neaera:''' ''By the gods no! We're citizens of [[Megara]]. Please, show mercy. This war has already cost us dearly.''\n*'''Kassandra:''' ''Like the mercy you showed those Spartan soldiers?''\n*'''Neaera:''' ''I, we... We just took some food. [[Hyrkanos the Cunning|Hyrkanos]] told us to take it, said he'd make it easy for us.''\n*'''Kassandra:''' ''Hyrkanos?''\n*'''Neaera:''' ''Yes, the [[mercenary]]. He said he'd provide food, told us the Athenians would never let their people go hungry.''\n{{!}}-{{!}}\nWhy risk the wrath of Sparta?=\n*'''Kassandra:''' ''Explain yourselves! It's not wise to anger the Spartans.''\n*'''Neaera:''' ''Please, we're not thieves. This is our food, our crops. They took it, left us with nothing! Our children are starving...''\n*'''Kassandra:''' ''So you repay theft with murder? A fine lesson for your children.''\n*'''Neaera:''' ''Murder, no. Please, we never harmed anyone.''\n*'''Civilian:''' ''A misthios told us where to find the food. Everyone was already dead!''\n}}\n*'''Kassandra:''' ''Enough, I didn't come here for debate. It's too late for talk now. I came to find who's behind this crime against Sparta.''\n{{#tag:tabber|\nYou're going to die.=\n*'''Kassandra:''' ''There is only one just punishment for your crime.''\n*'''Civilian:''' ''It was our food to begin with!''\n*'''Neaera:''' ''We either die here by your hand, or slowly starve later...<br />If I'm to die, I would rather die fighting.''\nKassandra eliminated the villagers and returned to Dolios.\n*'''Dolios:''' ''Kassandra Did you find the ones responsible?''\n*'''Kassandra:''' ''I found your supplies with a bunch of hungry Megarians.''\n*'''Dolios:''' ''And?''\n*'''Kassandra:''' ''They won't trouble you again.''\n{{!}}-{{!}}\nWe can settle this peacefully.=\n*'''Kassandra:''' ''Stand aside, you don't need to die today. I'm returning the supplies to the Spartans.''\n*'''Neaera:''' ''Then you will do so over our dead bodies!''\n*'''Kassandra:''' ''Don't be stupid. Take some of the food, enough to get by. I'll say I killed you and claimed what was left. They will be satisfied.''\n*'''Neaera:''' ''But the food, what of our families?!''\n*'''Kassandra:''' ''Your families will not benefit from your death. Accept my offer and don't steal again. It won't be me who comes for you next time.''\n*'''Neaera:''' ''Yes, misthios... Thank you.<br />Hurry! Take what you can carry and go. Quick.''\nKassandra took the supplies and returned to Dolios.\n*'''Dolios:''' ''Kassandra Did you find the ones responsible?''\n*'''Kassandra:''' ''I found your supplies with a bunch of hungry Megarians.''\n*'''Dolios:''' ''And?''\n*'''Kassandra:''' ''You stole that food from them. They were starving.''\n*'''Dolios:''' ''The supplies were essential for the war and ridding Megara of the Athenians.''\n*'''Kassandra:''' ''Hungry Megarians are the least of your worries, but there's something else. Have you heard of a mercenary called Hyrkanos?''\n*'''Dolios:''' ''Hyrkanos... Yes, he is working for the Athenians, so the rumours go.''\n*'''Kassandra:''' ''This is all his doing.''\n*'''Dolios:''' ''These mercenaries are persistent, I'll give them that. You've done well here, but if you really want to help Sparta, I have a task for you.''\n*'''Kassandra:''' ''What do you have in mind?''\n*'''Dolios:''' ''Hunt him down! Show him that no mercenary dog will interfere with Sparta's plans.''\n*'''Kassandra:''' ''Since you have such a high opinion of mercenaries, why even send me?''\n*'''Dolios:''' ''I'm sorry... It's just this man Hyrkanos is like a thorn in our foot. He's a menace to all Spartans here. Please, will you help us?''\n*'''Kassandra:''' ''I'll do it. If he's this much trouble, I take it there's a sizeable reward?''\n*'''Dolios:''' ''Of course! Just think of how much he'll have on him with all the [[drachma]]e Athens have given him to thwart our plans.''\n*'''Kassandra:''' ''I suppose you're right... Any idea where to start looking?''\n*'''Dolios:''' ''He could be anywhere. Most likely, he's nestled up close to the Athenians. We've sent out a couple of patrols, but they never returned, and we can't spare any more men at this time.''\n*'''Kassandra:''' ''Sometimes you're better sending a woman, anyway.''\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra decided the fate of the villagers who stole the supplies and reported to Dolios of the outcome.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Vivres mortels]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.b",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''Could be one of [[Stentor]]'s scouts. Looks like he's run into problems.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Kassandra approached the Spartan soldier near a destroyed convoy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''[[Dolios]]:''' ''I'll gut every last [[Athens|Athenian]] responsible for this. Fucking cowards. Once they're dead, Stentor will know I'm worthy of fighting by his side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra spoke to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What happened here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Dolios:''' ''What business is it of yours, [[Mercenary|misthios]]? Do you know anything about this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|Be glad I don't.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''If I did, you'd already be dead.<br />But it's your lucky day, I'm here to help. Stentor sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "10",
+            "content": "Kassandra took out her badge.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|I'm a friend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'm a professional and a friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Dolios:''' ''What's that supposed to mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''If it had been me, I'd have been smart enough to try and hide the evidence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Dolios:''' ''Fair point. Whoever did this was brazen and foolish... Leaving it to be so easily discovered.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Or they wanted to send a message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "17",
+            "content": "Kassandra took out a badge.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Stentor sent me. I'm here to help wherever I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Dolios:''' ''Stentor sent you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Sparta doesn't fully control [[Megaris]]... yet. It's easier for me to move freely in certain areas of Megaris than a Spartan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Dolios:''' ''The Athenians have proven more resilient here than expected, but they will not stand...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''...Before Sparta, yes\u2014I've heard the speeches. But until that glorious day comes, we should find out what happened here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Dolios:''' ''Do you have any ideas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Not yet but I will.<br />I should get a closer look to figure out what happened here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "26",
+            "content": "[[File:ACOD_Portion_Control_-_Spartan_Soldier_Bodies.jpg|thumb|250px|Kassandra investigating the bodies]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "Kassandra investigated the bodies covered in sheets.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''These were professional soldiers, slaughtered to a man. I don't think [[bandit]]s could have done this...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "29",
+            "content": "Kassandra investigated the destroyed supply carts.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''The supplies are missing. They can't have gone far though... they didn't use the carts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "31",
+            "content": "Kassandra investigated some tracks near the cart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Looks like they went this way into the forest.<br />I don't think I'll find anything else. I should report back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "33",
+            "content": "Kassandra returned to Dolios.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Dolios:''' ''So was it the Athenians?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I found some fragments of green crystal...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Dolios:''' ''Bandits then! The mountains here are riddled with caves, and the war has made them brazen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "37",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "38",
+            "content": "|-|Here's what I know.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''If it was Athenians, they would have taken the carts as well as the supplies... And bandits, they wouldn't have stood a chance against trained Spartans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Dolios:''' ''What are you saying?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "41",
+            "content": "|-|Here's what my gut says.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Nothing about this adds up...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Dolios:''' ''In what way?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''There's no bodies, at least not any assailants. Athenians would have taken the carts and their dead, but bandits would have left their fallen in the dust.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Dolios:''' ''Then who did it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "46",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I'm not sure. Whoever did this went into the forest... So I'll start by looking there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "48",
+            "content": "Kassandra headed into the forest. With [[Ikaros]]' help, she found a cave southwest of the [[Grave of Tereus]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''There\u2019s food being cooked near here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''There they are!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "51",
+            "content": "[[File:ACOD_Portion_Control_-_Kassandra_Finds_Villagers.png|thumb|250px|Kassandra finding a group of villagers]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "52",
+            "content": "Kassandra entered the cave and found a group of villagers with a bunch of supplies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Is this a private gathering, or can anyone join?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''[[Neaera]]:''' ''Wha... What are y... Please, please just leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''You don't look like murderers, was that the Spartans' mistake?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "56",
+            "content": "*'''Neaera:''' ''What? Wait! No, please you don't understand!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''What's to understand? It all seems perfectly clear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "58",
+            "content": "*'''Neaera:''' ''Please, let me plead our case?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "59",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "60",
+            "content": "|-|No more talking.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''You are murderers and thieves, and deserve no better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "62",
+            "content": "*'''Neaera:''' ''Please, no! You don't understand, it was a mercenary that killed the soldiers!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "63",
+            "content": "Kassandra fought Neaera and the villagers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "64",
+            "content": "*'''Neaera:''' ''Please, no!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "65",
+            "content": "*'''Civilian:''' ''Mercenaries attacked the wagons, not us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "66",
+            "content": "*'''Neaera:''' ''We were just hungry...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "67",
+            "content": "Kassandra eliminated the villagers and returned to Dolios.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "68",
+            "content": "*'''Dolios:''' ''Kassandra Did you find the ones responsible?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''I found your supplies with a bunch of hungry Megarians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Dolios:''' ''And?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''They won't trouble you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "72",
+            "content": "|-|Explain yourself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''You'd better tell me why I shouldn't just kill you and return the goods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Neaera:''' ''Please, I'll tell you anything you want to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "75",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "76",
+            "content": "Who are you?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''You're the sorriest band of thieves I've ever seen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "78",
+            "content": "*'''Neaera:''' ''By the gods no! We're citizens of [[Megara]]. Please, show mercy. This war has already cost us dearly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Like the mercy you showed those Spartan soldiers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "80",
+            "content": "*'''Neaera:''' ''I, we... We just took some food. [[Hyrkanos the Cunning|Hyrkanos]] told us to take it, said he'd make it easy for us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Hyrkanos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "82",
+            "content": "*'''Neaera:''' ''Yes, the [[mercenary]]. He said he'd provide food, told us the Athenians would never let their people go hungry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "83",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "84",
+            "content": "Why risk the wrath of Sparta?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Explain yourselves! It's not wise to anger the Spartans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "86",
+            "content": "*'''Neaera:''' ''Please, we're not thieves. This is our food, our crops. They took it, left us with nothing! Our children are starving...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''So you repay theft with murder? A fine lesson for your children.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "88",
+            "content": "*'''Neaera:''' ''Murder, no. Please, we never harmed anyone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "89",
+            "content": "*'''Civilian:''' ''A misthios told us where to find the food. Everyone was already dead!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "90",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D61",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''Enough, I didn't come here for debate. It's too late for talk now. I came to find who's behind this crime against Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "92",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "93",
+            "content": "You're going to die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''There is only one just punishment for your crime.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "95",
+            "content": "*'''Civilian:''' ''It was our food to begin with!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "96",
+            "content": "*'''Neaera:''' ''We either die here by your hand, or slowly starve later...<br />If I'm to die, I would rather die fighting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "97",
+            "content": "Kassandra eliminated the villagers and returned to Dolios.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "98",
+            "content": "*'''Dolios:''' ''Kassandra Did you find the ones responsible?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''I found your supplies with a bunch of hungry Megarians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "100",
+            "content": "*'''Dolios:''' ''And?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''They won't trouble you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "102",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "103",
+            "content": "We can settle this peacefully.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D69",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''Stand aside, you don't need to die today. I'm returning the supplies to the Spartans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "105",
+            "content": "*'''Neaera:''' ''Then you will do so over our dead bodies!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''Don't be stupid. Take some of the food, enough to get by. I'll say I killed you and claimed what was left. They will be satisfied.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "107",
+            "content": "*'''Neaera:''' ''But the food, what of our families?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''Your families will not benefit from your death. Accept my offer and don't steal again. It won't be me who comes for you next time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "109",
+            "content": "*'''Neaera:''' ''Yes, misthios... Thank you.<br />Hurry! Take what you can carry and go. Quick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "110",
+            "content": "Kassandra took the supplies and returned to Dolios.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D75",
+            "global_id": "111",
+            "content": "*'''Dolios:''' ''Kassandra Did you find the ones responsible?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "112",
+            "content": "*'''Kassandra:''' ''I found your supplies with a bunch of hungry Megarians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "113",
+            "content": "*'''Dolios:''' ''And?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''You stole that food from them. They were starving.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "115",
+            "content": "*'''Dolios:''' ''The supplies were essential for the war and ridding Megara of the Athenians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''Hungry Megarians are the least of your worries, but there's something else. Have you heard of a mercenary called Hyrkanos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "117",
+            "content": "*'''Dolios:''' ''Hyrkanos... Yes, he is working for the Athenians, so the rumours go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''This is all his doing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "119",
+            "content": "*'''Dolios:''' ''These mercenaries are persistent, I'll give them that. You've done well here, but if you really want to help Sparta, I have a task for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''What do you have in mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "121",
+            "content": "*'''Dolios:''' ''Hunt him down! Show him that no mercenary dog will interfere with Sparta's plans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "122",
+            "content": "*'''Kassandra:''' ''Since you have such a high opinion of mercenaries, why even send me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "123",
+            "content": "*'''Dolios:''' ''I'm sorry... It's just this man Hyrkanos is like a thorn in our foot. He's a menace to all Spartans here. Please, will you help us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "124",
+            "content": "*'''Kassandra:''' ''I'll do it. If he's this much trouble, I take it there's a sizeable reward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "125",
+            "content": "*'''Dolios:''' ''Of course! Just think of how much he'll have on him with all the [[drachma]]e Athens have given him to thwart our plans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''I suppose you're right... Any idea where to start looking?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "127",
+            "content": "*'''Dolios:''' ''He could be anywhere. Most likely, he's nestled up close to the Athenians. We've sent out a couple of patrols, but they never returned, and we can't spare any more men at this time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''Sometimes you're better sending a woman, anyway.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "129",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE3",
+            "global_id": "130",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

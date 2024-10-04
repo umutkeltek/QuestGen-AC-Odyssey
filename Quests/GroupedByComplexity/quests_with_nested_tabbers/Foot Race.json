@@ -1,0 +1,733 @@
+{
+    "Quest_Name": "Foot Race",
+    "Quest_ID": "224009",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-Footrace.jpg",
+        "description": "'A champion doesn't just need brute strength combat, but also lightness-of-foot. To test Kassandra, Roxana challenged her to a foot race.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Archery Practice",
+        "next": "Call to Arms (Melos)|Call to Arms",
+        "source": "Kassandra",
+        "location": "Hydrea, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Foot Race''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra and [[Roxana]] met up once more to finish their training in preparation for the [[Battle of One Hundred Hands]].",
+    "Section_Dialogue": "Kassandra and Roxana arrived at the latter's [[Hydrea Apple Farm|house]].\n<tabber>\n|-|Returned immediately=\n*'''Roxana:''' ''Shall we continue?''\n|-|Returned later=\n*'''Roxana:''' ''The champion returns.''\n</tabber>\n*'''Kassandra:''' ''Now that we've saved the children of [[Hydrea]] from a pack of hungry [[Wolf|wolves]], I guess we can move on?''\n*'''Roxana:''' ''You jest, but that was a real nuisance we dealt with. Your choices have an impact, Kassandra - your actions have already benefited the people here.<br>So, shall we complete our training?''\n*'''Kassandra:''' ''We do have unfinished business.''\n*'''Roxana:''' ''The training... or the company?''\n<tabber>\n|-|I'm here to train.=\n*'''Kassandra:''' ''I want to finish this training - that's it.''\n*'''Roxana:''' ''All business, eh, champion? You need to loosen up once in a while.''\n*'''Kassandra:''' ''Maybe after this next challenge.''\n\n|-|I'm here for you.=\n*'''Kassandra:''' ''We've been having so much fun.''\n*'''Roxana:''' ''Fighting each other... Killing wolves...''\n*'''Kassandra:''' ''Go on...''\n*'''Roxana:''' ''I think you'll like this next challenge.''\n*'''Kassandra:''' ''Yes?''\n</tabber>\n*'''Roxana:''' ''We're going to have a foot race. First one to the [[Lover's Leap|high point]] on the island wins.''\n(If players choose \"What do you mean, foot race?\")\n*'''Kassandra:''' ''The last part of training is a race?''\n*'''Roxana:''' ''The Battle of One Hundred Hands is about skill, strength, and most of all, ''endurance''. A tired competitor is an easy target for someone with stamina. I make regular offerings to [[Hermes Trismegistus|Hermes]] to stay fast.''\n(If players choose \"What do I win?\")\n*'''Kassandra:''' ''And if I win this race, what will I get?''\n*'''Roxana:''' ''Bragging rights alone.''\n*'''Kassandra:''' ''Great.''\n*'''Roxana:''' ''It's not the result you should be after, it's the training. After this, you will be ready to enter the Battle of One Hundred Hands. I will vouch for you, and you will vouch for me.''\n*'''Kassandra:''' ''I'm ready. You said race to the high point-''\n*'''Roxana:''' ''Yes! The plateau on the other side of [[Small settlement|town]]. When I say go, the race is on. Three... Two... One...<br>Go!''\nThe two women began running towards Lover's Leap.\n*'''Roxana:''' ''Come on, champion! Is that all you've got?''\n*'''Kassandra:''' ''It's not over yet!''\n*'''Roxana:''' ''You'll need to move faster in the Battle, champion!''\n*'''Kassandra:''' ''I'm pacing myself!''\nKassandra managed to overtake Roxana.\n*'''Kassandra:''' ''I thought you'd be faster!''\n*'''Roxana:''' ''Just enjoying the view!''\nKassandra [[Freerunning|freeran]] across the town to increase her lead.\n*'''Roxana:''' ''Now you're just showing off!''\n*'''Kassandra:''' ''Should I slow down?''\nKassandra reached the high point, with Roxana arriving shortly thereafter.\n*'''Roxana:''' ''You're fast, even with all that gear.''\nKassandra turned and admired the view.\n*'''Kassandra:''' ''It's easy to forget how beautiful it is here.''\n*'''Roxana:''' ''When you're training so hard, you mean?''\n(If players choose \"No, when you're driven to find closure.\")<!--Only available if spoken to Drakios first-->\n*'''Kassandra:''' ''I'm trying to restore balance to my life, and to the [[Greece|Greek]] world. To find closure. But there are [[Cult of Kosmos|people]] standing in my way I must take care of first, and I think winning the Battle of One Hundred Hands will help.''\n*'''Roxana:''' ''What makes you think that?''\n*'''Kassandra:''' ''Call it a hunch.''\n(If players choose \"No, when you're driven by drachmae.\")\n*'''Kassandra:''' ''I travel a lot, but it's often at the service of others. I can be so focused on [[drachma]]e that I lose sight of what's in front of me.''\n*'''Roxana:''' ''And what's that?''\n*'''Kassandra:''' ''The ocean breeze on my face. The [[sun]] on my skin. A sturdy [[horse]] to ride.''\n(If players choose \"Yes, it's the training.\")\n*'''Kassandra:''' ''All this training leaves no time for fun.''\n*'''Roxana:''' ''I can tell you're holding something back.''\n*'''Kassandra:''' ''...Maybe.''\nThey were silent for a moment, and Roxana turned to face the view as well, stepping closer to the cliff.\n*'''Roxana:''' ''I come up here to remind myself to live in the moment.''\n*'''Kassandra:''' ''I can see how that might work.''\nThe two women continued to chat long past sundown, laughing and relaxed.\n<tabber>\n|-|If nothing particular done?=\n*'''Kassandra:''' ''If you told [[Barnabas]] there was a sea monster living in your ear, he'd believe you.''\n*'''Roxana:''' ''He sounds like a real dimwit.''\n*'''Kassandra:''' ''Actually, he's one of the most genuine people I've ever met.''\n|-|If Empedokles-questchain completed=\n*'''Kassandra:''' ''I'm telling you, [[Empedokles|he]] was never fully dressed. And some people on [[Kythera Island|Kythera]] built a [[Statue of Empedokles|statue]] to this man.<br>''Mal\u00e1kas'' Empedokles.''\n*'''Roxana:''' ''What became of him?''\nKassandra looked away, her smile dying.\n</tabber>\n*'''Roxana:''' ''That's [[Melos]] island right there. Where so many warriors go to die.<br>At the Battle, we may have to fight each other. And only one of us will survive.''\n<tabber>\n|-|Let's not talk about that.=\n*'''Kassandra:''' ''I thought you came up here to live in the moment?''\n*'''Roxana:''' ''How's this for in the moment?''\nRoxana leaned closer.\n{{#tag:tabber|\nIt'll do.=\n*'''Kassandra:''' ''Let's make it more than a moment.''\nThe two women kissed.\n*'''Roxana:''' ''Must you wear so many layers?''\n*'''Kassandra:''' ''Comes with the job, I guess.''\nAfter spending the night together, Kassandra and Roxana awoke the following morning.\n*'''Kassandra:''' ''I guess this is goodbye. Until the Battle, I mean.''\n*'''Roxana:''' ''Let's not make this difficult.''\n*'''Kassandra:''' ''I can't help thinking... we don't have to cross swords.''\n*'''Roxana:''' ''You could skip the Battle as easy as I can. But you won't.''\n*'''Kassandra:''' ''You're right.''\nThe two women stepped closer, embracing each other.\n*'''Kassandra:''' ''Goodbye, Roxana.''\n\n{{!}}-{{!}}\nI don't feel that way about you.=\n*'''Kassandra:''' ''I'm sorry, Roxana. I don't want to do this.''\n*'''Roxana:''' ''You're right. Getting closer could mean a half second's hesitation before killing you... You're tough, I know that. I can't give up any edge.''\nKassandra got up and prepared to depart.\n*'''Kassandra:''' ''It was good to meet you, Roxana, but it's time to get back to the real world. Good luck in the Battle.''\n*'''Roxana:''' ''You too, champion.''\n}}\n\n|-|You will be the one who dies.=\n*'''Kassandra:''' ''I've killed more soldiers, [[Mercenary|mercenaries]], and masked men than I can remember. The day of the Battle will be like any other for me.''\n*'''Roxana:''' ''You don't know what I'm capable of. You don't know how different it will be from my average day.''\n*'''Kassandra:''' ''I know one way it'll differ.''\n*'''Roxana:''' ''How's that?''\n*'''Kassandra:''' ''It will be shorter.''\nKassandra got up and prepared to depart.\n*'''Kassandra:''' ''It was good to meet you, Roxana, but it's time to get back to the real world. Good luck in the Battle.''\n*'''Roxana:''' ''You too, champion.''\n</tabber>",
+    "Section_Outcome": "After having a foot race and finishing their training, Kassandra and Roxana enjoyed an evening together, following which they bid each other goodbye, until they met again at the Battle of One Hundred Hands.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Roxana",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra and Roxana arrived at the latter's [[Hydrea Apple Farm|house]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "2",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "3",
+            "content": "|-|Returned immediately=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Roxana:''' ''Shall we continue?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "5",
+            "content": "|-|Returned later=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Roxana:''' ''The champion returns.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "7",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Now that we've saved the children of [[Hydrea]] from a pack of hungry [[Wolf|wolves]], I guess we can move on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Roxana:''' ''You jest, but that was a real nuisance we dealt with. Your choices have an impact, Kassandra - your actions have already benefited the people here.<br>So, shall we complete our training?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''We do have unfinished business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Roxana:''' ''The training... or the company?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "13",
+            "content": "|-|I'm here to train.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I want to finish this training - that's it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Roxana:''' ''All business, eh, champion? You need to loosen up once in a while.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Maybe after this next challenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "18",
+            "content": "|-|I'm here for you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''We've been having so much fun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Roxana:''' ''Fighting each other... Killing wolves...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Go on...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Roxana:''' ''I think you'll like this next challenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Roxana:''' ''We're going to have a foot race. First one to the [[Lover's Leap|high point]] on the island wins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "26",
+            "content": "(If players choose \"What do you mean, foot race?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''The last part of training is a race?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Roxana:''' ''The Battle of One Hundred Hands is about skill, strength, and most of all, ''endurance''. A tired competitor is an easy target for someone with stamina. I make regular offerings to [[Hermes Trismegistus|Hermes]] to stay fast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "29",
+            "content": "(If players choose \"What do I win?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''And if I win this race, what will I get?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Roxana:''' ''Bragging rights alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Great.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Roxana:''' ''It's not the result you should be after, it's the training. After this, you will be ready to enter the Battle of One Hundred Hands. I will vouch for you, and you will vouch for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm ready. You said race to the high point-''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "35",
+            "content": "*'''Roxana:''' ''Yes! The plateau on the other side of [[Small settlement|town]]. When I say go, the race is on. Three... Two... One...<br>Go!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "36",
+            "content": "The two women began running towards Lover's Leap.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Roxana:''' ''Come on, champion! Is that all you've got?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''It's not over yet!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Roxana:''' ''You'll need to move faster in the Battle, champion!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I'm pacing myself!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "41",
+            "content": "Kassandra managed to overtake Roxana.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''I thought you'd be faster!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "43",
+            "content": "*'''Roxana:''' ''Just enjoying the view!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "44",
+            "content": "Kassandra [[Freerunning|freeran]] across the town to increase her lead.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Roxana:''' ''Now you're just showing off!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Should I slow down?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "47",
+            "content": "Kassandra reached the high point, with Roxana arriving shortly thereafter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "48",
+            "content": "*'''Roxana:''' ''You're fast, even with all that gear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "49",
+            "content": "Kassandra turned and admired the view.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''It's easy to forget how beautiful it is here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Roxana:''' ''When you're training so hard, you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "52",
+            "content": "(If players choose \"No, when you're driven to find closure.\")<!--Only available if spoken to Drakios first-->",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I'm trying to restore balance to my life, and to the [[Greece|Greek]] world. To find closure. But there are [[Cult of Kosmos|people]] standing in my way I must take care of first, and I think winning the Battle of One Hundred Hands will help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Roxana:''' ''What makes you think that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Call it a hunch.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "56",
+            "content": "(If players choose \"No, when you're driven by drachmae.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D38",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''I travel a lot, but it's often at the service of others. I can be so focused on [[drachma]]e that I lose sight of what's in front of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "58",
+            "content": "*'''Roxana:''' ''And what's that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''The ocean breeze on my face. The [[sun]] on my skin. A sturdy [[horse]] to ride.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "60",
+            "content": "(If players choose \"Yes, it's the training.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''All this training leaves no time for fun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "62",
+            "content": "*'''Roxana:''' ''I can tell you're holding something back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''...Maybe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "64",
+            "content": "They were silent for a moment, and Roxana turned to face the view as well, stepping closer to the cliff.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "65",
+            "content": "*'''Roxana:''' ''I come up here to remind myself to live in the moment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''I can see how that might work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "67",
+            "content": "The two women continued to chat long past sundown, laughing and relaxed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS3",
+            "global_id": "68",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "69",
+            "content": "|-|If nothing particular done?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''If you told [[Barnabas]] there was a sea monster living in your ear, he'd believe you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Roxana:''' ''He sounds like a real dimwit.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Actually, he's one of the most genuine people I've ever met.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "73",
+            "content": "|-|If Empedokles-questchain completed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I'm telling you, [[Empedokles|he]] was never fully dressed. And some people on [[Kythera Island|Kythera]] built a [[Statue of Empedokles|statue]] to this man.<br>''Mal\u00e1kas'' Empedokles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "75",
+            "content": "*'''Roxana:''' ''What became of him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "76",
+            "content": "Kassandra looked away, her smile dying.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "77",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D51",
+            "global_id": "78",
+            "content": "*'''Roxana:''' ''That's [[Melos]] island right there. Where so many warriors go to die.<br>At the Battle, we may have to fight each other. And only one of us will survive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "79",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "80",
+            "content": "|-|Let's not talk about that.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''I thought you came up here to live in the moment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "82",
+            "content": "*'''Roxana:''' ''How's this for in the moment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "83",
+            "content": "Roxana leaned closer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "84",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "85",
+            "content": "It'll do.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Let's make it more than a moment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "87",
+            "content": "The two women kissed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "88",
+            "content": "*'''Roxana:''' ''Must you wear so many layers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''Comes with the job, I guess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "90",
+            "content": "After spending the night together, Kassandra and Roxana awoke the following morning.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''I guess this is goodbye. Until the Battle, I mean.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "92",
+            "content": "*'''Roxana:''' ''Let's not make this difficult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''I can't help thinking... we don't have to cross swords.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "94",
+            "content": "*'''Roxana:''' ''You could skip the Battle as easy as I can. But you won't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''You're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "96",
+            "content": "The two women stepped closer, embracing each other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''Goodbye, Roxana.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "98",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "99",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "100",
+            "content": "I don't feel that way about you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''I'm sorry, Roxana. I don't want to do this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "102",
+            "content": "*'''Roxana:''' ''You're right. Getting closer could mean a half second's hesitation before killing you... You're tough, I know that. I can't give up any edge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "103",
+            "content": "Kassandra got up and prepared to depart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''It was good to meet you, Roxana, but it's time to get back to the real world. Good luck in the Battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "105",
+            "content": "*'''Roxana:''' ''You too, champion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "106",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "107",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC10",
+            "global_id": "108",
+            "content": "|-|You will be the one who dies.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I've killed more soldiers, [[Mercenary|mercenaries]], and masked men than I can remember. The day of the Battle will be like any other for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "110",
+            "content": "*'''Roxana:''' ''You don't know what I'm capable of. You don't know how different it will be from my average day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''I know one way it'll differ.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "112",
+            "content": "*'''Roxana:''' ''How's that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''It will be shorter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "114",
+            "content": "Kassandra got up and prepared to depart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''It was good to meet you, Roxana, but it's time to get back to the real world. Good luck in the Battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "116",
+            "content": "*'''Roxana:''' ''You too, champion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "117",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

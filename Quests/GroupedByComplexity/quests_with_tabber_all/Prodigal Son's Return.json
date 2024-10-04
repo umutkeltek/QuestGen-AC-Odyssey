@@ -1,0 +1,473 @@
+{
+    "Quest_Name": "Prodigal Son's Return",
+    "Quest_ID": "227477",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra encountered a mysterious but handsome Lykinos|young man held captive in a bandit camp. Once granted his freedom, the man asked Kassandra to escort him to his father's home.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "next": "Bloody Libation\nDressing up for Charon",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Prodigal Son's Return''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra came upon a young man, Lykinos, being held by bandits.",
+    "Section_Dialogue": "After she eliminated the bandits.\n\n*'''Lykinos:''' ''Please, stranger. I don't think I can walk.''\n\nWith him wounded, Kassandra was forced to carry him.\n\n*'''Lykinos:''' ''Just take me to my ''pater's'' house. It's in the [[Port of Kechries]]''\n\nOnce they are away from the camp, she realized they have a distance to go.\n\n*'''Kassandra:''' ''This would be faster on horseback.''\n\nOnce on Phobos.\n\n*'''Kassandra:''' ''What did those bandits want with you?''\n*'''Lykinos:''' ''They said something about getting what they were owed... But I have no idea what they meant.''\n*'''Kassandra:''' ''You've never seen them before?''\n*'''Lykinos:''' ''Come to think of it... They did look familiar. A group of bandits have been harassing the port I grew up in for as long as I can remember.''\n\nThey were quick to arrive at the house.\n\n*'''Lykinos:''' ''Here we are. ''Pater's'' house.''\n\nKassandra brought him inside.\n\n*'''Lykinos:''' ''So... does my enchanting rescuer have a name?''\n*'''Kassandra:''' ''Kassandra.''\n*'''Lykinos:''' ''Well met. I'm Lykinos, famed poet of Athens. I have come to visit my dear ''pater'' and brother. Speaking of which... Timotheos! I'm home! This is the lovely Kassandra. She rescued me on my way here. Where's...''\n\nHis brother walked in, looking somber.\n\n*'''Timotheos:''' ''Father's dead.''\n*'''Lykinos:''' ''What?''\n*'''Timotheos:''' ''He was killed a few days ago. By local bandits.''\n*'''Lykinos:''' ''And this is how you tell me?''\n*'''Timotheos:''' ''I need to prepare for the burial. I suggest you do the same.''\n\nHe handed Kassandra a reward.\n\n*'''Timotheos:''' ''For saving my brother. If you're as tough as you look, I could use your help with something else before you go.''\n*'''Lykinos:''' ''Can you believe him?''\n\n<tabber>\n|-|Your brother is mourning, too.=\n*'''Kassandra:''' ''We all grieve differently. Your brother just lost his father, too.''\n\n|-|He was cold.=\n*'''Kassandra:''' ''He seemed more mad than upset.''\n\n</tabber>\n*'''Lykinos:''' ''Ever since Timotheos returned from the war, he's been... different.''\n*'''Kassandra:''' ''He fought for Athens?''\n*'''Lykinos:''' ''For a little while... So did my ''pater''. Now they're both fishermen. Or my ''pater'' was, I guess.''\n*'''Kassandra:''' ''Give him time.''\n*'''Lykinos:''' ''I'll leave the brooding to Timotheos. You're a mercenary, right? I want vengeance on my ''pater's'' killers.''\n*'''Kassandra:''' ''Haven't you had enough bloodshed for one day?''\n*'''Lykinos:''' ''That's why I'm hiring a ''misthios'' to do the fighting for me. And my brother said he could use your help, too.''\n\n(If players choose \"I'll help you and your brother.\")\n\n*'''Kassandra:''' ''All right. I'll stay and help. How should I track down the bandits Timotheos mentioned?''\n*'''Lykinos:''' ''Their hideout is rumored to be just west of here in the [[Ruined Temple of Zeus]].''\n*'''Kassandra:''' ''I'll make sure the bandits pay for what they did.''\n\nShe walked away, and saw Timotheos leaning against a pillar.\n\n*'''Kassandra:''' ''Timotheos... You said you could use my help?''\n*'''Timotheos:''' ''My father served in the Athenian military. He deserves a proper burial in his Athenian armor. But that armor was stolen from our home not that long ago.''\n*'''Kassandra:''' ''You want me to get it back?''\n*'''Timotheos:''' ''No, my father said he saw the thief running out of town after he stole it. But the merchant should have some Athenian armor. Tell him it's for [[Diokles (Fisherman)|Diokles]] burial. They were friends.''\n*'''Kassandra:''' ''I'll get the armor for your father's burial.''\n\nShe walked away, with tasks from both brothers.",
+    "Section_Outcome": "Kassandra rescued Lykinos and brought him to the house of his father, where she met his brother [[Timotheos]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After she eliminated the bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Lykinos:''' ''Please, stranger. I don't think I can walk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "With him wounded, Kassandra was forced to carry him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Lykinos:''' ''Just take me to my ''pater's'' house. It's in the [[Port of Kechries]]''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Once they are away from the camp, she realized they have a distance to go.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D3",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''This would be faster on horseback.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "13",
+            "content": "Once on Phobos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D4",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''What did those bandits want with you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "16",
+            "content": "*'''Lykinos:''' ''They said something about getting what they were owed... But I have no idea what they meant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You've never seen them before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "18",
+            "content": "*'''Lykinos:''' ''Come to think of it... They did look familiar. A group of bandits have been harassing the port I grew up in for as long as I can remember.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "20",
+            "content": "They were quick to arrive at the house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D8",
+            "global_id": "22",
+            "content": "*'''Lykinos:''' ''Here we are. ''Pater's'' house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "24",
+            "content": "Kassandra brought him inside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U11",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D9",
+            "global_id": "26",
+            "content": "*'''Lykinos:''' ''So... does my enchanting rescuer have a name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "28",
+            "content": "*'''Lykinos:''' ''Well met. I'm Lykinos, famed poet of Athens. I have come to visit my dear ''pater'' and brother. Speaking of which... Timotheos! I'm home! This is the lovely Kassandra. She rescued me on my way here. Where's...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "30",
+            "content": "His brother walked in, looking somber.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U13",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "32",
+            "content": "*'''Timotheos:''' ''Father's dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "33",
+            "content": "*'''Lykinos:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "34",
+            "content": "*'''Timotheos:''' ''He was killed a few days ago. By local bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "35",
+            "content": "*'''Lykinos:''' ''And this is how you tell me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "36",
+            "content": "*'''Timotheos:''' ''I need to prepare for the burial. I suggest you do the same.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "38",
+            "content": "He handed Kassandra a reward.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D17",
+            "global_id": "40",
+            "content": "*'''Timotheos:''' ''For saving my brother. If you're as tough as you look, I could use your help with something else before you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "41",
+            "content": "*'''Lykinos:''' ''Can you believe him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "44",
+            "content": "|-|Your brother is mourning, too.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''We all grieve differently. Your brother just lost his father, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "47",
+            "content": "|-|He was cold.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''He seemed more mad than upset.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U18",
+            "global_id": "49",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "50",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D21",
+            "global_id": "51",
+            "content": "*'''Lykinos:''' ''Ever since Timotheos returned from the war, he's been... different.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''He fought for Athens?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "53",
+            "content": "*'''Lykinos:''' ''For a little while... So did my ''pater''. Now they're both fishermen. Or my ''pater'' was, I guess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Give him time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "55",
+            "content": "*'''Lykinos:''' ''I'll leave the brooding to Timotheos. You're a mercenary, right? I want vengeance on my ''pater's'' killers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Haven't you had enough bloodshed for one day?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "57",
+            "content": "*'''Lykinos:''' ''That's why I'm hiring a ''misthios'' to do the fighting for me. And my brother said he could use your help, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "58",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "59",
+            "content": "(If players choose \"I'll help you and your brother.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U20",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D28",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''All right. I'll stay and help. How should I track down the bandits Timotheos mentioned?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "62",
+            "content": "*'''Lykinos:''' ''Their hideout is rumored to be just west of here in the [[Ruined Temple of Zeus]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''I'll make sure the bandits pay for what they did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "64",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "65",
+            "content": "She walked away, and saw Timotheos leaning against a pillar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "66",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D31",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Timotheos... You said you could use my help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "68",
+            "content": "*'''Timotheos:''' ''My father served in the Athenian military. He deserves a proper burial in his Athenian armor. But that armor was stolen from our home not that long ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''You want me to get it back?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "70",
+            "content": "*'''Timotheos:''' ''No, my father said he saw the thief running out of town after he stole it. But the merchant should have some Athenian armor. Tell him it's for [[Diokles (Fisherman)|Diokles]] burial. They were friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''I'll get the armor for your father's burial.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U23",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "73",
+            "content": "She walked away, with tasks from both brothers.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "Quest_Name": "Wipe Them Out",
+    "Quest_ID": "268668",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Wipe Them Out",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Wipe Them Out''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]] in 2018.",
+    "Section_Description": "Kassandra answered the call of a priestess.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire'', priestess. Anything I can help you with?''\n*'''Priestess:''' ''That [[Sparta]]n leader is finally dead. But those ''mal\u00e1kes'' soldiers who follow him... some of them still plague our [[Greece|land]] and [[Aegean Sea|sea]]. I want them all gone.''\n<tabber>\n|-|You need the ships destroyed.=\nTBA\n|-|You want all the Spartans to die.=\n*'''Kassandra:''' ''So you want me to kill all the Spartans?''\n*'''Priestess:''' ''Not strong enough. I want all their [[ship]]s destroyed.''\n</tabber>\n<tabber>\n|-|I'll destroy them.=\n*'''Kassandra:''' ''I'll handle this.''\n*'''Priestess:''' ''You'll be doing divine work.''\n*'''Kassandra:''' ''May the [[Fates]] be on your side.''\n|-|Hind another misthios.=\nKassandra left, but reconsidered her decision and returned to speak with the priestess again.\n</tabber>\nKassandra left to board the [[Adrestia]] and proceeded to sink five Spartan boats roaming the sea. After that, she returned to the woman to collect her reward.\n*'''Priestess:''' ''Back already? Did you destroy them all?''\n*'''Kassandra:''' ''It would be hard to piece them back together.''\n*'''Priestess:''' ''I knew the [[Greek mythology|Gods]] intended us to meet. Please, take this.''\nShe gave her a bag of [[drachma]]e.\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra managed to fulfill the priestess' request.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' Chaire'', priestess. Anything I can help you with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Priestess:''' ''That [[Sparta]]n leader is finally dead. But those ''mal\u00e1kes'' soldiers who follow him... some of them still plague our [[Greece|land]] and [[Aegean Sea|sea]]. I want them all gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-|You need the ships destroyed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N1",
+            "global_id": "5",
+            "content": "TBA",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "6",
+            "content": "|-|You want all the Spartans to die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''So you want me to kill all the Spartans?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Priestess:''' ''Not strong enough. I want all their [[ship]]s destroyed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "9",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "11",
+            "content": "|-|I'll destroy them.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Priestess:''' ''You'll be doing divine work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''May the [[Fates]] be on your side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "15",
+            "content": "|-|Hind another misthios.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "16",
+            "content": "Kassandra left, but reconsidered her decision and returned to speak with the priestess again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Kassandra left to board the [[Adrestia]] and proceeded to sink five Spartan boats roaming the sea. After that, she returned to the woman to collect her reward.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Priestess:''' ''Back already? Did you destroy them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It would be hard to piece them back together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Priestess:''' ''I knew the [[Greek mythology|Gods]] intended us to meet. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "22",
+            "content": "She gave her a bag of [[drachma]]e.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

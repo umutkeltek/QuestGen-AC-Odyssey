@@ -1,0 +1,59 @@
+{
+    "Quest_Name": "Everyman's Drink",
+    "Quest_ID": "224196",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'The theater is a place for rowdy and bawdy fun. Common wine makes every play better.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece, Support",
+        "next": "Setting the Stage",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Everyman's Drink''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of the actor [[Thespis]] and his aide [[Rhodanthe]], Kassandra was tasked with securing wine for the audience.",
+    "Section_Dialogue": "Approaching the [[Stable of Ares]], Kassandra observed the building.\n*'''Kassandra:''' ''There's the stables. The wine in there should be good enough for [[horse]]s, at least.''\nKassandra infiltrated the stables, and found the wine.\n*'''Kassandra:''' ''That's the wine Thespis wanted me to bring for the audience... It doesn't smell great, but it should be reasonable.''",
+    "Section_Trivia": "*If players choose to complete this mission, the other support quest [[A Sophisticated Tipple]] will disappear upon completion.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Show Must Go On",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Approaching the [[Stable of Ares]], Kassandra observed the building.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There's the stables. The wine in there should be good enough for [[horse]]s, at least.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra infiltrated the stables, and found the wine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''That's the wine Thespis wanted me to bring for the audience... It doesn't smell great, but it should be reasonable.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

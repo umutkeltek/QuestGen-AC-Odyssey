@@ -1,0 +1,157 @@
+{
+    "Quest_Name": "Mistaken Identity",
+    "Quest_ID": "236755",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Mistaken Identity",
+        "description": "'A woman who was passing information to Athens|Athenians looked for help when her husband was thought to be the spy and was taken by bandits.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Mistaken Identity''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was asked by a spy for [[Athens]] to help her husband.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''The priestess [[Io]] did [[Zeus]] pursue. As a cloud his love was true.''\n*'''Kassandra:''' ''I've been looking for you... I saw your message. What's happened?''\n*'''Woman:''' ''My husband has been captured by bandits. They think he is a spy, and those ''mal\u00e1kes'' know the [[Sparta]]ns will reward them for his capture.''\n*'''Kassandra:''' ''Being a spy is dangerous work.''\n*'''Woman:''' ''It is but he's not even a spy! It was me. I can't let this happen,'' misthios.\n<tabber>\n|-|You want all the outlaws to be killed.=\n|-|You want the man rescued.=\n*'''Kassandra:''' ''You want me to rescue him.''\n*'''Woman:''' ''No. All the bandits must die.''\n</tabber>\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Perfect. Time is of the essence.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left the woman, sought out the bandit camp and killed the bandits within before returning to the spy.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''Thank you for all you've done. Please, take this.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''The priestess [[Io]] did [[Zeus]] pursue. As a cloud his love was true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I've been looking for you... I saw your message. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Woman:''' ''My husband has been captured by bandits. They think he is a spy, and those ''mal\u00e1kes'' know the [[Sparta]]ns will reward them for his capture.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Being a spy is dangerous work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Woman:''' ''It is but he's not even a spy! It was me. I can't let this happen,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|You want all the outlaws to be killed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|You want the man rescued.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You want me to rescue him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Woman:''' ''No. All the bandits must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "13",
+            "content": "(Accept - I'll hunt the outlaws.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''Perfect. Time is of the essence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "17",
+            "content": "Kassandra left the woman, sought out the bandit camp and killed the bandits within before returning to the spy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Woman:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Woman:''' ''Thank you for all you've done. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

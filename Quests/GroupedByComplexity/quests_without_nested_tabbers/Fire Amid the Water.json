@@ -1,0 +1,70 @@
+{
+    "Quest_Name": "Fire Amid the Water",
+    "Quest_ID": "233466",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Atlantis was home to a unique metal known as Adamant|adamant ingot, which could be used to forge the stsrongest weaponry known to human and Isu alike. If enough adamant was found, who knows the power Kassandra could hold in her own hands?'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Fire Amid the Water''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found a strange, heavy piece of metal.",
+    "Section_Dialogue": "While exploring Atlantis, Kassandra came across an [[Adamant]] ingot and a note.\n*'''Kassandra:''' ''Phew, this metal is heavy. And here's a note... The [[Forge of Atlantis]]? This can be used to create weapons! I have to find this place.''\n*'''Adamant shipment record:''' ''Enclosed is the last adamant ingot from the old Forge of Atlantis south of the [[Royal Mountain of Poseidon]]. The rest of the ingots should be kept in multiple city archives and repositories. A meeting hall will be built in the ''Dikastes<nowiki>'</nowiki>'' honor once the Forge is destroyed at a later date.''\nKassandra explored various archives and repositories, including the locations for the [[Keeper's Insight]]s in the [[Porimos Ring]] and collected nine ingots in total. She brought them to the Forge of Atlantis.\n\n[Hephaistos machine dialogue: Choose between Warrior, Hunter, Assassin configuration. Dialogue options and outcomes repeat at the other two machines]",
+    "Section_Outcome": "Kassandra recovered nine [[adamant]] ingots from several locations throughout [[Atlantis]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Judgment of Atlantis]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While exploring Atlantis, Kassandra came across an [[Adamant]] ingot and a note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Phew, this metal is heavy. And here's a note... The [[Forge of Atlantis]]? This can be used to create weapons! I have to find this place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Adamant shipment record:''' ''Enclosed is the last adamant ingot from the old Forge of Atlantis south of the [[Royal Mountain of Poseidon]]. The rest of the ingots should be kept in multiple city archives and repositories. A meeting hall will be built in the ''Dikastes<nowiki>'</nowiki>'' honor once the Forge is destroyed at a later date.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra explored various archives and repositories, including the locations for the [[Keeper's Insight]]s in the [[Porimos Ring]] and collected nine ingots in total. She brought them to the Forge of Atlantis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "[Hephaistos machine dialogue: Choose between Warrior, Hunter, Assassin configuration. Dialogue options and outcomes repeat at the other two machines]",
+            "segment_type": "Narrative"
+        }
+    ]
+}

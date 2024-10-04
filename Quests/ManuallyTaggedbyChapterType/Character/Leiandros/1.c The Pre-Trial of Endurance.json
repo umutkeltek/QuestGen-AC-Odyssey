@@ -1,0 +1,46 @@
+{
+    "QuestName": "The Pre-Trial of Endurance",
+    "QuestID": "223991",
+    "Revision": {
+        "id": "1047458",
+        "parentid": "893176",
+        "timestamp": "2023-06-13T19:08:56Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047458",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "2wc0fefxthycyz9p7a2gyo1om44xj8o"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        },
+        "Tag_c": {
+            "description": "concurrent"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Pre-Trial of Endurance",
+        "image": "ACOd-PreTrialEndurance-Master.jpg",
+        "description": "'Kassandra had to endure the Pre-Trial of Endurance.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Support",
+        "previous": "Minotour De Force",
+        "next": "The Pre-Trial of Strength {{c|concurrent}}<br>The Pre-Trial of Accuracy {{c|concurrent}}<br>Cashing In On the Cow",
+        "source": "Kassandra",
+        "location": "Pephka, Krete, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''The Pre-Trial of Endurance''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra participated in the Trial of Endurance.",
+    "Section_Dialogue": "Kassandra approached a platform overlooking a pool of water, where the [[Pre-Trial Master of Endurance|trial master]] was waiting.\n*'''Pre-Trial Master of Endurance:''' ''Stay away, potential champion. You have too much to live for... Only spending a quite affordable amount of [[drachma]]e can save your soul!''\nKassandra approached her.\n*'''Pre-Trial Master of Endurance:''' ''I warn you\u2014pay to pass this Trial, potential champion. The Trial of Endurance has seen more deaths than all the other Trials combined!''\n*'''Kassandra:''' ''Were the others drunk when they jumped?''\n*'''Pre-Trial Master of Endurance:''' ''Actually, yes. Very unprofessional of them.<br />Should you survive the Champion's Dive, you'll need to retrieve my Trial Token from a chest in the [[Cave of Wealth|darkest depths]] of the water below.''\n\n<tabber>\n|-|Accept \u2013 I'll do your Trial.=\n*'''Kassandra:''' ''Your Token will be mine.''\n*'''Pre-Trial Master of Endurance:''' ''No, please, I urge you\u2014''pay me'' for my Token. The watery dangers you must otherwise face to retrieve it are too great!''\n(Accept \u2013 I'll do the Trial.)\n*'''Kassandra:''' ''You won't get one drachma from me. I'll do the Trial.''\n*'''Pre-Trial Master of Endurance:''' ''If an excruciating underwater death is what you desire, who am I to stop you? Remember, you'll find my Token in a chest at the bottom of the lake.<br />I'll be waiting for you at the water's edge in the extremely unlikely event you survive.''\n*'''Kassandra:''' ''How exactly does going for a swim test my ability to slay the [[Minotaur]]?''\n*'''Pre-Trial Master of Endurance:''' ''...Minotaurs work in mysterious ways?''\nThe trial master walked away.\n*'''Kassandra:''' ''Seems like a lot of hassle for a Token...''\nKassandra approached the edge of the platform and spotted several [[Great white shark|sharks]] in the waters below.\n*'''Kassandra:''' ''Looks like I'll have to get wet.''\nKassandra dove into the waters below and eliminated the sharks. After doing so, she dove further towards a cave, wherein she found a chest and looted its contents, including the token.\n|-|I'll pay. [1500]=\n*'''Kassandra:''' ''Just give me the mal\u00e1kas Token.''\n*'''Pre-Trial Master of Endurance:''' ''Some might say you've paid to skip, others may call you an honorless coward... But know this: today you've invested in not dying. Excellent choice, champion.''\n</tabber>\n\n(If players talk to her again after the mission.)\n*'''Pre-Trial Master of Endurance:''' ''Don't lose your Token, champion! But if you do, I can give you a'' fantastic ''deal on a replacement.''",
+    "Section_Outcome": "Kassandra completed the Trial of Endurance, obtaining a token in the process.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,39 @@
+{
+    "QuestName": "Waiting for Galarnos",
+    "QuestID": "225070",
+    "Revision": {
+        "id": "1067710",
+        "parentid": "1047434",
+        "timestamp": "2023-10-30T16:23:06Z",
+        "contributor": null,
+        "origin": "1067710",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ityf6xk28j8slyiyo9sp439jtzpfrgt"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'When Galarnos, an art dealer, did not return from his trip, his friend hired Kassandra to track him down.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Son of a Fisherman",
+        "next": "Qamra, Medicine Woman",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Waiting for Galarnos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A resident of [[Eresos]] asked Kassandra to look for his friend, [[Galarnos]], an art [[merchant]] who had gone missing.",
+    "Section_Dialogue": "Kassandra traveled through Eresos on the island of [[Lesbos]] and overheard a man fretting about another's tardiness.\n*'''Civilian:''' ''It's been too long! What will I do?''\nShe asked the man what was wrong.\n*'''Kassandra:''' ''What's going on?''\n*'''Civilian:''' ''I don't know what to do! My friend [[Galarnos]] was bringing me back a shipment of rare art, but he hasn't arrived. I fear the worst.''\n\n<tabber>\n|-|I can help for a price.=\n*'''Kassandra:''' ''If you value your friend more than your drachmae, maybe you'd pay for his retrieval?''\n*'''Civilian:''' ''Of course I value Galarnos more than drachmae. I take it wealth is all ''you'' value, ''[[Mercenary|misthios]]''?''\n|-|Don't give up hope.=\n*'''Kassandra:''' ''Your friend might still be alive. Why not send out a search party?''\n*'''Civilian:''' ''Thank you stranger. I will hold on to hope as long as I can. Perhaps ''you'' have some experience finding things?''\n</tabber>\n*'''Kassandra:''' ''Depends where his ship was coming from.''\n*'''Civilian:''' ''It set sail from [[Makedonia]]. If you help find my friend, you can keep whatever art he was bringing back.''\n(Accept \u2013 \"I'll see what I can do.\")\n*'''Kassandra:''' ''I can't promise anything\u2014the sea is vast and hungry. I'll need some information to get started.''\n(If players choose \"Where could the boat be?\")\n*'''Kassandra:''' ''You said Galarnos was sailing from Makedonia. Is there anywhere else he might dock?''\n*'''Civilian:''' ''No where. The recent storms must've caught him. If they were close enough to the island, they might've been forced into a [[Stormfall Bay|bay]]. I'd check the coast.''\n(If players choose \"What can you tell me about the art?\")\n*'''Kassandra:''' ''This rare art you mentioned sounds valuable...''\n*'''Civilian:''' ''Galarnos is an art dealer. I sent him to Makedonia to make a purchase on my behalf. Not knowing what he's going to bring back is half the fun.''\n(Leave \u2013 \"I have enough information.\")\n*'''Kassandra:''' ''Hopefully the sea will reveal more than you've given me to go on.''\n*'''Civilian:''' ''I thank you for doing this, ''misthios.\nKassandra took her leave and thought to herself where she should travel.\n*'''Kassandra:''' ''I better check Stormfall Bay to the northwest.''\nKassandra traveled northwest until the road broke towards the shore. [[Ikaros]] called out the shipwreck.\n*'''Kassandra:''' ''That must be Stormfall Bay.''\nKassandra strode onto Stormfall Bay and approached the shipwreck.\n*'''Kassandra:''' ''Some of the wood and parts have been looted.''\nShe noticed that some of the bodies still had drachmae on them.\n*'''Kassandra:''' ''Who loots a ship for materials, and not the dead for drachmae?''\nShe inspected the body ringed in blood. He carried a letter on him.\n*'''Kassandra:''' ''This man didn't drown. He was stabbed to death here on shore.''\nShe inspected the blood nearby and determined it trailed away from the beach.\n*'''Kassandra:''' ''Hmm... a bloody trail. Someone was dragged towards the cliffs.''\nKassandra followed the blood trail, and Ikaros spied the entrance to the [[Seaside Cavern]] up the hill.\n*'''Kassandra:''' ''This looks like the place.''\nKassandra entered the cave and recognized the aesthetics of the [[Followers of Ares]].\n*'''Kassandra:''' ''Looks like the Followers of Ares.''\nKassandra infiltrated the depths of the cave and killed any Followers of Ares she came across, eventually finding the main chamber with the prison cages. She noticed one person lived within them.\n*'''Kassandra:''' ''A survivor.''\n:[Maybe exclusive dialogue for finding Galarnos first?]\n:*'''Galarnos:''' ''You there! My name's Galarnos. I'll pay you to get me out of here.''\nKassandra freed Galarnos.\n*'''Galarnos:''' ''Free at last!''\nKassandra escorted him out of the cave, killing any Followers between them and the exit. Outside the rear entrance overlooking the [[Petrified Temple]], Kassandra spoke with the liberated Galarnos.\n*'''Galarnos:''' ''Please, accept this [[drachma]]e as thanks. I tried to trade it for my freedom, but that crazy ''mal\u00e1kes'' only wanted my blood.''\n\n(Reward: [[Archer's Mace]], drachmae, remove after page created)",
+    "Section_Outcome": "Kassandra rescued Galarnos from the Followers of Ares.",
+    "Section_Trivia": "*The memory's name is a possible reference to ''{{Wiki|Waiting for Godot}}'' a play by {{Wiki|Samuel Beckett}}.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,878 @@
+{
+    "Quest_Name": "Runaway",
+    "Quest_ID": "234050",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Runaway - Kassandra and Arion Returns.png",
+        "description": "'Worried her Arion|son was spending too much time alone since the death of his Dantos|father, Anais sent Kassandra to Arion's favourite Den of Lykaon|cave in hopes she could talk sense into the boy, warrior to \"warrior.\"'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "'The Lost Tales of Greece'",
+        "previous": "Where We Left Off",
+        "next": "Unplanned Parenthood",
+        "source": "Kassandra",
+        "location": "Arkadia, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Runaway''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After learning of her friend [[Anais]]' relevation that she was married, Kassandra returned to her farm to learn more.",
+    "Section_Dialogue": "Kassandra returned to Anais at her farm.\n*'''Anais:''' ''I'm glad you came.''\n*'''Kassandra:''' ''So you're married. Why didn't you tell me sooner?''\n*'''Anais:''' ''Seeing you brought back so many fond memories, I wanted to live in them for as long as I could. Life's been hard since [[Dantos]] left.''\n*'''Kassandra:''' ''Where did he go?''\n*'''Anais:''' ''Once the war started, [[Sparta]]ns came for his [[sword]]. He was killed in battle... Leaving me to run the farm and raise our [[Arion|son]].''\n*'''Kassandra:''' ''You have a son?''\n*'''Anais:''' ''Arion. I'd love for you to meet him, but he's run off again.''\n*'''Kassandra:''' ''Why aren't we looking for him?''\n*'''Anais:''' ''He always goes to the same [[Den of Lykaon|cave]], where he trains to be a mighty warrior.''\n\n<tabber>\n|-|Your son's a true Spartan=\n*'''Kassandra:''' ''I've never known a boy who didn't want to train to be the next Achillies.''\n|-|He shouldn't train alone.=\n*'''Kassandra:''' ''Training alone encourages bad habits.''\n</tabber>\n*'''Anais:''' ''Yes of course! You've given me an idea. You could talk to him.''\n*'''Kassandra:''' ''I could?''\n*'''Anais:''' ''Gods know he doesn't listen to his boring mother. But you've seen death up close... You could convince him to stay away from fighting and help me on the farm.''\n(Accept \u2013 I'll talk to your son.)\n*'''Kassandra:''' ''All right, I'll talk to your son.''\n*'''Anais:''' ''Thank you.''\n(If players choose \"How should I introduce myself?\")\n*'''Kassandra:''' ''How should I introduce myself without scaring the boy?''\n*'''Anais:''' ''Tell him you're a friend of his mother's from [[Kephallonia]]\u2014the one with the [[Ikaros|eagle]]. The stories I've told him about you are his favourites.''\n(If players choose \"What can you tell me about his father?\")\n*'''Kassandra:''' ''is there anything about your son's father I should know to help me connect with him?''\n*'''Anais:''' ''Dantos broke his finger working the fields. It healed crooked. When Arion asked about it, my husband said he was so strong as a baby, he grabbed it and snapped it like a twig. This is how we knew he was blessed by [[Herakles]].''\n(If players choose \"I'll find your son.\")\n*'''Kassandra:''' ''I'll find Arion.''\n*'''Anais:''' ''My husband used to take him to the cave on hunts\u2014they'd spend nights there. It's been taken over by [[wolves]] since then.''\n*'''Kassandra:''' ''Wait, did you say wolves?''\n*'''Anais:''' ''Yes, worries me sick. He calls them his \"friends,\" and believe it or not they seem protective of the boy. Please don't harm them, Kassandra. Arion would be devastated.''\n[[File:ACOD_Runaway_-_Kassandra_Enters_Cave.png|thumb|250px|Kassandra in the cave]]\nKassandra headed to the cave near [[Mount Psophis]], finding a pack of wolves guarding the entrance.\n\n*'''Kassandra:''' ''If they don't attack me, I won't attack them.''\n\nShe managed to sneak inside without harming the creatures, finding Arion on top of a cliff.\n*'''Arion:''' ''Whoa! You look like a mighty warrior.''\n*'''Kassandra:''' ''And you must be Arion. I've come to bring you home.''\n*'''Arion:''' ''Why should I trust you?''\n\n<tabber>\n|-|I'm the Eagle Bearer from Kephallonia=\n(This becomes available if players asked Anais \"How should I introduce myself?\")\n*'''Kassandra:''' ''Your mother and I used to get into trouble back on Kephallonia?''\n*'''Arion:''' ''Kephallonia?''\n*'''Kassandra:''' ''We'd sneak into the markets, grab as much cheese and grapes and bread as we could carry. My eagle Ikaros kept watch and warned us if there was anyone coming.''\n*'''Arion:''' ''You're Kassandra the Eagle Bearer!''\n*'''Kassandra:''' ''Your mother trusted me with the very important task of escorting you home through this dangerous forest.''\n|-|I'm a friend of your mother's.=\n*'''Kassandra:''' ''Your mother and I have known each other for a long time. She told me you like to come here to train, but she wants you to come home.''\n</tabber>\n\n*'''Arion:''' ''But I don't want to leave.''\n*'''Kassandra:''' ''I know you come here to be close to your father.''\n*'''Arion:''' ''You know nothing about my pater!''\n\n<tabber>\n|-|I know you broke your father's finger.=\n(This becomes available if players asked Anais \"What can you tell me about his father?\")\n*'''Kassandra:''' ''I know when you were a baby, you broke his finger with the strength of Herakles.''\n*'''Arion:''' ''Pater's fingers were big and tough. That's why I train\u2014to make these hands strong like his.''\n|-|You're right, I know nothing.=\n*'''Kassandra:''' ''You're right. Maybe you could tell me.''\n*'''Arion:''' ''I don't want to talk about him. I want to become a warrior.''\n</tabber>\n\n<tabber>\n|-|(If Arion does trust Kassandra)=\n*'''Kassandra:''' ''I understand, but first we need to leave this cave. The wolves are getting hungry.''\n*'''Arion:''' ''They'd never eat me. They're my friends.''\nArion began climbing down.\n*'''Kassandra:''' ''Um, yes, your friends. Let's go anyway, your mother misses you very much.''\n*'''Arion:''' ''If I do, could ''you'' teach me to be a mighty warrior?''\n*'''Kassandra:''' ''We'll see. Now come.''\n|-|(If Arion does not trust Kassandra)=\n*'''Kassandra:''' ''You've spent enough time here Arion, its time to go home.''\n*'''Arion:''' ''I don't trust you. I'm not leaving.''\n{{#tag: tabber|\nLie - If you come with me, I'll train you.=\n*'''Kassandra:''' ''I'll make you a deal. Come with me now, and I'll train you to be the mightiest warrior in all of Arkadia.''\n*'''Arion:''' ''Really? You really will?''\n*'''Kassandra:''' ''Really. Now Come.''\n{{!}}-{{!}}\nEnough is enough. Come with me now.=\nKassandra gets angry.\n*'''Kassandra:''' ''That's enough. Your mother sent me here to bring you home, and that's exactly what I'm going to do. So get down here right now before I come up after you.''\n*'''Arion:''' ''OK.''\n}}\n</tabber>\n\n[[File:ACOD_Runaway_-_Leaving_Cave.png|thumb|250px|Kassandra and Arion leaving the cave]]\nKassandra managed to get Arion to follow her out of the cave and back home.\n\n(If Kassandra got angry with Arion)\n*'''Kassandra:''' ''You're not still mad at me for the cave, are you? Fine.''\n\nThey returned to the farm.\n*'''Anais:''' ''There you both are.''\n\n<tabber>\n|-|(If the wolves were not killed)=\n*'''Arion:''' ''You didn't have to send anyone after me, mater. I can take care of myself.''\n*'''Anais:''' ''I know you can, my love.''\n|-|(If the wolves were killed)=\n*'''Arion:''' ''She killed my friends, mater!''\n*'''Anais:''' ''Oh Kassandra, why?''\n</tabber>\n\n<tabber>\n|-|(If Kassandra had gained Arions trust)=\n*'''Arion:''' ''You told her about me, mater. She knew things.''\n*'''Anais:''' ''I did. She wanted to know all about you so you weren't scared of going with her.''\n*'''Arion:''' ''I wasn't scared. I was brave.''\n*'''Anais:''' ''Thank you for bringing him home.''\n|-|If Kassandra promissed Arion to train him=\n*'''Arion:''' ''At least Kassandra said she'd make me the best warrior Arkadia.''\n*'''Kassandra:''' ''He wouldn't come with me, so I said I'd train him.''\n*'''Arion:''' ''You lied to me?''\n*'''Anais:''' ''She was just following my wishes, my love.''\n*'''Arion:''' ''I hate you both!''\n*'''Anais:''' ''His temper comes and goes like waves on a beach. Thank you for bringing him home.''\n|-|(If Kassandra got angry with Arion)=\n*'''Arion:''' ''She yelled at me. I was so scared.''\n*'''Anais:''' ''You yelled at my child?''\n{{#tag: tabber|\nI'm sorry, Arion.=\n*'''Kassandra:''' ''Arion, I'm sorry. I didn't mean to frighten you.''\n*'''Arion:''' ''I hate you.''\n*'''Anais:''' ''If I had a drachma for every time he's said that to me, I wouldn't need this farm. Thanks for apologizing - he's upset now, but he'll come around.''\n{{!}}-{{!}}\nI did what I had to do.=\n*'''Kassandra:''' ''He wouldn't come with me, there were wolves everywhere... I did what needed to be done.''\n*'''Arion:''' ''I hate you.''\n*'''Anais:''' ''Next time think twice before you raise your voice to my child.''\n*'''Kassandra:''' ''Anais, wait.''\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra helped Anais to look for her son [[Arion]] and bring him back safely.",
+    "Section_Trivia": "*If players ask Anais the optional questions in their conversation there are additional dialogue choices when she mets Arion in the cave, with which she can convince him to trust her (at least one of those choices have to be used to convince him).",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Anais at her farm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Anais:''' ''I'm glad you came.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''So you're married. Why didn't you tell me sooner?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Anais:''' ''Seeing you brought back so many fond memories, I wanted to live in them for as long as I could. Life's been hard since [[Dantos]] left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Where did he go?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Anais:''' ''Once the war started, [[Sparta]]ns came for his [[sword]]. He was killed in battle... Leaving me to run the farm and raise our [[Arion|son]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You have a son?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Anais:''' ''Arion. I'd love for you to meet him, but he's run off again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Why aren't we looking for him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Anais:''' ''He always goes to the same [[Den of Lykaon|cave]], where he trains to be a mighty warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|Your son's a true Spartan=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I've never known a boy who didn't want to train to be the next Achillies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|He shouldn't train alone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Training alone encourages bad habits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Anais:''' ''Yes of course! You've given me an idea. You could talk to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I could?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Anais:''' ''Gods know he doesn't listen to his boring mother. But you've seen death up close... You could convince him to stay away from fighting and help me on the farm.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "21",
+            "content": "(Accept \u2013 I'll talk to your son.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''All right, I'll talk to your son.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Anais:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If players choose \"How should I introduce myself?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''How should I introduce myself without scaring the boy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Anais:''' ''Tell him you're a friend of his mother's from [[Kephallonia]]\u2014the one with the [[Ikaros|eagle]]. The stories I've told him about you are his favourites.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "27",
+            "content": "(If players choose \"What can you tell me about his father?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''is there anything about your son's father I should know to help me connect with him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Anais:''' ''Dantos broke his finger working the fields. It healed crooked. When Arion asked about it, my husband said he was so strong as a baby, he grabbed it and snapped it like a twig. This is how we knew he was blessed by [[Herakles]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "30",
+            "content": "(If players choose \"I'll find your son.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I'll find Arion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Anais:''' ''My husband used to take him to the cave on hunts\u2014they'd spend nights there. It's been taken over by [[wolves]] since then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Wait, did you say wolves?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Anais:''' ''Yes, worries me sick. He calls them his \"friends,\" and believe it or not they seem protective of the boy. Please don't harm them, Kassandra. Arion would be devastated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "35",
+            "content": "[[File:ACOD_Runaway_-_Kassandra_Enters_Cave.png|thumb|250px|Kassandra in the cave]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "36",
+            "content": "Kassandra headed to the cave near [[Mount Psophis]], finding a pack of wolves guarding the entrance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''If they don't attack me, I won't attack them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "40",
+            "content": "She managed to sneak inside without harming the creatures, finding Arion on top of a cliff.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Arion:''' ''Whoa! You look like a mighty warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''And you must be Arion. I've come to bring you home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "43",
+            "content": "*'''Arion:''' ''Why should I trust you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "45",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "46",
+            "content": "|-|I'm the Eagle Bearer from Kephallonia=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "47",
+            "content": "(This becomes available if players asked Anais \"How should I introduce myself?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Your mother and I used to get into trouble back on Kephallonia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Arion:''' ''Kephallonia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''We'd sneak into the markets, grab as much cheese and grapes and bread as we could carry. My eagle Ikaros kept watch and warned us if there was anyone coming.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Arion:''' ''You're Kassandra the Eagle Bearer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Your mother trusted me with the very important task of escorting you home through this dangerous forest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "53",
+            "content": "|-|I'm a friend of your mother's.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Your mother and I have known each other for a long time. She told me you like to come here to train, but she wants you to come home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "55",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U5",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D35",
+            "global_id": "57",
+            "content": "*'''Arion:''' ''But I don't want to leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I know you come here to be close to your father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "59",
+            "content": "*'''Arion:''' ''You know nothing about my pater!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "62",
+            "content": "|-|I know you broke your father's finger.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O3",
+            "global_id": "63",
+            "content": "(This becomes available if players asked Anais \"What can you tell me about his father?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I know when you were a baby, you broke his finger with the strength of Herakles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "65",
+            "content": "*'''Arion:''' ''Pater's fingers were big and tough. That's why I train\u2014to make these hands strong like his.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "66",
+            "content": "|-|You're right, I know nothing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''You're right. Maybe you could tell me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "68",
+            "content": "*'''Arion:''' ''I don't want to talk about him. I want to become a warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "69",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U7",
+            "global_id": "70",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "71",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "72",
+            "content": "|-|(If Arion does trust Kassandra)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I understand, but first we need to leave this cave. The wolves are getting hungry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "74",
+            "content": "*'''Arion:''' ''They'd never eat me. They're my friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "75",
+            "content": "Arion began climbing down.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Um, yes, your friends. Let's go anyway, your mother misses you very much.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "77",
+            "content": "*'''Arion:''' ''If I do, could ''you'' teach me to be a mighty warrior?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''We'll see. Now come.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "79",
+            "content": "|-|(If Arion does not trust Kassandra)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''You've spent enough time here Arion, its time to go home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "81",
+            "content": "*'''Arion:''' ''I don't trust you. I'm not leaving.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "82",
+            "content": "{{#tag: tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "83",
+            "content": "Lie - If you come with me, I'll train you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''I'll make you a deal. Come with me now, and I'll train you to be the mightiest warrior in all of Arkadia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "85",
+            "content": "*'''Arion:''' ''Really? You really will?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Really. Now Come.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "87",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "88",
+            "content": "Enough is enough. Come with me now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N5",
+            "global_id": "89",
+            "content": "Kassandra gets angry.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''That's enough. Your mother sent me here to bring you home, and that's exactly what I'm going to do. So get down here right now before I come up after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "91",
+            "content": "*'''Arion:''' ''OK.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "92",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE4",
+            "global_id": "93",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U8",
+            "global_id": "94",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "I2",
+            "global_id": "95",
+            "content": "[[File:ACOD_Runaway_-_Leaving_Cave.png|thumb|250px|Kassandra and Arion leaving the cave]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "96",
+            "content": "Kassandra managed to get Arion to follow her out of the cave and back home.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "97",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "98",
+            "content": "(If Kassandra got angry with Arion)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''You're not still mad at me for the cave, are you? Fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "100",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "101",
+            "content": "They returned to the farm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "102",
+            "content": "*'''Anais:''' ''There you both are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "103",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS5",
+            "global_id": "104",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "105",
+            "content": "|-|(If the wolves were not killed)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "106",
+            "content": "*'''Arion:''' ''You didn't have to send anyone after me, mater. I can take care of myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "107",
+            "content": "*'''Anais:''' ''I know you can, my love.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC12",
+            "global_id": "108",
+            "content": "|-|(If the wolves were killed)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "109",
+            "content": "*'''Arion:''' ''She killed my friends, mater!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "110",
+            "content": "*'''Anais:''' ''Oh Kassandra, why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "111",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U12",
+            "global_id": "112",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS6",
+            "global_id": "113",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "114",
+            "content": "|-|(If Kassandra had gained Arions trust)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "115",
+            "content": "*'''Arion:''' ''You told her about me, mater. She knew things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "116",
+            "content": "*'''Anais:''' ''I did. She wanted to know all about you so you weren't scared of going with her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "117",
+            "content": "*'''Arion:''' ''I wasn't scared. I was brave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "118",
+            "content": "*'''Anais:''' ''Thank you for bringing him home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC14",
+            "global_id": "119",
+            "content": "|-|If Kassandra promissed Arion to train him=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "120",
+            "content": "*'''Arion:''' ''At least Kassandra said she'd make me the best warrior Arkadia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''He wouldn't come with me, so I said I'd train him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "122",
+            "content": "*'''Arion:''' ''You lied to me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "123",
+            "content": "*'''Anais:''' ''She was just following my wishes, my love.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "124",
+            "content": "*'''Arion:''' ''I hate you both!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "125",
+            "content": "*'''Anais:''' ''His temper comes and goes like waves on a beach. Thank you for bringing him home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC15",
+            "global_id": "126",
+            "content": "|-|(If Kassandra got angry with Arion)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D70",
+            "global_id": "127",
+            "content": "*'''Arion:''' ''She yelled at me. I was so scared.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "128",
+            "content": "*'''Anais:''' ''You yelled at my child?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "129",
+            "content": "{{#tag: tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "130",
+            "content": "I'm sorry, Arion.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D72",
+            "global_id": "131",
+            "content": "*'''Kassandra:''' ''Arion, I'm sorry. I didn't mean to frighten you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "132",
+            "content": "*'''Arion:''' ''I hate you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "133",
+            "content": "*'''Anais:''' ''If I had a drachma for every time he's said that to me, I wouldn't need this farm. Thanks for apologizing - he's upset now, but he'll come around.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "134",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC17",
+            "global_id": "135",
+            "content": "I did what I had to do.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D75",
+            "global_id": "136",
+            "content": "*'''Kassandra:''' ''He wouldn't come with me, there were wolves everywhere... I did what needed to be done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "137",
+            "content": "*'''Arion:''' ''I hate you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "138",
+            "content": "*'''Anais:''' ''Next time think twice before you raise your voice to my child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "139",
+            "content": "*'''Kassandra:''' ''Anais, wait.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "140",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE6",
+            "global_id": "141",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

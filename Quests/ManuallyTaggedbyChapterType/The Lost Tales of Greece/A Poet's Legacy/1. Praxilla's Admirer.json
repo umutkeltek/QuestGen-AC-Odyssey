@@ -1,0 +1,41 @@
+{
+    "QuestName": "Praxilla's Admirer",
+    "QuestID": "226823",
+    "Revision": {
+        "id": "1071385",
+        "parentid": "1071384",
+        "timestamp": "2023-11-23T05:02:04Z",
+        "contributor": null,
+        "comment": "/* Dialogue */",
+        "origin": "1071385",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ru78ssg68giq7hy9c9ue2g8zg6xmzd7"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'On the coast of Boeotia there was a famed poetry festival. It was here that Kassandra was tasked in aiding a young Orchimedes|poet with wooing his idol, the beautiful Praxilla.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Main",
+        "next": "Lyre Lyre",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Praxilla's Admirer''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Orchimedes]] about wooing his idol, the poet [[Praxilla]].",
+    "Section_Dialogue": "Kassandra speaks to Alkibiades and Orchimedes.\n*'''Alkibiades:''' ''My, my, is that Kassandra of [[Agiad dynasty|Agiad]]? The Eagle Bearer? Messenger of [[Jupiter|Zeus]]? She who launched a thousand hearts?''\n*'''Kassandra:''' ''Alkibiades, I am known by many names, but that last one sounds to be of your own making.''\n*'''Alkibiades:\u00a0'''''My young friend Orchimedes here could use your legendary ''talents ''to woo the object of his desire.''\n*'''Orchimedes:\u00a0'''''You would have my eternal gratitude.''\n(If \"Who's your friend, Alkibiades?\" is chosen.)\n*'''Kassandra:''\u00a0'''I'd like to know more about the man asking for my help.''\n*'''Orchimedes:''''' I'm Orchimedes, I came to Alkibiades because he boasts of his exploits as a lover and knows Praxilla.''\n(If \"What do you mean, wooing?\" is chosen.)\n*'''Kassandra:\u00a0'''''I'm a\u00a0''[[Mercenary|misthios]],''\u00a0not some famed lover.''\n<tabber>\n|-|If Lykaon romanced=\n*'''Alkibiades:\u00a0'''''I heard that Kassandra learned a special healing touch from [[Lykaon]].''\n|-|If Roxana romanced=\n*'''Alkibiades:''' ''Nonsense! She proved her strength, dexterity, and endurance when she got [[Roxana]] on her back.''\n|-|If Xenia romanced=\n*'''Alkibiades:''' ''Nonsense! I've heard that our ''misthios'' here is the only one allowed near the [[Piracy|pirate]] queen [[Xenia]]'s booty.''\n|-|Other romances=\n</tabber>\n(Tell me what you're trying to do.)\n*'''Kassandra:''\u00a0'''What's the job?''\n*'''Orchimedes:\u00a0'''''Have you ever heard of Praxilla?''\n*'''Kassandra: '''''The name sounds familiar. Who is she?''\n*'''Orchimedes:\u00a0'''''Who\u00a0''is\u00a0''she? A poet blessed by [[Apollo]] himself! She describes the [[Greek mythology|gods]] as if they were her lovers. Her lyre is a legendary weapon, wielded in her hands. I want to meet her, but talking to a goddess such as she... terrifying.''\n*'''Alkibiades:''' ''Oh nonsense, usually you give a woman some flowers and she'll show you\u00a0her flower. However, this is Praxilla. She is not easily impressed.''\n*'''Orchimedes:''' ''Of course, no ordinary flower will do. They need to be worthy of a goddess.''\n*'''Alkibiades:''' ''I come to this coast every year for the poetry festival. Of all the beautiful blossoms, none match the scent and radiance of the [[Trade Goods|Coral Rose]]. Fetch some, and all doors and\u00a0''legs''\u00a0shall open for you.''\n(Accept \u2013\u00a0I'll find your Coral Rose.)\n*'''Kassandra:''' ''I'll return with your flowers.''\n(If \"Where can I find the Coral Rose?\" is chosen.)\n*'''Kassandra:''' ''Where can I find the Coral Rose? It sounds rare.''\n*'''Alkibiades:''' ''You would be correct. However, like all good things in life, these take more work than most are willing to expend. They're atop a nearby mountain.''\n(If \"Where do I meet you after?\" is chosen.)\n*'''Kassandra:''' ''Say I do get these flowers... Where would I bring them?''\n*'''Orchimedes:''' ''Back to camp. Praxilla should be in her tent.''\n(If \"What's the poetry festival?\" is chosen.)\n*'''Kassandra:''' ''You mentioned being here for a poetry festival?''\n*'''Alkibiades:''' ''I did! It's one of the many festivals to Apollo, but this one holds a special place in my heart, among other places. Other festivals are so stuffy. Here, we worship like [[maenad]]s.''\n(Leave \u2013 I know enough.)\n*'''Kassandra:''' ''I've heard enough.''\n*'''Orchimedes:''' ''Please, if you are as skilled with [[sword]] and heart as Alkibiades says, you'll return to me with the Coral Rose. As a poet, it's best that I stay at camp while you do the hiking.''\n*'''Kassandra:''' ''You'd be an easy snack for [[Wolf|wolves]] or [[bear]]s. I'll return with the roses.''\nKassandra left to pick the roses, and soon found them.\n*'''Kassandra:''' ''These must be the Coral Roses.''\nShe then returned to speak with Orchimedes.\n*'''Kassandra:''' ''I've found your Coral Roses.''\n*'''Orchimedes:''' ''You're back! That's... that's perfect. Those roses are perfect. Oh, look at the luster. The fragrance. Now, you must deliver them to her.''\n<tabber>\n|-|You're the one who came here to see Praxilla.=\n*'''Kassandra:''' ''You came all this way to meet her. You should be the one to do it.''\n|-|You didn't pay me to give Praxilla flowers.=\n*'''Kassandra:''' ''That's not what I was hired for.'' You ''give them to her.''\n</tabber>\n*'''Orchimedes:''' ''Please! I'm much too nervous to speak to her. I've composed a poem to recite. Here, let me teach you -'' \n<tabber>\n|-|I'm no poet.=\n*'''Kassandra:''' ''I'd say it all wrong. I'm a'' misthios, ''not a poet.''\n*'''Orchimedes:''' ''Then would you at least deliver the flowers while I rehearse?''\n*'''Kassandra:''' ''Fine, but the rest is up to you.''\n|-|Read your own poem.=\n*'''Kassandra:''' ''I'm not saying any'' mal\u00e1kas ''poem. That's your job, not mine.''\n*'''Orchimedes:''' ''Then I must rehearse. Will you at least deliver the flowers before they wilt?''\n*'''Kassandra:''' ''Fine, but you'll do the rest.''\n</tabber>\n*'''Orchimedes:''' ''OK, she's at her tent. Right there. Go give them to her.''\nKassandra left Orchimedes to talk with Praxilla.",
+    "Section_Outcome": "Kassandra helped Orchimedes to collect five Coral Roses for Praxilla.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n<!--Interwiki links-->\n[[fr:L'admirateur de Praxilla]]"
+}

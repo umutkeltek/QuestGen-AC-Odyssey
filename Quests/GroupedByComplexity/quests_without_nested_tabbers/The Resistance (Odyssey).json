@@ -1,0 +1,294 @@
+{
+    "Quest_Name": "The Resistance (Odyssey)",
+    "Quest_ID": "224606",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra | the [[The Resistance | server bridge]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Resistance 2.png",
+        "name": "The Resistance",
+        "description": "'Kleon revealed that he and the Cult of Kosmos|Cult were responsible for Perikles' death and that a ship was sailing to Mytilene to quell a rebellion against his rule. Those loyal to Perikles knew his time was up.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Doing Time",
+        "next": "An Actor\u2019s Life for Me<br>Unearthing the Truth",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "425 BCE\u2013424 BCE"
+    },
+    "General_Description": "'''The Resistance''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After being freed from prison, Kassandra returned to [[Perikles' Residence]].",
+    "Section_Dialogue": "Kassandra retrieved her equipment and made her way to [[Perikles]]' residence, where she was greeted by [[Sokrates]] in the hallway.\n*'''Sokrates:''' ''You made it.''\n*'''Kassandra:''' ''Of course I did.''\n*'''Sokrates:''' ''[[Barnabas]] was ready to go after you again.''\n*'''Kassandra:''' ''Like he said, it's the thought that counts, right?''\n*'''Sokrates:''' ''Apparently. Come, the others are waiting.''\n[[File:ACOD The Resistance 3.png|thumb|250px|The Periklean Circle]]\nKassandra followed Sokrates into a room, where [[Alkibiades]], [[Aristophanes]], Barnabas, [[Herodotos]] and [[Hippokrates]] were waiting. This was the first formal meeting of the [[Periklean Circle]].\n*'''Herodotos:''' ''We were worried you wouldn't make it.''\n*'''Barnabas:''' ''Especially with every [[Athens|Athenian]] guard looking for you.''\n*'''Kassandra:''' ''[[Kleon]] will have to do more than that to stop me.''\nKassandra looked at the table filled with scrolls.\n*'''Kassandra:''' ''What's all this?''\n*'''Hippokrates:''' ''We've begun working on a plan to take down Kleon.''\n*'''Alkibiades:''' ''Although I hardly call it a plan. Lots of talking, not much... action.''\n(If players chose \"Why do this in Perikles' home?\")\n*'''Kassandra:''' ''It feels different without Perikles.''\n*'''Hippokrates:''' ''But his inspiration lives on\u2014that's why we're here.''\n*'''Sokrates:''' ''Where once we gathered to forget our problems, now we meet them head on.''\n*'''Alkibiades:''' ''And get back to what trulymatters\u2014''\n*'''Herodotos:''' ''\u2014To restore Athens to its former glory.''\n(If players chose \"Let's talk about your plan.\")\n*'''Kassandra:''' ''So you're taking down Kleon. Tell me the plan.''\n*'''Aristophanes:''' ''It won't be simple. His death would disrupt the peace and be worse for Athens.''\n*'''Herodotos:''' ''He's right. We must discredit him first.''\n[[File:ACOD The Resistance 4.png|thumb|250px|Aristophanes proposing a play to discredit Kleon]]\n*'''Alkibiades:''' ''Aristophanes apparently has {{Wiki|The Knights|some play}} he thinks will do the job.''\n*'''Aristophanes:''' ''Some play? It is so much more than that.''\n*'''Alkibiades:''' ''Oh, don't get your tunic in a twist. I just don't see why we can't all love each other. It's so much more fun that way.''\nAlkibiades left the room, leaving Kassandra to ask some final questions of the rest of the circle.\n\n(If players chose \"What's the play?\")\n*'''Kassandra:''' ''What's so special about the play? Will your famous \"Orange Ape\" impression be making an appearance?''\n*'''Aristophanes:''' ''Ha! Funnily enough, that was the inspiration.''\n*'''Kassandra:''' ''Isn't it a risk to show him in a bad light in front of his admirers?''\n*'''Aristophanes:''' ''I think the play will change their minds. Good art is risky, but my plan will work.''\n(If players chose \"We can't waste time.\")\n[[File:ACOD The Resistance 6.png|thumb|250px|The group motivated to stop Kleon]]\n*'''Kassandra:''' ''We can't just sit around. Kleon is sending a boat to [[Mytilene]] to kill the people there.''\n*'''Herodotos:''' ''The people trust Kleon. They'll vote for whatever action he puts forth.''\n*'''Sokrates:''' ''But that does not mean we plan to do nothing.''\n*'''Aristophanes:''' ''Taking down Kleon won't be easy.''\n*'''Herodotos:''' ''But with your help, it will be possible.''",
+    "Section_Outcome": "Kassandra met with her friends at Perikles' residence, devising a plan to deal with Kleon.",
+    "Section_Trivia": "*Herodotos wears his attire from [[Perikles's Symposium]] during the events of Chapter 8 in Athens, rather than his hooded travel attire from sailing aboard the ''[[Adrestia]]'' and when accompanying the player on other quests.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La r\u00e9sistance]]",
+    "Chapter_SequenceID": "21.",
+    "Chapter_Name": "Uprising",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra retrieved her equipment and made her way to [[Perikles]]' residence, where she was greeted by [[Sokrates]] in the hallway.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Sokrates:''' ''You made it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Of course I did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Sokrates:''' ''[[Barnabas]] was ready to go after you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Like he said, it's the thought that counts, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Sokrates:''' ''Apparently. Come, the others are waiting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "7",
+            "content": "[[File:ACOD The Resistance 3.png|thumb|250px|The Periklean Circle]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "Kassandra followed Sokrates into a room, where [[Alkibiades]], [[Aristophanes]], Barnabas, [[Herodotos]] and [[Hippokrates]] were waiting. This was the first formal meeting of the [[Periklean Circle]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Herodotos:''' ''We were worried you wouldn't make it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Barnabas:''' ''Especially with every [[Athens|Athenian]] guard looking for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''[[Kleon]] will have to do more than that to stop me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "Kassandra looked at the table filled with scrolls.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''What's all this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Hippokrates:''' ''We've begun working on a plan to take down Kleon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Alkibiades:''' ''Although I hardly call it a plan. Lots of talking, not much... action.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "16",
+            "content": "(If players chose \"Why do this in Perikles' home?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''It feels different without Perikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Hippokrates:''' ''But his inspiration lives on\u2014that's why we're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Sokrates:''' ''Where once we gathered to forget our problems, now we meet them head on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Alkibiades:''' ''And get back to what trulymatters\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Herodotos:''' ''\u2014To restore Athens to its former glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "22",
+            "content": "(If players chose \"Let's talk about your plan.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''So you're taking down Kleon. Tell me the plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "24",
+            "content": "*'''Aristophanes:''' ''It won't be simple. His death would disrupt the peace and be worse for Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "25",
+            "content": "*'''Herodotos:''' ''He's right. We must discredit him first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "26",
+            "content": "[[File:ACOD The Resistance 4.png|thumb|250px|Aristophanes proposing a play to discredit Kleon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D20",
+            "global_id": "27",
+            "content": "*'''Alkibiades:''' ''Aristophanes apparently has {{Wiki|The Knights|some play}} he thinks will do the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Aristophanes:''' ''Some play? It is so much more than that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Alkibiades:''' ''Oh, don't get your tunic in a twist. I just don't see why we can't all love each other. It's so much more fun that way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "30",
+            "content": "Alkibiades left the room, leaving Kassandra to ask some final questions of the rest of the circle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "32",
+            "content": "(If players chose \"What's the play?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''What's so special about the play? Will your famous \"Orange Ape\" impression be making an appearance?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Aristophanes:''' ''Ha! Funnily enough, that was the inspiration.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Isn't it a risk to show him in a bad light in front of his admirers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Aristophanes:''' ''I think the play will change their minds. Good art is risky, but my plan will work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "37",
+            "content": "(If players chose \"We can't waste time.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "I3",
+            "global_id": "38",
+            "content": "[[File:ACOD The Resistance 6.png|thumb|250px|The group motivated to stop Kleon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''We can't just sit around. Kleon is sending a boat to [[Mytilene]] to kill the people there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "40",
+            "content": "*'''Herodotos:''' ''The people trust Kleon. They'll vote for whatever action he puts forth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "41",
+            "content": "*'''Sokrates:''' ''But that does not mean we plan to do nothing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "42",
+            "content": "*'''Aristophanes:''' ''Taking down Kleon won't be easy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "43",
+            "content": "*'''Herodotos:''' ''But with your help, it will be possible.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

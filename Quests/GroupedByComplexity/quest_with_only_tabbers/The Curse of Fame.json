@@ -1,0 +1,255 @@
+{
+    "Quest_Name": "The Curse of Fame",
+    "Quest_ID": "224198",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Evening the Odds",
+        "next": "The Hedonistic Method",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "420s BCE",
+        "description": "'Thespis' Xerxes actor|villain was nowhere to be found. Had he fallen into a worse predicament than those he'd portrayed on stage?'"
+    },
+    "General_Description": "'''The Curse of Fame''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Thespis]] tasked Kassandra with finding [[Xerxes actor|the actor]] who was to play the role of [[Xerxes I of Persia|Xerxes I]] in his latest play.",
+    "Section_Dialogue": "Kassandra found the actor and untied him.\n*'''\"Xerxes\":''' ''Thank the gods!''\n*'''Kassandra:''' ''Don't thank them yet. Let's get out of here.''\nShe escorted the actor away from the ruins.\n*'''\"Xerxes\":''' ''Thank you! I don't think I could have survived much longer.''\n*'''Kassandra:'''\u00a0''Why were those ''mal\u00e1kas'' ''keeping you prisoner?\n*'''\"Xerxes\":''' ''They were raving, convinced I'm the villains I play. They wanted me to lead them in a dark ceremony and tortured me to recite their spells... Nothing was enough.''\n*'''Kassandra:''' ''You're safe now.''\n*'''\"Xerxes\":''' '' I am, but the witch has plans to harm the [[Civilian|citizens]] of [[Elis]]. She says they wronged her, so she poisoned a shipment of supplies for the city!''\n*'''Kassandra:''' ''I'll have to destroy those supplies before they get there.''\n*'''\"Xerxes\":''' ''But now that she knows you're here, she'll leave her hiding place and flee into the wilderness! No one will be safe if she escapes.''\n\n<tabber>\n|-| I'll destroy the Poisoned supplies.=\nKassandra destroyed the supplies.\n*'''Kassandra:''' ''I destroyed the poisoned supplies before they could reach Elis.''\n*'''\"Xerxes\":''' ''That's good, but the witch is still out there. Nobody really safe... I'm not safe.''\n*'''Kassandra:''' ''You think Xerxes was ever safe? [[Leonidas I of Sparta|Leonidas]] and his [[Sparta]]ns wanted him dead. {{Wiki|Atossa|His own mother}} would betray him given the chance.''\n*'''\"Xerxes\":''' '' Xerxes asking for safety... You're right, the King of [[Iran|Persia]] would never grovel. He'd crush his enemies before they could execute their plans.''\n*'''Kassandra:''' ''I'm glad you see it that way. You should get back to Thespis.''\n*'''\"Xerxes\":''' ''I will, and thank you. Xerxes will rule at last!''\n*'''Kassandra:''' ''Happy to have helped, your majesty.''\n|-| I'll kill the witch before she escapes.=\n*'''Kassandra:''' ''I can't let that witch escape. Who knows what she'll do next?''\nKassandra headed back into the ruins, where she engaged the witch in combat.\n*'''Witch:''' ''I'll drink your blood from your scull! You'll be gone to [[Underworld|Hades]] soon!''\nDespite her boasting, the witch proved no match for Kassandra and was killed.\n*'''Kassandra:''' ''That witch is dead, thank [[Jupiter|Zeus.]]''\nWith the witch taken care of, Kassandra returned to \"Xerxes\".\n*'''Kassandra:''' ''That horrible witch won't hurt anyone ever again.''\n*'''\"Xerxes\":''' ''Oh, thank you! That delusional hag turned her followers against me. But now that she's dead, I should be fine. Right?''\n*'''Kassandra:''' ''You'll be fine. You should go on and play your part knowing Xerxes is safe.''\n*'''\"Xerxes\":''' ''You're right, Xerxes was sure of himself. A god among men! I should be as confident as him.''\n*'''Kassandra:''' ''I'm glad you see it that way. You should get back to Thespis.''\n*'''\"Xerxes\":''' ''I will, and thank you. Xerxes will rule at last!\n*'''Kassandra:''' ''Happy to have helped, your majesty.''\n</tabber>",
+    "Section_Outcome": "Kassandra secured Xerxes for the play, while also stopping a threat to the city.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Show Must Go On",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found the actor and untied him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''\"Xerxes\":''' ''Thank the gods!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Don't thank them yet. Let's get out of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "She escorted the actor away from the ruins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''\"Xerxes\":''' ''Thank you! I don't think I could have survived much longer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:'''\u00a0''Why were those ''mal\u00e1kas'' ''keeping you prisoner?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''\"Xerxes\":''' ''They were raving, convinced I'm the villains I play. They wanted me to lead them in a dark ceremony and tortured me to recite their spells... Nothing was enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''You're safe now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''\"Xerxes\":''' '' I am, but the witch has plans to harm the [[Civilian|citizens]] of [[Elis]]. She says they wronged her, so she poisoned a shipment of supplies for the city!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I'll have to destroy those supplies before they get there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''\"Xerxes\":''' ''But now that she knows you're here, she'll leave her hiding place and flee into the wilderness! No one will be safe if she escapes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-| I'll destroy the Poisoned supplies.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N3",
+            "global_id": "15",
+            "content": "Kassandra destroyed the supplies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I destroyed the poisoned supplies before they could reach Elis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''\"Xerxes\":''' ''That's good, but the witch is still out there. Nobody really safe... I'm not safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''You think Xerxes was ever safe? [[Leonidas I of Sparta|Leonidas]] and his [[Sparta]]ns wanted him dead. {{Wiki|Atossa|His own mother}} would betray him given the chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''\"Xerxes\":''' '' Xerxes asking for safety... You're right, the King of [[Iran|Persia]] would never grovel. He'd crush his enemies before they could execute their plans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'm glad you see it that way. You should get back to Thespis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''\"Xerxes\":''' ''I will, and thank you. Xerxes will rule at last!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Happy to have helped, your majesty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "|-| I'll kill the witch before she escapes.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I can't let that witch escape. Who knows what she'll do next?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Kassandra headed back into the ruins, where she engaged the witch in combat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Witch:''' ''I'll drink your blood from your scull! You'll be gone to [[Underworld|Hades]] soon!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "Despite her boasting, the witch proved no match for Kassandra and was killed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''That witch is dead, thank [[Jupiter|Zeus.]]''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "29",
+            "content": "With the witch taken care of, Kassandra returned to \"Xerxes\".",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''That horrible witch won't hurt anyone ever again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''\"Xerxes\":''' ''Oh, thank you! That delusional hag turned her followers against me. But now that she's dead, I should be fine. Right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''You'll be fine. You should go on and play your part knowing Xerxes is safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''\"Xerxes\":''' ''You're right, Xerxes was sure of himself. A god among men! I should be as confident as him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm glad you see it that way. You should get back to Thespis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''\"Xerxes\":''' ''I will, and thank you. Xerxes will rule at last!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Happy to have helped, your majesty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

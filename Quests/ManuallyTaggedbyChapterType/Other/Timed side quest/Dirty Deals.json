@@ -1,0 +1,41 @@
+{
+    "QuestName": "Dirty Deals",
+    "QuestID": "223511",
+    "Revision": {
+        "id": "1047522",
+        "parentid": "841853",
+        "timestamp": "2023-06-13T19:26:34Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047522",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "hwq5ho580ce4rb386wjwrok1g5xezjh"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'In order to feed his family, a desperate Blacksmith was forced to accept a bad deal from a merchant. The Blacksmith grew angry about the deal and plotted revenge.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Dirty Deals''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[merchant]] refused to pay a [[blacksmith]] as agreed. In retribution, the blacksmith sought someone to kill the merchant.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:''' ''Need help dealing with a dishonest bastard. MERCHANTS AND OTHER SHIT EATERS NEED NOT APPLY.''\nDeciding to look into it, Kassandra sought out the blacksmith.\n*'''Kassandra:''' ''I saw the note you posted. What's the matter?''\n*'''Man:''' ''Weasel-faced little son of a jackal merchant.''\n*'''Kassandra:''' ''Having a bad day?''\n*'''Man:''' ''Offered me half of what we agreed on. My family is hungry, and I had to take it. My weapons making him a profit... I'd rather they sink to the bottom of the [[Aegean Sea|ocean]].''\n<tabber>\n|-|You want the man dead.=\n*'''Kassandra:''' ''So you need a [[mercenary]] to kill him.''\n*'''Man:''' ''Exactly. He must be gutted.''\n|-|You need the ship destroyed.=\n*'''Kassandra:''' ''\n*'''Man:''' ''\n</tabber>\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Man:''' ''Thank you, mercenary.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra left the blacksmith and sought out the merchant. After dealing with him, Kassandra returned to the blacksmith for her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

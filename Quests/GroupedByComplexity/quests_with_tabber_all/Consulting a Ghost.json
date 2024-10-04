@@ -1,0 +1,842 @@
+{
+    "Quest_Name": "Consulting a Ghost",
+    "Quest_ID": "222644",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Consulting a Ghost - Assassins_Creed_Odyssey.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "description": "'Oracles and prophecies had destroyed Kassandra's family. So when Barnabas suggested she consult with the Pythia (431 BCE)|Pythia to find Myrrine|her mother, she did so with great reluctance and skepticism.'",
+        "type": "Main",
+        "previous": "The Wolf's Fate",
+        "next": "The Truth Will Out",
+        "source": "Kassandra",
+        "location": "Sanctuary of Delphi, Phokis, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Consulting a Ghost''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to the [[Sanctuary of Delphi]] to seek the [[Pythia (431 BCE)|Pythia]] for advice.",
+    "Section_Dialogue": "After searching [[Elpenor]]'s home for [[Order of the Ancients clues|clues]], Kassandra sought out the Oracle of Delphi. She arrived at the sanctuary.\n*'''Kassandra:''' ''I hope this oracle gives better news than the one in [[Sparta]].''\nKassandra passed by the temple.\n*'''Kassandra:''' ''The Sanctuary of Delphi. The gods themselves watch over this land.''\n[[File:ACO Consulting a Ghost - Kassandra Finding Barnabas and Herodotos.png|thumb|250px|Barnabas awaiting Kassandra with a stranger]]\nShe walked to the back, where [[Barnabas]] awaited with a stranger.\n*'''Barnabas:''' ''Kassandra, isn't this remarkable? We're so close to the gods, I can feel [[Apollo]] all around me. How did it go with Elpenor?''\n*'''Kassandra:''' ''We can talk later, in private. Who is this?''\n*'''[[Herodotos]]:''' ''Just a simple pilgrim.''\n*'''Barnabas:''' ''He just saw the Oracle. I couldn't help but ask if she's as glorious as they say.''\n*'''Kassandra:''' ''Well, is she?''\n*'''Herodotos:''' ''She left me with more questions than answers.''\n*'''Barnabas:''' ''That's the Oracle for you!''\nHerodotos looked at Kassandra's [[Spear of Leonidas|spear]] held at her back, then at Barnabas.\n*'''Herodotos:''' ''You weren't lying. It really is the spear of [[Leonidas]].''\n*'''Barnabas:''' ''I may have mentioned you.''\n<tabber>\n|-|Think before you speak!=\n*'''Kassandra:''' ''Malaka! Barnabas, use your head!''\n|-|We should be more secretive.=\n*'''Kassandra:''' ''I would appreciate you showing a bit more... secrecy.''\n</tabber>\n*'''Barnabas:''' ''Well, it's just he seemed interested in legends\u2014like you. I thought you might get along.''\nHerodotos slowly reached out to the [[Spear of Leonidas]].\n*'''Herodotos:''' ''How...''\n<tabber>\n|-|Warn \u2013 Back off.=\n*'''Kassandra:''' ''One more move, and the spear will be at your throat. Tell me your name.''\n*'''Barnabas:''' ''I also mentioned you can be a little defensive.''\n|-|Who are you, really?=\n*'''Kassandra:''' ''You know my spear just by looking at it? You're more than some simple pilgrim.''\n*'''Herodotos:''' ''All things in [[Delphi]] are more than they appear. Even I.''\n</tabber>\n[[File:ACO Consulting a Ghost - Herodotos Revealing Identity.png|thumb|250px|Herodotos revealing his identity]]\nHerodotos unveiled his hood.\n*'''Herodotos:''' ''My name is Herodotos. I'm a story teller, or I was. This war is forcing us all to new extremes.''\n*'''Kassandra:''' ''That much is true. Why are you hiding your identity?''\n*'''Herodotos:''' ''I'm here on behalf of a [[Perikles|man]] in [[Athens]]. A very powerful man. We intend to finally end this [[Peloponnesian War|war]].''\n*'''Barnabas:''' ''You told me you came to ask the Oracle a personal question.''\n*'''Herodotos:''' ''War ''is'' personal, Barnabas.''\n*'''Kassandra:''' ''So you came to seek the Pythia's guidance on how to end this war?''\n*'''Herodotos:''' ''I did, though something is wrong in Delphi. Guards at every turn, people being turned away...''\n*'''Kassandra:''' ''You don't seem convinced the Pythia can be believed. What did she tell you?''\n*'''Herodotos:''' ''I asked her to show the path to the war's end. She said \"Spring should not wish for winter, as it brings death with it.\"''\n*'''Barnabas:''' ''Such wisdom... I don't understand a word of it, but that's why she's in there and we're out here.''\n*'''Kassandra:''' ''I know a threat when I hear one.''\n*'''Barnabas:''' ''You were on [[Kephallonia]] for too long.''\n*'''Kassandra:''' ''This line is ridiculous! Are there always this many people to see the Pythia?''\n*'''Barnabas:''' ''These are more than just people! Every city sends a ''{{Wiki|theoroi}}'', or sacred ambassadors, to seek guidance on behalf of their people. The Pythia not only shapes the destinies of individuals, but of the entire Greek world.''\n*'''Herodotos:''' ''Imagine what power one would have if they controlled what came out of her mouth.''\n*'''Barnabas:''' ''Apollo controls this!''\n*'''Herodotos:''' ''Of course he does.''\n*'''Kassandra:''' ''Delphi is nothing like they say. Has it always been like this?''\n*'''Barnabas:''' ''No. This was once an open and welcoming place. But war changes things. People seek out the Pythia for more political reasons. Prophecies in times of war often stir... violent emotions.''\n*'''Herodotos:''' ''It's wise to keep your blades sheathed. Drawing blood in Delphi is considered an insult to Apollo. Punishment is severe.''\n*'''Kassandra:''' ''I have my own questions for the Pythia. But this line! I'll be an old woman by the time I see her.''\n*'''Barnabas:''' ''You're joking! You carry more blades than a field of grass!''\n*'''Kassandra:''' ''I didn't come here to start trouble.''\n*'''Barnabas:''' ''Trouble? Just walk in! Who's going to stop you? The priest?''\n*'''Kassandra:''' ''All right, but if things get out of hand, I'm blaming you, Barnabas.''\n*'''Barnabas:''' ''Is she not every bit as great as I said?''\n[[File:ACO Consulting a Ghost - Kassandra Seeking Access.png|thumb|250px|Kassandra seeking access to meet the Pythia]]\nKassandra made her way to the priest at the entrance.\n*'''Kassandra:''' ''I'm here to see the Pythia.''\n*'''[[Maron (priest)|Maron]]:''' ''Only those chosen by the light of Apollo may enter.''\n*'''Kassandra:''' ''How does one get chosen?''\n*'''Priest:''' ''One goes to the back of the line.''\n*'''Kassandra:''' ''Do I look like someone who waits in line?''\nThe priest allowed her to enter. Kassandra found the Oracle chanting in candlelight.\n*'''Pythia:''' ''Enter into the light of Apollo, the light that illuminates shadow. Choose your question wisely, mortal. For you have but one. Speak truth seeker!''\n<tabber>\n|-|Where is my mother?=\n*'''Kassandra:''' ''I lost my mother when I was young. I have to find her. Where is she?''\n|-|Who is my father?=\n*'''Kassandra:''' ''I'm looking for my father\u2014my true father. Who is he?''\n</tabber>\n[[File:Consulting a Ghost - Asking the Oracle - Assassins Creed Odyssey.png|thumb|250px|The Pythia]]\n*'''Pythia:''' ''It's you! From the visions! The child on the [[Mount Taygetos|mountain]].''\n*'''Kassandra:''' ''How could you know that?''\n*'''Pythia:''' ''You need to leave. Now.''\n*'''Kassandra:''' ''Leave? Do you have any idea what I've been through to get here?''\n<tabber>\n|-|If Kassandra let the priests execute the infected Kephallonians=\n*'''Pythia:''' ''Oh, but I do. I saw you feign ignorance in Kausos. You let an unknown sickness govern your decisions. Innocents died thanks to you.''\n|-|If Kassandra saved the infected Kephallonians=\n*'''Pythia:''' ''Oh, but I do. While in Kausos, you didn't cower in the face of the priest. A child and her family still live thanks to you.''\n|-|If Kasssandra spared the thieves in Megaris=\n*'''Pythia:''' ''Oh, but I do. There is wisdom in your decisions. Any other ''misthios'' would have killed those people in that cave in [[Megaris]], but you held back for the truth, and balanced judgement with their lives.''\n</tabber>\n*'''Kassandra:''' ''But how?''\n*'''Pythia:''' ''No one can hide from the light.''\n*'''Kassandra:''' ''Please, I've come this far. You must have the answers I seek.''\n*'''Pythia:''' ''Child of the Mountain, the [[Cult of Kosmos|Cult]] of [[Kosmos]] have eyes everywhere. They will kill you.''\n*'''Kassandra:''' ''Cult of Kosmos?''\n*'''Pythia:''' ''The Oracle has spoken. The prophecy is yours.''\n[[File:ACO Consulting a Ghost - Pythia Escorted Away.png|thumb|250px|Thr Pythia escorted away]]\nThe guards took the Pythia and escorted her from the room.\n*'''Kassandra:''' ''You never answered my question!''\n*'''Cult Guardian:''' ''The Pythia is done for the day.''\n*'''Kassandra:''' ''I'm not leaving until I get answers.''\nDespite her protests, Kassandra is removed from the building, only to find Herodotos still outside the doors.\n*'''Kassandra:''' ''Herodotos, you're still here. Where's Barnabas?''\n*'''Herodotos:''' ''He's gone back to [[Adrestia|your ship]]. You don't look happy with your prophecy.''\n*'''Kassandra:''' ''She... knew who I was.''\n*'''Herodotos:''' ''She's the Pythia, it's her business to act like she knows you.''\n*'''Kassandra:''' ''That was no act. She said she had visions of me as a child on a mountain.''\n*'''Herodotos:''' ''What child hasn't stood on a mountain?''\n*'''Kassandra:''' ''I was thrown from that mountain. My life started and ended on that mountain. I'm telling you, she knew who I was. What I'd done. Tried to warn me...''\n*'''Herodotos:''' ''Warn you? About what?''\n<tabber>\n|-|The Cult of Kosmos.=\n*'''Kassandra:''' ''She mentioned the Cult of Kosmos. Does this mean anything to you?''\n|-|Never mind.=\n*'''Kassandra:''' ''Never mind, it's nothing.''\n*'''Herodotos:''' ''There are people in [[Phokis]] who can't be trusted, Kassandra. But I'm not one of them. If you know something, you must act quickly. The Pythia's words control all our fates.''\n*'''Kassandra:''' ''She mentioned the Cult of Kosmos. Does this mean anything to you?''\n</tabber>\n[[File:ACOD Consulting A Ghost - Discussing the Pythia and Cult.png|thumb|250px|Herodotos informing Kassandra of the Cult]]\nHerodotos looked around for eavesdroppers, then motioned Kassandra further away from others.\n*'''Herodotos:''' ''I'd heard whispers. A cult, unlike any other, coming to Delphi. But I paid them no mind.''\n*'''Kassandra:''' ''The Pythia seemed afraid of them. Guards took her away.''\n*'''Herodotos:''' ''Took her away? Then the whispers were true! If this Cult has corrupted the Pythia... This is devastating news. Do you understand what this means? Through her, the Cult controls the world.''\n*'''Kassandra:''' ''I need to speak with her when she's not so well... protected.''\n*'''Herodotos:''' ''That would require a miracle from the gods. She is always protected.''\n(If \"Where can I find the Pythia?\" is chosen.)\n*'''Kassandra:''' ''You know more about the Pythia than I do. Where would she be?''\n*'''Herodotos:''' ''When she's not in the Temple of Apollo, she's at her home in the [[Chora of Delphi]].''\n(If \"What does her home look like?\" is chosen.)\n*'''Kassandra:''' ''I can't go breaking down every door until I find her.''\n*'''Herodotos:''' ''The Oracle's home is probably easy enough to spot. She'd be the only person in the Chora of Delphi who can afford to live in luxury.''\n(If \"Where in the Chora of Delphi would she be?\" is chosen.)\n*'''Kassandra:''' ''Where in the Chora of Delphi does the Pythia live?''\n*'''Herodotos:''' ''I've heard she lives on the outskirts of the village. But be warned: she will be guarded. Not everyone comes to see the Oracle with the best of intentions.''\n*'''Kassandra:''' ''I'll find where the Pythia lives. And I ''will'' get answers.''\n*'''Herodotos:''' ''Kassandra, don't forget: brute force is useless when finesse is required.''",
+    "Section_Outcome": "Kassandra learned the existence of the Cult of Kosmos, which was planning to kill her and controls the Pythia's words, and befriended Herodotus, who allied with her in her quest.",
+    "Section_Behind_the_scenes": "The Pythia's comments about the outcome of the memory \"[[The Blood Fever]]\" appear to supersede all others, namely the outcome of \"[[Portion Control]]\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Consulter un fant\u00f4me]]",
+    "Chapter_SequenceID": "5.",
+    "Chapter_Name": "Of Visions and Visionaries",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After searching [[Elpenor]]'s home for [[Order of the Ancients clues|clues]], Kassandra sought out the Oracle of Delphi. She arrived at the sanctuary.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I hope this oracle gives better news than the one in [[Sparta]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra passed by the temple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The Sanctuary of Delphi. The gods themselves watch over this land.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "5",
+            "content": "[[File:ACO Consulting a Ghost - Kassandra Finding Barnabas and Herodotos.png|thumb|250px|Barnabas awaiting Kassandra with a stranger]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "She walked to the back, where [[Barnabas]] awaited with a stranger.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Barnabas:''' ''Kassandra, isn't this remarkable? We're so close to the gods, I can feel [[Apollo]] all around me. How did it go with Elpenor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''We can talk later, in private. Who is this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''[[Herodotos]]:''' ''Just a simple pilgrim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Barnabas:''' ''He just saw the Oracle. I couldn't help but ask if she's as glorious as they say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Well, is she?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Herodotos:''' ''She left me with more questions than answers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Barnabas:''' ''That's the Oracle for you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "14",
+            "content": "Herodotos looked at Kassandra's [[Spear of Leonidas|spear]] held at her back, then at Barnabas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Herodotos:''' ''You weren't lying. It really is the spear of [[Leonidas]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Barnabas:''' ''I may have mentioned you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|Think before you speak!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Malaka! Barnabas, use your head!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|We should be more secretive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I would appreciate you showing a bit more... secrecy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "22",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Barnabas:''' ''Well, it's just he seemed interested in legends\u2014like you. I thought you might get along.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "24",
+            "content": "Herodotos slowly reached out to the [[Spear of Leonidas]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Herodotos:''' ''How...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "26",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "27",
+            "content": "|-|Warn \u2013 Back off.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''One more move, and the spear will be at your throat. Tell me your name.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Barnabas:''' ''I also mentioned you can be a little defensive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "30",
+            "content": "|-|Who are you, really?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''You know my spear just by looking at it? You're more than some simple pilgrim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Herodotos:''' ''All things in [[Delphi]] are more than they appear. Even I.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "33",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I2",
+            "global_id": "34",
+            "content": "[[File:ACO Consulting a Ghost - Herodotos Revealing Identity.png|thumb|250px|Herodotos revealing his identity]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "35",
+            "content": "Herodotos unveiled his hood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Herodotos:''' ''My name is Herodotos. I'm a story teller, or I was. This war is forcing us all to new extremes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''That much is true. Why are you hiding your identity?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Herodotos:''' ''I'm here on behalf of a [[Perikles|man]] in [[Athens]]. A very powerful man. We intend to finally end this [[Peloponnesian War|war]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Barnabas:''' ''You told me you came to ask the Oracle a personal question.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Herodotos:''' ''War ''is'' personal, Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''So you came to seek the Pythia's guidance on how to end this war?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Herodotos:''' ''I did, though something is wrong in Delphi. Guards at every turn, people being turned away...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''You don't seem convinced the Pythia can be believed. What did she tell you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Herodotos:''' ''I asked her to show the path to the war's end. She said \"Spring should not wish for winter, as it brings death with it.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Barnabas:''' ''Such wisdom... I don't understand a word of it, but that's why she's in there and we're out here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I know a threat when I hear one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "47",
+            "content": "*'''Barnabas:''' ''You were on [[Kephallonia]] for too long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''This line is ridiculous! Are there always this many people to see the Pythia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Barnabas:''' ''These are more than just people! Every city sends a ''{{Wiki|theoroi}}'', or sacred ambassadors, to seek guidance on behalf of their people. The Pythia not only shapes the destinies of individuals, but of the entire Greek world.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Herodotos:''' ''Imagine what power one would have if they controlled what came out of her mouth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Barnabas:''' ''Apollo controls this!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "52",
+            "content": "*'''Herodotos:''' ''Of course he does.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Delphi is nothing like they say. Has it always been like this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "54",
+            "content": "*'''Barnabas:''' ''No. This was once an open and welcoming place. But war changes things. People seek out the Pythia for more political reasons. Prophecies in times of war often stir... violent emotions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "55",
+            "content": "*'''Herodotos:''' ''It's wise to keep your blades sheathed. Drawing blood in Delphi is considered an insult to Apollo. Punishment is severe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''I have my own questions for the Pythia. But this line! I'll be an old woman by the time I see her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "57",
+            "content": "*'''Barnabas:''' ''You're joking! You carry more blades than a field of grass!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I didn't come here to start trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "59",
+            "content": "*'''Barnabas:''' ''Trouble? Just walk in! Who's going to stop you? The priest?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''All right, but if things get out of hand, I'm blaming you, Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "61",
+            "content": "*'''Barnabas:''' ''Is she not every bit as great as I said?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "62",
+            "content": "[[File:ACO Consulting a Ghost - Kassandra Seeking Access.png|thumb|250px|Kassandra seeking access to meet the Pythia]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "63",
+            "content": "Kassandra made her way to the priest at the entrance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I'm here to see the Pythia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "65",
+            "content": "*'''[[Maron (priest)|Maron]]:''' ''Only those chosen by the light of Apollo may enter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''How does one get chosen?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "67",
+            "content": "*'''Priest:''' ''One goes to the back of the line.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Do I look like someone who waits in line?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "69",
+            "content": "The priest allowed her to enter. Kassandra found the Oracle chanting in candlelight.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "70",
+            "content": "*'''Pythia:''' ''Enter into the light of Apollo, the light that illuminates shadow. Choose your question wisely, mortal. For you have but one. Speak truth seeker!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "71",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "72",
+            "content": "|-|Where is my mother?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I lost my mother when I was young. I have to find her. Where is she?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "74",
+            "content": "|-|Who is my father?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''I'm looking for my father\u2014my true father. Who is he?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "76",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I4",
+            "global_id": "77",
+            "content": "[[File:Consulting a Ghost - Asking the Oracle - Assassins Creed Odyssey.png|thumb|250px|The Pythia]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D54",
+            "global_id": "78",
+            "content": "*'''Pythia:''' ''It's you! From the visions! The child on the [[Mount Taygetos|mountain]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''How could you know that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "80",
+            "content": "*'''Pythia:''' ''You need to leave. Now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Leave? Do you have any idea what I've been through to get here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "82",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "83",
+            "content": "|-|If Kassandra let the priests execute the infected Kephallonians=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "84",
+            "content": "*'''Pythia:''' ''Oh, but I do. I saw you feign ignorance in Kausos. You let an unknown sickness govern your decisions. Innocents died thanks to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "85",
+            "content": "|-|If Kassandra saved the infected Kephallonians=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D59",
+            "global_id": "86",
+            "content": "*'''Pythia:''' ''Oh, but I do. While in Kausos, you didn't cower in the face of the priest. A child and her family still live thanks to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "87",
+            "content": "|-|If Kasssandra spared the thieves in Megaris=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "88",
+            "content": "*'''Pythia:''' ''Oh, but I do. There is wisdom in your decisions. Any other ''misthios'' would have killed those people in that cave in [[Megaris]], but you held back for the truth, and balanced judgement with their lives.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "89",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D61",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''But how?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "91",
+            "content": "*'''Pythia:''' ''No one can hide from the light.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''Please, I've come this far. You must have the answers I seek.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "93",
+            "content": "*'''Pythia:''' ''Child of the Mountain, the [[Cult of Kosmos|Cult]] of [[Kosmos]] have eyes everywhere. They will kill you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Cult of Kosmos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "95",
+            "content": "*'''Pythia:''' ''The Oracle has spoken. The prophecy is yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "96",
+            "content": "[[File:ACO Consulting a Ghost - Pythia Escorted Away.png|thumb|250px|Thr Pythia escorted away]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N9",
+            "global_id": "97",
+            "content": "The guards took the Pythia and escorted her from the room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D67",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''You never answered my question!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "99",
+            "content": "*'''Cult Guardian:''' ''The Pythia is done for the day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''I'm not leaving until I get answers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "101",
+            "content": "Despite her protests, Kassandra is removed from the building, only to find Herodotos still outside the doors.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''Herodotos, you're still here. Where's Barnabas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "103",
+            "content": "*'''Herodotos:''' ''He's gone back to [[Adrestia|your ship]]. You don't look happy with your prophecy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''She... knew who I was.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "105",
+            "content": "*'''Herodotos:''' ''She's the Pythia, it's her business to act like she knows you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''That was no act. She said she had visions of me as a child on a mountain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "107",
+            "content": "*'''Herodotos:''' ''What child hasn't stood on a mountain?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''I was thrown from that mountain. My life started and ended on that mountain. I'm telling you, she knew who I was. What I'd done. Tried to warn me...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "109",
+            "content": "*'''Herodotos:''' ''Warn you? About what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "110",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "111",
+            "content": "|-|The Cult of Kosmos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D78",
+            "global_id": "112",
+            "content": "*'''Kassandra:''' ''She mentioned the Cult of Kosmos. Does this mean anything to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC11",
+            "global_id": "113",
+            "content": "|-|Never mind.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D79",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''Never mind, it's nothing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "115",
+            "content": "*'''Herodotos:''' ''There are people in [[Phokis]] who can't be trusted, Kassandra. But I'm not one of them. If you know something, you must act quickly. The Pythia's words control all our fates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''She mentioned the Cult of Kosmos. Does this mean anything to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "117",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I6",
+            "global_id": "118",
+            "content": "[[File:ACOD Consulting A Ghost - Discussing the Pythia and Cult.png|thumb|250px|Herodotos informing Kassandra of the Cult]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N11",
+            "global_id": "119",
+            "content": "Herodotos looked around for eavesdroppers, then motioned Kassandra further away from others.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D82",
+            "global_id": "120",
+            "content": "*'''Herodotos:''' ''I'd heard whispers. A cult, unlike any other, coming to Delphi. But I paid them no mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''The Pythia seemed afraid of them. Guards took her away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "122",
+            "content": "*'''Herodotos:''' ''Took her away? Then the whispers were true! If this Cult has corrupted the Pythia... This is devastating news. Do you understand what this means? Through her, the Cult controls the world.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''I need to speak with her when she's not so well... protected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "124",
+            "content": "*'''Herodotos:''' ''That would require a miracle from the gods. She is always protected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "125",
+            "content": "(If \"Where can I find the Pythia?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D87",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''You know more about the Pythia than I do. Where would she be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "127",
+            "content": "*'''Herodotos:''' ''When she's not in the Temple of Apollo, she's at her home in the [[Chora of Delphi]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "128",
+            "content": "(If \"What does her home look like?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D89",
+            "global_id": "129",
+            "content": "*'''Kassandra:''' ''I can't go breaking down every door until I find her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "130",
+            "content": "*'''Herodotos:''' ''The Oracle's home is probably easy enough to spot. She'd be the only person in the Chora of Delphi who can afford to live in luxury.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "131",
+            "content": "(If \"Where in the Chora of Delphi would she be?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D91",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''Where in the Chora of Delphi does the Pythia live?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "133",
+            "content": "*'''Herodotos:''' ''I've heard she lives on the outskirts of the village. But be warned: she will be guarded. Not everyone comes to see the Oracle with the best of intentions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''I'll find where the Pythia lives. And I ''will'' get answers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D94",
+            "global_id": "135",
+            "content": "*'''Herodotos:''' ''Kassandra, don't forget: brute force is useless when finesse is required.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,559 @@
+{
+    "Quest_Name": "The Wolf's Fate",
+    "Quest_ID": "222544",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "The Wolfs Fate - Assassins Creed Odyssey.png",
+        "description": "'Kassandra traveled to Pilgrim's Landing in Phokis to confront the mysterious Elpenor and collect her reward for the Nikolaos|Wolf's head.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Onwards to Phokis",
+        "next": "Consulting a Ghost",
+        "source": "Kassandra",
+        "location": "Kirrha, Phokis, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''The Wolf's Fate''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke with [[Elpenor]] in [[Kirrha]] to collect her reward for the [[Nikolaos|Wolf]]'s head.",
+    "Section_Dialogue": "Kassandra and the ''[[Adrestia]]'' set sail for [[Phokis]], leaving [[Megaris]] behind. Once near land, Kassandra headed inland to meet with [[Elpenor]] at his [[Elpenor's Residence|house]].\n*'''Elpenor:''' ''Ah, ''[[Mercenary|misthios]]''. How was Megaris?''\nKassandra slammed [[The Wolf's Helm|Nikolaos' helmet]] on the table.\n*'''Kassandra:''' ''The Wolf is dead.''\n*'''Elpenor:''' ''Excellent. The full amount, as promised. You expected me to haggle? Come now, Kassandra. It isn't every day I have someone kill their own father. But he wasn't your real father, was he?''\n<tabber>\n|-|Why did you want Nikolaos dead?=\n*'''Kassandra:''' ''Why did you send me to kill Nikolaos?''\n*'''Elpenor:''' ''Because I knew you could. Oh, why him? Because he was brilliant. He would have taken [[Athens]] in a month, two at most. And [[Stentor]] doesn't have the Wolf's genius.''\n*'''Kassandra:''' ''You wanted to save Athens?''\n*'''Elpenor:''' ''There's no profit in a quick war.''\nKassandra stared at Elpenor in disbelief.\n*'''Elpenor:''' ''I know, I know. It's a lot to take in all at once. Come.''\nThe pair walked outside the building.\n*'''Elpenor:''' ''Tell me, ''misthios'', did you learn anything worthwhile in your dealings with the Wolf?''\n{{#tag:tabber|\nMy birth father might live.=\n*'''Kassandra:''' ''He mentioned [[Pythagoras|my birth father]], he might still be alive.''\n*'''Elpenor:''' ''Not for long, if all goes according to plan.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Elpenor:''' ''You're going to bring me his head, of course.''\n*'''Kassandra:''' ''Have you lost your mind?''\n*'''Elpenor:''' ''You killed the man who raised you for [[drachma]]e. I merely assumed you wanted your family dead as much as I do.''\n{{!}}-{{!}}\nMy mother is still alive.=\n*'''Kassandra:''' ''He mentioned [[Myrrine|my mother]]\u2014she still lives.''\n*'''Elpenor:''' ''Not for long, I'm afraid.''\n*'''Kassandra:''' ''What are you talking about?''\n*'''Elpenor:''' ''You're going to bring me her head, of course.''\n*'''Kassandra:''' ''Are you out of your mind?''\n*'''Elpenor:''' ''You killed the man who raised you for a sack of coins. I only assumed you wanted your family dead as much as I do.''\n{{!}}-{{!}}\nI'm not telling you.=\n*'''Kassandra:''' ''I'm done talking. I should kill you where you stand.''\n*'''Elpenor:''' ''Temper, temper. And they said you'd be different. But blood is blood, I suppose.''\n*'''Kassandra:''' ''They? What blood?''\n*'''Elpenor:''' ''You really are more brawn than brains, aren't you? A shame, I could have used you for more of my... errands.''\n}}\n*'''Kassandra:''' Malaka''! You think you can play with me? I'll cut out your tongue!''\nEven as she threatened Elepnor, [[Soldier|guards]] already approached wearing ceremonial silver [[helmet]]s and [[shield]]s emblazoned with a [[Cult of Kosmos|curious emblem]] of two fighting [[snake]]s.\n|-|How did you know about Nikolaos?=\n*'''Kassandra:''' ''How did you know Nikolaos was my stepfather?''\n*'''Elpenor:''' ''I love theater. All of the arts, really. A great general throws his own children off a [[Mount Taygetos|cliff]] on the say-so of the [[Pythia|Oracle]]... It is a tragedy for the ages.''\n*'''Kassandra:''' ''You think my life is entertainment?''\n*'''Elpenor:''' ''Oh no, my friend. It is art. I know, I know. It's a lot to take in all at once. Come.''\nThe pair walked outside the building.\n*'''Elpenor:''' ''Tell me, ''misthios'', did you learn anything worthwhile in your dealings with the Wolf?''\n{{#tag:tabber|\nMy birth father might live.=\n*'''Kassandra:''' ''He mentioned my birth [[Pythagoras|father]], he might still be alive.''\n*'''Elpenor:''' ''Not for long, if all goes according to plan.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Elpenor:''' ''You're going to bring me his head, of course.''\n*'''Kassandra:''' ''Have you lost your mind?''\n*'''Elpenor:''' ''You killed the man who raised you for drachmae. I merely assumed you wanted your family dead as much as I do.''\n{{!}}-{{!}}\nMy mother is still alive.=\n*'''Kassandra:''' ''He mentioned my mother\u2014she still lives.''\n*'''Elpenor:''' ''Not for long, I'm afraid.''\n*'''Kassandra:''' ''What are you talking about?''\n*'''Elpenor:''' ''You're going to bring me her head, of course.''\n*'''Kassandra:''' ''Are you out of your mind?''\n*'''Elpenor:''' ''You killed the man who raised you for a sack of coins. I only assumed you wanted your family dead as much as I do.''\n{{!}}-{{!}}\nI'm not telling you.=\n*'''Kassandra:''' ''I'm done talking. I should kill you where you stand.''\n*'''Elpenor:''' ''Temper, temper. And they said you'd be different. But blood is blood, I suppose.''\n*'''Kassandra:''' ''They? What blood?''\n*'''Elpenor:''' ''You really are more brawn than brains, aren't you? A shame, I could have used you for more of my... errands.''\n}}\n*'''Kassandra:''' Malaka''! You think you can play with me? I'll cut out your tongue!''\nEven as she threatened Elepnor, guards already approached wearing ceremonial silver helmets and shields emblazoned with a curious emblem of two fighting snakes.\n|-|I don't care, you deserve to die.=\n*'''Kassandra:''' ''I won't be your puppet anymore!''\nKassandra knocked away Nikolaos' helmet and attempted to attack Elpenor. His guards grabbed her and dragged her out of the house, throwing her onto the yard.\n</tabber>\n*'''Elpenor:''' ''So disappointing.''\nElpenor left and fled the area. Kassandra fought and killed the guards.\n*'''Kassandra:''' ''Elpenor snuck away like a coward. I should investigate his house.''\nShe began to search his house.\n*'''Kassandra:''' ''A letter to Elpenor.''\n:'''Elpenor's Note''' ''[[Krethos]]: You were right about the [[Kephallonia]]n [[Phoibe|peasant girl]]. She led me right to the ''misthios''. Near the [[Ancient Ruins of Kranioi|ancient ruins of Kranioi]]. You did good work tracking them down. Now, to get them both to trust me... Did I ever tell you I was a fan of theater? As for you, find your payment in Phokis. Signed, Elpenor.''\n*'''Kassandra:''' ''Oh Phoibe, you led him right to me.''\nOn another table she located a papyrus scroll.\n*'''Kassandra:''' ''Elpenor's looking for a woman. I wonder who he wants in his slimy grasp now.''\n'''Papyrus to Elpenor''' ''Elpenor, in regards to your search for the woman. If anyone would know her whereabouts, it would be that [[Chrysis|crazy priestess]] at the [[Sanctuary of Asklepios|Asklepios Sanctuary]]. I'd go myself but she terrifies me. Yours, [[Antonide]].''\nShe then examined his bookshelf.\n*'''Kassandra:''' ''This is a [[ship]] manifest. Elpenor's selling weapons to both Athens and [[Sparta]]. He wants [[Peloponnesian War|this war]] to go on forever. I have met some treacherous people. None of them compare to Elpenor. I'm going to look under every rock, in every shadow, until I find and kill this vile serpent.''",
+    "Section_Outcome": "Kassandra met with Elpenor, who paid her for the job she'd done, but fled while ordering his guards to delay her. Afterwards, Kassandra found clues about Elpenor's dealings inside his house.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Le sort du Loup]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "4.",
+    "Chapter_Name": "The Wolf and the Snake",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra and the ''[[Adrestia]]'' set sail for [[Phokis]], leaving [[Megaris]] behind. Once near land, Kassandra headed inland to meet with [[Elpenor]] at his [[Elpenor's Residence|house]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Elpenor:''' ''Ah, ''[[Mercenary|misthios]]''. How was Megaris?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra slammed [[The Wolf's Helm|Nikolaos' helmet]] on the table.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The Wolf is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Elpenor:''' ''Excellent. The full amount, as promised. You expected me to haggle? Come now, Kassandra. It isn't every day I have someone kill their own father. But he wasn't your real father, was he?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|Why did you want Nikolaos dead?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Why did you send me to kill Nikolaos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Elpenor:''' ''Because I knew you could. Oh, why him? Because he was brilliant. He would have taken [[Athens]] in a month, two at most. And [[Stentor]] doesn't have the Wolf's genius.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You wanted to save Athens?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Elpenor:''' ''There's no profit in a quick war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "Kassandra stared at Elpenor in disbelief.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Elpenor:''' ''I know, I know. It's a lot to take in all at once. Come.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "14",
+            "content": "The pair walked outside the building.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Elpenor:''' ''Tell me, ''misthios'', did you learn anything worthwhile in your dealings with the Wolf?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "16",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "My birth father might live.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''He mentioned [[Pythagoras|my birth father]], he might still be alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Elpenor:''' ''Not for long, if all goes according to plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Elpenor:''' ''You're going to bring me his head, of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Have you lost your mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Elpenor:''' ''You killed the man who raised you for [[drachma]]e. I merely assumed you wanted your family dead as much as I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "24",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "25",
+            "content": "My mother is still alive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''He mentioned [[Myrrine|my mother]]\u2014she still lives.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Elpenor:''' ''Not for long, I'm afraid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''What are you talking about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Elpenor:''' ''You're going to bring me her head, of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Are you out of your mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Elpenor:''' ''You killed the man who raised you for a sack of coins. I only assumed you wanted your family dead as much as I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "32",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "33",
+            "content": "I'm not telling you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm done talking. I should kill you where you stand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "35",
+            "content": "*'''Elpenor:''' ''Temper, temper. And they said you'd be different. But blood is blood, I suppose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''They? What blood?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "37",
+            "content": "*'''Elpenor:''' ''You really are more brawn than brains, aren't you? A shame, I could have used you for more of my... errands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "38",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' Malaka''! You think you can play with me? I'll cut out your tongue!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "40",
+            "content": "Even as she threatened Elepnor, [[Soldier|guards]] already approached wearing ceremonial silver [[helmet]]s and [[shield]]s emblazoned with a [[Cult of Kosmos|curious emblem]] of two fighting [[snake]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC5",
+            "global_id": "41",
+            "content": "|-|How did you know about Nikolaos?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''How did you know Nikolaos was my stepfather?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "43",
+            "content": "*'''Elpenor:''' ''I love theater. All of the arts, really. A great general throws his own children off a [[Mount Taygetos|cliff]] on the say-so of the [[Pythia|Oracle]]... It is a tragedy for the ages.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''You think my life is entertainment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Elpenor:''' ''Oh no, my friend. It is art. I know, I know. It's a lot to take in all at once. Come.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "46",
+            "content": "The pair walked outside the building.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "47",
+            "content": "*'''Elpenor:''' ''Tell me, ''misthios'', did you learn anything worthwhile in your dealings with the Wolf?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "48",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "49",
+            "content": "My birth father might live.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''He mentioned my birth [[Pythagoras|father]], he might still be alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "51",
+            "content": "*'''Elpenor:''' ''Not for long, if all goes according to plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Elpenor:''' ''You're going to bring me his head, of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Have you lost your mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Elpenor:''' ''You killed the man who raised you for drachmae. I merely assumed you wanted your family dead as much as I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "56",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "57",
+            "content": "My mother is still alive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''He mentioned my mother\u2014she still lives.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Elpenor:''' ''Not for long, I'm afraid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''What are you talking about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Elpenor:''' ''You're going to bring me her head, of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''Are you out of your mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "63",
+            "content": "*'''Elpenor:''' ''You killed the man who raised you for a sack of coins. I only assumed you wanted your family dead as much as I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "64",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "65",
+            "content": "I'm not telling you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''I'm done talking. I should kill you where you stand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "67",
+            "content": "*'''Elpenor:''' ''Temper, temper. And they said you'd be different. But blood is blood, I suppose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''They? What blood?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "69",
+            "content": "*'''Elpenor:''' ''You really are more brawn than brains, aren't you? A shame, I could have used you for more of my... errands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "70",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D48",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' Malaka''! You think you can play with me? I'll cut out your tongue!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "72",
+            "content": "Even as she threatened Elepnor, guards already approached wearing ceremonial silver helmets and shields emblazoned with a curious emblem of two fighting snakes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC9",
+            "global_id": "73",
+            "content": "|-|I don't care, you deserve to die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I won't be your puppet anymore!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "75",
+            "content": "Kassandra knocked away Nikolaos' helmet and attempted to attack Elpenor. His guards grabbed her and dragged her out of the house, throwing her onto the yard.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "76",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D50",
+            "global_id": "77",
+            "content": "*'''Elpenor:''' ''So disappointing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "78",
+            "content": "Elpenor left and fled the area. Kassandra fought and killed the guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Elpenor snuck away like a coward. I should investigate his house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "80",
+            "content": "She began to search his house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''A letter to Elpenor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "82",
+            "content": ":'''Elpenor's Note''' ''[[Krethos]]: You were right about the [[Kephallonia]]n [[Phoibe|peasant girl]]. She led me right to the ''misthios''. Near the [[Ancient Ruins of Kranioi|ancient ruins of Kranioi]]. You did good work tracking them down. Now, to get them both to trust me... Did I ever tell you I was a fan of theater? As for you, find your payment in Phokis. Signed, Elpenor.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''Oh Phoibe, you led him right to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "84",
+            "content": "On another table she located a papyrus scroll.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Elpenor's looking for a woman. I wonder who he wants in his slimy grasp now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "86",
+            "content": "'''Papyrus to Elpenor''' ''Elpenor, in regards to your search for the woman. If anyone would know her whereabouts, it would be that [[Chrysis|crazy priestess]] at the [[Sanctuary of Asklepios|Asklepios Sanctuary]]. I'd go myself but she terrifies me. Yours, [[Antonide]].''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N14",
+            "global_id": "87",
+            "content": "She then examined his bookshelf.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''This is a [[ship]] manifest. Elpenor's selling weapons to both Athens and [[Sparta]]. He wants [[Peloponnesian War|this war]] to go on forever. I have met some treacherous people. None of them compare to Elpenor. I'm going to look under every rock, in every shadow, until I find and kill this vile serpent.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

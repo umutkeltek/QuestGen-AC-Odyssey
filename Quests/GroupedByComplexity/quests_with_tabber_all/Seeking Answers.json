@@ -1,0 +1,412 @@
+{
+    "Quest_Name": "Seeking Answers",
+    "Quest_ID": "224121",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Realizing she had the information Ardos needed to continue the search for his father, Kassandra knew she'd have to go to him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Blood in the Water (Odyssey)|Blood in the Water<br>Recollections<br>Full Circle",
+        "next": "He Waits",
+        "source": "Kassandra",
+        "location": "Knossos Palace, Messara, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Seeking Answers''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Ardos]], after learning he had information that she need to search for the boy's [[Nikios|father]].",
+    "Section_Dialogue": "Kassandra returned to Ardos at the [[Knossos Palace]] ruins.\n[Collector and/or Swordfish quests complete]\n*'''Kassandra:''' ''You\u2014''\n*'''Ardos:''' ''Whatever it was, I didn't steal it.''\n*'''Kassandra:''' ''The old caretaker said you\u2014''\n*'''Ardos:''' ''Whoa\u2014he told you stuff? Did he tell you anything about my pater?''\n*'''Kassandra:''' ''No he didn't, but\u2014''\n*'''Ardos:''' ''What about the Collector?''\n\n<tabber>\n|-|He said you are like your father.=\n*'''Kassandra:''' ''...He said you're like your pater.''\n*'''Ardos:''' ''Really? That's nice to know.''\n|-|Lie \u2013 He didn't say anything.=\n*'''Kassandra:''' ''He didn't say anything about your pater either.''\n*'''Ardos:''' ''Huh! I could've sworn he knew something!''\n</tabber>\n*'''Kassandra:''' ''Look, the old caretaker said you\u2014''\n*'''Ardos:''' ''Wait, wait, wait! And... ''Swordfish''? What did he say? You found him right?''\n\n<tabber>\n|-|He told me where to place the disk.=\n*'''Kassandra:''' ''He said the key goes in the stele.''\n*'''Ardos:''' ''Oh! I know where the stele is! But wait\u2014''\nHe scratched his jaw.\n*'''Ardos:''' ''What's this key you're talking about?''\n|-|He said you were rude.=\n*'''Kassandra:''' ''He said you were a rude little boy that likes to interrupt\u2014''\n*'''Ardos:''' ''That's not true!''\nKassandra paused and looked at him pointedly.\n*'''Ardos:''' ''Fine. ''Maybe'' I get a little excited sometimes. What were you going to say?''\n</tabber>\n(Full Circle complete, regardless of by itself or with the other quests)\n*'''Kassandra:''' ''The old man said you stole something from him.''\n*'''Ardos:''' ''No, I didn't!<br />Wait.<br />What did he accuse me of stealing?''\n*'''Kassandra:''' ''The [[Phaistos Disk|key]] to the [[Labyrinth of Lost Souls|labyrinth]]. A disk.''\n*'''Ardos:''' ''OH!''\nArdos walked over to his stash of items and took out an item.\n*'''Ardos:''' ''You mean this old thing?''\nArdos presented the disk, emblazoned with the [[Minotaur]]'s symbol.\n*'''Ardos:''' ''I always wondered what it was for.''\nKassandra took the disk.\n:*'''Kassandra:''' ''Swordfish mentioned there was a place to put the disk\u2014in a stele.''\n:*'''Ardos:''' ''Ooh! So what do we do now?''\n*'''Kassandra:''' ''If we put the disk into the stele, the entrance to the labyrinth should open.''\nShe knelt down to look up at Ardos.\n*'''Kassandra:''' ''Then I see about a minotaur.''\n*'''Ardos:''' ''And... and you'll save my ''pater'' too right?''\n\n<tabber>\n|-|Yes, I'll save him.=\n*'''Kassandra:''' ''I promised I'd save your ''pater'', didn't I?''\n*'''Ardos:''' ''You're the best, ''misthios!\n*'''Kassandra:''' ''Your ''pater'' and I will be back before you know it.''\n*'''Ardos:''' ''Let's head to the entrance and try out the disk!''\n|-|Your father is probably dead.=\n*'''Kassandra:''' ''Ardos. I don't\u2014''\nShe stood up.\n*'''Kassandra:''' ''I don't think your pater is still -''\n*'''Ardos:''' ''He's alive! I know it! We just have to hurry!''\n</tabber>\nIn addition, Kassandra received [[Theseus' Gauntlets]].\n*'''Kassandra:''' ''Looks like a piece of Theseus' armor.''",
+    "Section_Outcome": "Kassandra claimed the disc that served as the key to the labyrinth from Ardos, who unknowingly held it the entire time, and the two made their way back to the entrance of the [[Labyrinth of Lost Souls]].",
+    "Section_Trivia": "*While three quests are available under the umbrella of [[Of Minotaurs and Men]], only [[Full Circle]] is actually required to open the labyrinth. 'Of Minotaurs and Men' will automatically complete alongside this quest, but the other two quests will remain available.\n*Dialogue choices made during this quest will affect Ardos' dialogue in the following quest, if he is later told that Nikios is dead.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Recherche de r\u00e9ponses]]",
+    "Chapter_SequenceID": "26.",
+    "Chapter_Name": "Minotour - A Place of Twists and Turns",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.f",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Ardos at the [[Knossos Palace]] ruins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": "[Collector and/or Swordfish quests complete]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''You\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Ardos:''' ''Whatever it was, I didn't steal it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''The old caretaker said you\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Ardos:''' ''Whoa\u2014he told you stuff? Did he tell you anything about my pater?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''No he didn't, but\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Ardos:''' ''What about the Collector?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|He said you are like your father.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''...He said you're like your pater.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Ardos:''' ''Really? That's nice to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|Lie \u2013 He didn't say anything.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''He didn't say anything about your pater either.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Ardos:''' ''Huh! I could've sworn he knew something!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Look, the old caretaker said you\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Ardos:''' ''Wait, wait, wait! And... ''Swordfish''? What did he say? You found him right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "22",
+            "content": "|-|He told me where to place the disk.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''He said the key goes in the stele.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Ardos:''' ''Oh! I know where the stele is! But wait\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "25",
+            "content": "He scratched his jaw.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Ardos:''' ''What's this key you're talking about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|He said you were rude.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''He said you were a rude little boy that likes to interrupt\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Ardos:''' ''That's not true!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "30",
+            "content": "Kassandra paused and looked at him pointedly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Ardos:''' ''Fine. ''Maybe'' I get a little excited sometimes. What were you going to say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "32",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "33",
+            "content": "(Full Circle complete, regardless of by itself or with the other quests)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''The old man said you stole something from him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Ardos:''' ''No, I didn't!<br />Wait.<br />What did he accuse me of stealing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''The [[Phaistos Disk|key]] to the [[Labyrinth of Lost Souls|labyrinth]]. A disk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Ardos:''' ''OH!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "38",
+            "content": "Ardos walked over to his stash of items and took out an item.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Ardos:''' ''You mean this old thing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "40",
+            "content": "Ardos presented the disk, emblazoned with the [[Minotaur]]'s symbol.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "41",
+            "content": "*'''Ardos:''' ''I always wondered what it was for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "42",
+            "content": "Kassandra took the disk.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "43",
+            "content": ":*'''Kassandra:''' ''Swordfish mentioned there was a place to put the disk\u2014in a stele.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "44",
+            "content": ":*'''Ardos:''' ''Ooh! So what do we do now?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''If we put the disk into the stele, the entrance to the labyrinth should open.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "46",
+            "content": "She knelt down to look up at Ardos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Then I see about a minotaur.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Ardos:''' ''And... and you'll save my ''pater'' too right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "49",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "50",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "51",
+            "content": "|-|Yes, I'll save him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''I promised I'd save your ''pater'', didn't I?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "53",
+            "content": "*'''Ardos:''' ''You're the best, ''misthios!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Your ''pater'' and I will be back before you know it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "55",
+            "content": "*'''Ardos:''' ''Let's head to the entrance and try out the disk!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "56",
+            "content": "|-|Your father is probably dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Ardos. I don't\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "58",
+            "content": "She stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''I don't think your pater is still -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "60",
+            "content": "*'''Ardos:''' ''He's alive! I know it! We just have to hurry!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "61",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N12",
+            "global_id": "62",
+            "content": "In addition, Kassandra received [[Theseus' Gauntlets]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Looks like a piece of Theseus' armor.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

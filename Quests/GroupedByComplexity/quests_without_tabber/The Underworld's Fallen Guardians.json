@@ -1,0 +1,259 @@
+{
+    "Quest_Name": "The Underworld's Fallen Guardians",
+    "Quest_ID": "232509",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA ToH The Underworld's Fallen Guardians 01.png",
+        "description": "'To quell the chaos of the underworld, Hades demanded new Guardians for his gates. They were no Cerberus|Cerberos, but their combined might would do the job.'",
+        "appearance": "'Assassin's Creed: Odyssey' - 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Main",
+        "previous": "Beyond the Veil",
+        "next": "The Next Lesson",
+        "source": "Kassandra",
+        "location": "The Underworld",
+        "date": "422 BCE"
+    },
+    "General_Description": "'''Guardian of the Gates''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was sent by [[Hades]] to recruit four guardians for the gates to the [[Underworld]].",
+    "Section_Dialogue": "Kassandra travelled to the vault behind [[Salmoneus' Hubris]], finding the hero [[Perseus]]. Kassandra attacked the hero, prompting him to engage her in combat.\n*'''Perseus:''' ''[[Kadmos]] and [[Bellerophon]], lend me your might! You dare challenge the slayer of the [[Medusa|Gorgon]]?''\n*'''Kassandra:''' ''I'm not here to challenge you, Perseus. I need your help!''\n*'''Perseus:''' ''My help must be earned!''\nKassandra dealt a few blows to Perseus.\n*'''Perseus:''' ''[[Zeus]]... Father! Descend and fight with me!''\nKassandra defeated Perseus.\n*'''Kassandra:''' ''Snap out of it, Perseus. We're allies, and I need your help. Go to the [[Gate of the Slayer|gates]] and protect this place.''\nPerseus nodded in agreement and left the vault. Kassandra recovered a note.\n*'''Perseus' note:'''<br />''It's baffling. After everything I accomplished, I am to spend eternity in the lair of the despicable gorgon I slayed so long ago. Zeus, father, what have I done to offend thee? Did I somehow misuse your gifts? Was I too prideful in my taking of the gorgon's head? [[Hades]] welcomes all who were overcome by hubris, like the [[Achilles|warrior]] who thought he was protected by the [[Styx]], and yet finds himself feasting endlessly in the [[Hall of Maniai]]. Or perhaps slaying the monster was in itself an ill act. Perhaps the beast was merely misunderstood. Perhaps... perhaps...''\nKassandra next traveled to the Hall of Maniai, passing through a [[Tartaros Veil]]. In the cave, she found the Greek hero Achilles and provoked him into attacking.\n*'''Achilles:''' ''I don't want to fight you, challenger. Stand down! Put down your weapons or die.''\n*'''Kassandra:''' ''Achilles, the underworld is in chaos. Serve Hades and go to the [[Gate of the Glorious|gates]]!''\n*'''Achilles:''' ''If you want me to be a servant, prove it!''\nKassandra dealt a few blows on Achilles.\n*'''Achilles:''' ''There's no honor in this. Stop!''\nKassandra defeated Achilles.\n*'''Kassandra:''' ''Achilles, Hades need you. Go to the gates and guard them with your life.''\nAchilles nodded and left the cave. Kassandra left the cave and traveled to the [[Pit of Deprivation]]. She passed through a Tartaros Veil to a vault where [[Agamemnon]] was at, provoking the King into attacking her.\n*'''Agamemnon:''' ''Ah, finally Hades has sent me a challenge. Bow before your true king!''\n*'''Kassandra:''' ''I'll bow if you go to the gates and protect the underworld.''\nKassandra landed a few blows on Agamemnon.\n*'''Agamemnon:''' ''Your blood is as sweet as a [[Troy|Trojan]]'s!''\n[[File:ACOD FoA ToH Agamemnon Kassandra.png|thumb|250px|Kassandra recruits Agamemnon]]\nKassandra defeated Agamemnon.\n*'''Kassandra:''' ''This place needs a king, Agamemnon. Go to the [[Gate of the Unbowed|gates]] and protect the people the way you do best.''\nAgamemnon nodded and left the vault. Kassandra recovered a note.\n*'''Agamemnon's Note:'''<br />''I was a king. I commanded legions. My banner struck fear in the hearts of my enemies and I razed cities to the ground. But now death is my kingdom. Rocks are my city walls. Flames are my soldiers. Their heat the only thing I can trust in this forsaken put. I find no rest here\u2014not with the screams coming from [[Tartaros]]. Must be that restless [[Herakles|son]] of Zeus, beating prisoners into a bloody pulp.''\nKassandra left the vault and traveled to a fort in the northwest. She entered a vault through a Tartaros Veil and found the hero Herakles in it, along with a depiction of a [[cyclops]]' corpse. Kassandra approached closer, provoking Herakles into attacking.\n*'''Herakles:''' ''You're the one who killed [[Cerberos]]! Been a long time since I had a good fight!''\n*'''Kassandra:''' ''Herakles, I'm not here to fight you. I need you!''\n*'''Herakles:''' ''I said ''fight''!''\nKassandra dealt a few blows to Herakles.\n*'''Herakles:''' ''Respect, young one! You fight like an [[Argonauts|Argonaut]]!''\n[[File:ACOD FoA ToH Herakles Kassandra.png|thumb|250px|Kassandra recruits Herakles]]\nKassandra defeated Herakles.\n*'''Kassandra:''' ''Herakles, rise up and be a hero for Hades and for all the people in the underworld.''\nHerakles nodded and left the vault.",
+    "Section_Outcome": "Kassandra defeated Herakles, Achilles, Perseus, and Agamemnon, and recruited them as Hades' four new guardians of the gates.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' - ''[[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the vault behind [[Salmoneus' Hubris]], finding the hero [[Perseus]]. Kassandra attacked the hero, prompting him to engage her in combat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Perseus:''' ''[[Kadmos]] and [[Bellerophon]], lend me your might! You dare challenge the slayer of the [[Medusa|Gorgon]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I'm not here to challenge you, Perseus. I need your help!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Perseus:''' ''My help must be earned!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra dealt a few blows to Perseus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Perseus:''' ''[[Zeus]]... Father! Descend and fight with me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Kassandra defeated Perseus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Snap out of it, Perseus. We're allies, and I need your help. Go to the [[Gate of the Slayer|gates]] and protect this place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Perseus nodded in agreement and left the vault. Kassandra recovered a note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Perseus' note:'''<br />''It's baffling. After everything I accomplished, I am to spend eternity in the lair of the despicable gorgon I slayed so long ago. Zeus, father, what have I done to offend thee? Did I somehow misuse your gifts? Was I too prideful in my taking of the gorgon's head? [[Hades]] welcomes all who were overcome by hubris, like the [[Achilles|warrior]] who thought he was protected by the [[Styx]], and yet finds himself feasting endlessly in the [[Hall of Maniai]]. Or perhaps slaying the monster was in itself an ill act. Perhaps the beast was merely misunderstood. Perhaps... perhaps...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "11",
+            "content": "Kassandra next traveled to the Hall of Maniai, passing through a [[Tartaros Veil]]. In the cave, she found the Greek hero Achilles and provoked him into attacking.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Achilles:''' ''I don't want to fight you, challenger. Stand down! Put down your weapons or die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Achilles, the underworld is in chaos. Serve Hades and go to the [[Gate of the Glorious|gates]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Achilles:''' ''If you want me to be a servant, prove it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "15",
+            "content": "Kassandra dealt a few blows on Achilles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Achilles:''' ''There's no honor in this. Stop!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "17",
+            "content": "Kassandra defeated Achilles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Achilles, Hades need you. Go to the gates and guard them with your life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "19",
+            "content": "Achilles nodded and left the cave. Kassandra left the cave and traveled to the [[Pit of Deprivation]]. She passed through a Tartaros Veil to a vault where [[Agamemnon]] was at, provoking the King into attacking her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Agamemnon:''' ''Ah, finally Hades has sent me a challenge. Bow before your true king!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll bow if you go to the gates and protect the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "22",
+            "content": "Kassandra landed a few blows on Agamemnon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Agamemnon:''' ''Your blood is as sweet as a [[Troy|Trojan]]'s!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "24",
+            "content": "[[File:ACOD FoA ToH Agamemnon Kassandra.png|thumb|250px|Kassandra recruits Agamemnon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "25",
+            "content": "Kassandra defeated Agamemnon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''This place needs a king, Agamemnon. Go to the [[Gate of the Unbowed|gates]] and protect the people the way you do best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "27",
+            "content": "Agamemnon nodded and left the vault. Kassandra recovered a note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Agamemnon's Note:'''<br />''I was a king. I commanded legions. My banner struck fear in the hearts of my enemies and I razed cities to the ground. But now death is my kingdom. Rocks are my city walls. Flames are my soldiers. Their heat the only thing I can trust in this forsaken put. I find no rest here\u2014not with the screams coming from [[Tartaros]]. Must be that restless [[Herakles|son]] of Zeus, beating prisoners into a bloody pulp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "29",
+            "content": "Kassandra left the vault and traveled to a fort in the northwest. She entered a vault through a Tartaros Veil and found the hero Herakles in it, along with a depiction of a [[cyclops]]' corpse. Kassandra approached closer, provoking Herakles into attacking.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Herakles:''' ''You're the one who killed [[Cerberos]]! Been a long time since I had a good fight!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Herakles, I'm not here to fight you. I need you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Herakles:''' ''I said ''fight''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "33",
+            "content": "Kassandra dealt a few blows to Herakles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Herakles:''' ''Respect, young one! You fight like an [[Argonauts|Argonaut]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "35",
+            "content": "[[File:ACOD FoA ToH Herakles Kassandra.png|thumb|250px|Kassandra recruits Herakles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N14",
+            "global_id": "36",
+            "content": "Kassandra defeated Herakles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Herakles, rise up and be a hero for Hades and for all the people in the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "38",
+            "content": "Herakles nodded and left the vault.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

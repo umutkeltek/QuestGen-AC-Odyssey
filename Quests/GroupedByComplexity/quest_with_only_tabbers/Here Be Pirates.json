@@ -1,0 +1,291 @@
+{
+    "Quest_Name": "Here Be Pirates",
+    "Quest_ID": "231687",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Ready or not, the Piracy|pirates stormed Alponos. Despite everything that had happened, Kassandra agreed to stand beside Megakles and fight. Hopefully it would be enough...'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "A Town in Need, Indeed",
+        "next": "There Can Be Only One",
+        "source": "Kassandra",
+        "location": "Alponos, Lokris, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Here Be Pirates''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "Faced with a [[Piracy|pirate]] invasion, Kassandra stood beside [[Megakles]] and fought.",
+    "Section_Dialogue": "With the pirates invading Alponos, Kassandra and Megakles rush to defend it.\n\n*'''Megakles:''' ''Some of the villagers have armed themselves.''\n*'''Kassandra:''' ''They still need us to fight with them. Go!''\n\nWhile dispatching the first wave of pirates, a second group arrives.\n\n*'''Civilian''': ''Help us!''\n*'''Civilian''': ''I don't want to die!''\n\nAfter dispatching the second wave of pirates, a third and final group invades Alponos.\n\n*'''Kassandra''': ''Megakles! There's more coming!''\n*'''Megakles''': ''I see them!''\n\nEventually, all threats are eliminated, and Kassandra speaks to Megakles.\n\n*'''Kassandra:''' ''You fought well.''\n*'''Megakles:''' ''As did you. Forget what happened before. We're alive because of you.''\n\n<tabber>\n|-|Combat \u2013 Now you die because of me.=\n*'''Kassandra:''' ''I am so sick of you and this cursed town.''\n*'''Megakles:''' ''I'll kill you where you stand!''\n*'''Kassandra:''' ''I've killed everyone else in Alponos. What makes you so different?''\nKassandra fought and killed Megakles. She then obtained a note from his body, written by the imposter.\n|-|Time to pay up.=\n*'''Kassandra:''' ''Don\u2019t thank me. Just pay me.''\n*'''Megakles:''' ''You ''mercenaries'' are all the same. But we agreed \u2013 here is everything that was left in Alponos's treasury.''\n*'''Kassandra:''' ''Now I need to find my impersonator.''\n*'''Megakles:''' ''I can help. I found this note on the pirate leader. They owe him a lot of drachmae. He was hired to sabotage the town.''\n*'''Kassandra:''' ''Making invasion easier.''\n*'''Megakles:''' ''Their plan would have worked, if the ''real'' Eagle Bearer hadn't shown up. What will you do when you find him?''\n*'''Kassandra:''' ''I'll think of something.''\n|-|I'm glad Alponos is safe.=\n*'''Kassandra:''' ''No need to thank me, Megakles. I'm just glad the people of Alponos are safe.''\n*'''Megakles:''' ''You may not want thanks, but you deserve it. I promised everything in the treasury, and that's what you're getting.''\n*'''Kassandra:''' ''Now I need to find my impersonator.''\n*'''Megakles:''' ''I can help. I found this note on the pirate leader. They owe him a lot of drachmae. He was hired to sabotage the town.''\n*'''Kassandra:''' ''Making invasion easier.''\n*'''Megakles:''' ''Their plan would have worked, if the ''real'' Eagle Bearer hadn't shown up. What will you do when you find him?''\n*'''Kassandra:''' ''I'll think of something.''\n</tabber>",
+    "Section_Outcome": "Kassandra fought together with the local populace and Megakles and killed all invading pirates. She obtained a clue from that would set her on the path of finding the [[Eagle Bearer (imposter)|imposter]] pretending to be the Eagle Bearer.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "One Really, Really Bad Day",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "With the pirates invading Alponos, Kassandra and Megakles rush to defend it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Megakles:''' ''Some of the villagers have armed themselves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''They still need us to fight with them. Go!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "While dispatching the first wave of pirates, a second group arrives.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Civilian''': ''Help us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Civilian''': ''I don't want to die!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "After dispatching the second wave of pirates, a third and final group invades Alponos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra''': ''Megakles! There's more coming!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Megakles''': ''I see them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "16",
+            "content": "Eventually, all threats are eliminated, and Kassandra speaks to Megakles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''You fought well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Megakles:''' ''As did you. Forget what happened before. We're alive because of you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "22",
+            "content": "|-|Combat \u2013 Now you die because of me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I am so sick of you and this cursed town.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "24",
+            "content": "*'''Megakles:''' ''I'll kill you where you stand!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I've killed everyone else in Alponos. What makes you so different?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "26",
+            "content": "Kassandra fought and killed Megakles. She then obtained a note from his body, written by the imposter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "27",
+            "content": "|-|Time to pay up.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Don\u2019t thank me. Just pay me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "29",
+            "content": "*'''Megakles:''' ''You ''mercenaries'' are all the same. But we agreed \u2013 here is everything that was left in Alponos's treasury.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Now I need to find my impersonator.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "31",
+            "content": "*'''Megakles:''' ''I can help. I found this note on the pirate leader. They owe him a lot of drachmae. He was hired to sabotage the town.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Making invasion easier.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Megakles:''' ''Their plan would have worked, if the ''real'' Eagle Bearer hadn't shown up. What will you do when you find him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'll think of something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "35",
+            "content": "|-|I'm glad Alponos is safe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''No need to thank me, Megakles. I'm just glad the people of Alponos are safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Megakles:''' ''You may not want thanks, but you deserve it. I promised everything in the treasury, and that's what you're getting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Now I need to find my impersonator.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Megakles:''' ''I can help. I found this note on the pirate leader. They owe him a lot of drachmae. He was hired to sabotage the town.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Making invasion easier.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "41",
+            "content": "*'''Megakles:''' ''Their plan would have worked, if the ''real'' Eagle Bearer hadn't shown up. What will you do when you find him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''I'll think of something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "43",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

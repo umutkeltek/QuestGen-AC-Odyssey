@@ -1,0 +1,768 @@
+{
+    "Quest_Name": "I Don't Belong Here",
+    "Quest_ID": "232650",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Charon pointed Kassandra to the Mourning Fields to help a lost soul find peace. What she discovered instead was Brasidas|a warrior trapped in eternal combat \u2013 both in the underworld and in his own mind.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Brasidas}}",
+        "next": "The Weight of Sparta",
+        "source": "Kassandra",
+        "location": "Eternal Battlefield, Mourning Fields, the Underworld",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''I Don't Belong Here''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra traveled to the [[Eternal Battlefield]] on the advice of [[Charon]].",
+    "Section_Dialogue": "When Kassandra arrived at the Eternal Battlefield she found [[Athens|Athenian]] and [[Sparta]]n forces clashing. Amidst the fighters, she spied a familiar face.\n*'''Kassandra:''' ''[[Brasidas]]!''\nBrasidas continued fighting the Athenians.\n*'''Brasidas:''' ''I don't belong here!''\nKassandra joined him in fighting the Athenian forces and routed them, sending them fleeing. Afterwards, Brasidas turned his spear towards Kassandra.\n*'''Brasidas:''' ''You're next, [[soldier]]!''\nKassandra fought Brasidas and defeated him. Slowly, his memories returned.\n*'''Brasidas:''' ''You fight like someone I once knew.''\n<tabber>\n|-|We first met in Korinth.=\n*'''Kassandra:''' ''We fought [[the Monger]]'s thugs in a [[The Monger's Warehouse|warehouse]] in [[Korinth]]. That's where we met.''\n*'''Brasidas:''' ''The warehouse was on fire. We were surrounded.''\n|-|We fought together at Pylos.=\n*'''Kassandra:''' ''We fought Athenians together at the [[Battle of Pylos|Battle]] of [[Pylos]].''\n*'''Brasidas:''' ''The battlefield was engulfed in flames. I was cut down by [[Alexios|a warrior]] like no other. The same warrior who sent me here.''\n|-|I watched you die at Amphipolis.=\n*'''Kassandra:''' ''We fought together when [[Kleon]] and the Athenians [[Battle of Amphipolis|landed]] in [[Amphipolis]]. Don't you remember?''\n*'''Brasidas:''' ''We fought side by side. Victory was near, but then...''\n*'''Kassandra:''' ''You were killed.''\n*'''Brasidas:''' ''Deimos. There is nothing but darkness after that.''\n</tabber>\n*'''Brasidas:''' ''Kassandra?''\n*'''Kassandra:''' ''It's good to see you, old friend.\u00a0''\n<tabber>\n|-|If Brasidias died on good terms with Kassandra=\nThe two shook hands.\n*'''Brasidas:''' ''What are you doing here? Tell me you are not dead.''\n|-|If Brasidias died on bad terms with Kassandra=\n{{#tag:tabber|\nIf Nikolaos was spared=\n*'''Brasidas: '''''Friends? Friends watch each other's backs, but you were always out for yourself. My needs, the needs of our people were never a passing thought.''\n{{!}}-{{!}}\nIf Nikolaos was killed=\n*'''Brasidas:'''''\u00a0Friend? If you'd kill your own [[Nikolaos|father]], what would you do for a friend? You were always driven by vengeance, out for yourself. Never thinking about the greater good.''\n}}\n{{#tag:tabber|\nAll you cared about was Sparta.=\n*'''Kassandra:''' ''All you cared about was Sparta. Did you ever consider that Sparta never cared about anyone else? We need to put the past behind us now.''\n{{!}}-{{!}}\nI should have listened to you.=\n*'''Kassandra:''' ''I know I let you down. I tried to make it up to you at Amphipolis,, but I couldn't save you in time.''\n}}\nBrasidas nodded.\n*'''Brasidas:''' ''What are you doing here? You're not dead, are you?''\n</tabber>\nKassandra withdrew the [[Staff of Hermes Trismegistus|Staff]] of [[Hermes Trismegistus]] from behind her back.\n*'''Kassandra:''' ''No, not yet at least. I have a Staff from my father, my [[Pythagoras|real father]]. It has [[Staves of Eden|powers]]. I was sent to the underworld to learn how to use them.''\n*'''Brasidas:''' ''Powers.''\n*'''Kassandra:''' ''It's a long story, but I've been all over [[Elysium]] looking for answers. My search brought me here.''\n*'''Brasidas:''' ''You've been to Elysium?\nKassandra nodded. Conflicted, Brasidias began pacing.\n*'''Brasidias:''' ''\"Honor the gods. Honor Sparta. Keep your oaths, and Elysium is yours.\" My father told me this as a child, and every single day of my life I lived by that code. But now in death, I'm sentenced to this misery.''\n<tabber>\n|-|Your father was wrong.=\n*'''Kassandra:''' ''Nikolaos thought throwing me off a [[Mount Taygetos|mountain]] upheld Spartan \"code.\" Fathers don't always have the right answers, Brasidas.''\n*'''Brasidas:''' ''Then I wasted a lifetime believing in a lie.''\n|-|You deserve Elysium.=\n*'''Kassandra:''' ''If there's anyone I fought with who deserves paradise, it's you.''\n*'''Brasidas:''' ''Then why am I here?''\n|-|You broke your code.=\n*'''Kassandra:''' ''Maybe you didn't fully live up to that code.''\n*'''Brasidas:''' ''Impossible. I recited those words every morning and every night. They've been burned into my mind.''\n</tabber>\n*'''Kassandra:''' ''You should be taking this up with [[Hades]].''\n*'''Brasidas:''' ''This was Hades' decision. He says I can go to Elysium on one condition. I need to confront my greatest enemy.''\n*'''Kassandra:''' ''Deimos.''\n*'''Brasidas:''' ''Deimos.''\n*'''Kassandra:''' ''Brasidas, you shouldn't be waiting here to fight him.''\n*'''Brasidas:''' ''Why not?''\n<tabber>\n|-|If Deimos was alive=\n{{#tag:tabber|\nDeimos is alive.=\n*'''Kassandra:''' ''Deimos still lives. Hades tricked you.''\n*'''Brasidas:''' ''No matter. He'll show up, eventually.''\n*'''Kassandra:''' ''What did Hades tell you, exactly?''\n{{!}}-{{!}}\nI spared Deimos' life.=\n*'''Kassandra:''' ''Deimos lives. I had the chance to send him here, but I spared him.''\n*'''Brasidas:''' ''He slaughtered my men. He sent ''me'' here.''\n*'''Kassandra:''' ''I know, but the Cult destroyed my family. I did what I could to make it whole again. Besides, you once taught me \"not all situations need to end in bloodshed.\"''\n*'''Brasidas:''' ''Knowing this changes nothing. I will see Elysium.''\n*'''Kassandra:''' ''I won't stand in your way. What did Hades tell you, exactly?''\n}}\n|-|If Deimos was dead=\n{{#tag:tabber|\nHades wouldn't make this easy.=\n*'''Kassandra:''' ''I've met Hades. There must be a catch. What did he say exactly?''\n{{!}}-{{!}}\nYou're not ready.=\n}}\n</tabber>\n*'''Brasidas:''' ''He said, \"To walk Elysium in death, the son of Sparta must confront that which defeated him in life.\"''\n*'''Kassandra:''' ''[[Greek mythology|Gods]] and their fucking riddles. Can't they ever just say what they mean? But, I think I've already solved your first problem.''\n*'''Brasidas:''' ''And that is?''\n*'''Kassandra:''' ''A true son of Sparta wouldn't dare face an enemy without their [[shield]]. We need to find yours.''\n*'''Brasidas:''' ''It's in the [[Forgotten Sepulchre]]. I tried to retrieve it, but Hades sent guards to defend the tomb after some ''mal\u00e1kas'' killed [[Cerberos]].''\n<tabber>\n|-|That was me.=\n*'''Kassandra:''' ''That ''mal\u00e1kas'' was me. And now I'm stuck working for Hades.''\nBrasidas chuckled.\n*'''Brasidas:''' ''Why am I not surprised? You've made things around here complicated.''\n|-|Lie \u2013 Only an idiot would kill Cerberos.=\n*'''Kassandra:''' ''What kind of ''mal\u00e1kas'' just goes around and kills Cerberos? Seriously.''\n*'''Brasidas:''' ''Whoever it was certainly made things around here complicated.''\n</tabber>\n<tabber>\n|-|If Brasidias died on good terms with Kassandra=\n*'''Kassandra:''' ''You were always good to me in times of need. Now let me be a friend to you.''\n|-|If Brasidias died on bad terms with Kassandra=\n*'''Kassandra:''' ''I wasn't the friend you needed in life. Let me be a friend to you now''\n</tabber>\n*'''Brasidas:''' ''Courage eludes me in the underworld. Deep down, I hoped I'd never have to face Deimos again.''\n(If \"What is the Forgotten Sepulchre?\" is chosen.)\n*'''Kassandra:''' ''What can you tell me about this Forgotten Sepulchre?\"''\n*'''Brasidas:''' ''It houses the [[armor]], trophies, and weapons of dishonored warriors. Things they were buried with in death, but were stripped of in the underworld.''\n(If \"How will I know your shield?\" is chosen.)\n*'''Kassandra:''' ''How will I know which shield is yours?''\n*'''Brasidas:''' ''You should know my shield by now. It bears the colors of Sparta and has been through many battles.''\n(Leave \u2013 \"I'll come back with your shield.\")\n*'''Kassandra:''' ''The weight of your shield will help you feel like your old self.''\n*'''Brasidas:''' ''Make sure to take only mine. Taking any others will be your doom.''",
+    "Section_Outcome": "Kassandra reunited with Brasidas in the underworld, though she had expected him to deserve Elysium instead. She resolved to help him face his greatest enemy and earn his way into paradise.",
+    "Section_Behind_the_scenes": "Much of the dialogue depends on if Kassandra and Brasidas were on \"good\" or \"bad terms\" when he died, and if Kassandra had killed Nikolaos in the memory \"[[The Wolf of Sparta]]\". Furthermore, if players had reached Level 52 early on and began ''The Fate of Atlantis'' before completing the memory \"[[We Will Rise]]\", leaving Brasidas alive before his death in the Battle of Amphipolis, his shade will still appear, as his death is unavoidable in the main storyline. When asked about Deimos, players are given answers from the \"Deimos is alive\" table.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Torment of Hades]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "When Kassandra arrived at the Eternal Battlefield she found [[Athens|Athenian]] and [[Sparta]]n forces clashing. Amidst the fighters, she spied a familiar face.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''[[Brasidas]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Brasidas continued fighting the Athenians.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Brasidas:''' ''I don't belong here!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra joined him in fighting the Athenian forces and routed them, sending them fleeing. Afterwards, Brasidas turned his spear towards Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Brasidas:''' ''You're next, [[soldier]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra fought Brasidas and defeated him. Slowly, his memories returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Brasidas:''' ''You fight like someone I once knew.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|We first met in Korinth.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''We fought [[the Monger]]'s thugs in a [[The Monger's Warehouse|warehouse]] in [[Korinth]]. That's where we met.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Brasidas:''' ''The warehouse was on fire. We were surrounded.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|We fought together at Pylos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''We fought Athenians together at the [[Battle of Pylos|Battle]] of [[Pylos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Brasidas:''' ''The battlefield was engulfed in flames. I was cut down by [[Alexios|a warrior]] like no other. The same warrior who sent me here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "16",
+            "content": "|-|I watched you die at Amphipolis.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''We fought together when [[Kleon]] and the Athenians [[Battle of Amphipolis|landed]] in [[Amphipolis]]. Don't you remember?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Brasidas:''' ''We fought side by side. Victory was near, but then...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''You were killed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Brasidas:''' ''Deimos. There is nothing but darkness after that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "21",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Brasidas:''' ''Kassandra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''It's good to see you, old friend.\u00a0''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "25",
+            "content": "|-|If Brasidias died on good terms with Kassandra=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N5",
+            "global_id": "26",
+            "content": "The two shook hands.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Brasidas:''' ''What are you doing here? Tell me you are not dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "28",
+            "content": "|-|If Brasidias died on bad terms with Kassandra=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "29",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "30",
+            "content": "If Nikolaos was spared=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Brasidas: '''''Friends? Friends watch each other's backs, but you were always out for yourself. My needs, the needs of our people were never a passing thought.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "32",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "33",
+            "content": "If Nikolaos was killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "34",
+            "content": "*'''Brasidas:'''''\u00a0Friend? If you'd kill your own [[Nikolaos|father]], what would you do for a friend? You were always driven by vengeance, out for yourself. Never thinking about the greater good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "35",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "36",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "37",
+            "content": "All you cared about was Sparta.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''All you cared about was Sparta. Did you ever consider that Sparta never cared about anyone else? We need to put the past behind us now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "39",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "40",
+            "content": "I should have listened to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I know I let you down. I tried to make it up to you at Amphipolis,, but I couldn't save you in time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "42",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": "Brasidas nodded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "44",
+            "content": "*'''Brasidas:''' ''What are you doing here? You're not dead, are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "45",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N7",
+            "global_id": "46",
+            "content": "Kassandra withdrew the [[Staff of Hermes Trismegistus|Staff]] of [[Hermes Trismegistus]] from behind her back.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''No, not yet at least. I have a Staff from my father, my [[Pythagoras|real father]]. It has [[Staves of Eden|powers]]. I was sent to the underworld to learn how to use them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "48",
+            "content": "*'''Brasidas:''' ''Powers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''It's a long story, but I've been all over [[Elysium]] looking for answers. My search brought me here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "50",
+            "content": "*'''Brasidas:''' ''You've been to Elysium?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "51",
+            "content": "Kassandra nodded. Conflicted, Brasidias began pacing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "52",
+            "content": "*'''Brasidias:''' ''\"Honor the gods. Honor Sparta. Keep your oaths, and Elysium is yours.\" My father told me this as a child, and every single day of my life I lived by that code. But now in death, I'm sentenced to this misery.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "53",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "54",
+            "content": "|-|Your father was wrong.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Nikolaos thought throwing me off a [[Mount Taygetos|mountain]] upheld Spartan \"code.\" Fathers don't always have the right answers, Brasidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "56",
+            "content": "*'''Brasidas:''' ''Then I wasted a lifetime believing in a lie.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC11",
+            "global_id": "57",
+            "content": "|-|You deserve Elysium.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''If there's anyone I fought with who deserves paradise, it's you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "59",
+            "content": "*'''Brasidas:''' ''Then why am I here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC12",
+            "global_id": "60",
+            "content": "|-|You broke your code.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Maybe you didn't fully live up to that code.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "62",
+            "content": "*'''Brasidas:''' ''Impossible. I recited those words every morning and every night. They've been burned into my mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D32",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''You should be taking this up with [[Hades]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "65",
+            "content": "*'''Brasidas:''' ''This was Hades' decision. He says I can go to Elysium on one condition. I need to confront my greatest enemy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Deimos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "67",
+            "content": "*'''Brasidas:''' ''Deimos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Brasidas, you shouldn't be waiting here to fight him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "69",
+            "content": "*'''Brasidas:''' ''Why not?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "70",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "71",
+            "content": "|-|If Deimos was alive=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "72",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC14",
+            "global_id": "73",
+            "content": "Deimos is alive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Deimos still lives. Hades tricked you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "75",
+            "content": "*'''Brasidas:''' ''No matter. He'll show up, eventually.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''What did Hades tell you, exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "77",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC15",
+            "global_id": "78",
+            "content": "I spared Deimos' life.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Deimos lives. I had the chance to send him here, but I spared him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "80",
+            "content": "*'''Brasidas:''' ''He slaughtered my men. He sent ''me'' here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''I know, but the Cult destroyed my family. I did what I could to make it whole again. Besides, you once taught me \"not all situations need to end in bloodshed.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "82",
+            "content": "*'''Brasidas:''' ''Knowing this changes nothing. I will see Elysium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''I won't stand in your way. What did Hades tell you, exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "84",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC16",
+            "global_id": "85",
+            "content": "|-|If Deimos was dead=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "86",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC17",
+            "global_id": "87",
+            "content": "Hades wouldn't make this easy.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''I've met Hades. There must be a catch. What did he say exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "89",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC18",
+            "global_id": "90",
+            "content": "You're not ready.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "91",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE4",
+            "global_id": "92",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D47",
+            "global_id": "93",
+            "content": "*'''Brasidas:''' ''He said, \"To walk Elysium in death, the son of Sparta must confront that which defeated him in life.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''[[Greek mythology|Gods]] and their fucking riddles. Can't they ever just say what they mean? But, I think I've already solved your first problem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "95",
+            "content": "*'''Brasidas:''' ''And that is?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''A true son of Sparta wouldn't dare face an enemy without their [[shield]]. We need to find yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "97",
+            "content": "*'''Brasidas:''' ''It's in the [[Forgotten Sepulchre]]. I tried to retrieve it, but Hades sent guards to defend the tomb after some ''mal\u00e1kas'' killed [[Cerberos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "98",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC19",
+            "global_id": "99",
+            "content": "|-|That was me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''That ''mal\u00e1kas'' was me. And now I'm stuck working for Hades.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "101",
+            "content": "Brasidas chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "102",
+            "content": "*'''Brasidas:''' ''Why am I not surprised? You've made things around here complicated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC20",
+            "global_id": "103",
+            "content": "|-|Lie \u2013 Only an idiot would kill Cerberos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''What kind of ''mal\u00e1kas'' just goes around and kills Cerberos? Seriously.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "105",
+            "content": "*'''Brasidas:''' ''Whoever it was certainly made things around here complicated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "106",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS6",
+            "global_id": "107",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC21",
+            "global_id": "108",
+            "content": "|-|If Brasidias died on good terms with Kassandra=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''You were always good to me in times of need. Now let me be a friend to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC22",
+            "global_id": "110",
+            "content": "|-|If Brasidias died on bad terms with Kassandra=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''I wasn't the friend you needed in life. Let me be a friend to you now''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE6",
+            "global_id": "112",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D58",
+            "global_id": "113",
+            "content": "*'''Brasidas:''' ''Courage eludes me in the underworld. Deep down, I hoped I'd never have to face Deimos again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "114",
+            "content": "(If \"What is the Forgotten Sepulchre?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D59",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''What can you tell me about this Forgotten Sepulchre?\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "116",
+            "content": "*'''Brasidas:''' ''It houses the [[armor]], trophies, and weapons of dishonored warriors. Things they were buried with in death, but were stripped of in the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "117",
+            "content": "(If \"How will I know your shield?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D61",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''How will I know which shield is yours?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "119",
+            "content": "*'''Brasidas:''' ''You should know my shield by now. It bears the colors of Sparta and has been through many battles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "120",
+            "content": "(Leave \u2013 \"I'll come back with your shield.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''The weight of your shield will help you feel like your old self.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "122",
+            "content": "*'''Brasidas:''' ''Make sure to take only mine. Taking any others will be your doom.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

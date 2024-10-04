@@ -1,0 +1,40 @@
+{
+    "QuestName": "Undoing What's Been Done",
+    "QuestID": "232529",
+    "Revision": {
+        "id": "1046170",
+        "parentid": "991471",
+        "timestamp": "2023-06-07T17:40:44Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1046170",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "06yfwfqyjzhuvc7kpypw24eikc202ht"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Kassandra reluctantly agreed to let Phoibe prove herself by saving the survivor of the Cyclops of Kephallonia|Cyclops's attack. But the Cyclops's real plans had only just begun to take shape.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Phoibe}}",
+        "previous": "A Young Warrior's Ghosts",
+        "next": "The Warrior, the Eagle Bearer",
+        "source": "Kassandra",
+        "location": "The Scorched Lands, the Underworld",
+        "date": null
+    },
+    "General_Description": "'''Undoing What's Been Done''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Phoibe]] went to find the [[Keres]] to save the survivor of the attack by the [[Cyclops of Kephallonia]]. Unfortunately she hasn't returned.",
+    "Section_Dialogue": "After Phoibe had not returned in a timely fashion, Kassandra set off to [[Salmoneus' Hubris]] after her. [[Ikaros]] found traces of Phoibe's passage at the villa overlooking the River [[Styx]].\n*'''Kassandra:''' ''This is it.''\nKassandra made her way to the villa and called out for Phoibe.\n*'''Kassandra:''' ''Phoibe?''\nShe found [[Chara]] resting on top of some rubble.\n*'''Kassandra:''' ''Phoibe's eagle... But where is she?''\nAfter picking up the toy eagle, she was ambushed by the Cyclops' guards.\n*'''Cyclops Guard:''' ''Eagle Bearer! The Cyclops said you'd be coming.''\n*'''Kassandra:''' ''Tell me what you did to Phoibe.''\nKassandra killed the ambushers and recovered a note from one of their corpses.\n:'''BRING ME THAT GIRL:'''<br>''That [[Kephallonia]]n girl and her ''[[Mercenary|misthios]]'' friend are here. Time to have a little family reunion. Find her. Bring her to the [[Ancient Temenos]]. If we can't get to the ''misthios'', then we let the ''misthios'' come to us.''\nKassandra made her way to the Ancient Temenos and navigated its caverns until she came across some bandits, Hades Orbs that sapped her power, and a prisoner in the deepest part of the cave.\n*'''Kassandra:''' ''A prisoner. Maybe she saw Phoibe.''\nKassandra disrupted the orbs with arrows and killed the bandits.\n*'''Kassandra:''' ''I recognize every face here from Kephallonia. All of them worked for the Cyclops.''\nKassandra moved through a crack in the wall to reach the prison cells and free the prisoner.\n*'''Mortal Woman:''' ''The Eagle Bearer. I overheard the Cyclops saying you were in the [[underworld]], but I didn't believe it.''\n*'''Kassandra:''' ''I'm looking for a girl. Her name was Phoibe... Is... Her name is Phoibe.''\n*'''Mortal Woman:''' ''They took a girl onto one of their boats, but...''\n*'''Kassandra:''' ''But what?''\n*'''Mortal Woman:''' ''She wasn't moving.''\n(If \"Where did they sail?\" is chosen.)\n*'''Kassandra:''' ''Tell me where they were sailing.''\n*'''Mortal Woman:''' ''I couldn't see, but [[Charon]]'s at the dock on the riverbank. No one sails without him knowing.''\n(If \"When were they here?\" is chosen.)\n*'''Kassandra:''' ''How long ago did they leave?''\n*'''Mortal Woman:''' ''If you set sail now, you can probably catch up to them. But be quick.''\n(Leave \u2013 \"I have to stop him.\")\n*'''Kassandra:''' ''Get out of here while you can. I'm going to find the Cyclops and stop him once and for all.''\nKassandra handed her the torch. The woman gave her an {{Wiki|Charon's obol|obol}} in exchange.\n*'''Mortal Woman:''' ''Take this as thanks. You can pay Charon to send you down the Styx after them.''\nKassandra left the Ancient Temenos and made her way to Charon's dock.\n*'''Kassandra:''' ''Charon! One of the prisoners said the Cyclops took a friend of mine down the Styx.''\n*'''Charon:''' ''Oh, the young girl from [[Elysium]]? They dumped her lifeless body into one of my old boats.''\n*'''Kassandra:''' ''Take me to her.''\n*'''Charon:''' ''What is it you fleshlings do to calm down... Breathe? Yes. Breathe and tell me what happened.''\n<tabber>\n|-|I can pay you to take me.=\n*'''Kassandra:''' ''There's no time to explain! Here, I can pay. Now let's sail. ''\nCharon took the payment.\n|-|Threaten \u2013 Take me!=\n*'''Kassandra:''' ''There's no time, Charon! We're taking your ferry down the fucking Styx, now.''\n|-|The Cyclops is toying with me.=\n*'''Kassandra:''' ''The Cyclops hated me in life, and he hates me in death. He's using my friend to get to me. Help me stop this.''\n</tabber>\n*'''Charon:''' ''Very well. I know precisely where the Cyclops of Kephallonia was taking your young friend.''\nCharon led Kassandra down to the water.\n*'''Charon:''' ''It's a gate. The place should seem familiar to all of you.''\n*'''Kassandra:''' ''Thank you. Now, we have to go.''\nCharon sailed their boat down the River Styx and out into seemingly open water to the shores of an island under a bright sun. He stopped the boat near the shore and Kassandra waded out onto land. She nodded at Charon, who returned a short bow, before she turned to hunt down the Cyclops.",
+    "Section_Outcome": "Phoibe had been taken captive by the Cyclops of Kephallonia. Kassandra enlisted Charon's aid to pursue him down the River Styx.",
+    "Section_Behind_the_scenes": "The ambush when players pick up Chara may not spawn. If this is the case, players will not be able to access the world map or Ikaros. The quest marker will be beyond the bounds of the map. If players save and reload after the bug, they will spawn on the facsimile of Kephallonia, skipping the interactions with the Mortal Woman and Charon.{{cite|7 March 2022. Verify}}",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Torment of Hades]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

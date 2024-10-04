@@ -1,0 +1,41 @@
+{
+    "QuestName": "The Con Woman at the Fountain",
+    "QuestID": "243675",
+    "Revision": {
+        "id": "1047517",
+        "parentid": "884360",
+        "timestamp": "2023-06-13T19:25:50Z",
+        "contributor": null,
+        "comment": "imageneed template",
+        "origin": "1047517",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "iqq03wzfpit4idt6dn85c146ybvm2yl"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Con Woman at the Fountain",
+        "image": null,
+        "description": "'The fountains, a place where women mixed and talked, were the site of a Thief|theft. A thief distracted the other women while they were robbed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Con Woman at the Fountain''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A woman who had been [[Thief|robbed]] asked Kassandra to deliver retribution.",
+    "Section_Dialogue": "Kasssandra approached the woman.\n*'''Kassandra:''' ''Need something?''\n*'''Woman:''' ''At the fountains, another woman offered to help me with my amphora since I also had a heavy basket. She was very chatty. I didn't know her, but it was nice to talk and have help.''\n*'''Kassandra:''' ''So what happened?''\n*'''Woman:''' ''While I was talking to her, someone helped themselves to my purchases. Then she left quickly after I discovered this theft. I think she set me up to be robbed!''\n*'''Kassandra:''' ''You want me to kill her?''\n*'''Woman:''' ''Yes. Her death is the only solution.''\n(Accept \u2013 I'll handle it.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Woman:''' ''You truly are sent by the gods.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra located the guilty woman and killed her.\n*'''Kassandra:''' ''Glad that's over with. Now to get paid.''\nKassandra returned to the woman.\n*'''Woman:''' ''You. Have you killed her?''\n*'''Kassandra:''' ''She's no longer your concern.''\n*'''Woman:''' ''I'm glad I put my faith in you, ''[[Mercenary|misthios]]''. Please take this.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra tracked and killed the thief who had robbed a woman.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD-TheConWomanAtTheFountain-01.jpg|Kassandra approaching the woman\nACOD-TheConWomanAtTheFountain-02.jpg|Kassandra aiming her bow at the thief\nACOD-TheConWomanAtTheFountain-03.jpg|Kassandra confirms the death\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

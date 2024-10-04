@@ -1,0 +1,39 @@
+{
+    "QuestName": "Wisdom of the Ancients",
+    "QuestID": "233424",
+    "Revision": {
+        "id": "1046298",
+        "parentid": "988048",
+        "timestamp": "2023-06-09T02:38:44Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1046298",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "sqsgzdse7xjh5jqfmygvgps5w62qjp7"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Exploring Atlantis to the fullest was a privilege in this mysterious land. To safely enter the Isu Gateways - barriers to private information - Kassandra would need to gather enough Isu codex|Isu Knowledge in order to see through this veil of secrets.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Main",
+        "previous": "Welcome Home",
+        "next": "The Fate of Atlantis (memory)|The Fate of Atlantis",
+        "source": "Kassandra",
+        "location": "Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Wisdom of the Ancients''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra set out to gather knowledge from helping citizens, finding data caches and [[Keeper's Insight]]s, and scanning [[Isu codex|Isu codices]].",
+    "Section_Dialogue": "Kassandra scans her first Isu [[Precursor box|data cache]].\n* '''Kassandra''': ''What\u2026 what was in that box? My body is tingling like mad. There must be more of these somewhere.''",
+    "Section_Outcome": "Kassandra gathered enough Isu Knowledge to reach Knowledge Sequence 1, which allowed her to travel through more [[Isu Gateway]]s. She then went ahead and gathered more knowledge to reach Sequence 2 and 3.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Judgment of Atlantis]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

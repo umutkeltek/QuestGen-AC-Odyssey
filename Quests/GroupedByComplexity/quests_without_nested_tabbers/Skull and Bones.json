@@ -1,0 +1,88 @@
+{
+    "Quest_Name": "Skull and Bones",
+    "Quest_ID": "236201",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Piracy|Pirates, known to be a scourge upon the waves, caused a great many to fear for their safety. Thus the mighty Kassandra was hired to clear them from the Aegean Sea|sea.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Skull and Bones''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A merchant had a task for Kassandra.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Can I help you, merchant?''\n*'''Merchant:''' ''[[Piracy|Pirates]] are making the waters unsafe for travelers.''\n*'''Kassandra:''' ''You want me to destroy all the pirate ships.''\n*'''Merchant:''' ''All the boats must be sunk. Every. Last. One.''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Merchant:''' ''This will be worth your while,'' [[Mercenary|misthios]].\n*'''Kassandra:''' ''I should get going.''\nKassandra left the merchant and set sail. She sought out and sank multiple pirate ships before returning to the merchant.",
+    "Section_Outcome": "Kassandra sank pirate ships, and in return was rewarded with [[drachma]]e.",
+    "Section_Trivia": "*The memory's name is a possible reference to ''{{Wiki|Skull & Bones (video game)|Skull & Bones}}'', an upcoming game by Ubisoft.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Naval side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''Can I help you, merchant?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Merchant:''' ''[[Piracy|Pirates]] are making the waters unsafe for travelers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''You want me to destroy all the pirate ships.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Merchant:''' ''All the boats must be sunk. Every. Last. One.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "5",
+            "content": "(Accept - I'll destroy them.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I'm the one for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Merchant:''' ''This will be worth your while,'' [[Mercenary|misthios]].",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I should get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "9",
+            "content": "Kassandra left the merchant and set sail. She sought out and sank multiple pirate ships before returning to the merchant.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

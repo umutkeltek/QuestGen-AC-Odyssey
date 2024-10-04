@@ -1,0 +1,161 @@
+{
+    "Quest_Name": "Again, Mal\u00e1ka?!",
+    "Quest_ID": "225292",
+    "Tags": {
+        "Tag_DISPLAYTITLE_Again_Mal\u00e1ka_": {
+            "description": ""
+        },
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Again, 'Mal\u00e1ka'?!",
+        "image": "ACOD Again, Mal\u00e1ka.jpg",
+        "description": "'Kassandra received another letter from Aiantides|Aiantides the Proud, who bore more treasures and... demands.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Side",
+        "previous": "Thank You, Mal\u00e1ka!|Thank You, 'Mal\u00e1ka'!",
+        "next": "Thank You, Misthios",
+        "source": "Kassandra",
+        "location": "Makedonia, Greece",
+        "date": "422 BCE"
+    },
+    "General_Description": "'''Again, ''Mal\u00e1ka''?!''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra received another letter from [[Aiantides]] the Proud.",
+    "Section_Dialogue": "Kassandra returned to the [[Small farm|farm]] formerly used by the [[Order of Hunters]] member [[Bubares]] as a recruitment ground. Inside the storage hut, she found a letter.\n:'''Thanks Again, ''Mal\u00e1ka''?!'''<br />''[[Eagle]] Bearer?! How dare you liberate my brother's [[Goat farm|farm]] from [[Order of the Ancients|goat-blood-drinking-fools]]! I, [[Aiantides]] the Proud, will never be indebted to anyone. ''Mal\u00e1ka''! Your altruism is driving me to the brink of poverty!<br /><br />You will find treasure on the islets of [[Makedonia]] as a final thank you. Now enough, Eagle Bearer, please! I'm leaving Makedonia and I look forward to not seeing you again.''\nKassandra headed south to the islets of Makedonia, in the middle body of water of the [[Triple Peninsula of Chalkidike]]. [[Ikaros]] helped her scout out each islet.\n\n[Large middle islet]\n*'''Kassandra:''' ''This looks like the place.''\nOn the large middle islet, she eliminated a group of bandits looking for the treasure before claiming the pouch herself. She then proceeded to the rest of the islets. \n\n[Small middle islet]\n*'''Kassandra:''' ''This is it.''\nThe small middle islet was only a short swim from the larger one to its west.\n\n[East islet]\n*'''Kassandra:''' ''I'm where I need to be.''\nOn the east islet, Kassandra slew a couple of bears before claiming the treasure cache.\n\n[Southwest islet]\n*'''Kassandra:''' ''Here we are.''\nOn the southwest islet, Kassandra faced some temperamental chickens.\n\nFrom the fourth cache, she recovered a pair of [[Grocer's Gauntlets|gauntlets]] and a [[Hammer of Hemorrhaging|warhammer]] and concluded her treasure hunt.",
+    "Section_Outcome": "Kassandra recovered the treasure left behind by [[Aiantides]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to the [[Small farm|farm]] formerly used by the [[Order of Hunters]] member [[Bubares]] as a recruitment ground. Inside the storage hut, she found a letter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": ":'''Thanks Again, ''Mal\u00e1ka''?!'''<br />''[[Eagle]] Bearer?! How dare you liberate my brother's [[Goat farm|farm]] from [[Order of the Ancients|goat-blood-drinking-fools]]! I, [[Aiantides]] the Proud, will never be indebted to anyone. ''Mal\u00e1ka''! Your altruism is driving me to the brink of poverty!<br /><br />You will find treasure on the islets of [[Makedonia]] as a final thank you. Now enough, Eagle Bearer, please! I'm leaving Makedonia and I look forward to not seeing you again.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "3",
+            "content": "Kassandra headed south to the islets of Makedonia, in the middle body of water of the [[Triple Peninsula of Chalkidike]]. [[Ikaros]] helped her scout out each islet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "5",
+            "content": "[Large middle islet]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''This looks like the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "7",
+            "content": "On the large middle islet, she eliminated a group of bandits looking for the treasure before claiming the pouch herself. She then proceeded to the rest of the islets.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "9",
+            "content": "[Small middle islet]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''This is it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "11",
+            "content": "The small middle islet was only a short swim from the larger one to its west.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "13",
+            "content": "[East islet]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'm where I need to be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "15",
+            "content": "On the east islet, Kassandra slew a couple of bears before claiming the treasure cache.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "17",
+            "content": "[Southwest islet]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Here we are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "19",
+            "content": "On the southwest islet, Kassandra faced some temperamental chickens.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "21",
+            "content": "From the fourth cache, she recovered a pair of [[Grocer's Gauntlets|gauntlets]] and a [[Hammer of Hemorrhaging|warhammer]] and concluded her treasure hunt.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "QuestName": "The Nemean Lion",
+    "QuestID": "223194",
+    "Revision": {
+        "id": "832258",
+        "parentid": "828326",
+        "timestamp": "2019-08-27T02:16:18Z",
+        "contributor": null,
+        "origin": "832258",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "gbaco8vpcjf6173edzunxq038xb3hin"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Nemean Lion | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "NemeanLion.jpg",
+        "description": "'The Nemean Lion held Argolis in a grip of fear - those who roamed into the wilds rarely returned. Though it was a killer, Kassandra saw in it a noble beauty, and was sad she had to slay it.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support, Character {{c|Daphnae}}",
+        "previous": "The Lykaon Wolf",
+        "next": "The Goddesses' Hunt",
+        "source": "Kassandra",
+        "location": "Sinkholes of Herakles, Argolis, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Nemean Lion''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of [[Daphnae]], the acting leader of the [[Daughters of Artemis]], Kassandra hunted down the fabled [[Nemean Lion]].",
+    "Section_Dialogue": "Kassandra travelled to the [[Sinkholes of Herakles]] in [[Argolis]], finding the lion at its lair, along with its pack mates.\n*'''Kassandra:''' ''King of beasts.''\nKassandra entered the lair and engaged the lion and its pack, eventually killing them, claiming the legendary lion's pelt.\n\nKassandra returned to Daphnae to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n(\"I have the Nemean Lion pelt.\")\n*'''Kassandra:''' ''The Nemean Lion's pelt.''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''Magnificent, as is its hunter.''\n<tabber>\n|-|I am magnificent.=\n*'''Kassandra:''' ''I won't argue with that.''\n*'''Daphnae:''' ''The gods must envy your humility.''\n|-|Flirt \u2013 So are you.=\n*'''Kassandra:''' ''Strength is powerless in the face of beauty. Even [[Herakles|Heracles]] fell to its sway.''\n*'''Daphnae:''' ''You slay me as easily with your words as your weapons do these beasts.''\n{{#tag:tabber|\nNo more talking.=\n*'''Kassandra:''' ''You haven't seen anything yet.''\nKassandra drew closer to Daphnae and the two shared an intimate moment.\n{{!}}-{{!}}\nSome other time.=\n*'''Kassandra:''' ''Speaking of beasts, we should talk about the others.''\n}}\n</tabber>\n(Leave \u2013 \"I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''",
+    "Section_Outcome": "Kassandra found and killed the Nemean Lion, recovering its pelt for Daphnae. In return, she received [[Pandora's Kopis]] as a reward.",
+    "Section_Trivia": "*The dialogue leading to the intimate moment is only truly available if a previous Flirt option, from either dialogue or handing over a different pelt, has been taken beforehand.  Otherwise, the dialogue is skipped even if the preceding Flirt option is taken here.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

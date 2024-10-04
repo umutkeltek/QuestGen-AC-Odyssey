@@ -1,0 +1,160 @@
+{
+    "Quest_Name": "The Krokottas Hyena",
+    "Quest_ID": "223192",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Krokottas Hyena | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-KrokottasHyena.jpg",
+        "description": "'The Krokottas Hyena had been spotted in Kythera Island|Kythera. Kassandra was eager to add this unusual creature's pelt to her collection.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "previous": "The Kretan Bull",
+        "next": "The Lykaon Wolf",
+        "source": "Kassandra",
+        "location": "Kythera Island, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Krokottas Hyena''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "As tasked by [[Daphnae]], the acting leader of the [[Daughters of Artemis]], Kassandra hunted down the fabled [[Krokottas Hyena]].",
+    "Section_Dialogue": "Kassandra travelled to Kythera Island. At the southernmost region, she found the hyena in its [[Krokottas' Den|den]].\n*'''Kassandra:''' ''I've never seen such a monster! This beast isn't even native to these lands.''\nKassandra approached the den and attacked the hyena. The beast cackled as it lunged back and forth at Kassandra, but she dodged its lunges and eventually brought it down, looting its pelt afterwards.\n\nKassandra returned to Daphnae to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n(\"I have the Krokottas Hyena pelt.\")\n*'''Kassandra:''' ''Here, the hyena's pelt. Take it. These flea-ridden carrion eaters disgust me!''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''We must learn to see the beauty in all things.''\n\n<tabber>\n|-|I understand.=\n*'''Kassandra:''' ''You're right. It's just an animal, doing what's in its nature.''\n*'''Daphnae:''' ''Aren't we all?''\n|-|Not in this!=\n*'''Kassandra:''' ''No, not in something like this, that feeds off the dead!''\n*'''Daphnae:''' ''It is part of the cycle of life. All things die, and it's not as if we don't feast on dead flesh.''\n</tabber>\n(Leave \u2013 \"I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''",
+    "Section_Outcome": "Kassandra helped [[Daphnae]] to recover the pelt of the [[Krokottas Hyena]]",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Hy\u00e8ne Crocotta (m\u00e9moire)]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.e",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to Kythera Island. At the southernmost region, she found the hyena in its [[Krokottas' Den|den]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I've never seen such a monster! This beast isn't even native to these lands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached the den and attacked the hyena. The beast cackled as it lunged back and forth at Kassandra, but she dodged its lunges and eventually brought it down, looting its pelt afterwards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to Daphnae to deliver the pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(\"I have the Krokottas Hyena pelt.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Here, the hyena's pelt. Take it. These flea-ridden carrion eaters disgust me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra handed the pelt over to Daphnae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Daphnae:''' ''We must learn to see the beauty in all things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|I understand.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''You're right. It's just an animal, doing what's in its nature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "15",
+            "content": "*'''Daphnae:''' ''Aren't we all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|Not in this!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''No, not in something like this, that feeds off the dead!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Daphnae:''' ''It is part of the cycle of life. All things die, and it's not as if we don't feast on dead flesh.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O2",
+            "global_id": "20",
+            "content": "(Leave \u2013 \"I'll return soon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

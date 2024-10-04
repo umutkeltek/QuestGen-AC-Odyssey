@@ -1,0 +1,694 @@
+{
+    "Quest_Name": "Test of Faith",
+    "Quest_ID": "224676",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'It is said that once, a mouse befriended a lion by removing a thorn from its paw. But what happens when the lion himself is the thorn in a village's side?'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "'The Lost Tales of Greece'",
+        "previous": "Test of Judgment",
+        "next": "Test of Adaptability",
+        "source": "Kassandra",
+        "location": "Port of Kechries, Korinthia, Greece<br />Epidaurus, Argolis, Greece<br />Isle of Salamis, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Test of Faith''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by the village elder to deal with a [[lion]] problem plaguing his village.",
+    "Section_Dialogue": "Kassandra traveled to [[Epidaurus]], where she met the village leader north of town by the shore and engaged her in conversation.\n\n*'''Village Leader:''' ''We don't get many misthios around here. What's your business with us?''\n*'''Kassandra:''' ''I'm here to take care of your lion problem.''\n*'''Village Leader:''' ''How do you know about the Curse of Beasts?''\n\n<tabber>\n|-|I visited the farmer's tomb.=\n*'''Kassandra:''' ''I visited the tomb of a farmer who fell victim to the \"Curse of Beasts.\" You have my sympathies.''\n*'''Village Leader:''' ''Thank you. It's comforting to know that strangers from afar will show us kindness.''\n|-|I have a feeling for these things.=\n*'''Kassandra:''' ''When you are cursed to face the fiercest beasts the gods can create, it's my destiny to intervene.''\n*'''Village Leader:''' ''Then thank the gods you've come to help us.''\n</tabber>\n*'''Kassandra:''' ''Tell me more about this curse.''\n*'''Village Leader:''' ''It's horrible. Lions have been attacking our village, slaughtering livestock, and ruining food stores. And then one of them killed my nephew! The lion ran away, a leg hanging from his jaw... It's nearly indescribable.''\n*'''Kassandra:''' ''Strange that it didn't eat the man whole right there.''\n*'''Village Leader:''' ''You have the cold reason of Athena to notice that. The lions are swimming all the way from Aegina Island to attack us. No one dares set out fishing nets anymore.''\n*'''Kassandra:''' ''I'll track down these beasts for you.''\n*'''Village Leader:''' ''Thank you. May the gods let you remove the curse on us!''\n\nKassandra traveled to the northwestern shore of Aegina to investigate. Finding blood and a body, she remarked:\n*'''Kassandra:''' ''Bloodstains. From a recent kill.''\n\nShe noticed the remnants of a fire.\n*'''Kassandra:''' ''A recent fire? But who was here to make this?''\n\nShe found footprints leading away from the body and fire pit.\n*'''Kassandra:''' ''Footprints? Someone else is alive on this godsforsaken island.''\n\nHaving discovered all the clues, she deduced:\n*'''Kassandra:''' ''Someone's living here. I should speak with them.''\n\nShe found a strange man nearby and spoke with him.\n*'''Kassandra:''' ''What are you doing here? This island is dangerous.''\n*'''[[Brother Lion]]:''' ''Dangerous for you, maybe. My brothers will take care of me.''\n*'''Kassandra:''' ''Your brothers... You mean the lions?''\n*'''Brother Lion:''' ''Yes! Once, we hunted together. Now that I am sick, they hunt and bring me meat. When my strength returns, I will rejoin them. I'm nearly well enough now.''\n*'''Kassandra:''' ''The lions are attacking the villagers across the water. Their leader sent me here. Do you understand what those beasts are doing?''\n*'''Brother Lion:''' ''Lions do what they must. Though I suppose if I was better, they wouldn't need to hunt for me. Some olive tree bark should make a good medicine.''\n\n<tabber>\n|-|I'll do what the villagers want and kill those lions.=\n*'''Kassandra:''' ''Your story is madness. I'm going to protect those villagers by killing the lions.''\n*'''Brother Lion:''' ''My brothers! No...''\nKassandra sought out the lions at the [[Abandoned Camp]], killing them all.\n*'''Kassandra:''' ''That's the last of them. I should return to the village and tell them they're safe.''\n|-|I'll do what you ask and bring you medicine.=\n*'''Kassandra:''' ''I'll find the medicine to help you. Once you're better, this lion curse should be lifted.''\n*'''Brother Lion:''' ''Thank you. There's a big olive tree on the west side of this island. Some say Athena herself planted it.''\nKassandra headed west to the large olive tree and retrieved a branch for the strange man.\n*'''Kassandra:''' ''This should help with that man's illness.''\nReturning to the strange man, giving him the olive branch.\n*'''Kassandra:''' ''Here, may this cure your illness.''\n*'''Brother Lion:''' ''Thank you. You can tell those villagers my brothers will end their hunt.''\n|-|[Kill] I'll do what I must and kill you.=\n*'''Kassandra:''' ''These lions aren't the monsters, it's you. And since those villagers can't wait for the gods to punish you, I will do so in their place.''\nKassandra killed the strange man.\n</tabber>\n\nAfter resolving things to her satisfaction, Kassandra returned to the village leader.\n\n<tabber>\n|-|If the lions were killed=\n*'''Kassandra:''' ''I killed every lion on that island. You should be safe now.''\n*'''Village Leader:''' ''What a bold act! You must be the most powerful misthios in the land. Here, take this.''\n|-|If the strange man was given medicine=\n*'''Kassandra:''' ''The lions were killing to serve their master. I helped him and now he has called them off.''\n*'''Village Leader:''' ''What strangeness is that! A human was the source of our curse? Well, I'm pleased you dealt with him in any case. Here, have this.''\n|-|If the strange man was killed=\n*'''Kassandra:''' ''Your curse is over. Those lions were killing to feed a human master. With him gone, they should return to normal and leave you alone.''\n*'''Village Leader:''' ''A human master! I never would have thought... You have done us a great service. Here, take this.''\n</tabber>\n*'''Kassandra:''' ''Thank you.''\n\n*'''Kassandra:''' ''Time to return to that strange woman and tell her what happened here.''\n\nKassandra returned to the [[Athena (imposter)|mysterious woman]].\n*'''Kassandra:''' ''Lions won't trouble that village anymore.''\n*'''Mysterious Woman:''' ''I had nearly no doubt you could do that. My question is, how did you judge best to solve their problem?''\n\n<tabber>\n|-|If the lions were killed=\n*'''Kassandra:''' ''I killed every last lion on that island. There's nothing left to threaten those villagers.''\n*'''Mysterious Woman:''' ''As response as fierce as that of the lions themselves. Why do you think it will be successful?''\n|-|If the strange man was given medicine=\n*'''Kassandra:''' ''I helped the man the lions were hunting for. He promised to lead them away, and I believed him.''\n*'''Mysterious Woman:''' ''A compassionate response showing great faith in people. Why do you think this decision right?''\n|-|If the strange man was killed=\n*'''Kassandra:''' ''I killed the man the lions were hunting for. Now that he's gone, they should go back to their lives as beasts and leave the people alone.''\n*'''Mysterious Woman:''' ''A bloodthirsty response worthy of one who wants to be the head of their own pride. Why do you believe that will help the villagers?''\n</tabber>\n<tabber>\n|-|I did my best and hope I decided correctly.=\n*'''Kassandra:''' ''I do what anyone can do. I consider the situation and make what I believe is the best decision at the time. If I am right or wrong, only time will tell.''\n|-|My decisions are right because I say so.=\n*'''Kassandra:''' ''I am the Eagle Bearer, heir of Leonidas. What I decide is right. Let the gods confront me themselves if what I do is wrong.''\n</tabber>\n*'''Mysterious Woman:''' ''Ah yes, I believe I understand you better.''\n*'''Kassandra:''' ''What's to understand?''\n*'''Mysterious Woman:''' ''Everything in this world is worth understanding. A reward for demonstrating your wisdom.''\n*'''Kassandra:''' ''Thank you. Is that all you want?''.\n*'''Mysterious Woman:''' ''Not if you wish to enrich yourself further. You have already faced an island full of lions. Would you discover the secrets of an island wreathed in fire and smoke?''\n*'''Kassandra:''' ''I'll see the truth of this island.''\n*'''Mysterious Woman:''' ''Good. You're very nearly impressing me.''\n*'''Kassandra:''' ''Oh really? I should be impressed.''\n*'''Mysterious Woman:''' ''I would like to send you to an island of smoke and flame, but an associate of mine still has my key to the vault within. Without it, your trip would be in vain.''\n*'''Kassandra:''' ''Are they are strange as you?''\n*'''Mysterious Woman:''' ''That's nearly amusing. My associate lives in the graveyard you visited for me earlier. He lives as a hermit. He'll have time to talk, even to you.''\n*'''Kassandra:''' ''I'll go reclaim your key.''",
+    "Section_Outcome": "Kassandra helped the village leader with their \"Curse of Beasts\".",
+    "Section_Behind_the_scenes": "If Kassandra decides to attack the strange man known as Brother Lion, she can instead knock him out and recruit him as a lieutenant abroad the ''Adrestia''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:\u00c9preuve de foi]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Divine Intervention",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to [[Epidaurus]], where she met the village leader north of town by the shore and engaged her in conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Village Leader:''' ''We don't get many misthios around here. What's your business with us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I'm here to take care of your lion problem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Village Leader:''' ''How do you know about the Curse of Beasts?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|I visited the farmer's tomb.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I visited the tomb of a farmer who fell victim to the \"Curse of Beasts.\" You have my sympathies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Village Leader:''' ''Thank you. It's comforting to know that strangers from afar will show us kindness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|I have a feeling for these things.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''When you are cursed to face the fiercest beasts the gods can create, it's my destiny to intervene.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Village Leader:''' ''Then thank the gods you've come to help us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Tell me more about this curse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Village Leader:''' ''It's horrible. Lions have been attacking our village, slaughtering livestock, and ruining food stores. And then one of them killed my nephew! The lion ran away, a leg hanging from his jaw... It's nearly indescribable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Strange that it didn't eat the man whole right there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Village Leader:''' ''You have the cold reason of Athena to notice that. The lions are swimming all the way from Aegina Island to attack us. No one dares set out fishing nets anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'll track down these beasts for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Village Leader:''' ''Thank you. May the gods let you remove the curse on us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "22",
+            "content": "Kassandra traveled to the northwestern shore of Aegina to investigate. Finding blood and a body, she remarked:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Bloodstains. From a recent kill.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "25",
+            "content": "She noticed the remnants of a fire.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''A recent fire? But who was here to make this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "28",
+            "content": "She found footprints leading away from the body and fire pit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Footprints? Someone else is alive on this godsforsaken island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "31",
+            "content": "Having discovered all the clues, she deduced:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Someone's living here. I should speak with them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "34",
+            "content": "She found a strange man nearby and spoke with him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''What are you doing here? This island is dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''[[Brother Lion]]:''' ''Dangerous for you, maybe. My brothers will take care of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Your brothers... You mean the lions?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Brother Lion:''' ''Yes! Once, we hunted together. Now that I am sick, they hunt and bring me meat. When my strength returns, I will rejoin them. I'm nearly well enough now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''The lions are attacking the villagers across the water. Their leader sent me here. Do you understand what those beasts are doing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Brother Lion:''' ''Lions do what they must. Though I suppose if I was better, they wouldn't need to hunt for me. Some olive tree bark should make a good medicine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "42",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "43",
+            "content": "|-|I'll do what the villagers want and kill those lions.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Your story is madness. I'm going to protect those villagers by killing the lions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Brother Lion:''' ''My brothers! No...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "46",
+            "content": "Kassandra sought out the lions at the [[Abandoned Camp]], killing them all.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''That's the last of them. I should return to the village and tell them they're safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "48",
+            "content": "|-|I'll do what you ask and bring you medicine.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''I'll find the medicine to help you. Once you're better, this lion curse should be lifted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Brother Lion:''' ''Thank you. There's a big olive tree on the west side of this island. Some say Athena herself planted it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "51",
+            "content": "Kassandra headed west to the large olive tree and retrieved a branch for the strange man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''This should help with that man's illness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "53",
+            "content": "Returning to the strange man, giving him the olive branch.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Here, may this cure your illness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "55",
+            "content": "*'''Brother Lion:''' ''Thank you. You can tell those villagers my brothers will end their hunt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "56",
+            "content": "|-|[Kill] I'll do what I must and kill you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''These lions aren't the monsters, it's you. And since those villagers can't wait for the gods to punish you, I will do so in their place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "58",
+            "content": "Kassandra killed the strange man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "59",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U9",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "61",
+            "content": "After resolving things to her satisfaction, Kassandra returned to the village leader.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U10",
+            "global_id": "62",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "63",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "64",
+            "content": "|-|If the lions were killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''I killed every lion on that island. You should be safe now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "66",
+            "content": "*'''Village Leader:''' ''What a bold act! You must be the most powerful misthios in the land. Here, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "67",
+            "content": "|-|If the strange man was given medicine=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''The lions were killing to serve their master. I helped him and now he has called them off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "69",
+            "content": "*'''Village Leader:''' ''What strangeness is that! A human was the source of our curse? Well, I'm pleased you dealt with him in any case. Here, have this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "70",
+            "content": "|-|If the strange man was killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''Your curse is over. Those lions were killing to feed a human master. With him gone, they should return to normal and leave you alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "72",
+            "content": "*'''Village Leader:''' ''A human master! I never would have thought... You have done us a great service. Here, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "73",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D39",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "75",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D40",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Time to return to that strange woman and tell her what happened here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "77",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "78",
+            "content": "Kassandra returned to the [[Athena (imposter)|mysterious woman]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Lions won't trouble that village anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "80",
+            "content": "*'''Mysterious Woman:''' ''I had nearly no doubt you could do that. My question is, how did you judge best to solve their problem?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "81",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "82",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "83",
+            "content": "|-|If the lions were killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''I killed every last lion on that island. There's nothing left to threaten those villagers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "85",
+            "content": "*'''Mysterious Woman:''' ''As response as fierce as that of the lions themselves. Why do you think it will be successful?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "86",
+            "content": "|-|If the strange man was given medicine=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''I helped the man the lions were hunting for. He promised to lead them away, and I believed him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "88",
+            "content": "*'''Mysterious Woman:''' ''A compassionate response showing great faith in people. Why do you think this decision right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC11",
+            "global_id": "89",
+            "content": "|-|If the strange man was killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I killed the man the lions were hunting for. Now that he's gone, they should go back to their lives as beasts and leave the people alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "91",
+            "content": "*'''Mysterious Woman:''' ''A bloodthirsty response worthy of one who wants to be the head of their own pride. Why do you believe that will help the villagers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "92",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS5",
+            "global_id": "93",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "94",
+            "content": "|-|I did my best and hope I decided correctly.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''I do what anyone can do. I consider the situation and make what I believe is the best decision at the time. If I am right or wrong, only time will tell.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC13",
+            "global_id": "96",
+            "content": "|-|My decisions are right because I say so.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''I am the Eagle Bearer, heir of Leonidas. What I decide is right. Let the gods confront me themselves if what I do is wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "98",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D51",
+            "global_id": "99",
+            "content": "*'''Mysterious Woman:''' ''Ah yes, I believe I understand you better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''What's to understand?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "101",
+            "content": "*'''Mysterious Woman:''' ''Everything in this world is worth understanding. A reward for demonstrating your wisdom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''Thank you. Is that all you want?''.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "103",
+            "content": "*'''Mysterious Woman:''' ''Not if you wish to enrich yourself further. You have already faced an island full of lions. Would you discover the secrets of an island wreathed in fire and smoke?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''I'll see the truth of this island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "105",
+            "content": "*'''Mysterious Woman:''' ''Good. You're very nearly impressing me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''Oh really? I should be impressed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "107",
+            "content": "*'''Mysterious Woman:''' ''I would like to send you to an island of smoke and flame, but an associate of mine still has my key to the vault within. Without it, your trip would be in vain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''Are they are strange as you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "109",
+            "content": "*'''Mysterious Woman:''' ''That's nearly amusing. My associate lives in the graveyard you visited for me earlier. He lives as a hermit. He'll have time to talk, even to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''I'll go reclaim your key.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

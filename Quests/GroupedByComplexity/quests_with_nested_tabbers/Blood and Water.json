@@ -1,0 +1,587 @@
+{
+    "Quest_Name": "Blood and Water",
+    "Quest_ID": "223516",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'A ship belonging to The Dagger had been sunk off the coast of Euboea. Kassandra hoped to learn valuable information by braving the dangers of the deep.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support {{c|Agapios}}",
+        "previous": "The Taxman Cometh",
+        "concurrent": "Freedom Isn't Free<br>Dagger to the Heart<br>Wasn't Born the Kingfisher",
+        "next": "Sharp Tongue",
+        "source": "Kassandra",
+        "location": "Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Blood and Water''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra tracked down the leads of a [[Smuggler's Shipwreck|shipwreck]] belonging to [[The Dagger]].",
+    "Section_Dialogue": "After meeting with [[Agapios]], Kassandra made her way to the ruins near [[Eretria]] to meet his contact. At the ruins, she found a woman calling for her.\n*'''Former Slave:''' [[Mercenary|Misthios]]!'' Over here.''\nKassandra approached her.\n*'''Former Slave:''' ''Did Agapios send you?''\n*'''Kassandra:''' ''Yes.''\n*'''Former Slave:''' ''Were you followed?''\n*'''Kassandra:''' ''No.''\nThe woman looked around worriedly.\n*'''Former Slave:''' ''Are you sure you weren't followed?''\n<tabber>\n|-|I don't know if I was followed.=\n*'''Kassandra:''' ''Even I can't be completely sure I wasn't followed.''\n*'''Former Slave:''' ''Then we're in great danger.''\n*'''Kassandra:''' ''I'm a ''misthios'', it's a dangerous line of work.''\n*'''Former Slave:''' ''Not like this. Not like The Dagger.''\n|-|Lie \u2013 I made sure I wasn't followed.=\n*'''Kassandra:''' ''There's no way I was followed. I made sure of it.''\n*'''Former Slave:''' ''You covered every track?''\n*'''Kassandra:''' ''Every. Single. One.''\nHowever, the woman still refused to believe Kassandra, looking around worriedly.\n*'''Former Slave:''' Mal\u00e1kas'' liar! You've led them right to me...''\n*'''Kassandra:''' ''Who?''\n*'''Former Slave:''' ''The Dagger.''\n</tabber>\n*'''Former Slave:''' ''Their corruption, their reach\u2014it's limitless. They're watching that [[Smuggler's Shipwreck|shipwreck]], and I don't doubt they're watching you.''\n(If \"What's down there?\" is chosen.)\n*'''Kassandra:''' ''What exactly went down with the ship?''\n*'''Former Slave:''' ''I'm not sure. All I know is that this particular ship was part of The Dagger's fleet. They keep trying to salvage whatever's down there. If it's important to The Dagger, then it's important to us.''\n(If \"How do you know The Dagger is watching?\" is chosen.)\n*'''Kassandra:''' ''How do you know The Dagger's watching the shipwreck?''\n*'''Former Slave:''' ''I see them row out to it. Men dive down and never come up. Those who do are half-drowned and terrified. They're forced to go back down again and again until they're dead. The Dagger's looking for something and won't stop until they've found it.''\n(\"Tell me why you're here.\")\n*'''Kassandra:''' ''How did you get involved in all this?''\n*'''Former Slave:''' ''It was my master's boat that engaged The Dagger's ship, but he and many of his men perished in the ensuing battle.''\n<tabber>\n|-|If Kassandra had not explored the shipwreck=\n(Accept \u2013 \"Consider it done.\")\n*'''Kassandra:''' ''I'll get whatever's down there.''\n*'''Former Slave:''' ''Thank you. Is there anything you need to know before leaving?''\n(If \"Where is the shipwreck?\" is chosen.)\n*'''Kassandra:''' ''Where exactly is the shipwreck?''\n*'''Former Slave:''' ''Directly south of here. You can't miss it, some of the debris is still visible on the surface.''\n(If \"What can you tell me about Agapios?\" is chosen.)\n*'''Kassandra:''' ''You must know a few things about Agapios.''\n*'''Former Slave:''' ''Oh, I could tell you many things about Agapios... But I'll tell you the only thing that matters\u2014he's a good man. He values trust above all else.''\n(Leave \u2013 \"I have enough information.\")\n*'''Kassandra:''' ''I have enough to go on.''\n*'''Former Slave:''' ''Whatever's in the ship's cargo is of great interest to The Dagger. If you can get it, then maybe my master didn't die for nothing... Meet me down in Eretria when you're done.''\nKassandra left Agapios' contact and made her way south to the shore, where she found the [[Smuggler's Shipwreck]]. With the help of [[Ikaros]], she found the bulk of the ruined vessel and approached it with a [[felucca]].\n*'''Kassandra:''' ''Debris from The Dagger's sunken ship.''\nAfter clearing the area of [[Great white shark|sharks]], Kassandra dove under the waters and approached the wreckage. She managed to find the cargo The Dagger sought, which was, fittingly, a [[Achilles' Dagger|dagger]].\n*'''Kassandra:''' ''An unusual blade. This must be what The Dagger's after. Now to find the woman in Eretria.''\nKassandra emerged from the water and made her way back to the ruins of Eretria, overhearing a conversation between several slaves.\n*'''Slave 1:''' ''Who were those men?''\n*'''Slave 2:''' ''It's better not knowing.''\nKassandra went up a small head, finding the woman interrogated by The Dagger's thugs.\n*'''Enforcer:''' ''We've seen you watching us. Tell me why! What's your interest in the shipwreck?''\n*'''Former Slave:''' ''Interest? No, I have no\u2014''\n*'''Enforcer:''' ''Don't lie to me!''\nThe thugs dunked the woman's head into a vat of water.\n*'''Former Slave:''' ''Help! Somebody help me!''\nKassandra attacked and eliminated the thugs, saving the woman.\n*'''Kassandra:''' ''Are you hurt?''\n*'''Former Slave:''' ''I...''\n*'''Kassandra:''' ''Don't be afraid. You're safe.''\n*'''Former Slave:''' ''Thank you for saving my life. Did you find anything?''\n*'''Kassandra:''' ''I found this blade, covered in strange markings. The important item The Dagger were after was... a [[Short blade|dagger]]?''\n*'''Former Slave:''' ''This blade, it's used in sacrifices in the name of [[Achilles]]. The Dagger must be devoted to him. Find the right [[temple of Achilles]], and you'll find The Dagger. But which is the right temple?''\n(If \"What will you do when The Dagger's defeated?\" is chosen.)\n*'''Kassandra:''' ''What will you do once The Dagger's gone?''\n*'''Former Slave:''' ''It'll be nice to live without fear, but I'm still a slave without a master.''\n*'''Kassandra:''' ''A slave without a master... is free.''\n(\"Agapios will know which temple.\")\n*'''Kassandra:''' ''Agapios will know when I show the blade to him. You should find a safe place to lie until this is over.''\n*'''Former Slave:''' ''There's nowhere for me to go. I only have the clothes on my back.''\n{{#tag:tabber|\nLet me give you some drachmae. [50]=\n*'''Kassandra:''' ''Here. This should help get you started.''\n*'''Former Slave:''' ''Thank you, ''misthios''. I'll never forget what you've given me\u2014freedom.''\n{{!}}-{{!}}\nNot my problem.=\n*'''Kassandra:''' ''I've already played my part \u2013 you're free now. The triumphs and struggles of that are yours and yours alone.''\n*'''Former Slave:''' ''You're right. Having my freedom is all I need. I'll never forget what you've given me\u2014freedom.''\n}}\n|-|If Kassandra already explored the shipwreck=\n*'''Kassandra:''' ''I've already explored the Dagger's ship.''\n*'''Former Slave:''' ''Well? Did you find anything?''\n*'''Kassandra:''' ''The Dagger's dagger. Seemed important.''\n*'''Former Slave:''' ''It's not just important, ''misthios''\u2014this is a sacred sacrificial blade. These markings... This weapon's used to make sacrifices to Achilles. Find the right temple of Achilles, and you'll find The Dagger.''\n*'''Former Slave:''' ''Quickly! Take this blade back to Agapios, and let's end this. The days of being pressed under The Dagger's thumb will soon be over.''\nThe Dagger's men attacked as soon as their meeting concluded, though Kassandra easily dispatched them.\n</tabber>",
+    "Section_Outcome": "Kassandra recovered The Dagger's treasured item from the shipwreck: a dagger they used to venerate the hero Achilles at one of the temples in the [[Abantis Islands]].",
+    "Section_Trivia": "*If the underwater location was cleared beforehand, or at the very least the Ceremonial Dagger was retrieved before speaking to the former slave, the player presents it immediately and is ambushed after the conversation. Completing the location after the initial conversation results in returning to Eretria to find the former slave being dunked in water as interrogation. As the latter method does not immediately result in open conflict, it allows the player to more effectively use assassination to their advantage.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Agapios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After meeting with [[Agapios]], Kassandra made her way to the ruins near [[Eretria]] to meet his contact. At the ruins, she found a woman calling for her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Former Slave:''' [[Mercenary|Misthios]]!'' Over here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Former Slave:''' ''Did Agapios send you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Former Slave:''' ''Were you followed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''No.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "The woman looked around worriedly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Former Slave:''' ''Are you sure you weren't followed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|I don't know if I was followed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Even I can't be completely sure I wasn't followed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Former Slave:''' ''Then we're in great danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'm a ''misthios'', it's a dangerous line of work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Former Slave:''' ''Not like this. Not like The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|Lie \u2013 I made sure I wasn't followed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''There's no way I was followed. I made sure of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Former Slave:''' ''You covered every track?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Every. Single. One.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "However, the woman still refused to believe Kassandra, looking around worriedly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Former Slave:''' Mal\u00e1kas'' liar! You've led them right to me...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Who?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Former Slave:''' ''The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Former Slave:''' ''Their corruption, their reach\u2014it's limitless. They're watching that [[Smuggler's Shipwreck|shipwreck]], and I don't doubt they're watching you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "26",
+            "content": "(If \"What's down there?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''What exactly went down with the ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Former Slave:''' ''I'm not sure. All I know is that this particular ship was part of The Dagger's fleet. They keep trying to salvage whatever's down there. If it's important to The Dagger, then it's important to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "29",
+            "content": "(If \"How do you know The Dagger is watching?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''How do you know The Dagger's watching the shipwreck?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Former Slave:''' ''I see them row out to it. Men dive down and never come up. Those who do are half-drowned and terrified. They're forced to go back down again and again until they're dead. The Dagger's looking for something and won't stop until they've found it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "32",
+            "content": "(\"Tell me why you're here.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''How did you get involved in all this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Former Slave:''' ''It was my master's boat that engaged The Dagger's ship, but he and many of his men perished in the ensuing battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "35",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "36",
+            "content": "|-|If Kassandra had not explored the shipwreck=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "37",
+            "content": "(Accept \u2013 \"Consider it done.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll get whatever's down there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "39",
+            "content": "*'''Former Slave:''' ''Thank you. Is there anything you need to know before leaving?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "40",
+            "content": "(If \"Where is the shipwreck?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Where exactly is the shipwreck?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Former Slave:''' ''Directly south of here. You can't miss it, some of the debris is still visible on the surface.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "43",
+            "content": "(If \"What can you tell me about Agapios?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''You must know a few things about Agapios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Former Slave:''' ''Oh, I could tell you many things about Agapios... But I'll tell you the only thing that matters\u2014he's a good man. He values trust above all else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "46",
+            "content": "(Leave \u2013 \"I have enough information.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I have enough to go on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "48",
+            "content": "*'''Former Slave:''' ''Whatever's in the ship's cargo is of great interest to The Dagger. If you can get it, then maybe my master didn't die for nothing... Meet me down in Eretria when you're done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "49",
+            "content": "Kassandra left Agapios' contact and made her way south to the shore, where she found the [[Smuggler's Shipwreck]]. With the help of [[Ikaros]], she found the bulk of the ruined vessel and approached it with a [[felucca]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Debris from The Dagger's sunken ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "51",
+            "content": "After clearing the area of [[Great white shark|sharks]], Kassandra dove under the waters and approached the wreckage. She managed to find the cargo The Dagger sought, which was, fittingly, a [[Achilles' Dagger|dagger]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''An unusual blade. This must be what The Dagger's after. Now to find the woman in Eretria.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "53",
+            "content": "Kassandra emerged from the water and made her way back to the ruins of Eretria, overhearing a conversation between several slaves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''Slave 1:''' ''Who were those men?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Slave 2:''' ''It's better not knowing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "56",
+            "content": "Kassandra went up a small head, finding the woman interrogated by The Dagger's thugs.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "57",
+            "content": "*'''Enforcer:''' ''We've seen you watching us. Tell me why! What's your interest in the shipwreck?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "58",
+            "content": "*'''Former Slave:''' ''Interest? No, I have no\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "59",
+            "content": "*'''Enforcer:''' ''Don't lie to me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "60",
+            "content": "The thugs dunked the woman's head into a vat of water.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "61",
+            "content": "*'''Former Slave:''' ''Help! Somebody help me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "62",
+            "content": "Kassandra attacked and eliminated the thugs, saving the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Are you hurt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "64",
+            "content": "*'''Former Slave:''' ''I...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Don't be afraid. You're safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "66",
+            "content": "*'''Former Slave:''' ''Thank you for saving my life. Did you find anything?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''I found this blade, covered in strange markings. The important item The Dagger were after was... a [[Short blade|dagger]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "68",
+            "content": "*'''Former Slave:''' ''This blade, it's used in sacrifices in the name of [[Achilles]]. The Dagger must be devoted to him. Find the right [[temple of Achilles]], and you'll find The Dagger. But which is the right temple?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "69",
+            "content": "(If \"What will you do when The Dagger's defeated?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''What will you do once The Dagger's gone?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Former Slave:''' ''It'll be nice to live without fear, but I'm still a slave without a master.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''A slave without a master... is free.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "73",
+            "content": "(\"Agapios will know which temple.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Agapios will know when I show the blade to him. You should find a safe place to lie until this is over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "75",
+            "content": "*'''Former Slave:''' ''There's nowhere for me to go. I only have the clothes on my back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "76",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "77",
+            "content": "Let me give you some drachmae. [50]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''Here. This should help get you started.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "79",
+            "content": "*'''Former Slave:''' ''Thank you, ''misthios''. I'll never forget what you've given me\u2014freedom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "80",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "81",
+            "content": "Not my problem.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''I've already played my part \u2013 you're free now. The triumphs and struggles of that are yours and yours alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Former Slave:''' ''You're right. Having my freedom is all I need. I'll never forget what you've given me\u2014freedom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "84",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "85",
+            "content": "|-|If Kassandra already explored the shipwreck=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''I've already explored the Dagger's ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "87",
+            "content": "*'''Former Slave:''' ''Well? Did you find anything?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''The Dagger's dagger. Seemed important.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "89",
+            "content": "*'''Former Slave:''' ''It's not just important, ''misthios''\u2014this is a sacred sacrificial blade. These markings... This weapon's used to make sacrifices to Achilles. Find the right temple of Achilles, and you'll find The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "90",
+            "content": "*'''Former Slave:''' ''Quickly! Take this blade back to Agapios, and let's end this. The days of being pressed under The Dagger's thumb will soon be over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "91",
+            "content": "The Dagger's men attacked as soon as their meeting concluded, though Kassandra easily dispatched them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "92",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

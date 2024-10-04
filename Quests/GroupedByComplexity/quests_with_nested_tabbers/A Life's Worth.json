@@ -1,0 +1,824 @@
+{
+    "Quest_Name": "A Life's Worth",
+    "Quest_ID": "223801",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD A Life's Worth.png",
+        "description": "'Kassandra came across a Phaidon|slave who said he paid his The Master|master for his freedom, but wasn't given it. He begged Kassandra for help in getting justice.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Sokrates}}",
+        "previous": "On a High Horse",
+        "next": "The Sokratic Method",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''A Life's Worth''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "While in [[Lavrio]], Kassandra met the [[Slavery|slave]] [[Phaidon]] who was refused freedom from his [[The Master|master]].",
+    "Section_Dialogue": "Kassandra traveled through Lavrio and saw a slave being spat on by his master, who then walked off. She spoke to the slave.\n*'''Phaidon:''' ''So now they have people watch us get punished? That's a different kind of shame.''\n*'''Kassandra:''' ''I'm not here to watch\u2014I just saw you by chance.''\n*'''Phaidon:''' ''What you saw was a man who paid his master for his freedom, but is being kept a slave.''\n*'''Kassandra:''' ''You can do that?''\n*'''Phaidon:''' ''My master gave me a price for my freedom, and I saved until I had enough. Now that I've given him the drachmae, he pretends as if the deal never existed.''\n*'''Kassandra:''' ''That isn't right. Let me talk to him for you.''\n*'''Phaidon:''' ''Really? You'd do that? My name is Phaidon. I don't know who you are, but surely you were sent by [[Greek mythology|the gods]]\u2014they must have heard my prayers.''\n<tabber>\n|-|The gods sent me.=\n*'''Kassandra:''' ''They did, and you deserve their help.''\n*'''Phaidon:''' ''I can sense something in you\u2014you're special.''\n*'''Kassandra:''' ''I like to think so.''\n|-|The gods didn't send me.=\n*'''Kassandra:''' ''If you're waiting on help from the gods, I can leave.''\n*'''Phaidon:''' ''No, please don't. Someone or something brought you here to me.''\n*'''Kassandra:''' ''Yes. My legs did.''\n</tabber>\n*'''Phaidon:''' ''Gods or not, I'm grateful. My master should be near the silver mine\u2014he's likely overseeing other slaves like myself.''\n[[File:ACOD A Life's Worth_01.png|thumb|250px|Phaidon sharing his story with Kassandra]]\n(If \"When did you become a slave?\" is chosen.)\n*'''Kassandra:''' ''Have you always been a slave?''\n*'''Phaidon:''' ''Since my youth. I was in the wrong place and born to the wrong family. I've been sold more than once.''\n*'''Kassandra:''' ''And you just now got enough to buy your freedom?''\n*'''Phaidon:''' ''More like I found a master who was willing to give me that sort of deal. I should have known he'd lie. It was my only hope, and now it's gone.''\n(If \"Why were you being punished?\" is chosen.)\n*'''Kassandra:''' ''Do you often get whipped like that?''\n*'''Phaidon:''' ''More than you know.''\n*'''Kassandra:''' ''What did you do?''\n*'''Phaidon:''' ''I don't always know. Not working fast enough, looking at someone wrong, asking for water... Sometimes they do it just for fun. I'm not sure how much more I can take.''\n*'''Kassandra:''' ''I'll talk to your master and make sure he listens.''\n*'''Phaidon:''' ''He's not really the listening type.''\n*'''Kassandra:''' ''He will be with me.''\nKassandra confronted the Master, who eyed her with contempt.\n*'''The Master:''' ''You look strong. I could always use more people to keep the slaves in line, if you're looking for work.''\n*'''Kassandra:''' ''I'm already working. I'm here about one of your slaves, Phaidon.''\n*'''The Master:''' ''As if I know their names. You're wasting my time.''\n<tabber>\n|-|I can explain.=\n*'''Kassandra:''' ''Give me a moment to explain.''\n*'''The Master:''' ''That's close enough to begging for me. Fine, speak.''\n*'''Kassandra:''' ''There's a man who paid you for his freedom. He'd like you to follow through on that promise.''\n|-|You're wasting my time.=\n*'''Kassandra:''' ''I shouldn't even be here. You're the one wasting my time.''\n*'''The Master:''' ''Ha, nobody has spoken to me like that in quite a while. Spit it out while you're still entertaining.''\n*'''Kassandra:''' ''Phaidon paid you for his freedom. Give it to him.''\n</tabber>\n*'''The Master:''' ''Hmm, doesn't sound familiar. But I'm feeling generous. Do something for me, and I'll give this Phaidon his freedom.''\n*'''Kassandra:''' ''What is it?''\n[[File:ACOD A Life's Worth_02.png|thumb|250px|The Master proposing a deal with Kassandra]]\n*'''The Master:''' ''There's a [[Odessa|woman]] I'd like you to kill. It'll leave her family to fend for themselves... but the [[Cult of Kosmos]] needs it done.''\n*'''Kassandra:''' ''You're a member of the Cult? If that's true, then you know who I am.''\n*'''The Master:''' ''You're smarter than they make you out to be, Eagle Bearer.''\n*'''Kassandra:''' ''Tell me why I shouldn't just kill you now?''\n*'''The Master:''' ''You could. Of course if I'm killed, the slave stays that way... and I'm the only one who knows where his papers are.''\n(If \"Why does the woman need to die?\" is chosen.)\n*'''Kassandra:''' ''Why does this woman need to die?''\n*'''The Master:''' ''Oh, I'm sorry. I didn't realize you needed to know that. Wait... you don't.''\n(If \"Why should I believe you?\" is chosen.)\n*'''Kassandra:''' ''Phaidon said you already broke your promise once. This better not be another of those times.''\n*'''The Master:''' ''Look around. I have plenty of slaves. In exchange for the woman's death, I can let one go.''\n(If \"Why tell me you're in the Cult?\" is chosen.)\n*'''Kassandra:''' ''Most people prefer to keep their Cult status a secret.''\n*'''The Master:''' ''You can't do a thing about it if you want to help... whatever his name is. Also, it adds a bit more fun to the situation, don't you think?''\n(Leave \u2014 \"That's enough.\")\n*'''Kassandra:''' ''I'll be on my way.''\n*'''The Master:''' ''Kill the woman or not\u2014it's your choice. But if you want your slave friend to go free, it's the only way.''\nLeaving the cultist behind for now, she ran into [[Sokrates]] and once again found herself in yet another hopeless debate.\n[[File:ACOD_A_Life's_Worth_03.png|thumb|250px|Kassandra encountering Sokrates]]\n*'''Sokrates:''' ''Kassandra! What chance that we should meet here.''\n*'''Kassandra:''' ''It doesn't really feel like chance...''\n*'''Sokrates:''' ''Ah, so you wish for today's topic to be about fate?''\n*'''Kassandra:''' ''No, not really.''\n*'''Sokrates:''' ''Good, because I had another in mind.''\n<tabber>\n|-|Stop following me.=\n*'''Kassandra:''' ''Do I have to leave [[Attika]] to be rid of you? It feels like you're everywhere I go.''\n*'''Sokrates:''' ''It ''is'' very strange. But to answer your question, yes, leaving Attika would help.''\n|-|Nice to see you again.=\n*'''Kassandra:''' ''Attika is large, yet ''fate'' keeps bringing us together.''\n*'''Sokrates:''' ''Ah, you're trying to bring us back to fate once again. I won't let you avoid answering my questions, though.''\n</tabber>\n*'''Kassandra:''' ''So how much did you overhear?''\n*'''Sokrates:''' ''Oh, all of it. You have a difficult choice to make, clearly. How much is the freedom of one person worth? Do you believe one life is worth more than another?''\n<tabber>\n|-|People aren't equal.=\n*'''Kassandra:''' ''People aren't equal, even if we wish it were true.''\n*'''Sokrates:''' ''So you would say, for example, that your life is worth more than another's? Then would you also say that there are some who are more worthy of life than yourself?''\n{{#tag:tabber|\nNobody is more worthy than I am.=\n*'''Kassandra:''' ''Of course I wouldn't say someone else is more worthy of life than I am.''\n*'''Sokrates:''' ''But to say that contradicts your point. Unless, of course, you believe yourself to be the most worthy of life out of all who currently live?''\n{{!}}-{{!}}\nOthers are more worthy than I am.=\n*'''Kassandra:''' ''I'm not that na\u00efve. There are many who likely deserve life more than me.''\n*'''Sokrates:''' ''So you would admit that a life's worthiness is dependent on a person's actions and what they have done or can do for the world?''\n}}\n|-|All people are equal.=\n*'''Kassandra:''' ''There's no difference between one person and another. We all take our first breath the same way.''\n*'''Sokrates:''' ''But are the breaths ''you'' take equal to my own? Would you not say the breath of [[Perikles]] is put to better use than that of someone in prison?''\n{{#tag:tabber|\nOur breaths are equal.=\n*'''Kassandra:''' ''It doesn't matter which two people you compare, the answer is the same.''\n*'''Sokrates:''' ''So a thief is equal to a priest... A politician to a child. An interesting view.''\n{{!}}-{{!}}\nPerikles's breath is more important.=\n*'''Kassandra:''' ''Of course Perikles can do more than someone like a thief.''\n*'''Sokrates:''' ''Then perhaps people aren't equal after all. Your changed mind makes it clear how difficult a question this is.''\n}}\n</tabber>\nRegardless, Kassandra tired of the debate.\n*'''Kassandra:''' ''I think I've said enough.''\n*'''Sokrates:''' ''Ah, you're right. I know you are busy, and your mind is weary.''\n*'''Kassandra:''' ''That does sound like me.''\n*'''Sokrates:''' ''Go now. It has been an honor having these conversations with you.''\n*'''Kassandra:''' ''You too, Sokrates.''\nSokrates bid Kassandra farewell, leaving her to make her decision.\n<tabber>\n|-|Accept offer to kill the woman=\nKassandra traveled to [[Megaris]] to kill the Master's target. As she reached the [[Odessa's Estate|residence]], she recognized it and its owner.\n*'''Kassandra:''' ''If I kill her, Phaidon goes free... But that means Odessa dies, and I help the Cult...''\nKassandra killed Odessa and returned to the Master in Lavrio.\n*'''The Master:''' ''What is it?''\n*'''Kassandra:''' ''I killed the woman.''\n*'''The Master:''' ''Wonderful! I don't know why this slave is so special to you... Perhaps you wish to keep him as your own.''\n*'''Kassandra:''' ''He's free, then?''\n*'''The Master:''' ''Yes, yes, he's free. You purchased him with the life of another. A fair trade. Now leave before I changed my mind.''\n|-|Refuse offer=\nKassandra returned to the Master.\n*'''Kassandra:''' ''I'm not going to kill someone so you'll free Phaidon when he should have been already.''\n*'''The Master:''' ''Fine. I'll find someone else to kill her and Phaidon will remain my slave. I'll be sure he receives a grand reward for wasting so much of my time.''\n</tabber>",
+    "Section_Outcome": "Kassandra identified The Master as a member of the Eyes of Kosmos branch of the Cult of Kosmos. She either agreed to kill the woman in exchange for Phaidon's freedom or refused the Master's offer, leading Phaidon to remain his slave.",
+    "Section_Behind_the_scenes": "The woman the Master wants dead is Odessa. If player have yet to begin \"[[A Family Ordeal]]\" while this objective is active, the protagonist will mention this to her in a brief comment before continuing the quest normally. Odessa's death will fail any quests related to her. Additionally, she will not be marked as \"essential\" when the bandits attack her home during \"A Family Ordeal\", making it very easy for her to die on higher difficulties. The easiest way to prevent this is to at least complete that battle before taking on this quest, or to end this quest immediately after The Master makes his demand.\n\nRecruiting Odessa to join the crew of the ''[[Adrestia]]'' at the end of \"[[The True Story]]\" removes the option to kill her and automatically defaults the final dialogue with the Master to the decision not to kill his target. While players can reject the Master's order by slaying him with an ability in lieu of talking to him, since the regular \"Assassinate\" command is replaced with \"Talk\", a nearby prisoner will likely act as a witness and issue a murder bounty, so it is best to release the prisoner and wait for them to run away beforehand.\n\nWhen scanned with Ikaros, Phaidon's name is displayed as \"Phaedo.\"",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La valeur d'une vie]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Sokrates",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled through Lavrio and saw a slave being spat on by his master, who then walked off. She spoke to the slave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Phaidon:''' ''So now they have people watch us get punished? That's a different kind of shame.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I'm not here to watch\u2014I just saw you by chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Phaidon:''' ''What you saw was a man who paid his master for his freedom, but is being kept a slave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''You can do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Phaidon:''' ''My master gave me a price for my freedom, and I saved until I had enough. Now that I've given him the drachmae, he pretends as if the deal never existed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''That isn't right. Let me talk to him for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Phaidon:''' ''Really? You'd do that? My name is Phaidon. I don't know who you are, but surely you were sent by [[Greek mythology|the gods]]\u2014they must have heard my prayers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|The gods sent me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''They did, and you deserve their help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Phaidon:''' ''I can sense something in you\u2014you're special.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I like to think so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|The gods didn't send me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''If you're waiting on help from the gods, I can leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Phaidon:''' ''No, please don't. Someone or something brought you here to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Yes. My legs did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Phaidon:''' ''Gods or not, I'm grateful. My master should be near the silver mine\u2014he's likely overseeing other slaves like myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "20",
+            "content": "[[File:ACOD A Life's Worth_01.png|thumb|250px|Phaidon sharing his story with Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "21",
+            "content": "(If \"When did you become a slave?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Have you always been a slave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Phaidon:''' ''Since my youth. I was in the wrong place and born to the wrong family. I've been sold more than once.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''And you just now got enough to buy your freedom?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Phaidon:''' ''More like I found a master who was willing to give me that sort of deal. I should have known he'd lie. It was my only hope, and now it's gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "26",
+            "content": "(If \"Why were you being punished?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Do you often get whipped like that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Phaidon:''' ''More than you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''What did you do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Phaidon:''' ''I don't always know. Not working fast enough, looking at someone wrong, asking for water... Sometimes they do it just for fun. I'm not sure how much more I can take.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I'll talk to your master and make sure he listens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Phaidon:''' ''He's not really the listening type.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''He will be with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "34",
+            "content": "Kassandra confronted the Master, who eyed her with contempt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "35",
+            "content": "*'''The Master:''' ''You look strong. I could always use more people to keep the slaves in line, if you're looking for work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I'm already working. I'm here about one of your slaves, Phaidon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "37",
+            "content": "*'''The Master:''' ''As if I know their names. You're wasting my time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "38",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "39",
+            "content": "|-|I can explain.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Give me a moment to explain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''The Master:''' ''That's close enough to begging for me. Fine, speak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''There's a man who paid you for his freedom. He'd like you to follow through on that promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "43",
+            "content": "|-|You're wasting my time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I shouldn't even be here. You're the one wasting my time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''The Master:''' ''Ha, nobody has spoken to me like that in quite a while. Spit it out while you're still entertaining.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Phaidon paid you for his freedom. Give it to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "47",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D35",
+            "global_id": "48",
+            "content": "*'''The Master:''' ''Hmm, doesn't sound familiar. But I'm feeling generous. Do something for me, and I'll give this Phaidon his freedom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "50",
+            "content": "[[File:ACOD A Life's Worth_02.png|thumb|250px|The Master proposing a deal with Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D37",
+            "global_id": "51",
+            "content": "*'''The Master:''' ''There's a [[Odessa|woman]] I'd like you to kill. It'll leave her family to fend for themselves... but the [[Cult of Kosmos]] needs it done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''You're a member of the Cult? If that's true, then you know who I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "53",
+            "content": "*'''The Master:''' ''You're smarter than they make you out to be, Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Tell me why I shouldn't just kill you now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "55",
+            "content": "*'''The Master:''' ''You could. Of course if I'm killed, the slave stays that way... and I'm the only one who knows where his papers are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "56",
+            "content": "(If \"Why does the woman need to die?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D42",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Why does this woman need to die?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "58",
+            "content": "*'''The Master:''' ''Oh, I'm sorry. I didn't realize you needed to know that. Wait... you don't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "59",
+            "content": "(If \"Why should I believe you?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D44",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Phaidon said you already broke your promise once. This better not be another of those times.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "61",
+            "content": "*'''The Master:''' ''Look around. I have plenty of slaves. In exchange for the woman's death, I can let one go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "62",
+            "content": "(If \"Why tell me you're in the Cult?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D46",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Most people prefer to keep their Cult status a secret.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "64",
+            "content": "*'''The Master:''' ''You can't do a thing about it if you want to help... whatever his name is. Also, it adds a bit more fun to the situation, don't you think?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "65",
+            "content": "(Leave \u2014 \"That's enough.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''I'll be on my way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "67",
+            "content": "*'''The Master:''' ''Kill the woman or not\u2014it's your choice. But if you want your slave friend to go free, it's the only way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "68",
+            "content": "Leaving the cultist behind for now, she ran into [[Sokrates]] and once again found herself in yet another hopeless debate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "69",
+            "content": "[[File:ACOD_A_Life's_Worth_03.png|thumb|250px|Kassandra encountering Sokrates]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D50",
+            "global_id": "70",
+            "content": "*'''Sokrates:''' ''Kassandra! What chance that we should meet here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''It doesn't really feel like chance...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "72",
+            "content": "*'''Sokrates:''' ''Ah, so you wish for today's topic to be about fate?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''No, not really.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "74",
+            "content": "*'''Sokrates:''' ''Good, because I had another in mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "75",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "76",
+            "content": "|-|Stop following me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Do I have to leave [[Attika]] to be rid of you? It feels like you're everywhere I go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "78",
+            "content": "*'''Sokrates:''' ''It ''is'' very strange. But to answer your question, yes, leaving Attika would help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "79",
+            "content": "|-|Nice to see you again.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Attika is large, yet ''fate'' keeps bringing us together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "81",
+            "content": "*'''Sokrates:''' ''Ah, you're trying to bring us back to fate once again. I won't let you avoid answering my questions, though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "82",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D59",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''So how much did you overhear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "84",
+            "content": "*'''Sokrates:''' ''Oh, all of it. You have a difficult choice to make, clearly. How much is the freedom of one person worth? Do you believe one life is worth more than another?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "85",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "86",
+            "content": "|-|People aren't equal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D61",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''People aren't equal, even if we wish it were true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "88",
+            "content": "*'''Sokrates:''' ''So you would say, for example, that your life is worth more than another's? Then would you also say that there are some who are more worthy of life than yourself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "89",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "90",
+            "content": "Nobody is more worthy than I am.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''Of course I wouldn't say someone else is more worthy of life than I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "92",
+            "content": "*'''Sokrates:''' ''But to say that contradicts your point. Unless, of course, you believe yourself to be the most worthy of life out of all who currently live?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "93",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "94",
+            "content": "Others are more worthy than I am.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''I'm not that na\u00efve. There are many who likely deserve life more than me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "96",
+            "content": "*'''Sokrates:''' ''So you would admit that a life's worthiness is dependent on a person's actions and what they have done or can do for the world?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "97",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC10",
+            "global_id": "98",
+            "content": "|-|All people are equal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''There's no difference between one person and another. We all take our first breath the same way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "100",
+            "content": "*'''Sokrates:''' ''But are the breaths ''you'' take equal to my own? Would you not say the breath of [[Perikles]] is put to better use than that of someone in prison?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "101",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "102",
+            "content": "Our breaths are equal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D69",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''It doesn't matter which two people you compare, the answer is the same.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "104",
+            "content": "*'''Sokrates:''' ''So a thief is equal to a priest... A politician to a child. An interesting view.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "105",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "106",
+            "content": "Perikles's breath is more important.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''Of course Perikles can do more than someone like a thief.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "108",
+            "content": "*'''Sokrates:''' ''Then perhaps people aren't equal after all. Your changed mind makes it clear how difficult a question this is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "109",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE4",
+            "global_id": "110",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "111",
+            "content": "Regardless, Kassandra tired of the debate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "112",
+            "content": "*'''Kassandra:''' ''I think I've said enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "113",
+            "content": "*'''Sokrates:''' ''Ah, you're right. I know you are busy, and your mind is weary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''That does sound like me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "115",
+            "content": "*'''Sokrates:''' ''Go now. It has been an honor having these conversations with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''You too, Sokrates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "117",
+            "content": "Sokrates bid Kassandra farewell, leaving her to make her decision.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS5",
+            "global_id": "118",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "119",
+            "content": "|-|Accept offer to kill the woman=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "120",
+            "content": "Kassandra traveled to [[Megaris]] to kill the Master's target. As she reached the [[Odessa's Estate|residence]], she recognized it and its owner.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D78",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''If I kill her, Phaidon goes free... But that means Odessa dies, and I help the Cult...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "122",
+            "content": "Kassandra killed Odessa and returned to the Master in Lavrio.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D79",
+            "global_id": "123",
+            "content": "*'''The Master:''' ''What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "124",
+            "content": "*'''Kassandra:''' ''I killed the woman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "125",
+            "content": "*'''The Master:''' ''Wonderful! I don't know why this slave is so special to you... Perhaps you wish to keep him as your own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''He's free, then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "127",
+            "content": "*'''The Master:''' ''Yes, yes, he's free. You purchased him with the life of another. A fair trade. Now leave before I changed my mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC14",
+            "global_id": "128",
+            "content": "|-|Refuse offer=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N8",
+            "global_id": "129",
+            "content": "Kassandra returned to the Master.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D84",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''I'm not going to kill someone so you'll free Phaidon when he should have been already.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "131",
+            "content": "*'''The Master:''' ''Fine. I'll find someone else to kill her and Phaidon will remain my slave. I'll be sure he receives a grand reward for wasting so much of my time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "132",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

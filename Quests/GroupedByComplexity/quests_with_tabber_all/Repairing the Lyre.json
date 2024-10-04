@@ -1,0 +1,535 @@
+{
+    "Quest_Name": "Repairing the Lyre",
+    "Quest_ID": "226821",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Repairing the Lyre 01.png",
+        "description": "'With the lyre broken and the festival looming, Kassandra had to aid Praxilla in reparing her beloved Achaikos. They traveled together to Timycha|someone who could rebuild it, but the road was treacherous.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Lyre Lyre",
+        "next": "Praxilla's Legacy",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Repairing the Lyre''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra escorted [[Praxilla]] to a lyre maker who could repair her beloved Achaikos.",
+    "Section_Dialogue": "Kassandra spoke to Praxilla.\n*'''Praxilla:''' ''Ah, Kassandra, thwarter of thieves. I appreciate you bringing Achaikos back to me, but I need to ask another favor.''\n*'''Kassandra:''' ''You need help fixing the lyre?''\n*'''Praxilla:''' ''Perceptive, too. Look at it. Wood's gone soft, body's splintered. It's toneless, tuneless even.''\n*'''Kassandra:''' ''What can be done to save it?''\n*'''Praxilla:''' ''[[Port of Kreusis|Kreusis]] has been having this festival for years. The town is built around it. Of course, because instruments are as fragile as a poet's heart, there's a master lyre maker at Kreusis Port.''\n*'''Kassandra:''' ''Not too far away.''\n*'''Praxilla:''' ''And since it's been proven that nothing is safe on these hills, I'll need some muscle for protection.''\n*'''Kassandra:''' ''I can help you get there safetly.''\n*'''Praxilla:''' ''The journey will be worth your while. Come now.''\n*'''Kassandra:''' ''I'm right behind you.''\nKassandra followed Praxilla as they made their way to the lyre maker in the Port of Kreusis.\n*'''Praxilla:''' ''I have many fond memories of this place. I've watched the port grow into a town, and a small gathering of freinds grow into a massive festival. It's more home than home.''\n*'''Kassandra:''' ''Your true love is a lyre, and your home is a poetry festival? You never wanted to settle somewhere?''\n*'''Praxilla:''' ''You sweet young child! My life isn't as simple as you make it out to be. I'm like {{Wiki|Zephyros}}, needing to go where I please. I learned this the hard way.''\n*'''Kassandra:''' ''So you care only for yourself?''\n*'''Praxilla:''' ''If you only live your life for others, what's the point? You're nothing but a [[slavery|slave]]... a loyal beast, at best.''\n*'''Kassandra:''' ''People can get hurt.''\n*'''Praxilla:''' ''If I had lived the life expected of me, traditional and domestic, I would have died. Died inside, and like as not thrown myself into the sea. I know what I need.''\n*'''Kassandra:''' ''Seems like the festival here is much less formal than the others I've encountered.''\n*'''Praxilla:''' ''Yes. [[Dionysos]] claimed our offerings to [[Apollo]] and granted us the gift of ecstasy.''\n*'''Kassandra:''' ''I can see why it would attract people from far and wide.''\n*'''Praxilla:''' ''Do not misunderstand. Hedonism is one part of worship, but there are many here who dedicate themselves to the strings and to the verse.''\n*'''Kassandra:''' ''I see.''\nThey reached a tent area.\n*'''Praxilla:''' ''[[Timycha]]! Where are you?''\nA woman appeared.\n*'''Timycha:''' ''Who is making all of that fucking noise?''\n*'''Praxilla:''' ''Ah, the smell of the sea is almost enough to cover your stench, Timycha.''\n*'''Timycha:''' ''Praxilla! I've been gathering fruits to throw at you all week.''\n*'''Praxilla:''' ''High praise coming from you. I need a favor. Achaikos was kidnapped by some idiot and needs a new neck.''\n*'''Timycha:''' ''This idiot?''\n\n<tabber>\n|-|Watch who you're calling an idiot.=\n*'''Kassandra:''' ''This idiot carries a sharp spear.''\n|-|No, I'm a different idiot.=\n*'''Kassandra:''' ''Sadly, there have been many idiots on this journey.''\n</tabber>\n*'''Praxilla:''' ''I hired this muscle here to get Achaikos back. Now she's keeping me company.''\n*'''Timycha:''' ''All right, give him here.''\nPraxilla handed over lyre to Timycha.\n*'''Timycha:''' ''Poor fellow's been brutalized.''\n*'''Praxilla:''' ''But you can fix it, right?''\n*'''Timycha:''' ''Of course I can fix him. I am the best pair of hands you're gonna find outside of [[Athens]]. Problem is, Achaikos is a special boy. I have materials, but nothing worthy of putting him together.''\n*'''Kassandra:''' ''What materials do you need?''\n*'''Timycha:''' ''I have what I need for the neck, but the old one took the strings and yoke out when it snapped. Ah, and there's a crack running through the sound box. That needs to be replaced.''\n*'''Kassandra:''' ''What should I be looking for?''\n*'''Timycha:''' ''Some use bone for the yoke and neck, but nothing beats wood in my opinion. Strings are made from gut, and we could use a shell for the sound box.''\n(If players choose \"What kind of gut do you need for the strings?\")\n*'''Kassandra:''' ''Those strings don't look like guts to me.''\n*'''Timycha:''' ''They are. Just soaked for a long time and pulled thin. I'm sure you'll enjoy killing some legendary beasts to help Achaikos sing.''\n(If players choose \"What kind of shell do you need for the sound box?\")\n*'''Kassandra:''' ''I've seen some lyres with turtle shells for the body.''\n*'''Timycha:''' ''Not a lot of turtles on this coast, but a good sturdy conch should do the trick.''\n(If players choose \"What kind of wood do you need for the yoke?\")\n*'''Kassandra:''' ''What's a yoke, and what wood do you need to replace it?''\n*'''Praxilla:''' ''The yoke is the crossbar that all of the strings are attached to.''\n*'''Timycha:''' ''Sure is. It needs to bend, so a springy wood is best.''\n*'''Praxilla:''' ''I think we all can agree on that.''\n(If players choose \"I'll get the materials.\")\n*'''Kassandra:''' ''I will return with the materials to repair Achaikos.''\nKassandra travelled to a nearby [[wolf]] [[Narkissos|den]].\n*'''Kassandra:''' ''Wolves are fierce animals. I'll gut them for Praxilla.''\nShe hunted three wolves and recovered guts from their bodies.\n*'''Kassandra:''' ''Hope these are enough guts for fixing Achaikos.''\nKassandra next headed to a nearby beach, recovering three shells.\n*'''Kassandra:''' ''This shell should be perfect for Praxilla's lyre.''\nKassandra next headed to a mountainous region near Kreusis, collecting three silver birch.\n*'''Kassandra:''' ''That should be enough wood for a new lyre.''\nKassandra returned to Timycha and Praxilla with the materials in hand.\n*'''Kassandra:''' ''I have everything we need.''\n*'''Timycha:''' ''Excellent, give it here.''\n*'''Praxilla:''' ''Be careful with it!''\n*'''Timycha:''' ''He'll like me better when I'm done. You always were too rough with your fingering.''\n*'''Praxilla:''' ''Well, that's the first complaint I've heard about it.''\nAfter a while, Timycha returned with the repaired lyre.\n*'''Timycha:''' ''There he is, looking more handsome than ever.''\n*'''Praxilla:''' ''You call this your best work? You're robbing me blind.''\n*'''Timycha:''' ''Oh, shut up and go deafen the masses with your wailing.''\nPraxilla turned to Kassandra.\n*'''Praxilla:''' ''Thanks for the help. Here's your [[drachma]]e. I need some time to put Achaikos through his paces. I might need some help after though, so swing by my tent when you have a minute.''\nPraxilla left.\n*'''Kassandra:''' ''Sure, if I'm in the area.''",
+    "Section_Outcome": "Kassandra brought the materials needed to repair Praxilla's lyre.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Poet's Legacy",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra spoke to Praxilla.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Praxilla:''' ''Ah, Kassandra, thwarter of thieves. I appreciate you bringing Achaikos back to me, but I need to ask another favor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''You need help fixing the lyre?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Praxilla:''' ''Perceptive, too. Look at it. Wood's gone soft, body's splintered. It's toneless, tuneless even.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What can be done to save it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Praxilla:''' ''[[Port of Kreusis|Kreusis]] has been having this festival for years. The town is built around it. Of course, because instruments are as fragile as a poet's heart, there's a master lyre maker at Kreusis Port.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Not too far away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Praxilla:''' ''And since it's been proven that nothing is safe on these hills, I'll need some muscle for protection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I can help you get there safetly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Praxilla:''' ''The journey will be worth your while. Come now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm right behind you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "Kassandra followed Praxilla as they made their way to the lyre maker in the Port of Kreusis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Praxilla:''' ''I have many fond memories of this place. I've watched the port grow into a town, and a small gathering of freinds grow into a massive festival. It's more home than home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Your true love is a lyre, and your home is a poetry festival? You never wanted to settle somewhere?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Praxilla:''' ''You sweet young child! My life isn't as simple as you make it out to be. I'm like {{Wiki|Zephyros}}, needing to go where I please. I learned this the hard way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''So you care only for yourself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "17",
+            "content": "*'''Praxilla:''' ''If you only live your life for others, what's the point? You're nothing but a [[slavery|slave]]... a loyal beast, at best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''People can get hurt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "19",
+            "content": "*'''Praxilla:''' ''If I had lived the life expected of me, traditional and domestic, I would have died. Died inside, and like as not thrown myself into the sea. I know what I need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Seems like the festival here is much less formal than the others I've encountered.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "21",
+            "content": "*'''Praxilla:''' ''Yes. [[Dionysos]] claimed our offerings to [[Apollo]] and granted us the gift of ecstasy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I can see why it would attract people from far and wide.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "23",
+            "content": "*'''Praxilla:''' ''Do not misunderstand. Hedonism is one part of worship, but there are many here who dedicate themselves to the strings and to the verse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "25",
+            "content": "They reached a tent area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "26",
+            "content": "*'''Praxilla:''' ''[[Timycha]]! Where are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "27",
+            "content": "A woman appeared.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "28",
+            "content": "*'''Timycha:''' ''Who is making all of that fucking noise?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "29",
+            "content": "*'''Praxilla:''' ''Ah, the smell of the sea is almost enough to cover your stench, Timycha.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "30",
+            "content": "*'''Timycha:''' ''Praxilla! I've been gathering fruits to throw at you all week.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "31",
+            "content": "*'''Praxilla:''' ''High praise coming from you. I need a favor. Achaikos was kidnapped by some idiot and needs a new neck.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "32",
+            "content": "*'''Timycha:''' ''This idiot?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "34",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "35",
+            "content": "|-|Watch who you're calling an idiot.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This idiot carries a sharp spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "37",
+            "content": "|-|No, I'm a different idiot.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Sadly, there have been many idiots on this journey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D31",
+            "global_id": "40",
+            "content": "*'''Praxilla:''' ''I hired this muscle here to get Achaikos back. Now she's keeping me company.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "41",
+            "content": "*'''Timycha:''' ''All right, give him here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "42",
+            "content": "Praxilla handed over lyre to Timycha.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "43",
+            "content": "*'''Timycha:''' ''Poor fellow's been brutalized.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "44",
+            "content": "*'''Praxilla:''' ''But you can fix it, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "45",
+            "content": "*'''Timycha:''' ''Of course I can fix him. I am the best pair of hands you're gonna find outside of [[Athens]]. Problem is, Achaikos is a special boy. I have materials, but nothing worthy of putting him together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''What materials do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "47",
+            "content": "*'''Timycha:''' ''I have what I need for the neck, but the old one took the strings and yoke out when it snapped. Ah, and there's a crack running through the sound box. That needs to be replaced.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''What should I be looking for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "49",
+            "content": "*'''Timycha:''' ''Some use bone for the yoke and neck, but nothing beats wood in my opinion. Strings are made from gut, and we could use a shell for the sound box.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "50",
+            "content": "(If players choose \"What kind of gut do you need for the strings?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D40",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Those strings don't look like guts to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "52",
+            "content": "*'''Timycha:''' ''They are. Just soaked for a long time and pulled thin. I'm sure you'll enjoy killing some legendary beasts to help Achaikos sing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "53",
+            "content": "(If players choose \"What kind of shell do you need for the sound box?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D42",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I've seen some lyres with turtle shells for the body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "55",
+            "content": "*'''Timycha:''' ''Not a lot of turtles on this coast, but a good sturdy conch should do the trick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "56",
+            "content": "(If players choose \"What kind of wood do you need for the yoke?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D44",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''What's a yoke, and what wood do you need to replace it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "58",
+            "content": "*'''Praxilla:''' ''The yoke is the crossbar that all of the strings are attached to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "59",
+            "content": "*'''Timycha:''' ''Sure is. It needs to bend, so a springy wood is best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "60",
+            "content": "*'''Praxilla:''' ''I think we all can agree on that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "61",
+            "content": "(If players choose \"I'll get the materials.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D48",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I will return with the materials to repair Achaikos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "63",
+            "content": "Kassandra travelled to a nearby [[wolf]] [[Narkissos|den]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Wolves are fierce animals. I'll gut them for Praxilla.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "65",
+            "content": "She hunted three wolves and recovered guts from their bodies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Hope these are enough guts for fixing Achaikos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "67",
+            "content": "Kassandra next headed to a nearby beach, recovering three shells.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''This shell should be perfect for Praxilla's lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "69",
+            "content": "Kassandra next headed to a mountainous region near Kreusis, collecting three silver birch.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''That should be enough wood for a new lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "71",
+            "content": "Kassandra returned to Timycha and Praxilla with the materials in hand.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I have everything we need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "73",
+            "content": "*'''Timycha:''' ''Excellent, give it here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "74",
+            "content": "*'''Praxilla:''' ''Be careful with it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "75",
+            "content": "*'''Timycha:''' ''He'll like me better when I'm done. You always were too rough with your fingering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "76",
+            "content": "*'''Praxilla:''' ''Well, that's the first complaint I've heard about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "77",
+            "content": "After a while, Timycha returned with the repaired lyre.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D58",
+            "global_id": "78",
+            "content": "*'''Timycha:''' ''There he is, looking more handsome than ever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "79",
+            "content": "*'''Praxilla:''' ''You call this your best work? You're robbing me blind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "80",
+            "content": "*'''Timycha:''' ''Oh, shut up and go deafen the masses with your wailing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "81",
+            "content": "Praxilla turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "82",
+            "content": "*'''Praxilla:''' ''Thanks for the help. Here's your [[drachma]]e. I need some time to put Achaikos through his paces. I might need some help after though, so swing by my tent when you have a minute.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "83",
+            "content": "Praxilla left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Sure, if I'm in the area.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

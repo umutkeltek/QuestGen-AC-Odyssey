@@ -1,0 +1,290 @@
+{
+    "Quest_Name": "Enough is Enough",
+    "Quest_ID": "223427",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Enough is Enough.png",
+        "description": "'Pylenor the Priest offered Kassandra information about her Myrrine|mother in exchange for a favor. It turned out it was extremely difficult to purify the sick when the bathhouse was riddled with snakes.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "The Priests of Asklepios",
+        "next": "Written in Stone",
+        "source": "Kassandra",
+        "location": "Sanctuary of Asklepios, Argolis, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Enough is Enough''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra agreed to help the priest [[Pylenor]] to deal with the snake problem at the bathhouse.",
+    "Section_Dialogue": "Kassandra entered the bathhouse, finding a corpse and a couple of snakes.\n*'''Kassandra:''' ''OK, I can either kill them one by one or flood them with cold water.''\n\n<tabber>\n|-|If players choose to open the pipe.=\nKassandra left the bathhouse and heads to a nearby spring, She found the pipe connecting the water source to the bathhouse.\n*'''Kassandra:''' ''That's the pipe. Opening it should flood the bath and get rid of the snakes.''\n[[File:ACOD_Enough_is_Enough_-_Snake_Pipe.jpg|thumb|250px|The pipe connected to the bathhouse]]\nKassandra opened the pipe and returned to Pylenor.\n*'''Priest:''' ''And? Is the bathhouse free of snakes?''\n*'''Kassandra:''' ''I flooded the bathhouse with cold water.''\n*'''Priest:''' ''Good riddance!''\n\n{{-}}\n\n|-|If players choose to kill the snakes.=\nKassandra killed the snakes and returned to Pylenor.\n*'''Priest:''' ''And? Is the bathhouse free of snakes?''\n*'''Kassandra:''' ''I carved up every single one of those slimy ''malakes''.''\n[[File:ACOD_Enough_is_Enough_-_Doreios_Arrived.png|thumb|250px|Doreios arriving]]\n[[Doreios]] approached both of them.\n*'''Priest (Doreios):''' ''My babies! What have you done to my babies?''\n*'''Priest (Pylenor):''' ''Your snakes infested my bathhouse! A sick man is dead because of them.''\n*'''Priest (Doreios):''' ''You! You did this!''\n{{#tag:tabber|\nI sure did.=\n*'''Kassandra:''' ''Good snakes are dead snakes.''\n*'''Priest:''' ''You'll pay for this! I curse you!''\n{{!}}-{{!}}\nLie\u2014I did what he told me to.=\n*'''Kassandra:''' ''I only did what Pylenor told me to do.''\n*'''Priest (Pylenor):''' ''What? How dare you? I never said kill them!''\n*'''Priest (Doreios):''' ''How could you, Pylenor? You'll pay for this. I curse you both to [[Hades]]!''\n}}\nDoreios shuffled away.\n</tabber>\n*'''Kassandra:''' ''Well?''\n*'''Priest:''' ''Well what?''\n[[File:ACOD_Enough_is_Enough_-_Pylenor_Laughing.png|thumb|250px|Pylenor laughing at Kassandra]]\n*'''Kassandra:''' ''I took care of your snakes. Now you're going to tell me about the [[Sparta]]n woman and the [[Alexios|baby]].''\n*'''Priest:''' ''I actually don't know anything. Was before my time. The man who does know is [[Mydon]], but he won't tell you. He won't tell anyone anything!''\nThe priest left the area.\n*'''Kassandra:''' '' ''Malakes'' snakes. At least I got a name. Mydon.''",
+    "Section_Outcome": "Kassandra dealt with the snakes in the bathhouse and got a clue in the form of a name: Mydon.",
+    "Section_Trivia": "*The mission title is a reference to {{wiki|Samuel L. Jackson}}\u2019s famous line from the film ''{{wiki|Snakes on a Plane}}'' (2006): \"'''''Enough is enough!''' I have had it with these motherfucking snakes on this motherfucking plane!''\"\n*The snakes will eventually respawn in the bathhouse no matter how the player clears out the snakes and even in spite of the priest claiming that \"the bathhouse has been snake-free\". The original corpse will also persist and cannot be interacted with.\n*It is possible to skip this mission if [[A Heart for a Head]] is done first.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Assez, c'est assez]]",
+    "Chapter_SequenceID": "10.",
+    "Chapter_Name": "A Prescription for Discovery",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra entered the bathhouse, finding a corpse and a couple of snakes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''OK, I can either kill them one by one or flood them with cold water.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|If players choose to open the pipe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "Kassandra left the bathhouse and heads to a nearby spring, She found the pipe connecting the water source to the bathhouse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''That's the pipe. Opening it should flood the bath and get rid of the snakes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "8",
+            "content": "[[File:ACOD_Enough_is_Enough_-_Snake_Pipe.jpg|thumb|250px|The pipe connected to the bathhouse]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Kassandra opened the pipe and returned to Pylenor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "10",
+            "content": "*'''Priest:''' ''And? Is the bathhouse free of snakes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I flooded the bathhouse with cold water.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Priest:''' ''Good riddance!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U3",
+            "global_id": "14",
+            "content": "{{-}}",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U4",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|If players choose to kill the snakes.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N4",
+            "global_id": "17",
+            "content": "Kassandra killed the snakes and returned to Pylenor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "18",
+            "content": "*'''Priest:''' ''And? Is the bathhouse free of snakes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I carved up every single one of those slimy ''malakes''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "20",
+            "content": "[[File:ACOD_Enough_is_Enough_-_Doreios_Arrived.png|thumb|250px|Doreios arriving]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "21",
+            "content": "[[Doreios]] approached both of them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "22",
+            "content": "*'''Priest (Doreios):''' ''My babies! What have you done to my babies?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "23",
+            "content": "*'''Priest (Pylenor):''' ''Your snakes infested my bathhouse! A sick man is dead because of them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "24",
+            "content": "*'''Priest (Doreios):''' ''You! You did this!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "25",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "26",
+            "content": "I sure did.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Good snakes are dead snakes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "28",
+            "content": "*'''Priest:''' ''You'll pay for this! I curse you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "29",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "30",
+            "content": "Lie\u2014I did what he told me to.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I only did what Pylenor told me to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "32",
+            "content": "*'''Priest (Pylenor):''' ''What? How dare you? I never said kill them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "33",
+            "content": "*'''Priest (Doreios):''' ''How could you, Pylenor? You'll pay for this. I curse you both to [[Hades]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "34",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "N6",
+            "global_id": "35",
+            "content": "Doreios shuffled away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "36",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D16",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Well?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "38",
+            "content": "*'''Priest:''' ''Well what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "39",
+            "content": "[[File:ACOD_Enough_is_Enough_-_Pylenor_Laughing.png|thumb|250px|Pylenor laughing at Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D18",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I took care of your snakes. Now you're going to tell me about the [[Sparta]]n woman and the [[Alexios|baby]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "41",
+            "content": "*'''Priest:''' ''I actually don't know anything. Was before my time. The man who does know is [[Mydon]], but he won't tell you. He won't tell anyone anything!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "42",
+            "content": "The priest left the area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' '' ''Malakes'' snakes. At least I got a name. Mydon.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

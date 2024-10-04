@@ -1,0 +1,898 @@
+{
+    "Quest_Name": "Judge, Jury, Executioner (Odyssey)",
+    "Quest_ID": "224312",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra | the [[Judge, Jury, Executioner | memory]] of Ezio Auditore"
+        },
+        "Tag_c": {
+            "description": "Support Quest"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Judge, Jury, Executioner",
+        "image": "ACOD Judge, Jury, Executioner 2.png",
+        "description": "'Lagos, the {{Wiki|Archon}} of Arkadia, had every mercenary under Helios on the hunt for Kassandra and her Myrrine|mother. Myrrine wanted him dead, but Brasidas felt he should live. In the end, Kassandra had to choose.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "To Kill or Not to Kill",
+        "next": "Breaking Bread {{c|Support Quest}}<br />Fourth-Degree Burns {{c|Support Quest}}<br />White Lies and Blackmail {{c|Support Quest}}<br />Gluten Free {{c|Support Quest}}",
+        "source": "Kassandra",
+        "location": "Forest of Soron, Arkadia, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''Judge, Jury, Executioner''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Having learned the whereabouts of [[Lagos]], the [[Cult of Kosmos|Cultist]] in [[Arkadia]], Kassandra faced him within [[Fort Samikon]].",
+    "Section_Dialogue": "With her preparations complete, Kassandra made her way into [[Fort Samikon]] to deal with Lagos once and for all.\n\nWith his family freed, Lagos felt his leash loosen enough to await Kassandra in private. She infiltrated his chambers at Fort Samikon and spoke to him directly.\n*'''Lagos:''' ''I knew you'd come find me sooner or later.''\n*'''Kassandra:''' ''What tipped you off?''\n\n<tabber>\n|-|\"Gluten Free\" completed, soldiers slain=\n*'''Lagos:''' ''You killed my soldiers. But\u2014<br>You helped my family when I couldn't. Even if we're apart, I know they're safe thanks to you.''\n*'''Kassandra:''' ''It's the least I could do.''\n|-|\"Gluten Free\" completed, no soldiers slain=\n*'''Lagos:''' ''I know it was you who freed my family. They're safe thanks to you.''\n*'''Kassandra:''' ''I did what I had to\u2014even with everyone in Arkadia trying to kill me.''\n</tabber>\n*'''Lagos:''' ''The world is so chaotic now.''\n*'''Kassandra:''' ''The [[Cult of Kosmos|Cult]] made it that way.''\n*'''Lagos:''' ''We're living in divided times. [[Sparta]] against [[Athens]]. Old against new.''\nKassandra chuckled at Lagos' apparent na\u00efvet\u00e9.\n*'''Kassandra:''' ''And you think the Cultists aren't stoking the flames on both sides?''\n*'''Lagos:''' ''I've seen what they can do. What they're willing to do. I want what's best for [[Arkadia]]... I'll consider what you have to say.''\n\n<tabber>\n|-|Attack \u2013 It's too late.=\n*'''Kassandra:''' ''There's nothing to discuss. You're a Cultist, and that's all I need to know.''\n*'''Lagos:''' ''I had no choice. Please!''\nIn spite of her efforts to resolve things peacefully, Kassandra decided Lagos could not live. She attacked him, and while he tried to defend himself, she gave him the same death as any Cultist.\n|-|You must join Brasidas.=\n*'''Kassandra:''' ''It's not too late. Leave the Cult of Kosmos and join Brasidas.''\n(If the Monger was killed privately)\n*'''Lagos:''' ''You consider me your ally today... How can I know you and Brasidas won't change your minds?''\n*'''Kassandra:''' ''We can work together against our common enemy. You deserve better than to live under the threat of the Cult.''\n*'''Lagos:''' ''You sound like Brasidas when he was your age. You give me hope.''\n*'''Lagos:''' ''The Cult gave me [[Spartan War Hero Belt|this]]. They said it was a sign of my devotion. Maybe you can use it against them.''\n*'''Kassandra:''' ''I'm sure I can find a way.''\n*'''Lagos:''' ''I'll lift the bounty on you and Myrrine. And may you find success in your fight against this evil.''\n*'''Kassandra:''' ''Thank you, Archon. We appreciate it.''\n*'''Lagos:''' ''You saved my family from the Cult by yourself... You're courageous.''\nKassandra was perturbed by this remark.\n*'''Kassandra:''' ''Why?''\n*'''Lagos:''' ''You've made an enemy of a king. [[Pausanias]] threatened my family with torture and death if I betrayed him.''\n*'''Kassandra:''' ''Pausanias?! Do you have proof?''\n*'''Lagos:''' ''Here\u2014evidence of his treachery.''\n[[File:ACOD Judge, Jury, Executioner 3.png|thumb|250px|Kassandra given Pausanias' ring]]\nKassandra looked at the evidence and nodded.\n*'''Kassandra:''' ''Thank you. I'll see about this king of lies.''\nShe took her leave of her new ally, and he smiled warmly at her conviction.\n\n(If the Monger was killed publicly)\n*'''Lagos:''' ''You expect me to trust you? After how you slaughtered the Monger? I know what you do to Cultists. I won't bow my head just for you to cut it off.''\n*'''Kassandra:''' ''That wasn't my plan.''\n*'''Lagos:''' ''Then I should thank you for letting me face death as Spartans do.''\nIn spite of her efforts to resolve things peacefully, Lagos decided not to trust Kassandra. He attacked her, and while he tried to defend himself, she gave him the same death as any Cultist.\n</tabber>\nWith her deed complete, Kassandra made her way out of the fort.\n\n===Reporting back===\nKassandra reported back to Myrrine and Brasidas on the hill overlooking Fort Samikon.\n\n<tabber>\n|-|Lagos alive=\n*'''Kassandra:''' ''The bounty is lifted\u2014Lagos is alive.''\n*'''Brasidas:''' ''See? I knew we could solve this without violence.''\nMyrrine folded her arms and frowned.\n*'''Myrrine:''' ''That Cultist deserved to die.''\n{{#tag:tabber|\nLagos left the Cult.=\n*'''Kassandra:''' ''Lagos is no longer with the Cult. I convinced him he's safer without them.''\n{{!}}-{{!}}\nLagos didn't deserve death.=\n*'''Kassandra:''' ''Lagos was a ''victim'' of the Cult. He shouldn't share their fate.''\n}}\n*'''Myrrine:''' ''The Cult of Kosmos would eat their own young if it served their needs!''\n*'''Kassandra:''' ''Not Lagos. He was being blackmailed by King Pausanias. He had Lagos' family at knifepoint, and I have proof.''\n*'''Brasidas:''' ''King Pausanias?! We must return to Sparta to confront him.''\n\n(If neither of the two tasks have been completed)\n*'''Kassandra:''' ''No. The [[Two Kings of Sparta|kings]] were clear in their requests. [[Boeotia]] must be [[The Conqueror|brought under control]], and Sparta must [[Pankration (memory)|win a wreath]] at the Olympic Games.''\n*'''Myrrine:''' ''There is much left to do, lamb.''\n\n(If 'Pankration' has been completed, but not 'The Conqueror')\n*'''Kassandra:''' ''We may have won the {{Wiki|Olive wreath|wreath}}, but the kings also wanted us to conquer the Boeotians.''\n*'''Myrrine:''' ''True, you are needed there before we return.''\n\n(If 'The Conqueror' has been completed, but not 'Pankration')\n*'''Kassandra:''' ''Boeotia may be at peace, but the kings also wanted an Olympic victory for Sparta.''\n*'''Myrrine:''' ''True, you must travel to [[Elis]] and win the wreath.''\n\n(If both tasks have been completed)\n*'''Kassandra:''' ''You're right. we've done all we can. It\u2019s time to go to Sparta.''\n*'''Myrrine:''' ''Yes. It\u2019s time we return.''\n\nRegardless, Brasidas took his leave of them with some parting words.\n*'''Brasidas:''' ''Very well. I'll take my leave of you, Kassandra. I won't soon forget your good work here.''\nHe turned to Myrrine.\n*'''Brasidas:''' ''It was good to see you again, Myrrine. Though we had our disagreements, I do hope you regain your house soon.''\n|-|Lagos dead=\n*'''Kassandra:''' ''He's dead.''\n*'''Brasidas:''' ''This complicates things.''\n*'''Myrrine:''' ''One less Cultist. Seems simple enough.''\n*'''Brasidas:''' ''Lagos was a dear friend once. I should have been there.''\n{{#tag:tabber|\nI'm sorry about your friend.=\n*'''Kassandra:''' ''I'm sorry, Brasidas. But when Lagos joined the Cult, he sealed his fate.''\n{{!}}-{{!}}\nHe was a Cultist.=\n*'''Kassandra:''' ''Should have been there? Brasidas, that man stopped deserving your loyalty the moment he joined the cult.''\n}}\nBrasidas cited the outcome of their [[Monger Down|previous]] partnership in his rebuke.\n\n([[The Monger]] killed publicly)\n*'''Brasidas:''' ''So you executed the Monger in public against my advice, and now you kill Lagos? If you were under my command\u2014you wouldn\u2019t be, anymore.''\n(The Monger killed privately)\n*'''Brasidas:''' ''If only you'd followed my advice with Lagos like you did with the Monger.''\nRegardless, Kassandra raised her finger and asserted her position as a ''misthios''.\n*'''Kassandra:''' ''I don't follow orders. I do what I have to.''\n*'''Brasidas:''' ''So it\u2019s done. I suppose you'll be wanting to report the news to Sparta soon.''\n(If neither of the two tasks have been completed)\n*'''Kassandra:''' ''No. The kings were clear in their requests. [[Boeotia]] must be [[The Conqueror|brought under control]], and Sparta must [[Pankration (memory)|win a wreath]] at the Olympic Games.''\n*'''Myrrine:''' ''There is much left to do, lamb.''\n\n(If 'Pankration' has been completed, but not 'The Conqueror')\n*'''Kassandra:''' ''We may have won the wreath, but the kings also wanted us to conquer the Boeotians.''\n*'''Myrrine:''' ''True, you are needed there before we return.''\n\n(If 'The Conqueror' has been completed, but not 'Pankration')\n*'''Kassandra:''' ''Boeotia may be at peace, but the kings also wanted an Olympic victory for Sparta.''\n*'''Myrrine:''' ''True, you must travel to [[Elis]] and win the wreath.''\n\n(If both tasks have been completed)\n*'''Kassandra:''' ''You're right. we've done all we can. It\u2019s time to go to Sparta.''\n*'''Myrrine:''' ''Yes. It\u2019s time we returned.''\n\nRegardless, Brasidas took his leave of them with some parting words.\n*'''Brasidas:''' ''Myrrine. You are as determined as ever. I'm sure you will regain your house soon.''\nHe turned to Kassandra.\n*'''Brasidas:''' ''With Lagos dead, arrangements must be made to ensure Sparta doesn't starve.''\n</tabber>\n[[File:ACOD Judge, Jury, Executioner 6.png|thumb|250px|Kassandra having a moment with her mother]]\nRegardless, Kassandra reflected on their success.\n*'''Kassandra:''' ''Arkadia is safe once more.''\n*'''Myrrine:''' ''And the bounty is lifted. We are free to travel without fear.''\n*'''Kassandra:''' ''Then let's continue our journey.''\nBrasidas gave a small bow and took his leave. Kassandra and Myrrine held each other's arms. Myrrine clasped her daughter's face before taking her leave as well.",
+    "Section_Reporting_back": "Kassandra reported back to Myrrine and Brasidas on the hill overlooking Fort Samikon.\n\n<tabber>\n|-|Lagos alive=\n*'''Kassandra:''' ''The bounty is lifted\u2014Lagos is alive.''\n*'''Brasidas:''' ''See? I knew we could solve this without violence.''\nMyrrine folded her arms and frowned.\n*'''Myrrine:''' ''That Cultist deserved to die.''\n{{#tag:tabber|\nLagos left the Cult.=\n*'''Kassandra:''' ''Lagos is no longer with the Cult. I convinced him he's safer without them.''\n{{!}}-{{!}}\nLagos didn't deserve death.=\n*'''Kassandra:''' ''Lagos was a ''victim'' of the Cult. He shouldn't share their fate.''\n}}\n*'''Myrrine:''' ''The Cult of Kosmos would eat their own young if it served their needs!''\n*'''Kassandra:''' ''Not Lagos. He was being blackmailed by King Pausanias. He had Lagos' family at knifepoint, and I have proof.''\n*'''Brasidas:''' ''King Pausanias?! We must return to Sparta to confront him.''\n\n(If neither of the two tasks have been completed)\n*'''Kassandra:''' ''No. The [[Two Kings of Sparta|kings]] were clear in their requests. [[Boeotia]] must be [[The Conqueror|brought under control]], and Sparta must [[Pankration (memory)|win a wreath]] at the Olympic Games.''\n*'''Myrrine:''' ''There is much left to do, lamb.''\n\n(If 'Pankration' has been completed, but not 'The Conqueror')\n*'''Kassandra:''' ''We may have won the {{Wiki|Olive wreath|wreath}}, but the kings also wanted us to conquer the Boeotians.''\n*'''Myrrine:''' ''True, you are needed there before we return.''\n\n(If 'The Conqueror' has been completed, but not 'Pankration')\n*'''Kassandra:''' ''Boeotia may be at peace, but the kings also wanted an Olympic victory for Sparta.''\n*'''Myrrine:''' ''True, you must travel to [[Elis]] and win the wreath.''\n\n(If both tasks have been completed)\n*'''Kassandra:''' ''You're right. we've done all we can. It\u2019s time to go to Sparta.''\n*'''Myrrine:''' ''Yes. It\u2019s time we return.''\n\nRegardless, Brasidas took his leave of them with some parting words.\n*'''Brasidas:''' ''Very well. I'll take my leave of you, Kassandra. I won't soon forget your good work here.''\nHe turned to Myrrine.\n*'''Brasidas:''' ''It was good to see you again, Myrrine. Though we had our disagreements, I do hope you regain your house soon.''\n|-|Lagos dead=\n*'''Kassandra:''' ''He's dead.''\n*'''Brasidas:''' ''This complicates things.''\n*'''Myrrine:''' ''One less Cultist. Seems simple enough.''\n*'''Brasidas:''' ''Lagos was a dear friend once. I should have been there.''\n{{#tag:tabber|\nI'm sorry about your friend.=\n*'''Kassandra:''' ''I'm sorry, Brasidas. But when Lagos joined the Cult, he sealed his fate.''\n{{!}}-{{!}}\nHe was a Cultist.=\n*'''Kassandra:''' ''Should have been there? Brasidas, that man stopped deserving your loyalty the moment he joined the cult.''\n}}\nBrasidas cited the outcome of their [[Monger Down|previous]] partnership in his rebuke.\n\n([[The Monger]] killed publicly)\n*'''Brasidas:''' ''So you executed the Monger in public against my advice, and now you kill Lagos? If you were under my command\u2014you wouldn\u2019t be, anymore.''\n(The Monger killed privately)\n*'''Brasidas:''' ''If only you'd followed my advice with Lagos like you did with the Monger.''\nRegardless, Kassandra raised her finger and asserted her position as a ''misthios''.\n*'''Kassandra:''' ''I don't follow orders. I do what I have to.''\n*'''Brasidas:''' ''So it\u2019s done. I suppose you'll be wanting to report the news to Sparta soon.''\n(If neither of the two tasks have been completed)\n*'''Kassandra:''' ''No. The kings were clear in their requests. [[Boeotia]] must be [[The Conqueror|brought under control]], and Sparta must [[Pankration (memory)|win a wreath]] at the Olympic Games.''\n*'''Myrrine:''' ''There is much left to do, lamb.''\n\n(If 'Pankration' has been completed, but not 'The Conqueror')\n*'''Kassandra:''' ''We may have won the wreath, but the kings also wanted us to conquer the Boeotians.''\n*'''Myrrine:''' ''True, you are needed there before we return.''\n\n(If 'The Conqueror' has been completed, but not 'Pankration')\n*'''Kassandra:''' ''Boeotia may be at peace, but the kings also wanted an Olympic victory for Sparta.''\n*'''Myrrine:''' ''True, you must travel to [[Elis]] and win the wreath.''\n\n(If both tasks have been completed)\n*'''Kassandra:''' ''You're right. we've done all we can. It\u2019s time to go to Sparta.''\n*'''Myrrine:''' ''Yes. It\u2019s time we returned.''\n\nRegardless, Brasidas took his leave of them with some parting words.\n*'''Brasidas:''' ''Myrrine. You are as determined as ever. I'm sure you will regain your house soon.''\nHe turned to Kassandra.\n*'''Brasidas:''' ''With Lagos dead, arrangements must be made to ensure Sparta doesn't starve.''\n</tabber>\n[[File:ACOD Judge, Jury, Executioner 6.png|thumb|250px|Kassandra having a moment with her mother]]\nRegardless, Kassandra reflected on their success.\n*'''Kassandra:''' ''Arkadia is safe once more.''\n*'''Myrrine:''' ''And the bounty is lifted. We are free to travel without fear.''\n*'''Kassandra:''' ''Then let's continue our journey.''\nBrasidas gave a small bow and took his leave. Kassandra and Myrrine held each other's arms. Myrrine clasped her daughter's face before taking her leave as well.",
+    "Section_Outcome": "Whether Lagos was killed or freed from the Cult, Kassandra removed Arkadia from their grasp and took an important step towards purging their corruption from the Peloponnesian League.",
+    "Section_Trivia": "*If Lagos lives, Pausanias is immediately unveiled as the [[Sage (Cult of Kosmos)|Sage]] of the [[Peloponnesian League (Cult of Kosmos)|Peloponnesian League]] branch of the Cult of Kosmos. Any outstanding [[Cult of Kosmos notes|Cultist clues]] from this branch will not be readable in his Cultist submenu if they are obtained after this point.\n**Given that two are obtained in the main story prior to this point, the only clues the player could be missing are from [[Skylax]] and [[Kallias]], the latter of whom is encountered during the [[Olympic Games]] line of memories but not necessarily killed in the course thereof. A fifth can be obtained by dueling [[Stentor]], but this locks the player out of the game's best ending.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Juge, jur\u00e9, bourreau]]",
+    "Chapter_SequenceID": "18.",
+    "Chapter_Name": "The Cult and the Archon",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "With her preparations complete, Kassandra made her way into [[Fort Samikon]] to deal with Lagos once and for all.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "With his family freed, Lagos felt his leash loosen enough to await Kassandra in private. She infiltrated his chambers at Fort Samikon and spoke to him directly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Lagos:''' ''I knew you'd come find me sooner or later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What tipped you off?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|\"Gluten Free\" completed, soldiers slain=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Lagos:''' ''You killed my soldiers. But\u2014<br>You helped my family when I couldn't. Even if we're apart, I know they're safe thanks to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''It's the least I could do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|\"Gluten Free\" completed, no soldiers slain=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Lagos:''' ''I know it was you who freed my family. They're safe thanks to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I did what I had to\u2014even with everyone in Arkadia trying to kill me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Lagos:''' ''The world is so chaotic now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''The [[Cult of Kosmos|Cult]] made it that way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Lagos:''' ''We're living in divided times. [[Sparta]] against [[Athens]]. Old against new.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Kassandra chuckled at Lagos' apparent na\u00efvet\u00e9.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''And you think the Cultists aren't stoking the flames on both sides?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Lagos:''' ''I've seen what they can do. What they're willing to do. I want what's best for [[Arkadia]]... I'll consider what you have to say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "22",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "23",
+            "content": "|-|Attack \u2013 It's too late.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''There's nothing to discuss. You're a Cultist, and that's all I need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Lagos:''' ''I had no choice. Please!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "26",
+            "content": "In spite of her efforts to resolve things peacefully, Kassandra decided Lagos could not live. She attacked him, and while he tried to defend himself, she gave him the same death as any Cultist.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|You must join Brasidas.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''It's not too late. Leave the Cult of Kosmos and join Brasidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "29",
+            "content": "(If the Monger was killed privately)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Lagos:''' ''You consider me your ally today... How can I know you and Brasidas won't change your minds?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''We can work together against our common enemy. You deserve better than to live under the threat of the Cult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Lagos:''' ''You sound like Brasidas when he was your age. You give me hope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Lagos:''' ''The Cult gave me [[Spartan War Hero Belt|this]]. They said it was a sign of my devotion. Maybe you can use it against them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm sure I can find a way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Lagos:''' ''I'll lift the bounty on you and Myrrine. And may you find success in your fight against this evil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Thank you, Archon. We appreciate it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Lagos:''' ''You saved my family from the Cult by yourself... You're courageous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "38",
+            "content": "Kassandra was perturbed by this remark.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Lagos:''' ''You've made an enemy of a king. [[Pausanias]] threatened my family with torture and death if I betrayed him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Pausanias?! Do you have proof?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Lagos:''' ''Here\u2014evidence of his treachery.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "43",
+            "content": "[[File:ACOD Judge, Jury, Executioner 3.png|thumb|250px|Kassandra given Pausanias' ring]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "44",
+            "content": "Kassandra looked at the evidence and nodded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Thank you. I'll see about this king of lies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "46",
+            "content": "She took her leave of her new ally, and he smiled warmly at her conviction.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "47",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "48",
+            "content": "(If the Monger was killed publicly)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "49",
+            "content": "*'''Lagos:''' ''You expect me to trust you? After how you slaughtered the Monger? I know what you do to Cultists. I won't bow my head just for you to cut it off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''That wasn't my plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "51",
+            "content": "*'''Lagos:''' ''Then I should thank you for letting me face death as Spartans do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "52",
+            "content": "In spite of her efforts to resolve things peacefully, Lagos decided not to trust Kassandra. He attacked her, and while he tried to defend himself, she gave him the same death as any Cultist.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "53",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N9",
+            "global_id": "54",
+            "content": "With her deed complete, Kassandra made her way out of the fort.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "55",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC5",
+            "global_id": "56",
+            "content": "===Reporting back===",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N10",
+            "global_id": "57",
+            "content": "Kassandra reported back to Myrrine and Brasidas on the hill overlooking Fort Samikon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "58",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "59",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "60",
+            "content": "|-|Lagos alive=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''The bounty is lifted\u2014Lagos is alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "62",
+            "content": "*'''Brasidas:''' ''See? I knew we could solve this without violence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "63",
+            "content": "Myrrine folded her arms and frowned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "64",
+            "content": "*'''Myrrine:''' ''That Cultist deserved to die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "65",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "66",
+            "content": "Lagos left the Cult.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Lagos is no longer with the Cult. I convinced him he's safer without them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "68",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "69",
+            "content": "Lagos didn't deserve death.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Lagos was a ''victim'' of the Cult. He shouldn't share their fate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "71",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D36",
+            "global_id": "72",
+            "content": "*'''Myrrine:''' ''The Cult of Kosmos would eat their own young if it served their needs!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Not Lagos. He was being blackmailed by King Pausanias. He had Lagos' family at knifepoint, and I have proof.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "74",
+            "content": "*'''Brasidas:''' ''King Pausanias?! We must return to Sparta to confront him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "75",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "76",
+            "content": "(If neither of the two tasks have been completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''No. The [[Two Kings of Sparta|kings]] were clear in their requests. [[Boeotia]] must be [[The Conqueror|brought under control]], and Sparta must [[Pankration (memory)|win a wreath]] at the Olympic Games.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "78",
+            "content": "*'''Myrrine:''' ''There is much left to do, lamb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "79",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "80",
+            "content": "(If 'Pankration' has been completed, but not 'The Conqueror')",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''We may have won the {{Wiki|Olive wreath|wreath}}, but the kings also wanted us to conquer the Boeotians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "82",
+            "content": "*'''Myrrine:''' ''True, you are needed there before we return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O5",
+            "global_id": "84",
+            "content": "(If 'The Conqueror' has been completed, but not 'Pankration')",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Boeotia may be at peace, but the kings also wanted an Olympic victory for Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "86",
+            "content": "*'''Myrrine:''' ''True, you must travel to [[Elis]] and win the wreath.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "87",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O6",
+            "global_id": "88",
+            "content": "(If both tasks have been completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''You're right. we've done all we can. It\u2019s time to go to Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "90",
+            "content": "*'''Myrrine:''' ''Yes. It\u2019s time we return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "91",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "92",
+            "content": "Regardless, Brasidas took his leave of them with some parting words.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "93",
+            "content": "*'''Brasidas:''' ''Very well. I'll take my leave of you, Kassandra. I won't soon forget your good work here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "94",
+            "content": "He turned to Myrrine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D48",
+            "global_id": "95",
+            "content": "*'''Brasidas:''' ''It was good to see you again, Myrrine. Though we had our disagreements, I do hope you regain your house soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "96",
+            "content": "|-|Lagos dead=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''He's dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "98",
+            "content": "*'''Brasidas:''' ''This complicates things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "99",
+            "content": "*'''Myrrine:''' ''One less Cultist. Seems simple enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "100",
+            "content": "*'''Brasidas:''' ''Lagos was a dear friend once. I should have been there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "101",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "102",
+            "content": "I'm sorry about your friend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''I'm sorry, Brasidas. But when Lagos joined the Cult, he sealed his fate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "104",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "105",
+            "content": "He was a Cultist.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''Should have been there? Brasidas, that man stopped deserving your loyalty the moment he joined the cult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "107",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "N14",
+            "global_id": "108",
+            "content": "Brasidas cited the outcome of their [[Monger Down|previous]] partnership in his rebuke.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U12",
+            "global_id": "109",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O7",
+            "global_id": "110",
+            "content": "([[The Monger]] killed publicly)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "111",
+            "content": "*'''Brasidas:''' ''So you executed the Monger in public against my advice, and now you kill Lagos? If you were under my command\u2014you wouldn\u2019t be, anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O8",
+            "global_id": "112",
+            "content": "(The Monger killed privately)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "113",
+            "content": "*'''Brasidas:''' ''If only you'd followed my advice with Lagos like you did with the Monger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "114",
+            "content": "Regardless, Kassandra raised her finger and asserted her position as a ''misthios''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''I don't follow orders. I do what I have to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "116",
+            "content": "*'''Brasidas:''' ''So it\u2019s done. I suppose you'll be wanting to report the news to Sparta soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O9",
+            "global_id": "117",
+            "content": "(If neither of the two tasks have been completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D59",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''No. The kings were clear in their requests. [[Boeotia]] must be [[The Conqueror|brought under control]], and Sparta must [[Pankration (memory)|win a wreath]] at the Olympic Games.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "119",
+            "content": "*'''Myrrine:''' ''There is much left to do, lamb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "120",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O10",
+            "global_id": "121",
+            "content": "(If 'Pankration' has been completed, but not 'The Conqueror')",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D61",
+            "global_id": "122",
+            "content": "*'''Kassandra:''' ''We may have won the wreath, but the kings also wanted us to conquer the Boeotians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "123",
+            "content": "*'''Myrrine:''' ''True, you are needed there before we return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "124",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O11",
+            "global_id": "125",
+            "content": "(If 'The Conqueror' has been completed, but not 'Pankration')",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''Boeotia may be at peace, but the kings also wanted an Olympic victory for Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "127",
+            "content": "*'''Myrrine:''' ''True, you must travel to [[Elis]] and win the wreath.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "128",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O12",
+            "global_id": "129",
+            "content": "(If both tasks have been completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''You're right. we've done all we can. It\u2019s time to go to Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "131",
+            "content": "*'''Myrrine:''' ''Yes. It\u2019s time we returned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "132",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N16",
+            "global_id": "133",
+            "content": "Regardless, Brasidas took his leave of them with some parting words.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D67",
+            "global_id": "134",
+            "content": "*'''Brasidas:''' ''Myrrine. You are as determined as ever. I'm sure you will regain your house soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "135",
+            "content": "He turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "136",
+            "content": "*'''Brasidas:''' ''With Lagos dead, arrangements must be made to ensure Sparta doesn't starve.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "137",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I2",
+            "global_id": "138",
+            "content": "[[File:ACOD Judge, Jury, Executioner 6.png|thumb|250px|Kassandra having a moment with her mother]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N18",
+            "global_id": "139",
+            "content": "Regardless, Kassandra reflected on their success.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D69",
+            "global_id": "140",
+            "content": "*'''Kassandra:''' ''Arkadia is safe once more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "141",
+            "content": "*'''Myrrine:''' ''And the bounty is lifted. We are free to travel without fear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "142",
+            "content": "*'''Kassandra:''' ''Then let's continue our journey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "143",
+            "content": "Brasidas gave a small bow and took his leave. Kassandra and Myrrine held each other's arms. Myrrine clasped her daughter's face before taking her leave as well.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

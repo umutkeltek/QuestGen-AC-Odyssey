@@ -1,0 +1,153 @@
+{
+    "Quest_Name": "The Charlatan's Amulet",
+    "Quest_ID": "236230",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Charlatan's Amulet''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A merchant drew Kassandra's attention, hawking his wares.",
+    "Section_Dialogue": "*'''Kassandra:''' ''I got your message on the [[Message board|board]]. What's going on?''\n*'''Man:''' ''How about an amulet to protect you on your travels,'' misthios''? My amulets ward of all evil!''\n*'''Kassandra:''' ''My [[sword]] is protection enough.''\n*'''Man:''' ''Then I'm glad you're here. An unhappy customer is looking for me.''\n*'''Kassandra:''' ''Your amulets won't protect you?''\n*'''Man:''' ''Sometimes magic needs a helping hand.''\n*'''Kassandra:''' ''You need me to deal with him.''\n*'''Man:''' ''The glory is all yours if you accept. Do you?''\n(Accept \u2013 I'm going to help you.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Man:''' ''Good. Be discreet.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left to look for the soldier. When she found him, she spoke to him.\n*'''Kassandra:''' ''I've been looking for you. It's not a good thing.''\n*'''Man:''' ''All right. My destiny is out of my hands.''\nThe man attacked Kassandra, and she defeated him in self-defence before returning to the merchant.\n*'''Man:''' ''Has he been... dealt with,'' misthios?\n*'''Kassandra:''' ''He won't be bothering anyone anymore.''\n*'''Man:''' ''Nicely done, my friend. Please, take this as thanks.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra helped the man by dealing with a disappointed customer, and was rewarded for this.",
+    "Section_Trivia": "*These kinds of quest allow Kassandra to speak with the target. How the target reacts is randomly generated, even within the same save. Either they attack Kassandra, attempt to bribe her, or can be suggested to join the crew of the ''[[Adrestia]]''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''I got your message on the [[Message board|board]]. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Man:''' ''How about an amulet to protect you on your travels,'' misthios''? My amulets ward of all evil!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''My [[sword]] is protection enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Man:''' ''Then I'm glad you're here. An unhappy customer is looking for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Your amulets won't protect you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Man:''' ''Sometimes magic needs a helping hand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You need me to deal with him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "8",
+            "content": "*'''Man:''' ''The glory is all yours if you accept. Do you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "9",
+            "content": "(Accept \u2013 I'm going to help you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I'm the one for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Man:''' ''Good. Be discreet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "13",
+            "content": "Kassandra left to look for the soldier. When she found him, she spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I've been looking for you. It's not a good thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Man:''' ''All right. My destiny is out of my hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "16",
+            "content": "The man attacked Kassandra, and she defeated him in self-defence before returning to the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Man:''' ''Has he been... dealt with,'' misthios?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''He won't be bothering anyone anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Man:''' ''Nicely done, my friend. Please, take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

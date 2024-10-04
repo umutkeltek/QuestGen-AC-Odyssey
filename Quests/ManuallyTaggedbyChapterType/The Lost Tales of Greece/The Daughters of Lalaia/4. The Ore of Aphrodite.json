@@ -1,0 +1,37 @@
+{
+    "QuestName": "The Ore of Aphrodite",
+    "QuestID": "226152",
+    "Revision": {
+        "id": "864875",
+        "parentid": "862307",
+        "timestamp": "2020-04-30T10:52:54Z",
+        "contributor": null,
+        "comment": "corrected misspelling",
+        "origin": "864875",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ag7rv1q4c5xv0pfthul1iha45sa692s"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Ore of Aphrodite - Methiadusa Meets Kassandra.png",
+        "description": "'To aid the women of Lalaia, Kassandra gathered legendary ore for the village blacksmith.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Learning the Land",
+        "next": "The Best Defense",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Ore of Aphrodite''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to the [[blacksmith]] of [[Lalaia]] on the advice of [[Periktione]]. To aid the women of Lalaia, Kassandra gathered legendary ore for the village blacksmith.",
+    "Section_Dialogue": "Kassandra approached the village's [[Methiadusa|blacksmith]].\n*'''Methiadusa:''' ''They tell me to make the weapons, but do any of them ask if I know how?<br />Oh! Who are you?''\n*'''Kassandra:''' ''A [[mercenary]] hired by the village magistrate.''\n*'''Methiadusa:''' ''Oh. That explains why I don't know you. I'm Methiadusa. Please don't tell me you need new weapons or [[armor]].''\n*'''Kassandra:''' ''I don't. But the rest of the village does.''\n*'''Methiadusa:'''\u00a0''Oh, that's worse.''\n*'''Kassandra:''' ''I thought you were the village blacksmith. Why are you so reluctant?''\n*'''Methiadusa:''' ''I'm not the village blacksmith! My father is, and my brother is his apprentice. I just fetch wood when they need it. Now they all expect me to arm the village!''\n(If players choose \"Where is your family?\")\n*'''Kassandra:''' ''Are you the only member of your family left?''\n*'''Methiadusa:''' ''I'll know when the men return from [[Peloponnesian War|war]]. Mater left with the [[Charon|Ferryman]] last year.''\n(If players choose \"Let me help you.\")\n*'''Kassandra:''' ''Is there any way I can help?''\n*'''Methiadusa:''' ''I think pater left the molds and tools nearby. But I need ore, and even then, I might make something utterly useless.''\n(If players choose \"Why do you doubt yourself?\")\n*'''Kassandra:''' ''You look capable enough to me.''\n*'''Methiadusa:''' ''There's a difference between knowing how to do something with your mind and knowing how to do it with your hands.''\n*'''Kassandra:''' ''Fair enough.''\n(If players choose \"Tell me\u00a0about the ore.\")\n*'''Kassandra:''' ''What kind of ore do you need?''\n*'''Methiadusa:''' ''Any kind of ore will technically do... but...''\n*'''Kassandra:''' ''But?''\n*'''Methiadusa:''' ''My pater used a legendary ore when making a [[dagger]] for my mater. It's called [[Aphrodite Ore|Aphrodite's Ore]]. Sounds strange, but it's true.''\n(If players choose \"Why is the ore named for [[Aphrodite]]?\")\n*'''Kassandra:''' ''How did the ore get its name?''\n*'''Methiadusa:'''''The legend says [[Hephaistos]], god of the forge, found this ore and used it to make a [[helmet]] for his wife, Aphrodite. She loved it for its color. Because of that, the ore works in the hands of any smith.''\n(If players choose \"Where is the ore?\")\n*'''Kassandra:''' ''Where can I find the ore?''\n*'''Methiadusa:''' ''It's hard to reach. It's down the cliffs at the [[Persian Remnants]], in a secret cave just above the water.''\n*'''Kassandra:''' ''Sounds like you've been there before.''\n*'''Methiadusa:''' ''I told you. I wasn't the smith. I was there to fetch what pater needed. I'd go myself, but I need to heat up the kiln.''\n(If players choose \"Leave \u2013 I'll go find the ore.\")\n*'''Kassandra:''' ''I'll bring back Aphrodite's Ore.''\n[[File:ACOD The Ore of Aphrodite 4.png|thumb|250px|Kassandra finding the ore]]\nKassandra headed to the cliffs in [[Malis]] near the [[Hot Gates of Thermopylai]]. She climbed down the cliffs, entering the cave Methiadusa spoke of. After a while of searching, she found and recovered one of the ore.\n*'''Kassandra:''' ''I can see why this ore is named for Aphrodite.''\nKassandra continued to recover the ores, successfully finding five needed by Methiadusa.\n*'''Kassandra:''' ''That should be enough ore for Methiadusa. Time to head back.''\nKassandra returned to Methiadusa in Lalaia.\n*'''Kassandra:''' ''I found the ore.''\n*'''Methiadusa:''' ''Amazing! I'll ready the molds.''\n*'''Kassandra:''' ''Will that be enough for the village?''\n*'''Methiadusa:''' ''It should be a good start. Oh! That reminds me, I have a problem.''\n*'''Kassandra:''' ''You and the rest of Lalaia.''\n*'''Methiadusa:''' ''I'm just one smith and I can divide my time between making weapons and armor, but it will slow down the process. It would be faster if I just worked on one. Which should I focus on, weapons or armor?''\n\n<tabber>\n|-|You should work on weapons.=\n*'''Kassandra:''' ''We can't kill bandits without weapons. We'll just have to hope their archers have poor aim.''\n|-|You should work on armor.=\n*'''Kassandra:''' ''Weapons can be improvised, armor can't. Focus on keeping people safe.''\n</tabber>\n*'''Methiadusa:''' ''Yes, you're right. Your confidence gives me hope. Thank you for your help.''\nIf this is the last of the three quests completed:\n*'''Kassandra:''' ''I've done all I can for these women. Time to get back to Periktione.''",
+    "Section_Outcome": "Kassandra helped Methiadusa to recover some Aphrodite's ore, allowing her to forge some equipment for the village.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD The Ore of Aphrodite 1.png|Kassandra finding the blacksmith's daughter\nACOD The Ore of Aphrodite 2.png|Kassandra agreed to help Methiadusa recover the ore\nACOD The Ore of Aphrodite 3.png|Kassandra at the cave\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

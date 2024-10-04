@@ -1,0 +1,29 @@
+{
+    "Quest_Name": "Grave Discovery",
+    "Quest_ID": "223075",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Needle in a Haystack (Ainigmata Ostraka)|Needle in a Haystack",
+        "next": "Estate Envy",
+        "source": "Kassandra",
+        "location": "Kynthos Ruins, Delos",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Grave Discovery''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''Within the [[Birthplace of Apollo|Birthplace]] of [[Apollo]], seek the [[Grand Temple of Apollo|Temple of Delians]]. There is a secret passageway to an underground tomb behind a bronze statue. Find me in a pile of apples guarded by [[snake]]s.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Ainigmata Ostraka",
+    "Chapter_Type": null,
+    "Quest_SequenceID": null
+}

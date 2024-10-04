@@ -1,0 +1,38 @@
+{
+    "Quest_Name": "A Legendary Hunt",
+    "Quest_ID": "231222",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Lycaon Wolf - ACOdyssey.jpg",
+        "description": "'When one gained audience with the Spartan Two Kings of Sparta|kings, it was customary to provide a kingly gift. Having arrived empty-handed however, Kassandra was tasked with bringing back the head of a Lykaon Wolf|legendary wolf.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Support",
+        "previous": "Kings of Sparta",
+        "next": "Ambition",
+        "source": "Kassandra",
+        "location": "Lakonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''A Legendary Hunt''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Disregarding tradition and customs, Kassandra sought favor from the [[Two Kings of Sparta]] without a gift to give in return. Due to this, King [[Archidamos of Sparta|Archidamos]] demanded she rid [[Lakonia]] of the [[Lykaon Wolf]], said to harass farmers in the [[Dioskouroi Peninsula]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''The size of it... That's no ordinary wolf!<br>There it is!''",
+    "Section_Outcome": "Kassandra hunted down the Lykaon Wolf and claimed its head as proof of her success. She also received the [[Wolfslayer's Breastplate]] for her efforts.",
+    "Section_Trivia": "*This quest is missable. Doing [[Bully the Bullies]] and/or [[One Bad Spartan Spoils the Bunch]] quests locks this out.\n*The hero's comment when Ikaros scans the beast is the default comment available in [[The Lykaon Wolf]], immediately followed by the more generic comment for this quest. The subtitles for the second will replace the first after only a few frames, making it much more difficult to notice.\n*Though King Archidamos demands this, there are no consequences for either completing or skipping the quest.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lakonia",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''The size of it... That's no ordinary wolf!<br>There it is!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

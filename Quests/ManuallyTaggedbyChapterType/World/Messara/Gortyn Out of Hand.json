@@ -1,0 +1,41 @@
+{
+    "QuestName": "Gortyn Out of Hand",
+    "QuestID": "224112",
+    "Revision": {
+        "id": "890822",
+        "parentid": "873332",
+        "timestamp": "2020-08-08T03:01:07Z",
+        "contributor": null,
+        "comment": "/* Dialogue */",
+        "origin": "890822",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "hydaa4m1wc6nwkwqd8qr5i4cgx5587r"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-GOoH-Ptolemaiosawait.jpg",
+        "description": "'Some would argue war wasn't good for much, but Ptolemaios|one man thought it was just what Gortyn needed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Messara}}",
+        "previous": "Flowers for the Dead",
+        "next": "Revenge Served Cold",
+        "source": "Kassandra",
+        "location": "Gortyn, Messara, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Gortyn Out of Hand''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by the [[Ptolemaios|head]] of a {{Wiki|Boule (ancient Greece)|boule}} to help his ''[[polis]]'' lose a war.",
+    "Section_Dialogue": "While at the [[Gortyn Code]], Kassandra found an individual calling out to her.\n*'''Civilian:''' [[Mercenary|Misthios]]''! I have a job for you.''\n*'''Kassandra:''' ''What's going on?''\n*'''Civilian:''' ''This job will be dangerous and could get us both killed.''\n*'''Kassandra:''' ''All my jobs are dangerous.''\n*'''Civilian:''' ''This job is about power\u2014the power to rule Gortyn by starting a war.''\n<tabber>\n|-|War comes at a cost.=\n*'''Kassandra:''' ''Wars cost both [[drachma]]e and lives.''\n*'''Civilian:''' ''I know the price. A war will be devastating, but in the end it's what's best for Gortyn.''\n*'''Kassandra:''' ''What do you have in mind?''\n|-|We'll need help.=\n*'''Kassandra:''' ''We can't start a war on our own - we'll need supporters and soldiers.''\n*'''Civilian:''' ''I have support from the captain of the army and the region's upper class.''\n*'''Kassandra:''' ''OK, then tell me your plan.''\n</tabber>\n*'''Civilian:''' ''I'm the head of the boule council, and according to our code, after a war is lost, the council chooses our next leader... Me.''\n*'''Kassandra:''' ''And you need some heads to roll to get things started?''\n*'''Civilian:''' ''Just one head... There's a visiting herald from [[Phaistos Village|Phaistos]]. No doubt here to broker peace with Gortyn.<br />His murder will guarantee that war is the only option for Gortyn.''\n*'''Kassandra:''' ''And my fee?''\n*'''Civilian:''' ''You'll be paid very handsomely for your efforts.''\n*'''Kassandra:''' ''I'll start the war for you. But first, I need more information.''\n*'''Civilian:''' ''Before the war can truly begin, we'll need your help weakening Gortyn. Destroy their supplies, steal their valuables... and kill that ''mal\u00e1kas'' visiting herald.''\n(If \"Where is the herald?\" is chosen)\n*'''Kassandra:''' ''Where can I find the visiting herald?''\n*'''Civilian;''' ''This \"man of peace\" stays at the [[Leader House, Messara|Leader House]] at night, and wanders around Gortyn during the day.<br />Kill him, and Gortyn will be blamed for his murder.''\n(If \"Where are the supplies?\" is chosen)\n*'''Kassandra:''' ''Tell me about the supplies I should destroy.''\n*'''Civilian:''' ''The weapon racks and supplies in [[Daidalos Fort]] must be destroyed to ensure they don't win the war.''\n(If \"Where can I find the valuables?\" is chosen)\n*'''Kassandra:''' ''There's plenty of valuables to be found in Daidalos Fort.''\n*'''Civilian:''' ''Stealing from there will hurt the Gortyn war effort most.''\n(Leave \u2013 \"I have enough information.\")\n*'''Kassandra:''' ''I'll start this war for you. I hope you know what you're doing.''\n*'''Civilian:''' ''We've been planning this for a while. See me when everything is complete.''\nKassandra departed and tracked down the herald. After killing him, she recovered a note from his body.\n::'''Towards a Unified [[Messara]]:'''<br />''Your aid in helping us defeat Phaistos is greatly appreciated. As promised, I will personally see to it that you are made part of my boule council. I am aware of your concern with Ptolemaios. I will get rid of him if he proves to be an obstacle. Speak of this to no one.''\nKassandra travelled to Daidalos Fort to track down the Leader of Messara. Killing him, she recovered a [[Cult of Kosmos clues#Gods of the Aegean Sea|note]] written to him by his [[Cult of Kosmos|Cultist]] [[Melanthos|son]]. After destroying the supplies, Kassandra left the fort and returned to the politician.\n*'''Kassandra:''' ''It's done. Gortyn is weak and ready for new leadership.''\n*'''Civilian:''' ''Praise the gods! Here's a reward for your troubles.''\nThe politician left.\n*'''Kassandra:''' ''After war, the boule council chooses a new leader.''",
+    "Section_Outcome": "Kassandra weakened Gortyn's strength to help the head of the boule council, Ptolemaios, become the city's new leader.",
+    "Section_Behind_the_scenes": "*Ptolemaios becomes the new Nation Leader of Messara at the conclusion of this memory, and he will immediately take up residence in [[Daidalos Fort]] with a fresh group of bodyguards affiliated with either [[Athens]] or [[Sparta]], depending on who controls the region. Should that faction later lose control of the region, he will be replaced by a randomly-generated leader for the opposing side, while he remains affiliated with the faction in control at the moment of his ascension.\n*Killing Ptolemaios after this memory will result in him eventually being replaced by another randomly-generated leader.",
+    "Section_Gallery": "<gallery captionalign=\"center\" position=\"center\">\nACOd-GOoH-atGortynCode.jpg|Ptolemaios before the Gortyn Code\nACOd-GOoH-herald.jpg|The herald at the Leader House\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

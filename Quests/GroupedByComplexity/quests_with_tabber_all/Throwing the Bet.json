@@ -1,0 +1,733 @@
+{
+    "Quest_Name": "Throwing the Bet",
+    "Quest_ID": "225001",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_Kassandra_talks_to_Pithekos.png",
+        "description": "'Kassandra found a Aletes|man taking bets on the Olympic Games|Olympics. He wanted her to help a Pithekos|competitor in the javelin competition who seemed to have lost his confidence.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side",
+        "previous": "Barnabas Abroad",
+        "next": "Gutter Runner",
+        "source": "Kassandra",
+        "location": "Sanctuary of Olympia, Elis, Greece",
+        "date": "428 BCE"
+    },
+    "General_Description": "'''Throwing the Bet''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a [[Aletes|man]] taking bets on the [[Olympic Games|Olympics]].",
+    "Section_Dialogue": "Kassandra comes upon an elongated field and hears an unenthusiastic bookmaker, above the tiered seats beside the field, calling for bets.\n*'''Street Vendor:''' ''Place your bets, place your bets now! Who will win the javelin? It could be'' you!\nShe approaches him.\n*'''Street Vendor:''' ''Come on, place your bets. Place your bets now! Aletes has plenty of [[drachma]]e for you to win...''\n*'''Kassandra:''' ''Your pitch could use some work. You'd attract more customers if you sounded more... enthusiastic.''\nAletes lowers his voice to conversation level.\n*'''Street Vendor:''' ''Everyone's betting against Pithekos. Rumor is, he's off his game. If it's true, I'm going to be ruined!''\n<tabber>\n|-|I could hurt his opponent.=\n*'''Kassandra:''' ''I could take out his opponent... for the right price.''\n*'''Street Vendor:''' ''Tempting, but no! Well, not this time.''\n|-|I could raise his spirits.=\n*'''Kassandra:''' ''What if I recited a poem? One of [[Pindar]]'s... You know, to inspire him to greatness.''\n*'''Street Vendor:''' ''Look, um, Pithekos is good, but, uh, he's not really that kind of athlete.''\n</tabber>\n*'''Kassandra:''' ''All right. Let's hear'' your ''plan, then.''\n*'''Street Vendor:''' ''Just... go see what's wrong. See if there's a way to help him win... For [[Athens]]. For drachmae!''\n<tabber>\n|-|I'll check on Pithekos.=\n*'''Kassandra:''' ''I'll see what's wrong with Pithekos.''\n*'''Street Vendor:''' ''Thank you! I'll split the winnings with you if you can sort things out.''\n|-|You do it.=\n*'''Kassandra:''' ''If that's all you need, you go check on him.''\nKassandra returns.\n*'''Street Vendor:''' ''I really need someone to check on Pithekos the javelin-thrower. If he doesn't win, my business is sunk!''\n(Back to dialogue choice one.)\n</tabber>\nKassandra goes down the steps then onto the field where Pithekos is and she talks him.\n*'''Kassandra:''' ''Pithekos, Aletes sent me to help you.''\nHe looks up to her from examining a javelin.\n*'''Olympian:''' ''Really? Can you perform wonders?''\nKassandra humors him.\n*'''Kassandra:''' ''On occasion.''\n*'''Olympian:''' ''My'' lucky ''javelin. It broke. Can you fix it?''\n*'''Kassandra:''' ''Aren't you meant to use the official javelins?''\n*'''Olympian:''' ''Yes, but... It was my'' lucky ''one. I can't win without it.''\n<tabber>\n|-|You're superstitious.=\n*'''Kassandra:''' ''Superstition must be part of being an Olympic athlete... Under the eyes of the [[Twelve Gods|gods]] and all.''\n|-|You're cheating.=\n*'''Kassandra:''' ''When you say \"lucky,\" you mean'' special. ''As in made to give you an advantage.''\n</tabber>\n*'''Olympian:''' ''Look, my javelin was hollow as a reed and nearly as light. But it looked just like an Olympic one. If you really want to help, bring me another like it, and I'll win the Games for Athens... And Aletes.''\n(If players choose \"Where do I get a javelin?\")\n*'''Kassandra:''' ''Where would I find such a javelin?''\n*'''Olympian:''' ''Well, you could buy one, I suppose.''\n*'''Kassandra:''' ''Do any of your fellow Olympians have'' special ''javelins.''\n*'''Olympian:''' ''Perhaps...''\n<tabber>\n|-|I'll get you a javelin.=\n*'''Kassandra:''' ''Don't worry, I'll get you a javelin.''\n*'''Olympian:''' ''Thanks! Maybe I've still got a chance to win...''\n|-|Get it yourself.=\n*'''Kassandra:''' ''All this for a stick? Get it yourself.''\nKassandra returns.\n*'''Olympian:''' ''Have you had a change of heart? Will you get me a'' special ''javelin? It must be light as a feather!''\n(Back to dialogue choice one.)\n</tabber>\n\n(If players decide to steal a javelin.)\nKassandra went inside the open-air [[Olympic Gymnasium|gymnasium]] nearby, and northwest of its training area is a javelin rack\u2014some fallen over. She picked up one of the fallen javelin on the ground.\n*'''Kassandra:''' ''This looks like it'll work.''\nShe brings back the worn javelin to Pithekos.\n*'''Kassandra:''' ''I got you a javelin.''\n*'''Olympian:''' ''Good! Let's take a look.''\nAfter he tests it for a while.\n*'''Olympian:''' ''This is terrible... So heavy. [[Zeus]] himself couldn't throw it!''\n*'''Kassandra:''' ''The javelin is just a tool. You're the real winner. You didn't get all the way to the Olympic Games just to lose.''\n*'''Olympian:''' ''You think so?''\n*'''Kassandra:''' ''I know so. Throw this javelin and... prove your point.''\n*'''Olympian:''' ''I'll do it. Thanks,'' [[Mercenary|misthios]].\n\n(If players decide to buy the standard javelin.)\nKassandra went to the [[agora]] surrounding the [[Olympic Tree]] and found a seller of javelins.\n*'''Kassandra:''' ''You sell javelins?''\n*'''Street Vendor:''' ''Of course! Lucky you, I still have some left. With the Games on, they sell out fast.''\n*'''Kassandra:''' ''But are they any good?''\n*'''Street Vendor:''' ''The best! Fly fast and true, rest assured. But they'll cost you.''\n*'''Kassandra:''' ''I'll take one.''\nShe gives the merchant 2000 drachmae.\n*'''Street Vendor:''' ''Thank you, and may it fly far!''\nKassandra brings back the simple javelin to Pithekos.\n*'''Kassandra:''' ''I got you a javelin.''\n*'''Olympian:''' ''Good! Let's take a look.''\n*'''Kassandra:''' ''Here, take this.''\nAfter he tests it for a while.\n*'''Olympian:''' ''Hey, this javelin's amazing! Light, easy to handle, and most importantly, looks just like the real thing.''\n*'''Kassandra:''' ''I'm glad I could help. Go with [[Nike]], my friend.''\n----\nKassandra left the field.\n*'''Kassandra:''' ''I should find Aletes.''\nShe returns to where he was the last time.\n*'''Street Vendor:''' ''Good, you're back. Get it done?''\n*'''Kassandra:''' ''Of course.''\n*'''Street Vendor:''' ''Excellent! How about a little bet on our boy then?''\n<tabber>\n|-|I'll place a high bet. [3000]=\n*'''Kassandra:''' ''You can never have enough drachmae. This will be an easy bounty.''\nKassandra hands him a huge pouch.\n*'''Street Vendor:''' ''Huh, that's a lot of drachmae! The event's tomorrow. Make sure you're on time.''\n|-|I'll place a low bet. [1000]=\n*'''Kassandra:''' ''I'm not really the gambling type, but I'll give it a go.''\n*'''Street Vendor:''' ''No, you're not. Hardly worth betting, but your loss. Don't miss the competition. I'll see you on the sidelines tomorrow.''\n|-|I don't gamble.=\n*'''Kassandra:''' ''No. I've done my job, and now I want my drachmae.''\n*'''Street Vendor:''' ''Suit yourself\u2014more drachmae for Aletes.''\nHe rewards her.\n</tabber>\n(If players bets for Pithekos after being given a standard javelin.)\nThe next day, Kassandra returns for her stake.\n*'''Street Vendor:''' ''Where were you? You missed everything. Look at this, what a magnificent throw!''\n*'''Kassandra:''' ''As long as I made a profit, I'm happy. Now pay me.''\n(If players bets for Pithekos after being given a worn javelin.)\n*'''Street Vendor:''' ''It's no use! Pithekos lost. His javelin barely cleared his hand. I'm ruined!''\n*'''Kassandra:''' ''We all lost...''\n*'''Street Vendor:''' ''You, you were meant to help!''\n*'''Kassandra:''' ''I don't know why I bother.''",
+    "Section_Outcome": "Kassandra replaced Pithekos' javelin and thus renewed his excitement for the sport.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Olympics",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra comes upon an elongated field and hears an unenthusiastic bookmaker, above the tiered seats beside the field, calling for bets.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Street Vendor:''' ''Place your bets, place your bets now! Who will win the javelin? It could be'' you!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She approaches him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Street Vendor:''' ''Come on, place your bets. Place your bets now! Aletes has plenty of [[drachma]]e for you to win...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Your pitch could use some work. You'd attract more customers if you sounded more... enthusiastic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Aletes lowers his voice to conversation level.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Street Vendor:''' ''Everyone's betting against Pithekos. Rumor is, he's off his game. If it's true, I'm going to be ruined!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|I could hurt his opponent.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I could take out his opponent... for the right price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Street Vendor:''' ''Tempting, but no! Well, not this time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|I could raise his spirits.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''What if I recited a poem? One of [[Pindar]]'s... You know, to inspire him to greatness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Street Vendor:''' ''Look, um, Pithekos is good, but, uh, he's not really that kind of athlete.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''All right. Let's hear'' your ''plan, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Street Vendor:''' ''Just... go see what's wrong. See if there's a way to help him win... For [[Athens]]. For drachmae!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "18",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "19",
+            "content": "|-|I'll check on Pithekos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll see what's wrong with Pithekos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Street Vendor:''' ''Thank you! I'll split the winnings with you if you can sort things out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "22",
+            "content": "|-|You do it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''If that's all you need, you go check on him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "24",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Street Vendor:''' ''I really need someone to check on Pithekos the javelin-thrower. If he doesn't win, my business is sunk!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "26",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N5",
+            "global_id": "28",
+            "content": "Kassandra goes down the steps then onto the field where Pithekos is and she talks him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Pithekos, Aletes sent me to help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "30",
+            "content": "He looks up to her from examining a javelin.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Olympian:''' ''Really? Can you perform wonders?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "32",
+            "content": "Kassandra humors him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''On occasion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Olympian:''' ''My'' lucky ''javelin. It broke. Can you fix it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Aren't you meant to use the official javelins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Olympian:''' ''Yes, but... It was my'' lucky ''one. I can't win without it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "37",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "38",
+            "content": "|-|You're superstitious.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Superstition must be part of being an Olympic athlete... Under the eyes of the [[Twelve Gods|gods]] and all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "40",
+            "content": "|-|You're cheating.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''When you say \"lucky,\" you mean'' special. ''As in made to give you an advantage.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "42",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D23",
+            "global_id": "43",
+            "content": "*'''Olympian:''' ''Look, my javelin was hollow as a reed and nearly as light. But it looked just like an Olympic one. If you really want to help, bring me another like it, and I'll win the Games for Athens... And Aletes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "44",
+            "content": "(If players choose \"Where do I get a javelin?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Where would I find such a javelin?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "46",
+            "content": "*'''Olympian:''' ''Well, you could buy one, I suppose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Do any of your fellow Olympians have'' special ''javelins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Olympian:''' ''Perhaps...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "50",
+            "content": "|-|I'll get you a javelin.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Don't worry, I'll get you a javelin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "52",
+            "content": "*'''Olympian:''' ''Thanks! Maybe I've still got a chance to win...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "53",
+            "content": "|-|Get it yourself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''All this for a stick? Get it yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "55",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "56",
+            "content": "*'''Olympian:''' ''Have you had a change of heart? Will you get me a'' special ''javelin? It must be light as a feather!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "57",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE4",
+            "global_id": "58",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "59",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "60",
+            "content": "(If players decide to steal a javelin.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "N9",
+            "global_id": "61",
+            "content": "Kassandra went inside the open-air [[Olympic Gymnasium|gymnasium]] nearby, and northwest of its training area is a javelin rack\u2014some fallen over. She picked up one of the fallen javelin on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''This looks like it'll work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "63",
+            "content": "She brings back the worn javelin to Pithekos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I got you a javelin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "65",
+            "content": "*'''Olympian:''' ''Good! Let's take a look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "66",
+            "content": "After he tests it for a while.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "67",
+            "content": "*'''Olympian:''' ''This is terrible... So heavy. [[Zeus]] himself couldn't throw it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''The javelin is just a tool. You're the real winner. You didn't get all the way to the Olympic Games just to lose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "69",
+            "content": "*'''Olympian:''' ''You think so?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''I know so. Throw this javelin and... prove your point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "71",
+            "content": "*'''Olympian:''' ''I'll do it. Thanks,'' [[Mercenary|misthios]].",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "73",
+            "content": "(If players decide to buy the standard javelin.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "N12",
+            "global_id": "74",
+            "content": "Kassandra went to the [[agora]] surrounding the [[Olympic Tree]] and found a seller of javelins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''You sell javelins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "76",
+            "content": "*'''Street Vendor:''' ''Of course! Lucky you, I still have some left. With the Games on, they sell out fast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''But are they any good?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "78",
+            "content": "*'''Street Vendor:''' ''The best! Fly fast and true, rest assured. But they'll cost you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''I'll take one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "80",
+            "content": "She gives the merchant 2000 drachmae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "81",
+            "content": "*'''Street Vendor:''' ''Thank you, and may it fly far!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "82",
+            "content": "Kassandra brings back the simple javelin to Pithekos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''I got you a javelin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "84",
+            "content": "*'''Olympian:''' ''Good! Let's take a look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Here, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "86",
+            "content": "After he tests it for a while.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "87",
+            "content": "*'''Olympian:''' ''Hey, this javelin's amazing! Light, easy to handle, and most importantly, looks just like the real thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''I'm glad I could help. Go with [[Nike]], my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "89",
+            "content": "----",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N17",
+            "global_id": "90",
+            "content": "Kassandra left the field.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''I should find Aletes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "92",
+            "content": "She returns to where he was the last time.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "93",
+            "content": "*'''Street Vendor:''' ''Good, you're back. Get it done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "95",
+            "content": "*'''Street Vendor:''' ''Excellent! How about a little bet on our boy then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "96",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "97",
+            "content": "|-|I'll place a high bet. [3000]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''You can never have enough drachmae. This will be an easy bounty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "99",
+            "content": "Kassandra hands him a huge pouch.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "100",
+            "content": "*'''Street Vendor:''' ''Huh, that's a lot of drachmae! The event's tomorrow. Make sure you're on time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "101",
+            "content": "|-|I'll place a low bet. [1000]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''I'm not really the gambling type, but I'll give it a go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "103",
+            "content": "*'''Street Vendor:''' ''No, you're not. Hardly worth betting, but your loss. Don't miss the competition. I'll see you on the sidelines tomorrow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC11",
+            "global_id": "104",
+            "content": "|-|I don't gamble.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D59",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''No. I've done my job, and now I want my drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "106",
+            "content": "*'''Street Vendor:''' ''Suit yourself\u2014more drachmae for Aletes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "107",
+            "content": "He rewards her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE5",
+            "global_id": "108",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C4",
+            "global_id": "109",
+            "content": "(If players bets for Pithekos after being given a standard javelin.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "N21",
+            "global_id": "110",
+            "content": "The next day, Kassandra returns for her stake.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "111",
+            "content": "*'''Street Vendor:''' ''Where were you? You missed everything. Look at this, what a magnificent throw!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "112",
+            "content": "*'''Kassandra:''' ''As long as I made a profit, I'm happy. Now pay me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "113",
+            "content": "(If players bets for Pithekos after being given a worn javelin.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D63",
+            "global_id": "114",
+            "content": "*'''Street Vendor:''' ''It's no use! Pithekos lost. His javelin barely cleared his hand. I'm ruined!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''We all lost...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "116",
+            "content": "*'''Street Vendor:''' ''You, you were meant to help!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''I don't know why I bother.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

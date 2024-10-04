@@ -1,0 +1,213 @@
+{
+    "Quest_Name": "Thought and Deed",
+    "Quest_ID": "268032",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Thought and Deed",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Thought and Deed''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] in 2018.",
+    "Section_Description": "Kassandra answered the call of a philosopher.",
+    "Section_Dialogue": "Kassandra approached a civillian.\n*'''Kassandra:''' Chaire'', stanger. Need something?''\n*'''Philosopher:''' ''Is violence the natural state of humanity? Is there such a thing as peace, or are there simply moments between attacks?''\n*'''Kassandra:''' ''I prefer fighting to thinking about fighting. Get to the point.''\n*'''Philosopher:''' ''Oh, of course. A strong leader dies, and weaker, meaner leaders rise up. The commander of the nearby camp has become violent and tyrannical. He and his soldiers should learn a truth or two.''\n*'''Kassandra:''' ''And you want me to kill all the [[Athens|Athenians]].''\n*'''Philosopher:''' ''That would be ideal.''\n<tabber>\n|-|Those soldiers are mine.=\n*'''Kassandra:''' ''You can count on me.''\n*'''Philosopher:''' ''I know you'd see reason.''\n*'''Kassandra:''' ''Leave it to me.''\n|-|They're not of my concern.=\nTBA\n</tabber>\nKassandra then reached the nearby camp and killed all its soldiers.\n*'''Kassandra:''' ''That's it. Now, to collect.''\nShe returned to the man.\n*'''Philosopher:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Philosopher:''' ''Excellent work, my friend. Please, take this.''\nThe man handled her a bag of [[drachma]]e.\n<tabber>\n|-|Recruit - You should join my crew.=\n*'''Kassandra:''' ''I could use someone with your skills. Would you consider joining my crew?''\n*'''Philosopher:''' ''You know I've seen and pondered a great many things here, but there's still so much more of the [[Greece|Greek world]] to contemplate. I'm in.''\nThe philospher joined Kassandra's crew aboard the [[Adrestia]].\n|-|Leave - Thank you.=\nTBA\n</tabber>",
+    "Section_Outcome": "Kassandra helped the philosopher.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached a civillian.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' Chaire'', stanger. Need something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Philosopher:''' ''Is violence the natural state of humanity? Is there such a thing as peace, or are there simply moments between attacks?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I prefer fighting to thinking about fighting. Get to the point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Philosopher:''' ''Oh, of course. A strong leader dies, and weaker, meaner leaders rise up. The commander of the nearby camp has become violent and tyrannical. He and his soldiers should learn a truth or two.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''And you want me to kill all the [[Athens|Athenians]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Philosopher:''' ''That would be ideal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Those soldiers are mine.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Philosopher:''' ''I know you'd see reason.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|They're not of my concern.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "14",
+            "content": "TBA",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "16",
+            "content": "Kassandra then reached the nearby camp and killed all its soldiers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''That's it. Now, to collect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "She returned to the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Philosopher:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Philosopher:''' ''Excellent work, my friend. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "22",
+            "content": "The man handled her a bag of [[drachma]]e.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "23",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "24",
+            "content": "|-|Recruit - You should join my crew.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I could use someone with your skills. Would you consider joining my crew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Philosopher:''' ''You know I've seen and pondered a great many things here, but there's still so much more of the [[Greece|Greek world]] to contemplate. I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "27",
+            "content": "The philospher joined Kassandra's crew aboard the [[Adrestia]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "|-|Leave - Thank you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N7",
+            "global_id": "29",
+            "content": "TBA",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

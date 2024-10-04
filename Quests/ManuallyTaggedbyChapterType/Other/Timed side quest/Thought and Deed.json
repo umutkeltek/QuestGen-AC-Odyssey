@@ -1,0 +1,42 @@
+{
+    "QuestName": "Thought and Deed",
+    "QuestID": "268032",
+    "Revision": {
+        "id": "1051533",
+        "parentid": "1047559",
+        "timestamp": "2023-07-01T19:22:47Z",
+        "contributor": null,
+        "origin": "1051533",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "h2mpnw4z6swfq64xrho26d4cq43f4dn"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Thought and Deed",
+        "image": null,
+        "description": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Thought and Deed''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] in 2018.",
+    "Section_Description": "Kassandra answered the call of a philosopher.",
+    "Section_Dialogue": "Kassandra approached a civillian.\n*'''Kassandra:''' Chaire'', stanger. Need something?''\n*'''Philosopher:''' ''Is violence the natural state of humanity? Is there such a thing as peace, or are there simply moments between attacks?''\n*'''Kassandra:''' ''I prefer fighting to thinking about fighting. Get to the point.''\n*'''Philosopher:''' ''Oh, of course. A strong leader dies, and weaker, meaner leaders rise up. The commander of the nearby camp has become violent and tyrannical. He and his soldiers should learn a truth or two.''\n*'''Kassandra:''' ''And you want me to kill all the [[Athens|Athenians]].''\n*'''Philosopher:''' ''That would be ideal.''\n<tabber>\n|-|Those soldiers are mine.=\n*'''Kassandra:''' ''You can count on me.''\n*'''Philosopher:''' ''I know you'd see reason.''\n*'''Kassandra:''' ''Leave it to me.''\n|-|They're not of my concern.=\nTBA\n</tabber>\nKassandra then reached the nearby camp and killed all its soldiers.\n*'''Kassandra:''' ''That's it. Now, to collect.''\nShe returned to the man.\n*'''Philosopher:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Philosopher:''' ''Excellent work, my friend. Please, take this.''\nThe man handled her a bag of [[drachma]]e.\n<tabber>\n|-|Recruit - You should join my crew.=\n*'''Kassandra:''' ''I could use someone with your skills. Would you consider joining my crew?''\n*'''Philosopher:''' ''You know I've seen and pondered a great many things here, but there's still so much more of the [[Greece|Greek world]] to contemplate. I'm in.''\nThe philospher joined Kassandra's crew aboard the [[Adrestia]].\n|-|Leave - Thank you.=\nTBA\n</tabber>",
+    "Section_Outcome": "Kassandra helped the philosopher.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

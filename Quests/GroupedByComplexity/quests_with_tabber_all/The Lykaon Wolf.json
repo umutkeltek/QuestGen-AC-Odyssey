@@ -1,0 +1,149 @@
+{
+    "Quest_Name": "The Lykaon Wolf",
+    "Quest_ID": "223193",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Lykaon Wolf | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-LykaonWolfbloody.jpg",
+        "description": "'The Lykaon Wolf was seen lurking around Lakonia, preying on man and beast alike. Kassandra would put an end to this predator for good.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "previous": "The Krokottas Hyena",
+        "next": "The Nemean Lion",
+        "source": "Kassandra",
+        "location": "Lakonia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Lykaon Wolf''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "As tasked by [[Daphnae]], the acting leader of the [[Daughters of Artemis]], Kassandra hunted down the fabled [[Lykaon Wolf]].",
+    "Section_Dialogue": "Kassandra made her way to the [[Dioskouroi Peninsula]] and found the massive [[wolf]] with the help of [[Ikaros]].\n*'''Kassandra:''' ''The size of it... That's no ordinary wolf!''\nKassandra engaged the wolf in an epic struggle. It occasionally howled for backup from its pack, but Kassandra defeated the lesser wolves as well as the legendary beast.\n\nKassandra returned to Daphnae to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n(\"I have the Lykaon Wolf pelt.\")\n*'''Kassandra:''' ''The pelt of the Lykaon Wolf.''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''A wolf is not only a vicious predator, but a cunning adversary. Many have fallen before it.''\n<tabber>\n|-|Expect the best from me.=\n*'''Kassandra:''' ''You'll come to expect this from me. The impossible made possible.''\n|-|Flirt \u2013 I've fallen for more than that.=\n*'''Kassandra:''' ''If I fall for something, it won't be a beast, but someone here on Chios.''\n*'''Daphnae:''' ''Don't talk of falling here. Rather think of ascending... to new heights.''\n</tabber>\n(Leave \u2013 \"I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''",
+    "Section_Outcome": "Kassandra slew the Lykaon Wolf and collected its pelt and head.",
+    "Section_Trivia": "*This quest may overlap with [[A Legendary Hunt]]. In that quest, King [[Archidamos of Sparta|Archidamos]] demands the beast's head as a consequence of not bringing a gift to the [[Kings of Sparta|first audience]] with the kings. The wolf's head is added as a quest item in anticipation of this contingency and does not affect the player's ability to yield the pelt, which is intended for [[Daphnae]]. As a result, the head is always looted whether or not 'A Legendary Hunt' is active.\n*Flirting with Daphnae assumes she has already relocated to [[Chios]], even if this pelt is given to her while she is still in Phokis.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.f",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to the [[Dioskouroi Peninsula]] and found the massive [[wolf]] with the help of [[Ikaros]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''The size of it... That's no ordinary wolf!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra engaged the wolf in an epic struggle. It occasionally howled for backup from its pack, but Kassandra defeated the lesser wolves as well as the legendary beast.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to Daphnae to deliver the pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(\"I have the Lykaon Wolf pelt.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The pelt of the Lykaon Wolf.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra handed the pelt over to Daphnae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Daphnae:''' ''A wolf is not only a vicious predator, but a cunning adversary. Many have fallen before it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|Expect the best from me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''You'll come to expect this from me. The impossible made possible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|Flirt \u2013 I've fallen for more than that.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''If I fall for something, it won't be a beast, but someone here on Chios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Daphnae:''' ''Don't talk of falling here. Rather think of ascending... to new heights.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O2",
+            "global_id": "18",
+            "content": "(Leave \u2013 \"I'll return soon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "Quest_Name": "The Weight of Sparta",
+    "Quest_ID": "232652",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Hades told Brasidas he was welcome to Elysium - all he had to do was confront his greatest enemy. But before he could, Kassandra had to help her old friend feel like the Spartan warrior he once was.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Brasidas}}",
+        "previous": "I Don't Belong Here",
+        "next": "Kill Me Once, Shame on You",
+        "source": "Kassandra",
+        "location": "Forgotten Sepulchre, The Scorched Lands, the Underworld",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''The Weight of Sparta''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Hades told Brasidas he was welcome to Elysium - all he had to do was confront is greatest enemy. but before this could happen, Kassandra had to help her old friend feel like a true spartan again.",
+    "Section_Dialogue": "Kassandra made her way into the Forgotten Sepulcher.\n\n* '''Kassandra:''' ''Why would Brasidas's shield be in a place for dishonored warriors? He was the most honorable warrior I knew. It doesn't make sense.''\n\nKassandra arrived in a chamber with a locked door and multiple symbols on the walls.\n\n* '''Kassandra:''' ''The door is locked. I need to find a way in. These symbols might be the key to opening the door. There are too many possibilities. Maybe there's and answer deeper in the tomb.''\n\nKassandra made her way into the tomb, defeating enemies as she searched. She eventually came across an hourglass symbol on a wall.\n\n* '''Kassandra:''' ''The sands of time. Wonder what that means?''\n\nContinuing to explore, Kassandra found another symbol underwater.\n\n* '''Kassandra:''' ''Is that a symbol for the mind? Memories perhaps?''\n\nAfter continuing further in and solving some puzzles, Kassandra found the third symbol.\n\n* '''Kassandra:''' ''Water...People drink Lethe's water here in the underworld to forget. Water, time, the mind. It's another riddle. I should return to the door.''\n\nBack in the first chamber, Kassandra activated the three symbols on the walls to open the door.\n\n* '''Kassandra:''' ''Of course. This is the underworld. Drink the water, it makes you forget, your time spent living is lost. Clever.''\n\nAfter making it through more halls, Kassandra arrives in a chamber with three shields, a clean, new Spartan Shield, a Athenian Shield and an old battered Spartan Shield.\n\n* '''Kassandra:''' ''Three shields. Now, which one belongs to Brasidas?''\n\nKassandra chose the battered shield.\n\n* '''Kassandra:''' ''Brasidas's Shield.''\n\nKassandra returned to Brasidas.\n\n* '''Kassandra:''' ''Your shield, General.''\n* '''Brasidas:''' ''I'll never forget the day this was first handed to me. I was a boy, it was as tall as I was. My commander told me, To hold this is to hold up Sparta. Drop it, and Sparta falls.''\n\nKassandra nodded. A look of concern started to appear on Brasidas's face, looking out at the underworld.\n\n* '''Brasidas:''' ''Tell me what Elysium's like.''\n* '''Kassandra:''' ''It isn't what you think. It's...Do you feel cold?''\nHades appeared behind them.\n* '''Hades:''' ''Elysium is boring.''\n* '''Kassandra:''' ''Not since I showed up.''\nHades floated toward Kassandra.\n* '''Hades:''' ''Ah yes. You do have a knack for livening things up wherever you go.''\nHades turned to Brasidas.\n\n* '''Hades:''' ''Still dreaming of paradise I see. Well, no one wants you to get what you deserve more than me. I'm glad you two have found each other. We could all use a little help from time to time. Well, you've got your shield. Are you ready to face your enemy?''\n* '''Brasidas:''' ''I am.''\nHades gestured to the battlefield behind him.",
+    "Section_Outcome": "Kassandra recovered [[Brasidas]]' shield.",
+    "Section_Trivia": "*The solution to the door in the Forgotten Sepulchre is: Time (hourglass), mind (head in profile), water (three waves).\n*Brasidas' shield is the right one of the three.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way into the Forgotten Sepulcher.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "* '''Kassandra:''' ''Why would Brasidas's shield be in a place for dishonored warriors? He was the most honorable warrior I knew. It doesn't make sense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra arrived in a chamber with a locked door and multiple symbols on the walls.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "* '''Kassandra:''' ''The door is locked. I need to find a way in. These symbols might be the key to opening the door. There are too many possibilities. Maybe there's and answer deeper in the tomb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Kassandra made her way into the tomb, defeating enemies as she searched. She eventually came across an hourglass symbol on a wall.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D3",
+            "global_id": "11",
+            "content": "* '''Kassandra:''' ''The sands of time. Wonder what that means?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "13",
+            "content": "Continuing to explore, Kassandra found another symbol underwater.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D4",
+            "global_id": "15",
+            "content": "* '''Kassandra:''' ''Is that a symbol for the mind? Memories perhaps?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "17",
+            "content": "After continuing further in and solving some puzzles, Kassandra found the third symbol.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D5",
+            "global_id": "19",
+            "content": "* '''Kassandra:''' ''Water...People drink Lethe's water here in the underworld to forget. Water, time, the mind. It's another riddle. I should return to the door.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "21",
+            "content": "Back in the first chamber, Kassandra activated the three symbols on the walls to open the door.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U11",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D6",
+            "global_id": "23",
+            "content": "* '''Kassandra:''' ''Of course. This is the underworld. Drink the water, it makes you forget, your time spent living is lost. Clever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "25",
+            "content": "After making it through more halls, Kassandra arrives in a chamber with three shields, a clean, new Spartan Shield, a Athenian Shield and an old battered Spartan Shield.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U13",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "27",
+            "content": "* '''Kassandra:''' ''Three shields. Now, which one belongs to Brasidas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "29",
+            "content": "Kassandra chose the battered shield.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D8",
+            "global_id": "31",
+            "content": "* '''Kassandra:''' ''Brasidas's Shield.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "33",
+            "content": "Kassandra returned to Brasidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U17",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D9",
+            "global_id": "35",
+            "content": "* '''Kassandra:''' ''Your shield, General.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "36",
+            "content": "* '''Brasidas:''' ''I'll never forget the day this was first handed to me. I was a boy, it was as tall as I was. My commander told me, To hold this is to hold up Sparta. Drop it, and Sparta falls.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U18",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "38",
+            "content": "Kassandra nodded. A look of concern started to appear on Brasidas's face, looking out at the underworld.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U19",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D11",
+            "global_id": "40",
+            "content": "* '''Brasidas:''' ''Tell me what Elysium's like.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "41",
+            "content": "* '''Kassandra:''' ''It isn't what you think. It's...Do you feel cold?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "42",
+            "content": "Hades appeared behind them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "43",
+            "content": "* '''Hades:''' ''Elysium is boring.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "44",
+            "content": "* '''Kassandra:''' ''Not since I showed up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "45",
+            "content": "Hades floated toward Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "46",
+            "content": "* '''Hades:''' ''Ah yes. You do have a knack for livening things up wherever you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "47",
+            "content": "Hades turned to Brasidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U20",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "49",
+            "content": "* '''Hades:''' ''Still dreaming of paradise I see. Well, no one wants you to get what you deserve more than me. I'm glad you two have found each other. We could all use a little help from time to time. Well, you've got your shield. Are you ready to face your enemy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "50",
+            "content": "* '''Brasidas:''' ''I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "51",
+            "content": "Hades gestured to the battlefield behind him.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

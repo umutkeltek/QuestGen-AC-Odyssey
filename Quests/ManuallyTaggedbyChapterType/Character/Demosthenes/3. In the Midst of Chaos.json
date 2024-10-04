@@ -1,0 +1,41 @@
+{
+    "QuestName": "In the Midst of Chaos",
+    "QuestID": "223688",
+    "Revision": {
+        "id": "1047447",
+        "parentid": "818256",
+        "timestamp": "2023-06-13T19:05:41Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047447",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "7xlmz0bofi2uc82do9bgksa1ryx6evw"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "The Wise Warrior",
+        "next": "Swift as Wind",
+        "description": "'Demosthenes, while an experienced tactician with many victories, was dogged by early failures. In removing Spartan Polemarch|leaders, he hoped to make clear his cunning.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "431\u2013422 BCE"
+    },
+    "General_Description": "'''In the Midst of Chaos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Demosthenes]] to recover [[Sparta]]n seals.",
+    "Section_Dialogue": "*'''Kassandra:\u00a0'''''I'll get you your seals.''\n*'''Demosthenes:\u00a0'''''Thank you.''\n*'''Kassandra:\u00a0'''''First, I have some questions.''\n(If players choose \"Who do you admire?\")\n*'''Kassandra:\u00a0'''''Who does a general like you look up to?''\n*'''Demosthenes:\u00a0'''''You know who was a true hero?''\n*'''Kassandra:\u00a0'''''I'm guessing you're about to tell me.''\n*'''Demosthenes:\u00a0'''''[[Odysseus]] . He used his wits to triumph. Wily Odysseus, they call him. Without him, the [[Trojan War|Trojan war]] would have been lost. And the other generals understood that.''\n(If players choose \"What do you see in your future?\")\n*'''Kassandra:\u00a0'''''What do you think your future holds?''\n*'''Demosthenes:\u00a0'''''Victory or death. You don't stay a general for long if you don't win battles.''\n*'''Kassandra:\u00a0'''''I suppose many generals die on the field.''\n*'''Demosthenes:\u00a0'''''Not the majority. The Athenian people are the greatest threat to a general's life. If you displease them, they'll remove you from office. Ostracize you. Or even condemn you to death.''\n*'''Kassandra:\u00a0'''''And you want this job?''\n*'''Demosthenes:\u00a0'''''There is no greater purpose than the glory of Athens. It's my duty and my honor.''\n(If players choose \"Why are you always here?\")\n*'''Kassandra:\u00a0'''''Why is it I always find you here?''\n*'''Demosthenes:\u00a0'''''[[Athena]] is the goddess of wisdom. And war. What better place for a general to ask for blessings?''\n*'''Kassandra:\u00a0'''''You don't seem very devout to me.''\n*'''Demosthenes:\u00a0'''''I'm not the first general in my family. My father was as well, and his father before him.''\n*'''Kassandra:\u00a0'''''You would have learned military thinking from a young age.''\n*'''Demosthenes:\u00a0'''''Exactly. My grandfather brought me here when I was a child. He stood me here and told me Athena was our patron. That we must always offer her our respect on the eve of war.''\n*'''Kassandra:\u00a0'''''He sounds like a wise man.''\n*'''Demosthenes:\u00a0'''''He was. He died in battle the next day.''\n*'''Kassandra:\u00a0'''''You come here to remember him.''\n*'''Demosthenes:\u00a0'''''And to remember that though the gods may be our patrons, they will not always protect us.''\n(Leave - \"I have what I need.\")\n*'''Kassandra:\u00a0'''''I know enough.''\n(If players already have the seals.)\n*'''Kassandra:''' ''Since you're being so polite, I already have them.''\n*'''Demosthenes:''' ''And the other generals dare to doubt me! There's no way Neon can take credit for this one.''\n*'''Kassandra:''' ''He's taken credit before?''\n*'''Demosthenes:''' ''You could say that. However, I'm the one who hired you. I have more work for you, if you're ready.''\nKassandra returns with the seals.\n*'''Demosthenes:\u00a0'''''Do you have my seals yet?''\n*'''Kassandra:\u00a0'''''Why yes, I do.''\n*'''Demosthenes:\u00a0'''''Good. The Spartans will soon realize someone is picking off their senior commanders.''\n*'''Kassandra:\u00a0'''''Probably, but they haven't caught me yet.''\n*'''Demosthenes:\u00a0'''''Interested in more work?''\n\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander recover three more polemarch seals and was rewarded with his [[Demosthenes' Hood|hood]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n*\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

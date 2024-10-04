@@ -1,0 +1,37 @@
+{
+    "QuestName": "Lore of the Sphinx",
+    "QuestID": "224241",
+    "Revision": {
+        "id": "957620",
+        "parentid": "888400",
+        "timestamp": "2021-07-14T18:20:29Z",
+        "contributor": null,
+        "origin": "957620",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "lr0g1hdy1ctu79jk7ppwt84aghbda6l"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-LotS-GorgiasSphinx.jpg",
+        "description": "'With her clue from Pythagoras, Kassandra journeyed to Boeotia to uncover the Prize of the Sphinx|Artifact supposedly hidden by the legendary Sphinx.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Gates of Atlantis",
+        "next": "Awaken the Myth",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Lore of the Sphinx''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following [[Pythagoras]]' suggestion, Kassandra made her way to curious [[Lair of the Sphinx|ruins]] south of [[Lake Kopais]] in [[Boeotia]].",
+    "Section_Dialogue": "Kassandra travelled to the forest hill north of the [[Scorched Rolling Plains]], arriving to a camp at the ruins situated on a cliff near the lake.\n*'''Kassandra:''' ''A camp. [[Gorgias (historian)|Gorgias]] must be nearby.''\nShe went past the camp to the stairs of the strange ruins, and saw a man taking notes while observing a statue of the Sphinx.\n*'''Kassandra:''' ''He must be the one Pythagoras mentioned. I need to talk to him.''\nAs she approached him, she noticed the statue and its surroundings.\n[[File:ACOD_Lore_of_the_Sphinx_-_Kassandra_Meeting_Gorgias.png|thumb|250px|Kassandra meeting Gorgias]]\n*'''Kassandra:''' ''The Lair of the Sphinx. Impressive.''\n*'''Gorgias:''' ''Oh my, a'' [[Mercenary#5th century BCE|misthios]].\n*'''Kassandra:''' ''What are you doing here?''\n*'''Gorgias:''' ''My name is Gorgias, and I have spent my life researching the past of Boeotia and the [[Peloponnese]].''\n*'''Kassandra:''' ''I'm looking for the other half of this [[Sphinx Medallion|amulet]].''\nKassandra showed him the broken half of an amulet that her father had given her.\n*'''Gorgias:''' ''Ah yes, I know of items like this. I was seeking a piece similar in size.''\n*'''Kassandra:''' ''Where is it?''\n*'''Gorgias:''' ''Unfortunately my [[Pibos|apprentice]] was the one tracking down its final location in [[Lokris]]. He went to retrieve it, but never returned.''\n\n<tabber>\n|-|Sounds like an easy job.=\n*'''Kassandra:''' ''I'll find your apprentice and recover the amulet piece without any trouble at all.''\n*'''Gorgias:''' ''Thank you. The [[Twelve Gods|gods]] have truly blessed me by sending you to help find Pibos.''\n|-|Maybe I can help.=\n*'''Kassandra:''' ''I will do everything I can to find your missing apprentice.''\n*'''Gorgias:''' ''I appreciate the help,'' misthios. ''I'm very worried about my Pibos.''\n</tabber>\n(If players choose \"Where was Pibos going?\")\n*'''Kassandra:''' ''Where was your apprentice heading?''\n*'''Gorgias:''' ''We heard rumors of a sighting near the [[Tomb of Menoikeus]], in Boeotia.''\n(If players choose \"What was Pibos investigating?\")\n*'''Kassandra:''' ''What was Pibos looking for?''\n*'''Gorgias:''' ''There was a cave discovered that might contain items of great significance. I sent him to validate the claims before I made the journey myself.''\n(Leave \u2013 \"That's all I need.\")\n*'''Kassandra:''' ''Don't worry, I'll find out what happened to Pibos.''\nKassandra rode southeast towards a [[Herbalist's Farm|farm]]. She scouted with [[Ikaros]] to find the tomb and the apprentice.\n*'''Kassandra:''' ''He's over there.''\nShe climbed the hill and examined Pibos' remains.\n*'''Kassandra:''' ''The creature that killed Pibos must have eaten the amulet.''\nNearby, at the foot of the hill, she found a [[lion]]'s den. The lion attacked her, but Kassandra defended herself, killing the lion. In the guts of the feline, she found the other half of the broken amulet, and fit the two pieces together.\n*'''Kassandra:''' ''These pieces fit together perfectly. This must be the key.''",
+    "Section_Outcome": "Kassandra located the second half of the medallion and completed it.",
+    "Section_Trivia": "* Under certain conditions, returning to the tomb after the lions respawn and killing them again can net you an additional Sphinx Medallion Fragment.",
+    "Section_Gallery": "<gallery widths=\"180\" position=\"center\" captionalign=\"center\">\nACOd-LotS-PibosMenoikeus.jpg|Pibos at the Tomb of Menoikeus\nACOd-LotS-Kasslion.jpg|Kassandra fighting the lion\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

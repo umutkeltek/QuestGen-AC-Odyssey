@@ -1,0 +1,417 @@
+{
+    "Quest_Name": "Qamra, Medicine Woman",
+    "Quest_ID": "224064",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After workers in a Vineyard, Lesbos|vineyard on Lesbos fell ill, Kassandra was hired to find the local Doctor|physician's tools and medicine.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Waiting for Galarnos",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Qamra, Medicine Woman''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a physician who requested her to find his tools and medicine.",
+    "Section_Dialogue": "Kassandra reached a [[Vineyard, Lesbos|Vineyard]] on the island of [[Lesbos]], and overheard a farmer lamenting an ill turn of events, and a [[Doctor|healer]], [[Qamra]], trying to assuage him.\n*'''Farmer:''' ''What are we going to do...''\n*'''Nurse:''' ''Don't worry, its curable.''\nKassandra approached them.\n*'''Kassandra:''' ''What's wrong?''\n*'''Farmer:''' ''My workers are sick! At this rate, I won't be able to feed my own family, never mind theirs.''\n*'''Nurse:''' ''The good news is this isn't the work of the gods, but a sickness of the body\u2014the throat in particular. I could treat the workers... if I had my medical supplies.''\nShe turned to Kassandra.\n*'''Nurse:''' [[Mercenary|Misthios]]''... Would you get them for me?''\n\n<tabber>\n|-|My services aren't cheap.=\n*'''Kassandra:''' ''If you'll pay my fee... The health of your workers depends on it.''\n*'''Nurse:''' ''I'd have hoped the wellbeing of these people would be payment enough.''\n*'''Farmer:''' ''Yes, yes. Of course I'll reward you. Will you do it?''\n|-|I'm happy to help.=\n*'''Kassandra:''' ''I wouldn't want them to suffer.''\n*'''Nurse:''' ''Well said. Such goodwill deserves a reward, doesn't it?''\n*'''Farmer:''' ''Hmm... ? Oh! Of course. Of course. I have something worthwhile to trade for the service. Will you do it?''\n</tabber>\n\n:(Already found supplies and tools)\n:*'''Kassandra:''' ''I think I might just have what you're looking for.''\n:*'''Nurse:''' ''There's no way you could have\u2014''\n:*'''Kassandra:''' ''See for yourself.''\n:(Dialogue continues at \"Thank you. These are specialized items...\")\n\n(Accept \u2013 \"I'll get the supplies.\")\n*'''Kassandra:''' ''I'll find your supplies.''\n*'''Nurse:''' ''Excellent. My tools are in [[Ancient Pearl]], and the [[Medicine|drugs]] are in [[Lover's Bay]].''\n(If players choose \"Where in Ancient Pearl are your tools?\")\n*'''Kassandra:''' ''Ancient Pearl is pretty big. Where exactly did you leave your tools?''\n*'''Nurse:''' ''In the clinic at [[Vrisa Fort]].''\n(If players choose \"Where in Lover's Bay is the medicine?\")\n*'''Kassandra:''' ''Where exactly in Lover's Bay should I look?''\n*'''Farmer:''' ''At the [[Leader House, Petrified Islands|Leader House]] in [[Mytilene]], northeast of the [[Artemis Temple|temple]].''\n(Leave \u2013 \"I'll go now.\")\n*'''Kassandra:''' ''I'll come back with your supplies.''\n*'''Nurse:''' ''The faster you do, the sooner I can help the workers.''\nKassandra took her leave of the two. On her way off the vineyard grounds, she decided to take care of this immediately.\n*'''Kassandra:''' ''I'll go get the tools and drugs.''\nKassandra made her way south to Vrisa Fort. [[Ikaros]] surveyed the courtyards and found the clinic.\n*'''Kassandra:''' ''That must be Vrisa Fort.''\nKassandra infiltrated the fort and obtained the tools.<br />\n(Medical Tools obtained first)\n*'''Kassandra:''' ''The drugs are in the Leader House.''\n(Medical Tools obtained second)\n*'''Kassandra:''' ''The physician's tools.''\n*'''Kassandra:''' ''I have what the physician asked for. I should take it back to the vineyard.''\nKassandra made her way to the Leader House. Ikaros identified it at a glance.\n*'''Kassandra:''' ''The Leader House.''\nKassandra infiltrated the Leader House and swiped the medicine from his bedchamber.<br />\n(Medicine obtained first)\n*'''Kassandra:''' ''She said the medical tools are in Vrisa Fort...''\n(Medicine obtained second)\n*'''Kassandra:''' ''These must be the drugs the physician wanted.''\n*'''Kassandra:''' ''I have what the physician asked for. I should take it back to the vineyard.''\nWith both items obtained, Kassandra returned to the Vineyard and handed the items to Qamra.\n*'''Kassandra:''' ''I found your supplies.''\n*'''Nurse:''' ''Thank you. These are specialized items\u2014I couldn't have replaced them in time.''\n*'''Farmer:''' ''My [[grape]]s are saved!''\n*'''Kassandra:''' ''I get the feeling that's all you've cared about from the start.''\n*'''Farmer:''' ''Without grapes, there's no work. By healing the workers, you've saved my farm! Take this.''\nKassandra was given a [[Medicinal Sash|sash]] as a reward.",
+    "Section_Outcome": "Kassandra recovered the tools and supplies the nurse needed to heal the vineyard workers.",
+    "Section_Trivia": "*The name of the memory is a homage to the American series ''{{Wiki|Dr. Quinn, Medicine Woman}}''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Petrified Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra reached a [[Vineyard, Lesbos|Vineyard]] on the island of [[Lesbos]], and overheard a farmer lamenting an ill turn of events, and a [[Doctor|healer]], [[Qamra]], trying to assuage him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Farmer:''' ''What are we going to do...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Nurse:''' ''Don't worry, its curable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra approached them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What's wrong?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Farmer:''' ''My workers are sick! At this rate, I won't be able to feed my own family, never mind theirs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Nurse:''' ''The good news is this isn't the work of the gods, but a sickness of the body\u2014the throat in particular. I could treat the workers... if I had my medical supplies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "She turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Nurse:''' [[Mercenary|Misthios]]''... Would you get them for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|My services aren't cheap.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''If you'll pay my fee... The health of your workers depends on it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Nurse:''' ''I'd have hoped the wellbeing of these people would be payment enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Farmer:''' ''Yes, yes. Of course I'll reward you. Will you do it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|I'm happy to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I wouldn't want them to suffer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Nurse:''' ''Well said. Such goodwill deserves a reward, doesn't it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Farmer:''' ''Hmm... ? Oh! Of course. Of course. I have something worthwhile to trade for the service. Will you do it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "20",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "22",
+            "content": ":(Already found supplies and tools)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N5",
+            "global_id": "23",
+            "content": ":*'''Kassandra:''' ''I think I might just have what you're looking for.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "24",
+            "content": ":*'''Nurse:''' ''There's no way you could have\u2014''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "25",
+            "content": ":*'''Kassandra:''' ''See for yourself.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "26",
+            "content": ":(Dialogue continues at \"Thank you. These are specialized items...\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "28",
+            "content": "(Accept \u2013 \"I'll get the supplies.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I'll find your supplies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "30",
+            "content": "*'''Nurse:''' ''Excellent. My tools are in [[Ancient Pearl]], and the [[Medicine|drugs]] are in [[Lover's Bay]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "31",
+            "content": "(If players choose \"Where in Ancient Pearl are your tools?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Ancient Pearl is pretty big. Where exactly did you leave your tools?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "33",
+            "content": "*'''Nurse:''' ''In the clinic at [[Vrisa Fort]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "34",
+            "content": "(If players choose \"Where in Lover's Bay is the medicine?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Where exactly in Lover's Bay should I look?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "36",
+            "content": "*'''Farmer:''' ''At the [[Leader House, Petrified Islands|Leader House]] in [[Mytilene]], northeast of the [[Artemis Temple|temple]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "37",
+            "content": "(Leave \u2013 \"I'll go now.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll come back with your supplies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "39",
+            "content": "*'''Nurse:''' ''The faster you do, the sooner I can help the workers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "40",
+            "content": "Kassandra took her leave of the two. On her way off the vineyard grounds, she decided to take care of this immediately.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I'll go get the tools and drugs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "42",
+            "content": "Kassandra made her way south to Vrisa Fort. [[Ikaros]] surveyed the courtyards and found the clinic.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''That must be Vrisa Fort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "44",
+            "content": "Kassandra infiltrated the fort and obtained the tools.<br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O3",
+            "global_id": "45",
+            "content": "(Medical Tools obtained first)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''The drugs are in the Leader House.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "47",
+            "content": "(Medical Tools obtained second)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''The physician's tools.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''I have what the physician asked for. I should take it back to the vineyard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "50",
+            "content": "Kassandra made her way to the Leader House. Ikaros identified it at a glance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''The Leader House.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "52",
+            "content": "Kassandra infiltrated the Leader House and swiped the medicine from his bedchamber.<br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O5",
+            "global_id": "53",
+            "content": "(Medicine obtained first)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''She said the medical tools are in Vrisa Fort...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O6",
+            "global_id": "55",
+            "content": "(Medicine obtained second)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''These must be the drugs the physician wanted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''I have what the physician asked for. I should take it back to the vineyard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "58",
+            "content": "With both items obtained, Kassandra returned to the Vineyard and handed the items to Qamra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''I found your supplies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "60",
+            "content": "*'''Nurse:''' ''Thank you. These are specialized items\u2014I couldn't have replaced them in time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "61",
+            "content": "*'''Farmer:''' ''My [[grape]]s are saved!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I get the feeling that's all you've cared about from the start.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "63",
+            "content": "*'''Farmer:''' ''Without grapes, there's no work. By healing the workers, you've saved my farm! Take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "64",
+            "content": "Kassandra was given a [[Medicinal Sash|sash]] as a reward.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

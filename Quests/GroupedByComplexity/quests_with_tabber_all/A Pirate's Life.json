@@ -1,0 +1,384 @@
+{
+    "Quest_Name": "A Pirate's Life",
+    "Quest_ID": "222910",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD A Pirate's Life memory screenshot 01.png",
+        "description": "'A Tekton|carpenter who lost his brother to Piracy|pirates agreed to join the crew and put his skills to use if Kassandra rescued his sibling.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Barnabas}}",
+        "source": "Kassandra",
+        "location": "Korinthian Gulf, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''A Pirate\u2019s Life''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While passing by the [[Isle of Thisvi]], Kassandra found a [[Tekton|man]] on a shipwreck near the shore of the island.",
+    "Section_Dialogue": "Kassandra alighted from the ''[[Adrestia]]'' and travelled to the shipwreck.\n*'''Tekton:''' ''Help! Please! Don't leave! I beg you!''\nKassandra approached the man.\n*'''Tekton:''' ''Oh, thank the gods you came!''\n*'''Kassandra:''' ''What happened? Where's the rest of your crew?''\n*'''Tekton:''' ''[[Piracy|Pirates]]. They killed most of us, but they took my brother! Please, you must help him!''\n<tabber>\n|-|Show me the drachmae.=\n*'''Kassandra:''' ''I\u2019m not about to risk my neck or ship for some sailor's brother. Unless of course there's some drachmae involved...''\n|-|I'll help you.=\n*'''Kassandra:''' ''I'll help you find your brother, sailor.''\n</tabber>\n*'''Tekton:''' ''I'm not a sailor, I'm a carpenter. So's my brother. Our father taught us.''\n*'''Kassandra:''' ''Interesting. Our ship could use a carpenter.''\n*'''Tekton:''' ''I've worked as a shipwright, repaired hulls with holes the size of [[Poseidon]]'s fist... Please, save my brother, and I'll join your crew.''\n*'''Kassandra:''' ''Then it's a deal.''\n<tabber>\n|-|Where can we find these pirates?=\n*'''Kassandra:''' ''Where can we find these pirates?''\n*'''Tekton:''' ''There is an [[Pirate Island|island]] west of [[Boeotia]] and south of [[Mount Helikon]]. I hear they sail from there.''\n|-|What else can you tell me about them?=\n*'''Kassandra:''' ''Anything else that might help?''\n*'''Tekton:''' ''I don't know, it happened so fast. Because of the [[Peloponnesian War|war]], there's more pirates about than ticks on a [[Pig|sow]] these days, but their camp can't be far.''\n|-|Let's hunt some pirates.=\n*'''Kassandra:''' ''We'll find these pirates and rescue your brother.''\n</tabber>\nKassandra returned to the ''Adrestia'' with Tekton.\n*'''[[Barnabas]]:''' ''And?''\n*'''Kassandra:''' ''He's a carpenter. Pirates took his brother. He'll work for us if we rescue him.''\n*'''Barnabas:''' ''Then let's hunt some pirates! Put your backs into it, men! Row like the [[Cerberus]] is snapping at your heels!''\nThe ''Adrestia'' sailed to the island mentioned by Tekton. Kassandra swam to the island and infiltrated the pirate camp. She eliminated pirates and freed the wounded prisoner in the cage. Kassandra carried the prisoner to safety near a cliff.\n*'''Kassandra:''' ''Your brother sent me.''\n*'''Carpenter:''' ''That fool, always sending someone else to do his dirty work. How bad is it?''\n<tabber>\n|-|Lie \u2013 You'll pull through.=\n*'''Kassandra:''' ''You're going to be fine.''\n*'''Carpenter:''' ''You're kind. A terrible liar, but kind.''\n|-|You're not going to make it.=\n*'''Kassandra:''' ''The end is near.''\n*'''Carpenter:''' ''Never thought I'd die like this, stuck on some shit island... Pfft, I hate the sea.''\n</tabber>\n*'''Kassandra:''' ''What message should I give your brother?''\n*'''Carpenter:''' ''Tell that fool of a brother I... I...''\nThe carpenter died from his wounds. Kassandra returned to Tekton on the ''Adrestia''.\n*'''Tekton:''' ''Did you find my brother? Where is he?''\n<tabber>\n|-|Lie \u2013 He survived.=\n*'''Kassandra:''' ''To save his own life, he chose to work for the pirates. They would have killed him otherwise. There was nothing I could do.''\n*'''Tekton:''' ''What? My brother would rather die than work for pirates. Pirates killed our father last summer. He's hated everything about the sea since then. Tell me the truth!''\n*'''Kassandra:''' ''Your brother's dead. I didn't want to\u2014''\n*'''Tekton:''' ''You dare! You thought I was better thinking he lived than knowing the truth? I will not work for someone who holds the truth and family in so little regard! I need to go. I wish to be alone with my pain.''\n|-|He didn't make it.=\n*'''Kassandra:''' ''He didn't survive. I'm sorry.''\n*'''Tekton:''' ''No, no, no! I curse you, gods!''\n*'''Kassandra:''' ''There were no gods on that ship, only pirates.''\n*'''Tekton:''' ''I begged him to come on this trip. He hated the sea.''\n*'''Kassandra:''' ''A [[spear]] in my hand often helps me forget the pain. We'll put a hammer in yours if you honor your word.''\n*'''Tekton:''' ''Of course... There's nothing left for me here.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped Tekton to rescue his brother from pirates. His brother ultimately died from his injuries, leading Kassandra to report to Tekton about his fate.",
+    "Section_Trivia": "*Choosing to lie to Tekton about his brother's fate will cause the carpenter to rage at Kassandra and cause the mission to fail, thereby preventing Tekton from being recruited aboard the ''Adrestia''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Une vie de pirate]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Barnabas",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra alighted from the ''[[Adrestia]]'' and travelled to the shipwreck.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Tekton:''' ''Help! Please! Don't leave! I beg you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Tekton:''' ''Oh, thank the gods you came!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What happened? Where's the rest of your crew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Tekton:''' ''[[Piracy|Pirates]]. They killed most of us, but they took my brother! Please, you must help him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|Show me the drachmae.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I\u2019m not about to risk my neck or ship for some sailor's brother. Unless of course there's some drachmae involved...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|I'll help you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'll help you find your brother, sailor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Tekton:''' ''I'm not a sailor, I'm a carpenter. So's my brother. Our father taught us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Interesting. Our ship could use a carpenter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Tekton:''' ''I've worked as a shipwright, repaired hulls with holes the size of [[Poseidon]]'s fist... Please, save my brother, and I'll join your crew.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Then it's a deal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "18",
+            "content": "|-|Where can we find these pirates?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Where can we find these pirates?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Tekton:''' ''There is an [[Pirate Island|island]] west of [[Boeotia]] and south of [[Mount Helikon]]. I hear they sail from there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "21",
+            "content": "|-|What else can you tell me about them?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Anything else that might help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Tekton:''' ''I don't know, it happened so fast. Because of the [[Peloponnesian War|war]], there's more pirates about than ticks on a [[Pig|sow]] these days, but their camp can't be far.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "24",
+            "content": "|-|Let's hunt some pirates.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''We'll find these pirates and rescue your brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "26",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "27",
+            "content": "Kassandra returned to the ''Adrestia'' with Tekton.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''[[Barnabas]]:''' ''And?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''He's a carpenter. Pirates took his brother. He'll work for us if we rescue him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Barnabas:''' ''Then let's hunt some pirates! Put your backs into it, men! Row like the [[Cerberus]] is snapping at your heels!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "31",
+            "content": "The ''Adrestia'' sailed to the island mentioned by Tekton. Kassandra swam to the island and infiltrated the pirate camp. She eliminated pirates and freed the wounded prisoner in the cage. Kassandra carried the prisoner to safety near a cliff.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Your brother sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Carpenter:''' ''That fool, always sending someone else to do his dirty work. How bad is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "34",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "35",
+            "content": "|-|Lie \u2013 You'll pull through.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''You're going to be fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Carpenter:''' ''You're kind. A terrible liar, but kind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "38",
+            "content": "|-|You're not going to make it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''The end is near.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Carpenter:''' ''Never thought I'd die like this, stuck on some shit island... Pfft, I hate the sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "41",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D25",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''What message should I give your brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Carpenter:''' ''Tell that fool of a brother I... I...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "44",
+            "content": "The carpenter died from his wounds. Kassandra returned to Tekton on the ''Adrestia''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Tekton:''' ''Did you find my brother? Where is he?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "46",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "47",
+            "content": "|-|Lie \u2013 He survived.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''To save his own life, he chose to work for the pirates. They would have killed him otherwise. There was nothing I could do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "49",
+            "content": "*'''Tekton:''' ''What? My brother would rather die than work for pirates. Pirates killed our father last summer. He's hated everything about the sea since then. Tell me the truth!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Your brother's dead. I didn't want to\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "51",
+            "content": "*'''Tekton:''' ''You dare! You thought I was better thinking he lived than knowing the truth? I will not work for someone who holds the truth and family in so little regard! I need to go. I wish to be alone with my pain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "52",
+            "content": "|-|He didn't make it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''He didn't survive. I'm sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "54",
+            "content": "*'''Tekton:''' ''No, no, no! I curse you, gods!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''There were no gods on that ship, only pirates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "56",
+            "content": "*'''Tekton:''' ''I begged him to come on this trip. He hated the sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''A [[spear]] in my hand often helps me forget the pain. We'll put a hammer in yours if you honor your word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "58",
+            "content": "*'''Tekton:''' ''Of course... There's nothing left for me here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "59",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

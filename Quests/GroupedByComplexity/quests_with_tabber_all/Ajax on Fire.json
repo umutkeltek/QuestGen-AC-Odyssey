@@ -1,0 +1,543 @@
+{
+    "Quest_Name": "Ajax on Fire",
+    "Quest_ID": "231684",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'When the salt workers of Alponos needed rallying, and now they certainly did, none was so effective as Ajax the Lesser (imposter)|Ajax the Lesser. Surely with him on their side, the town would be safe.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "A Town in Need, Indeed",
+        "next": "A Horse, of Course<br />The Blind Blacksmith<br />A Town in Need, Indeed",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Ajax on Fire''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "Kassandra found and met the [[Ajax the Lesser (imposter)|Lokrian Ajax]], a man who claimed to be the reincarnation of [[Ajax the Lesser]].",
+    "Section_Dialogue": "Ajax mutters to himself as Kassandra approaches him.\n*'''Ajax the Lesser:''' ''This gods-forsaken helmet. I can't see'' anything ''in this stupid, good for nothing...''\n\nKassandra speaks to \"Ajax\".\n*'''Ajax the Lesser:''' ''An adorer! You simply must tell me. What do you think of the helmet? I just got it.''\n\n<tabber>\n|-|The helmet looks good.=\n*'''Kassandra:''' ''I think it's alright.''\n*'''Ajax the Lesser:''' ''I knew it! It's ancient, but it's like it was made for me.''\n|-|It fits your big head.=\n*'''Kassandra:''' ''It suits you. It makes your head look even bigger than it is.''\n*'''Ajax the Lesser:''' ''As it should! My head is my second best feature.''\n</tabber>\n\n*'''Kassandra:''' ''Whatever you say. You're the one who the villagers worship?''\n*'''Ajax the Lesser:''' ''I don't know about ''worship''. But they ''do'' call me Ajax.''\n*'''Kassandra:''' ''Then I'm bringing you back to Alponos. Pirates are coming, and I need someone to inspire the villagers to fight.''\n*'''Ajax the Lesser:''' ''Didn't you hear? Our ships were sunk by some crazed ''misthios''. Now bandits are banditing anyone going in or out village, and there's no one to stop them.''\n\n\n(I'll protect you.)\n*'''Kassandra:''' ''I'm the Eagle Bearer. Smart bandits know to stay away from me. Now let's go.''\n*'''Ajax the Lesser:''' ''You don't look anything like the other Eagle Bearer. Are you two a team or something?''\n*'''Kassandra:''' ''There is no other Eagle Bearer. He's an imposter, like you.''\n*'''Ajax the Lesser:''' ''If I'm an imposter, what am I doing with Ajax's... I mean, ''my'' helmet?''\n*'''Kassandra:''' ''That's Ajax's helmet?''\n*'''Ajax the Lesser:''' ''But of course. It gives the wearer immortality. I paid the other Eagle Bearer a fortune to find its whereabouts for me. Then, I set off to retrieve it, as any hero would. I was on my way back when -''\n*'''Kassandra:''' ''There ''is'' no other Eagle Bearer. Get that through your thick helmet!''\n\nThe duo eventually makes it back to Alponos.\n*'''Ajax the Lesser:''' ''Chaire, fair citizens of Alponos. Your great warrior, the eternal Ajax, has returned.''\n\nKassandra speaks to Ajax the Lesser.\n*'''Ajax the Lesser:''' ''People of Alponos, rise from your salt mills! Descend from the White Crystal Hills! Lokris is under attack!''\n\nThe crowd boos.\n*'''Ajax the Lesser:''' ''The great Ajax has returned, now with the true child of Zeus - the real Eagle Bearer!''\n\nThe following dialogue depends on which order Kassandra performs this, [[The Blind Blacksmith]], and [[A Horse, of Course]].\n<tabber>\n|-|No Other Quests Completed=\nIf neither The Blind Blacksmith nor A Horse, of Course have been completed...\n*'''Villager:''' ''You are not Ajax. And that is no more the actual Eagle Bearer than the last one!''\n|-|The Blind Blacksmith=\nIf only The Blind Blacksmith and not A Horse, of Course has been completed beforehand...\n*'''Villager:''' ''You are not Ajax. And that'' misthios ''squished poor old Kallipedes to bits!''\n|-|A Horse, of Course=\nIf A Horse, of Course has been completed at any point before this...\n*'''Villager:''' ''You are not Ajax. And that new Eagle Bearer pushed sweet Nikaia off a cliff with the general's steed!''\n</tabber>\n*'''Ajax the Lesser:''' ''Nonsense. I ''am'' Ajax reborn, and we will now prove to you I am immortal.''\n\n<tabber>\n|-|The pirates are coming.=\n*'''Kassandra:''' ''Enough! Prepare yourself, Lokrians. You must choose to stand and fight, or let the pirates invade and destroy your homes.''\n|-|This ''is'' the real Ajax. - Lie=\n*'''Kassandra:''' ''Enough! This man ''is'' Ajax reborn.''\n</tabber>\n\n*'''Ajax the Lesser:''' ''This'll be easier than I thought. Now, light me on fire.''\n*'''Kassandra:''' ''What?''\n*'''Ajax the Lesser:''' ''It's OK. This is a magical helmet. The other Eagle Bearer told me it would protect me. You light the fire. The people will see I'm immortal, and then they will eat out of our hands. No more.''\n\n<tabber>\n|-|I'll light you on fire.=\n*'''Kassandra:''' ''If you say so.''\n*'''Ajax the Lesser:''' ''I will now endure pure flame to show you the gods bless us. The gods... want us to rise to battle. And I'll prove it by surviving Athena's wrath. Any moment now, the Eagle Bearer will light me on fire. Right?''\nKassandra lights Ajax on fire.\n*'''Ajax the Lesser:''' ''Wah! It hurts! The helmet's not working! The helmet's not working!''\nAjax dies from the fire.\n*'''Kassandra:''' ''By the gods. This is going to be a long day.''\n|-|I won't do this.=\n*'''Kassandra:''' ''I am not lighting you on fire. That old helmet isn't magical, and you're ''not'' Ajax.''\n*'''Ajax the Lesser:''' ''How dare you? The last Eagle Bearer humiliated me in front of everyone, and now you are, too? ''\n\nAjax the Lesser attacks Kassandra.\n*'''Ajax the Lesser:''' ''I will not be humiliated again.''\n*'''Kassandra:''' ''Are you insane? I only wanted you to rally the villagers.''\n*'''Ajax the Lesser:''' ''My performance is more than some trick. I am Ajax immortal!''\n\nUnable to pacify Ajax, Kassandra is forced to kill him.\n*'''Kassandra:''' ''This could not have gone worse. That... That's not good.''\n</tabber>\nRegardless of the outcome, Kassandra is free to take his [[Poorly-Crafted Helmet]].",
+    "Section_Outcome": "Kassandra escorted Ajax the Lesser to the village of [[Alponos]]. While he tried to prove he was the real Ajax, and thus immortal, he was either burned to death by Kassandra or goaded into a fight to the death.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "One Really, Really Bad Day",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Ajax mutters to himself as Kassandra approaches him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Ajax the Lesser:''' ''This gods-forsaken helmet. I can't see'' anything ''in this stupid, good for nothing...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra speaks to \"Ajax\".",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Ajax the Lesser:''' ''An adorer! You simply must tell me. What do you think of the helmet? I just got it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|The helmet looks good.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I think it's alright.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Ajax the Lesser:''' ''I knew it! It's ancient, but it's like it was made for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|It fits your big head.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''It suits you. It makes your head look even bigger than it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Ajax the Lesser:''' ''As it should! My head is my second best feature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Whatever you say. You're the one who the villagers worship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Ajax the Lesser:''' ''I don't know about ''worship''. But they ''do'' call me Ajax.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Then I'm bringing you back to Alponos. Pirates are coming, and I need someone to inspire the villagers to fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Ajax the Lesser:''' ''Didn't you hear? Our ships were sunk by some crazed ''misthios''. Now bandits are banditing anyone going in or out village, and there's no one to stop them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U5",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "22",
+            "content": "(I'll protect you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I'm the Eagle Bearer. Smart bandits know to stay away from me. Now let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Ajax the Lesser:''' ''You don't look anything like the other Eagle Bearer. Are you two a team or something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''There is no other Eagle Bearer. He's an imposter, like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Ajax the Lesser:''' ''If I'm an imposter, what am I doing with Ajax's... I mean, ''my'' helmet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''That's Ajax's helmet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Ajax the Lesser:''' ''But of course. It gives the wearer immortality. I paid the other Eagle Bearer a fortune to find its whereabouts for me. Then, I set off to retrieve it, as any hero would. I was on my way back when -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''There ''is'' no other Eagle Bearer. Get that through your thick helmet!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "31",
+            "content": "The duo eventually makes it back to Alponos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Ajax the Lesser:''' ''Chaire, fair citizens of Alponos. Your great warrior, the eternal Ajax, has returned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "Kassandra speaks to Ajax the Lesser.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Ajax the Lesser:''' ''People of Alponos, rise from your salt mills! Descend from the White Crystal Hills! Lokris is under attack!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "36",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "37",
+            "content": "The crowd boos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Ajax the Lesser:''' ''The great Ajax has returned, now with the true child of Zeus - the real Eagle Bearer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "40",
+            "content": "The following dialogue depends on which order Kassandra performs this, [[The Blind Blacksmith]], and [[A Horse, of Course]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "41",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "42",
+            "content": "|-|No Other Quests Completed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N7",
+            "global_id": "43",
+            "content": "If neither The Blind Blacksmith nor A Horse, of Course have been completed...",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "44",
+            "content": "*'''Villager:''' ''You are not Ajax. And that is no more the actual Eagle Bearer than the last one!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "45",
+            "content": "|-|The Blind Blacksmith=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N8",
+            "global_id": "46",
+            "content": "If only The Blind Blacksmith and not A Horse, of Course has been completed beforehand...",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "47",
+            "content": "*'''Villager:''' ''You are not Ajax. And that'' misthios ''squished poor old Kallipedes to bits!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "48",
+            "content": "|-|A Horse, of Course=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N9",
+            "global_id": "49",
+            "content": "If A Horse, of Course has been completed at any point before this...",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "50",
+            "content": "*'''Villager:''' ''You are not Ajax. And that new Eagle Bearer pushed sweet Nikaia off a cliff with the general's steed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "51",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D24",
+            "global_id": "52",
+            "content": "*'''Ajax the Lesser:''' ''Nonsense. I ''am'' Ajax reborn, and we will now prove to you I am immortal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "53",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "54",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "55",
+            "content": "|-|The pirates are coming.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Enough! Prepare yourself, Lokrians. You must choose to stand and fight, or let the pirates invade and destroy your homes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "57",
+            "content": "|-|This ''is'' the real Ajax. - Lie=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''Enough! This man ''is'' Ajax reborn.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "59",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U11",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D27",
+            "global_id": "61",
+            "content": "*'''Ajax the Lesser:''' ''This'll be easier than I thought. Now, light me on fire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "63",
+            "content": "*'''Ajax the Lesser:''' ''It's OK. This is a magical helmet. The other Eagle Bearer told me it would protect me. You light the fire. The people will see I'm immortal, and then they will eat out of our hands. No more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "64",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "65",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "66",
+            "content": "|-|I'll light you on fire.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''If you say so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "68",
+            "content": "*'''Ajax the Lesser:''' ''I will now endure pure flame to show you the gods bless us. The gods... want us to rise to battle. And I'll prove it by surviving Athena's wrath. Any moment now, the Eagle Bearer will light me on fire. Right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "69",
+            "content": "Kassandra lights Ajax on fire.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "70",
+            "content": "*'''Ajax the Lesser:''' ''Wah! It hurts! The helmet's not working! The helmet's not working!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "71",
+            "content": "Ajax dies from the fire.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''By the gods. This is going to be a long day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "73",
+            "content": "|-|I won't do this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I am not lighting you on fire. That old helmet isn't magical, and you're ''not'' Ajax.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "75",
+            "content": "*'''Ajax the Lesser:''' ''How dare you? The last Eagle Bearer humiliated me in front of everyone, and now you are, too? ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "76",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "77",
+            "content": "Ajax the Lesser attacks Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "78",
+            "content": "*'''Ajax the Lesser:''' ''I will not be humiliated again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Are you insane? I only wanted you to rally the villagers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "80",
+            "content": "*'''Ajax the Lesser:''' ''My performance is more than some trick. I am Ajax immortal!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "81",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "82",
+            "content": "Unable to pacify Ajax, Kassandra is forced to kill him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''This could not have gone worse. That... That's not good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "84",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N14",
+            "global_id": "85",
+            "content": "Regardless of the outcome, Kassandra is free to take his [[Poorly-Crafted Helmet]].",
+            "segment_type": "Narrative"
+        }
+    ]
+}

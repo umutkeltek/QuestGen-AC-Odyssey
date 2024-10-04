@@ -1,0 +1,94 @@
+{
+    "Quest_Name": "Thank You, Mal\u00e1ka!",
+    "Quest_ID": "225281",
+    "Tags": {
+        "Tag_DISPLAYTITLE_Thank_You_Mal\u00e1ka_": {
+            "description": ""
+        },
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Thank You, 'Mal\u00e1ka'!",
+        "image": "ACOd-LotFB-Aiantidestreasure1.jpg",
+        "description": "'Kassandra received a letter addressed to her by Aiantides|Aiantides the Proud, who demanded she take his treasure...'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Side",
+        "next": "Again, Mal\u00e1ka?!|Again, 'Mal\u00e1ka'?!",
+        "source": "Kassandra",
+        "location": "Makedonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Thank You, ''Mal\u00e1ka''!''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found a letter from a [[Aiantides|villager]] who demanded she take his treasure.",
+    "Section_Dialogue": "Kassandra returned to [[Potidaia]], coming across a letter addressed to her near a cart.\n*'''Kassandra:''' ''Aiantides the Proud... Strange name.''\nShe read the letter.\n:'''Thank You, ''Mal\u00e1ka'''''<br />''[[Eagle]] Bearer, how dare you?! You saved me at the burning village and got away with it! I can't let that happen. I, Aiantides the Proud, will never be indebted to anyone! I've got to pay you back!<br /><br />I've hidden treasure for you between the pair of evergreen trees south of Potidaia, away from prying [[Iran|Persian]] eyes. Good luck, we're even now. My conscience is clear! Farewell... and I look forward to not seeing you again.''\n\nKassandra headed south Potidaia, Nearing the Location.\n\n'''Kassandra:''' ''What's this?''\n\nThere, she recovered a pouch left behind between the trees, inside containing [[drachmae]], goods, and a [[Carefully Crafted Helmet|helmet]].",
+    "Section_Outcome": "Kassandra collected the reward left behind by Aiantides, a villager she saved in Potidaia.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories relived using the Animus HR-8.5]]\n[[Category:Memories of Kassandra]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to [[Potidaia]], coming across a letter addressed to her near a cart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Aiantides the Proud... Strange name.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She read the letter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "4",
+            "content": ":'''Thank You, ''Mal\u00e1ka'''''<br />''[[Eagle]] Bearer, how dare you?! You saved me at the burning village and got away with it! I can't let that happen. I, Aiantides the Proud, will never be indebted to anyone! I've got to pay you back!<br /><br />I've hidden treasure for you between the pair of evergreen trees south of Potidaia, away from prying [[Iran|Persian]] eyes. Good luck, we're even now. My conscience is clear! Farewell... and I look forward to not seeing you again.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "6",
+            "content": "Kassandra headed south Potidaia, Nearing the Location.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "8",
+            "content": "'''Kassandra:''' ''What's this?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "10",
+            "content": "There, she recovered a pouch left behind between the trees, inside containing [[drachmae]], goods, and a [[Carefully Crafted Helmet|helmet]].",
+            "segment_type": "Narrative"
+        }
+    ]
+}

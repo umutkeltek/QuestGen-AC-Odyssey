@@ -1,0 +1,40 @@
+{
+    "QuestName": "Recollections",
+    "QuestID": "224119",
+    "Revision": {
+        "id": "1047158",
+        "parentid": "962509",
+        "timestamp": "2023-06-13T02:25:21Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047158",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "oc2hjitgbil70884fpuy8w0bph6oiqx"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'The collector sold all manner of trinkets, but Kassandra was only interested in the Minotaur.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World, Support",
+        "previous": "Full Circle",
+        "next": "Seeking Answers",
+        "source": "Kassandra",
+        "location": "Messara, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Recollections''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandrs sought out the [[collector]] on [[Ardos]]' advice.",
+    "Section_Dialogue": "Kassandra located the collector mentioned by Ardos in [[Gortyn]].\n*'''Kassandra:''' ''You must be the Hoarder?''\n*'''Collector:''' ''The Collector!''\n*'''Kassandra:''' ''Dust Collector, maybe.<br />I'm here about the [[Minotaur]].''\nThe man was visibly shaken by the name of the beast.\n*'''Collector:''' ''The... No, no, no, I don't\u2014I can't\u2014I don't know anything about the Minotaur!''\n*'''Kassandra:''' ''Ardos sent me. He says you know things.''\n*'''Collector:''' ''Ardos! The boy. Never talk to the boy. We all promised.''\n\n<tabber>\n|-|I'm no threat to you.=\n*'''Kassandra:''' ''I'm not here to break bones. I'm here for information. Give it to me and I'll be on my way.''\n*'''Collector:''' ''I'll answer your questions, but you won't ask the right one.''\n*'''Kassandra:''' ''Can we not play games?''\n*'''Collector:''' ''Fine. You're going to need [[Theseus]]'s [[Theseus' Breastplate|armor]], which I sold to be part of a collection at the [[Daidalos Fort|fort]].''\n|-|Threaten \u2013 Talk or bleed.=\n*'''Kassandra:''' ''What you saw has scarred you.<br>Those scars are starting to fade. Perhaps you'd like some fresh ones?''\n*'''Collector:''' ''No - please - I have answers! If you aim to survive that - that beast in the [[Labyrinth of Lost Souls|labyrinth]], I know what you'll need!''\n*'''Kassandra:''' ''Tell me your secret, \"Collector.\"''\n*'''Collector:''' ''The [[Theseus' Breastplate|armor]] of [[Theseus]] himself! It's the only thing that can withstand the beast. But it's not here, it's in the [[Daidalos Fort|fort]]. I had to sell it!''\n</tabber>\n*'''Kassandra:''' ''There's nothing wrong with my armor.''\n*'''Collector:''' ''[[Nikios]] thought his armor was the finest in the [[Greece|Greek]] world. He could have worn Theseus' when we found it, but I was the perfect fit. Minotaur struck me right in the chest... Should have died. But Nikios...?<br />Don't make Nikios' mistake: Wear Theseus' armor.''\n(If players choose \"What do you know about Ardos?\")\n*'''Kassandra:''' ''What do you know of the boy?''\n*'''Collector:''' ''Son of Nikios. Stubborn. A little shit.<br />His father's son.''\n*'''Kassandra:''' ''You remember him fondly enough, yet you refuse to speak to him.''\n*'''Collector:''' ''If I speak, he might not listen. The truth is armor against little,'' [[Mercenary|misthios]].\n(If players choose \"Who did you sell Theseus' armor to?\")\n*'''Kassandra:''' ''You said you sold Theseus' armor. Who has it?''\n*'''Collector:''' ''A military commander, stationed in the fort. He has a [[Daidalos Armory|cave]] filled with all sorts of prizes. The armor is his crown jewel.''\n*'''Kassandra:''' ''Sounds like a hard thing to part with.''\n*'''Collector:''' ''No. Easy. That armor... it would have saved Nikios. It would have saved the boy's father. Yet I wore it. I didn't deserve... The armor haunted me. No point keeping ghosts in my collection.''\n(\"Leave \u2013 I've heard enough\")\n*'''Kassandra:''' ''Breathe Collector, I've learned enough. If Theseus' armor is still in the fort, I'll find it.''\n*'''Collector:''' ''There are more pieces of Theseus' armor, I've only managed to attain two of them.<br />But someone stole one from me!<br />If you find it, you can have it, but give whoever took it a piece of my mind. And perhaps a piece of your blade.''\n\nKassandra made her way to Daidalos Fort, where the armor was kept at. \n*'''Kassandra:''' ''The hidden cave.''\n\nShe sneaked into the cave mentioned by the Collector. Within the cave, she found the armor set on its very own plinth.\n\n*'''Kassandra:''' ''Theseus' armor. It ''is'' real.<br />I wonder how many more pieces of Theseus' armor are there...''",
+    "Section_Outcome": "Kassandra recovered an armor allegedly won by the legendary hero Theseus.",
+    "Section_Trivia": "*Though Recollections isn't required to progress [[Of Minotaurs and Men]], the quest is required in order for Theseus' armor to spawn.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Collection de souvenirs]]"
+}

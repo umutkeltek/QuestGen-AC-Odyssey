@@ -1,0 +1,1063 @@
+{
+    "Quest_Name": "Brothers in Arms",
+    "Quest_ID": "224319",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Training Days",
+        "next": "Not My Mother's Daughter",
+        "image": "ACOD_Kassandra_talks_to_Theoros_about_what_happened.png",
+        "description": "'Kassandra's abilities had earned the respect of Iatrokles, the agoge master. He then entrusted her with finding two lost recruits\u00a0who disappeared mysteriously from their overnight camp.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "source": "Kassandra",
+        "location": "Chasms of Taygetos, Mount Taygetos, and Krypteia Training Grounds, Lakonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Brothers in Arms''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After besting the [[agoge]] master [[Iatrokles]], the [[Sparta]]n requested her help to look for two lost recruits\u00a0who disappeared mysteriously from their overnight camp.",
+    "Section_Dialogue": "*'''Iatrokles:''' ''Now that we know you can fight... I have a serious matter to discuss.''\n*'''Kassandra:''' ''Oh?''\n*'''Iatrokles:''' ''Two of my older students have gone missing, and I need someone I can trust to find them.''\n*'''Kassandra:''' ''They should know enough to take care of themselves...''\n*'''Iatrokles:''' ''Yes, but the world is full of unexpected dangers, and I cannot leave my charges to investigate properly.''\n<tabber>\n|-|I can look for the students.=\n*'''Kassandra:''' ''I can look for them. Tell me what I need to know.''\n|-|This isn't my problem.=\n*'''Kassandra:''' ''My duty was to bring [[Makarios]] here. I don't have time to help you now.''\nKassandra returned.\n*'''Iatrokles:''' ''Your help finding my missing students would be welcome.''\n(Back to dialogue choice one.)\n</tabber>\n(If players choose \"What were the students doing?\")\n*'''Kassandra:''' ''What were their last orders?''\n*'''Iatrokles:''' ''I had sent them to a lookout camp, where they were to survive on their own for a few days. It is up to them to treat it seriously... But when I went to check on them, there was no sign.''\n(If players choose \"What threats are in the area?\")\n*'''Kassandra:''' ''What dangers did you expect them to face?''\n*'''Iatrokles:''' ''The students learn to watch for [[wolf|wolves]] and [[bear]]s. But I saw no spoor.''\n*'''Kassandra:''' ''Perhaps a different sort of beast...''\n(Leave \u2013 \"I'll find the students.\")<br>\nIatrokles frowned.\n*'''Iatrokles:''' ''The two students who are missing are called [[Akamas]] and [[Theoros]].''\n*'''Kassandra:''' ''Theoros? [[Makarios]]' brother?''\n*'''Iatrokles:''' ''The same. I fear I have failed the [[Xanthe|magistrate]].''\n*'''Kassandra:''' ''I'll look at the campsite and see what I can find.''\nIf Iatrokles was spoken to again.\n*'''Iatrokles:''' ''Look at the [[Overnight camp|campsite]] where Theoros and Akamas were stationed and determine what happened to them.''\n[[File:ACOD Kassandra investigating the abandoned lookout campsite.png|thumb|250px|Kassandra finding Akamas' corpse]]\nKassandra went up the small cliff overlooking the training camp and located the campsite some thirty meters from the cliff. She started to investigate the empty campsite.\n*'''Kassandra:''' ''A burned patch. Someone dropped a torch in surprise.''\nBehind the tent she spotted a broken ''{{wiki|aspis}}'' with blood around it.\n*'''Kassandra:''' ''A lost shield... that is a bad omen.''\nA few paces west, a broken ''[[Spear|dory]]'' and [[Korinthian Helmet]] laid on the ground.\n*'''Kassandra:''' ''Signs of battle.''\nNearby, she found a corpse lying facedown with blood around the head.\n*'''Kassandra:''' ''A body. Hmm. He doesn't look much like Makarios or Xanthe. Must be the other boy.''\nShe searched along the rocky slopes of the mountain:\n*'''Kassandra:''' ''A trail... someone ran towards the mountain heights. Could be Theoros.''\nShe followed the intermittent trail of blood on the slopes of Mount Taygetos until finally sighting a [[Cave of Sorrows|cave]] that the trail led to. Kassandra entered the cave carefully, and saw three bandits, with Theoros tied up, kneeling.\n*'''Kassandra:''' ''Found him!''\nKassandra proceeded to fight the bandits.\n*'''Theoros:''' ''Gods be good, please untie me!''\nShe killed the first one.\n*'''Theoros:''' ''Have mercy! Cut me free!''\nShe eliminated the second bandit.\n*'''Theoros:''' ''Help me, before these murderers butcher me!''\nShe finally executed the leader. She untied Theoros and talked to him.\n*'''Theoros:''' ''My gratitude, warrior. I was certain I would not see another day.''\n*'''Kassandra:''' ''What's your name?''\n*'''Theoros:''' ''Theoros.''\n<tabber>\n|-|Your trainer will want to know what happened.=\n*'''Kassandra:''' ''Trainer Iatrokles will want to know what happened to you and your companion.''\n*'''Theoros:''' ''My age-mate, Akamas, was killed by these dogs when we saw them sneaking about in the night.''\n*'''Kassandra:''' ''And what happened to you?''\nTheoros spoke nervously.\n*'''Theoros:''' ''I fell in combat, and they dragged me here.''\n{{#tag:tabber|\nYou're lying. You ran away.=\n*'''Kassandra:''' ''I saw the battlefield. You ran as soon as your companion fell. A Spartan never drops his shield.''\n*'''Theoros:''' ''Curse you. Yes! I don't want to be a soldier, I never wanted to! All I wanted was a small boat, a small life. To fish and live in peace.''\n*'''Kassandra:''' ''A fisherman?! I came all this way for a coward?''\n*'''Theoros:''' ''So what? I didn't ask for this. It was forced upon me. A boy in Sparta has no other choice.''\n*'''Kassandra:''' ''Your mother and Makarios will be disgusted by you.''\n*'''Theoros:''' ''At least I'll be alive to pray for them and love them from afar. Thank you for my life, ''misthios'', but tell them I'm not coming back.''\nTheoros stayed in the cave.\n{{!}}-{{!}}\nYour brother will be impressed by your bravery.=\n*'''Kassandra:''' ''Your brother, Makarios, will be glad to see you alive. And he'll be impressed by your bravery.''\n*'''Theoros:''' ''Makarios is at the ''agoge?\n*'''Kassandra:''' ''I escorted him there myself, on behalf of your mother. He's a bright boy. Eager to learn from the brother he favors so much.''\n*'''Theoros:''' ''I don't know if I can face them all again...''\n*'''Kassandra:''' ''Of course you can. Remember, the trick is just to keep breathing. Put your body in a state of fearlessness, and your mind will be free of fear.''\nTheoros breathed quickly.\n*'''Theoros:''' ''I will try. I can't.''\nKassandra smiled and shook her head, then closed her eyes as she demonstrated.\n*'''Kassandra:''' ''Breathe. Release the fear.''\nTheoros followed suit.\n*'''Theoros:''' ''Yes. I feel it.''\n*'''Kassandra:''' ''Good! Your shield is where you left it. Collect it on your way back to the ''agoge.\nTheoros returned to the agoge training camp.\n}}\n|-|Your brother will be happy to hear you're alive.=\n*'''Kassandra:''' ''Your brother worships you and will be overjoyed to see you.''\n*'''Theoros:''' ''Makarios? Has the time come for him to join the ''agoge'' already?''\n*'''Kassandra:''' ''Yes, he already studies with Trainer Iatrokles.''\n*'''Theoros:''' ''Curse all of [[Mount Olympos|Olympos]]! He isn't ready for this.''\n{{#tag:tabber|\nYour brother needs you.=\n*'''Kassandra:''' ''The world is tough. But if we look out for those we love, we can shield them from at least a little harm.''\n*'''Theoros:''' ''I do not know that I can face my brother\u2014all my brothers\u2014again.''\n*'''Kassandra:''' ''Of course you can. Makarios worships you. But you can use that love to fuel your bravery and defeat your fear. Retrieve your shield from where you left it and return to the ''agoge''. Soon you'll embrace your brother again.''\n*'''Theoros:''' ''Thank you, my friend. I will! Please, tell my mother that her sons will do the family proud.''\nTheoros returned to the agoge training camp.\n{{!}}-{{!}}\nBe a man or a coward. Your choice.=\n*'''Kassandra:''' ''Will you be a Spartan and retrieve your shield and your place in the line, or will you run off and offend the gods, leaving your duty behind?''\nTheoros grew angry.\n*'''Theoros:''' ''If the gods are offended by my choices, they should never have put me in this skin! I never wanted to be a warrior.''\n*'''Kassandra:''' ''We do what we must in this world, not what we want.''\n*'''Theoros:''' ''I must leave Sparta, then, or else die by slow suicide. Thank you for my life, but tell my mother I won't return!''\nTheoros stayed in the cave.\n}}\n</tabber>\n\n(If players passed by the agoge training camp after encouraging Theoros.)\n\nKassandra returned with Theoros to the training camp. Theoros sat down with his brother, while Kassandra talked to the training master.\n*'''Kassandra:''' ''Trainer, from what I could tell, your two charges spotted bandits sneaking across the mountains in the night.''\nIatrokles appeared concerned.\n*'''Iatrokles:''' ''And? What happened then?''\n*'''Kassandra:''' ''Akamas fell, but I found Theoros, and helped him find his way back.''\n*'''Iatrokles:''' ''I'm sorry to hear of the fall of Akamas. But I suspect you've inspired Theoros to new heights. He will be a model for the younger ones to follow.''\n*'''Kassandra:''' ''May [[Zeus]] guide them.''\n(If players passed by the agoge training camp after reproaching Theoros.)\n*'''Kassandra:''' ''I have bad tidings for you, Trainer.''\n*'''Iatrokles:''' ''Let's have it. Better to take a hardship face-on than drag it out.''\n*'''Kassandra:''' ''Bandits were in the mountains. Akamas died trying to fight them. Theoros survived, but his spirit is broken. He has no will to fight.''\nIatrokles appeared disappointed.\n*'''Iatrokles:''' ''Akamas fell, and Theoros abandoned his duty? These are bitter fruits you bring me,'' misthios''. It will be up to Makarios to one day restore his family's honor for his brother's cowardice.''\n*'''Kassandra:''' ''As you say.''\n----\n[[File:ACOD Kassandra tells Xanthe the news of her sons.png|thumb|250px|Xanthe informed of her son's fate]]\nKassandra returned to Xanthe at [[Pitana]].\n*'''Xanthe:''' ''What do you have to share with me, ''misthios?\n(If players reproached Theoros.)\n*'''Kassandra:''' ''Magistrate Xanthe, I have black news for you. Your older son is lost.''\nXanthe is momentarily shocked.\n*'''Xanthe:''' ''Dead?''\n<tabber>\n|-|No, he deserted his duty.=\n*'''Kassandra:''' ''In the face of danger, Theoros abandoned his shield and fled his duty.''\nXanthe was appalled.\n*'''Xanthe:''' ''This is... hard news. A blow upon my heart. I do not thank you for your words, but they needed to be heard.''\n*'''Kassandra:''' ''Makarios has started his training at the ''agoge''. And who knows, maybe one day Theoros\u2014''\nXanthe was vexed.\n*'''Xanthe:''' ''I have but one son now, ''misthios''. To other matters.''\n|-|Yes, probably killed by bandits.=\n*'''Kassandra:''' ''Theoros and his age-mate, Akamas, were on overnight watch when they encountered a group of bandits. I found Akamas' corpse, but Theoros's body was gone. Lost to the mountains, or taken by wolves.''\nXanthe's expression hardened.\n*'''Xanthe:''' ''I see. His death will be an inspiration to his brother to train all the harder. My gratitude, Eagle Bearer, for this news. And the bandits?''\n*'''Kassandra:''' ''Dead and given to the crows.''\n*'''Xanthe:''' ''Good. Now, to other matters.''\n</tabber>\n\n(If players encouraged Theoros.)\n*'''Kassandra:''' ''Makarios is well placed at the ''agoge''. The trainer, Iatrokles, will be a hard taskmaster, but he will grow strong and brave.''\n*'''Xanthe:''' ''Gods willing, he'll find a way to endure and thrive. It is not easy to send one's heart into the world.''\n*'''Kassandra:''' ''He's eager and bright. And he has Theoros there to guide and inspire him. They will support each other.''\n*'''Xanthe:''' ''You demonstrate the wisdom of [[Athena]], Eagle Bearer. You are a blessing to this family.''\n\nNonetheless, Xanthe proceeded to tell Kassandra of other worries on her mind.\n*'''Xanthe:''' ''There are several in the region who could benefit from your presence, Eagle Bearer. Help them. Inspire them. And I'll reward you.''\n*'''Kassandra:''' ''Give me their names.''\n*'''Xanthe:''' ''The farm owner, [[Lanike]], as well as several of the town's important women\u2014[[Zita]], [[Damia]], and [[Zeuxo]].''\n(If players choose \"What do you know about the farm owner?\")\n*'''Kassandra:''' ''Who is this farm owner?''\n*'''Xanthe:''' ''Lanike runs the [[Amyklai Farm|farm]] for her family. Recently, it has been underperforming. She blames the gods and believes the land is cursed. But I wonder if she's too quick to punish her [[helot]]s.''\n(If players choose \"What does Zita need?\")\n*'''Kassandra:''' ''What does Zita need?''\n*'''Xanthe:''' ''Her daughter, [[Zopheras]], is as wild and headstrong as an untamed [[Horse|filly]]. Zita constantly prays for guidance, but I suspect Zopheras needs a more grounded hand to direct her.''\n(If players choose \"What is Damia's story?\")\n*'''Kassandra:''' ''What should I know about Damia?''\n*'''Xanthe:''' ''She has two precocious children who rule the roost in the [[agora]]. They reduce their tutors to tears and stir up their other age-mates. She is hoping you can instill some respect in them.''\n(If players choose \"What should I know about Zeuxo?\")\n*'''Kassandra:''' ''What can you tell me about Zeuxo?''\n*'''Xanthe:''' ''Her husband is off training for war, and she specifically requested an audience with you for help with something quite personal.''\n(Leave \u2013 \"I'll find the women.\")\n*'''Kassandra:''' ''I'll find them and see what they want of me.''\n*'''Xanthe:''' ''May the [[Kastor and Polydeukes|Dioskouri]] watch over your path.''",
+    "Section_Outcome": "After finding out what happened to Iatrokles' older students the night before at their lookout camp, Kassandra found and freed Theoros, Makarios' older brother, from a trio of bandits inside a cave at Mount Taygetos. She later returned to Xanthe to bring news about her sons and thanked her. Xanthe subsequently asks Kassandra to also help the other Lakonian women in and around Sparta.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lakonia",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Iatrokles:''' ''Now that we know you can fight... I have a serious matter to discuss.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Oh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Iatrokles:''' ''Two of my older students have gone missing, and I need someone I can trust to find them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''They should know enough to take care of themselves...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Iatrokles:''' ''Yes, but the world is full of unexpected dangers, and I cannot leave my charges to investigate properly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|I can look for the students.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I can look for them. Tell me what I need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|This isn't my problem.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''My duty was to bring [[Makarios]] here. I don't have time to help you now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "11",
+            "content": "Kassandra returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Iatrokles:''' ''Your help finding my missing students would be welcome.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "13",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "15",
+            "content": "(If players choose \"What were the students doing?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''What were their last orders?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Iatrokles:''' ''I had sent them to a lookout camp, where they were to survive on their own for a few days. It is up to them to treat it seriously... But when I went to check on them, there was no sign.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "18",
+            "content": "(If players choose \"What threats are in the area?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''What dangers did you expect them to face?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Iatrokles:''' ''The students learn to watch for [[wolf|wolves]] and [[bear]]s. But I saw no spoor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Perhaps a different sort of beast...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "22",
+            "content": "(Leave \u2013 \"I'll find the students.\")<br>",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "23",
+            "content": "Iatrokles frowned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Iatrokles:''' ''The two students who are missing are called [[Akamas]] and [[Theoros]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Theoros? [[Makarios]]' brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Iatrokles:''' ''The same. I fear I have failed the [[Xanthe|magistrate]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I'll look at the campsite and see what I can find.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "28",
+            "content": "If Iatrokles was spoken to again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Iatrokles:''' ''Look at the [[Overnight camp|campsite]] where Theoros and Akamas were stationed and determine what happened to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "30",
+            "content": "[[File:ACOD Kassandra investigating the abandoned lookout campsite.png|thumb|250px|Kassandra finding Akamas' corpse]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "31",
+            "content": "Kassandra went up the small cliff overlooking the training camp and located the campsite some thirty meters from the cliff. She started to investigate the empty campsite.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''A burned patch. Someone dropped a torch in surprise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "33",
+            "content": "Behind the tent she spotted a broken ''{{wiki|aspis}}'' with blood around it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''A lost shield... that is a bad omen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "35",
+            "content": "A few paces west, a broken ''[[Spear|dory]]'' and [[Korinthian Helmet]] laid on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Signs of battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "37",
+            "content": "Nearby, she found a corpse lying facedown with blood around the head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''A body. Hmm. He doesn't look much like Makarios or Xanthe. Must be the other boy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "39",
+            "content": "She searched along the rocky slopes of the mountain:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''A trail... someone ran towards the mountain heights. Could be Theoros.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "41",
+            "content": "She followed the intermittent trail of blood on the slopes of Mount Taygetos until finally sighting a [[Cave of Sorrows|cave]] that the trail led to. Kassandra entered the cave carefully, and saw three bandits, with Theoros tied up, kneeling.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Found him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "43",
+            "content": "Kassandra proceeded to fight the bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Theoros:''' ''Gods be good, please untie me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "45",
+            "content": "She killed the first one.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Theoros:''' ''Have mercy! Cut me free!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "47",
+            "content": "She eliminated the second bandit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Theoros:''' ''Help me, before these murderers butcher me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "49",
+            "content": "She finally executed the leader. She untied Theoros and talked to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Theoros:''' ''My gratitude, warrior. I was certain I would not see another day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''What's your name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "52",
+            "content": "*'''Theoros:''' ''Theoros.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "53",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "54",
+            "content": "|-|Your trainer will want to know what happened.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Trainer Iatrokles will want to know what happened to you and your companion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "56",
+            "content": "*'''Theoros:''' ''My age-mate, Akamas, was killed by these dogs when we saw them sneaking about in the night.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''And what happened to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "58",
+            "content": "Theoros spoke nervously.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "59",
+            "content": "*'''Theoros:''' ''I fell in combat, and they dragged me here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "60",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "61",
+            "content": "You're lying. You ran away.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I saw the battlefield. You ran as soon as your companion fell. A Spartan never drops his shield.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "63",
+            "content": "*'''Theoros:''' ''Curse you. Yes! I don't want to be a soldier, I never wanted to! All I wanted was a small boat, a small life. To fish and live in peace.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''A fisherman?! I came all this way for a coward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "65",
+            "content": "*'''Theoros:''' ''So what? I didn't ask for this. It was forced upon me. A boy in Sparta has no other choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Your mother and Makarios will be disgusted by you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Theoros:''' ''At least I'll be alive to pray for them and love them from afar. Thank you for my life, ''misthios'', but tell them I'm not coming back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "68",
+            "content": "Theoros stayed in the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "69",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "70",
+            "content": "Your brother will be impressed by your bravery.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''Your brother, Makarios, will be glad to see you alive. And he'll be impressed by your bravery.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "72",
+            "content": "*'''Theoros:''' ''Makarios is at the ''agoge?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I escorted him there myself, on behalf of your mother. He's a bright boy. Eager to learn from the brother he favors so much.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "74",
+            "content": "*'''Theoros:''' ''I don't know if I can face them all again...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''Of course you can. Remember, the trick is just to keep breathing. Put your body in a state of fearlessness, and your mind will be free of fear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "76",
+            "content": "Theoros breathed quickly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "77",
+            "content": "*'''Theoros:''' ''I will try. I can't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "78",
+            "content": "Kassandra smiled and shook her head, then closed her eyes as she demonstrated.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Breathe. Release the fear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "80",
+            "content": "Theoros followed suit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D48",
+            "global_id": "81",
+            "content": "*'''Theoros:''' ''Yes. I feel it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''Good! Your shield is where you left it. Collect it on your way back to the ''agoge.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "83",
+            "content": "Theoros returned to the agoge training camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "84",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "85",
+            "content": "|-|Your brother will be happy to hear you're alive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Your brother worships you and will be overjoyed to see you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "87",
+            "content": "*'''Theoros:''' ''Makarios? Has the time come for him to join the ''agoge'' already?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Yes, he already studies with Trainer Iatrokles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "89",
+            "content": "*'''Theoros:''' ''Curse all of [[Mount Olympos|Olympos]]! He isn't ready for this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "90",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "91",
+            "content": "Your brother needs you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''The world is tough. But if we look out for those we love, we can shield them from at least a little harm.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "93",
+            "content": "*'''Theoros:''' ''I do not know that I can face my brother\u2014all my brothers\u2014again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Of course you can. Makarios worships you. But you can use that love to fuel your bravery and defeat your fear. Retrieve your shield from where you left it and return to the ''agoge''. Soon you'll embrace your brother again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "95",
+            "content": "*'''Theoros:''' ''Thank you, my friend. I will! Please, tell my mother that her sons will do the family proud.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "96",
+            "content": "Theoros returned to the agoge training camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "97",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "98",
+            "content": "Be a man or a coward. Your choice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''Will you be a Spartan and retrieve your shield and your place in the line, or will you run off and offend the gods, leaving your duty behind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "100",
+            "content": "Theoros grew angry.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "101",
+            "content": "*'''Theoros:''' ''If the gods are offended by my choices, they should never have put me in this skin! I never wanted to be a warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''We do what we must in this world, not what we want.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "103",
+            "content": "*'''Theoros:''' ''I must leave Sparta, then, or else die by slow suicide. Thank you for my life, but tell my mother I won't return!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "104",
+            "content": "Theoros stayed in the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "105",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "106",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "107",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "108",
+            "content": "(If players passed by the agoge training camp after encouraging Theoros.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U2",
+            "global_id": "109",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N23",
+            "global_id": "110",
+            "content": "Kassandra returned with Theoros to the training camp. Theoros sat down with his brother, while Kassandra talked to the training master.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''Trainer, from what I could tell, your two charges spotted bandits sneaking across the mountains in the night.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "112",
+            "content": "Iatrokles appeared concerned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D63",
+            "global_id": "113",
+            "content": "*'''Iatrokles:''' ''And? What happened then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''Akamas fell, but I found Theoros, and helped him find his way back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "115",
+            "content": "*'''Iatrokles:''' ''I'm sorry to hear of the fall of Akamas. But I suspect you've inspired Theoros to new heights. He will be a model for the younger ones to follow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''May [[Zeus]] guide them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "117",
+            "content": "(If players passed by the agoge training camp after reproaching Theoros.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D67",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''I have bad tidings for you, Trainer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "119",
+            "content": "*'''Iatrokles:''' ''Let's have it. Better to take a hardship face-on than drag it out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''Bandits were in the mountains. Akamas died trying to fight them. Theoros survived, but his spirit is broken. He has no will to fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "121",
+            "content": "Iatrokles appeared disappointed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "122",
+            "content": "*'''Iatrokles:''' ''Akamas fell, and Theoros abandoned his duty? These are bitter fruits you bring me,'' misthios''. It will be up to Makarios to one day restore his family's honor for his brother's cowardice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''As you say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "124",
+            "content": "----",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "125",
+            "content": "[[File:ACOD Kassandra tells Xanthe the news of her sons.png|thumb|250px|Xanthe informed of her son's fate]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N27",
+            "global_id": "126",
+            "content": "Kassandra returned to Xanthe at [[Pitana]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "127",
+            "content": "*'''Xanthe:''' ''What do you have to share with me, ''misthios?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "128",
+            "content": "(If players reproached Theoros.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D73",
+            "global_id": "129",
+            "content": "*'''Kassandra:''' ''Magistrate Xanthe, I have black news for you. Your older son is lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N28",
+            "global_id": "130",
+            "content": "Xanthe is momentarily shocked.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D74",
+            "global_id": "131",
+            "content": "*'''Xanthe:''' ''Dead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "132",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "133",
+            "content": "|-|No, he deserted his duty.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D75",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''In the face of danger, Theoros abandoned his shield and fled his duty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N29",
+            "global_id": "135",
+            "content": "Xanthe was appalled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D76",
+            "global_id": "136",
+            "content": "*'''Xanthe:''' ''This is... hard news. A blow upon my heart. I do not thank you for your words, but they needed to be heard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "137",
+            "content": "*'''Kassandra:''' ''Makarios has started his training at the ''agoge''. And who knows, maybe one day Theoros\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N30",
+            "global_id": "138",
+            "content": "Xanthe was vexed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D78",
+            "global_id": "139",
+            "content": "*'''Xanthe:''' ''I have but one son now, ''misthios''. To other matters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "140",
+            "content": "|-|Yes, probably killed by bandits.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D79",
+            "global_id": "141",
+            "content": "*'''Kassandra:''' ''Theoros and his age-mate, Akamas, were on overnight watch when they encountered a group of bandits. I found Akamas' corpse, but Theoros's body was gone. Lost to the mountains, or taken by wolves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N31",
+            "global_id": "142",
+            "content": "Xanthe's expression hardened.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D80",
+            "global_id": "143",
+            "content": "*'''Xanthe:''' ''I see. His death will be an inspiration to his brother to train all the harder. My gratitude, Eagle Bearer, for this news. And the bandits?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''Dead and given to the crows.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "145",
+            "content": "*'''Xanthe:''' ''Good. Now, to other matters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "146",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "147",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C6",
+            "global_id": "148",
+            "content": "(If players encouraged Theoros.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D83",
+            "global_id": "149",
+            "content": "*'''Kassandra:''' ''Makarios is well placed at the ''agoge''. The trainer, Iatrokles, will be a hard taskmaster, but he will grow strong and brave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "150",
+            "content": "*'''Xanthe:''' ''Gods willing, he'll find a way to endure and thrive. It is not easy to send one's heart into the world.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "151",
+            "content": "*'''Kassandra:''' ''He's eager and bright. And he has Theoros there to guide and inspire him. They will support each other.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "152",
+            "content": "*'''Xanthe:''' ''You demonstrate the wisdom of [[Athena]], Eagle Bearer. You are a blessing to this family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "153",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N32",
+            "global_id": "154",
+            "content": "Nonetheless, Xanthe proceeded to tell Kassandra of other worries on her mind.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D87",
+            "global_id": "155",
+            "content": "*'''Xanthe:''' ''There are several in the region who could benefit from your presence, Eagle Bearer. Help them. Inspire them. And I'll reward you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "156",
+            "content": "*'''Kassandra:''' ''Give me their names.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "157",
+            "content": "*'''Xanthe:''' ''The farm owner, [[Lanike]], as well as several of the town's important women\u2014[[Zita]], [[Damia]], and [[Zeuxo]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "158",
+            "content": "(If players choose \"What do you know about the farm owner?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D90",
+            "global_id": "159",
+            "content": "*'''Kassandra:''' ''Who is this farm owner?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "160",
+            "content": "*'''Xanthe:''' ''Lanike runs the [[Amyklai Farm|farm]] for her family. Recently, it has been underperforming. She blames the gods and believes the land is cursed. But I wonder if she's too quick to punish her [[helot]]s.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "161",
+            "content": "(If players choose \"What does Zita need?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D92",
+            "global_id": "162",
+            "content": "*'''Kassandra:''' ''What does Zita need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "163",
+            "content": "*'''Xanthe:''' ''Her daughter, [[Zopheras]], is as wild and headstrong as an untamed [[Horse|filly]]. Zita constantly prays for guidance, but I suspect Zopheras needs a more grounded hand to direct her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C9",
+            "global_id": "164",
+            "content": "(If players choose \"What is Damia's story?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D94",
+            "global_id": "165",
+            "content": "*'''Kassandra:''' ''What should I know about Damia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "166",
+            "content": "*'''Xanthe:''' ''She has two precocious children who rule the roost in the [[agora]]. They reduce their tutors to tears and stir up their other age-mates. She is hoping you can instill some respect in them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C10",
+            "global_id": "167",
+            "content": "(If players choose \"What should I know about Zeuxo?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D96",
+            "global_id": "168",
+            "content": "*'''Kassandra:''' ''What can you tell me about Zeuxo?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D97",
+            "global_id": "169",
+            "content": "*'''Xanthe:''' ''Her husband is off training for war, and she specifically requested an audience with you for help with something quite personal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "170",
+            "content": "(Leave \u2013 \"I'll find the women.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D98",
+            "global_id": "171",
+            "content": "*'''Kassandra:''' ''I'll find them and see what they want of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D99",
+            "global_id": "172",
+            "content": "*'''Xanthe:''' ''May the [[Kastor and Polydeukes|Dioskouri]] watch over your path.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

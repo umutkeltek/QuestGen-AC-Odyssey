@@ -1,0 +1,351 @@
+{
+    "Quest_Name": "The Message, the Stick, and the Artist",
+    "Quest_ID": "225006",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_c": {
+            "description": "[[Phidias]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Message, the Stick, and the Artist 1.png",
+        "description": "'Phidias was convinced that Cult of Kosmos|those who sought to kill him in Athens had found him again. He had received a '{{Wiki|scytale}}', a Spartan tool for decoding secret messages. Kassandra agreed to unravel the mystery.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Side, Character {{c|Phidias}}",
+        "next": "Art Leading Life",
+        "source": "Kassandra",
+        "location": "Sanctuary of Olympia, Elis, Greece",
+        "date": "428 BCE"
+    },
+    "General_Description": "'''The Message, the Stick, and the Artist''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Phidias]] tasked Kassandra to look for the symbol on the [[Statue of Zeus, Olympia|Statue of Zeus]] in the [[Temple of Zeus, Olympia|Temple of Zeus]].",
+    "Section_Dialogue": "Kassandra found Phidias in his [[Phidias' Workshop, Olympia|workshop]] and greeted him.\n*'''Phidias:''' ''Ah, you are a welcome sight. Your beauty brings light into the darkness of what has become my life.''\n*'''Kassandra:''' ''It's good to see you too, Phidias.''\n*'''Phidias:''' ''Now this is important. No one saw you come here did they?''\n*'''Kassandra:''' ''No... Why?''\n*'''Phidias:''' ''You're sure you weren't followed. Good, good. They're out there, though. Watching, waiting...''\n(If \"Who's out there?\" is chosen.)\n*'''Kassandra:''' ''Who's after you?''\n*'''Phidias:''' ''The [[Cult of Kosmos]]. Remember [[Athens]]? They never stopped hunting me, Kassandra.''\n*'''Kassandra:''' ''Why would they be after you now?''\n*'''Phidias:''' ''They want me dead. Moving me here has only bought a little more time. I need your help.''\n*'''Kassandra:''' ''What makes you think you're in trouble now?''\n*'''Phidias:''' ''The other day I received a scytale, and a note.''\n*'''Kassandra:''' ''Someone left you a piece of wood and a letter... I can see why you're frightened.''\n*'''Phidias:''' ''Oh, it's so much more than that.''\n(If \"What's a scytale?\" is chosen)\n*'''Kassandra:''' ''What's so special about a stick?''\n*'''Phidias:''' ''It's not just any stick! The'' {{Wiki|scytale}} ''is used by the [[Sparta]]ns to send coded messages.''\n*'''Kassandra:''' ''OK, so let's talk about your stick.''\n*'''Phidias:''' Scytale''!''\n*'''Kassandra:''' ''All right,'' scytale''.''\n*'''Phidias:''' ''I need to get the code. Then I'll show you how it works.''\n(If \"What did the note say?\" is chosen.)\n*'''Kassandra:''' ''What did the message say?''\n*'''Phidias:''' ''Look to your art... The king of gods has a message to impart.''\n*'''Kassandra:''' ''Fantastic, that's not a message. It's barely passable as a riddle!''\n*'''Phidias:''' ''It's obvious, the king of gods.''\n*'''Kassandra:''' ''[[Jupiter|Zeus]]?''\n*'''Phidias:''' ''Yes, and what am I?''\n*'''Kassandra:''' ''There's so many answers to that, but I suppose you're a sculptor.''\n*'''Phidias:''' ''Exactly!''\n*'''Kassandra:''' ''So where do I need to go?''\n*'''Phidias:''' ''The [[Temple of Zeus, Olympia|Temple of Zeus]], of course! It's here in Olympia. The clue for the'' scytale ''should be around the statue.''\n(Accept \u2013 \"I'll help you.\")\n*'''Kassandra:''' ''OK. If it'll put your mind at rest, I'll help.''\n*'''Phidias:''' ''Thank you. Now hurry, and look to the statue of Zeus in his temple to find the message. Once I have the clue, I can decipher it with the'' scytale''.''\n*'''Kassandra:''' ''Don't worry, I'll be back as soon as I can.''\nKassandra left his workshop and went on her way to the Temple of Zeus.\n*'''Kassandra:''' ''Phidias is paranoid, but maybe it's not all in his mind...''\nInside the temple she saw the statue of Zeus.\n*'''Kassandra:''' ''This must be what Phidias was looking for.''\n[[File:ACOD The Message, the Stick, and the Artist 2.png|thumb|250px|Kassandra finding the symbol]]\nShe climbed on to the statue's lap and found a symbol then copied it.\n*'''Kassandra:''' ''I should get back to Phidias so he can decipher the message.''\nShe went back to his workshop and\u00a0handed the copy to Phidias. He quickly deciphered it.\n*'''Kassandra:''' ''So, what was the message? Did it give you the information you were looking for?''\n*'''Phidias:''' ''In a manner of speaking... The message you gave me, I wrapped it around the rod.''\nKassandra giggled.\n*'''Kassandra:''' ''You wrapped it around your rod?''\nPhidias eagerly answered.\n*'''Phidias:''' ''Yes, the'' scytale''! It's ingenious, the right message for the right rod. Wrap the cloth around it, and the letters should align, giving you the message.''\n*'''Kassandra:''' ''Yes, very interesting. But what did it say?''\n*'''Phidias:''' ''It's directions!''",
+    "Section_Outcome": "Kassandra helped Phidias to locate the symbol mentioned in a mysterious letter given to him, discovering it to be some sort of directions to a mystery.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Phidias",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found Phidias in his [[Phidias' Workshop, Olympia|workshop]] and greeted him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Phidias:''' ''Ah, you are a welcome sight. Your beauty brings light into the darkness of what has become my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''It's good to see you too, Phidias.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Phidias:''' ''Now this is important. No one saw you come here did they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''No... Why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Phidias:''' ''You're sure you weren't followed. Good, good. They're out there, though. Watching, waiting...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "7",
+            "content": "(If \"Who's out there?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Who's after you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Phidias:''' ''The [[Cult of Kosmos]]. Remember [[Athens]]? They never stopped hunting me, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Why would they be after you now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Phidias:''' ''They want me dead. Moving me here has only bought a little more time. I need your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''What makes you think you're in trouble now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Phidias:''' ''The other day I received a scytale, and a note.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Someone left you a piece of wood and a letter... I can see why you're frightened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Phidias:''' ''Oh, it's so much more than that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "16",
+            "content": "(If \"What's a scytale?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''What's so special about a stick?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Phidias:''' ''It's not just any stick! The'' {{Wiki|scytale}} ''is used by the [[Sparta]]ns to send coded messages.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''OK, so let's talk about your stick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "20",
+            "content": "*'''Phidias:''' Scytale''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''All right,'' scytale''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "22",
+            "content": "*'''Phidias:''' ''I need to get the code. Then I'll show you how it works.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "23",
+            "content": "(If \"What did the note say?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''What did the message say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "25",
+            "content": "*'''Phidias:''' ''Look to your art... The king of gods has a message to impart.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Fantastic, that's not a message. It's barely passable as a riddle!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "27",
+            "content": "*'''Phidias:''' ''It's obvious, the king of gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''[[Jupiter|Zeus]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "29",
+            "content": "*'''Phidias:''' ''Yes, and what am I?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''There's so many answers to that, but I suppose you're a sculptor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "31",
+            "content": "*'''Phidias:''' ''Exactly!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''So where do I need to go?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "33",
+            "content": "*'''Phidias:''' ''The [[Temple of Zeus, Olympia|Temple of Zeus]], of course! It's here in Olympia. The clue for the'' scytale ''should be around the statue.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "34",
+            "content": "(Accept \u2013 \"I'll help you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''OK. If it'll put your mind at rest, I'll help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "36",
+            "content": "*'''Phidias:''' ''Thank you. Now hurry, and look to the statue of Zeus in his temple to find the message. Once I have the clue, I can decipher it with the'' scytale''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Don't worry, I'll be back as soon as I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "38",
+            "content": "Kassandra left his workshop and went on her way to the Temple of Zeus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Phidias is paranoid, but maybe it's not all in his mind...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "40",
+            "content": "Inside the temple she saw the statue of Zeus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''This must be what Phidias was looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "42",
+            "content": "[[File:ACOD The Message, the Stick, and the Artist 2.png|thumb|250px|Kassandra finding the symbol]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "43",
+            "content": "She climbed on to the statue's lap and found a symbol then copied it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I should get back to Phidias so he can decipher the message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "45",
+            "content": "She went back to his workshop and\u00a0handed the copy to Phidias. He quickly deciphered it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''So, what was the message? Did it give you the information you were looking for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "47",
+            "content": "*'''Phidias:''' ''In a manner of speaking... The message you gave me, I wrapped it around the rod.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "48",
+            "content": "Kassandra giggled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''You wrapped it around your rod?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "50",
+            "content": "Phidias eagerly answered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "51",
+            "content": "*'''Phidias:''' ''Yes, the'' scytale''! It's ingenious, the right message for the right rod. Wrap the cloth around it, and the letters should align, giving you the message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Yes, very interesting. But what did it say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "53",
+            "content": "*'''Phidias:''' ''It's directions!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

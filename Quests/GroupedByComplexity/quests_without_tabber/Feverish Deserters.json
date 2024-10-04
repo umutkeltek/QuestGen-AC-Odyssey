@@ -1,0 +1,167 @@
+{
+    "Quest_Name": "Feverish Deserters",
+    "Quest_ID": "236795",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Feverish Deserters",
+        "description": "'An herbalist, anxious for the feverish deserters she had seen, claimed they would infect all in their path if they did not receive the medicine she had made.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Feverish Deserters''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An herbalist sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Deserting soldiers are spreading sickness in their path. They may not realize it. Please hurry, I need a mercenary quickly.''\nShe sought out the herbalist and addressed her.\n*'''Kassandra:''' ''I saw the message you left on the board. What's happening?''\n*'''Woman:''' ''A group of [[Sparta]]n deserters just passed through. They were feverish, probably contagious. I tried to help them, but they wouldn't stop.''\n*'''Kassandra:''' ''They sound like fools. But then again, they are deserters.''\n*'''Woman:''' ''I made up some ''[[St. John's wort|hypereikon]]'' extract to treat them. But it may already be too late.''\n*'''Kassandra:''' ''Too late?''\n*'''Woman:''' ''If they see reason and take the medicine in time, they might live.''\n*'''Kassandra:''' ''But if they don't, they're in for agonizing deaths.''\n*'''Woman:''' ''Yes. Them and anyone in the next town where they take leave.''\n*'''Kassandra:''' ''You want me to kill the Spartan deserters for their dishonor.''\n*'''Woman:''' ''Are you up for it?''\n(Accept - Those cowards are mine.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Thank you, ''misthios.\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra sought out the deserters and slew them before returning to the herbalist.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''I knew the gods intended us to meet. Please, take this.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the herbalist.",
+    "Section_Trivia": "*It is possible that this quest has Kassandra delivering the medicine to the soldiers/their commander, instead of killing the deserters.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Deserting soldiers are spreading sickness in their path. They may not realize it. Please hurry, I need a mercenary quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the herbalist and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I saw the message you left on the board. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''A group of [[Sparta]]n deserters just passed through. They were feverish, probably contagious. I tried to help them, but they wouldn't stop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''They sound like fools. But then again, they are deserters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''I made up some ''[[St. John's wort|hypereikon]]'' extract to treat them. But it may already be too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Too late?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''If they see reason and take the medicine in time, they might live.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''But if they don't, they're in for agonizing deaths.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Woman:''' ''Yes. Them and anyone in the next town where they take leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''You want me to kill the Spartan deserters for their dishonor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Woman:''' ''Are you up for it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Accept - Those cowards are mine.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''Thank you, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You can leave everything to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Kassandra sought out the deserters and slew them before returning to the herbalist.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Woman:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "21",
+            "content": "*'''Woman:''' ''I knew the gods intended us to meet. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

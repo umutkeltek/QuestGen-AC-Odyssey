@@ -1,0 +1,140 @@
+{
+    "Quest_Name": "Agamemnon's Symbol",
+    "Quest_ID": "229546",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Agamemnon's Symbol Memory Screenshot.png",
+        "description": "'Poor Theras was attacked for uncovering three symbols, one of which he found in the darkened tomb hiding King Agamemnon.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Three Symbols Entombed",
+        "next": "Eteokles's Symbol",
+        "source": "Kassandra, Layla Hassan",
+        "location": "Agamemnon's Tomb, Argolis, Greece",
+        "date": "c. 422 BCE<br />2018"
+    },
+    "General_Description": "'''Agamemnon's Symbol''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Argolis]] to look for the symbol in [[Agamemnon]] [[Agamemnon's Tomb|tomb]].",
+    "Section_Dialogue": "Kassandra arrived at the entrance to Agamemnon's Tomb, finding [[Aletheia]]'s image within.\n*'''Kassandra:''' ''There's Aletheia, waiting in Agamemnon's Tomb.''\n*'''Aletheia:''' ''Keeper. Come closer.''\nKassandra approached Aletheia.\n*'''Kassandra:''' ''Aletheia.''\n*'''Aletheia:''' ''You've discovered Agamemnon's Tomb, a place where the Heir of Memories, will find the symbol she seeks.''\n*'''Kassandra:''' ''So, what now?''\n*'''Aletheia:''' ''Now is relative. With this information, will the Heir open her eyes and unlock the symbol?''\n*'''Kassandra:''' ''She will now. So, do I just... wait here, or something?''\n*'''Aletheia:''' ''Our task is already complete. What comes next, she must do her own.''\n(Asked \"When will I meet the Heir?\")\n*'''Kassandra:''' ''I'm ready to meet the Heir now. When will I?''\n*'''Aletheia:''' ''You're understanding. What you do not know is that while you are yet to meet her, ''she'' already knows ''you'' very well.''\n(Asked \"What can the Staff do?\")\n*'''Kassandra:''' ''So, what do I ''do'' with the Staff?''\n*'''Aletheia:''' ''Keep it, and let it keep you. The Keeper's task is to never succumb to death. All those you will ever know, and all you will ever love, will die. Then you will learn to love again, and those will die too. But you will remain.''\n(Leave \u2013 \"That's all for now.\")\n*'''Kassandra:''' ''This was easy enough.''",
+    "Section_Outcome": "Kassandra found the tomb of [[Agamemnon]], allowing Layla Hassan, who relieved her memories, to locate and discover the symbol within.",
+    "Section_Trivia": "*The tombs use the same layout and maintain the same \"solved\" state between the protagonist's past and the modern day. Therefore, if the tomb has not been solved prior to this quest, the player will have to solve it while playing as Layla.\n:*This can trigger a glitch that disables the stele that confers an additional ability point upon returning to the Animus simulation, making the point unobtainable and the location unable to be cleared. This can be avoided by ignoring Aletheia until after the tomb is completed, but completing the entire \"Three Symbols Entombed\" quest umbrella seems to correct this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Heir of Memories",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived at the entrance to Agamemnon's Tomb, finding [[Aletheia]]'s image within.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There's Aletheia, waiting in Agamemnon's Tomb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Aletheia:''' ''Keeper. Come closer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra approached Aletheia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Aletheia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Aletheia:''' ''You've discovered Agamemnon's Tomb, a place where the Heir of Memories, will find the symbol she seeks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''So, what now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Aletheia:''' ''Now is relative. With this information, will the Heir open her eyes and unlock the symbol?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''She will now. So, do I just... wait here, or something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Aletheia:''' ''Our task is already complete. What comes next, she must do her own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "11",
+            "content": "(Asked \"When will I meet the Heir?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'm ready to meet the Heir now. When will I?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Aletheia:''' ''You're understanding. What you do not know is that while you are yet to meet her, ''she'' already knows ''you'' very well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "14",
+            "content": "(Asked \"What can the Staff do?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''So, what do I ''do'' with the Staff?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Aletheia:''' ''Keep it, and let it keep you. The Keeper's task is to never succumb to death. All those you will ever know, and all you will ever love, will die. Then you will learn to love again, and those will die too. But you will remain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Leave \u2013 \"That's all for now.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''This was easy enough.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

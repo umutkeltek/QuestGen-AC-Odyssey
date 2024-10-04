@@ -1,0 +1,175 @@
+{
+    "Quest_Name": "The Trap Is Set",
+    "Quest_ID": "228305",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Trap Is Set 4.png",
+        "description": "'With all the might and cunning she'd become known for, Kassandra dealt with Amorges's forces in Messenia and needed to reconvene with her ally, Darius.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Bloodline'",
+        "type": "Main, Support",
+        "previous": "The Spartan Dog",
+        "next": "The Last Magi",
+        "source": "Kassandra",
+        "location": "Messenia, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''The Trap Is Set''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with Darius in [[Aipeia]] after which she received a message from the Order, brought by [[Pebble]].",
+    "Section_Dialogue": "Having finished her traditional disruptions of Order activities, Kassandra returned to Darius' hideout in Aipeia to discuss the next phase of their plan.\n*'''Kassandra:''' ''We've weakened the Order. Now what?''\n*'''Darius:''' ''Now we move on to the next part of the plan.''\nDarius led her towards the exit.\n*'''Darius:''' ''We'll take the Order down under the cover of night. I have an Athenian general to speak with. I'll return to the lumberyard to prepare our next steps.''\nDarius left, and Kassandra turned to see a child enter.\n\n<tabber>\n|-|Children stayed in 'Command and Control'=\n[[File:ACOD_The_Trap_Is_Set_3.png|thumb|250px|Pebble handing the note to Kassandra]]\n*'''Kassandra:''' ''[[Pebble]]? It's not safe here.''\n*'''Pebble:''' ''I was asked to pass this to you, Eaglethunder. By a man in a mask.''\nKassandra accepted the note.\n*'''Kassandra:''' ''Pebble, you have to go. And don't speak to any more masked man [sic], understand? It's not safe.''\n*'''Pebble:''' ''Yes, Eaglethunder.''\nPebble walked off.\n|-|Children sent away=\n*'''Kassandra:''' ''What are you doing here, child?''\n*'''Helot Child:''' ''I have a note for you, Eagle Bearer. A man in a mask told me to take it to you.''\nKassandra accepted the note and the child walked off.\n</tabber>\n*'''Kassandra:''' ''Man with a mask...''\nShe unfurled the note.\n*'''Kassandra:''' ''\"Meet me at the graves in Aipeia.\" What is the Order up to?''",
+    "Section_Outcome": "Kassandra returned to Darius to make preparations for the final assasult on the Order. She was later given a note to meet one of the members of the Order.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Bloodline]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Le pi\u00e8ge est en place]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Having finished her traditional disruptions of Order activities, Kassandra returned to Darius' hideout in Aipeia to discuss the next phase of their plan.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''We've weakened the Order. Now what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Darius:''' ''Now we move on to the next part of the plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Darius led her towards the exit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Darius:''' ''We'll take the Order down under the cover of night. I have an Athenian general to speak with. I'll return to the lumberyard to prepare our next steps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Darius left, and Kassandra turned to see a child enter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Children stayed in 'Command and Control'=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "I1",
+            "global_id": "10",
+            "content": "[[File:ACOD_The_Trap_Is_Set_3.png|thumb|250px|Pebble handing the note to Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''[[Pebble]]? It's not safe here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Pebble:''' ''I was asked to pass this to you, Eaglethunder. By a man in a mask.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "13",
+            "content": "Kassandra accepted the note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Pebble, you have to go. And don't speak to any more masked man [sic], understand? It's not safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Pebble:''' ''Yes, Eaglethunder.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "16",
+            "content": "Pebble walked off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "|-|Children sent away=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''What are you doing here, child?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Helot Child:''' ''I have a note for you, Eagle Bearer. A man in a mask told me to take it to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "20",
+            "content": "Kassandra accepted the note and the child walked off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "21",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Man with a mask...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "23",
+            "content": "She unfurled the note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''\"Meet me at the graves in Aipeia.\" What is the Order up to?''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

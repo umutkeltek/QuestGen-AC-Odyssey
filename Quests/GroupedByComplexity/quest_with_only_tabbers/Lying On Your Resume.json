@@ -1,0 +1,171 @@
+{
+    "Quest_Name": "Lying On Your Resume",
+    "Quest_ID": "268066",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Thought and Deed",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Lying On Your Resume''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra answered the call of a mercenary.",
+    "Section_Dialogue": "Kassandra approached a civillian.\n*'''Kassandra:''' Chaire''. Can I help you with anything?''\n*'''[[Mercenary]]:''' ''I have a problem... I may have stretched the truth a bit to secure a mercenary contract... It might be a bit bigger job than I'm used to, if I'm honest.''\n*'''Kassandra:''' ''How ''much'' did you stretch the truth?''\n*'''Mercenary:''' ''I told the [[Sparta]]n commander I have sunk whole fleets of [[ship]]s before. So he sent me after the [[piracy|pirates]] in the area... and the [[Athens|Athenians]].''\n*'''Kassandra:''' ''You haven't ever sunk a ship, have you?''\n*'''Mercenary:''' ''I sank one, once. But it was mine. And I was in it.''\n*'''Kassandra:''' ''So I have to sink the Athenian fleet.''\n*'''Mercenary:''' ''You read me like an oracle.''\n<tabber>\n|-|I'll destroy them.=\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''I owe you one.''\n*'''Kassandra:''' ''I should get going.''\n|-|Find another misthios.=\n*'''Kassandra:''' ''Find another mistios...''\n</tabber>\nKassandra proceeded to board the [[Adrestia]] and sink five Athenian ships, returning to the mercenary shortly after.\n*'''Mercenary:''' ''Back already. Did you destroy them all?''\n*'''Kassandra:''' ''It would be back to piece them back together.''\n*'''Mercenary:''' ''Payment well earned, mercenary. Take this as thanks.''\nThe mercenary hendled her a bag of [[drachma]]e.\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra helped the mercenary.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached a civillian.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' Chaire''. Can I help you with anything?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''[[Mercenary]]:''' ''I have a problem... I may have stretched the truth a bit to secure a mercenary contract... It might be a bit bigger job than I'm used to, if I'm honest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''How ''much'' did you stretch the truth?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Mercenary:''' ''I told the [[Sparta]]n commander I have sunk whole fleets of [[ship]]s before. So he sent me after the [[piracy|pirates]] in the area... and the [[Athens|Athenians]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You haven't ever sunk a ship, have you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Mercenary:''' ''I sank one, once. But it was mine. And I was in it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''So I have to sink the Athenian fleet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Mercenary:''' ''You read me like an oracle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|I'll destroy them.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Woman:''' ''I owe you one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I should get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Find another misthios.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Find another mistios...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N2",
+            "global_id": "18",
+            "content": "Kassandra proceeded to board the [[Adrestia]] and sink five Athenian ships, returning to the mercenary shortly after.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Mercenary:''' ''Back already. Did you destroy them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It would be back to piece them back together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Mercenary:''' ''Payment well earned, mercenary. Take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "22",
+            "content": "The mercenary hendled her a bag of [[drachma]]e.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

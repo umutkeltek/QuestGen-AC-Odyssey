@@ -1,0 +1,377 @@
+{
+    "Quest_Name": "Pankration (memory)",
+    "Quest_ID": "224321",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Pankration | sport]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACO Pankration Memory Screenshot 04.png",
+        "description": "'Kassandra, having returned to the Pankration Stadium, Olympia|arena, needed to take the prize for Sparta by defeating the reigning champion Dorieus.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Long Game",
+        "next": "To Kill or Not to Kill",
+        "source": "Kassandra",
+        "location": "Sanctuary of Olympia, Elis, Greece",
+        "date": "428 BCE"
+    },
+    "General_Description": "'''Pankration''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra took part in her last [[pankration]] event against [[Dorieus]] in order to win the event for [[Sparta]].",
+    "Section_Dialogue": "Having tended to [[Alkibiades]], Kassandra returned to the organizer [[Paios]] at the [[Stadium, Olympia|Stadium]].\n*'''Paios:''' ''Your next opponent is Doreius\u2014claims to be descended from [[Herakles]] himself!''\n(Accept \u2013 \"Time to fight.\")\n*'''Kassandra:''' ''I'm ready.''\n*'''Paios:''' ''You ever faced an [[Olympic Games|Olympic]] champion before?''\n----\n(If players successfully concocted the body oil for [[Testikles]].)\n*'''Kassandra:''' ''No, but I've gotten this far.''\n*'''Paios:''' ''Well, you don't look the part\u2014you're not even oiled, for [[Zeus]]'s sake!''\n\n<tabber>\n|-|I have oil.=\n*'''Kassandra:''' ''I do have some oil. It could come in handy... and it smelled good. I'll use it.''\nPaios nodded in agreement.\n|-|I have no need for oil.=\n*'''Kassandra:''' ''Less talking. More fighting.''\n</tabber>\n----\n*'''Kassandra:''' ''I've fought all sorts of people... and they were with more than just their fists. Let me in there.''\nPaios shrugged as he led Kassandra inside the [[Stadium, Olympia|Stadium]] once again.\n:(If [[Kallias]] was not killed beforehand)\n:Before Kassandra could enter, she encountered Kallias, a member of the [[Cult of Kosmos]] whom she deduced had poisoned Alkibiades. They exchanged words with an undertone of hostile intent.\n:*'''Kassandra:''' ''Come to wish me luck?''\n:*'''Kallias:''' ''Of course, and if you win you should come dine with me sometime.''\n:*'''Kassandra:''' ''Maybe I'll hunt you down after the event... To take you up on your offer.''\n:Kassandra walked up to the towering Kallias, who squinted down at her and her choice of words.\n:*'''Kallias:''' ''Of course... after the event.''\n:Kallias walked away.\nKassandra entered the Stadium to change into her athlete outfit. She took her mark in the arena, and [[Leander]] walked out to greet her.\n:(If players chose to apply the body oil to Kassandra.)\n:*'''Leander:''' ''Huh. You smell better than last time.''\n*'''Kassandra:''' ''Let's get this over with.''\n*'''Leander:''' ''For [[Hera]]!''\nLeander turned and walked back to the crowd.\n*'''Leander:''' ''We've seen our esteemed newcomer rise quickly to become a contender...''\n*'''Leander:''' ''But let's see how she goes against our reigning champion... Doreius!''\n[[File:ACO Pankration Memory Screenshot 01.png|thumb|250px|Kassandra and Dorieus before the fight]]\nThe brutish Dorieus entered the arena and gesticulated. He took his mark, stretched his shoulders, and the final round began.\n\nAs the fight started, Kassandra landed a few blows on Dorieus.\n*'''Leander:''' ''By the gods!''\nDorieus' size did not encumber his dodging, however. He hit back as good as he got.\n*'''Dorieus:''' ''I will suck the marrow from your bones!''\n*'''Kassandra:''' ''You'll have to try harder if you want to live!''\nDorieus continued his assault.\n*'''Dorieus:''' ''I hope you like pain.''\nIn time, Kassandra turned the tide on her opponent.\n*'''Leander:''' ''Just one mistake can change everything!''\nAfter a challenging exchange, Kassandra finally overwhelmed Dorieus.\n*'''Leander:''' ''Victory! [[Nike]]!''\n[[File:ACO Pankration Memory Screenshot 03.png|thumb|250px|The coronation ceremony]]\nThe crowded applauded. Kassandra clasped her hands and bowed, then applauded her performance. The crowd later gathered at the [[Olympic Tree]] to witness Leander crown Kassandra as the pre-eminent Olympic champion, and [[Sparta]] as the overall winner.\n*'''Leander:''' ''The gods have looked kindly on these, our champions... but there can only be one winner!''\n*'''Leander:''' ''SPARTA!!!''\nKassandra walked up to Leander, with the crowd cheering behind. She turned around to be coronated with an [[olive]] {{Wiki|Olive wreath|wreath}}.\n*'''Leander:''' ''Yours is eternal glory!''\nA wide smile shone across Kassandra's face as her task for the [[two Kings of Sparta]] was officially completed.",
+    "Section_Outcome": "Kassandra defeated the reigning [[pankration]] champion Dorieus, winning the event for Sparta and becoming an Olympic Champion.",
+    "Section_Trivia": "*If [[Kallias]] was not slain before this event, he has a brief cutscene with Kassandra.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Pancrace (m\u00e9moire)]]",
+    "Chapter_SequenceID": "17.",
+    "Chapter_Name": "The Olympian",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Having tended to [[Alkibiades]], Kassandra returned to the organizer [[Paios]] at the [[Stadium, Olympia|Stadium]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Paios:''' ''Your next opponent is Doreius\u2014claims to be descended from [[Herakles]] himself!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "3",
+            "content": "(Accept \u2013 \"Time to fight.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I'm ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Paios:''' ''You ever faced an [[Olympic Games|Olympic]] champion before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "----",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C1",
+            "global_id": "7",
+            "content": "(If players successfully concocted the body oil for [[Testikles]].)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''No, but I've gotten this far.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Paios:''' ''Well, you don't look the part\u2014you're not even oiled, for [[Zeus]]'s sake!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|I have oil.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I do have some oil. It could come in handy... and it smelled good. I'll use it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Paios nodded in agreement.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|I have no need for oil.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Less talking. More fighting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "----",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I've fought all sorts of people... and they were with more than just their fists. Let me in there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "20",
+            "content": "Paios shrugged as he led Kassandra inside the [[Stadium, Olympia|Stadium]] once again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "21",
+            "content": ":(If [[Kallias]] was not killed beforehand)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "22",
+            "content": ":Before Kassandra could enter, she encountered Kallias, a member of the [[Cult of Kosmos]] whom she deduced had poisoned Alkibiades. They exchanged words with an undertone of hostile intent.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "23",
+            "content": ":*'''Kassandra:''' ''Come to wish me luck?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "24",
+            "content": ":*'''Kallias:''' ''Of course, and if you win you should come dine with me sometime.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N10",
+            "global_id": "25",
+            "content": ":*'''Kassandra:''' ''Maybe I'll hunt you down after the event... To take you up on your offer.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N11",
+            "global_id": "26",
+            "content": ":Kassandra walked up to the towering Kallias, who squinted down at her and her choice of words.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N12",
+            "global_id": "27",
+            "content": ":*'''Kallias:''' ''Of course... after the event.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N13",
+            "global_id": "28",
+            "content": ":Kallias walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N14",
+            "global_id": "29",
+            "content": "Kassandra entered the Stadium to change into her athlete outfit. She took her mark in the arena, and [[Leander]] walked out to greet her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N15",
+            "global_id": "30",
+            "content": ":(If players chose to apply the body oil to Kassandra.)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N16",
+            "global_id": "31",
+            "content": ":*'''Leander:''' ''Huh. You smell better than last time.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Let's get this over with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "33",
+            "content": "*'''Leander:''' ''For [[Hera]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "34",
+            "content": "Leander turned and walked back to the crowd.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "35",
+            "content": "*'''Leander:''' ''We've seen our esteemed newcomer rise quickly to become a contender...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "36",
+            "content": "*'''Leander:''' ''But let's see how she goes against our reigning champion... Doreius!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "37",
+            "content": "[[File:ACO Pankration Memory Screenshot 01.png|thumb|250px|Kassandra and Dorieus before the fight]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N18",
+            "global_id": "38",
+            "content": "The brutish Dorieus entered the arena and gesticulated. He took his mark, stretched his shoulders, and the final round began.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N19",
+            "global_id": "40",
+            "content": "As the fight started, Kassandra landed a few blows on Dorieus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "41",
+            "content": "*'''Leander:''' ''By the gods!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "42",
+            "content": "Dorieus' size did not encumber his dodging, however. He hit back as good as he got.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "43",
+            "content": "*'''Dorieus:''' ''I will suck the marrow from your bones!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''You'll have to try harder if you want to live!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "45",
+            "content": "Dorieus continued his assault.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "46",
+            "content": "*'''Dorieus:''' ''I hope you like pain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "47",
+            "content": "In time, Kassandra turned the tide on her opponent.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "48",
+            "content": "*'''Leander:''' ''Just one mistake can change everything!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "49",
+            "content": "After a challenging exchange, Kassandra finally overwhelmed Dorieus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "50",
+            "content": "*'''Leander:''' ''Victory! [[Nike]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "51",
+            "content": "[[File:ACO Pankration Memory Screenshot 03.png|thumb|250px|The coronation ceremony]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N24",
+            "global_id": "52",
+            "content": "The crowded applauded. Kassandra clasped her hands and bowed, then applauded her performance. The crowd later gathered at the [[Olympic Tree]] to witness Leander crown Kassandra as the pre-eminent Olympic champion, and [[Sparta]] as the overall winner.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "53",
+            "content": "*'''Leander:''' ''The gods have looked kindly on these, our champions... but there can only be one winner!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "54",
+            "content": "*'''Leander:''' ''SPARTA!!!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "55",
+            "content": "Kassandra walked up to Leander, with the crowd cheering behind. She turned around to be coronated with an [[olive]] {{Wiki|Olive wreath|wreath}}.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "56",
+            "content": "*'''Leander:''' ''Yours is eternal glory!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "57",
+            "content": "A wide smile shone across Kassandra's face as her task for the [[two Kings of Sparta]] was officially completed.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

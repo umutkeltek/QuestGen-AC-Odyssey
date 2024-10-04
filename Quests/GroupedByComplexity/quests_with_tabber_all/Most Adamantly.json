@@ -1,0 +1,666 @@
+{
+    "Quest_Name": "Most Adamantly",
+    "Quest_ID": "233489",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'A mysterious Elpis|woman called to Kassandra from the streets of Atlantis. With great suspicion, Kassandra followed her.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Main",
+        "next": "Blood Gets In Your Eyes",
+        "source": "Kassandra",
+        "location": "Adamant Metallon, Porimos Ring, Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Most Adamantly''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across a [[Elpis|woman]] who asked her to follow her.",
+    "Section_Dialogue": "Kassandra traveled near the [[Adamant Metallon]] beneath the [[Tower of Understanding]] and heard a woman call out to her.\n*'''Elpis:''' [[Dikastes]]''! Over here.''\nKassandra spoke to her.\n*'''Elpis:''' ''Quick! Follow me.''\n*'''Kassandra:''' ''And trust a stranger?''\n*'''Elpis:''' ''I'm no stranger. I'm Elpis. And I've been watching you.''\n*'''Kassandra:''' ''That's not ominous at all.''\nThey ran up some steps to a small plaza overlooking the [[adamant]] mine.\n*'''Elpis:''' ''I'll drop the cloak and dagger. I've been training to become like you. But training isn't enough\u2014you're more than a warrior. The blood of the [[Isu|gods]] runs through your veins.''\n*'''Kassandra:''' ''I thought they preferred \"Isu\" in [[Atlantis]].''\n*'''Elpis:''' ''The Isu may as well be the divine with how they rule. Cold. Calculating. Indifferent to the people milling beneath them. But it's not just Isu blood that makes you special, is it? There's something else.''\nElpis began pacing around Kassandra, seemingly nervously and tapping her hands together. \n*'''Kassandra:''' ''Well, you tell me.''\n*'''Elpis:''' ''I'm talking about this. Your [[Spear of Leonidas|spear]].''\nElpis lifted the Spear of Leonidas from Kassandra's back with sleight-of-hand and held it in front of her.\n<tabber>\n|-|Threaten \u2013 Give it back.=\n*'''Kassandra:''' ''I almost decapitated the last man that looked at my spear. Give it back.''\n*'''Elpis:''' ''Of course, ''Dikastes''. I was just showing off.''\n|-|Flirt \u2013 Cute.=\n*'''Kassandra:''' ''Showing off for me, are you?''\n*'''Elpis:''' ''Just a little. Are you impressed?''\n{{#tag:tabber|\nDon't steal from me.=\n*'''Kassandra:''' ''Stealing is not the way to my heart.''\n*'''Elpis:''' ''Just having a bit of fun, but I'll get to the point.''\n{{!}}-{{!}}\nI'm impressed, and more.=\n*'''Kassandra:''' ''You're strangely charming for a thief.''\n*'''Elpis:''' ''Flattering, but we have business to attend to, ''Dikastes.\n{{!}}-{{!}}\nYou caught me off guard.=\n*'''Kassandra:''' ''If I wasn't so distracted by your beautiful face, you would never have gotten close to my spear.''\n*'''Elpis:''' ''Flattering, but we have business to attend to, ''Dikastes.\n}}\n|-|You're skilled.=\n*'''Kassandra:''' ''You weren't kidding when you said you'd been training. You're quite skilled.''\n*'''Elpis:''' ''That means a lot coming from you.''\n</tabber>\nElpis handed the spear back to Kassandra.\n*'''Kassandra:''' ''So, what do you want from me?''\n*'''Elpis:''' ''I'm... involved with [[Atlas (Isu)|Atlas]]. He's afraid of taking the relationship public. He says his enemies would exploit me as his weakness, so he keeps me a secret.''\n*'''Kassandra:''' ''Wait, you're in love with Atlas?''\n*'''Elpis:''' ''From my experience, I'm not sure Isu men truly love. Nevertheless, I need to make him see that I can be his strength. Our partnership might be a key to bridging the gap between Isu and [[Human|humans]].''\n*'''Kassandra:''' ''Your love is strategic.''\n*'''Elpis:''' ''If we take the relationship public, we could marry and I could rule the district by his side, influence policy, and ease then tension between the two groups. But, so long as I am merely human, it can never be. That's why I want to be like you.''\n(Asked \"What are your goals for Atlantis?\")\n*'''Kassandra:''' ''You seem very passionate about Atlantean politics.''\n*'''Elpis:''' ''Atlas doesn't approach the human and Isu conflict with compassion for humanity. I believe I can bring that compassion.''\n:(Completed [[Burden of Leadership]] \u2013 \"How can you love someone as cruel as Atlas?\")\n:*'''Kassandra:''' ''Someone so eager to kill his own brothers hardly strikes me as husband material.''\n:*'''Elpis:''' ''Atlas is like any Isu, aloof and unchanging. That's why we make a good team. I bring out his... humanity.''\n(Leave \u2013 \"I'll help you.\")\n*'''Kassandra:''' ''It would be nice to have another ally in Atlantis. What's your plan?''\n*'''Elpis:''' ''At the Adamant Metallon, they harvest a metal used to create [[Piece of Eden|devices]] just like your spear.''\n*'''Kassandra:''' ''My spear is the strongest metal ever forged. Could this be used to forge other weapons?''\n*'''Elpis:''' ''Well... adamant ingots could. But what I need is raw adamant. I know the one who can forge it for me. Atlas can't suspect what I'm up to, so make sure you're not seen.''\n*'''Kassandra:''' ''He doesn't know about this?''\n*'''Elpis:''' ''I'll tell him the truth when the time is right. Please, hurry back.''\nKassandra headed to the [[Adamant Metallon]].\n*'''Kassandra:''' ''Elpis is... interesting.''\nShe came closer to the Mine.\n*'''Kassandra:''' ''That's the Adamant Metallon elpis told me about. She said I should get the raw adamant without being seen.''\nKassandra infiltrated the Mine and made her way down the mineshafts into the depths of the mine.\n(If players get detected)\n:*'''Kassandra:''' ''Shit! Hope Atlas doesn't find out I was here.''\nShe reached a larger cavern with some storage crates.\n*'''Kassandra:''' ''Looks like this might be where they stor the raw adamant after mining it.''\nIn one of the crates Kassandra found a piece of raw adamant.\n*'''Kassandra:''' ''Got the raw adamant. I'll bring this to Elpis. It#s reacting with my [[Staff of Hermes Trismegistus|Staff]] somehow... almost like they were meant to be together.''\nKassandra exited the mine and made her way back to Elpis.\n*'''Kassandra:''' ''Raw adamant. As promised.''\nShe pulled out the raw adamant and handed it to Elpis.\n*'''Elpis:''' ''Nice to see that you're as skilled as you look. I'm making the right choice to become more like you.''\n<tabber>\n|-|A weapon won't make you like me.=\n*'''Kassandra:''' ''It takes more than a weapon crafted from adamant to be like me.''\n*'''Elpis:''' ''Luckily, I'm not crafting a weapon, but a powerful Isu device.''\n|-|Flirt - You're perfect the way you are.=\n*'''Kassandra:''' ''You seem fine to me. I don't know why you're trying to change.''\n*'''Elpis:''' ''Just as you were destined to be ''Dikastes'', I am destined for this. I just know it.''\n{{#tag:tabber|\nAtlantis should accept you as is.=\n*'''Kassandra:''' ''Atlantis isn't worthy of the type of change you're hoping to bring if they can't accept you as you are.''\n*'''Elpis:''' ''Like most great politicians, I'm ahead of my time. that means I need to do something drastic if I'm going to push Atlantis forward for humans.''\n{{!}}-{{!}}\nDon't change for Atlas.=\n*'''Kassandra:''' ''Atlas is hardly worth all this trouble. You shouldn't change yourself for him.''\n*'''Elpis:''' ''This is bigger than Atlas. Wait and see what a human Archon could mean for Atlantis.''\n{{!}}-{{!}}\nI admire your passion.=\n*'''Kassandra:''' ''Humans in Atlantis are lucky to have someone like you fighting for them. You'll make a great leader.''\n*'''Elpis:''' ''I'm glad you understand what this means to me.''\n}}\n|-|It takes hard work to be like me.=\n*'''Kassandra:''' ''I got where I am through hard work and training, not by taking short cuts.''\n*'''Elpis:''' ''Of course, ''Dikastes''. Your work ethic and drive to survive are traits I aspire to mirror.''\n</tabber>\nKassandra began pacing around a confused looking Elpis just like Elpis did before.\n*'''Kassandra:''' ''Stll... all you have is raw adamant.''\nShe held up the raw adamant which she just pickpocketed from Elpis and winked at her. Elpis smiled and took back the raw adamant.\n*'''Elpis:''' ''Until I take it to a skilled [[blacksmith]] so he can forge an Isu device from the adamant.''\n*'''Kassandra:''' ''Well, you know where to find the ''Dikastes'' when you need her.''\n*'''Elpis:''' ''The forging shouldn't take too long. I'll meet you near the [[Doma of Atlas]] when it's done. Then we can proceed to the next phase of my plan.''\nElpis left Kassandra.",
+    "Section_Outcome": "Kassandra recovered raw adamant for Elpis and agreed to meet with her at the Doma of Atlas after she's done all her jobs as Dikastes.",
+    "Section_Trivia": "*Knowledge Sequence 1 is required to be able to complete this quest.\n*Detection in the Adamant Metallon changes a small amount of dialogue in [[Blood Gets In Your Eyes]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Judgment of Atlantis]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled near the [[Adamant Metallon]] beneath the [[Tower of Understanding]] and heard a woman call out to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Elpis:''' [[Dikastes]]''! Over here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra spoke to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Elpis:''' ''Quick! Follow me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''And trust a stranger?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Elpis:''' ''I'm no stranger. I'm Elpis. And I've been watching you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''That's not ominous at all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "They ran up some steps to a small plaza overlooking the [[adamant]] mine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Elpis:''' ''I'll drop the cloak and dagger. I've been training to become like you. But training isn't enough\u2014you're more than a warrior. The blood of the [[Isu|gods]] runs through your veins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I thought they preferred \"Isu\" in [[Atlantis]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Elpis:''' ''The Isu may as well be the divine with how they rule. Cold. Calculating. Indifferent to the people milling beneath them. But it's not just Isu blood that makes you special, is it? There's something else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "12",
+            "content": "Elpis began pacing around Kassandra, seemingly nervously and tapping her hands together.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Well, you tell me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Elpis:''' ''I'm talking about this. Your [[Spear of Leonidas|spear]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "15",
+            "content": "Elpis lifted the Spear of Leonidas from Kassandra's back with sleight-of-hand and held it in front of her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "17",
+            "content": "|-|Threaten \u2013 Give it back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I almost decapitated the last man that looked at my spear. Give it back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Elpis:''' ''Of course, ''Dikastes''. I was just showing off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|Flirt \u2013 Cute.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Showing off for me, are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Elpis:''' ''Just a little. Are you impressed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "23",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "24",
+            "content": "Don't steal from me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Stealing is not the way to my heart.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Elpis:''' ''Just having a bit of fun, but I'll get to the point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "27",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "I'm impressed, and more.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''You're strangely charming for a thief.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Elpis:''' ''Flattering, but we have business to attend to, ''Dikastes.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "31",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "32",
+            "content": "You caught me off guard.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''If I wasn't so distracted by your beautiful face, you would never have gotten close to my spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Elpis:''' ''Flattering, but we have business to attend to, ''Dikastes.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "35",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "36",
+            "content": "|-|You're skilled.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''You weren't kidding when you said you'd been training. You're quite skilled.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Elpis:''' ''That means a lot coming from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N6",
+            "global_id": "40",
+            "content": "Elpis handed the spear back to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''So, what do you want from me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Elpis:''' ''I'm... involved with [[Atlas (Isu)|Atlas]]. He's afraid of taking the relationship public. He says his enemies would exploit me as his weakness, so he keeps me a secret.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Wait, you're in love with Atlas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "44",
+            "content": "*'''Elpis:''' ''From my experience, I'm not sure Isu men truly love. Nevertheless, I need to make him see that I can be his strength. Our partnership might be a key to bridging the gap between Isu and [[Human|humans]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Your love is strategic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Elpis:''' ''If we take the relationship public, we could marry and I could rule the district by his side, influence policy, and ease then tension between the two groups. But, so long as I am merely human, it can never be. That's why I want to be like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "47",
+            "content": "(Asked \"What are your goals for Atlantis?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''You seem very passionate about Atlantean politics.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Elpis:''' ''Atlas doesn't approach the human and Isu conflict with compassion for humanity. I believe I can bring that compassion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "50",
+            "content": ":(Completed [[Burden of Leadership]] \u2013 \"How can you love someone as cruel as Atlas?\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "51",
+            "content": ":*'''Kassandra:''' ''Someone so eager to kill his own brothers hardly strikes me as husband material.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "52",
+            "content": ":*'''Elpis:''' ''Atlas is like any Isu, aloof and unchanging. That's why we make a good team. I bring out his... humanity.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O1",
+            "global_id": "53",
+            "content": "(Leave \u2013 \"I'll help you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''It would be nice to have another ally in Atlantis. What's your plan?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "55",
+            "content": "*'''Elpis:''' ''At the Adamant Metallon, they harvest a metal used to create [[Piece of Eden|devices]] just like your spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''My spear is the strongest metal ever forged. Could this be used to forge other weapons?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "57",
+            "content": "*'''Elpis:''' ''Well... adamant ingots could. But what I need is raw adamant. I know the one who can forge it for me. Atlas can't suspect what I'm up to, so make sure you're not seen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''He doesn't know about this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "59",
+            "content": "*'''Elpis:''' ''I'll tell him the truth when the time is right. Please, hurry back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "60",
+            "content": "Kassandra headed to the [[Adamant Metallon]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Elpis is... interesting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "62",
+            "content": "She came closer to the Mine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''That's the Adamant Metallon elpis told me about. She said I should get the raw adamant without being seen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "64",
+            "content": "Kassandra infiltrated the Mine and made her way down the mineshafts into the depths of the mine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C2",
+            "global_id": "65",
+            "content": "(If players get detected)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "N13",
+            "global_id": "66",
+            "content": ":*'''Kassandra:''' ''Shit! Hope Atlas doesn't find out I was here.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N14",
+            "global_id": "67",
+            "content": "She reached a larger cavern with some storage crates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Looks like this might be where they stor the raw adamant after mining it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "69",
+            "content": "In one of the crates Kassandra found a piece of raw adamant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Got the raw adamant. I'll bring this to Elpis. It#s reacting with my [[Staff of Hermes Trismegistus|Staff]] somehow... almost like they were meant to be together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "71",
+            "content": "Kassandra exited the mine and made her way back to Elpis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Raw adamant. As promised.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "73",
+            "content": "She pulled out the raw adamant and handed it to Elpis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "74",
+            "content": "*'''Elpis:''' ''Nice to see that you're as skilled as you look. I'm making the right choice to become more like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "75",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "76",
+            "content": "|-|A weapon won't make you like me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''It takes more than a weapon crafted from adamant to be like me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "78",
+            "content": "*'''Elpis:''' ''Luckily, I'm not crafting a weapon, but a powerful Isu device.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "79",
+            "content": "|-|Flirt - You're perfect the way you are.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''You seem fine to me. I don't know why you're trying to change.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "81",
+            "content": "*'''Elpis:''' ''Just as you were destined to be ''Dikastes'', I am destined for this. I just know it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "82",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "83",
+            "content": "Atlantis should accept you as is.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Atlantis isn't worthy of the type of change you're hoping to bring if they can't accept you as you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "85",
+            "content": "*'''Elpis:''' ''Like most great politicians, I'm ahead of my time. that means I need to do something drastic if I'm going to push Atlantis forward for humans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "86",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "87",
+            "content": "Don't change for Atlas.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Atlas is hardly worth all this trouble. You shouldn't change yourself for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "89",
+            "content": "*'''Elpis:''' ''This is bigger than Atlas. Wait and see what a human Archon could mean for Atlantis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "90",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "91",
+            "content": "I admire your passion.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''Humans in Atlantis are lucky to have someone like you fighting for them. You'll make a great leader.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "93",
+            "content": "*'''Elpis:''' ''I'm glad you understand what this means to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "94",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC12",
+            "global_id": "95",
+            "content": "|-|It takes hard work to be like me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''I got where I am through hard work and training, not by taking short cuts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "97",
+            "content": "*'''Elpis:''' ''Of course, ''Dikastes''. Your work ethic and drive to survive are traits I aspire to mirror.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "98",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N18",
+            "global_id": "99",
+            "content": "Kassandra began pacing around a confused looking Elpis just like Elpis did before.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''Stll... all you have is raw adamant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "101",
+            "content": "She held up the raw adamant which she just pickpocketed from Elpis and winked at her. Elpis smiled and took back the raw adamant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "102",
+            "content": "*'''Elpis:''' ''Until I take it to a skilled [[blacksmith]] so he can forge an Isu device from the adamant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''Well, you know where to find the ''Dikastes'' when you need her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "104",
+            "content": "*'''Elpis:''' ''The forging shouldn't take too long. I'll meet you near the [[Doma of Atlas]] when it's done. Then we can proceed to the next phase of my plan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "105",
+            "content": "Elpis left Kassandra.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

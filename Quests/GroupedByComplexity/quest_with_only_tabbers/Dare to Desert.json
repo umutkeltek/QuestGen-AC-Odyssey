@@ -1,0 +1,175 @@
+{
+    "Quest_Name": "Dare to Desert",
+    "Quest_ID": "229398",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Dare to Desert.png",
+        "description": "'As fear spread into the hearts of Spartans, one soldier was concerned with how his fellow men were deserting their posts and convinced there was a conspiracy.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact Side Quest",
+        "previous": "The Wolf of Sparta",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Dare to Desert''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "Kassandra came across a small [[Sparta]]n camp and spoke to one of the soldiers.\n*'''Kassandra:''' ''Chaire, soldier. How can I serve Sparta today?''\n*'''Man:''' ''The [[Ikaros|eagle]]-bearing [[Mercenary|misthios]]! I thought you were a legend.''\n<tabber>\n|-|I am legendary.=\n\n|-|I'm just a regular mercenary.=\n*'''Kassandra:''' ''Those legends are only stories. I am just a humble mercenary.''\n</tabber>\n*'''Man:''' ''I've heard stories about how you worked with the Spartans in [[Megaris]] and helped them to [[Battle of Megara|victory]]! I've also heard you have something to do with the [[Nikolaos|Wolf]]'s disappearance.''\n*'''Kassandra:''' ''You can't believe everything you hear.''\n*'''Man:''' ''Sadly, with the Wolf gone, fear has spread through our ranks. There's actually a small group of conspirators claiming isn't dead, but a deserter. They're alleging no one's seen his body.''\n*'''Kassandra:''' ''That's crazy. Everyone know he's dead.''\n*'''Man:''' ''That may be, but these men are convinced. They're deserting their posts and encouraging others to follow. They need to be stopped.''\n*'''Kassandra:''' ''You want me to kill the Spartan deserters for their dishonor.''\n*'''Man:''' ''You read me like an oracle.''\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Man:''' ''Ha! Excellent.''\n*'''Kassandra:''' ''Chaire.''\nKassandra left the camp and travelled to the deserters' camp, killing all the guards. She then returned to the Spartan soldier.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Good! Take this. You earned it.''\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra eliminated the Spartan deserters.",
+    "Section_Trivia": "*Being an impact quest, the locations where Kassandra can accept and complete the quest are randomized.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Oser d\u00e9serter]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra came across a small [[Sparta]]n camp and spoke to one of the soldiers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Chaire, soldier. How can I serve Sparta today?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''The [[Ikaros|eagle]]-bearing [[Mercenary|misthios]]! I thought you were a legend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|I am legendary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U1",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "7",
+            "content": "|-|I'm just a regular mercenary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Those legends are only stories. I am just a humble mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "9",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Man:''' ''I've heard stories about how you worked with the Spartans in [[Megaris]] and helped them to [[Battle of Megara|victory]]! I've also heard you have something to do with the [[Nikolaos|Wolf]]'s disappearance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''You can't believe everything you hear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Man:''' ''Sadly, with the Wolf gone, fear has spread through our ranks. There's actually a small group of conspirators claiming isn't dead, but a deserter. They're alleging no one's seen his body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''That's crazy. Everyone know he's dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Man:''' ''That may be, but these men are convinced. They're deserting their posts and encouraging others to follow. They need to be stopped.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''You want me to kill the Spartan deserters for their dishonor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Man:''' ''You read me like an oracle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Man:''' ''Ha! Excellent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Chaire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "20",
+            "content": "Kassandra left the camp and travelled to the deserters' camp, killing all the guards. She then returned to the Spartan soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Man:''' ''Good! Take this. You earned it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

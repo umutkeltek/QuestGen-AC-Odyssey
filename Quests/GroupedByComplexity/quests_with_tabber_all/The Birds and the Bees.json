@@ -1,0 +1,440 @@
+{
+    "Quest_Name": "The Birds and the Bees",
+    "Quest_ID": "233458",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After Kassandra successfully repaired Neokles (Isu)|Neokles's device, the power mysteriously shut down. Neokles guessed that the source of energy was displaced from the control room of his device, so Kassandra set off to test his hypothesis.'",
+        "appearance": "'Assassin's Creed: Odyssey - The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Main",
+        "previous": "Lighten Up",
+        "next": "Blood Gets In Your Eyes",
+        "source": "Kassandra",
+        "location": "Garden of Triton, Oikos of Atlantis, Atlantis"
+    },
+    "General_Description": "'''The Birds and the Bees''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to the control room of [[Neokles (Isu)|Neokles]]' device to find the reason behind its abrupt lack of power.",
+    "Section_Dialogue": "*'''Neokles:''' ''Please, ''[[Dikastes]]''. Make sure the power source is in place as soon as you can.''\n\nKassandra entered the control room and saw the empty device.\n\n*'''Kassandra:''' ''Looks like Neokles was right. There's no rock here.''\n\nA woman peeked her head around the corner. When Kassandra spotted her, she ran off.\n\n*'''Kassandra:''' ''Hey! Stop right there!<br>Get back here!<br>''Mal\u00e1ka!\n\nKassandra chased the woman.\n<tabber>\n|-|If Kassandra failed to catch the thief=\nKassandra ran into a room to see that the woman had disappeared.\n*'''Kassandra:''' ''The [[thief]] must be in here somewhere. Maybe if I move some things around\u2026''\nKassandra moved a block out of the way and slid through a gap in the wall. On the other side, she found the woman.\n|-|If Kassandra caught the thief=\nKassandra pursued the woman and apprehended her behind a bookshelf after a lengthy chase.\n</tabber>\n\n*'''[[Melitta (Isu)|Melitta:]]''' ''What's the ''Dikastes'' doing running around here?''\n*'''Kassandra:''' ''I'm chasing down a thief. Looks like you\u2019re the one who took Neokles's rock.''\n*'''Melitta:''' ''My ''name'' is Melitta. I'm an environmental biologist, not a thief. Neokles has no claim to a natural power source like this.''\n<tabber>\n|-|That rock must be valuable.=\n*'''Kassandra:''' ''That rock must be worth a lot if you\u2019re trying to steal it.''\n|-|It's just a rock.=\n*'''Kassandra:''' ''You're going to a lot of trouble for a rock.''\n</tabber>\n\n*'''Melitta:''' ''You're the ''Dikastes'' and you have no idea what the power source is? Aren\u2019t you invested in the future of our resources?''\n*'''Kassandra:''' ''It's easy. Put the rock in Neokles's device and we'll fix the flowers.''\n\nMelitta shook her head and motioned for Kassandra to follow her into another room as she explained.\n\n*'''Melitta:''' ''This isn't Neokles's first attempt at population balancing. When the flowers over-picked, and the bees started dying, first he attempted to artificially pollinate the flowers. When he artificially pollinated the flowers, the soil degraded. When the soil\u2014''\n*'''Kassandra:''' ''I get the idea. But then how would you fix the [[Garden of Triton|gardens]]?''\n*'''Melitta:''' ''I wouldn't! Nature has been healing itself for eons. Neokles needs to stop meddling.''\n\nNeokles entered the chamber, interrupting their conversation.\n\n*'''Neokles:''' ''Melitta! You've always been obtuse about the [[Solar floral regeneration project|project]]. No accountability for civilization's impact on the ecosystem!''\n*'''Melitta:''' ''Insanity is trying the same thing over and over again and expecting different results. When will you accept your hypothesis has failed?''\n*'''Neokles:''' ''\"Failed\" is inaccurate terminology. I simply adjusted my theory after experiencing unintended results.''\n*'''Kassandra:''' ''Enough bickering, both of you!''\n*'''Melitta:''' ''You're right. I wanted to destroy the power source to end his project once and for all. But as the ''Dikastes'', it should be your decision.''\n<tabber>\n|-|I'll return the rock to Neokles's device.=\n*'''Kassandra:''' ''The project Neokles is working on is important for the future of Atlantis. Hand over the rock.''\n*'''Melitta:''' ''I hope you know what you're doing.''\nMelitta handed over the power source to Kassandra.\n*'''Neokles:''' ''Thank you. This will propel Atlantis's sustainability forward by centuries. All those cynics like Melitta will see the progress eventually.''\n*'''Kassandra:''' ''Just be careful. It sounds like your theory could still use some work.''\n*'''Neokles:''' ''This is the right course of action for all of Atlantis, ''Dikastes''. Trust me. Please, do me the honor of returning the stone to the device.''\nKassandra returned the power source to the device.\n*'''Kassandra:''' ''There. Atlantis's gardens will be healed in no time.\nShe exited the control room to find the device working and the gardens abloom.\n*'''Kassandra:''' ''The gardens seem to be thriving... With wildlife.''\n|-|I'll destroy the rock.=\n*'''Kassandra:''' ''All right. Give me the rock. I'll end this once and for all.''\nMelitta handed over the power source to Kassandra who destroyed it.\n*'''Neokles:''' ''Are you mad? You've completely annihilated our chances at future sustainability.''\n*'''Kassandra:''' ''Trust in [[Gaia (deity)|Gaia]]. Nature will heal itself if you allow it.''\nNeokles grunted in disbelief.\n*'''Melitta:''' ''Thank you, ''Dikastes''. This is the right direction to go in. We might not see improvements right away but the gardens will heal themselves.''\nKassandra nodded and exited the control room to find the gardens in bad shape.\n*'''Kassandra:''' ''Melitta said it would take time for the gardens to heal but... Those flowers don't look good. I wonder what she'd make of this.''\n</tabber>",
+    "Section_Outcome": "Kassandra either destroyed or returned the energy source.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Judgment of Atlantis]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Neokles:''' ''Please, ''[[Dikastes]]''. Make sure the power source is in place as soon as you can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N1",
+            "global_id": "3",
+            "content": "Kassandra entered the control room and saw the empty device.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Looks like Neokles was right. There's no rock here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "A woman peeked her head around the corner. When Kassandra spotted her, she ran off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Hey! Stop right there!<br>Get back here!<br>''Mal\u00e1ka!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "Kassandra chased the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|If Kassandra failed to catch the thief=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N4",
+            "global_id": "14",
+            "content": "Kassandra ran into a room to see that the woman had disappeared.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''The [[thief]] must be in here somewhere. Maybe if I move some things around\u2026''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "16",
+            "content": "Kassandra moved a block out of the way and slid through a gap in the wall. On the other side, she found the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "|-|If Kassandra caught the thief=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "18",
+            "content": "Kassandra pursued the woman and apprehended her behind a bookshelf after a lengthy chase.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U6",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D5",
+            "global_id": "21",
+            "content": "*'''[[Melitta (Isu)|Melitta:]]''' ''What's the ''Dikastes'' doing running around here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'm chasing down a thief. Looks like you\u2019re the one who took Neokles's rock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "23",
+            "content": "*'''Melitta:''' ''My ''name'' is Melitta. I'm an environmental biologist, not a thief. Neokles has no claim to a natural power source like this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "25",
+            "content": "|-|That rock must be valuable.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''That rock must be worth a lot if you\u2019re trying to steal it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|It's just a rock.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''You're going to a lot of trouble for a rock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "29",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U7",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "31",
+            "content": "*'''Melitta:''' ''You're the ''Dikastes'' and you have no idea what the power source is? Aren\u2019t you invested in the future of our resources?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''It's easy. Put the rock in Neokles's device and we'll fix the flowers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "34",
+            "content": "Melitta shook her head and motioned for Kassandra to follow her into another room as she explained.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "36",
+            "content": "*'''Melitta:''' ''This isn't Neokles's first attempt at population balancing. When the flowers over-picked, and the bees started dying, first he attempted to artificially pollinate the flowers. When he artificially pollinated the flowers, the soil degraded. When the soil\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''I get the idea. But then how would you fix the [[Garden of Triton|gardens]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "38",
+            "content": "*'''Melitta:''' ''I wouldn't! Nature has been healing itself for eons. Neokles needs to stop meddling.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "40",
+            "content": "Neokles entered the chamber, interrupting their conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U11",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "42",
+            "content": "*'''Neokles:''' ''Melitta! You've always been obtuse about the [[Solar floral regeneration project|project]]. No accountability for civilization's impact on the ecosystem!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "43",
+            "content": "*'''Melitta:''' ''Insanity is trying the same thing over and over again and expecting different results. When will you accept your hypothesis has failed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "44",
+            "content": "*'''Neokles:''' ''\"Failed\" is inaccurate terminology. I simply adjusted my theory after experiencing unintended results.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Enough bickering, both of you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "46",
+            "content": "*'''Melitta:''' ''You're right. I wanted to destroy the power source to end his project once and for all. But as the ''Dikastes'', it should be your decision.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "48",
+            "content": "|-|I'll return the rock to Neokles's device.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''The project Neokles is working on is important for the future of Atlantis. Hand over the rock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "50",
+            "content": "*'''Melitta:''' ''I hope you know what you're doing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "51",
+            "content": "Melitta handed over the power source to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "52",
+            "content": "*'''Neokles:''' ''Thank you. This will propel Atlantis's sustainability forward by centuries. All those cynics like Melitta will see the progress eventually.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Just be careful. It sounds like your theory could still use some work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "54",
+            "content": "*'''Neokles:''' ''This is the right course of action for all of Atlantis, ''Dikastes''. Trust me. Please, do me the honor of returning the stone to the device.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "55",
+            "content": "Kassandra returned the power source to the device.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''There. Atlantis's gardens will be healed in no time.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "57",
+            "content": "She exited the control room to find the device working and the gardens abloom.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''The gardens seem to be thriving... With wildlife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "59",
+            "content": "|-|I'll destroy the rock.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''All right. Give me the rock. I'll end this once and for all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "61",
+            "content": "Melitta handed over the power source to Kassandra who destroyed it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "62",
+            "content": "*'''Neokles:''' ''Are you mad? You've completely annihilated our chances at future sustainability.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Trust in [[Gaia (deity)|Gaia]]. Nature will heal itself if you allow it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "64",
+            "content": "Neokles grunted in disbelief.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "65",
+            "content": "*'''Melitta:''' ''Thank you, ''Dikastes''. This is the right direction to go in. We might not see improvements right away but the gardens will heal themselves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "66",
+            "content": "Kassandra nodded and exited the control room to find the gardens in bad shape.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Melitta said it would take time for the gardens to heal but... Those flowers don't look good. I wonder what she'd make of this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "68",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

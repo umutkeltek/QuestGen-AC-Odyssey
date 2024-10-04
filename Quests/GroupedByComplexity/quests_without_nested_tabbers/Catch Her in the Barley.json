@@ -1,0 +1,139 @@
+{
+    "Quest_Name": "Catch Her in the Barley",
+    "Quest_ID": "236396",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Catch Her in the Barley",
+        "description": "'A farmer who made a habit of selling herbs to a local midwife was concerned when the midwife did not show up. The farmer worried Wolf|wolves may have caught the midwife in the fields.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Catch Her in the Barley''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A farmer requested the help of Kassandra with the [[Wolf|wolves]] and the case of a missing midwife.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Have you seen the midwife who cuts through the barley fields? I think she is missing - need searchers. Please to my farm for details.''\nShe sought out the farmer and addressed her.\n*'''Kassandra:''' ''I picked up your message on the board. What's happening?''\n*'''Woman:''' ''The midwife from the village usually comes for plants I grow for her ''pharmika'', but she's very late.''\n*'''Kassandra:''' ''Do you think something has happened to her?''\n*'''Woman:''' ''I hope not, but she usually comes up through the barley field. I did see a wolf running throuhg there the other day...''\n*'''Kassandra:''' ''You want me to hunt and kill this wolf, then?''\n*'''Woman:''' ''That's exactly it. Will you do it for me?''\n(Accept - I'll slay the beast.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Woman:''' ''I owe you.''\n*'''Kassandra:''' Chaire.\nKassandra left the woman to hunt down the wolf. It was large and white, but nonetheless, fell to her blade with ease. Kassandra returned to the farmer.\n*'''Woman:''' Misthios''! Has the beast been slain?''\n*'''Kassandra:''' ''The beast is dead.''\n*'''Woman:''' ''Honest pay for honest work, ''misthios''. Take this.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra helped a farmer deal with a troublesome wolf.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Have you seen the midwife who cuts through the barley fields? I think she is missing - need searchers. Please to my farm for details.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the farmer and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I picked up your message on the board. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''The midwife from the village usually comes for plants I grow for her ''pharmika'', but she's very late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Do you think something has happened to her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''I hope not, but she usually comes up through the barley field. I did see a wolf running throuhg there the other day...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''You want me to hunt and kill this wolf, then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''That's exactly it. Will you do it for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - I'll slay the beast.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''I owe you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra left the woman to hunt down the wolf. It was large and white, but nonetheless, fell to her blade with ease. Kassandra returned to the farmer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Woman:''' Misthios''! Has the beast been slain?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''The beast is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Woman:''' ''Honest pay for honest work, ''misthios''. Take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

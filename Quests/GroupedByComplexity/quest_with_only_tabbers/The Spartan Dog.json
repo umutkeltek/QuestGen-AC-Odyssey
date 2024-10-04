@@ -1,0 +1,374 @@
+{
+    "Quest_Name": "The Spartan Dog",
+    "Quest_ID": "228280",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Spartan Dog 7.png",
+        "description": "'Kassandra and Darius needed help from a captured Athens|Athenian General, but they'd only get it if Kassandra took out his mortal enemy, a brutal Spartan Commander.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Bloodline'",
+        "type": "Main, Support",
+        "previous": "The Ordering of the Kosmos",
+        "next": "The Trap Is Set",
+        "source": "Kassandra",
+        "location": "Messenia, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''The Spartan Dog''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra rescued and met with the Athenian general whose support she and [[Darius]] required for their campaign against [[Amorges]] and the [[Order of Dominion]].",
+    "Section_Dialogue": "Kassandra approached the beach where the [[Athens|Athenian]] general and his men were held captive by [[Sparta]]n forces.\n*'''Athenian General:''' ''That Spartan dog will pay, boys. He'll pay!''\n*'''Kassandra:''' ''That must be the Athenian Darius was talking about...''\nKassandra defeated the Spartans guarding the prisoners.\n*'''Athenian General:''' ''You. What are you doing here?''\n*'''Kassandra:''' ''Rescuing you if you keep your voice down.''\n[[File:ACOD The Spartan Dog 3.png|thumb|250px|Kassandra escorting the Athenians, fighting Spartan soldiers along the way]]\nShe released the general and the rest of his men. The general led them away from the beach.\n*'''Athenian General:''' ''This way!''\nThey fled into the safety of the hills to the east.\n*'''Athenian General:''' ''Thank you... What do I call you?''\n<tabber>\n|-|Call me Eagle Bearer.=\n*'''Kassandra:''' ''Most people call me Eagle Bearer.''\n*'''Athenian General:''' ''The what?''\n*'''Kassandra:''' ''You heard me.''\n*'''Athenian General:''' ''It's just... I've heard the stories, we all have, but I never thought\u2014''\n*'''Kassandra:''' ''I don't have time for stories.''\n\n|-|It doesn't matter what you call me.=\n*'''Kassandra:''' ''Call me whatever you want. I'm in a hurry.''\n\n</tabber>\n[[File:ACOD The Spartan Dog 4.png|thumb|250px|The general asking Kassandra for aid]]\n*'''Athenian General:''' ''Right, right... It's these ''mal\u00e1kes'' Spartans. We desperately need to loosen their grip on this region. Will you help us?''\n*'''Kassandra:''' ''At the moment, I'm not a big fan of the Spartans or their [[Order of the Ancients|friends]].''\n*'''Athenian General:''' ''The Persians.''\n*'''Kassandra:''' ''You know?''\nThe general nodded.\n*'''Athenian General:''' ''I know those cursed Spartans are richer than they've ever been and should've run out of resources years ago.''\n*'''Kassandra:''' ''I was told to give you this.''\n[[File:ACOD The Spartan Dog 5.png|thumb|250px|The general reading the letter from Darius]]\nShe handed him the letter from Darius. He read it.\n*'''Athenian General:''' ''It seems we have common enemies. I can help you and your allies with your plan, but to do it we must kill the Spartan leader here in Messenia.''\n*'''Kassandra:''' ''What's so special about this particular Spartan?''\n*'''Athenian General:''' ''He's a butcher. He's killed more Athenians than anyone\u2014and he takes joy in it, I tell you. We know his location, but my men and I haven't been able to get close to him.''\n*'''Kassandra:''' ''You'll find it easier with me around.''\nThe general turned to point out the Spartan fleet off the western shore.\n*'''Athenian General:''' ''There. That's his fleet.''\n*'''Kassandra:''' ''Oh... His fleet, you say?''\n[[File:ACOD The Spartan Dog 6.png|thumb|250px|The ''Adrestia'' engaging the Spartan fleet]]\nKassandra sailed the ''[[Adrestia]]'' out to engage the Spartan commander's fleet. Several Athenian ships were engaging the Spartan forces already.\n*'''Kassandra:''' ''The Spartan. With him gone, [[Amorges]]' grip on Messenia will weaken.''\nKassandra sank all of the ships.\n*'''Kassandra:''' ''So much for that big, bad Spartan butcher.''\nShe sailed back to the Athenian general to report her success.\n*'''Kassandra:''' ''That Spartan dog is just a memory now.''\n*'''Athenian General:''' ''You did it?''\n<tabber>\n|-|Of course I did.=\n*'''Kassandra:''' ''The Spartan butcher was no match for me.''\n|-|Thank you for the help.=\n*'''Kassandra:''' ''I couldn't have done it without your help.''\n</tabber>\n*'''Athenian General:''' ''Of course.''<br>''So, about the letter you gave me\u2014''\n*'''Kassandra:''' ''I'll need you to live up to your end of the bargain if you want the Persians out of Messenia.''\n*'''Athenian General:''' ''You can count on our help when you're ready.''",
+    "Section_Outcome": "Kassandra rescued the general and two Athenian soldiers from their Spartan captors and escorted them to safety. Kassandra then went ahead and destroyed the fleet of the Spartan commander.",
+    "Section_Trivia": "*There will usually be other ships in the particular area of open water where the Spartan fleet is engaged, including Athenian ships that will attack the Spartan fleet, but there may also be [[Piracy|pirate]] ships, who will attack all sides but will prioritize the player.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Bloodline]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the beach where the [[Athens|Athenian]] general and his men were held captive by [[Sparta]]n forces.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Athenian General:''' ''That Spartan dog will pay, boys. He'll pay!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''That must be the Athenian Darius was talking about...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra defeated the Spartans guarding the prisoners.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Athenian General:''' ''You. What are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Rescuing you if you keep your voice down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "7",
+            "content": "[[File:ACOD The Spartan Dog 3.png|thumb|250px|Kassandra escorting the Athenians, fighting Spartan soldiers along the way]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "She released the general and the rest of his men. The general led them away from the beach.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Athenian General:''' ''This way!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "They fled into the safety of the hills to the east.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Athenian General:''' ''Thank you... What do I call you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|Call me Eagle Bearer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Most people call me Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Athenian General:''' ''The what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''You heard me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Athenian General:''' ''It's just... I've heard the stories, we all have, but I never thought\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I don't have time for stories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|It doesn't matter what you call me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Call me whatever you want. I'm in a hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "23",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I2",
+            "global_id": "24",
+            "content": "[[File:ACOD The Spartan Dog 4.png|thumb|250px|The general asking Kassandra for aid]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Athenian General:''' ''Right, right... It's these ''mal\u00e1kes'' Spartans. We desperately need to loosen their grip on this region. Will you help us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''At the moment, I'm not a big fan of the Spartans or their [[Order of the Ancients|friends]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Athenian General:''' ''The Persians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''You know?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": "The general nodded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Athenian General:''' ''I know those cursed Spartans are richer than they've ever been and should've run out of resources years ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I was told to give you this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "32",
+            "content": "[[File:ACOD The Spartan Dog 5.png|thumb|250px|The general reading the letter from Darius]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "33",
+            "content": "She handed him the letter from Darius. He read it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Athenian General:''' ''It seems we have common enemies. I can help you and your allies with your plan, but to do it we must kill the Spartan leader here in Messenia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''What's so special about this particular Spartan?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Athenian General:''' ''He's a butcher. He's killed more Athenians than anyone\u2014and he takes joy in it, I tell you. We know his location, but my men and I haven't been able to get close to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''You'll find it easier with me around.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "38",
+            "content": "The general turned to point out the Spartan fleet off the western shore.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Athenian General:''' ''There. That's his fleet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Oh... His fleet, you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "41",
+            "content": "[[File:ACOD The Spartan Dog 6.png|thumb|250px|The ''Adrestia'' engaging the Spartan fleet]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N8",
+            "global_id": "42",
+            "content": "Kassandra sailed the ''[[Adrestia]]'' out to engage the Spartan commander's fleet. Several Athenian ships were engaging the Spartan forces already.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''The Spartan. With him gone, [[Amorges]]' grip on Messenia will weaken.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "44",
+            "content": "Kassandra sank all of the ships.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''So much for that big, bad Spartan butcher.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "46",
+            "content": "She sailed back to the Athenian general to report her success.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''That Spartan dog is just a memory now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Athenian General:''' ''You did it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "50",
+            "content": "|-|Of course I did.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''The Spartan butcher was no match for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "52",
+            "content": "|-|Thank you for the help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I couldn't have done it without your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D31",
+            "global_id": "55",
+            "content": "*'''Athenian General:''' ''Of course.''<br>''So, about the letter you gave me\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''I'll need you to live up to your end of the bargain if you want the Persians out of Messenia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "57",
+            "content": "*'''Athenian General:''' ''You can count on our help when you're ready.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

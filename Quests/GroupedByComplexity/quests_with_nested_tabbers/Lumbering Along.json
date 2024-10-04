@@ -1,0 +1,391 @@
+{
+    "Quest_Name": "Lumbering Along",
+    "Quest_ID": "222633",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Lumbering Along.png",
+        "description": "'In true form, Markos didn't fulfill his promise to the bowyer Drucilla to solve her bandit problem. Of course, he was happy to volunteer Kassandra for the job of getting her wood back.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kephallonia Islands}}",
+        "next": "In the Footsteps of Gods",
+        "source": "Kassandra",
+        "location": "Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Lumbering Along''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Markos]] fulfill his promise to help [[Drucilla]] deal with the [[bandit]]s.",
+    "Section_Dialogue": "Kassandra approached Drucilla at her shop near the [[Temple of Zeus, Kephallonia|Temple of Zeus]].\n*'''Drucilla:''' ''Fair is fair. Are you going to get my [[wood]]? Those fucking bandits need a thrashing.''\n*'''Kassandra:''' ''Fair is fair. I'll fix your wood problem.''\n*'''Drucilla:''' ''Finally. Markos sure is lucky he's got you as his scapegoat.''\n(If players choose \"Where are the bandits?\")\n*'''Kassandra:''' ''Any idea where these bandits are?''\n*'''Drucilla:''' ''I'm not a tracker. I'm a bowyer. They're in the mountain somewhere\u2014that much I know. I'd check close to the lumber camps.''\n(If players choose \"What's special about the wood?\")\n*'''Kassandra:''' ''There's plenty of trees around. Why do you need this type of wood?''\nDrucilla whispered to Kassandra.\n*'''Drucilla:''' ''I've been working on a new type of [[bow]]. It's more flexible, so it lasts longer and can fire at greater range. Only a very special type of wood that grows high in the mountains will do.''\n(If players choose \"I'll get going.\")\n*'''Kassandra:''' ''I'll take care of the bandits.''\n*'''Drucilla:''' ''Make sure that you do, and be quick about it.''\n\n<tabber>\n|-|Quit moaning.=\n*'''Kassandra:''' ''Your moaning won't get the job done any faster. I'll kill the bandits and get your fucking wood back.''\n*'''Drucilla:''' ''I-I know you will. Take your time finding them. I trust you.''\n|-|Have patience.=\n*'''Kassandra:''' ''I'll deal with these bandits and get you the wood you need as fast as I can. Have patience, it won't take long.''\n*'''Drucilla:''' ''Ha! If you knew how long Markos has been feeding me excuses, you wouldn't be saying that.''\n</tabber>\n[[File:ACOD_-_Lumbering_Along_3.png|thumb|240px|Kassandra examining the footprints]]\nKassandra travelled west to the [[Coast of Koliadai]]. Along the road, she found a whole lot of footprints. She leaned closer to investigate.\n*'''Kassandra:''' ''That's a lot of footprints. A group left this area headed west.''\nWalking up further, she found an empty cart.\n*'''Kassandra:''' ''The cart was emptied, then left behind. The [[thief]] can't have gotten far with that much cargo.''\nKassandra looked around and found a body under a tree near the cart.\n*'''Kassandra:''' ''Shot in the back while fleeing. Must be the work of bandits.''\nWith [[Ikaros]]' help, Kassandra found the [[Lumber Shipyard|lumberyard]] west of her location, occupied by bandits.\n*'''Kassandra:''' ''That must be the bandit camp I'm looking for.''\nKassandra headed towards the yard and killed the bandits. She recovered some wood from a chest and returned to Drucilla.\n\n<tabber>\n|-|Aggressive approach=\n*'''Drucilla:''' ''Ah, it's Markos' assistant! Bringing me the wood i need, I hope.''\n*'''Kassandra:''' ''Assistant? I don't think so.''\n*'''Drucilla:''' ''I-I meant Markos' muscle! How stupid of me.''\nKassandra handed over the wood.\n*'''Kassandra:''' ''This will tide you over until the rest of the wood arrives in town.''\n|-|Passive approach=\n*'''Drucilla:''' ''Oh, look, it's Markos' mighty champion. Don't tell me you actually did what I asked?''\n*'''Kassandra:''' ''I tracked the bandits and sent them to [[Hades]]. Your wood should arrive in town soon.''\n*'''Drucilla:''' ''And you expect me to believe the word of a mercenary?''\n{{#tag:tabber|\nI have proof.=\n*'''Kassandra:''' ''I didn't expect you to believe me, so I brought this.''\nKassandra took out the wood.\n*'''Kassandra:''' ''Here's your proof. A sample of the special wood you want so badly. These bows you're making had better be worthy of [[Apollo]] for all the trouble I've gone to.''\n{{!}}-{{!}}\nYou should be more trusting.=\n*'''Kassandra:''' ''You really should have more faith in people. I said I'd get it done, and I did.''\nKassandra took out the wood.\n*'''Kassandra:''' ''I brought you some wood back to work with until the rest arrives.''\n}}\n</tabber>\n*'''Drucilla:''' ''By the gods! You sure you work with Markos? He's never once delivered on a promise. Incredible!''\n*'''Kassandra:''' ''I might work with him, but we're nothing alike. I'm true to my word.''\n*'''Drucilla:''' ''Then take your pay. Give none to Markos.''",
+    "Section_Outcome": "Kassandra helped Drucilla to deal with her bandit problem and recover some Kephallonian lumber.",
+    "Section_Behind_the_scenes": "Depending on the approach used by Kassandra in the beginning of the dialogue, it will affect the dialogue used by Drucilla when replying to her.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Bois aux abois]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kephallonia Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Drucilla at her shop near the [[Temple of Zeus, Kephallonia|Temple of Zeus]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Drucilla:''' ''Fair is fair. Are you going to get my [[wood]]? Those fucking bandits need a thrashing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Fair is fair. I'll fix your wood problem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Drucilla:''' ''Finally. Markos sure is lucky he's got you as his scapegoat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "5",
+            "content": "(If players choose \"Where are the bandits?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Any idea where these bandits are?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Drucilla:''' ''I'm not a tracker. I'm a bowyer. They're in the mountain somewhere\u2014that much I know. I'd check close to the lumber camps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "8",
+            "content": "(If players choose \"What's special about the wood?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''There's plenty of trees around. Why do you need this type of wood?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "10",
+            "content": "Drucilla whispered to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Drucilla:''' ''I've been working on a new type of [[bow]]. It's more flexible, so it lasts longer and can fire at greater range. Only a very special type of wood that grows high in the mountains will do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "12",
+            "content": "(If players choose \"I'll get going.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll take care of the bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Drucilla:''' ''Make sure that you do, and be quick about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "17",
+            "content": "|-|Quit moaning.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Your moaning won't get the job done any faster. I'll kill the bandits and get your fucking wood back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Drucilla:''' ''I-I know you will. Take your time finding them. I trust you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|Have patience.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll deal with these bandits and get you the wood you need as fast as I can. Have patience, it won't take long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Drucilla:''' ''Ha! If you knew how long Markos has been feeding me excuses, you wouldn't be saying that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "23",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "24",
+            "content": "[[File:ACOD_-_Lumbering_Along_3.png|thumb|240px|Kassandra examining the footprints]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "25",
+            "content": "Kassandra travelled west to the [[Coast of Koliadai]]. Along the road, she found a whole lot of footprints. She leaned closer to investigate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''That's a lot of footprints. A group left this area headed west.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "27",
+            "content": "Walking up further, she found an empty cart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''The cart was emptied, then left behind. The [[thief]] can't have gotten far with that much cargo.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": "Kassandra looked around and found a body under a tree near the cart.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Shot in the back while fleeing. Must be the work of bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "31",
+            "content": "With [[Ikaros]]' help, Kassandra found the [[Lumber Shipyard|lumberyard]] west of her location, occupied by bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''That must be the bandit camp I'm looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "33",
+            "content": "Kassandra headed towards the yard and killed the bandits. She recovered some wood from a chest and returned to Drucilla.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "35",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "36",
+            "content": "|-|Aggressive approach=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "37",
+            "content": "*'''Drucilla:''' ''Ah, it's Markos' assistant! Bringing me the wood i need, I hope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Assistant? I don't think so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "39",
+            "content": "*'''Drucilla:''' ''I-I meant Markos' muscle! How stupid of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "40",
+            "content": "Kassandra handed over the wood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''This will tide you over until the rest of the wood arrives in town.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "42",
+            "content": "|-|Passive approach=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "43",
+            "content": "*'''Drucilla:''' ''Oh, look, it's Markos' mighty champion. Don't tell me you actually did what I asked?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I tracked the bandits and sent them to [[Hades]]. Your wood should arrive in town soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "45",
+            "content": "*'''Drucilla:''' ''And you expect me to believe the word of a mercenary?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "46",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "47",
+            "content": "I have proof.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I didn't expect you to believe me, so I brought this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "49",
+            "content": "Kassandra took out the wood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Here's your proof. A sample of the special wood you want so badly. These bows you're making had better be worthy of [[Apollo]] for all the trouble I've gone to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "51",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "52",
+            "content": "You should be more trusting.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''You really should have more faith in people. I said I'd get it done, and I did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "54",
+            "content": "Kassandra took out the wood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I brought you some wood back to work with until the rest arrives.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "56",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "57",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D29",
+            "global_id": "58",
+            "content": "*'''Drucilla:''' ''By the gods! You sure you work with Markos? He's never once delivered on a promise. Incredible!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''I might work with him, but we're nothing alike. I'm true to my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "60",
+            "content": "*'''Drucilla:''' ''Then take your pay. Give none to Markos.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

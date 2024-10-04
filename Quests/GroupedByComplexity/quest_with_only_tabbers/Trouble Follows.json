@@ -1,0 +1,246 @@
+{
+    "Quest_Name": "Trouble Follows",
+    "Quest_ID": "227488",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD-TroubleFollows-02.jpg",
+        "description": "'After Kassandra saved Himilko from Heitor's wrath, his new wife bemoaned that Himilko had yet to learn his lesson, having soon made trouble with another 'Mercenary|misthios'.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Trouble Follows''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Himilko]]'s new wife sought Kassandra's help, as her husband was in trouble again with a [[mercenary]].",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra saw a contract from Himilko's wife on a [[message board]].\n:'''Note:'''<br>''For the ''misthios'' who helped my husband Himilko, please, come see me!''\nKassandra accepted the contact and left to find Himilko's wife, who was waiting just outside the town. Kassandra walked up and talked to the woman.\n*'''Kassandra:''' ''I picked up your message on the board. What's happening?''\n*'''Woman:''' ''[[Eagle]] Bearer! I know what you did for my Himilko\u2014how you stopped that traitorous [[Heitor]] from killing him.''\n<tabber>\n|-|I had already done my job.=\n*'''Kassandra:''' ''My job was to [[Heitor's Harpe|retrieve]] a [[sword]] for him, not act on some petty quest for vengeance.''\n|-|Everyone deserves a chance.=\n*'''Kassandra:''' ''The fight between him and your husband wasn't something I wanted to get involved with. It wasn't my place to kill him.''\n</tabber>\n*'''Woman:''' ''Well, I wholeheartedly thank you. I only wish our mercenary troubles were over.''\n*'''Kassandra:''' ''Mercenary troubles?''\n*'''Woman:''' ''I was really hoping the trouble with Heitor would teach my Himilko a lesson, but since returning home, he's gotten into trouble with yet another mercenary.''\n*'''Kassandra:''' ''And let me guess, you want me to kill him.''\n*'''Woman:''' ''I know it's a tall order, but I want this mercenary dead.''\n(Accept \u2013 \"I'll kill this mercenary.\")\n[[File:ACOD-TroubleFollows-05.jpg|thumb|250px|Kassandra fighting the mercenary.]]\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''Good, please be quick.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra hunted down the target, then engaged the mercenary in a duel and killed them.\n*'''Kassandra:''' ''Job done.''\nKassandra returned to Himilko's wife.\n*'''Woman:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Woman:''' ''You've earned your payment, ''misthios''. Here. This is for you.''\n<tabber>\n|-|You should join my crew.=\nSeeing that Himilko seemed to always get into trouble with mercenaries, causing no end of worry for those closest to him, Kassandra offered his wife a position aboard the ''[[Adrestia]]''.\n*'''Kassandra:''' ''Doesn't look this life is offering you much, but another awaits aboard my ship. Sail with me \u2013 we  need someone like you.''\n*'''Woman:''' ''My family is here, ''misthios''. I can't leave them behind.''\n*'''Kassandra:''' ''Too bad. You would have loved life on the sea.''\n|-|Thank you=\n*'''Kassandra:''' ''All in a day's work.''\n</tabber>",
+    "Section_Outcome": "Kassandra hunted down the mercenary and killed them, saving Himilko's life again and earning [[drachma]]e.",
+    "Section_Trivia": "*The appearance of Himilko's wife and the target mercenary are randomized, as is the location of the in-game quest icon.\n*This quest is available only if Himilko lives after the memory \"[[A Friend in Need...]]\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While traveling across [[Greece]], Kassandra saw a contract from Himilko's wife on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": ":'''Note:'''<br>''For the ''misthios'' who helped my husband Himilko, please, come see me!''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "3",
+            "content": "Kassandra accepted the contact and left to find Himilko's wife, who was waiting just outside the town. Kassandra walked up and talked to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I picked up your message on the board. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''[[Eagle]] Bearer! I know what you did for my Himilko\u2014how you stopped that traitorous [[Heitor]] from killing him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|I had already done my job.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''My job was to [[Heitor's Harpe|retrieve]] a [[sword]] for him, not act on some petty quest for vengeance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Everyone deserves a chance.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''The fight between him and your husband wasn't something I wanted to get involved with. It wasn't my place to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''Well, I wholeheartedly thank you. I only wish our mercenary troubles were over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Mercenary troubles?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Woman:''' ''I was really hoping the trouble with Heitor would teach my Himilko a lesson, but since returning home, he's gotten into trouble with yet another mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''And let me guess, you want me to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''I know it's a tall order, but I want this mercenary dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Accept \u2013 \"I'll kill this mercenary.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "I1",
+            "global_id": "18",
+            "content": "[[File:ACOD-TroubleFollows-05.jpg|thumb|250px|Kassandra fighting the mercenary.]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Woman:''' ''Good, please be quick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "22",
+            "content": "Kassandra hunted down the target, then engaged the mercenary in a duel and killed them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Job done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "24",
+            "content": "Kassandra returned to Himilko's wife.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Woman:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Woman:''' ''You've earned your payment, ''misthios''. Here. This is for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "28",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "29",
+            "content": "|-|You should join my crew.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "30",
+            "content": "Seeing that Himilko seemed to always get into trouble with mercenaries, causing no end of worry for those closest to him, Kassandra offered his wife a position aboard the ''[[Adrestia]]''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Doesn't look this life is offering you much, but another awaits aboard my ship. Sail with me \u2013 we  need someone like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Woman:''' ''My family is here, ''misthios''. I can't leave them behind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Too bad. You would have loved life on the sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "34",
+            "content": "|-|Thank you=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "36",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

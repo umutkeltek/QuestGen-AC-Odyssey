@@ -1,0 +1,144 @@
+{
+    "Quest_Name": "Broken Promises",
+    "Quest_ID": "223197",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD-BrokenPromises-02.jpg",
+        "description": "'A 'Courtesan|hetaera' entertained a client who promised her riches but delivered nothing. Her reputation at stake, the 'hetaera' plotted against him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Broken Promises''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A ''[[Courtesan|hetaera]]'' sought the help of a [[mercenary]] to enact vengeance on a frugal client.",
+    "Section_Dialogue": "While Kassandra was travelling across [[Greece]], a ''hetaera'' caught her attention and motioned her aside.\n*'''Kassandra:''' ''Anything a ''misthios'' can help you with, stranger?''\n*'''Woman:''' ''One of my clients gives me nothing but excuses. I cannot live on such wretched offerings. The other ''hetaerae'' all receive beautiful gifts.''\n*'''Kassandra:''' ''It sounds like he's trying to cheat you.''\n*'''Woman:''' ''I won't stand for that. Here I am, without so much as a necklace or new robe\u2014not even a coin for all his promises. The other girls have started mocking me.''\n*'''Kassandra:''' ''You need me to deal with him.''\n*'''Woman:''' ''You understand quickly.''\n(Accept \u2013 \"I'm going to help you.\")\n[[File:ACOD-BrokenPromises-04.jpg|thumb|250px|Kassandra aiming her bow at the ''hetaera''{{'}}s client.]]\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''I'm in your debt.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra tracked down the client, who was in deep conversation with another man near the market, and killed him.\n*'''Kasssandra:''' ''Time to collect.''\nKassandra returned to the hetaera.\n*'''Woman:''' ''Has he been... dealt with, ''misthios''?''\n*'''Kassandra:''' ''He won't be bothering anyone anymore.''\n*'''Woman:''' ''You've set great things in motion. Take this as thanks.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra found and assassinated the ''hetaera''{{'}}s miserly client.",
+    "Section_Trivia": "*The location and character models for both the quest giver and the client are randomized.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While Kassandra was travelling across [[Greece]], a ''hetaera'' caught her attention and motioned her aside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Anything a ''misthios'' can help you with, stranger?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Woman:''' ''One of my clients gives me nothing but excuses. I cannot live on such wretched offerings. The other ''hetaerae'' all receive beautiful gifts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''It sounds like he's trying to cheat you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''I won't stand for that. Here I am, without so much as a necklace or new robe\u2014not even a coin for all his promises. The other girls have started mocking me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You need me to deal with him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''You understand quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(Accept \u2013 \"I'm going to help you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "I1",
+            "global_id": "9",
+            "content": "[[File:ACOD-BrokenPromises-04.jpg|thumb|250px|Kassandra aiming her bow at the ''hetaera''{{'}}s client.]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Woman:''' ''I'm in your debt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''You can leave everything to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "13",
+            "content": "Kassandra tracked down the client, who was in deep conversation with another man near the market, and killed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kasssandra:''' ''Time to collect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "15",
+            "content": "Kassandra returned to the hetaera.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''Has he been... dealt with, ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''He won't be bothering anyone anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Woman:''' ''You've set great things in motion. Take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

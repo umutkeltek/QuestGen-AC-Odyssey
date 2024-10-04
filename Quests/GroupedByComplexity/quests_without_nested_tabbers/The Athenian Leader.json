@@ -1,0 +1,107 @@
+{
+    "Quest_Name": "The Athenian Leader",
+    "Quest_ID": "222498",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_c": {
+            "description": "support"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD - The Athenian Leader.png",
+        "description": "'In order to defeat the Athens|Athenians in Megaris, Stentor asked Kassandra to kill the region's Leader. He mentioned that this task would be easier if she weakened the Athenian's position first.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "A Journey into War",
+        "next": "The Missing Map {{c|support}}<br>\nPortion Control {{c|support}}<br>\nCrumble and Burn {{c|support}}<br>\nOne Man Army {{c|support}}<br>\nThe Athenian Treasure Trove {{c|support}}<br>\nThe Final Push",
+        "source": "Kassandra",
+        "location": "Megara, Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''The Athenian Leader''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "After eliminating the [[Athens|Athenian]] influence in [[Megaris]], which greatly weakened the Leader's power, Kassandra sought to eliminate him.",
+    "Section_Dialogue": "Kassandra made her way inland after her discussion with [[Stentor]]. Almost immediately, she ran into a deceased [[soldier]].\n*'''Kassandra:''' ''Could be one of Stentor's scouts. Looks like he's run into some problems.''\nShe then infiltrated the [[Port of Nisaia]] to destroy the Athenian supplies there.\n*'''Kassandra:''' ''The Port of Nisaia. If I'm going to find Athenian supplies this'll be the place.''\nFurther inside, she found what she was looking for.\n*'''Kassandra:''' ''Those blue supply crates with the white [[owl]] are the ones I need to destroy. A single fire arrow should do the trick.''\nKassandra then made her way through [[Megaris]] to [[Fort Geraneia]]. Upon reaching the outskirts, she began to work her way into the Fort.\n*'''Kassandra:''' ''Fort Geraneia is formidable. This must be where the Athenians keep their war chest. I should use [[Ikaros]] to find what I need.''\nKassandra snuck her way inside the building housing the treasure.\n*'''Kassandra:''' ''I should get the treasure and leave quietly. The Athenian soldier's won't be so eager to fight when they don't get paid.''\nWith the Athenian supplies destroyed, their treasure stolen, and soldiers killed, Kassandra made her way to [[Megara]] to face their leader in the [[Leader House, Megaris|Leader House]] and assassinated him.\n*'''Kassandra:''' ''Now the Athenian leader is dead. I should return to Stentor.''",
+    "Section_Outcome": "Kassandra eliminated the leader in Megara, greatly diminishing the Athenian's strength in the region.",
+    "Section_Trivia": "*This quest serves as a parent quest for [[Crumble and Burn]], [[The Athenian Treasure Trove]], and [[One Man Army]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Le dirigeant ath\u00e9nien]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way inland after her discussion with [[Stentor]]. Almost immediately, she ran into a deceased [[soldier]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Could be one of Stentor's scouts. Looks like he's run into some problems.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She then infiltrated the [[Port of Nisaia]] to destroy the Athenian supplies there.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The Port of Nisaia. If I'm going to find Athenian supplies this'll be the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Further inside, she found what she was looking for.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Those blue supply crates with the white [[owl]] are the ones I need to destroy. A single fire arrow should do the trick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra then made her way through [[Megaris]] to [[Fort Geraneia]]. Upon reaching the outskirts, she began to work her way into the Fort.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Fort Geraneia is formidable. This must be where the Athenians keep their war chest. I should use [[Ikaros]] to find what I need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "9",
+            "content": "Kassandra snuck her way inside the building housing the treasure.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I should get the treasure and leave quietly. The Athenian soldier's won't be so eager to fight when they don't get paid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "11",
+            "content": "With the Athenian supplies destroyed, their treasure stolen, and soldiers killed, Kassandra made her way to [[Megara]] to face their leader in the [[Leader House, Megaris|Leader House]] and assassinated him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Now the Athenian leader is dead. I should return to Stentor.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

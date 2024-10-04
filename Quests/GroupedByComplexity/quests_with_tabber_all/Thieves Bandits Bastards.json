@@ -1,0 +1,166 @@
+{
+    "Quest_Name": "Thieves Bandits Bastards",
+    "Quest_ID": "236875",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Thieves Bandits Bastards",
+        "description": "'With the resources of the region stolen, all Thief|thieves became bold. A woman whose house was robbed plotted revenge against them.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Thieves Bandits Bastards''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A woman sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''[[Drachma]]e to anyone who can help me put these cursed [[Thief|thieves]] in their place!''\nShe sought out the woman and addressed her.\n*'''Kassandra:''' ''You left a note on the board. What's going on?''\n*'''Woman:''' ''All thieves are bold since our [[Nation Leader|leader]] died. Bastards dare to come into my home?!''\n*'''Kassandra:''' ''You were robbed?''\n*'''Woman:''' ''Thieves! [[Bandit]]s! Bastards. They violate my household and make off with the vase given to me for my wedding... Death is too kind for them!''\n<tabber>\n|-|You want it brought back to you.=\n*'''Kassandra:''' ''So you want me to take it from the bandits.''\n*'''Woman:''' ''You read me like an [[Pythia|oracle]].''\n|-|You want them all killed.=\n</tabber>\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''All right. I'll do it.''\n*'''Woman:''' ''Thank the gods!''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra did as asked, and then returned to the woman.\n*'''Woman:''' ''Tell me it's been handled, ''misthios.\n*'''Kassandra:''' ''It's all yours.''\n*'''Woman:''' ''You do good work, ''misthios''. Take this for your trouble.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra helped the woman.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''[[Drachma]]e to anyone who can help me put these cursed [[Thief|thieves]] in their place!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the woman and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''All thieves are bold since our [[Nation Leader|leader]] died. Bastards dare to come into my home?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You were robbed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''Thieves! [[Bandit]]s! Bastards. They violate my household and make off with the vase given to me for my wedding... Death is too kind for them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You want it brought back to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''So you want me to take it from the bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Woman:''' ''You read me like an [[Pythia|oracle]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|You want them all killed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Accept - I'll bring it to you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''All right. I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''Thank the gods!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Kassandra did as asked, and then returned to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Woman:''' ''Tell me it's been handled, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It's all yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Woman:''' ''You do good work, ''misthios''. Take this for your trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

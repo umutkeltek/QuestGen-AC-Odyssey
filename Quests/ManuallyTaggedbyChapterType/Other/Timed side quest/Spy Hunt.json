@@ -1,0 +1,43 @@
+{
+    "QuestName": "Spy Hunt",
+    "QuestID": "236252",
+    "Revision": {
+        "id": "1047563",
+        "parentid": "841886",
+        "timestamp": "2023-06-13T19:33:18Z",
+        "contributor": null,
+        "comment": "updated imageneed template, typo",
+        "origin": "1047563",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "lh72ybaiftsz6wz247z0ti7a41ubxv3"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Spy Hunt",
+        "image": null,
+        "description": "'Some hunters in the wilderness were disinterested in the Peloponnesian War|war, thinking it a matter of the city-states until spies and scouts invaded their hunting grounds.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Spy Hunt''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Spies were stalking through the fields of a huntress, who decided to get rid of them.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Spies are creeping though my fields. Work for [[Mercenary|mercenaries]] willing to get their hands dirty.''\nShe sought out the huntress and addressed her.\n*'''Kassandra:''' ''I've been looking for you... I saw your message. What's happened?''\n*'''Woman:''' ''Spies from the city have been creeping through the fields and delivering supplies. I think they're planning where to set up camp.''\n*'''Kassandra:''' ''The [[Peloponnesian War|war]]'s not to your liking?''\n*'''Woman:''' ''When is there not war? In the city they care for war. I just want to eat. There's plenty of places they can fight without trampling my hunting grounds. I need to see those supply-running spies.''\n*'''Kassandra:''' ''You need me to destroy the military supplies?''\n*'''Woman:''' ''I knew I asked the right person.''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Woman:''' ''Good. Get it done soon.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left the woman and did as she'd asked before returning to her.\n(Missing dialogue.)",
+    "Section_Outcome": "Kassandra aided a huntress, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

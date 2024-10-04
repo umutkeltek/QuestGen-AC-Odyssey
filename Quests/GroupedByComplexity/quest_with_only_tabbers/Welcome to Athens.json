@@ -1,0 +1,494 @@
+{
+    "Quest_Name": "Welcome to Athens",
+    "Quest_ID": "222783",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Welcome to Athens - Assassins Creed_Odyssey.png",
+        "description": "'After meeting Alexios|Deimos face to face, Herodotos and Kassandra headed to Perikles, leader of Athens, in the hopes he would have information on the whereabouts of Kassandra's Myrrine|mother.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Memories Awoken",
+        "next": "Perikles's Symposium",
+        "concurrent": "A Venomous Encounter<br>Escape from Athens<br>Ostracized",
+        "source": "Kassandra",
+        "location": "Athens, Greece",
+        "date": "May 431 BCE"
+    },
+    "General_Description": "'''Welcome to Athens''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra accepted [[Herodotos]]' offer to meet Perikles in [[Athens]].",
+    "Section_Dialogue": "Kassandra and Herodotos made their way ashore in [[Attika]].\n*'''Herodotos:''' ''When you're ready, meet me at the [[Pnyx]] in Athens.''\nThey went their separate ways, and eventually Kassandra found herself in Athens. Meeting with Herodotos at the Pnyx, she witnessed [[Perikles]] talking to a crowd.\n*'''Perikles:''' ''The [[Sparta]]ns may draw near to our walls, but we must come together now for the glory of Athens.''\n*'''Civilian:''' ''Glory for you!''\nA civilian threw food at Perikles, hitting him.\n*'''[[Kleon]]:''' ''Friends! Friends, please! Just because the Spartans are near our walls does not mean we can act like them.''\nHe picked the food off of Perikles, eating it.\n*'''Kleon:''' ''A good crop! Shame the Spartans burned the fields where it grew. The [[Parthenon]] is glorious, Perikles, but at what cost? How many triremes could we have built instead?''\n*'''Perikles:''' ''We must not become divided\u2014''\n*'''Kleon:''' ''We are ''divided'', and the Spartans are winning! Act, Perikles, or I will!''\nHerodotos came upon Kassandra as she listened.\n*'''Herodotos:''' ''Oh good, you came. Things are worse than I feared. Kleon has turned the mob. We have to hurry.''\n*'''Kassandra:''' ''Where?''\n*'''Herodotos:''' ''To Perikles.''\nThey approached Perikles, only to be blocked by an Athenian soldier.\n*'''Athenian Soldier:''' ''Stay back.''\n*'''Herodotos:''' ''She's no threat to Perikles, I assure you.''\n*'''Perikles:''' ''Ah, Herodotos. It's fine. Let them through.''\n[[File:ACOD Welcome to Athens Memory Screenshot 01.png|thumb|250px|Kassandra and Herodotos greeted by Perikles]]\nPerikles shook the hands of Herodotos.\n*'''Herodotos:''' ''It's good to see you again, Perikles.''\n*'''Perikles:''' ''And you as well. I only wish it were under better circumstances. And who's this?''\n*'''Kassandra:''' ''Kassandra.''\n*'''Perikles:''' ''Welcome, Kassandra. And what did you think of your first taste of Athens?''\n\n<tabber>\n|-|You both made good points.=\n*'''Kassandra:''' ''I think you and Kleon both made good points.''\n*'''Perikles:''' ''Good points aren't at all what the crowd seemed to care about. They're afraid, and Kleon indulged their fear.''\n|-|...=\nKassandra stayed quiet.\n*'''Perikles:''' ''Nothing to say? Others would do well to realize silence is as much as an answer as anything else. A crowd would seize the first easy answer that comes its way, like a hungry dog on a bone.''\n|-|You did great.=\n*'''Kassandra:''' ''I think you did a great job.''\n*'''Perikles:''' ''It's so easy to forget the good someone has done when times become hard.''\n</tabber>\n*'''Kassandra:''' ''Perikles, we've come to\u2014''\n*'''Herodotos:''' ''We must choose our moment wisely and speak our words more privately.''\n*'''Kassandra:''' ''Fine. We've come to you on... urgent business.''\n*'''Perikles:''' ''As does everybody.''\n*'''Herodotos:''' ''I may have told Kassandra you'd invite her to your symposium.''\n*'''Perikles:''' ''You'd ask me to exclude every Athenian and invite an outsider instead? You heard the crowd. They don't need another reason to hate me.''\n*'''Herodotos:''' ''If she's working for you, maybe the prying eyes will see her as a servant.''\n*'''Kassandra:''' ''I'm no one's \"servant.\"''\n*'''Herodotos:''' ''Kassandra, this is Athens. If you want something, sometimes you have to play the role.''\n*'''Perikles:''' ''And what exactly is it that you want?''\n<tabber>\n|-|We all want something.=\n*'''Kassandra:''' ''We're all after something, even you.''\n*'''Perikles:''' ''You're better at reading others than you let on.''\n|-|I'm looking for someone.=\n*'''Kassandra:''' ''I'm looking for a woman who's very important to me. Herodotos said a symposium could be useful for gaining information.''\n*'''Perikles:''' ''He would be correct. I can get you in, although I can't promise the information you seek will be found.''\n</tabber>\n*'''Kassandra:''' ''Just tell me what to do.''\n[[File:ACOD Welcome to Athens Memory Screenshot 03.png|thumb|250px|Perikles tasking Kassandra to help his associates]]\n*'''Perikles:''' ''First, check on my colleague, [[Metiochos]]. He was meant to meet me today, and it's not like him to miss an appointment.''\n*'''Kassandra:''' ''Done.''\n*'''Perikles:''' ''My friend, [[Phidias]], needs to be taken out of Athens as soon as possible.''\n*'''Kassandra:''' ''Anything else?''\n*'''Perikles:''' ''Yes, there's an ostracism vote taking place that could use your... influence.''\n(If players choose \"Who is Metiochos?\")\n*'''Kassandra:''' ''Metiochos... you said he was your colleague?''\n*'''Perikles:''' ''A politician and ally. He's one of my most loyal friends.''\n(If players choose \"What did Phidias do?\")\n*'''Kassandra:''' ''Phidias... the famous sculptor? What did he do, exactly?''\n*'''Perikles:''' ''He stands accused of multiple offenses and is awaiting trial. You'll find him under close guard at his workshop.''\n(If players choose \"What's an ostracism?\")\n*'''Kassandra:''' ''Ostracism?''\n*'''Herodotos:''' ''Exile is a term you may be more familiar with. Here in Athens, we vote between two people to decide who should leave.''\n*'''Perikles:''' ''It's between the sophist, [[Anaxagoras]], and another man. On trial for impiety. My contact near the agora will give you the details.''\n*'''Kassandra:''' ''I'll do it.''\n*'''Perikles:''' ''I'll expect you to use discretion.''\nPerikles took his leave.\n*'''Herodotos:''' ''That went well! It isn't exactly an invitation, but the promise is just as good. Although I'm sure he'll still ask [[Aspasia]] if it's OK.''\n*'''Kassandra:''' ''So long as it comes.''",
+    "Section_Outcome": "On Herotodos' suggestion, Kassandra met the Athenian statesman Perikles at the Pnyx. There, Perikles requested Kassandra to help him with a number of errands in exchange for the information that she needs.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "8.",
+    "Chapter_Name": "The Road to the Symposium",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra and Herodotos made their way ashore in [[Attika]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Herodotos:''' ''When you're ready, meet me at the [[Pnyx]] in Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "They went their separate ways, and eventually Kassandra found herself in Athens. Meeting with Herodotos at the Pnyx, she witnessed [[Perikles]] talking to a crowd.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Perikles:''' ''The [[Sparta]]ns may draw near to our walls, but we must come together now for the glory of Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''Glory for you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "A civilian threw food at Perikles, hitting him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''[[Kleon]]:''' ''Friends! Friends, please! Just because the Spartans are near our walls does not mean we can act like them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "He picked the food off of Perikles, eating it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kleon:''' ''A good crop! Shame the Spartans burned the fields where it grew. The [[Parthenon]] is glorious, Perikles, but at what cost? How many triremes could we have built instead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Perikles:''' ''We must not become divided\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kleon:''' ''We are ''divided'', and the Spartans are winning! Act, Perikles, or I will!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "12",
+            "content": "Herodotos came upon Kassandra as she listened.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Herodotos:''' ''Oh good, you came. Things are worse than I feared. Kleon has turned the mob. We have to hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Where?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Herodotos:''' ''To Perikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "16",
+            "content": "They approached Perikles, only to be blocked by an Athenian soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Athenian Soldier:''' ''Stay back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Herodotos:''' ''She's no threat to Perikles, I assure you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Perikles:''' ''Ah, Herodotos. It's fine. Let them through.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "20",
+            "content": "[[File:ACOD Welcome to Athens Memory Screenshot 01.png|thumb|250px|Kassandra and Herodotos greeted by Perikles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "21",
+            "content": "Perikles shook the hands of Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Herodotos:''' ''It's good to see you again, Perikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Perikles:''' ''And you as well. I only wish it were under better circumstances. And who's this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Perikles:''' ''Welcome, Kassandra. And what did you think of your first taste of Athens?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "27",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "28",
+            "content": "|-|You both made good points.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I think you and Kleon both made good points.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Perikles:''' ''Good points aren't at all what the crowd seemed to care about. They're afraid, and Kleon indulged their fear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "31",
+            "content": "|-|...=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N8",
+            "global_id": "32",
+            "content": "Kassandra stayed quiet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Perikles:''' ''Nothing to say? Others would do well to realize silence is as much as an answer as anything else. A crowd would seize the first easy answer that comes its way, like a hungry dog on a bone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "34",
+            "content": "|-|You did great.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I think you did a great job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Perikles:''' ''It's so easy to forget the good someone has done when times become hard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Perikles, we've come to\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Herodotos:''' ''We must choose our moment wisely and speak our words more privately.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Fine. We've come to you on... urgent business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Perikles:''' ''As does everybody.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Herodotos:''' ''I may have told Kassandra you'd invite her to your symposium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "43",
+            "content": "*'''Perikles:''' ''You'd ask me to exclude every Athenian and invite an outsider instead? You heard the crowd. They don't need another reason to hate me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Herodotos:''' ''If she's working for you, maybe the prying eyes will see her as a servant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I'm no one's \"servant.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Herodotos:''' ''Kassandra, this is Athens. If you want something, sometimes you have to play the role.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Perikles:''' ''And what exactly is it that you want?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "48",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "49",
+            "content": "|-|We all want something.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''We're all after something, even you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Perikles:''' ''You're better at reading others than you let on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "52",
+            "content": "|-|I'm looking for someone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I'm looking for a woman who's very important to me. Herodotos said a symposium could be useful for gaining information.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Perikles:''' ''He would be correct. I can get you in, although I can't promise the information you seek will be found.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "55",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D37",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Just tell me what to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "57",
+            "content": "[[File:ACOD Welcome to Athens Memory Screenshot 03.png|thumb|250px|Perikles tasking Kassandra to help his associates]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D38",
+            "global_id": "58",
+            "content": "*'''Perikles:''' ''First, check on my colleague, [[Metiochos]]. He was meant to meet me today, and it's not like him to miss an appointment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''Done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Perikles:''' ''My friend, [[Phidias]], needs to be taken out of Athens as soon as possible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Anything else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "62",
+            "content": "*'''Perikles:''' ''Yes, there's an ostracism vote taking place that could use your... influence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "63",
+            "content": "(If players choose \"Who is Metiochos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D43",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Metiochos... you said he was your colleague?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "65",
+            "content": "*'''Perikles:''' ''A politician and ally. He's one of my most loyal friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "66",
+            "content": "(If players choose \"What did Phidias do?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D45",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Phidias... the famous sculptor? What did he do, exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "68",
+            "content": "*'''Perikles:''' ''He stands accused of multiple offenses and is awaiting trial. You'll find him under close guard at his workshop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "69",
+            "content": "(If players choose \"What's an ostracism?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D47",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Ostracism?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "71",
+            "content": "*'''Herodotos:''' ''Exile is a term you may be more familiar with. Here in Athens, we vote between two people to decide who should leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "72",
+            "content": "*'''Perikles:''' ''It's between the sophist, [[Anaxagoras]], and another man. On trial for impiety. My contact near the agora will give you the details.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "74",
+            "content": "*'''Perikles:''' ''I'll expect you to use discretion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "75",
+            "content": "Perikles took his leave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "76",
+            "content": "*'''Herodotos:''' ''That went well! It isn't exactly an invitation, but the promise is just as good. Although I'm sure he'll still ask [[Aspasia]] if it's OK.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''So long as it comes.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

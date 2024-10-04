@@ -1,0 +1,544 @@
+{
+    "Quest_Name": "The Handmaiden's Story",
+    "Quest_ID": "224734",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Handmaiden's Story",
+        "image": "ACOD The Handmaiden's Story 2.png",
+        "description": "'Diona desperately needed Kassandra to go to the Eritha|high priestess to help her find the traitor within their ranks - if there was one.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World, Support",
+        "previous": "Place in the Kosmos",
+        "concurrent": "All Bonds Will Break<br>Pick Your Poison",
+        "next": "In a Rush",
+        "source": "Kassandra",
+        "location": "Kythera, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''The Handmaiden's Story''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Diona]] requested Kassandra to look for her sister [[Eritha]] for information about the traitor within their ranks.",
+    "Section_Dialogue": "Kassandra made her way to the [[Temple of Aphrodite, Kythera|Temple of Aphrodite]], climbing the steps to knock on the locked doors to the High Priestess' chambers. She spoke to her through the doors, which had small holes through the eyes of the decorative birds.\n*'''Kassandra:''' ''High Priestess. Open up.''\n*'''Eritha:''' ''So you can kill me? Who sent you!''\n<tabber>\n|-|I'm here to help.=\n*'''Kassandra:''' ''Diona sent me. I'm a friend.''\n*'''Eritha:''' ''What did that idiot girl send a ''[[Mercenary|misthios]]'' for? I gave her orders to follow, not to delegate.''\n\n|-|I don't want you dead.=\n*'''Kassandra:''' ''If I wanted you dead, I wouldn't have knocked. Diona sent me.''\n*'''Eritha:''' ''To run her errands? You must be another one of her idiotic suitors.<br>At least you look better than that other [[Glaukos|idiot]] at the [[Skandeia Harbor|harbor]].''\n\n</tabber>\n*'''Kassandra:''' ''She says you think there's a traitor in your midst.''\n*'''Eritha:''' ''You can't trust anyone these days.<br>What do you want with the [[Cult of Kosmos|Cult]]?''\n<tabber>\n|-|Vengence.=\n*'''Kassandra:''' ''They ripped my family apart! I'll have vengeance.''\n*'''Eritha:''' ''Excellent. Anger is a wonderful motivator.''\n\n|-|Justice.=\n*'''Kassandra:''' ''They have wronged my family and it's only right they pay for it. I'll have justice.''\n*'''Eritha:''' ''Family is indeed a powerful motivator.''\n\n</tabber>\n*'''Kassandra:''' ''The Cult of Kosmos have much to answer for. And they will answer to me.''\n*'''Eritha:''' ''Perhaps you will be of use to me after all.<br>I sent one of my handmaidens to spy on some of our own and -''\n*'''Kassandra:''' ''She hasn't returned.''\n*'''Eritha:''' ''Indeed.<br>Except I couldn't care less about her... it's the information she uncovered I desire. Retrieve it for me.''\n\n(If players asked \"How is your relationship with Diona?\")\n*'''Kassandra:''' ''Your dislike for your sister is obvious. What happened between you two?''\n*'''Eritha:''' ''I'm the first born, and with that comes certain privileges and responsibilities. My sister is a vindictive, jealous creature.<br>She undermines my authority constantly. Clearly, she thinks she'd make the better High Priestess.''\n*'''Kassandra:''' ''I see.''\n*'''Eritha:''' ''But she is my sister. And I do love her.<br>I just wish she wasn't a jealous little fool.''\n[[File:ACOD The Handmaiden's Story 3.png|thumb|250px|Kassandra questioning Eritha about her handmaiden's location]]\n(If players asked \"Where was your handmaiden last seen?\")\n*'''Kassandra:''' ''Where should I start looking for her?''\n*'''Eritha:''' ''I sent her to the outskirts of [[Kythera Town|Kythera]].<br>Hm... I recall there being a [[Olive Farm|farm]] in that area. She might've taken refuge there.''\n*'''Kassandra:''' ''That's where I'll start then.''\n(If [[All Bonds Will Break]] was completed prior)\n*'''Eritha:''' ''She would be looking to avoid busy areas like the [[Phoinikeos Customs Warehouse|military camp]] - wait.<br>Did you have something to do with my prisoners being broken out of jail at the military camp?''\n<tabber>\n|-|Lie - No, it was the harbor master.=\n*'''Kassandra:''' ''The harbor master did it. I tried to stop him but I was too late.''\n*'''Eritha:''' ''Again with that worm! This is all Diona's fault.<br>She has him wrapped around her finger. Every once in a while, she'll break his heart and he'll do something stupid.<br>You did well trying to stop him. Now, get me my information while I deal with the harbor master.''\n\n|-|Yes, it was me.=\n*'''Kassandra:''' ''Yes, that was my doing.<br>The harbor master said the High Priestess locks up innocent people and executes them.<br>I could not stand idly by.''\n*'''Eritha:''' ''I wasn't going to execute them! Torture them, maybe. But all stand trial here in Kythera. That liar!<br>The harbor master strikes out at the temple when my sister scorns him. But this time, he's gone too far.<br>I'll overlook your involvement in this. Just make sure you get me that information while I deal with him.''\n\n</tabber>\n:(Followup - \"Where did you say your handmaiden was last seen?\")\n:*'''Kassandra:''' ''Where did you say to look again?''\n:*'''Eritha:''' ''Try the farm outside of the city. She might be hiding out there.''\n\n(Leave - \"I'll go now.\")\n*'''Kassandra:''' ''I'll get you the information your handmaiden found.''\n*'''Eritha:''' ''Good, I'll make it worth your while. Now go quickly, she was last seen east of [[Pilgrim Hill]].''\n\n:(If note already found - \"I found a message earlier.\")\n:*'''Kassandra:''' ''I found this note earlier on the body of a priestess at a farm. She was slain by Cultists before I found her.''\n:*'''Eritha:''' ''What? Read it to me, quickly!''\n*'''Kassandra:''' ''It says, \"Don't trust the [[Fates]].\" The rest of the papyrus is stained with blood.''\n(Dialogue continues below at \"That makes no sense.\")\n\nKassandra made her way east towards the Olive Farm. \n*'''Kassandra:''' ''Not many places for a handmaiden to hide in the outskirts of the city. This must be it.''\n:or (if players visited the farm before talking to Eritha)\n:*'''Kassandra:''' ''Cultists on a farm? Something's not right.''\nWith the help of [[Ikaros]], she located the distressed priestess.\n*'''Kassandra:''' ''Found her!''\n[[File:ACOD The Handmaiden's Story 5.png|thumb|250px|The handmaiden found dead by Kassandra]]\nUnfortunately, the handmaiden had already been slain by three Cult soldiers. Kassandra with the Cultist guards, and then inspected the handmaiden's remains. She found a note and read it aloud.\n*'''Kassandra:''' ''\"Do not trust the Fates.\"<br>Hm, it's addressed to the High Priestess. She needs to know about this.''\n\nKassandra returned to Eritha to deliver the message.\n*'''Eritha:''' ''Well? What of my handmaiden?''\n[[File:ACOD The Handmaiden's Story 6.png|thumb|250px|Kassandra reporting what she found to Eritha]]\n*'''Kassandra:''' ''She was murdered. It might have something to do with this note... it says \"Don't trust the Fates.\"''\n*'''Eritha:''' ''That's it?!''\n*'''Kassandra:''' ''The rest of the papyrus is stained with blood.''\n*'''Eritha:''' ''That makes no sense.''\n*'''Kassandra:''' ''She protected it with her life. It wasn't for nothing.''\n*'''Eritha:''' ''Now we'll never know for sure if there is a traitor in our ranks.<br>But I cannot rule out the possibility.<br>Our situation is dire. Work with Diona. Secure Kythera for us, ''misthios.",
+    "Section_Outcome": "Kassandra deliver the message from Eritha's handmaiden, \"Do not trust the Fates,\" to Eritha.",
+    "Section_Trivia": "*The name of the quest may be a reference to ''The Handmaid's Tale'' by Margaret Atwood.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Diona",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to the [[Temple of Aphrodite, Kythera|Temple of Aphrodite]], climbing the steps to knock on the locked doors to the High Priestess' chambers. She spoke to her through the doors, which had small holes through the eyes of the decorative birds.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''High Priestess. Open up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Eritha:''' ''So you can kill me? Who sent you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|I'm here to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Diona sent me. I'm a friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Eritha:''' ''What did that idiot girl send a ''[[Mercenary|misthios]]'' for? I gave her orders to follow, not to delegate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|I don't want you dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''If I wanted you dead, I wouldn't have knocked. Diona sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Eritha:''' ''To run her errands? You must be another one of her idiotic suitors.<br>At least you look better than that other [[Glaukos|idiot]] at the [[Skandeia Harbor|harbor]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''She says you think there's a traitor in your midst.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Eritha:''' ''You can't trust anyone these days.<br>What do you want with the [[Cult of Kosmos|Cult]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "17",
+            "content": "|-|Vengence.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''They ripped my family apart! I'll have vengeance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Eritha:''' ''Excellent. Anger is a wonderful motivator.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "21",
+            "content": "|-|Justice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''They have wronged my family and it's only right they pay for it. I'll have justice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Eritha:''' ''Family is indeed a powerful motivator.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE2",
+            "global_id": "25",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''The Cult of Kosmos have much to answer for. And they will answer to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Eritha:''' ''Perhaps you will be of use to me after all.<br>I sent one of my handmaidens to spy on some of our own and -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''She hasn't returned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Eritha:''' ''Indeed.<br>Except I couldn't care less about her... it's the information she uncovered I desire. Retrieve it for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "31",
+            "content": "(If players asked \"How is your relationship with Diona?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Your dislike for your sister is obvious. What happened between you two?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Eritha:''' ''I'm the first born, and with that comes certain privileges and responsibilities. My sister is a vindictive, jealous creature.<br>She undermines my authority constantly. Clearly, she thinks she'd make the better High Priestess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Eritha:''' ''But she is my sister. And I do love her.<br>I just wish she wasn't a jealous little fool.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "36",
+            "content": "[[File:ACOD The Handmaiden's Story 3.png|thumb|250px|Kassandra questioning Eritha about her handmaiden's location]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C2",
+            "global_id": "37",
+            "content": "(If players asked \"Where was your handmaiden last seen?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Where should I start looking for her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Eritha:''' ''I sent her to the outskirts of [[Kythera Town|Kythera]].<br>Hm... I recall there being a [[Olive Farm|farm]] in that area. She might've taken refuge there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''That's where I'll start then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "41",
+            "content": "(If [[All Bonds Will Break]] was completed prior)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Eritha:''' ''She would be looking to avoid busy areas like the [[Phoinikeos Customs Warehouse|military camp]] - wait.<br>Did you have something to do with my prisoners being broken out of jail at the military camp?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "44",
+            "content": "|-|Lie - No, it was the harbor master.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''The harbor master did it. I tried to stop him but I was too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Eritha:''' ''Again with that worm! This is all Diona's fault.<br>She has him wrapped around her finger. Every once in a while, she'll break his heart and he'll do something stupid.<br>You did well trying to stop him. Now, get me my information while I deal with the harbor master.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "47",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC6",
+            "global_id": "48",
+            "content": "|-|Yes, it was me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Yes, that was my doing.<br>The harbor master said the High Priestess locks up innocent people and executes them.<br>I could not stand idly by.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Eritha:''' ''I wasn't going to execute them! Torture them, maybe. But all stand trial here in Kythera. That liar!<br>The harbor master strikes out at the temple when my sister scorns him. But this time, he's gone too far.<br>I'll overlook your involvement in this. Just make sure you get me that information while I deal with him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE3",
+            "global_id": "52",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N2",
+            "global_id": "53",
+            "content": ":(Followup - \"Where did you say your handmaiden was last seen?\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "54",
+            "content": ":*'''Kassandra:''' ''Where did you say to look again?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "55",
+            "content": ":*'''Eritha:''' ''Try the farm outside of the city. She might be hiding out there.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "57",
+            "content": "(Leave - \"I'll go now.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I'll get you the information your handmaiden found.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "59",
+            "content": "*'''Eritha:''' ''Good, I'll make it worth your while. Now go quickly, she was last seen east of [[Pilgrim Hill]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "61",
+            "content": ":(If note already found - \"I found a message earlier.\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "62",
+            "content": ":*'''Kassandra:''' ''I found this note earlier on the body of a priestess at a farm. She was slain by Cultists before I found her.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "63",
+            "content": ":*'''Eritha:''' ''What? Read it to me, quickly!''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''It says, \"Don't trust the [[Fates]].\" The rest of the papyrus is stained with blood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "65",
+            "content": "(Dialogue continues below at \"That makes no sense.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U10",
+            "global_id": "66",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "67",
+            "content": "Kassandra made her way east towards the Olive Farm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Not many places for a handmaiden to hide in the outskirts of the city. This must be it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "69",
+            "content": ":or (if players visited the farm before talking to Eritha)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N10",
+            "global_id": "70",
+            "content": ":*'''Kassandra:''' ''Cultists on a farm? Something's not right.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N11",
+            "global_id": "71",
+            "content": "With the help of [[Ikaros]], she located the distressed priestess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Found her!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "73",
+            "content": "[[File:ACOD The Handmaiden's Story 5.png|thumb|250px|The handmaiden found dead by Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N12",
+            "global_id": "74",
+            "content": "Unfortunately, the handmaiden had already been slain by three Cult soldiers. Kassandra with the Cultist guards, and then inspected the handmaiden's remains. She found a note and read it aloud.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''\"Do not trust the Fates.\"<br>Hm, it's addressed to the High Priestess. She needs to know about this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "76",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "77",
+            "content": "Kassandra returned to Eritha to deliver the message.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "78",
+            "content": "*'''Eritha:''' ''Well? What of my handmaiden?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "79",
+            "content": "[[File:ACOD The Handmaiden's Story 6.png|thumb|250px|Kassandra reporting what she found to Eritha]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D36",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''She was murdered. It might have something to do with this note... it says \"Don't trust the Fates.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "81",
+            "content": "*'''Eritha:''' ''That's it?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''The rest of the papyrus is stained with blood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "83",
+            "content": "*'''Eritha:''' ''That makes no sense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''She protected it with her life. It wasn't for nothing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "85",
+            "content": "*'''Eritha:''' ''Now we'll never know for sure if there is a traitor in our ranks.<br>But I cannot rule out the possibility.<br>Our situation is dire. Work with Diona. Secure Kythera for us, ''misthios.",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

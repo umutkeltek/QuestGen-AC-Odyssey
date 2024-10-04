@@ -1,0 +1,103 @@
+{
+    "Quest_Name": "The Tribute",
+    "Quest_ID": "224455",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Tribute 3.png",
+        "description": "'According to Eppie's clue, a stele piece was hidden in the Sunken Temple of Aphrodite|temple. How could they know the sea had long since claimed that ancient place'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Eppie}}",
+        "previous": "Origins of a Ritual",
+        "next": "Keep the Faith",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Tribute''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Eppie]] tasked Kassandra to recover the stele piece from the coastline of [[Boeotia]].",
+    "Section_Dialogue": "Following Eppie's direction, Kassandra travelled to the [[Site of Iphigenia's Sacrifice]] to begin her search for the next stele. \n\nConfronting a man who was at the altar.\n\n*'''''Tolmides:''''' ''Ugh, I hate the water. I've given up fishing. I serve the gods now.''\n*'''''Kassandra:''' Fishing's worthy occupation. What caused such a change?''\n*'''''Tolmides:''''' ''A sudden storm, as if the gods themselves stepped on earth. The ship keeled over and sank. Right out there! The gods saved me.''\n*'''''Kassandra:''''' Did this happen after you picked up a stone relic?\n*'''''Tolmides:''''' ''Well, I might have used some temple rock as a boat anchor. Nothing of value.'' \n*'''''Kassandra:''''' It's good that the gods delivered to you to safety.\n\nShe investigated coastline, finding the [[Sunken Temple of Aphrodite]]. She dived down, eliminating the [[sharks]] and looted the values in the area. In one of the chests, she recovered the stele piece along with a [[Rusty Mycenaean Helmet|helmet]].",
+    "Section_Outcome": "Kassandra recovered the stele piece and armor hidden in the Sunken Temple of Aphrodite.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:L'hommage]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Eppie",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Following Eppie's direction, Kassandra travelled to the [[Site of Iphigenia's Sacrifice]] to begin her search for the next stele.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Confronting a man who was at the altar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "5",
+            "content": "*'''''Tolmides:''''' ''Ugh, I hate the water. I've given up fishing. I serve the gods now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''''Kassandra:''' Fishing's worthy occupation. What caused such a change?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''''Tolmides:''''' ''A sudden storm, as if the gods themselves stepped on earth. The ship keeled over and sank. Right out there! The gods saved me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''''Kassandra:''''' Did this happen after you picked up a stone relic?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''''Tolmides:''''' ''Well, I might have used some temple rock as a boat anchor. Nothing of value.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''''Kassandra:''''' It's good that the gods delivered to you to safety.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "She investigated coastline, finding the [[Sunken Temple of Aphrodite]]. She dived down, eliminating the [[sharks]] and looted the values in the area. In one of the chests, she recovered the stele piece along with a [[Rusty Mycenaean Helmet|helmet]].",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "Quest_Name": "Falling on Deaf Ears",
+    "Quest_ID": "229364",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Although Kassandra's A Heart for a Head|sacrifice did not save Eteokles (Argolian)|Eteokles, a merchant hoped she could help in other ways, as Eteokles' farm had been taken over by bandits.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "A Heart for a Head",
+        "source": "Kassandra",
+        "location": "Argolis",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Falling on Deaf Ears''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "A man drew Kassandra's attention in [[Argolis]].\n*'''Kassandra:''' ''Can I help you with something?''\n*'''Man:''' ''You're the ''[[Mercenary|misthios]]'' [[Eteokles (Argolian)|Eteokles]] spoke of!''\n*'''Kassandra:''' ''Who?''\n*'''Man:''' ''The farmer who owned the [[A Heart for a Head|white bull]]. He was sick, you made a sacrifice to the gods in his name. He's a good friend of mine.''\n*'''Kassandra:''' ''Ah yes. And how is Eteokles?''\n*'''Man:''' ''He's dead.''\n\n<tabber>\n|-|The gods didn't save him.=\n*'''Kassandra:''' ''The gods are cruel. The only time they show up is to cause more suffering.''\n|-|The gods couldn't save him.=\n*'''Kassandra:''' ''[[Asklepios]] himself couldn't have cured that farmer.''\n</tabber>\n*'''Man:''' ''Your sacrifice warmed his dying heart. He offered me whatever food was left on his land, but rotten [[bandit]]s took over the farm. He deserved better.''\n*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''\n*'''Man:''' ''Exactly. None should be left alive.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''\n*'''Man:''' ''The [[Fates]] are working in my favor.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the [[merchant]] and sought out Eteokles' farm. She slew the bandits there before returning to the merchant.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''My dear friend, you've earned this!''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra found and slew the bandits, receiving a reward for this.",
+    "Section_Behind_the_scenes": "This quest is only available if the farmer was chosen as the target of the prayers in the quest [[A Heart for a Head]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "A man drew Kassandra's attention in [[Argolis]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Can I help you with something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''You're the ''[[Mercenary|misthios]]'' [[Eteokles (Argolian)|Eteokles]] spoke of!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Who?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Man:''' ''The farmer who owned the [[A Heart for a Head|white bull]]. He was sick, you made a sacrifice to the gods in his name. He's a good friend of mine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Ah yes. And how is Eteokles?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Man:''' ''He's dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|The gods didn't save him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''The gods are cruel. The only time they show up is to cause more suffering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|The gods couldn't save him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''[[Asklepios]] himself couldn't have cured that farmer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Man:''' ''Your sacrifice warmed his dying heart. He offered me whatever food was left on his land, but rotten [[bandit]]s took over the farm. He deserved better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Man:''' ''Exactly. None should be left alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "18",
+            "content": "(Accept - I'll hunt the outlaws.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Man:''' ''The [[Fates]] are working in my favor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "22",
+            "content": "Kassandra left the [[merchant]] and sought out Eteokles' farm. She slew the bandits there before returning to the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Man:''' ''My dear friend, you've earned this!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

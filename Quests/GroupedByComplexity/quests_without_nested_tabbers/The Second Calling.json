@@ -1,0 +1,57 @@
+{
+    "Quest_Name": "The Second Calling",
+    "Quest_ID": "232501",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Completing only one of Aletheia's Aletheia's simulations|trials was not enough to bind Kassandra to the power of the Staff of Hermes Trismegistus|Staff. After her time in Elysium, it was clear there was only one way forward.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Main",
+        "previous": "The Rebellion's Uprising",
+        "next": "Guardian of the Gates",
+        "source": "Kassandra",
+        "location": "Gateway to the Lost City, Thera, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''The Second Calling''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Aletheia]] at the [[Gateway to the Lost City]] to initiate the simulation of the [[Underworld]].",
+    "Section_Dialogue": "Kassandra approached Aletheia.\n*'''Aletheia:''' ''You're needed, Keeper. Your bond with the [[Staff of Hermes Trismegistus|Staff]] is not yet complete. When you're ready, you must continue.''\n(I'm ready to go.)\n*'''Kassandra:''' ''I'm ready, Aletheia.''",
+    "Section_Outcome": "Kassandra resumed her trials of her role as the Keeper, entering Aletheia's simulation of the Underworld.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Aletheia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Aletheia:''' ''You're needed, Keeper. Your bond with the [[Staff of Hermes Trismegistus|Staff]] is not yet complete. When you're ready, you must continue.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "3",
+            "content": "(I'm ready to go.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I'm ready, Aletheia.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

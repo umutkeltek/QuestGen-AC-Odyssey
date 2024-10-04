@@ -1,0 +1,186 @@
+{
+    "Quest_Name": "Another Wolf Another Day",
+    "Quest_ID": "223169",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After Kassandra's efforts in Megaris, an artist was asked to create a statue of the 'misthios'. Bitter, the artist wished for Kassandra to prove her worth by helping with a wolf problem.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "The Wolf of Sparta",
+        "source": "Kassandra",
+        "location": "Megaris",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Another Wolf Another Day''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After meeting [[Nikolaos]] following the [[Battle of Megara]], Kassandra ran into a sculptor.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire.'' Can I help you with anything?''\n*'''Woman:''' ''You think you're so incredible, don't you?''\n*'''Kassandra:''' ''What?''\n*'''Woman:''' ''You play hero for the [[Sparta]]n army in Megaris, and now you think you can do anything. Can't believe the town is asking me to build a statue of you.''\n\n<tabber>\n|-|I deserve a statue.=\n*'''Kassandra:''' ''What I did couldn't have been achieved by some Mal\u00e1kas like you. Glad to hear I'm finally getting some recognition.\n|-|A statue is a bit much.=\n*'''Kassandra:''' ''I did what had to be done. A statue may be... overdoing it.''\n</tabber>\n*'''Woman:''' ''Before I agree to making some statue in your honor, I want you to do something for the people. There's a pack of [[Wolf|wolves]] that's been harassing my village. You want to be a real hero? Now's your chance.''\n*'''Kassandra:''' ''Wolves, huh?''\n*'''Woman:''' ''Yes, real wolves. Not just some self-important Spartan in a [[The Wolf's Helm|silly helmet]].''\n*'''Kassandra:''' ''Let me guess, you want me to hunt the wolves?''\n*'''Woman:''' ''Yes, all of them must be gutted. Do you accept?''\n(Accept \u2013 I'll kill the beasts.)\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''You're truly brave, [[mercenary]].''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra hunted down the three wolves before returning to the woman.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''So you are as brave as you look. Please, take this as thanks.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra dealt with the artist's wolf-problem, and was rewarded for this.",
+    "Section_Trivia": "*This impact quest is triggered by completing the [[The Wolf of Sparta]]. Specifics are unknown.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Un autre loup, un autre jour]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' Chaire.'' Can I help you with anything?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Woman:''' ''You think you're so incredible, don't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Woman:''' ''You play hero for the [[Sparta]]n army in Megaris, and now you think you can do anything. Can't believe the town is asking me to build a statue of you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|I deserve a statue.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''What I did couldn't have been achieved by some Mal\u00e1kas like you. Glad to hear I'm finally getting some recognition.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|A statue is a bit much.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I did what had to be done. A statue may be... overdoing it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''Before I agree to making some statue in your honor, I want you to do something for the people. There's a pack of [[Wolf|wolves]] that's been harassing my village. You want to be a real hero? Now's your chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Wolves, huh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Woman:''' ''Yes, real wolves. Not just some self-important Spartan in a [[The Wolf's Helm|silly helmet]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Let me guess, you want me to hunt the wolves?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''Yes, all of them must be gutted. Do you accept?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Accept \u2013 I'll kill the beasts.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Woman:''' ''You're truly brave, [[mercenary]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "21",
+            "content": "Kassandra hunted down the three wolves before returning to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Woman:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Woman:''' ''So you are as brave as you look. Please, take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

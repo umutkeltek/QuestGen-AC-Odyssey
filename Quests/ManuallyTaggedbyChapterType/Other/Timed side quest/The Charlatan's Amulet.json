@@ -1,0 +1,43 @@
+{
+    "QuestName": "The Charlatan's Amulet",
+    "QuestID": "236230",
+    "Revision": {
+        "id": "1047515",
+        "parentid": "841822",
+        "timestamp": "2023-06-13T19:25:26Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047515",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "4ryy7bagpzi1pvqfprdbr4s2dkfw2ng"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Charlatan's Amulet''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A merchant drew Kassandra's attention, hawking his wares.",
+    "Section_Dialogue": "*'''Kassandra:''' ''I got your message on the [[Message board|board]]. What's going on?''\n*'''Man:''' ''How about an amulet to protect you on your travels,'' misthios''? My amulets ward of all evil!''\n*'''Kassandra:''' ''My [[sword]] is protection enough.''\n*'''Man:''' ''Then I'm glad you're here. An unhappy customer is looking for me.''\n*'''Kassandra:''' ''Your amulets won't protect you?''\n*'''Man:''' ''Sometimes magic needs a helping hand.''\n*'''Kassandra:''' ''You need me to deal with him.''\n*'''Man:''' ''The glory is all yours if you accept. Do you?''\n(Accept \u2013 I'm going to help you.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Man:''' ''Good. Be discreet.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left to look for the soldier. When she found him, she spoke to him.\n*'''Kassandra:''' ''I've been looking for you. It's not a good thing.''\n*'''Man:''' ''All right. My destiny is out of my hands.''\nThe man attacked Kassandra, and she defeated him in self-defence before returning to the merchant.\n*'''Man:''' ''Has he been... dealt with,'' misthios?\n*'''Kassandra:''' ''He won't be bothering anyone anymore.''\n*'''Man:''' ''Nicely done, my friend. Please, take this as thanks.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra helped the man by dealing with a disappointed customer, and was rewarded for this.",
+    "Section_Trivia": "*These kinds of quest allow Kassandra to speak with the target. How the target reacts is randomly generated, even within the same save. Either they attack Kassandra, attempt to bribe her, or can be suggested to join the crew of the ''[[Adrestia]]''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

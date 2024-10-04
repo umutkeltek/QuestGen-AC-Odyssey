@@ -1,0 +1,43 @@
+{
+    "QuestName": "The Real Killer",
+    "QuestID": "233394",
+    "Revision": {
+        "id": "1047495",
+        "parentid": "844419",
+        "timestamp": "2023-06-13T19:19:10Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047495",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "bqhgci2myrofi7btikfcmg1njwtak6m"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'After Kassandra killed the Spartan general Stentor, an angry Spartan spy vowed to discover the killer and take revenge.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''The Real Killer''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In the wilderness, Kassandra came face to face following the fallout of [[Stentor]]'s demise.",
+    "Section_Dialogue": "Kassandra found a couple of [[Sparta]]ns camping out in the wilderness, and approached them benignly.\n*'''Kassandra:''' ''Spying on those [[Athens|Athenians]] is no easy task, Spartan. Anything I can do to help?''\n*'''Man:''' ''You, traitor! You deserved to be killed for killing our general, Stentor of Sparta.''\n<tabber>\n|-|You're right.=\n*'''Kassandra:''' ''I did kill Stentor. He left me no choice.''\n*'''Man:''' ''I knew it was you! I'll do what the Spartan soldiers should have done at camp!''\n(fight ensues, quest fails.)\n|-|Stentor was my brother.=\n*'''Kassandra:''' ''The man you speak of was my brother.''\n*'''Man:''' ''Oh, I had no idea. My condolences, ''[[Mercenary|misthios]]''. Maybe I confused you with someone else.''\n*'''Kassandra:''' ''Maybe you did.''\n|-|Lie - You must have the wrong person.=\n*'''Kassandra:''' ''I don't know anyone named Stentor. You must be thinking of someone else.''\n*'''Man:''' ''I thought I heard that the ''[[Mercenary|misthios]]'' that killed him had an [[eagle]] or something... Maybe I was wrong.''\n*'''Kassandra:''' ''Maybe you were.''\n</tabber>\n*'''Man:''' ''Come to think of it... I did hear of another strange [[mercenary]] who arrived here recently. He must be the real traitor!''\n*'''Kassandra:''' ''And you want me to kill this mercenary.''\n*'''Man:''' ''His blood must be spilled.''\n(Accept - I'll kill the mercenary.)\n*'''Kassandra:''' ''I'll handle this.''\n*'''Man:''' ''Good. Please be quick.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra left the soldier and hunted down the mercenary. Afterwards, she returned to the soldier.\n*'''Man:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Man:''' ''Thank you, mercenary. Now, your reward.''\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra defeated the mercenary, and was rewarded for this.",
+    "Section_Trivia": "*This memory seems to be triggered by the death of Stentor during [[The Conqueror]]. However, it may also be available even though Stentor is alive and well and aboard the ''[[Adrestia]]''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

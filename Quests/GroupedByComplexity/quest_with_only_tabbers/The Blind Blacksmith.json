@@ -1,0 +1,466 @@
+{
+    "Quest_Name": "The Blind Blacksmith",
+    "Quest_ID": "231685",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Old Kallipides was once renowned as the best blacksmith in all of Lokris. That was a long time ago, but surely with some help, he could be again.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Support",
+        "previous": "A Town in Need, Indeed",
+        "next": "A Horse, of Course<br />Ajax on Fire<br />A Town in Need, Indeed",
+        "source": "Kassandra",
+        "location": "Alponos, Lokris, Greece<br />Pyrrha Salt Pirates, Malis, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''The Blind Blacksmith''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Kallipides]], an old [[blacksmith]] living in [[Alponos]], in order to get its [[Civilian|citizens]] armed against the upcoming [[Piracy|pirate]] invasion.",
+    "Section_Dialogue": "Kassandra approached Kallipides' smithy and spoke to him.\n\n*'''Kassandra:''' ''Are you the blacksmith?''\n*'''Kallipedes:''' ''I was. Then another ''misthios'', an [[Eagle]] Something, came to help. Kind young man.''\n<tabber>\n|-|I'm the real Eagle Bearer.=\n*'''Kassandra:''' ''It's \"Eagle Bearer,\" and there's only one. Me.''\n*'''Kallipedes:''' ''Ah. The one who sunk the reinforcements?''\n*'''Kassandra:''' ''Gossip travels fast. Let's talk about the other ''misthios'', \"Eagle Something.\"''\n|-|Tell me what happened.=\n*'''Kassandra:''' ''I heard the \"Eagle Something\" made a real mess of things.''\n</tabber>\n\n*'''Kallipedes:''' ''The poor boy lit my forge, but somehow caused the fire to erupt. Flames everywhere. I can barely see now or move my hands.''\n*'''Kassandra:''' ''But you're the only smith in town, and pirates are coming. We need you to start making weapons.''\n*'''Kallipedes:''' ''No need to worry. Old Kallipedes has a few good blades left in him. I just need some space to work. Those stone blocks would make a fine table. Could you move them for me?''\n\n(Accept \u2013 \"I'll start by moving the blocks.\")\n\n*'''Kassandra:''' ''Sounds easy enough.''\n\nKassandra picked up the block.\n\n*'''Kassandra:''' ''Ugh! You could crush someone with these things if you're not careful.''\n\nKassandra set the blocks down by the step and then spoke to Kallipedes.\n\n*'''Kallipedes:''' ''Excellent work! Well, what next? I suppose we can't make weapons without iron, now can we?''\n\n(\"I have iron to share.\")\n\n*'''Kassandra:''' ''I have more than enough to share. Have some of mine.''\n\nKassandra threw a bag of iron to Kallipedes, but as he could not see to catch it, the bag hit him in the chest and fell to the ground.\n\n*'''Kallipedes:''' ''Well, this is certainly better than when that other ''misthios'' came to help. All a good smith needs ''now'' are his tools.''\n*'''Kassandra:''' ''Your tools. Really?''\n*'''Kallipedes:''' ''The Eagle Something said they were stolen by a group of bad eggs. They rode west of here, but I'm not sure where.''\n*'''Kassandra:''' ''I'll get them. ''Then'' you'll be ready to work?''\n*'''Kallipedes:''' ''Of course! You've been so kind to this old smith. I thought I'd never work again. But your generosity has changed all that.''\n\nKassandra went to a nearby camp at [[Pyrrha Salt Pirates]] to retrieve the tools from [[bandit]]s.\n\n*'''Kassandra:''' ''Why would common thugs want old tools?''\n\nWhile recovering the tools, Kassandra found a farewell letter where she learned the dead bandit planned to become a blacksmith. Kassandra returned to Kallipedes.\n\n*'''Kassandra:''' ''I've got your tools right here.''\n*'''Kallipedes:''' ''What a day! You should be proud. You've given this old man purpose again. Now, if you could just set those aside for a moment, I'll get started.''\n\nAs Kassandra turned to leave, Kallipedes tripped on a nearby stone block.\n\n*'''Kallipedes:''' ''Woah!''\n\nKallipedes' fall shook the floor enough for a precariously-balanced shovel to fall on him. Kassandra turned around on hearing his scream as it landed.\n\n*'''Kassandra:''' ''Kallipedes!''\n\nKassandra ran around the corner just in time to watch and grimace as a smelting pot fell and landed on Kallipides, killing him.\n\n*'''Kassandra:''' ''Kallipedes?''\n\nRealizing Kallipedes had died, Kassandra lowered her head and walked off as a hammer fell, crushing the corpse's head. Kassandra turned to face a nearby whimpering [[dog]].\n<tabber>\n|-|Option 1=\n*'''Kassandra:''' ''By the [[Greek mythology|gods]]. I've seen a lot in my life, but that was brutal.\n|-|Option 2=\n*'''Kassandra:''' ''You should get out of Alponos while you can, girl. This place is cursed.''\n</tabber>\nKassandra walked away from the smithy.\n\n*'''Kassandra:''' ''Poor Kallipedes. That's... That's not good.''",
+    "Section_Outcome": "Kassandra moved some stone blocks for Kallipedes the blacksmith and provided him with iron. She then recovered his tools from bandits. Unfortunately, the blind old man tripped and died from several falling tools, leaving the village unarmed.",
+    "Section_Trivia": "Once this quest has been completed, the player can drop down to loot Kallipedes' corpse for Kallipedes Tools.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "One Really, Really Bad Day",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Kallipides' smithy and spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Are you the blacksmith?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kallipedes:''' ''I was. Then another ''misthios'', an [[Eagle]] Something, came to help. Kind young man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|I'm the real Eagle Bearer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''It's \"Eagle Bearer,\" and there's only one. Me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kallipedes:''' ''Ah. The one who sunk the reinforcements?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Gossip travels fast. Let's talk about the other ''misthios'', \"Eagle Something.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Tell me what happened.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I heard the \"Eagle Something\" made a real mess of things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kallipedes:''' ''The poor boy lit my forge, but somehow caused the fire to erupt. Flames everywhere. I can barely see now or move my hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''But you're the only smith in town, and pirates are coming. We need you to start making weapons.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kallipedes:''' ''No need to worry. Old Kallipedes has a few good blades left in him. I just need some space to work. Those stone blocks would make a fine table. Could you move them for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "18",
+            "content": "(Accept \u2013 \"I'll start by moving the blocks.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U4",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Sounds easy enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "22",
+            "content": "Kassandra picked up the block.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Ugh! You could crush someone with these things if you're not careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "26",
+            "content": "Kassandra set the blocks down by the step and then spoke to Kallipedes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "28",
+            "content": "*'''Kallipedes:''' ''Excellent work! Well, what next? I suppose we can't make weapons without iron, now can we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "30",
+            "content": "(\"I have iron to share.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U10",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D13",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I have more than enough to share. Have some of mine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "Kassandra threw a bag of iron to Kallipedes, but as he could not see to catch it, the bag hit him in the chest and fell to the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U12",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D14",
+            "global_id": "36",
+            "content": "*'''Kallipedes:''' ''Well, this is certainly better than when that other ''misthios'' came to help. All a good smith needs ''now'' are his tools.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Your tools. Really?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "38",
+            "content": "*'''Kallipedes:''' ''The Eagle Something said they were stolen by a group of bad eggs. They rode west of here, but I'm not sure where.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''I'll get them. ''Then'' you'll be ready to work?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "40",
+            "content": "*'''Kallipedes:''' ''Of course! You've been so kind to this old smith. I thought I'd never work again. But your generosity has changed all that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "42",
+            "content": "Kassandra went to a nearby camp at [[Pyrrha Salt Pirates]] to retrieve the tools from [[bandit]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U14",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Why would common thugs want old tools?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "46",
+            "content": "While recovering the tools, Kassandra found a farewell letter where she learned the dead bandit planned to become a blacksmith. Kassandra returned to Kallipedes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U16",
+            "global_id": "47",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D20",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I've got your tools right here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "49",
+            "content": "*'''Kallipedes:''' ''What a day! You should be proud. You've given this old man purpose again. Now, if you could just set those aside for a moment, I'll get started.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "51",
+            "content": "As Kassandra turned to leave, Kallipedes tripped on a nearby stone block.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U18",
+            "global_id": "52",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D22",
+            "global_id": "53",
+            "content": "*'''Kallipedes:''' ''Woah!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "54",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "55",
+            "content": "Kallipedes' fall shook the floor enough for a precariously-balanced shovel to fall on him. Kassandra turned around on hearing his scream as it landed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U20",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D23",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Kallipedes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "58",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "59",
+            "content": "Kassandra ran around the corner just in time to watch and grimace as a smelting pot fell and landed on Kallipides, killing him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D24",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Kallipedes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U23",
+            "global_id": "62",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "63",
+            "content": "Realizing Kallipedes had died, Kassandra lowered her head and walked off as a hammer fell, crushing the corpse's head. Kassandra turned to face a nearby whimpering [[dog]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "64",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "65",
+            "content": "|-|Option 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''By the [[Greek mythology|gods]]. I've seen a lot in my life, but that was brutal.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "67",
+            "content": "|-|Option 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''You should get out of Alponos while you can, girl. This place is cursed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "69",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N11",
+            "global_id": "70",
+            "content": "Kassandra walked away from the smithy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U24",
+            "global_id": "71",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D27",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Poor Kallipedes. That's... That's not good.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

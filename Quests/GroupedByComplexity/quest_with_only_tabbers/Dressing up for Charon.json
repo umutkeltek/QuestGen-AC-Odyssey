@@ -1,0 +1,268 @@
+{
+    "Quest_Name": "Dressing up for Charon",
+    "Quest_ID": "227480",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Timotheos wished to give his father a military burial in his Athens|Athenian armor. Alas, Diokles (Fisherman)|Diokles's armor stolen had been stolen from their home, so Timotheos tasked Kassandra with retrieving another set from a merchant.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece, Support",
+        "previous": "Bloody Libation",
+        "next": "Honoring the Dead",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Dressing up for Charon''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke with [[Timotheos]] about recovering his [[Diokles (Fisherman)|father]]'s armor.",
+    "Section_Dialogue": "Using Ikaros to search the area.\n*'''Kassandra:''' ''Found him!''\nShe walked over to the merchant.\n\n[[File:Dressing_up_for_Charon_Merchant.png|thumb|Kassandra speaking to the merchant]]\n\n*'''Kassandra:''' Chaire. ''Would you happen to have any Athenian armor in your shop?\u00a0It's for Diokles's burial.''\n*'''Timaios:'''\u00a0''Timotheos can buy his father's armor back if he likes. Won't be cheap though.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Timaios:''' ''Diokles sold me his armor not too long ago.''\n*'''Kassandra:''' ''Timotheos said his father's armor was stolen.''\n*'''Timaios:''' ''Well, I have it here and I'm no thief. I also have another set of Athenian armor. Not as nice, but it'll do for the burial.''\n\n<tabber>\n|-|I'll buy Diokles's armor.[7500]=\n*'''Kassandra:''' ''I'll take Diokles's armor.''\n*'''Timaios:''' ''You'll find it in the chest upstairs. Pleasure doing business with you.''\nKassandra found [[Diokles' Armor]] on the roof of the merchant's house.\n\n|-|I'll buy the cheaper armor.[250]=\n*'''Kassandra:''' ''I'll take the cheaper armor.''\n*'''Timaios:''' ''Figures a mercenary would choose the cheap armor. Here you go.''\nKassandra got a set of [[Standard Athenian Armor]].\n\n|-|I'll buy both.[7750]=\n*'''Kassandra:''' ''I'll take both sets of armor.''\n*'''Timaios:''' ''Here's the Athenian armor. Diokles' armor is upstairs.''\nKassandra got a set of [[Standard Athenian Armor]] and found [[Diokles' Armor]] on the roof of the merchant's house.\n\n|-|Attack - Hand over the armor, or else.=\n*'''Kassandra:''' ''Diokles' armor should belong to his son. Hand it over.''\n*'''Timaios:''' Laughs. ''You think you can threaten me? It's not like I store a set that valuable with my normal wares. You'll find it over my dead body.''\n*'''Kassandra:''' ''That's a chance I'm willing to take.''\nKassandra killed the merchant and found a set of [[Standard Athenian Armor]] on his body.\n*'''Kassandra:''' ''Standard Athenian armor. I could bring this back to Timotheos. Or I could look around for his father's armor.''\nIf she searched around she can also steal [[Diokles' Armor]] on the roof of the merchant's house.\n</tabber>\n\n*'''Kassandra:''' ''I should be ready to meet Lykinos and Timotheos at the funeral.''",
+    "Section_Outcome": "Kassandra either recovered [[Diokles' Armor]] and/or a cheaper replacement.",
+    "Section_Trivia": "* Alternatively players can just climb the roof of the merchant's house and steal the armor without talking to the merchant.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Brother's Seduction",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Using Ikaros to search the area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Found him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She walked over to the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "[[File:Dressing_up_for_Charon_Merchant.png|thumb|Kassandra speaking to the merchant]]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' Chaire. ''Would you happen to have any Athenian armor in your shop?\u00a0It's for Diokles's burial.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Timaios:'''\u00a0''Timotheos can buy his father's armor back if he likes. Won't be cheap though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Timaios:''' ''Diokles sold me his armor not too long ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Timotheos said his father's armor was stolen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Timaios:''' ''Well, I have it here and I'm no thief. I also have another set of Athenian armor. Not as nice, but it'll do for the burial.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "14",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "15",
+            "content": "|-|I'll buy Diokles's armor.[7500]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'll take Diokles's armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Timaios:''' ''You'll find it in the chest upstairs. Pleasure doing business with you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "Kassandra found [[Diokles' Armor]] on the roof of the merchant's house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|I'll buy the cheaper armor.[250]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll take the cheaper armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Timaios:''' ''Figures a mercenary would choose the cheap armor. Here you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "23",
+            "content": "Kassandra got a set of [[Standard Athenian Armor]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC3",
+            "global_id": "25",
+            "content": "|-|I'll buy both.[7750]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I'll take both sets of armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "27",
+            "content": "*'''Timaios:''' ''Here's the Athenian armor. Diokles' armor is upstairs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "28",
+            "content": "Kassandra got a set of [[Standard Athenian Armor]] and found [[Diokles' Armor]] on the roof of the merchant's house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "30",
+            "content": "|-|Attack - Hand over the armor, or else.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Diokles' armor should belong to his son. Hand it over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "32",
+            "content": "*'''Timaios:''' Laughs. ''You think you can threaten me? It's not like I store a set that valuable with my normal wares. You'll find it over my dead body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''That's a chance I'm willing to take.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "34",
+            "content": "Kassandra killed the merchant and found a set of [[Standard Athenian Armor]] on his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Standard Athenian armor. I could bring this back to Timotheos. Or I could look around for his father's armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "36",
+            "content": "If she searched around she can also steal [[Diokles' Armor]] on the roof of the merchant's house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U7",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D18",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''I should be ready to meet Lykinos and Timotheos at the funeral.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

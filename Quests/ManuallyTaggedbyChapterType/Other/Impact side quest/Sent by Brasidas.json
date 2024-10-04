@@ -1,0 +1,43 @@
+{
+    "QuestName": "Sent by Brasidas",
+    "QuestID": "231303",
+    "Revision": {
+        "id": "1047498",
+        "parentid": "841954",
+        "timestamp": "2023-06-13T19:19:38Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047498",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "skxovnh5obp7j9mg9kbl7htwux3g52b"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'A Spartan, delighted by the arrival of a 'Mercenary|misthios', soon shared his desire to clear the nearby camp of Athens|Athenians.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Monger Down",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Sent by Brasidas''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "In the wilderness, Kassandra came upon Spartan soldiers and greeted them.\n*'''Kassandra:''' Chaire'', soldier. How can I serve Sparta today?'' \n*'''Man:''' ''An [[eagle]]-bearing'' [[Mercenary|misthios]]''. [[Brasidas]] must have sent you.''\n<tabber>\n|-|I think you might be wrong.=\n*'''Kassandra:''' ''I've met a Spartan named Brasidas, but he never mentioned anything about sending me anywhere.''\n*'''Man:''' ''Oh, no need to be secretive. I know it's generally frowned upon to hire mercenaries for the Spartan army... but we're glad to have you.''\n|-|Nobody send me anywhere.=\n*'''Kassandra:''' ''I'm a mercenary, not a servant. Brasidas didn't send me anywhere.''\n*'''Man:''' ''So fierce! So proud! And boy does Brasidas like his mercenaries interesting! You've got quite the attitude on you.''\n</tabber>\n*'''Kassandra:''' ''Really, I-''\n*'''Man:''' ''It's good thing he did send you. I need to make sure the nearby camp is cleared of [[Athens|Athenians]] before the Spartan troops can move in.''\n*'''Kassandra:''' ''And you want me to kill all the Athenians. / So you're asking me to send all the Athenians to the [[underworld]].''\n*'''Man:''' ''I knew I asked the right person.''\n(Accept - Those soldiers are mine.)\n*'''Kassandra:''' ''I'll take care of it. ''\n*'''Man:''' ''Ha! Excellent.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the soldiers and sought out the Athenian camp nearby. After killing its occupants, she returned to the Spartans for her reward.",
+    "Section_Outcome": "Kassandra found and slew the Athenians, gaining a reward for doing so.",
+    "Section_Trivia": "*It is unknown what triggers this impact quest, beyond meeting Brasidas in [[Port of Lawlessness]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

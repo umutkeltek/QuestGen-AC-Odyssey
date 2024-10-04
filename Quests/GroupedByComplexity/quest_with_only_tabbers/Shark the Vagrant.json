@@ -1,0 +1,350 @@
+{
+    "Quest_Name": "Shark the Vagrant",
+    "Quest_ID": "222629",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Shark the Vagrant Memory Screenshot.png",
+        "description": "'If they were ever going to leave Kephallonia, two vegetable Merchant|sellers needed help. By killing a Great white shark|shark, Kassandra could guarantee their departure.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kephallonia Islands}}",
+        "previous": "Merciful Gods",
+        "next": "Mercenary Work",
+        "source": "Kassandra",
+        "location": "Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Shark the Vagrant''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a vegetable [[merchant]] couple in the [[Cursed Valley of Pali]].",
+    "Section_Dialogue": "*'''[[Kreusa's husband|Civilian 1]]:''' ''[[Mercenary|Misthios]]! Fresh vegetables for your journey\u2014the juciest in [[Kephallonia]]!''\n*'''Kassandra:''' ''I'm not really in the market for vegetables.''\n*'''[[Kreusa|Civilian 2]]:''' ''No one is. Our stock is practically decomposing.''\n*'''Civilian 1:''' ''We're trying to make enough [[drachmae]] to get out of Kephallonia. It's about time we moved on.''\n*'''Kassandra:''' ''I know what you mean.''\nThe couple looked at each other.\n*'''Civilian 1:''' ''Wait. Kreusa, you think she could help us?''\n*'''Civilian 2:''' ''I think she could.''\n*'''Kassandra:''' ''You'll have to tell me what it is, first.''\n*'''Civilian 1:''' ''Are you scared of [[shark]]s, misthios?''\n\n<tabber>\n|-|Nothing scares me.=\n*'''Kassandra:''' ''I'm not scared of anything.''\n*'''Civilian 1:''' ''That makes one of us. A very hungry one swims in our way of leaving Kephallonia.''\n|-|Everyone's scared of sharks.=\n*'''Kassandra:''' ''Have you seen their teeths?''\n*'''Civilian 1:''' ''Believe us, we have\u2014and we won't go near them again! A shark is guarding our one guaranteed way out of [[Kephallonia]].''\n</tabber>\n*'''Kassandra:''' ''A shark?''\n*'''Civilian:''' ''He guards a precious necklace. We get it, sell it, and leave Kephallonia! The old [[bandit]] who found it first buried the necklace on the shore, near a [[Islet of Zeus|temple]].''\n*'''Civilian 2:''' ''And the fool didn't think! Water rises. Now, the necklace may as well belong to the shark. Vegetable-drachmae is all right, but necklace-drachmae is best.''\n\n<tabber>\n|-|I can relate.=\n*'''Kassandra:''' ''I know what it's like to want to leave Kephallonia.''\n*'''Civilian 2:''' ''Who wouldn't? We have nothing here. As many vegetables as we please, but no hope.''\n|-|I could keep the necklace.=\n*'''Kassandra:''' ''If it's so valuable, why wouldn't I just keep it for myself?''\n*'''Civilian 2:''' ''A good deed? A gesture of goodwill? An escape from our life of produce?''\n</tabber>\n*'''Civilian 1:''' ''It's buried in a chest. If you get it for us, we'll take what we need to get out, and you can keep the rest!''\n*'''Kassandra:''' ''All right. I'll kill your shark.''\n*'''Civilian 2:''' ''You'll skewer him.''\n*'''Civilian 1:''' ''You'll find him deep in the [[Ancient Ruins of Kranioi|Ruins of Kranioi]] down south.''\n*'''Kassandra:''' ''Buried treasure usually has a story.''\n*'''Civilian 1:''' ''The necklace was said to belong to [[Prokris]]\u2014you know, the wife of [[Kephalos]]. On the eve of their wedding, he gave it to her as a promise of fidelity.''\n*'''Kassandra:''' ''Well, we know how that turned out.''\n*'''Civilian 2:''' ''Typical. At least he returned to Prokris in time for her death.''\n*'''Kassandra:''' ''Where on the island are these ruins?''\n*'''Civilian 2:''' ''You know the Sunken [[Islet of Zeus]]? Find that, and you'll find the ruins.''\n*'''Kassandra:''' ''To the shark's temple I go.''\n*'''Civilian 2:''' ''I'll never look at another vegetable again after this.''\nKassandra travelled south near the ruins of Kranioi and found the sunken temple. With [[Ikaros]]' help, she identified the necklace held in a chest in the temple ruins.\n*'''Kassandra:''' ''The necklace is down there.''\nKassandra killed the sharks and dive down to loot the chest. She resurfaced and returned to the vegetable merchants, handling the necklace to the wife.\n[[File:ACOD_-_Shark_the_Vagrant_2.png|thumb|240px|The husband thanking Kassandra]]\n*'''Civilian 2:''' ''You've found it! That's the necklace!''\n*'''Kassandra:''' ''That shark put up a good fight. He must've liked it.''\nThe wife turned to her husband.\n*'''Civilian 2:''' ''We can finally leave! No more vegetables.''\n*'''Civilian 1:''' ''We'll have a new life. One far from our past.''\n*'''Kassandra:''' ''I know what that's like. Good luck.''",
+    "Section_Outcome": "Kassandra helped the merchants to recover Prokris' necklace. This fulfilled their wishes of leaving Kephallonia to lead a new life.",
+    "Section_Trivia": "*The name of the memory is a reference to the webcomic,\u00a0{{Wiki|Hark! A Vagrant}}\u00a0by Katy Beaton.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Secouer le squale]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kephallonia Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''[[Kreusa's husband|Civilian 1]]:''' ''[[Mercenary|Misthios]]! Fresh vegetables for your journey\u2014the juciest in [[Kephallonia]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I'm not really in the market for vegetables.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''[[Kreusa|Civilian 2]]:''' ''No one is. Our stock is practically decomposing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Civilian 1:''' ''We're trying to make enough [[drachmae]] to get out of Kephallonia. It's about time we moved on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I know what you mean.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "6",
+            "content": "The couple looked at each other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Civilian 1:''' ''Wait. Kreusa, you think she could help us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Civilian 2:''' ''I think she could.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''You'll have to tell me what it is, first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Civilian 1:''' ''Are you scared of [[shark]]s, misthios?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|Nothing scares me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'm not scared of anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Civilian 1:''' ''That makes one of us. A very hungry one swims in our way of leaving Kephallonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|Everyone's scared of sharks.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Have you seen their teeths?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Civilian 1:''' ''Believe us, we have\u2014and we won't go near them again! A shark is guarding our one guaranteed way out of [[Kephallonia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''A shark?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Civilian:''' ''He guards a precious necklace. We get it, sell it, and leave Kephallonia! The old [[bandit]] who found it first buried the necklace on the shore, near a [[Islet of Zeus|temple]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Civilian 2:''' ''And the fool didn't think! Water rises. Now, the necklace may as well belong to the shark. Vegetable-drachmae is all right, but necklace-drachmae is best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "25",
+            "content": "|-|I can relate.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I know what it's like to want to leave Kephallonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Civilian 2:''' ''Who wouldn't? We have nothing here. As many vegetables as we please, but no hope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "|-|I could keep the necklace.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''If it's so valuable, why wouldn't I just keep it for myself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Civilian 2:''' ''A good deed? A gesture of goodwill? An escape from our life of produce?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "31",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Civilian 1:''' ''It's buried in a chest. If you get it for us, we'll take what we need to get out, and you can keep the rest!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''All right. I'll kill your shark.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Civilian 2:''' ''You'll skewer him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Civilian 1:''' ''You'll find him deep in the [[Ancient Ruins of Kranioi|Ruins of Kranioi]] down south.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Buried treasure usually has a story.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Civilian 1:''' ''The necklace was said to belong to [[Prokris]]\u2014you know, the wife of [[Kephalos]]. On the eve of their wedding, he gave it to her as a promise of fidelity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Well, we know how that turned out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Civilian 2:''' ''Typical. At least he returned to Prokris in time for her death.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Where on the island are these ruins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Civilian 2:''' ''You know the Sunken [[Islet of Zeus]]? Find that, and you'll find the ruins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''To the shark's temple I go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "43",
+            "content": "*'''Civilian 2:''' ''I'll never look at another vegetable again after this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "44",
+            "content": "Kassandra travelled south near the ruins of Kranioi and found the sunken temple. With [[Ikaros]]' help, she identified the necklace held in a chest in the temple ruins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''The necklace is down there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "46",
+            "content": "Kassandra killed the sharks and dive down to loot the chest. She resurfaced and returned to the vegetable merchants, handling the necklace to the wife.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "47",
+            "content": "[[File:ACOD_-_Shark_the_Vagrant_2.png|thumb|240px|The husband thanking Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D34",
+            "global_id": "48",
+            "content": "*'''Civilian 2:''' ''You've found it! That's the necklace!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''That shark put up a good fight. He must've liked it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "50",
+            "content": "The wife turned to her husband.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "51",
+            "content": "*'''Civilian 2:''' ''We can finally leave! No more vegetables.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "52",
+            "content": "*'''Civilian 1:''' ''We'll have a new life. One far from our past.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I know what that's like. Good luck.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

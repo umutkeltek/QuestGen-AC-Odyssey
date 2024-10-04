@@ -1,0 +1,735 @@
+{
+    "Quest_Name": "All Bonds Will Break",
+    "Quest_ID": "224731",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "All Bonds Will Break",
+        "image": "ACOD All Bonds Will Break 1.png",
+        "description": "'Diona sent Kassandra to help the Glaukos|harbormaster with his tasks. He was an unpleasant man by the reports of many, but he had his uses.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World, Support",
+        "previous": "Place in the Kosmos",
+        "concurrent": "The Handmaiden's Story<br>Pick Your Poison",
+        "next": "Atoll Order",
+        "source": "Kassandra",
+        "location": "Skandeia Harbor, Kythera, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''All Bonds Will Break''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the suggestion of [[Diona]], Kassandra sought out her [[Glaukos|associate]] at the [[Tavern, Kythera|tavern]] in [[Skandeia Harbor]].",
+    "Section_Dialogue": "Kassandra made her way to Skandeia Harbor, finding the tavern and the Diona's acerbic associate therein.\n*'''Kassandra:''' ''I take it you're the harbor master.''\n*'''Glaukos:''' ''I told you, I'll pay when I get paid!''\n*'''Kassandra:''' ''Diona sent me. She said you needed help.''\n*'''Glaukos:''' ''Diona? Wait, wait, wait. Who are you?''\n*'''Kassandra:''' ''I'm just helping her out. She has some information I want.''\n*'''Glaukos:''' ''Liar! I bet you want ''her'' more than you want information, don't you?!''\n*'''Kassandra:''' ''Just tell me what needs to be done.''\n*'''Glaukos:''' ''You think you can do better than I have?''\n*'''Kassandra:''' ''As a matter of fact, I do.''\n*'''Glaukos:''' ''Fine! You want to prove yourself to Diona, right? The military has been a real pain in the ass lately.<br>They've captured some [[Mercenary|mercenaries]] who are of interest to her at the [[Phoinikeos Customs Warehouse|fortified warehouse]]. She needs you to free them.''\n*'''Kassandra:''' ''I'll see to it, but it's going to cost you.''\n*'''Glaukos:''' ''Ha! If you make it back alive, I'll fatten your pockets with [[drachma]]e myself.''\n*'''Kassandra:''' ''Deal. But first, I have some questions.''\n(If players asked \"Why free the prisoners?\")\n*'''Kassandra:''' ''Freeing prisoners sounds treasonous. Why would she want to do that?''\n*'''Glaukos:''' ''In her paranoia, the [[Eritha|High Priestess]] has ordered anyone suspicious to be detained. But these prisoners were mercenaries minding their own business.''\n*'''Kassandra:''' ''A mercenary's business is rarely their own.''\n*'''Glaukos:''' ''Still, Diona wants them to help fight against her enemies.''\n*'''Kassandra:''' ''And let me guess, the only ones she can trust are those who can be bought with drachmae.''\n*'''Glaukos:''' ''Exactly. Of course, she trusts me too.''\n(If players asked \"Who's Diona to you?\")\n*'''Kassandra:''' ''Is Diona someone special to you?''\n*'''Glaukos:''' ''I-I'm her lover! And I'll be the one to help her get rid of her enemies! I promised that in exchange for -<br>Why am I telling you any of this?!<br>I don't care what you ''think'' your relationship with her is, she's just using you. I'm her true love!''\n*'''Kassandra:''' ''Right. You keep telling yourself that.''\n:(If already freed \u2013 \"Describe the men to me.\")\n:*'''Kassandra:''' ''Describe these mercenaries to me.''\n:*'''Glaukos:''' ''They're all massive brutes. The kind you approach when you want things done.''\n:*'''Kassandra:''' ''Sounds familiar. I saved some earlier. As brutish as they come, and not a hair on their heads.''\n:(Dialogue continues below at \"There were three of them...\")\n(Leave \u2013 \"That's enough\")\n*'''Kassandra:''' ''I've got enough to go on. You better get my drachmae ready.''\n*'''Glaukos:''' ''Come back when you're done. If you make it out of the camp alive.''\nKassandra scanned the Customs Warehouse for the three men with the help of [[Ikaros]]. She found one in the warehouse itself;\n*'''Kassandra:''' ''Found him!''\none in the corner by the sea;\n*'''Kassandra:''' ''He's over there.''\nand the final one in the cages near the tents in the middle.\n*'''Kassandra:''' ''There he is!''\n[[File:ACOD All Bonds Will Break 3.png|thumb|250px|Kassandra finding the prisoners]]\nShe infiltrated the fort, and made her way to the prisoner near the sea.\n*'''Greek Brute:''' ''I won't die here, ''misthios.'' Let me out!''\nShe released him and made her way to the second, in the cages in the middle.\n*'''Greek Brute:''' ''Get me out of here. Quick, before the [[guard]]s return!''\nShe released him as well and made her way to the prisoner in the warehouse itself.\n*'''Greek Brute:''' ''They'll execute me! I did nothing wrong!''\nShe freed the final mercenary.\n\nHaving freed all of the mercenaries, Kassandra made her way out of the warehouse area and returned to Glaukos.\n*'''Kassandra:''' ''I've freed the prisoners at the military camp.''\n*'''Glaukos:''' ''There were three of them, did you get them all?''\n*'''Kassandra:''' ''Yes, three of them in all their balding glory.''\n*'''Glaukos:''' ''Guess you're more useful than you look. In that case, Diona needs one more task fulfilled.<br>A man needs to die.''\n(If players chose \"Tell me more.\")\n*'''Kassandra:''' ''I'm listening.''\n*'''Glaukos:''' ''Diona's enemies have forces on [[Chytra Atoll]]. They're going to use it as a staging area to launch attacks on [[Kythera Island|Kythera]].<br>You need to exterminate these pests.''\n\n<tabber>\n|-|That sounds difficult.=\n*'''Kassandra:''' ''You want me to go alone to an island swarming with enemies?''\n*'''Glaukos:''' ''Oh, is that too hard a task for Diona's new champion?''\n*'''Kassandra:''' ''Tread lightly.''\n|-|Too easy.=\n*'''Kassandra:''' ''I will wipe the enemy off the face of that island.''\n*'''Glaukos:''' ''Your humility is moving, ''misthios''. But I wouldn't underestimate them.''\n*'''Kassandra:''' ''No, it's ''you'' who underestimates ''me.\n</tabber>\n*'''Glaukos:''' ''Enough pointless chatter!<br>She needs you to take out the captain there. His men should disperse after that. But, still, leave none alive. Will you do it?''\n:(If already killed)\n:*'''Kassandra:''' ''The captain? I slayed a very... flamboyantly dressed man earlier by a shipwreck.''\n:*'''Glaukos:''' ''That sounds like him. All that peacocking, no doubt to catch Diona's eye.<br>Here, take your payment and go. I have no need for you anymore.''\n:*'''Kassandra:''' ''Hold on. You've been fighting for Diona against the [[Cult of Kosmos|Cult]]. Tell me everything you know about them.''\n:(Dialogue continues at \"What Cult?\")\n[[File:ACOD All Bonds Will Break 4.png|thumb|250px|Glaukos requesting Kassandra kill the captain]]\n(Accept \u2013 \"I'll handle it.\")\n*'''Kassandra:''' ''Consider it done. What more can you tell me?''\n*'''Glaukos:''' ''What more could you possibly need? Just kill the man.''\n(If players asked \"Where is the captain hiding?\")\n*'''Kassandra:''' ''Any idea where I can find the captain?''\n*'''Glaukos:''' ''That rat should be somewhere around the [[Shipwreck Campsite|shipwreck]] off the north coast of Chytra Atoll.<br>I led a small party that managed to maroon his ship, but we couldn't finish the job. He and his men will be on their guard.''\n(If players asked \"How do I get to Chytra Atoll?\")\n*'''Kassandra:''' ''What is the quickest way to Chytra Atoll?''\n*'''Glaukos:''' ''Sail south from the southern tip of Kythera until you come across a shipwreck.''\n(If players chose \"Tell me about the Cult.\")\n*'''Kassandra:''' ''Tell me what you know about the Cult.''\n*'''Glaukos:''' ''What Cult?''\n*'''Kassandra:''' ''Isn't the captain a Cultist?''\n*'''Glaukos:''' ''He could be a ''mal\u00e1kas'' god for all I care. Diona says he wants to destroy her for rejecting him.<br>That the only way for us to be together is if I remove him from the picture.<br>Aren't you here for the same reason? To win her over?''\n\n<tabber>\n|-|Lie \u2013 Of course.=\n*'''Kassandra:''' ''She's already mine. And after I slay the captain, which ''you'' failed to do, you'll be forgotten.''\n*'''Glaukos:''' ''You couldn't have done it without my help! Diona will appreciate all I've done for her!<br>She can't just\u2014<br>J-Just forget about me.''\n*'''Kassandra:''' ''I'll be sure she does.''\n|-|Her sister is more my type.= <!--If The Handmaiden's Story already done-->\n*'''Kassandra:''' ''Truth be told, her sister is more my type.''\n*'''Glaukos:''' ''You better not let Diona hear that. She's a jealous one. She's spent her life living in her sister's shadow.''\n*'''Kassandra:''' ''Why isn't Diona the High Priestess?''\n*'''Glaukos:''' ''Because all anyone cares about is who's the first born.''\n*'''Kassandra:''' ''True.''\n|-|No, I'm here for the Cult.=\n*'''Kassandra:''' ''I'm here to dismantle the Cult of Kosmos. I have no time or interest in the Priestess.''\n*'''Glaukos:''' ''You can't fool me with your \"Cult\" bullshit. No one can resist Diona's charm.''<br>And'' no one would ever call themselves that. ''Mal\u00e1kas \"Cult of Kosmos.\"\n*'''Kassandra:''' ''Whatever.''\n</tabber>\n(Leave \u2013 That's enough.)\n*'''Kassandra:''' ''That's all I need to know.''\n*'''Glaukos:''' ''We'll send a fat amount of drachmae to your [[Adrestia|ship]] when you're done.''\n*'''Kassandra:''' ''Excellent.''\n\nRegardless, Glaukos petulantly shooed Kassandra away.\n*'''Glaukos:''' ''Go! Get out of here! And don't you go talking to Diona anymore!''\n*'''Kassandra:''' ''Or what?''\n*'''Glaukos:''' ''Or I'll\u2014Ugh, just go!''\n\n([[Atoll Order]] completion quote)\n*'''Kassandra:''' ''These don't look like Cult members. Probably just well-paid mercenaries.''",
+    "Section_Outcome": "Kassandra freed the mercenaries that Eritha had locked up, bolstering Diona's forces. She then sailed south to eliminate a captain who, at least according to Glaukos, Diona also needed dead.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Diona",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to Skandeia Harbor, finding the tavern and the Diona's acerbic associate therein.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I take it you're the harbor master.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Glaukos:''' ''I told you, I'll pay when I get paid!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Diona sent me. She said you needed help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Glaukos:''' ''Diona? Wait, wait, wait. Who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I'm just helping her out. She has some information I want.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Glaukos:''' ''Liar! I bet you want ''her'' more than you want information, don't you?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Just tell me what needs to be done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Glaukos:''' ''You think you can do better than I have?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''As a matter of fact, I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Glaukos:''' ''Fine! You want to prove yourself to Diona, right? The military has been a real pain in the ass lately.<br>They've captured some [[Mercenary|mercenaries]] who are of interest to her at the [[Phoinikeos Customs Warehouse|fortified warehouse]]. She needs you to free them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'll see to it, but it's going to cost you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "13",
+            "content": "*'''Glaukos:''' ''Ha! If you make it back alive, I'll fatten your pockets with [[drachma]]e myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Deal. But first, I have some questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "15",
+            "content": "(If players asked \"Why free the prisoners?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Freeing prisoners sounds treasonous. Why would she want to do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "17",
+            "content": "*'''Glaukos:''' ''In her paranoia, the [[Eritha|High Priestess]] has ordered anyone suspicious to be detained. But these prisoners were mercenaries minding their own business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''A mercenary's business is rarely their own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "19",
+            "content": "*'''Glaukos:''' ''Still, Diona wants them to help fight against her enemies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''And let me guess, the only ones she can trust are those who can be bought with drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "21",
+            "content": "*'''Glaukos:''' ''Exactly. Of course, she trusts me too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "22",
+            "content": "(If players asked \"Who's Diona to you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Is Diona someone special to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "24",
+            "content": "*'''Glaukos:''' ''I-I'm her lover! And I'll be the one to help her get rid of her enemies! I promised that in exchange for -<br>Why am I telling you any of this?!<br>I don't care what you ''think'' your relationship with her is, she's just using you. I'm her true love!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Right. You keep telling yourself that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "26",
+            "content": ":(If already freed \u2013 \"Describe the men to me.\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "27",
+            "content": ":*'''Kassandra:''' ''Describe these mercenaries to me.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "28",
+            "content": ":*'''Glaukos:''' ''They're all massive brutes. The kind you approach when you want things done.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": ":*'''Kassandra:''' ''Sounds familiar. I saved some earlier. As brutish as they come, and not a hair on their heads.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "30",
+            "content": ":(Dialogue continues below at \"There were three of them...\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O1",
+            "global_id": "31",
+            "content": "(Leave \u2013 \"That's enough\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I've got enough to go on. You better get my drachmae ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "33",
+            "content": "*'''Glaukos:''' ''Come back when you're done. If you make it out of the camp alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "34",
+            "content": "Kassandra scanned the Customs Warehouse for the three men with the help of [[Ikaros]]. She found one in the warehouse itself;",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Found him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "36",
+            "content": "one in the corner by the sea;",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''He's over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "38",
+            "content": "and the final one in the cages near the tents in the middle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''There he is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "40",
+            "content": "[[File:ACOD All Bonds Will Break 3.png|thumb|250px|Kassandra finding the prisoners]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "41",
+            "content": "She infiltrated the fort, and made her way to the prisoner near the sea.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Greek Brute:''' ''I won't die here, ''misthios.'' Let me out!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "43",
+            "content": "She released him and made her way to the second, in the cages in the middle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Greek Brute:''' ''Get me out of here. Quick, before the [[guard]]s return!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "45",
+            "content": "She released him as well and made her way to the prisoner in the warehouse itself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Greek Brute:''' ''They'll execute me! I did nothing wrong!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "47",
+            "content": "She freed the final mercenary.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N14",
+            "global_id": "49",
+            "content": "Having freed all of the mercenaries, Kassandra made her way out of the warehouse area and returned to Glaukos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''I've freed the prisoners at the military camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Glaukos:''' ''There were three of them, did you get them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Yes, three of them in all their balding glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "53",
+            "content": "*'''Glaukos:''' ''Guess you're more useful than you look. In that case, Diona needs one more task fulfilled.<br>A man needs to die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "54",
+            "content": "(If players chose \"Tell me more.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I'm listening.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "56",
+            "content": "*'''Glaukos:''' ''Diona's enemies have forces on [[Chytra Atoll]]. They're going to use it as a staging area to launch attacks on [[Kythera Island|Kythera]].<br>You need to exterminate these pests.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "57",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "58",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "59",
+            "content": "|-|That sounds difficult.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''You want me to go alone to an island swarming with enemies?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "61",
+            "content": "*'''Glaukos:''' ''Oh, is that too hard a task for Diona's new champion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''Tread lightly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "63",
+            "content": "|-|Too easy.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I will wipe the enemy off the face of that island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "65",
+            "content": "*'''Glaukos:''' ''Your humility is moving, ''misthios''. But I wouldn't underestimate them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''No, it's ''you'' who underestimates ''me.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "67",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D43",
+            "global_id": "68",
+            "content": "*'''Glaukos:''' ''Enough pointless chatter!<br>She needs you to take out the captain there. His men should disperse after that. But, still, leave none alive. Will you do it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "69",
+            "content": ":(If already killed)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N16",
+            "global_id": "70",
+            "content": ":*'''Kassandra:''' ''The captain? I slayed a very... flamboyantly dressed man earlier by a shipwreck.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N17",
+            "global_id": "71",
+            "content": ":*'''Glaukos:''' ''That sounds like him. All that peacocking, no doubt to catch Diona's eye.<br>Here, take your payment and go. I have no need for you anymore.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N18",
+            "global_id": "72",
+            "content": ":*'''Kassandra:''' ''Hold on. You've been fighting for Diona against the [[Cult of Kosmos|Cult]]. Tell me everything you know about them.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N19",
+            "global_id": "73",
+            "content": ":(Dialogue continues at \"What Cult?\")",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "74",
+            "content": "[[File:ACOD All Bonds Will Break 4.png|thumb|250px|Glaukos requesting Kassandra kill the captain]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "O2",
+            "global_id": "75",
+            "content": "(Accept \u2013 \"I'll handle it.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Consider it done. What more can you tell me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "77",
+            "content": "*'''Glaukos:''' ''What more could you possibly need? Just kill the man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "78",
+            "content": "(If players asked \"Where is the captain hiding?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D46",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Any idea where I can find the captain?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "80",
+            "content": "*'''Glaukos:''' ''That rat should be somewhere around the [[Shipwreck Campsite|shipwreck]] off the north coast of Chytra Atoll.<br>I led a small party that managed to maroon his ship, but we couldn't finish the job. He and his men will be on their guard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "81",
+            "content": "(If players asked \"How do I get to Chytra Atoll?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D48",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''What is the quickest way to Chytra Atoll?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "83",
+            "content": "*'''Glaukos:''' ''Sail south from the southern tip of Kythera until you come across a shipwreck.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "84",
+            "content": "(If players chose \"Tell me about the Cult.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D50",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Tell me what you know about the Cult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "86",
+            "content": "*'''Glaukos:''' ''What Cult?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''Isn't the captain a Cultist?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "88",
+            "content": "*'''Glaukos:''' ''He could be a ''mal\u00e1kas'' god for all I care. Diona says he wants to destroy her for rejecting him.<br>That the only way for us to be together is if I remove him from the picture.<br>Aren't you here for the same reason? To win her over?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "89",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "90",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "91",
+            "content": "|-|Lie \u2013 Of course.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''She's already mine. And after I slay the captain, which ''you'' failed to do, you'll be forgotten.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "93",
+            "content": "*'''Glaukos:''' ''You couldn't have done it without my help! Diona will appreciate all I've done for her!<br>She can't just\u2014<br>J-Just forget about me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''I'll be sure she does.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "95",
+            "content": "|-|Her sister is more my type.= <!--If The Handmaiden's Story already done-->",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''Truth be told, her sister is more my type.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "97",
+            "content": "*'''Glaukos:''' ''You better not let Diona hear that. She's a jealous one. She's spent her life living in her sister's shadow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''Why isn't Diona the High Priestess?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "99",
+            "content": "*'''Glaukos:''' ''Because all anyone cares about is who's the first born.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''True.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "101",
+            "content": "|-|No, I'm here for the Cult.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''I'm here to dismantle the Cult of Kosmos. I have no time or interest in the Priestess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "103",
+            "content": "*'''Glaukos:''' ''You can't fool me with your \"Cult\" bullshit. No one can resist Diona's charm.''<br>And'' no one would ever call themselves that. ''Mal\u00e1kas \"Cult of Kosmos.\"",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''Whatever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "105",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O3",
+            "global_id": "106",
+            "content": "(Leave \u2013 That's enough.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''That's all I need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "108",
+            "content": "*'''Glaukos:''' ''We'll send a fat amount of drachmae to your [[Adrestia|ship]] when you're done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''Excellent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "110",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N20",
+            "global_id": "111",
+            "content": "Regardless, Glaukos petulantly shooed Kassandra away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "112",
+            "content": "*'''Glaukos:''' ''Go! Get out of here! And don't you go talking to Diona anymore!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Or what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "114",
+            "content": "*'''Glaukos:''' ''Or I'll\u2014Ugh, just go!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "115",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "116",
+            "content": "([[Atoll Order]] completion quote)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''These don't look like Cult members. Probably just well-paid mercenaries.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

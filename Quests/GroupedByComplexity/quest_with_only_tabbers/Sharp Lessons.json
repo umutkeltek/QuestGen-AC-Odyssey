@@ -1,0 +1,464 @@
+{
+    "Quest_Name": "Sharp Lessons",
+    "Quest_ID": "226147",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Sharp Lessons 2.png",
+        "description": "'Thyia, acting General of Lalaia, asked Kassandra to meet her at Kephisos Spring to discuss strategy.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "A Gathering Storm",
+        "next": "The Ore of Aphrodite<br>Learning the Land<br>Daughters of Artemis and Daughters of Aphrodite (conditional)",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Sharp Lessons''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Thyia]], acting General of [[Lalaia]], asked Kassandra to meet her at [[Kephisos Spring]] to discuss strategy.",
+    "Section_Dialogue": "Kassandra met with Thyia at the waterfall basin outside Lalaia.\n*'''Thyia:''' ''Good to see your face again.''\n*'''Kassandra:''' ''Yours too.''\n*'''Thyia:''' ''Lalaia is the daughter of [[Kephisos]], god of this spring. It's said that she lives in these pools.''\nShe turned to face the waterfall.\n*'''Kassandra:''' ''Thyia, right? [[Periktione]] told me you've been acting as general. Though, from what I saw earlier, you and your sister don't see eye to eye.''\n*'''Thyia:''' ''Peri would die folded in prayer before she asked for my advice.''\n\n<tabber>\n|-|Peri wants comfort.=\n*'''Kassandra:''' ''Sometimes we want a comforting voice that says everything will be OK, rather than to be confronted with harsh reality.''\n|-|You're right to challenge her.=\n*'''Kassandra:''' ''Her distraction has allowed the [[Sons of Xerxes]] to advance.''\n</tabber>\n*'''Thyia:''' ''And now we are on the knife's edge waiting for the slaughter and we have done nothing. I must prepare myself to fight and hopefully the others too. Can you teach me?''\n[[File:ACOD Sharp Lessons 3.png|thumb|250px|Kassandra accepting Thyia's challenge]]\n*'''Kassandra:''' ''Your sister says you act like a general. Let's see if you fight like one.''\n*'''Thyia:''' ''I'm ready.''\nThey drew their weapons. Kassandra administered a few strikes.\n*'''Thyia:''' ''I told you not to go easy on me!''\nKassandra hit harder in response.\n*'''Thyia:''' ''You hit hard.''\n[[File:ACOD Sharp Lessons 5.png|thumb|250px|Thyia defeated by Kassandra]]\nEventually, Kassandra subdued Thyia and put her on her knees. She stood slowly.\n*'''Thyia:''' ''Well, that was humbling.''\n*'''Kassandra:''' ''The Sons of Xerxes won't be as kind.''\n*'''Thyia:''' ''No, it's a good wake up call. One I wish Peri could have. But big sister always knows best.''\n*'''Kassandra:''' ''Sounds like she's always given you a hard time.''\n*'''Thyia:''' ''You could say that. Acting like the hero while I do the dirty work.''\n\n<tabber>\n|-|Now you're the hero.=\n*'''Kassandra:''' ''Now you're the hero.''\n*'''Thyia:''' ''One can only hope to live up to that title. I've been playing soldier too long, and now I'm stuck in the role of [[Perseus]]... while feeling like [[Andromeda]].''\n|-|Now you have me on your side.=\n*'''Kassandra:''' ''Now you have the Eagle Bearer on your side.''\n*'''Thyia:''' ''Then you'll be the Perseus to my Andromeda.''\n</tabber>\n<tabber>\n|-|We'll make our own legend.=\n*'''Kassandra:''' ''A village of women abandoned by their army and forced to take up the sword? Sounds like a story worth singing, to me.''\n*'''Thyia:''' ''I don't care what songs they sing of my deeds, I care about protecting my sister and my village. If it is to my dying breath, then so be it, I will fight.''\n|-|Flirt \u2013 If you were Andromeda, you'd be naked.=\n*'''Kassandra:''' ''I seem to recall legend saying that Andromeda was nude and tied to a rock.''\n*'''Thyia:''' ''Was she? I'll have to remember that the next time I'm reenacting the myth. Lalaia has a rich heritage for theater, though not so much for fighting.''\n</tabber>\n(If players asked \"What is the role of women in Lalaia?\")\n*'''Kassandra:''' ''[[Sparta]]n women are taught to keep up with Spartan men. Lalaia seems different.''\n*'''Thyia:''' ''It is an oversight that I've been pushing to correct. When the men leave for war, our defenses are limited to a few hunters too valuable to leave, or young men who can barely hold a spear.''\n*'''Kassandra:''' ''And now that the hunters are dead...''\n*'''Thyia:''' ''We're more exposed to attacks from the Sons of Xerxes than ever.''\n(If players asked \"Why aren't you the leader?\")\n*'''Kassandra:''' ''I've seen kings and commanders. You share their temperament.''\n*'''Thyia:''' ''Peri married the governor. I am unwed. Spinsters do not become leaders. We exist on the fringes.''\n[[File:ACOD Sharp Lessons 6.png|thumb|250px|Kassandra and Thyia discuss their strategy]]\n(If players chose \"There's still a lot to be done.\")\n*'''Kassandra:''' ''We should get back to the task at hand. There's still a lot to do.''\n*'''Thyia:''' ''You're right, but it's hard to know where to start. I need to train the others for war, but we are without weapons and armor. No blacksmith... but his [[Methiadusa|daughter]] is still here.''\n*'''Kassandra:''' ''What about the hunters you lost?''\n*'''Thyia:''' ''We need to train replacements. There's also a [[Forest Camp|camp]] close by\u2014likely the [[Daughters of Artemis]]. They're not a friendly bunch, so we've been doing our best to avoid them.''\n:(If players have [[Artemis's Request|become the leader]] of the Daughters of Artemis)\n:*'''Kassandra:''' ''I've run into them before.''\n:*'''Thyia:''' ''I won't pry.''\n(If players asked \"Where can I find new hunters?\")\n*'''Kassandra:''' ''Who should I train to hunt?''\n*'''Thyia:''' ''I've met with some volunteers from the village. They've got a little experience, but need to have their bow arms straightened. You can find them on the edge of Lalaia.''\n(If players asked \"What does the blacksmith's daughter need?\")\n*'''Kassandra:''' ''Not sure how useful I'll be to the blacksmith's daughter.''\n*'''Thyia:''' ''Methiadusa mentioned needing some materials before she can get started. Between you and me, she needs a little push. She's been helping her father at the forge since she could walk, but she still doubts her own abilities.''\n(Leave \u2013 \"I should get started.\")\n*'''Kassandra:''' ''I'll get to it.''\nThe two women parted ways, and Kassandra set out to shore up Lalaia's defenses.",
+    "Section_Outcome": "Kassandra briefly trained Thyia in combat, then outlined their defense strategy for Lalaia.",
+    "Section_Trivia": "*If the player has not become leader of the [[Daughters of Artemis]] by completing [[Artemis's Request]] prior to completing this quest, [[Daughters of Artemis and Daughters of Aphrodite]] will be locked out and unavailable, even if the player becomes leader afterwards.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Lalaia",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra met with Thyia at the waterfall basin outside Lalaia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Thyia:''' ''Good to see your face again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Yours too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Thyia:''' ''Lalaia is the daughter of [[Kephisos]], god of this spring. It's said that she lives in these pools.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "She turned to face the waterfall.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Thyia, right? [[Periktione]] told me you've been acting as general. Though, from what I saw earlier, you and your sister don't see eye to eye.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Thyia:''' ''Peri would die folded in prayer before she asked for my advice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Peri wants comfort.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Sometimes we want a comforting voice that says everything will be OK, rather than to be confronted with harsh reality.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|You're right to challenge her.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Her distraction has allowed the [[Sons of Xerxes]] to advance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Thyia:''' ''And now we are on the knife's edge waiting for the slaughter and we have done nothing. I must prepare myself to fight and hopefully the others too. Can you teach me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "16",
+            "content": "[[File:ACOD Sharp Lessons 3.png|thumb|250px|Kassandra accepting Thyia's challenge]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Your sister says you act like a general. Let's see if you fight like one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Thyia:''' ''I'm ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "They drew their weapons. Kassandra administered a few strikes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Thyia:''' ''I told you not to go easy on me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "21",
+            "content": "Kassandra hit harder in response.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Thyia:''' ''You hit hard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "23",
+            "content": "[[File:ACOD Sharp Lessons 5.png|thumb|250px|Thyia defeated by Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "24",
+            "content": "Eventually, Kassandra subdued Thyia and put her on her knees. She stood slowly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Thyia:''' ''Well, that was humbling.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''The Sons of Xerxes won't be as kind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Thyia:''' ''No, it's a good wake up call. One I wish Peri could have. But big sister always knows best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Sounds like she's always given you a hard time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Thyia:''' ''You could say that. Acting like the hero while I do the dirty work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "31",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "32",
+            "content": "|-|Now you're the hero.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Now you're the hero.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Thyia:''' ''One can only hope to live up to that title. I've been playing soldier too long, and now I'm stuck in the role of [[Perseus]]... while feeling like [[Andromeda]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "35",
+            "content": "|-|Now you have me on your side.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Now you have the Eagle Bearer on your side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Thyia:''' ''Then you'll be the Perseus to my Andromeda.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS3",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "40",
+            "content": "|-|We'll make our own legend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''A village of women abandoned by their army and forced to take up the sword? Sounds like a story worth singing, to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "42",
+            "content": "*'''Thyia:''' ''I don't care what songs they sing of my deeds, I care about protecting my sister and my village. If it is to my dying breath, then so be it, I will fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "43",
+            "content": "|-|Flirt \u2013 If you were Andromeda, you'd be naked.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I seem to recall legend saying that Andromeda was nude and tied to a rock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Thyia:''' ''Was she? I'll have to remember that the next time I'm reenacting the myth. Lalaia has a rich heritage for theater, though not so much for fighting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "46",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "47",
+            "content": "(If players asked \"What is the role of women in Lalaia?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''[[Sparta]]n women are taught to keep up with Spartan men. Lalaia seems different.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "49",
+            "content": "*'''Thyia:''' ''It is an oversight that I've been pushing to correct. When the men leave for war, our defenses are limited to a few hunters too valuable to leave, or young men who can barely hold a spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''And now that the hunters are dead...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "51",
+            "content": "*'''Thyia:''' ''We're more exposed to attacks from the Sons of Xerxes than ever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "52",
+            "content": "(If players asked \"Why aren't you the leader?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I've seen kings and commanders. You share their temperament.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "54",
+            "content": "*'''Thyia:''' ''Peri married the governor. I am unwed. Spinsters do not become leaders. We exist on the fringes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "55",
+            "content": "[[File:ACOD Sharp Lessons 6.png|thumb|250px|Kassandra and Thyia discuss their strategy]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C3",
+            "global_id": "56",
+            "content": "(If players chose \"There's still a lot to be done.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''We should get back to the task at hand. There's still a lot to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "58",
+            "content": "*'''Thyia:''' ''You're right, but it's hard to know where to start. I need to train the others for war, but we are without weapons and armor. No blacksmith... but his [[Methiadusa|daughter]] is still here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''What about the hunters you lost?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "60",
+            "content": "*'''Thyia:''' ''We need to train replacements. There's also a [[Forest Camp|camp]] close by\u2014likely the [[Daughters of Artemis]]. They're not a friendly bunch, so we've been doing our best to avoid them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "61",
+            "content": ":(If players have [[Artemis's Request|become the leader]] of the Daughters of Artemis)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "62",
+            "content": ":*'''Kassandra:''' ''I've run into them before.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "63",
+            "content": ":*'''Thyia:''' ''I won't pry.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C4",
+            "global_id": "64",
+            "content": "(If players asked \"Where can I find new hunters?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D36",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Who should I train to hunt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "66",
+            "content": "*'''Thyia:''' ''I've met with some volunteers from the village. They've got a little experience, but need to have their bow arms straightened. You can find them on the edge of Lalaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "67",
+            "content": "(If players asked \"What does the blacksmith's daughter need?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Not sure how useful I'll be to the blacksmith's daughter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "69",
+            "content": "*'''Thyia:''' ''Methiadusa mentioned needing some materials before she can get started. Between you and me, she needs a little push. She's been helping her father at the forge since she could walk, but she still doubts her own abilities.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "70",
+            "content": "(Leave \u2013 \"I should get started.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''I'll get to it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "72",
+            "content": "The two women parted ways, and Kassandra set out to shore up Lalaia's defenses.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+{
+    "Quest_Name": "The Ore of Aphrodite",
+    "Quest_ID": "226152",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Ore of Aphrodite - Methiadusa Meets Kassandra.png",
+        "description": "'To aid the women of Lalaia, Kassandra gathered legendary ore for the village blacksmith.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Learning the Land",
+        "next": "The Best Defense",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Ore of Aphrodite''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to the [[blacksmith]] of [[Lalaia]] on the advice of [[Periktione]]. To aid the women of Lalaia, Kassandra gathered legendary ore for the village blacksmith.",
+    "Section_Dialogue": "Kassandra approached the village's [[Methiadusa|blacksmith]].\n*'''Methiadusa:''' ''They tell me to make the weapons, but do any of them ask if I know how?<br />Oh! Who are you?''\n*'''Kassandra:''' ''A [[mercenary]] hired by the village magistrate.''\n*'''Methiadusa:''' ''Oh. That explains why I don't know you. I'm Methiadusa. Please don't tell me you need new weapons or [[armor]].''\n*'''Kassandra:''' ''I don't. But the rest of the village does.''\n*'''Methiadusa:'''\u00a0''Oh, that's worse.''\n*'''Kassandra:''' ''I thought you were the village blacksmith. Why are you so reluctant?''\n*'''Methiadusa:''' ''I'm not the village blacksmith! My father is, and my brother is his apprentice. I just fetch wood when they need it. Now they all expect me to arm the village!''\n(If players choose \"Where is your family?\")\n*'''Kassandra:''' ''Are you the only member of your family left?''\n*'''Methiadusa:''' ''I'll know when the men return from [[Peloponnesian War|war]]. Mater left with the [[Charon|Ferryman]] last year.''\n(If players choose \"Let me help you.\")\n*'''Kassandra:''' ''Is there any way I can help?''\n*'''Methiadusa:''' ''I think pater left the molds and tools nearby. But I need ore, and even then, I might make something utterly useless.''\n(If players choose \"Why do you doubt yourself?\")\n*'''Kassandra:''' ''You look capable enough to me.''\n*'''Methiadusa:''' ''There's a difference between knowing how to do something with your mind and knowing how to do it with your hands.''\n*'''Kassandra:''' ''Fair enough.''\n(If players choose \"Tell me\u00a0about the ore.\")\n*'''Kassandra:''' ''What kind of ore do you need?''\n*'''Methiadusa:''' ''Any kind of ore will technically do... but...''\n*'''Kassandra:''' ''But?''\n*'''Methiadusa:''' ''My pater used a legendary ore when making a [[dagger]] for my mater. It's called [[Aphrodite Ore|Aphrodite's Ore]]. Sounds strange, but it's true.''\n(If players choose \"Why is the ore named for [[Aphrodite]]?\")\n*'''Kassandra:''' ''How did the ore get its name?''\n*'''Methiadusa:'''''The legend says [[Hephaistos]], god of the forge, found this ore and used it to make a [[helmet]] for his wife, Aphrodite. She loved it for its color. Because of that, the ore works in the hands of any smith.''\n(If players choose \"Where is the ore?\")\n*'''Kassandra:''' ''Where can I find the ore?''\n*'''Methiadusa:''' ''It's hard to reach. It's down the cliffs at the [[Persian Remnants]], in a secret cave just above the water.''\n*'''Kassandra:''' ''Sounds like you've been there before.''\n*'''Methiadusa:''' ''I told you. I wasn't the smith. I was there to fetch what pater needed. I'd go myself, but I need to heat up the kiln.''\n(If players choose \"Leave \u2013 I'll go find the ore.\")\n*'''Kassandra:''' ''I'll bring back Aphrodite's Ore.''\n[[File:ACOD The Ore of Aphrodite 4.png|thumb|250px|Kassandra finding the ore]]\nKassandra headed to the cliffs in [[Malis]] near the [[Hot Gates of Thermopylai]]. She climbed down the cliffs, entering the cave Methiadusa spoke of. After a while of searching, she found and recovered one of the ore.\n*'''Kassandra:''' ''I can see why this ore is named for Aphrodite.''\nKassandra continued to recover the ores, successfully finding five needed by Methiadusa.\n*'''Kassandra:''' ''That should be enough ore for Methiadusa. Time to head back.''\nKassandra returned to Methiadusa in Lalaia.\n*'''Kassandra:''' ''I found the ore.''\n*'''Methiadusa:''' ''Amazing! I'll ready the molds.''\n*'''Kassandra:''' ''Will that be enough for the village?''\n*'''Methiadusa:''' ''It should be a good start. Oh! That reminds me, I have a problem.''\n*'''Kassandra:''' ''You and the rest of Lalaia.''\n*'''Methiadusa:''' ''I'm just one smith and I can divide my time between making weapons and armor, but it will slow down the process. It would be faster if I just worked on one. Which should I focus on, weapons or armor?''\n\n<tabber>\n|-|You should work on weapons.=\n*'''Kassandra:''' ''We can't kill bandits without weapons. We'll just have to hope their archers have poor aim.''\n|-|You should work on armor.=\n*'''Kassandra:''' ''Weapons can be improvised, armor can't. Focus on keeping people safe.''\n</tabber>\n*'''Methiadusa:''' ''Yes, you're right. Your confidence gives me hope. Thank you for your help.''\nIf this is the last of the three quests completed:\n*'''Kassandra:''' ''I've done all I can for these women. Time to get back to Periktione.''",
+    "Section_Outcome": "Kassandra helped Methiadusa to recover some Aphrodite's ore, allowing her to forge some equipment for the village.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Lalaia",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the village's [[Methiadusa|blacksmith]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Methiadusa:''' ''They tell me to make the weapons, but do any of them ask if I know how?<br />Oh! Who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''A [[mercenary]] hired by the village magistrate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Methiadusa:''' ''Oh. That explains why I don't know you. I'm Methiadusa. Please don't tell me you need new weapons or [[armor]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I don't. But the rest of the village does.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Methiadusa:'''\u00a0''Oh, that's worse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I thought you were the village blacksmith. Why are you so reluctant?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Methiadusa:''' ''I'm not the village blacksmith! My father is, and my brother is his apprentice. I just fetch wood when they need it. Now they all expect me to arm the village!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "9",
+            "content": "(If players choose \"Where is your family?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Are you the only member of your family left?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Methiadusa:''' ''I'll know when the men return from [[Peloponnesian War|war]]. Mater left with the [[Charon|Ferryman]] last year.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "12",
+            "content": "(If players choose \"Let me help you.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Is there any way I can help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Methiadusa:''' ''I think pater left the molds and tools nearby. But I need ore, and even then, I might make something utterly useless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "15",
+            "content": "(If players choose \"Why do you doubt yourself?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''You look capable enough to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Methiadusa:''' ''There's a difference between knowing how to do something with your mind and knowing how to do it with your hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Fair enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "19",
+            "content": "(If players choose \"Tell me\u00a0about the ore.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What kind of ore do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Methiadusa:''' ''Any kind of ore will technically do... but...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''But?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Methiadusa:''' ''My pater used a legendary ore when making a [[dagger]] for my mater. It's called [[Aphrodite Ore|Aphrodite's Ore]]. Sounds strange, but it's true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "24",
+            "content": "(If players choose \"Why is the ore named for [[Aphrodite]]?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''How did the ore get its name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "26",
+            "content": "*'''Methiadusa:'''''The legend says [[Hephaistos]], god of the forge, found this ore and used it to make a [[helmet]] for his wife, Aphrodite. She loved it for its color. Because of that, the ore works in the hands of any smith.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "27",
+            "content": "(If players choose \"Where is the ore?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Where can I find the ore?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Methiadusa:''' ''It's hard to reach. It's down the cliffs at the [[Persian Remnants]], in a secret cave just above the water.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Sounds like you've been there before.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "31",
+            "content": "*'''Methiadusa:''' ''I told you. I wasn't the smith. I was there to fetch what pater needed. I'd go myself, but I need to heat up the kiln.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "32",
+            "content": "(If players choose \"Leave \u2013 I'll go find the ore.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D25",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'll bring back Aphrodite's Ore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "34",
+            "content": "[[File:ACOD The Ore of Aphrodite 4.png|thumb|250px|Kassandra finding the ore]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "35",
+            "content": "Kassandra headed to the cliffs in [[Malis]] near the [[Hot Gates of Thermopylai]]. She climbed down the cliffs, entering the cave Methiadusa spoke of. After a while of searching, she found and recovered one of the ore.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I can see why this ore is named for Aphrodite.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "37",
+            "content": "Kassandra continued to recover the ores, successfully finding five needed by Methiadusa.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''That should be enough ore for Methiadusa. Time to head back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "39",
+            "content": "Kassandra returned to Methiadusa in Lalaia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I found the ore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "41",
+            "content": "*'''Methiadusa:''' ''Amazing! I'll ready the molds.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Will that be enough for the village?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "43",
+            "content": "*'''Methiadusa:''' ''It should be a good start. Oh! That reminds me, I have a problem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''You and the rest of Lalaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Methiadusa:''' ''I'm just one smith and I can divide my time between making weapons and armor, but it will slow down the process. It would be faster if I just worked on one. Which should I focus on, weapons or armor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "48",
+            "content": "|-|You should work on weapons.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''We can't kill bandits without weapons. We'll just have to hope their archers have poor aim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "50",
+            "content": "|-|You should work on armor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Weapons can be improvised, armor can't. Focus on keeping people safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "52",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D36",
+            "global_id": "53",
+            "content": "*'''Methiadusa:''' ''Yes, you're right. Your confidence gives me hope. Thank you for your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "54",
+            "content": "If this is the last of the three quests completed:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I've done all I can for these women. Time to get back to Periktione.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

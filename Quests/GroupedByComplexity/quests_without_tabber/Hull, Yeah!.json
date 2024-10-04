@@ -1,0 +1,96 @@
+{
+    "Quest_Name": "Hull, Yeah!",
+    "Quest_ID": "223298",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_Hull_Yeah.jpg",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Memories Awoken",
+        "next": "Upgrade the Spear",
+        "source": "Kassandra",
+        "location": "Aegean Sea, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Hull, Yeah!''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Barnabas]] wanted to teach Kassandra how to upgrade the ship's hull in order to take on bigger and tougher opponents on the [[Aegean Sea|Aegean]]. She eagerly agreed, as this would be essential on her journey.",
+    "Section_Dialogue": "Kassandra boarded the ''Adrestia'' before being greeted by Barnabas.\n*'''Barnabas:''' ''We're going to have to do some upgrades to my ship if we're sailing into war.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Barnabas:''' ''Well, she's old, and perhaps not in the best condition.''\n*'''Kassandra:''' ''You couldn't have said this before we set sail! Where in Poseidon's name are we going to get the supplies?''\n*'''Barnabas:''' ''My father told me that the sea takes... and we must do the same. Fortunately there are plenty of pirate ships in these waters that we can board and take from!''\n*'''Kassandra:''' ''What are we waiting for? Let's hunt some pirates.''\nKassandra gathered the resourced needed to upgrade the ship's hull.\n*'''Barnabas:''' ''Now that we have the necessary resources, we can upgrade the ship's hull.''\nKassandra had the ship's hull upgraded.\n*'''Barnabas:''' ''Poseidon be praised! She's in ramming shape now. Like a fist in the ocean.''",
+    "Section_Outcome": "Kassandra and the crew of the ''Adrestia'' engaged pirates in naval combat, boarded their ships and looted their resources.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Barnabas",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra boarded the ''Adrestia'' before being greeted by Barnabas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Barnabas:''' ''We're going to have to do some upgrades to my ship if we're sailing into war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Barnabas:''' ''Well, she's old, and perhaps not in the best condition.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''You couldn't have said this before we set sail! Where in Poseidon's name are we going to get the supplies?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Barnabas:''' ''My father told me that the sea takes... and we must do the same. Fortunately there are plenty of pirate ships in these waters that we can board and take from!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''What are we waiting for? Let's hunt some pirates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "Kassandra gathered the resourced needed to upgrade the ship's hull.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Barnabas:''' ''Now that we have the necessary resources, we can upgrade the ship's hull.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "10",
+            "content": "Kassandra had the ship's hull upgraded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Barnabas:''' ''Poseidon be praised! She's in ramming shape now. Like a fist in the ocean.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "Quest_Name": "Wasted Devotion",
+    "Quest_ID": "232001",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'An athlete inspired by Kassandra at the Olympic Games|Olympics wished to devote herself to Zeus. The athlete wanted to destroy her shrine to Poseidon but was afraid of beasts in the area.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Pankration (memory)|Pankration",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Wasted Devotion''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Settlng an example, Kassandra was faced with the consequences.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire ''Anything you need a [[mercenary]]'s help with?''\n*'''Athlete:''' ''You! Beloved child of [[Zeus]] and [[Hera]]! You are officially the greatest being who ever lived.''\n*'''Kassandra:''' ''What equipment? Most of the athletes I've seen barely wear clothes.''\n*'''Athlete:''' ''The javelins,'' misthios''. Stop thinking about naked athletes and help us with these thieves!''\n<tabber>\n|-|I am the greatest.=\n*'''Kassandra:''' ''\n*'''Athlete:''' ''\n|-|I am the greatest... for now.=\n*'''Kassandra:''' ''I have achieved what no mere mortal can achieve... until another mere mortal achieves it.''\n*'''Athlete:''' ''Nonsense.''\n</tabber>\n*'''Athlete:''' '' Once a mighty warrior, always a mighty warrior. You have given me great inspiration,'' misthios.\n*'''Kassandra:''' ''How so?''\n*'''Athlete:''' ''By winning the [[Olympic Games|Olympics]], you've made me realize how much time I've wasted worshipping [[Poseidon]] when I should have been devoted to Zeus.''\n*'''Kassandra:''' ''So what now?''\n*'''Athlete:''' ''Before your heroics, I foolishly devoted a shrine to Poseidon. Now, I'd like to see it turned to dust, but wild beasts are drawn to the sacrifices I left there.''\n*'''Kassandra:''' ''Sounds like you want me to kill the beasts.''\n*'''Athlete:''' ''Yes, all of them must be gutted. Do you accept?''\n(Accept - I'll kill the beasts.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Athlete:''' ''Good, get this done quickly.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the athlete, and sought out the shrine wherein she found and slew two [[bear]]s before returning to the athlete.\n*'''Athlete:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Athlete:''' ''You do good work, friend. Here, this is for you.''\n*'''Kassandra:''' ''Happy to help.''\nThe athlete rewarded Kassandra for her help.",
+    "Section_Outcome": "Kassandra helped an athlete with their problem, and was rewarded with [[drachma]]e.",
+    "Section_Trivia": "*This quest is triggered by completing the Olympic questline. It is unknown if there are variables that affect the availability.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' Chaire ''Anything you need a [[mercenary]]'s help with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Athlete:''' ''You! Beloved child of [[Zeus]] and [[Hera]]! You are officially the greatest being who ever lived.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''What equipment? Most of the athletes I've seen barely wear clothes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Athlete:''' ''The javelins,'' misthios''. Stop thinking about naked athletes and help us with these thieves!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|I am the greatest.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Athlete:''' ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|I am the greatest... for now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I have achieved what no mere mortal can achieve... until another mere mortal achieves it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Athlete:''' ''Nonsense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Athlete:''' '' Once a mighty warrior, always a mighty warrior. You have given me great inspiration,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''How so?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Athlete:''' ''By winning the [[Olympic Games|Olympics]], you've made me realize how much time I've wasted worshipping [[Poseidon]] when I should have been devoted to Zeus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''So what now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Athlete:''' ''Before your heroics, I foolishly devoted a shrine to Poseidon. Now, I'd like to see it turned to dust, but wild beasts are drawn to the sacrifices I left there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Sounds like you want me to kill the beasts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Athlete:''' ''Yes, all of them must be gutted. Do you accept?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "20",
+            "content": "(Accept - I'll kill the beasts.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll help you. You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Athlete:''' ''Good, get this done quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "24",
+            "content": "Kassandra left the athlete, and sought out the shrine wherein she found and slew two [[bear]]s before returning to the athlete.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "25",
+            "content": "*'''Athlete:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "27",
+            "content": "*'''Athlete:''' ''You do good work, friend. Here, this is for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "29",
+            "content": "The athlete rewarded Kassandra for her help.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "Quest_Name": "Atlantis Destroyed",
+    "Quest_ID": "225233",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Thera - Adrestia near the beach.png",
+        "description": "'Atlantis was sealed and barred from visitors forever, as intended. Although Kassandra would never see Pythagoras again, her dear friends Herodotos and Barnabas would always stand beside her.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Ancient Revelations",
+        "source": "Kassandra",
+        "location": "Minoan Ruins, Thera, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Atlantis Destroyed''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Dialogue": "After successfully sealing [[Atlantis]], Kassandra returned to the surface of [[Thera]] as the sun began setting over the mountains on the west side of the island. She reached the [[Minoan Ruins]] and saw [[Barnabas]] pacing back and forth while [[Herodotos]] sat on a wooden bench, both waiting for her return.\n*'''Kassandra:''' ''What are you two doing here?''\nThey moved closer together.\n*'''Barnabas:''' ''You know us\u2014always on your tail. Old Herodotos couldn't wait to see you.''\n*'''Herodotos:''' ''I told you, Barnabas, Thera is said to hold a secret. A secret no one can fathom.''\n*'''Barnabas:''' ''Yes, but a lost world?''\n*'''Herodotos:''' ''It's perfectly possible\u2014Atlantis may exist.''\n*'''Barnabas:''' ''Sounds like hooey to me. But he's insistent about it.''\n*'''Kassandra:''' ''Herodotos is right. Atlantis exists.''\n*'''Barnabas:''' ''Incredible!''\n*'''Herodotos:''' ''I-it's true? I can't believe it. Tell me everything!''\n<tabber>\n|-|It's a long story.=\n*'''Kassandra:''' ''I'll tell you some day. It's too complicated for small talk.''\n*'''Barnabas:''' ''It's not me, is it? I've proven I'm very competent!''\n*'''Kassandra:''' ''I'm exhausted, Barnabas.''\n*'''Herodotos:''' ''Ignore him. When you're ready, I'm all ears. I need every last detail.''\n|-|I met my real father.=\n*'''Kassandra:''' ''My [[Myrrine|mother]] sent me here to meet my real father. You know... [[Pythagoras]]? It's him.''\nThe historical significance of Pythagoras escaped Barnabas, while Herodotos picked up on the implication immediately.\n*'''Barnabas:''' ''You're father was living in a volcano?''\n*'''Herodotos:''' ''Pythagoras?! That's unthinkable\u2014it would make him immortal.''\n*'''Kassandra:''' ''He had a [[Staff of Hermes Trismegistus|staff]] that belonged to the [[Isu|Ancient Civilization]].''\n*'''Herodotos:''' ''It kept him alive all this time... Makes perfect sense.''\nBarnabas was excited by the news.\n*'''Barnabas:''' ''Well, where is he? Invite him along\u2014he's your father after all.''\n*'''Kassandra:''' ''He was a stubborn man. He wanted to keep all the knowledge of Atlantis to himself.''\n*'''Barnabas:''' ''Huh, stubborn. I suppose that trait runs in the family.''\n*'''Herodotos:''' ''He means he's sorry for your loss.''\n</tabber>\n*'''Kassandra:''' ''It's all right.''\n*'''Kassandra:''' ''But none of this can ''ever'' pass your lips. This stays between us.''\n*'''Barnabas:''' ''You have my word.''\n*'''Herodotos:''' ''But the world needs to know! We could tell the most ''amazing'' tale of our time.''\nKassandra crossed her arms.\n*'''Kassandra:''' ''Herodotos...''\n*'''Herodotos:''' ''Oh, fine.''\nHerodotos sulked and walked away.\n*'''Kassandra:''' ''Then it's settled. Let's move forward.''\nHerodotos turned back and smiled.\n*'''Herodotos:''' ''Like always.''\nThe sun dropped lower in the sky as they reached the beach where the ''[[Adrestia]]'' was anchored. They continued to reminisce on their adventures thus far while looking at the ship and the sunset.\n*'''Barnabas:''' ''We've learned a lot, haven't we, you know-it-all?''\nBarnabas tittered at his own jape.\n*'''Herodotos:''' ''Speak for yourself\u2014I'm on the hunt for truth. Gods know not all ''your'' myths are accurate.''\n*'''Barnabas:''' ''They come from the [[Twelve Gods|gods]] themselves, who are the most reliable sources we have.''\n<tabber>\n|-|All things are possible.=\n*'''Kassandra:''' ''For all we know, anything's possible.''\n|-|You're both right.=\n*'''Kassandra:''' ''You've both been a great help to me. It doesn't matter who's right or wrong.''\n</tabber>\nRegardless, Barnabas agreed sportively.\n*'''Barnabas:''' ''And you would know, as the [[eagle]]-bearing [[Hybrid|demi-god]] you are.''\nHerodotos played along.\n*'''Herodotos:''' ''Perhaps she, too, is immortal.''\nKassandra laughed nervously.\n*'''Kassandra:''' ''Sure I am.''\nHerodotos moved closer to her.\n*'''Herodotos:''' ''I do know one thing for certain. This has been an odyssey I won't forget.''\nShe turned to him, smiled, and they clasped forearms. They all conversed for a little longer before setting off on their next adventure.",
+    "Section_Outcome": "Kassandra returns from the gateway to the ruins to find Barnabas and Herodotos. She talked to them of what had transpired and reflects on it.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Atlantide d\u00e9truite]]",
+    "Chapter_SequenceID": "15.a",
+    "Chapter_Name": "The Gates of Atlantis",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After successfully sealing [[Atlantis]], Kassandra returned to the surface of [[Thera]] as the sun began setting over the mountains on the west side of the island. She reached the [[Minoan Ruins]] and saw [[Barnabas]] pacing back and forth while [[Herodotos]] sat on a wooden bench, both waiting for her return.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''What are you two doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "They moved closer together.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Barnabas:''' ''You know us\u2014always on your tail. Old Herodotos couldn't wait to see you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Herodotos:''' ''I told you, Barnabas, Thera is said to hold a secret. A secret no one can fathom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Barnabas:''' ''Yes, but a lost world?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Herodotos:''' ''It's perfectly possible\u2014Atlantis may exist.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Barnabas:''' ''Sounds like hooey to me. But he's insistent about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Herodotos is right. Atlantis exists.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Barnabas:''' ''Incredible!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Herodotos:''' ''I-it's true? I can't believe it. Tell me everything!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|It's a long story.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'll tell you some day. It's too complicated for small talk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Barnabas:''' ''It's not me, is it? I've proven I'm very competent!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'm exhausted, Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Herodotos:''' ''Ignore him. When you're ready, I'm all ears. I need every last detail.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "18",
+            "content": "|-|I met my real father.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''My [[Myrrine|mother]] sent me here to meet my real father. You know... [[Pythagoras]]? It's him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "20",
+            "content": "The historical significance of Pythagoras escaped Barnabas, while Herodotos picked up on the implication immediately.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Barnabas:''' ''You're father was living in a volcano?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Herodotos:''' ''Pythagoras?! That's unthinkable\u2014it would make him immortal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''He had a [[Staff of Hermes Trismegistus|staff]] that belonged to the [[Isu|Ancient Civilization]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "24",
+            "content": "*'''Herodotos:''' ''It kept him alive all this time... Makes perfect sense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Barnabas was excited by the news.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "26",
+            "content": "*'''Barnabas:''' ''Well, where is he? Invite him along\u2014he's your father after all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''He was a stubborn man. He wanted to keep all the knowledge of Atlantis to himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Barnabas:''' ''Huh, stubborn. I suppose that trait runs in the family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Herodotos:''' ''He means he's sorry for your loss.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''It's all right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''But none of this can ''ever'' pass your lips. This stays between us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "33",
+            "content": "*'''Barnabas:''' ''You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "34",
+            "content": "*'''Herodotos:''' ''But the world needs to know! We could tell the most ''amazing'' tale of our time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "35",
+            "content": "Kassandra crossed her arms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Herodotos...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "37",
+            "content": "*'''Herodotos:''' ''Oh, fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "38",
+            "content": "Herodotos sulked and walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Then it's settled. Let's move forward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "40",
+            "content": "Herodotos turned back and smiled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Herodotos:''' ''Like always.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "42",
+            "content": "The sun dropped lower in the sky as they reached the beach where the ''[[Adrestia]]'' was anchored. They continued to reminisce on their adventures thus far while looking at the ship and the sunset.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "43",
+            "content": "*'''Barnabas:''' ''We've learned a lot, haven't we, you know-it-all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "44",
+            "content": "Barnabas tittered at his own jape.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "45",
+            "content": "*'''Herodotos:''' ''Speak for yourself\u2014I'm on the hunt for truth. Gods know not all ''your'' myths are accurate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "46",
+            "content": "*'''Barnabas:''' ''They come from the [[Twelve Gods|gods]] themselves, who are the most reliable sources we have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "48",
+            "content": "|-|All things are possible.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''For all we know, anything's possible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "50",
+            "content": "|-|You're both right.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''You've both been a great help to me. It doesn't matter who's right or wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "52",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N10",
+            "global_id": "53",
+            "content": "Regardless, Barnabas agreed sportively.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Barnabas:''' ''And you would know, as the [[eagle]]-bearing [[Hybrid|demi-god]] you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "55",
+            "content": "Herodotos played along.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "56",
+            "content": "*'''Herodotos:''' ''Perhaps she, too, is immortal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "57",
+            "content": "Kassandra laughed nervously.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''Sure I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "59",
+            "content": "Herodotos moved closer to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "60",
+            "content": "*'''Herodotos:''' ''I do know one thing for certain. This has been an odyssey I won't forget.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "61",
+            "content": "She turned to him, smiled, and they clasped forearms. They all conversed for a little longer before setting off on their next adventure.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

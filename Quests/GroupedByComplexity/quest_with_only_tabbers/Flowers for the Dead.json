@@ -1,0 +1,285 @@
+{
+    "Quest_Name": "Flowers for the Dead",
+    "Quest_ID": "224114",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Flowers for the Dead",
+        "image": "ACOD Flowers for the Dead.png",
+        "description": "'Kassandra came across an old man who knew firsthand that all flowers eventually wither.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "The Lost Arkalochori Axe",
+        "next": "Gortyn Out of Hand",
+        "source": "Kassandra",
+        "location": "Messara, Krete, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Flowers for the Dead''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a dying old man who wanted to do one last thing before he departed.",
+    "Section_Dialogue": "While near the [[Knossos Palace]], Kassandra met an old man who was collecting flowers.\n*'''Civilian:''' ''You there! [[Mercenary|Misthios]]!''\nKassandra approached the old man.\n*'''Kassandra:''' ''What's on your mind, old man?''\n*'''Civilian:''' ''I'm dying, ''misthios''. I can feel it in my bones. But first, there's something I need to do. Will you help an old man fulfil his dying wish?<br>I can offer you what [[drachma]]e I have left.''\n*'''Kassandra:''' ''I won't deny an old man his final wish. What is it?''\n*'''Civilian:''' ''I always promised my wife I'd take her to see the red flowers on the [[Summit of Mount Ida|summit]] of the [[Mount Ida|mountain]] in [[Zeus' Playground]]. It's a beautiful place\u2014great view.<br>But she met the [[Charon|ferryman]] before me, ''misthios''. I never made good on my promise.<br>It was always one thing or another, you know?<br>Children, war, what have you.''\n<tabber>\n|-|You should have made an effort.=\n*'''Kassandra:''' ''If you'd tried harder, she might have gotten to see the view.''\n*'''Civilian:''' ''I tell myself that every day.''\n|-|We all have regrets.=\n*'''Kassandra:''' ''It was a tough situation. You did your best.''\n*'''Civilian:''' ''You're a kind soul, ''misthios''. But I failed her... I did.''\n</tabber>\n*'''Kassandra:''' ''So what do you want me to do?''\n*'''Civilian:''' ''I need you to pick some of those red flowers for me from the Summit of Mount Ida so I can take them to my wife when I meet [[Hades]].<br>Just a few would do. Bring them back to me here. I'll be waiting, ''misthios''. And\u2014<br>I don't have long.''\n*'''Kassandra:''' ''I understand.''\nKassandra headed to Mount Ida and reached the summit.\n*'''Kassandra:''' ''This must be the place the old man spoke of.''\nShe found the flowers among the bushes.\n*'''Kassandra:''' ''There it is. The flower.''\nShe picked up the flowers.\n*'''Kassandra:''' ''The flowers... I should hurry back to the old man near [[Gortyn]].''\nKassandra quickly returned to where the old man was at. There, she found a lady near a covered body instead.\n*'''Kassandra:''' ''Hades claims another.''\n*'''Civilian:''' ''In all my life, I've never seen him so peaceful. I hope he's found'' mater.<br>''Those flowers... Are they\u2014''\n*'''Kassandra:''' ''Yes. He asked me to fetch them.''\n*'''Civilian:''' ''You silly old man. Is this why you left [[Pephka]]? To fetch ''mater'' flowers so far from home? You silly, stubborn, old man...''\n<tabber>\n|-|Here, take them.=\n*'''Kassandra:''' ''Here.''\nKassandra handed over the flowers.\n*'''Civilian:''' ''Thank you so much,'' misthios.\n*'''Kassandra:''' ''He made a promise to his wife. And I made a promise to him.''\n*'''Civilian:''' ''I don't have anything to offer you\u2014''\n|-|I was promised compensation.=\n*'''Kassandra:''' ''Your father promised me his drachmae.''\n*'''Civilian:''' ''Oh. [[Veteran Breastplate|Here]], it's all he had on him.''\n*'''Kassandra:''' ''Thank you, old man.''\n</tabber>\n*'''Civilian:''' Mater'' must be so glad you brought her flowers. You never did when she was alive...''",
+    "Section_Outcome": "Kassandra helped the old man recover flowers for his wife, although he never lived long enough to see Kassandra return with them.",
+    "Section_Trivia": "*Though the in-game model of the flowers on Summit of Mount Ida resembles the [[Poppy|poppies]], the quest item image doesn't, nor the man's description of them as 'rare'.\n*If the flowers are merely given, the only reward for this quest is experience. If a reward is insisted on, the daughter gives the old man's [[Veteran Breastplate|armor]] and some drachmae.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Des fleurs pour les morts]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Messara",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While near the [[Knossos Palace]], Kassandra met an old man who was collecting flowers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''You there! [[Mercenary|Misthios]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached the old man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What's on your mind, old man?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''I'm dying, ''misthios''. I can feel it in my bones. But first, there's something I need to do. Will you help an old man fulfil his dying wish?<br>I can offer you what [[drachma]]e I have left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I won't deny an old man his final wish. What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Civilian:''' ''I always promised my wife I'd take her to see the red flowers on the [[Summit of Mount Ida|summit]] of the [[Mount Ida|mountain]] in [[Zeus' Playground]]. It's a beautiful place\u2014great view.<br>But she met the [[Charon|ferryman]] before me, ''misthios''. I never made good on my promise.<br>It was always one thing or another, you know?<br>Children, war, what have you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You should have made an effort.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''If you'd tried harder, she might have gotten to see the view.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Civilian:''' ''I tell myself that every day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|We all have regrets.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''It was a tough situation. You did your best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Civilian:''' ''You're a kind soul, ''misthios''. But I failed her... I did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''So what do you want me to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''I need you to pick some of those red flowers for me from the Summit of Mount Ida so I can take them to my wife when I meet [[Hades]].<br>Just a few would do. Bring them back to me here. I'll be waiting, ''misthios''. And\u2014<br>I don't have long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "Kassandra headed to Mount Ida and reached the summit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''This must be the place the old man spoke of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "21",
+            "content": "She found the flowers among the bushes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''There it is. The flower.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "23",
+            "content": "She picked up the flowers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''The flowers... I should hurry back to the old man near [[Gortyn]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "25",
+            "content": "Kassandra quickly returned to where the old man was at. There, she found a lady near a covered body instead.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Hades claims another.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Civilian:''' ''In all my life, I've never seen him so peaceful. I hope he's found'' mater.<br>''Those flowers... Are they\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Yes. He asked me to fetch them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Civilian:''' ''You silly old man. Is this why you left [[Pephka]]? To fetch ''mater'' flowers so far from home? You silly, stubborn, old man...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "30",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "31",
+            "content": "|-|Here, take them.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "33",
+            "content": "Kassandra handed over the flowers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Civilian:''' ''Thank you so much,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''He made a promise to his wife. And I made a promise to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Civilian:''' ''I don't have anything to offer you\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "37",
+            "content": "|-|I was promised compensation.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Your father promised me his drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "39",
+            "content": "*'''Civilian:''' ''Oh. [[Veteran Breastplate|Here]], it's all he had on him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Thank you, old man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "41",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Civilian:''' Mater'' must be so glad you brought her flowers. You never did when she was alive...''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

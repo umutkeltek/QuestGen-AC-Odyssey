@@ -1,0 +1,84 @@
+{
+    "Quest_Name": "Journey's End",
+    "Quest_ID": "225148",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Pieces of the Puzzle",
+        "image": "ACOD Lemnos - Ancient Stronghold.png",
+        "description": "'After Phidias's murder, Kassandra set off to solve the clues he had her find. It was her hope that completing the puzzle would avenge her lost friend.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Side, Character {{c|Phidias}}",
+        "source": "Kassandra",
+        "location": "Sky Fall Lakes, Lemnos, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''Journey's End''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to avenge Phidias' death and help him solve the puzzle.",
+    "Section_Dialogue": "Kassandra inspected Phidias' body and recovered the scytale.\n*'''Kassandra:''' ''Here it is, the ''{{Wiki|scytale}}''! Now I can decode the messages. I will avenge you, Phidias. Rest assured of that.''\nWith the ''scytale'', Kassandra pieced together the symbols she copied and read the location of a secret room.\n*'''Kassandra:''' ''The ''scytale'' message told me to find a secret room in the [[Ancient Stronghold|stronghold]] in [[Lemnos]]... So that's where I should go.''\n[[File:ACOD Journey's End 2.png|thumb|250px|Kassandra at the entrance to the room]]\nKassandra departed Elis and headed to the [[Hephaistos Islands]]. Upon arriving, she made her away to the stronghold. After eradicating every [[Cult of Kosmos]] [[soldier]], Kassandra went up to the command room, killed the general, and found a hallway with eight protuberances on the walls facing each other, each one using the banner emblems of the regions of Greece except for a trident. At the end of the room was a door. She approached one of the push switches.\n*'''Kassandra:''' ''Maybe if I press here...''\nShe pressed the switches in sequence according to the decrypted message from the scytale, and the door unlocked. She went inside the room.\n*'''Kassandra:''' ''Someone went to a lot of trouble to hide this.''",
+    "Section_Outcome": "Kassandra decrypted the message then sailed to the provided coordinates, avenging Phidias' death and recovering a powerful weapon, the [[Atlantean Blade]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Phidias",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra inspected Phidias' body and recovered the scytale.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Here it is, the ''{{Wiki|scytale}}''! Now I can decode the messages. I will avenge you, Phidias. Rest assured of that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "With the ''scytale'', Kassandra pieced together the symbols she copied and read the location of a secret room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The ''scytale'' message told me to find a secret room in the [[Ancient Stronghold|stronghold]] in [[Lemnos]]... So that's where I should go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "5",
+            "content": "[[File:ACOD Journey's End 2.png|thumb|250px|Kassandra at the entrance to the room]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra departed Elis and headed to the [[Hephaistos Islands]]. Upon arriving, she made her away to the stronghold. After eradicating every [[Cult of Kosmos]] [[soldier]], Kassandra went up to the command room, killed the general, and found a hallway with eight protuberances on the walls facing each other, each one using the banner emblems of the regions of Greece except for a trident. At the end of the room was a door. She approached one of the push switches.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Maybe if I press here...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "She pressed the switches in sequence according to the decrypted message from the scytale, and the door unlocked. She went inside the room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Someone went to a lot of trouble to hide this.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

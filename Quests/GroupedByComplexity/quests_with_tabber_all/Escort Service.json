@@ -1,0 +1,122 @@
+{
+    "Quest_Name": "Escort Service",
+    "Quest_ID": "224161",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Follow That Boat",
+        "next": "Honey Eyes",
+        "image": "ACOD Escort Service.png",
+        "description": "'Complying with her wish to leave Korinthia forever, Kassandra had the task of taking Kleio far, far away.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece<br />Aegean Sea, Greece<br />Mykonos, Greece",
+        "date": "430 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Escort Service''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra agreed to escort the ''[[Courtesan|hetaera]]'' [[Kleio]] out of [[Korinthia]] and to [[Mykonos City]].",
+    "Section_Dialogue": "[Continuation of the dialogue from [[Follow That Boat]] quest]\n*'''Kleio:''' Misthios'', please. We were heading to Mykonos, which ''is'' safe. If you'll take me there, I can pay you the toll I'd have paid my crew.''\n*'''Kassandra:''' ''All right, I'll get you there. Next time my crew docks at Mykonos, you can depart. In the meantime, welcome aboard.''\n*'''Kleio:''' ''Thank you, ''misthios''! This is what's best, I promise.''\nAfter a time on the high seas, the ''[[Adrestia]]'' docked in Mykonos City. Kleio and Kassandra stepped onto the dock.\n*'''Kleio:''' ''You've more than made up for killing my \"abductors,\" ''misthios.'' Thank you.''\n<tabber>\n|-|Stay safe.=\n*'''Kassandra:''' ''Try to stay out of trouble, all right?''\n|-|Tell the truth next time.=\n*'''Kassandra:''' ''Do me a favor and tell your friends the truth next time.''\n</tabber>\nRegardless, Kleio responded coyly.\n*'''Kleio:''' ''I'll consider it. Put my coins to good use, and wish me luck.''\n*'''Kassandra:''' ''Good luck.''",
+    "Section_Outcome": "Kassandra escorted Kleio out of Korinth to Mykonos.",
+    "Section_Trivia": "*It appears possible for Kleio to be 'killed' at sea in naval combat. If this happens, the quest automatically completes without providing the [[Delivery Boots]] reward item or other rewards, however Kleio will eventually revive/respawn, as all ship NPCs and lieutenants do when defeated. As there is no way to remove Kleio from the ship without completing this quest normally, she will be stuck aboard the ''Adrestia'' permanently.\n*Escorting Kleio to Mykonos results in the Impact Quest ''[[Honey Eyes]]'' to become available.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "11.",
+    "Chapter_Name": "Land of the Lawless",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "[Continuation of the dialogue from [[Follow That Boat]] quest]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kleio:''' Misthios'', please. We were heading to Mykonos, which ''is'' safe. If you'll take me there, I can pay you the toll I'd have paid my crew.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''All right, I'll get you there. Next time my crew docks at Mykonos, you can depart. In the meantime, welcome aboard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kleio:''' ''Thank you, ''misthios''! This is what's best, I promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "After a time on the high seas, the ''[[Adrestia]]'' docked in Mykonos City. Kleio and Kassandra stepped onto the dock.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kleio:''' ''You've more than made up for killing my \"abductors,\" ''misthios.'' Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|Stay safe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Try to stay out of trouble, all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Tell the truth next time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Do me a favor and tell your friends the truth next time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "Regardless, Kleio responded coyly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kleio:''' ''I'll consider it. Put my coins to good use, and wish me luck.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Good luck.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

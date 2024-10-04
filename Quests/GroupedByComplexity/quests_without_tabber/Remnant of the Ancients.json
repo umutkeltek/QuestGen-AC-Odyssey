@@ -1,0 +1,168 @@
+{
+    "Quest_Name": "Remnant of the Ancients",
+    "Quest_ID": "228313",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Remnants of the Ancients Screenshot.png",
+        "description": "'Kassandra sought to repair Amorges' The Sword of Kings|weapon, which had shattered during their furious battle. It was more than just a grim reminder of the Order of the Ancients|Order's wake.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 Legacy of the First Blade: Bloodline'",
+        "type": "Main",
+        "previous": "Legacy of the First Blade (memory)|Legacy of the First Blade",
+        "source": "Kassandra",
+        "location": "Messenia, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Remnant of the Ancients''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra visited the [[Artisan Smith|artisan]] [[blacksmith]] in [[Kirrha]], [[Phokis]] to find a way to repair [[Amorges]]' [[sword]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''Amorges is dealt with, and I have his blade. But it's useless... Broken, and the metal is strange. I should find a blacksmith.\nWhile passing through the town of [[Kirrha]] in Phokis, Kassandra spotted a smith at [[Sargon]]'s [[Oikos of the Olympians]].\n*'''Kassandra:''' The Oikos of the Olympians has a blacksmith known for his skill in working rare metals. I should take the sword there.''\nKassandra travelled to the Oikos of the Olympians in Phokis. She spoke with an artisan smith.\n*'''Artisan Smith:''' ''[[Kopis]] or ''{{Wiki|basket|kophinos}}''\u2014what do you need?''\nKassandra took out the broken blade and showed it to the blacksmith.\n*'''Kassandra:''' ''Have you seen anything like this before?''\n*'''Artisan Smith:''' ''[[Jupiter|Zeus]]' balls! Do you know what this is?''\n*'''Kassandra:''' ''Broken?''\n*'''Artisan Smith:''' ''It's [[adamant]]ine! This stuff is priceless! And I don't mind telling you I'm the one man in the islands who knows how to properly work it. I'll need more adamantine to fix it, though. A lot more.''\nKassandra nodded and took out several [[Order of the Ancients medallion|Image of the Ancients]].\n*'''Kassandra:''' ''Will this help? The metal looks similar.''\n*'''Artisan Smith:''' ''What the\u2014where in [[Hades]] are you getting this stuff? No, I don't want to know.''\nKassandra handed over more necklaces to the blacksmith.\n:If Kassandra had insufficient metal, the following brief scene played out.\n:*'''Kassandra:''' ''Is this enough to repair the sword?''\n:*'''Artisan Smith:''' ''I wish I could say yes, but then I'd be lying... Bring me more, and I'll make you a sword fit for a [[Greek mythology|god]].''\n:Kassandra left to collect more necklaces and returned after killing every member of the [[Order of the Ancients]].\n:*'''Artisan Smith:''' ''You're back! You got it, didn't you? I can smell Adamantine, and you smell good!''\n*'''Kassandra:''' ''Here. Don't tell me you need more, because I've run out of necks to cut it from.''\n*'''Artisan Smith:''' ''There's real passion behind your words, I can feel it. I'm personally glad to say that these will do. The blood on them is a nice touch, by the way. Helps with the quenching.''\n*'''Kassandra:''' ''I do what I can.''\n*'''Artisan Smith:''' ''Wait here. This won't take long.''",
+    "Section_Outcome": "Kassandra collected the Image of the Ancients from all the members of the [[Order of Hunters]], [[Order of the Storm]], and [[Order of Dominion]], smelting the adamantine the necklaces were made of to repair [[The Sword of Kings]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[Legacy of the First Blade: Bloodline]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Vestige des Anciens]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''Amorges is dealt with, and I have his blade. But it's useless... Broken, and the metal is strange. I should find a blacksmith.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "While passing through the town of [[Kirrha]] in Phokis, Kassandra spotted a smith at [[Sargon]]'s [[Oikos of the Olympians]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' The Oikos of the Olympians has a blacksmith known for his skill in working rare metals. I should take the sword there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra travelled to the Oikos of the Olympians in Phokis. She spoke with an artisan smith.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Artisan Smith:''' ''[[Kopis]] or ''{{Wiki|basket|kophinos}}''\u2014what do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra took out the broken blade and showed it to the blacksmith.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Have you seen anything like this before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Artisan Smith:''' ''[[Jupiter|Zeus]]' balls! Do you know what this is?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Broken?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Artisan Smith:''' ''It's [[adamant]]ine! This stuff is priceless! And I don't mind telling you I'm the one man in the islands who knows how to properly work it. I'll need more adamantine to fix it, though. A lot more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "Kassandra nodded and took out several [[Order of the Ancients medallion|Image of the Ancients]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Will this help? The metal looks similar.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Artisan Smith:''' ''What the\u2014where in [[Hades]] are you getting this stuff? No, I don't want to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "14",
+            "content": "Kassandra handed over more necklaces to the blacksmith.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "15",
+            "content": ":If Kassandra had insufficient metal, the following brief scene played out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "16",
+            "content": ":*'''Kassandra:''' ''Is this enough to repair the sword?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "17",
+            "content": ":*'''Artisan Smith:''' ''I wish I could say yes, but then I'd be lying... Bring me more, and I'll make you a sword fit for a [[Greek mythology|god]].''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "18",
+            "content": ":Kassandra left to collect more necklaces and returned after killing every member of the [[Order of the Ancients]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N10",
+            "global_id": "19",
+            "content": ":*'''Artisan Smith:''' ''You're back! You got it, didn't you? I can smell Adamantine, and you smell good!''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Here. Don't tell me you need more, because I've run out of necks to cut it from.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Artisan Smith:''' ''There's real passion behind your words, I can feel it. I'm personally glad to say that these will do. The blood on them is a nice touch, by the way. Helps with the quenching.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I do what I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Artisan Smith:''' ''Wait here. This won't take long.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

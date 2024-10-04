@@ -1,0 +1,39 @@
+{
+    "QuestName": "Righting a Wrong",
+    "QuestID": "231681",
+    "Revision": {
+        "id": "1072986",
+        "parentid": "1047379",
+        "timestamp": "2023-11-29T22:33:08Z",
+        "contributor": null,
+        "origin": "1072986",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "r8pfhbfj6drea1ldwtqxejahcztl9yp"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Discovering that Eagle Bearer (imposter)|someone impersonating her had sent Piracy|pirates sailing to Alponos's shores, Kassandra committed to stopping them and undoing the damage this other \"Eagle Bearer\" had caused.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Main",
+        "previous": null,
+        "next": "A Town in Need, Indeed",
+        "source": "Kassandra",
+        "location": "Alponos, Lokris, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Righting a Wrong''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Megakles]] to discover [[Eagle Bearer (imposter)|someone]] has been using her name to scam people.",
+    "Section_Dialogue": "Kassandra reached a beacon on the cape jutting out from [[Alponos]] and heard a general shout out to her.\n\n*'''Megakles:''' ''You there! Come here.''\n\nShe approached the general and heard what he had to say.\n\n*'''Kassandra:''' ''What is it?''\n*'''Megakles:''' ''Some ''merc'' calling himself \"The [[Eagle]] Bearer\" came to Alponos offering to help out. Nice kid, and I've heard his name before. I thought to myself, \"Megakles, that's [[drachma]]e well spent.\"''\n<tabber>\n|-|''I'm'' the Eagle Bearer.=\n*'''Kassandra:''' ''Whoever came to Alponos lied to you. ''I'm'' the only Eagle Bearer.''\n*'''Megakles:''' ''You? Impossible.''\n*'''Kassandra:''' ''Well, I have [[Ikaros|an eagle]]. Also, I'm not a man.''\n|-|Tell me who impersonated me.=\n*'''Kassandra:''' ''I don't know who's been using my name, but you're going to tell me ''everything'' you know.''\n*'''Megakles:''' ''What is there to tell? He came in, had some little [[Chikaros|bird]] with him. You know how legends go. One day he gets a bird, next he's called the Child of [[Jupiter|Zeus]].''\n*'''Kassandra:''' She''. And I do have an eagle.''\n</tabber>\n\n*'''Megakles:''' ''I see that now, don't I? But I paid this other Eagle Bearer a small fortune to get the [[Civilian|villagers]] ready for a [[Piracy|pirate]] invasion.''\n*'''Kassandra:''' ''By the look on your face, I'm guessing that didn't work out.''\n*'''Megakles:''' ''It didn't. Then I sent him to bargain peace, but he botched that, too. The pirates are coming, and we don't stand a chance.''\n*'''Kassandra:''' ''Next time, hire the real Eagle Bearer. But I'm listening. Does the village of Alponos have a militia?''\n*'''Megakles:''' ''Not enough. But if you get out there and stop the pirates before they land, I'll give you all that's left in the treasury.''\n\n(Accept \u2013 \"I'll fix this pirate problem.\")\n\n*'''Kassandra:''' ''I'll stop the pirates from reaching your shore. Then you're going to help me find this \"Eagle Bearer\" impostor.''\n*'''Megakles:''' ''I'll help you kill him myself.''\n\n(If \"Where are the pirate [[ship]]s?\" is chosen.)\n\n*'''Kassandra:''' ''Where are the pirates sailing from?''\n*'''Megakles:''' ''We saw the pirate fleet forming north of here.''\n\n(If \"How many pirates are there?\" is chosen.)\n\n*'''Kassandra:''' ''How big is their fleet?''\n*'''Megakles:''' ''Just two ships, but they may have hundreds aboard. They make it to us, we're dead.''\n\n(If \"When did the \"Eagle Bearer\" get here?\" is chosen.)\n\n*'''Kassandra:''' ''I'm going to find the one using my name. When did you last see him?''\n*'''Megakles:''' ''He came in with the last [[merchant]] ships... But I haven't seen him in days. He won't be easy to find, but if you sink the pirates, I'll track him down.''\n\n(Leave \u2013 \"I'll set sail.\")\n\n*'''Kassandra:''' ''Time to show the pirates what the real Eagle Bearer can do.''\n\nKassandra took the ''[[Adrestia]]'' out of port and sailed north outside [[Pandora]]'s [[Pandora's Cove|Cove]], where she spied two ships flying pirate colors.  She engaged the first one and sank it, shouting with glee.\n\n*'''Kassandra:''' ''Hope you can swim, pirate scum! That's how the ''real'' Eagle Bearer deals with pirates!''\n\nThe ''Adrestia'' sank the second one.\n\n*'''Kassandra:''' ''That's the last one, crew! Let's go get paid.''\n\nKassandra returned to Alponos to collect her pay, but Megakles was instead furious.\n*'''Megakles:''' ''What were you thinking?! We're doomed!''\n\nShe approached him.",
+    "Section_Outcome": "Kassandra sank the pirate ships, only for Megakles to inexplicably berate her upon her return to report on her apparent success.",
+    "Section_Behind_the_scenes": "The pirate ships can spawn in the bay even without the quest being accepted. If sunk beforehand, the protagonist may utter their resultant lines while sailing near the coasts of [[Malis]] and [[Makedonia]]. The objective automatically completes as well, allowing the quest to be handed back in to Megakles immediately after accepting.\n\nIf the player is playing as [[Alexios]], the dialogue in which the protagonist corrects Megakles of the real Eagle Bearer's correct gender is omitted.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

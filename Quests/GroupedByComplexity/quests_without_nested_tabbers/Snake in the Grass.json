@@ -1,0 +1,146 @@
+{
+    "Quest_Name": "Snake in the Grass",
+    "Quest_ID": "222684",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Snake in the Grass - Assassins Creed Odyssey.png",
+        "description": "'Nikolaos had ominously warned Kassandra about snakes in the grass. So when Elpenor tried to kill her in Pilgrim's Landing, he'd finally shed his skin and revealed a deceitful and deadly nature.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Truth Will Out",
+        "next": "The Serpent's Lair",
+        "source": "Kassandra",
+        "location": "Valley of the Nymph, Phokis, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Snake in the Grass''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] in 2018 through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to find and eliminate Elpenor after learning his location from the [[Pythia (480 BCE)|Pythia]].",
+    "Section_Dialogue": "After Kassandra consulted the [[Pythia]], she knew she had to assassinate Elpenor in order to gather a cloak and mask to infiltrate the [[Cult of Kosmos]]. She made her way to [[Pharsalos Fort]] in the [[Valley of the Nymph]].\n*'''Kassandra:''' ''There he is, hiding in plain sight.''\nKassandra killed a man who looked like Elpenor, only to discover it was a decoy.\n*'''Kassandra:''' ''A decoy. Why am I not surprised?''\nShe recovered a letter from the body.\n:'''Letter from Elpenor:'''<br/>''Make sure you kill the so-called messenger of the gods this time. I await news of your success in the cave behind the [[Snake Temple|Snake Ruins]] in the [[Valley of the Snake]].<br>\u2013Elpenor''\n*'''Kassandra:''' ''Elpenor, you coward! Elpenor knew I would come for him. Used that imposter to lure me into a trap. Your plan failed, Elpenor. Soon you will join your imposter.''\nEscaping the Fort, she rode on to a cave near the Snake Temple.\n*'''Kassandra:''' ''Death is coming for you, Elpenor.''\nShe made her way into the cave after dealing with the [[guard]]s.\n*'''Kassandra:''' ''I can smell that ''malaka's'' stench.''\n*'''Elpenor:''' ''What a shame. We would have made you rich. Before we killed you. Don't take it personally, ''misthios''. Your [[Myrrine|mother]]'s the one we really want. Don't fight it. The Cult always gets what it wants. We already have [[Alexios|Deimos]]. We'll find your mother, and you'll be dead.''\nKassandra struck Elpenor a mortal blow.\n*'''Elpenor:''' ''Killing me is a mistake.''\n*'''Kassandra:''' ''Trusting you on [[Kephallonia]] was a mistake.''\n*'''Elpenor:''' ''I'm the reason you left that island alive. The Cult wanted you dead.''\n*'''Kassandra:''' ''What cult? Where are they?''\nElpenor laughed before dying. Kassandra retrieved a [[Artifact Fragment|shard]] which had fallen by his corpse.\n*'''Kassandra:''' ''The small shard I found on Elpenor is like nothing I've ever seen. Might come in handy.''",
+    "Section_Outcome": "Kassandra eliminated Elpenor, recovering a mysterious shard from his body.",
+    "Section_Trivia": "*\"Snake in the grass\" is an idiom referring to the idea of someone acting as a false friend.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Un serpent dans les herbes]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "6.",
+    "Chapter_Name": "Beware the Snakes",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After Kassandra consulted the [[Pythia]], she knew she had to assassinate Elpenor in order to gather a cloak and mask to infiltrate the [[Cult of Kosmos]]. She made her way to [[Pharsalos Fort]] in the [[Valley of the Nymph]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There he is, hiding in plain sight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra killed a man who looked like Elpenor, only to discover it was a decoy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''A decoy. Why am I not surprised?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She recovered a letter from the body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "6",
+            "content": ":'''Letter from Elpenor:'''<br/>''Make sure you kill the so-called messenger of the gods this time. I await news of your success in the cave behind the [[Snake Temple|Snake Ruins]] in the [[Valley of the Snake]].<br>\u2013Elpenor''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Elpenor, you coward! Elpenor knew I would come for him. Used that imposter to lure me into a trap. Your plan failed, Elpenor. Soon you will join your imposter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "8",
+            "content": "Escaping the Fort, she rode on to a cave near the Snake Temple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Death is coming for you, Elpenor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "10",
+            "content": "She made her way into the cave after dealing with the [[guard]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I can smell that ''malaka's'' stench.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Elpenor:''' ''What a shame. We would have made you rich. Before we killed you. Don't take it personally, ''misthios''. Your [[Myrrine|mother]]'s the one we really want. Don't fight it. The Cult always gets what it wants. We already have [[Alexios|Deimos]]. We'll find your mother, and you'll be dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "13",
+            "content": "Kassandra struck Elpenor a mortal blow.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Elpenor:''' ''Killing me is a mistake.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Trusting you on [[Kephallonia]] was a mistake.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Elpenor:''' ''I'm the reason you left that island alive. The Cult wanted you dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''What cult? Where are they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "18",
+            "content": "Elpenor laughed before dying. Kassandra retrieved a [[Artifact Fragment|shard]] which had fallen by his corpse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''The small shard I found on Elpenor is like nothing I've ever seen. Might come in handy.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "Quest_Name": "A Lover and A Fighter",
+    "Quest_ID": "230820",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Ever the watchdog, Hermes Trismegistus|Hermes didn't like the sounds of lawlessness coming out of Deukalion's Heritage. With a newfound ally in Kassandra, he sent her there to find out what all the commotion was.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "previous": "Welcome to Elysium",
+        "next": "Dark Horse\nGive 'Em Hades",
+        "source": "Kassandra",
+        "location": "Village of the Glorious Dead, Deukalion's Heritage, Elysium<br>\nFortress of the Three Sisters, Deukalion's Heritage, Elysium",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''A Lover and A Fighter''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra traveled to [[Deukalion's Heritage]] to investigate a rumored rebellion.",
+    "Section_Dialogue": "Kassandra found a Wings of Hermes transporter.\n*'''Kassandra:''' ''The \"Wings of Hermes\"... could this be it?''\nKassandra ascended to the next mountainous pillar.\n*'''Kassandra:''' Mal\u00e1ka! ''That was fast.''\nKassandra found the [[Adonis|troublemaker]] in the [[Village of the Glorious Dead]]. She overheard him talking to Hermes.\n*'''Adonis:''' ''Hermes, how many times do I have to tell you? I'm not going to the palace.''\n*'''Hermes:''' ''[[Persephone]] isn't asking. She's demanding your presence.''\nShe drew closer.\n*'''Adonis:''' ''You know I want out of Elysium. If you help me escape, I promise you'll never see me again.''\n*'''Hermes:''' ''As happy as that would make me, Persephone wants you to stay.''\n*'''Adonis:''' ''How long until you realize you're just one of her pets?''\n*'''Hermes:''' ''Watch yourself, human.''\n*'''Adonis:''' ''Careful, or Persephone will have you neutered. Oh, I forgot. She did that ages ago.''\nHermes punched Adonis in the stomach, before leaving. Angered, Adonis turned to face the ledge as Kassandra approached from behind.\n*'''Kassandra:''' ''I didn't think the dead could feel pain.''\n*'''Adonis:''' ''I'm one of the few miserable fools around here who's actually alive.''\n<tabber>\n|-|Then you should leave.=\n*'''Kassandra:''' ''If you're so miserable, why not just leave?''\n*'''Adonis:''' ''I've tried. If Persephone wants you to stay, dead or alive, you stay. Hades taught her well.''\n|-|The living don't belong here.=\n*'''Kassandra:''' ''How can you stand it? The dead ''really'' don't want us here.''\n*'''Adonis:''' ''I can't stand it. I'm doing everything I can to escape Elysium, but Persephone's little spies are everywhere. Hades taught her well.''\n</tabber>\n*'''Kassandra:''' ''So ''you're'' the troublemaker I've been hearing so much about.''\n*'''Adonis:''' ''Adonis, at your service. With an army at Persephone's disposal and most of Elysium under her control, my troublemaking days are coming to an end.''\n*'''Kassandra:''' ''What if I helped you?''\n*'''Adonis:''' ''And why would someone with their whole life ahead of them want to do that?''\n<tabber>\n|-|I want to help the people.=\n*'''Kassandra:''' ''I hear Persephone has everyone in Elysium on a leash. I want to cut them free.''\nAdonis chuckled.\n*'''Adonis:''' ''Of all the lies in the [[underworld]], that's the best one I've heard yet. No one cares about the dead. Try again.''\n*'''Kassandra:''' ''I need to find Hades' realm. If overthrowing Persephone is the key to escaping Elysium, then I'm in.''\n|-|I have a job to do in Elysium.=\n*'''Kassandra:''' ''I need to find Hades' realm. If overthrowing Persephone is the key to escaping Elysium, then I'm in.''\n</tabber>\nAdonis laughed.\n*'''Adonis:''' ''Why didn't you just say so from the beginning?''\nAdonis turned to leave before looking up to the sky.\n*'''Adonis:''' ''Did you hear that, my [[Aphrodite|love]]? She wants to enter Hades's realm.''\n*'''Kassandra:''' ''I'm going to find it with or without your help. We might as well work together.''\n*'''Adonis:''' ''Tell you what, southwest from here is the [[Fortress of the Three Sisters]]. One of Persephone's strongholds. If you kill her [[Persephone's Overseers|Overseer]], destroy her [[Torch of Hypnos|Torches of Hypnos]], and steal Persephone's resources\u2014all while avoiding the attention of her [[Kolossus|Kolossi]]\u2014then maybe I'll trust you.''\n<tabber>\n|-|Fortress of the Three Sisters not cleared=\n(\"Who are the Overseers?\")\n*'''Kassandra:''' ''Tell me about the Overseers.''\n*'''Adonis:''' ''Persephone's most trusted and deadly servants. They are the eyes and ears of Elysium. Killing them will leave the queen blind and deaf.''\n(\"What is a Torch of Hypnos?\")\n*'''Kassandra:''' ''Torches of Hypnos?\"''\n*'''Adonis:''' ''Constructed by the [[Hypnos|god of slumber]], these devices keep human minds under Persephone's control... Destroy their centers to extinguish their flames.''\n(\"What are the Kolossi?\")\n*'''Kassandra:''' ''I don't like the sound of... Kolossi.''\n*'''Adonis:''' ''The Kolossi are best left asleep. They protect the Overseers. Bloodshed wakes them, and they do not like being woken.''\n(Leave \u2013 \"I have everything I need.\")\n*'''Kassandra:''' ''If you're the troublemaker, why do I feel like I'll be causing all the trouble?''\n*'''Adonis:''' ''What can I say. I'm a lover, not a fighter.''\n*'''Kassandra:''' ''Luckily for you, I'm both.''\nKassandra left for the Fortress of the Three Sisters and looted their valuables, burned their resources, destroyed the Torches of Hypnos and killed the Overseer [[Aegea]], crippling Persephone's control of the region. She exited the fortress and returned to Adonis.\n|-|Already cleared=\n*'''Kassandra:''' ''What if I told you I already cleared that fortress?''\n*'''Adonis:''' ''Impressive.''\n</tabber>\n*'''Kassandra:''' ''Trust me now?''\n*'''Adonis:''' ''You've brought me one step closer to my love. It's a good start.''\n*'''Kassandra:''' ''Who is this \"love\" you keep mentioning?''\n*'''Adonis:''' ''The most beautiful being in existence. With a face so fair, to gaze upon it is to forget all others. Perhaps you've heard of her\u2014[[Aphrodite]].''\n<tabber>\n|-|I've never heard of Aphrodite.=\nKassandra pretended not to know.\n*'''Kassandra:''' ''I'm sorry, Aphro who?''\n*'''Adonis:''' ''Very funny. The last person who provoked her wrath was turned into a field pig.''\n|-|Flirt \u2013 You're very poetic.=\n*'''Kassandra:''' ''I didn't take you for a poet.''\n*'''Adonis:''' ''She brings it out in me.''\n{{#tag:tabber|\nI could be your muse.=\n*'''Kassandra:''' ''I bet you I could inspire a verse or two.''\n*'''Adonis:''' ''You sound like Persephone. Always trying to make me forget Aphrodite.''\n{{!}}-{{!}}\nI'll get you back to Aphrodite.=\n*'''Kassandra:''' ''I'll do whatever I can to get you back to her. You have my word.''\n*'''Adonis:''' ''You've given me something I haven't had in a while. Hope.''\n}}\n</tabber>\n*'''Kassandra:''' ''All right, what's next?''\n*'''Adonis:''' ''Not here. Come find my camp in [[Iapetos' Ruins]].''\nKassandra turned to leave.\n*'''Adonis:''' ''Before you go. Persephone has Overseers and Torches of Hypnos across Elysium. If we're going to weaken her influence, we must destroy them. And we're going to need all the help we can get.''\nKassandra nodded and took her leave.  With the situation in Deukalion's Heritage dealt with, she decided she had earned an audience with Persephone herself.\n*'''Kassandra:''' ''It's about time I go meet the infamous Persephone.''",
+    "Section_Outcome": "Kassandra assisted Adonis in weakening Persephone's control over Deukalion's Heritage and promised to help his rebellion further.",
+    "Section_Trivia": "*While the first part of the dialogue between Adonis and Hermes will always play, the actual cutscene that enables quest progression cannot trigger until the Wings of Hermes are used to teleport at least once. Any pair of teleporters will suffice; the player is not required to use the pair specifically marked in the quest.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Fields of Elysium]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found a Wings of Hermes transporter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''The \"Wings of Hermes\"... could this be it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra ascended to the next mountainous pillar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' Mal\u00e1ka! ''That was fast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra found the [[Adonis|troublemaker]] in the [[Village of the Glorious Dead]]. She overheard him talking to Hermes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Adonis:''' ''Hermes, how many times do I have to tell you? I'm not going to the palace.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Hermes:''' ''[[Persephone]] isn't asking. She's demanding your presence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "She drew closer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Adonis:''' ''You know I want out of Elysium. If you help me escape, I promise you'll never see me again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Hermes:''' ''As happy as that would make me, Persephone wants you to stay.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Adonis:''' ''How long until you realize you're just one of her pets?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Hermes:''' ''Watch yourself, human.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Adonis:''' ''Careful, or Persephone will have you neutered. Oh, I forgot. She did that ages ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "14",
+            "content": "Hermes punched Adonis in the stomach, before leaving. Angered, Adonis turned to face the ledge as Kassandra approached from behind.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I didn't think the dead could feel pain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Adonis:''' ''I'm one of the few miserable fools around here who's actually alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|Then you should leave.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''If you're so miserable, why not just leave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Adonis:''' ''I've tried. If Persephone wants you to stay, dead or alive, you stay. Hades taught her well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "21",
+            "content": "|-|The living don't belong here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''How can you stand it? The dead ''really'' don't want us here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Adonis:''' ''I can't stand it. I'm doing everything I can to escape Elysium, but Persephone's little spies are everywhere. Hades taught her well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''So ''you're'' the troublemaker I've been hearing so much about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Adonis:''' ''Adonis, at your service. With an army at Persephone's disposal and most of Elysium under her control, my troublemaking days are coming to an end.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''What if I helped you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Adonis:''' ''And why would someone with their whole life ahead of them want to do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "29",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "30",
+            "content": "|-|I want to help the people.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I hear Persephone has everyone in Elysium on a leash. I want to cut them free.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "32",
+            "content": "Adonis chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Adonis:''' ''Of all the lies in the [[underworld]], that's the best one I've heard yet. No one cares about the dead. Try again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I need to find Hades' realm. If overthrowing Persephone is the key to escaping Elysium, then I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "35",
+            "content": "|-|I have a job to do in Elysium.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I need to find Hades' realm. If overthrowing Persephone is the key to escaping Elysium, then I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N7",
+            "global_id": "38",
+            "content": "Adonis laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Adonis:''' ''Why didn't you just say so from the beginning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "40",
+            "content": "Adonis turned to leave before looking up to the sky.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Adonis:''' ''Did you hear that, my [[Aphrodite|love]]? She wants to enter Hades's realm.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''I'm going to find it with or without your help. We might as well work together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Adonis:''' ''Tell you what, southwest from here is the [[Fortress of the Three Sisters]]. One of Persephone's strongholds. If you kill her [[Persephone's Overseers|Overseer]], destroy her [[Torch of Hypnos|Torches of Hypnos]], and steal Persephone's resources\u2014all while avoiding the attention of her [[Kolossus|Kolossi]]\u2014then maybe I'll trust you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "44",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "45",
+            "content": "|-|Fortress of the Three Sisters not cleared=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O1",
+            "global_id": "46",
+            "content": "(\"Who are the Overseers?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Tell me about the Overseers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Adonis:''' ''Persephone's most trusted and deadly servants. They are the eyes and ears of Elysium. Killing them will leave the queen blind and deaf.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "49",
+            "content": "(\"What is a Torch of Hypnos?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Torches of Hypnos?\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "51",
+            "content": "*'''Adonis:''' ''Constructed by the [[Hypnos|god of slumber]], these devices keep human minds under Persephone's control... Destroy their centers to extinguish their flames.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "52",
+            "content": "(\"What are the Kolossi?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I don't like the sound of... Kolossi.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "54",
+            "content": "*'''Adonis:''' ''The Kolossi are best left asleep. They protect the Overseers. Bloodshed wakes them, and they do not like being woken.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "55",
+            "content": "(Leave \u2013 \"I have everything I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''If you're the troublemaker, why do I feel like I'll be causing all the trouble?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "57",
+            "content": "*'''Adonis:''' ''What can I say. I'm a lover, not a fighter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''Luckily for you, I'm both.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "59",
+            "content": "Kassandra left for the Fortress of the Three Sisters and looted their valuables, burned their resources, destroyed the Torches of Hypnos and killed the Overseer [[Aegea]], crippling Persephone's control of the region. She exited the fortress and returned to Adonis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC6",
+            "global_id": "60",
+            "content": "|-|Already cleared=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''What if I told you I already cleared that fortress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "62",
+            "content": "*'''Adonis:''' ''Impressive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D39",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Trust me now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "65",
+            "content": "*'''Adonis:''' ''You've brought me one step closer to my love. It's a good start.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Who is this \"love\" you keep mentioning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "67",
+            "content": "*'''Adonis:''' ''The most beautiful being in existence. With a face so fair, to gaze upon it is to forget all others. Perhaps you've heard of her\u2014[[Aphrodite]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "68",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "69",
+            "content": "|-|I've never heard of Aphrodite.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N10",
+            "global_id": "70",
+            "content": "Kassandra pretended not to know.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''I'm sorry, Aphro who?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "72",
+            "content": "*'''Adonis:''' ''Very funny. The last person who provoked her wrath was turned into a field pig.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "73",
+            "content": "|-|Flirt \u2013 You're very poetic.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I didn't take you for a poet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "75",
+            "content": "*'''Adonis:''' ''She brings it out in me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "76",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "77",
+            "content": "I could be your muse.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''I bet you I could inspire a verse or two.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "79",
+            "content": "*'''Adonis:''' ''You sound like Persephone. Always trying to make me forget Aphrodite.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "80",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "81",
+            "content": "I'll get you back to Aphrodite.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''I'll do whatever I can to get you back to her. You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "83",
+            "content": "*'''Adonis:''' ''You've given me something I haven't had in a while. Hope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "84",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE4",
+            "global_id": "85",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D51",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''All right, what's next?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "87",
+            "content": "*'''Adonis:''' ''Not here. Come find my camp in [[Iapetos' Ruins]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "88",
+            "content": "Kassandra turned to leave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "89",
+            "content": "*'''Adonis:''' ''Before you go. Persephone has Overseers and Torches of Hypnos across Elysium. If we're going to weaken her influence, we must destroy them. And we're going to need all the help we can get.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "90",
+            "content": "Kassandra nodded and took her leave.  With the situation in Deukalion's Heritage dealt with, she decided she had earned an audience with Persephone herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''It's about time I go meet the infamous Persephone.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "Quest_Name": "Shroud of the Bear",
+    "Quest_ID": "224062",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Shroud of the Bear.png",
+        "description": "A merchant in Mytilene was commisioned to craft a Crafted Bear Fur Armor|breastplate using bear skins, and hired Kassandra to gather the skins needed.",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Petrified Islands}}",
+        "previous": "Revenge of the Wolf",
+        "next": "Son of a Fisherman",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece<br>Chios, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Shroud of the Bear''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a [[merchant]] who needed [[bear]] skins to craft a [[Crafted Bear Fur Armor|breastplate]].",
+    "Section_Dialogue": "Kassandra found a merchant in [[Mytilene]] looking for a [[mercenary]].\n*'''Street Vendor:''' ''Brave misthios! I'm in need of a brave misthios!''\nKassandra approached him.\n*'''Street Vendor:''' ''Do you have fear in your heart?''\n*'''Kassandra:''' ''I should cut out yours just for asking.''\n*'''Street Vendor:''' ''Ha! I have a lucrative job offer\u2014a dangerous one, too. If you had fear in your heart, you might not be fit for the task at hand.''\n\n<tabber>\n|-|I fear no one.=\n*'''Kassandra:''' ''Nobody scares me.''\n*'''Street Vendor:''' ''Ah... but I'm not talking about a person. I'm talking about the most dangerous an unpredictable creatures alive... bears.''\n|-|We all fear something.=\n*'''Kassandra:''' ''Fear is natural - it helps us survive.''\n*'''Street Vendor:''' ''Ah. But survival is never guaranteed when facing bears!''\n\n</tabber>\n*'''Kassandra:''' ''What do you want with them?''\n*'''Street Vendor:''' ''I need skins to make some breastplates. The best come from [[Chios|Chios island]], north of [[Chios (city)|Chios city]]. I'll make one for you too, if you get them for me.''\n(Accept \u2013 I'll do it.)\n*'''Kassandra:''' ''I'll get the bear skins for you.''\n*'''Street Vendor:''' ''Excellent. If you survive, I'll reward you with the finest breastplate ever created.''\n(If players choose \"Where are the bears located?\")\n*'''Kassandra:''' ''These bears. Where can I find them?''\n*'''Street Vendor:''' ''In the [[Hunted Forest of Artemis]], north of Chios city.''\n(Leave \u2013 I've heard enough about bears.)\n*'''Kassandra:''' ''I have the feeling you could talk about bears all day. I'll return when I have the skins.''\n*'''Street Vendor:''' ''Do hurry. I've got paying customers waiting for breastplates made from those skins.''\nKassandra left the merchant.\n*'''Kassandra:''' ''I'll need to sail to Chios island to get the bear skins.''\nKassandra departed [[Lesbos]] and sailed to Chios, approaching the forests mentioned by the merchant. After killing and skinning a bear, she commented on its texture.\n*'''Kassandra:''' ''The merchant was right! It's the softest fur I've ever felt.''\nAfter skinning four.\n*'''Kassandra:'''\u00a0''I'll see if the merchant can make me an entire outfit\u00a0out of these soft skins.''\nKassandra continued and skinned 2 more bears.\n*'''Kassandra:''' ''That's all of the skins. It's time to sail back to Mytilene and collect my breastplate.''\nKassandra sailed back to the merchant in Mytilene.\n*'''Street Vendor:''' ''Do you have the skins?''\n\n<tabber>\n|-|You can have my skins.=\n*'''Kassandra:''' ''I have your bear skins.''\n*'''Street Vendor:''' ''Most impressive! Not many people have faced the majestic bear and lived to tell the tale... It's only fitting you receive a breastplate for your bravery.''\n|-|I'm keeping my skins.=\n* '''Kassandra:''' ''I\u2019m not ready to part with these skins.''\n* '''Street Vendor:''' ''Gorgeous ones like that- I can understand. But I\u2019m in desperate need of skins of my own.  Would you get more for me?''\n* '''Kassandra:''' ''I\u2019ll think about it.''\n* '''Street Vendor:''' ''Come back if you ever want to sell them.''\nThe quest will not be completed until Kassandra agrees to give the bear skins; talking to the merchant again will yield the same dialogue.\n</tabber>",
+    "Section_Outcome": "Kassandra helped the merchant to recover bear skins needed to craft breastplates.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Petrified Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found a merchant in [[Mytilene]] looking for a [[mercenary]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Street Vendor:''' ''Brave misthios! I'm in need of a brave misthios!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Street Vendor:''' ''Do you have fear in your heart?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I should cut out yours just for asking.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Street Vendor:''' ''Ha! I have a lucrative job offer\u2014a dangerous one, too. If you had fear in your heart, you might not be fit for the task at hand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|I fear no one.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Nobody scares me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Street Vendor:''' ''Ah... but I'm not talking about a person. I'm talking about the most dangerous an unpredictable creatures alive... bears.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|We all fear something.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Fear is natural - it helps us survive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Street Vendor:''' ''Ah. But survival is never guaranteed when facing bears!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "16",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''What do you want with them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Street Vendor:''' ''I need skins to make some breastplates. The best come from [[Chios|Chios island]], north of [[Chios (city)|Chios city]]. I'll make one for you too, if you get them for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "19",
+            "content": "(Accept \u2013 I'll do it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll get the bear skins for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Street Vendor:''' ''Excellent. If you survive, I'll reward you with the finest breastplate ever created.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "22",
+            "content": "(If players choose \"Where are the bears located?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''These bears. Where can I find them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Street Vendor:''' ''In the [[Hunted Forest of Artemis]], north of Chios city.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "25",
+            "content": "(Leave \u2013 I've heard enough about bears.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I have the feeling you could talk about bears all day. I'll return when I have the skins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Street Vendor:''' ''Do hurry. I've got paying customers waiting for breastplates made from those skins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "28",
+            "content": "Kassandra left the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I'll need to sail to Chios island to get the bear skins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "30",
+            "content": "Kassandra departed [[Lesbos]] and sailed to Chios, approaching the forests mentioned by the merchant. After killing and skinning a bear, she commented on its texture.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''The merchant was right! It's the softest fur I've ever felt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "32",
+            "content": "After skinning four.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:'''\u00a0''I'll see if the merchant can make me an entire outfit\u00a0out of these soft skins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "34",
+            "content": "Kassandra continued and skinned 2 more bears.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''That's all of the skins. It's time to sail back to Mytilene and collect my breastplate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "36",
+            "content": "Kassandra sailed back to the merchant in Mytilene.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Street Vendor:''' ''Do you have the skins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "40",
+            "content": "|-|You can have my skins.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I have your bear skins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "42",
+            "content": "*'''Street Vendor:''' ''Most impressive! Not many people have faced the majestic bear and lived to tell the tale... It's only fitting you receive a breastplate for your bravery.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "43",
+            "content": "|-|I'm keeping my skins.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "* '''Kassandra:''' ''I\u2019m not ready to part with these skins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "* '''Street Vendor:''' ''Gorgeous ones like that- I can understand. But I\u2019m in desperate need of skins of my own.  Would you get more for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "* '''Kassandra:''' ''I\u2019ll think about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "* '''Street Vendor:''' ''Come back if you ever want to sell them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "48",
+            "content": "The quest will not be completed until Kassandra agrees to give the bear skins; talking to the merchant again will yield the same dialogue.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "49",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

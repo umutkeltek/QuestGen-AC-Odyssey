@@ -1,0 +1,152 @@
+{
+    "Quest_Name": "From the Heart",
+    "Quest_ID": "236192",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430-420s BCE"
+    },
+    "General_Description": "'''From the Heart''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found a note left on the [[message board]], and decided to look into it.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a message board.\n*'''Note:'''<br>''From [[Zeus]], the [[Cattle|bull]] [[Europa (mythology)|Europa]] kissed. He offered a [[Spear of Kephalos|javelin]] that never missed.''\nShe sought out the Athenian soldier and addressed him.\n*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''\n*'''Athenian Soldier:''' ''My commander is in love with a priestess of [[Hekate|Hecate]].''\n*'''Kassandra:''' ''What's wrong with that?''\n*'''Athenian Soldier:''' ''She asked him for a letter expressing his eternal devotion written in his blood.''\n*'''Kassandra:''' ''And he gave it to her?''\n*'''Athenian Soldier:''' ''Love turns people into idiots. I just know she's going to do something evil with that letter.''\n*'''Kassandra:''' ''So you want me to deal with her.''\n*'''Athenian Soldier:''' ''I knew I asked the right person.''\n(Accept - I'm going to help you.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Athenian Soldier:''' ''Thank you. Please be quick.''\n*'''Kassandra:''' Chaire.\nKassandra sought out the priestess and killed her, then returned to the soldier.\n*'''Athenian Soldier:''' ''You. Have you killed her?''\n*'''Kassandra:''' ''She's no longer your concern.''\n*'''Athenian Soldier:''' ''Well done, my friend. You've earned your keep, that's for sure. Please, accept this as thanks.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the spy deal with a priestess, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a message board.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''From [[Zeus]], the [[Cattle|bull]] [[Europa (mythology)|Europa]] kissed. He offered a [[Spear of Kephalos|javelin]] that never missed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the Athenian soldier and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Athenian Soldier:''' ''My commander is in love with a priestess of [[Hekate|Hecate]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''What's wrong with that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Athenian Soldier:''' ''She asked him for a letter expressing his eternal devotion written in his blood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''And he gave it to her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Athenian Soldier:''' ''Love turns people into idiots. I just know she's going to do something evil with that letter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''So you want me to deal with her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Athenian Soldier:''' ''I knew I asked the right person.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Accept - I'm going to help you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Athenian Soldier:''' ''Thank you. Please be quick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "16",
+            "content": "Kassandra sought out the priestess and killed her, then returned to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Athenian Soldier:''' ''You. Have you killed her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''She's no longer your concern.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Athenian Soldier:''' ''Well done, my friend. You've earned your keep, that's for sure. Please, accept this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

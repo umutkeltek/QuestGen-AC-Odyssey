@@ -1,0 +1,74 @@
+{
+    "Quest_Name": "A Growing Perception",
+    "Quest_ID": "230819",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'For the Staff of Hermes Trismegistus|Staff to bind powers, both would have to draw energy from Keeper's Insights. Finding these power sources in Elysium would enhance both Kassandra's and the Staff's understanding of each other and fuse their knowledge.'.",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "previous": "Trials of the Keeper",
+        "source": "Kassandra",
+        "location": "Minos' Faith, Elysium<br>\nAsphodel Fields, Elysium<br>\nPheraia's Retreat, Elysium",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''A Growing Perception''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to collect the knowledge of the [[Staff of Hermes Trismegistus|Staff]].",
+    "Section_Dialogue": "Kassandra traveled to the [[Veiled Altar of Hermes]] in [[Minos' Faith]] and retrieved the Keepers Insight located within.\n\nKassandra traveled to the [[Buried Silence Cave]] in [[Asphodel Fields]], killed the [[Kolossus|Kolossi]] guards and retrieved the Keepers Insight located within.\n\nKassandra traveled to [[Dead Heroes Haven]] in [[Pheraia's Retreat]] and retrieved the Keepers Insight located within.\n\nKassandra traveled to [[Sunken Jaw of the Styx]] in Pheraia's Retreat and retrieved the Keepers Insight located within.",
+    "Section_Outcome": "Kassandra found and retrieved all four Keepers Insights to gather knowledge of the [[Staff of Hermes Trismegistus|Staff]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Fields of Elysium]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to the [[Veiled Altar of Hermes]] in [[Minos' Faith]] and retrieved the Keepers Insight located within.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra traveled to the [[Buried Silence Cave]] in [[Asphodel Fields]], killed the [[Kolossus|Kolossi]] guards and retrieved the Keepers Insight located within.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra traveled to [[Dead Heroes Haven]] in [[Pheraia's Retreat]] and retrieved the Keepers Insight located within.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra traveled to [[Sunken Jaw of the Styx]] in Pheraia's Retreat and retrieved the Keepers Insight located within.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

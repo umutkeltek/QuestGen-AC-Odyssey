@@ -1,0 +1,300 @@
+{
+    "Quest_Name": "Birds of a Feather (Odyssey)",
+    "Quest_ID": "224256",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "Kassandra's genetic memory | Ezio Auditore's [[Birds of a Feather | genetic memory]]"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Birds of a Feather",
+        "image": "ACOD Xenia Treasure Hunt.png",
+        "description": "'The sultry and headstrong Piracy|pirate queen of the Aegean Sea|Aegean, Xenia, tasked Kassandra with finding a lost treasure\u2014the Golden Feather of Ajax|Golden Feather of Ajax.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Xenia}}",
+        "previous": "Lost and Found (Odyssey)|Lost and Found",
+        "next": "Rumored Feather Location",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "429\u2013422 BCE"
+    },
+    "General_Description": "'''Birds of a Feather''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "The [[Keos]] pirate [[Xenia]] tasked Kassandra with finding the lost [[Golden Feather of Ajax]].",
+    "Section_Dialogue": "Kassandra returned to Xenia at the [[Temple of Athena Nedousia]] in Keos.\n*'''Xenia:''' ''Ah, the mighty [[Mercenary|misthios]]. You proved yourself capable before... I could use your talents. One like you is always interested in more [[drachma]]e, yes?''\n<tabber>\n|-|I'm always interested in getting paid.=\n*'''Kassandra:''' ''Always happy to hear the clink of drachmae. Tell me what you want.''\n|-|Payment is fine, but I'm happy to help you.=\n*'''Kassandra:''' ''Payment is well and good. But I'm happy to help you. Tell me what you're thinking.''\n</tabber>\n*'''Xenia:''' ''I have an appetite for rare treasures. I've heard many veiled rumors and provocative stories, and I want you to recover some of these lost wonders for me.''\n<tabber>\n|-|I'll bring you the treasures.=\n*'''Kassandra:''' ''Tell me where to look, and I'll bring you these treasures.''\n|-|I'm too busy.=\n*'''Kassandra:''' ''I don't have the patience to go chasing after children's stories.''\nKassandra left, but eventually reconsidered her decision and returned to Xenia.\n*'''Xenia''' ''What tide sweeps you back to me, Kassandra? Are you up for finding my treasures now?''\n(returns to previous option)\n</tabber>\n*'''Xenia:''' ''Have you heard of the mighty [[Ajax]]?''\n*'''Kassandra:\u00a0'''''One of [[Homer]]'s heroes.''\n*'''Xenia:''' ''Yes! He had a golden [[eagle]] feather, a gift from [[Jupiter|Zeus]].''\n*'''Kassandra:''' ''And why do you care about it?''\n*'''Xenia:''' ''It is a rare reminder of a glorious age. And so deserves to be in my grasp. Take these maps and see if you can find it.''\n(If \"Where is the feather?\" is chosen.)\n*'''Kassandra:''' ''Where will I find this golden eagle feather?''\n*'''Xenia:''' ''Different tales place it at different locations. I have maps showing where you might find it.''\n(If \"What is the story of the feather?\" is chosen.)\n*'''Kassandra:''' ''What can you tell me about Ajax's feather?''\n*'''Xenia:''' ''The son of [[Telamon]] was said to be a fearless [[giant]]. Some say the golden feather that gave him courage was woven into a [[shield]] crafted of seven [[Cattle|ox]] hides. The shield is long destroyed, but Zeus' feather remains.''\n(Leave \u2013 \"I'll start my search.\")\n*'''Kassandra:''' ''I'll find this feather for you, if it's there to be found.''\nSometime later, Kassandra acquired the feather and returned to\u00a0an eager\u00a0Xenia.\n*'''Xenia:''' ''You return on the wind. Do you have Ajax's golden feather for me?''\n<tabber>\n|-|It'll cost you.=\n*'''Kassandra:''' ''Here. One golden eagle feather, per request.''\n*'''Xenia''' ''What a pretty, pretty thing.''\n*'''Kassandra:''' ''Glad you're happy. Now, my pay?''\n*'''Xenia''' ''Calm yourself. Here, for your trouble.''\n*'''Kassandra:''' ''Thanks.''\n|-|I'll give you the feather.=\n*'''Kassandra:''' ''Here, have it. It's lovely, no?''\n*'''Xenia''' ''Yes, it will fit nicely in my collection.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped Xenia recover Ajax's golden feather.",
+    "Section_Trivia": "* This quest becomes available only after completing [[Ashes to Ashes (Odyssey)|Ashes to Ashes]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Xenia at the [[Temple of Athena Nedousia]] in Keos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Xenia:''' ''Ah, the mighty [[Mercenary|misthios]]. You proved yourself capable before... I could use your talents. One like you is always interested in more [[drachma]]e, yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-|I'm always interested in getting paid.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Always happy to hear the clink of drachmae. Tell me what you want.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "6",
+            "content": "|-|Payment is fine, but I'm happy to help you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Payment is well and good. But I'm happy to help you. Tell me what you're thinking.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "8",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Xenia:''' ''I have an appetite for rare treasures. I've heard many veiled rumors and provocative stories, and I want you to recover some of these lost wonders for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "11",
+            "content": "|-|I'll bring you the treasures.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Tell me where to look, and I'll bring you these treasures.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "13",
+            "content": "|-|I'm too busy.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I don't have the patience to go chasing after children's stories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "15",
+            "content": "Kassandra left, but eventually reconsidered her decision and returned to Xenia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Xenia''' ''What tide sweeps you back to me, Kassandra? Are you up for finding my treasures now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(returns to previous option)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Xenia:''' ''Have you heard of the mighty [[Ajax]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:\u00a0'''''One of [[Homer]]'s heroes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Xenia:''' ''Yes! He had a golden [[eagle]] feather, a gift from [[Jupiter|Zeus]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''And why do you care about it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Xenia:''' ''It is a rare reminder of a glorious age. And so deserves to be in my grasp. Take these maps and see if you can find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If \"Where is the feather?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Where will I find this golden eagle feather?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Xenia:''' ''Different tales place it at different locations. I have maps showing where you might find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "27",
+            "content": "(If \"What is the story of the feather?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''What can you tell me about Ajax's feather?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Xenia:''' ''The son of [[Telamon]] was said to be a fearless [[giant]]. Some say the golden feather that gave him courage was woven into a [[shield]] crafted of seven [[Cattle|ox]] hides. The shield is long destroyed, but Zeus' feather remains.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "30",
+            "content": "(Leave \u2013 \"I'll start my search.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I'll find this feather for you, if it's there to be found.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "32",
+            "content": "Sometime later, Kassandra acquired the feather and returned to\u00a0an eager\u00a0Xenia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Xenia:''' ''You return on the wind. Do you have Ajax's golden feather for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "34",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "35",
+            "content": "|-|It'll cost you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Here. One golden eagle feather, per request.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Xenia''' ''What a pretty, pretty thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Glad you're happy. Now, my pay?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Xenia''' ''Calm yourself. Here, for your trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "41",
+            "content": "|-|I'll give you the feather.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Here, have it. It's lovely, no?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Xenia''' ''Yes, it will fit nicely in my collection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "44",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

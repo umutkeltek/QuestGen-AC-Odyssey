@@ -1,0 +1,217 @@
+{
+    "Quest_Name": "Through the Cracks",
+    "Quest_ID": "233648",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA JoA Through the Cracks.png",
+        "description": "'In search of Alkon (Atlantis)|Alkon's Damades|father, Kassandra visited the adamant Atlantis Latomia|quarry, as it was the last place he was seen alive.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Side, Support",
+        "previous": "Good From Far, Far From Good",
+        "next": "Sixth Sense of Sympathy {{c|concurrent}}<br />Good From Far, Far From Good",
+        "source": "Kassandra",
+        "location": "Atlantis Latomia, Porimos Ring, Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Through the Cracks''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Alkon (Atlantis)|Alkon]] to look for his [[Damades|father]] at the [[adamant]] [[Atlantis Latomia|quarry]].",
+    "Section_Dialogue": "Kassandra travelled to the Atlantis Latomia, where Damades worked at. There, she found it to be heavily guarded.\n*'''Kassandra:''' ''There's a lot of [[guards]] for a quarry. I wonder why.''\nKassandra entered the quarry, sneaking into the foreman's quarters. She confronted the [[Isu Foreman]] placed in charge of the area.\n*'''Isu Foreman:''' ''Welll, isn't this an honor? How'd you get past my guards?''\n*'''Kassandra:''' ''I'm looking for Damades.''\n*'''Isu Foreman:''' ''And why would the great ''[[Dikastes]]'' be looking for missing [[human]]s?''\n*'''Kassandra:''' ''I never said he was missing.''\n*'''Isu Foreman:''' ''Very clever, [[hybrid]]. When my humans transport [[adamant]] to the experimentation chamber, they don't always return.''\n\n<tabber>\n|-|Tell me where the chamber is.=\n*'''Kassandra:''' ''A little boy is worried about is Father.  Just tell me where this experimention chamber is.''\n*'''Isu Foreman:''' ''Your compassion for humans is unproductive.''\n*'''Kassandra:''' ''Your hatred for humans is self-destructive.''\n|-|Threaten \u2013 Point me to the chamber, or else.=\n*'''Kassandra:''' ''Tell me where this chamber is or I'll make you eat your precious adamant.''\n*'''Isu Foreman:''' ''Primitive. Violence is all your kind understands.''\n*'''Kassandra:''' ''Tell me!''\n</tabber>\n*'''Isu Foreman:''' ''Fine. It's in the [[Garden of Kymopoleia]]. But you're wasting your time. The doors are locked.''\n*'''Kassandra:''' ''Then I'll just have to find the key.''\n*'''Isu Foreman:''' ''You can try, hybrid.''\n<tabber>\n|-|Kill \u2013 Not before killing you.=\n*'''Kassandra:''' ''You know, treating humans like vermin will get you killed one day. That day is today.''\nKassandra eliminated the foreman.\n|-|Leave \u2013 I'll be going now.=\n*'''Kassandra:''' ''You know, treating humans like vermin will get you killed one day.  Consider yourself lucky I'm not making that day today.''\n</tabber>\nKassandra exited the foreman's quarters.\n*'''Kassandra:''' ''I don't like the sounds of this experimentation chamber. And what do the Isu need with all this adamant?''",
+    "Section_Outcome": "Kassandra uncovered the location of Damades, who was taken to an experiment chamber at the Garden of Kymopoleia.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Judgment of Atlantis]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the Atlantis Latomia, where Damades worked at. There, she found it to be heavily guarded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There's a lot of [[guards]] for a quarry. I wonder why.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra entered the quarry, sneaking into the foreman's quarters. She confronted the [[Isu Foreman]] placed in charge of the area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Isu Foreman:''' ''Welll, isn't this an honor? How'd you get past my guards?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I'm looking for Damades.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Isu Foreman:''' ''And why would the great ''[[Dikastes]]'' be looking for missing [[human]]s?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I never said he was missing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Isu Foreman:''' ''Very clever, [[hybrid]]. When my humans transport [[adamant]] to the experimentation chamber, they don't always return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|Tell me where the chamber is.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''A little boy is worried about is Father.  Just tell me where this experimention chamber is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Isu Foreman:''' ''Your compassion for humans is unproductive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Your hatred for humans is self-destructive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Threaten \u2013 Point me to the chamber, or else.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Tell me where this chamber is or I'll make you eat your precious adamant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Isu Foreman:''' ''Primitive. Violence is all your kind understands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Tell me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Isu Foreman:''' ''Fine. It's in the [[Garden of Kymopoleia]]. But you're wasting your time. The doors are locked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Then I'll just have to find the key.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Isu Foreman:''' ''You can try, hybrid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "23",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "24",
+            "content": "|-|Kill \u2013 Not before killing you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''You know, treating humans like vermin will get you killed one day. That day is today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "26",
+            "content": "Kassandra eliminated the foreman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|Leave \u2013 I'll be going now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''You know, treating humans like vermin will get you killed one day.  Consider yourself lucky I'm not making that day today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "29",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "30",
+            "content": "Kassandra exited the foreman's quarters.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I don't like the sounds of this experimentation chamber. And what do the Isu need with all this adamant?''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

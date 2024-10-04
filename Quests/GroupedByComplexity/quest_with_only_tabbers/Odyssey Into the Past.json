@@ -1,0 +1,670 @@
+{
+    "Quest_Name": "Odyssey Into the Past",
+    "Quest_ID": "229198",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_c": {
+            "description": "support"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-OdysseytothePast-Barnabashigh.jpg",
+        "description": "'As with all great adventures, Kassandra's and Barnabas's started small. What began as a simple rescue quickly unfurled into an epic tale of gods, monsters, and ghosts from the past.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "next": "Beware the Siren Call {{c|support}}<br>To Be Nobody {{c|support}}<br>Wine for the Swine {{c|support}}<br>Daddy's Home",
+        "source": "Kassandra",
+        "location": "Pirate Hideout, Skyros, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Odyssey Into the Past''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While Kassandra was exploring a [[Pirate Hideout]], [[Barnabas]] decided to follow her.",
+    "Section_Dialogue": "Boarding the ''[[Adrestia]]'' once more, Kassandra was greeted by Barnabas.\n*'''Barnabas:''' ''I posted a quest on the ship's [[Message board|board]]. I have a good feeling about this one.''\nKassandra read the board, and then made her way to [[Skyros]], and the [[Piracy|pirate]] camp within the [[Boulder Bay]].\n*'''Kassandra:''' ''Pirate probably use this fort as a lookout.''\nAs she approached the [[bandit]]s themselves, she [[Eavesdropping|overheard]] them talking.\n*'''Brute:''' ''Crows take the eyes, then the crows see all. I take the crows, now I see too.''\n*'''Archer:''' Mater'', no! Not again. I'll be good, I swear.''\nShe observed the bandits.\n*'''Kassandra:''' ''These bandits look drugged. What happened here?''\nSneaking further in, she noticed a bound woman. Kassandra made her way over to her, and released her.\n*'''Kassandra:''' ''What happened to this camp?''\nBefore the woman could answer, something behind Kassandra caught her eye, and she merely nodded at the ''[[Mercenary|misthios]]''. Kassandra turned to see Barnabas, drinking the bandits' wine.\n*'''Barnabas:''' Chaire''! You know, I see why you like going on these quests. The bandits don't even put up a fight. And there's wine! Tastes a bit off, though.''\n<tabber>\n|-|You shouldn't be here, Barnabas.=\n*'''Kassandra:''' ''Barnabas? It isn't safe here.''\n|-|Behold the work of a master.=\n*'''Kassandra:''' ''Finally come to see a master at work, Barnabas?''\n</tabber>\n*'''Woman:''' ''That's [[lotus]] flower wine. The bandits are drugged!''\nThe women looked at Barnabas and the bandits. Barnabas swayed. Some of the bandits noticed the strangers in their camp, preparing to fight.\n*'''Barnabas:''' ''Oh. I don't feel so good.''\nKassandra drew out her weapons and engaged the bandits in combat. Meanwhile, Barnabas danced in ecstasy. As the fight drew on, Barnabas seemed to notice something.\n*'''Barnabas:''' ''Is that [[Leda (Barnabas' wife)|Leda]]? Kassandra, stop! That's my dear Leda!''\n*'''Kassandra:''' ''You drank lotus flower, Barnabas. Snap out of it!''\nBarnabas continued, seeming not to hear her.\n*'''Barnabas:''' ''A [[cyclops]]! A [[pig]]? A cyclops pig?!''\nEventually, Kassandra slew the bandits. As she approached Barnabas, the old man stumbled and fell to the ground. Kassandra sighed.\n*'''Kassandra:''' ''Come on, old man. Let's get you home.''\nThe next day, Barnabas was tending a sore head aboard the ''Adrestia''. Kassandra approached him.\n*'''Kassandra:''' ''How are you feeling?''\n*'''Barnabas:''' ''That doesn't matter. The gods, they sent me a vision.''\n<tabber>\n|-|Tell me what you saw.=\n*'''Kassandra:''' ''You said the name Leda?''\n*'''Barnabas:''' ''The gods showed her to me. Leda was my wife.''\n|-|That was just the lotus flower wine.=\n*'''Kassandra:''' ''You drank lotus flower, Barnabas. It makes people crazy.''\n*'''Barnabas:''' ''No, it was a divination. I'm certain. They showed me my dear Leda, my wife.''\n</tabber>\n*'''Kassandra:''' ''You're married?''\n*'''Barnabas:''' ''I thought I'd lost her a long time ago, but I saw her in my vision. She's alive. We just have to find her.''\n*'''Kassandra:''' ''I'll help you find her, but a vision isn't much to go on.''\n*'''Barnabas:''' ''There were ''three'' visions. In the darkness of a [[Drakontospilo|forgotten cave]], Leda fed a [[Polyphemos|cyclops]]... But then I saw her drinking wine with a [[Circe|witch]]. Then, I could hear her singing like a [[Siren (mythology)|siren]].''\n(If \"Where was the cyclops?\" is chosen.)\n*'''Kassandra:''' ''About this vision of the cyclops...''\n*'''Barnabas:''' ''Right. [[Thoosa]] and [[Poseidon]] took my hand and led me deep into the heart of the caves of [[Anaphi]]. There, I saw Leda feeding a young cyclops.''\n(If \"Who was the witch drinking wine with Leda?\" is chosen.)\n*'''Kassandra:''' ''So, Leda was drinking wine with a witch?''\n*'''Barnabas:''' ''[[Psyche]] herself showed me. The witch and Leda were dear friends, drinking wine together well into the night. In the background, I could see the [[Atoll Point ruins|ruins]] on [[Paros Island]].''\n(If \"Where were the sirens?\" is chosen.)\n*'''Kassandra:''' ''You said sirens?''\n*'''Barnabas:''' ''[[Persephone]] showed me a painted wall. Behind it, sirens lurked. Leda was trapped! Then [[Demeter]] warned me in her motherly voice, \"You dare not approach, lest your ears pollute your mind.\"''\n<tabber>\n|-|That's ridiculous.=\n*'''Kassandra:''' ''That is ridiculous. Sirens aren't real.''\n*'''Barnabas:''' ''Of course they are. I've lost many sailors to their calls.''\n|-|I'll plug my ears.=\n*'''Kassandra:''' ''Good advice, from both you ''and'' Demeter... But what should I use?''\n*'''Barnabas:''' ''You believe me? Here, take this! [[Honey|Beeswax]].''\n</tabber>\nHaving heard enough, Kassandra clasped Barnabas' arm friendly, and smiled at him.\n*'''Kassandra:''' ''If Leda is alive, I'll find her.''\nBarnabas smiled in return, and left.\n*'''Kassandra:''' ''By the gods, that smells good.''\nThey set sail toward the three islands from Barnabas' visions.<br>\n(Upon completing \"[[Beware the Siren Call]]\", \"[[To Be Nobody]]\", and \"[[Wine for the Swine]]\".)<br>\nAfter she had gathered a bracelet, an ''{{Wiki|aulos}}'', and spices, Kassandra returned to Barnabas aboard the ''Adrestia'', and gave them to him.\n*'''Kassandra:''' ''All that for a bracelet, an aulos, and some spices.''\nAs she turned away, Barnabas was exhilarated.\n*'''Barnabas:''' ''But look! I know this bracelet too well. The women of the [[Sieged Plains]] wear them. These spices are native to the [[Sacred Plains of Demeter|lands of Demeter]]. And this ''aulos'' is marked by a craftsman in the [[Parnes Mountains]].''\nKassandra turned to face him with realization.\n*'''Kassandra:''' ''They're all from [[Attika]].''\n*'''Barnabas:''' ''The cave! They're all around the one known as the [[Entrance to the Underworld]]. It can't be a coincidence. Is that where Leda is?''\n<tabber>\n|-|Accept - Let's check the cave. (Agreed on all.)=\n*'''Kassandra:''' ''There's only one way to know. Let's go.''\n*'''Barnabas:''' ''Most would have called me crazed, but not you. You truly are my best friend.''\nBarnabas embraced Kassandra in delight. Kassandra smiled but withdrew.\n*'''Kassandra:''' ''It's nothing. Now, let's find your wife.''\n(Dialogue segues into [[Daddy's Home]])\n|-|Accept - Let's check the cave. (Agreed on most.)=\n*'''Kassandra:''' ''There's only one way to know. Let's go.''\n*'''Barnabas:''' ''I know you've doubted me. I must have sounded like a crazed old fool. But you won't regret this.''\nKassandra clapped his shoulder.\n*'''Kassandra:''' ''What matters is that we do this together, old friend. Now sail!''\n(Dialogue segues into [[Daddy's Home]])\n|-|Accept - Let's check the cave. (Disagreed on the last.)=\n*'''Kassandra:''' ''There's only one way to know. Let's go.''\n*'''Barnabas:''' ''You were right. These spices could be dirt, a lie I wanted to believe. Nothing more.''<br>OR<br>''What was it you said? Ah yes. There were no sirens. And this ''aulos'' could be anyone's. That means my vision was a lie I only wished was true.''<br>OR<br>''What was it you said? This bracelet is nothing but some trinket swallowed up by a pig. A fantasy.''\nBarnabas walked past Kassandra to the side of the ship.\n*'''Kassandra:''' ''Barnabas...''\n*'''Barnabas:''' ''Such a foolish old man.''\nKassandra clasped his shoulder. Sad, Barnabas took out the bracelet, the ''aulos'', and the spices, glanced at Kassandra and threw them overboard.\n*'''Barnabas:''' ''Leda. My love. I swear to you, so long as there is wind in my sail, I will never stop seeking your shore.''\n*'''Kassandra:''' ''You'll be together again one day, Barnabas.''\n|-|Your wife is gone. Accept it.=\n*'''Kassandra:''' ''I know you want the past back, Barnabas. If anyone understands that, it's me. But Leda is gone.''\n*'''Barnabas:''' ''You were right. These spices could be dirt, a lie I wanted to believe. Nothing more.<br>OR<br>What was it you said? Ah yes. There were no sirens. And this ''aulos'' could be anyone's. That means my vision was a lie I only wished was true.''<br>OR<br>''What was it you said? This bracelet is nothing but some trinket swallowed up by a pig. A fantasy.''\nBarnabas walked past Kassandra to the side of the ship.\n*'''Kassandra:''' ''Barnabas...''\n*'''Barnabas:''' ''Such a foolish old man.''\nKassandra clasped his shoulder. Sad, Barnabas took out the bracelet, the ''aulos'', and the spices, glanced at Kassandra and threw them overboard.\n*'''Barnabas:''' ''Leda. My love. I swear to you, so long as there is wind in my sail, I will never stop seeking your shore.''\n*'''Kassandra:''' ''You'll be together again one day, Barnabas.''\n</tabber>",
+    "Section_Outcome": "After Kassandra freed a woman at the Pirate Hideout, Barnabas told her about his wife, Leda. Together, they set out to find her, based on visions Barnabas had had while under the effects of the poisonous lotus flower wine.",
+    "Section_Trivia": "*Whether Kassandra chose to heed Barnabas' warning about the sirens or not doesn't matter; she'll comment about the beeswax smelling good anyway.\n*\"Beware the Siren Call\" will complete as soon as \"Odyssey Into the Past\" starts if you already explored the tomb, but Eurylochos will still appear (out of no where) to give you the \"good\" ending at the end of \"To Be Nobody\"\n*The order in which the three support quests are completed does not matter, save for Barnabas' response if Kassandra insists that Leda is gone. Agreeing with Barnabas in all things ensures the continuation of the quest to \"[[Daddy's Home]]\" and \"[[Demeter's Fire]]\". Disagreement prevents them.\n**If the final item's history is disagreed upon, Barnabas will throw the items over, even if \"Let's check the cave\" was chosen.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Friend Worth Dying For",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Boarding the ''[[Adrestia]]'' once more, Kassandra was greeted by Barnabas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Barnabas:''' ''I posted a quest on the ship's [[Message board|board]]. I have a good feeling about this one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra read the board, and then made her way to [[Skyros]], and the [[Piracy|pirate]] camp within the [[Boulder Bay]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Pirate probably use this fort as a lookout.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "As she approached the [[bandit]]s themselves, she [[Eavesdropping|overheard]] them talking.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Brute:''' ''Crows take the eyes, then the crows see all. I take the crows, now I see too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Archer:''' Mater'', no! Not again. I'll be good, I swear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "She observed the bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''These bandits look drugged. What happened here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "10",
+            "content": "Sneaking further in, she noticed a bound woman. Kassandra made her way over to her, and released her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''What happened to this camp?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "12",
+            "content": "Before the woman could answer, something behind Kassandra caught her eye, and she merely nodded at the ''[[Mercenary|misthios]]''. Kassandra turned to see Barnabas, drinking the bandits' wine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Barnabas:''' Chaire''! You know, I see why you like going on these quests. The bandits don't even put up a fight. And there's wine! Tastes a bit off, though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "14",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "15",
+            "content": "|-|You shouldn't be here, Barnabas.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Barnabas? It isn't safe here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "|-|Behold the work of a master.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Finally come to see a master at work, Barnabas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Woman:''' ''That's [[lotus]] flower wine. The bandits are drugged!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "21",
+            "content": "The women looked at Barnabas and the bandits. Barnabas swayed. Some of the bandits noticed the strangers in their camp, preparing to fight.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Barnabas:''' ''Oh. I don't feel so good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "23",
+            "content": "Kassandra drew out her weapons and engaged the bandits in combat. Meanwhile, Barnabas danced in ecstasy. As the fight drew on, Barnabas seemed to notice something.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Barnabas:''' ''Is that [[Leda (Barnabas' wife)|Leda]]? Kassandra, stop! That's my dear Leda!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''You drank lotus flower, Barnabas. Snap out of it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "26",
+            "content": "Barnabas continued, seeming not to hear her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Barnabas:''' ''A [[cyclops]]! A [[pig]]? A cyclops pig?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "28",
+            "content": "Eventually, Kassandra slew the bandits. As she approached Barnabas, the old man stumbled and fell to the ground. Kassandra sighed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Come on, old man. Let's get you home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "30",
+            "content": "The next day, Barnabas was tending a sore head aboard the ''Adrestia''. Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''How are you feeling?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Barnabas:''' ''That doesn't matter. The gods, they sent me a vision.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "33",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "34",
+            "content": "|-|Tell me what you saw.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''You said the name Leda?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Barnabas:''' ''The gods showed her to me. Leda was my wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "37",
+            "content": "|-|That was just the lotus flower wine.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''You drank lotus flower, Barnabas. It makes people crazy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "39",
+            "content": "*'''Barnabas:''' ''No, it was a divination. I'm certain. They showed me my dear Leda, my wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "40",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''You're married?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "42",
+            "content": "*'''Barnabas:''' ''I thought I'd lost her a long time ago, but I saw her in my vision. She's alive. We just have to find her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I'll help you find her, but a vision isn't much to go on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Barnabas:''' ''There were ''three'' visions. In the darkness of a [[Drakontospilo|forgotten cave]], Leda fed a [[Polyphemos|cyclops]]... But then I saw her drinking wine with a [[Circe|witch]]. Then, I could hear her singing like a [[Siren (mythology)|siren]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "45",
+            "content": "(If \"Where was the cyclops?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''About this vision of the cyclops...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "*'''Barnabas:''' ''Right. [[Thoosa]] and [[Poseidon]] took my hand and led me deep into the heart of the caves of [[Anaphi]]. There, I saw Leda feeding a young cyclops.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "48",
+            "content": "(If \"Who was the witch drinking wine with Leda?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''So, Leda was drinking wine with a witch?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "50",
+            "content": "*'''Barnabas:''' ''[[Psyche]] herself showed me. The witch and Leda were dear friends, drinking wine together well into the night. In the background, I could see the [[Atoll Point ruins|ruins]] on [[Paros Island]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "51",
+            "content": "(If \"Where were the sirens?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''You said sirens?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "53",
+            "content": "*'''Barnabas:''' ''[[Persephone]] showed me a painted wall. Behind it, sirens lurked. Leda was trapped! Then [[Demeter]] warned me in her motherly voice, \"You dare not approach, lest your ears pollute your mind.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "54",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "55",
+            "content": "|-|That's ridiculous.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''That is ridiculous. Sirens aren't real.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "57",
+            "content": "*'''Barnabas:''' ''Of course they are. I've lost many sailors to their calls.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "58",
+            "content": "|-|I'll plug my ears.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''Good advice, from both you ''and'' Demeter... But what should I use?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "60",
+            "content": "*'''Barnabas:''' ''You believe me? Here, take this! [[Honey|Beeswax]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "61",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N12",
+            "global_id": "62",
+            "content": "Having heard enough, Kassandra clasped Barnabas' arm friendly, and smiled at him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''If Leda is alive, I'll find her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "64",
+            "content": "Barnabas smiled in return, and left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''By the gods, that smells good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "66",
+            "content": "They set sail toward the three islands from Barnabas' visions.<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O1",
+            "global_id": "67",
+            "content": "(Upon completing \"[[Beware the Siren Call]]\", \"[[To Be Nobody]]\", and \"[[Wine for the Swine]]\".)<br>",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N15",
+            "global_id": "68",
+            "content": "After she had gathered a bracelet, an ''{{Wiki|aulos}}'', and spices, Kassandra returned to Barnabas aboard the ''Adrestia'', and gave them to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''All that for a bracelet, an aulos, and some spices.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "70",
+            "content": "As she turned away, Barnabas was exhilarated.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "71",
+            "content": "*'''Barnabas:''' ''But look! I know this bracelet too well. The women of the [[Sieged Plains]] wear them. These spices are native to the [[Sacred Plains of Demeter|lands of Demeter]]. And this ''aulos'' is marked by a craftsman in the [[Parnes Mountains]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "72",
+            "content": "Kassandra turned to face him with realization.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''They're all from [[Attika]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "74",
+            "content": "*'''Barnabas:''' ''The cave! They're all around the one known as the [[Entrance to the Underworld]]. It can't be a coincidence. Is that where Leda is?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "75",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "76",
+            "content": "|-|Accept - Let's check the cave. (Agreed on all.)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''There's only one way to know. Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "78",
+            "content": "*'''Barnabas:''' ''Most would have called me crazed, but not you. You truly are my best friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "79",
+            "content": "Barnabas embraced Kassandra in delight. Kassandra smiled but withdrew.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''It's nothing. Now, let's find your wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "81",
+            "content": "(Dialogue segues into [[Daddy's Home]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC8",
+            "global_id": "82",
+            "content": "|-|Accept - Let's check the cave. (Agreed on most.)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''There's only one way to know. Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "84",
+            "content": "*'''Barnabas:''' ''I know you've doubted me. I must have sounded like a crazed old fool. But you won't regret this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "85",
+            "content": "Kassandra clapped his shoulder.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''What matters is that we do this together, old friend. Now sail!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "87",
+            "content": "(Dialogue segues into [[Daddy's Home]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC9",
+            "global_id": "88",
+            "content": "|-|Accept - Let's check the cave. (Disagreed on the last.)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''There's only one way to know. Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "90",
+            "content": "*'''Barnabas:''' ''You were right. These spices could be dirt, a lie I wanted to believe. Nothing more.''<br>OR<br>''What was it you said? Ah yes. There were no sirens. And this ''aulos'' could be anyone's. That means my vision was a lie I only wished was true.''<br>OR<br>''What was it you said? This bracelet is nothing but some trinket swallowed up by a pig. A fantasy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "91",
+            "content": "Barnabas walked past Kassandra to the side of the ship.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''Barnabas...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "93",
+            "content": "*'''Barnabas:''' ''Such a foolish old man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "94",
+            "content": "Kassandra clasped his shoulder. Sad, Barnabas took out the bracelet, the ''aulos'', and the spices, glanced at Kassandra and threw them overboard.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "95",
+            "content": "*'''Barnabas:''' ''Leda. My love. I swear to you, so long as there is wind in my sail, I will never stop seeking your shore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''You'll be together again one day, Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "97",
+            "content": "|-|Your wife is gone. Accept it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''I know you want the past back, Barnabas. If anyone understands that, it's me. But Leda is gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "99",
+            "content": "*'''Barnabas:''' ''You were right. These spices could be dirt, a lie I wanted to believe. Nothing more.<br>OR<br>What was it you said? Ah yes. There were no sirens. And this ''aulos'' could be anyone's. That means my vision was a lie I only wished was true.''<br>OR<br>''What was it you said? This bracelet is nothing but some trinket swallowed up by a pig. A fantasy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "100",
+            "content": "Barnabas walked past Kassandra to the side of the ship.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Barnabas...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "102",
+            "content": "*'''Barnabas:''' ''Such a foolish old man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "103",
+            "content": "Kassandra clasped his shoulder. Sad, Barnabas took out the bracelet, the ''aulos'', and the spices, glanced at Kassandra and threw them overboard.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D58",
+            "global_id": "104",
+            "content": "*'''Barnabas:''' ''Leda. My love. I swear to you, so long as there is wind in my sail, I will never stop seeking your shore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''You'll be together again one day, Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "106",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

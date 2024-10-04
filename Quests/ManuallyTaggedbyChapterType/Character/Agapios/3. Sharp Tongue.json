@@ -1,0 +1,40 @@
+{
+    "QuestName": "Sharp Tongue",
+    "QuestID": "223515",
+    "Revision": {
+        "id": "1047441",
+        "parentid": "979999",
+        "timestamp": "2023-06-13T19:02:59Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047441",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "gqckvjqb56qwhbsao0wc3it50m62rn8"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Kassandra, having investigated The Dagger, planned to return to Agapios and tell him what she had discovered.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support {{c|Agapios}}",
+        "previous": "The Taxman Cometh",
+        "concurrent": "Freedom Isn't Free<br>Blood and Water<br>Dagger to the Heart<br>Wasn't Born the Kingfisher",
+        "next": "The Kingfisher and the Robin",
+        "source": "Kassandra",
+        "location": "Chalkis City, Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Sharp Tongue''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to Agapios to report what she found about [[The Dagger]].",
+    "Section_Dialogue": "Having met Agapios' contacts, Kassandra returned to him in [[Chalkis City]].\n*'''Agapios:''' ''You've returned... What did you learn?''\n*'''Kassandra:''' ''The Dagger's base is on [[Skyros]]. They seem to be planning a ritual at the [[Temple of Achilles]]\u2014''\n*'''Agapios:''' ''What did you learn about my [[Neritos|brother]]?! Is he alive?! Is he the Kingfisher?''\n<tabber>\n|-|You brother is the Kingfisher.=\n*'''Kassandra:''' ''I'm sorry, Agapios. Neritos is the Kingfisher. The Dagger's his operation.''\n|-|Focus on stopping The Dagger.=\n*'''Kassandra:''' ''All that matters is stopping The Dagger.''\n*'''Agapios:''' ''...Ah. So it is him. Of course it was him.''\n</tabber>\nAgapios, having heard what Kassandra said, turned around and laughed in silence.\n*'''Agapios:''' ''Neritos always was getting himself into trouble. A temple to Achilles on Skyros, you said?''\nAgapios immediately ran off, intending to travel to Skyros himself.\n*'''Kassandra:''' ''Agapios\u2014''\n*'''Greek Soldier:''' ''Stop, [[Slavery|slave]]! Stop, slave! [[Guards]]! GUARDS!!''\n*'''[[Magistrate of Chalkis|Magistrate]]:''' ''No. That man earned his freedom long ago.''\nKassandra turned around to the magistrate.\n*'''Magistrate:''' ''Thanks to you, The Dagger's true face has been revealed, and [[Euboea]] has a chance at survival. You've earned your reward. Though I fear victory will not be as simple as storming Skyros. The Kingfisher's hid in the shadow for decades... There will be more to do before the end. Help me. Help Euboea.''\n(Accept \u2013 Happy to Help.)\n*'''Kassandra:''' ''I'll see what I can do.''\n*'''Magistrate:''' ''Good. Good. I'll lead a small force to [[Smuggler's Dock, Skyros|Smuggler's Dock]] on Skyros. Meet me there, and we'll finally crush The Dagger.''",
+    "Section_Outcome": "Kassandra reported what she found on the Dagger to Agapios, including the confirmation that Neritos was the Kingfisher who led the criminal syndicate. While Agapios ran off to confront his brother himself, Kassandra was enlisted by the Magistrate to combat The Dagger.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

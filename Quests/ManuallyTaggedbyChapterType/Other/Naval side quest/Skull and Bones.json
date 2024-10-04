@@ -1,0 +1,43 @@
+{
+    "QuestName": "Skull and Bones",
+    "QuestID": "236201",
+    "Revision": {
+        "id": "1047597",
+        "parentid": "849742",
+        "timestamp": "2023-06-13T19:41:33Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047597",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "s1ip247m7i0bz4ycswr2v5tvjd1xhoz"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Piracy|Pirates, known to be a scourge upon the waves, caused a great many to fear for their safety. Thus the mighty Kassandra was hired to clear them from the Aegean Sea|sea.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Skull and Bones''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A merchant had a task for Kassandra.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Can I help you, merchant?''\n*'''Merchant:''' ''[[Piracy|Pirates]] are making the waters unsafe for travelers.''\n*'''Kassandra:''' ''You want me to destroy all the pirate ships.''\n*'''Merchant:''' ''All the boats must be sunk. Every. Last. One.''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Merchant:''' ''This will be worth your while,'' [[Mercenary|misthios]].\n*'''Kassandra:''' ''I should get going.''\nKassandra left the merchant and set sail. She sought out and sank multiple pirate ships before returning to the merchant.",
+    "Section_Outcome": "Kassandra sank pirate ships, and in return was rewarded with [[drachma]]e.",
+    "Section_Trivia": "*The memory's name is a possible reference to ''{{Wiki|Skull & Bones (video game)|Skull & Bones}}'', an upcoming game by Ubisoft.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

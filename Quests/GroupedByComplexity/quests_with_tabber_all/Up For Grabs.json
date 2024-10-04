@@ -1,0 +1,179 @@
+{
+    "Quest_Name": "Up For Grabs",
+    "Quest_ID": "243752",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Up For Grabs",
+        "description": "'A Treasure chest|chest of gold and silver sank. On learning that it might still survive and that Piracy|pirates were searching for it, a man asked for help finding it.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Up For Grabs''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[civilian]] sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''I offer great riches to anyone willing to help me recover them! Come see me.''\nShe sought out the civilian and addressed him.\n*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''\n*'''Man:''' ''There's a [[merchant]] [[ship]] near the port with a [[Treasure chest|crate]] of [[gold]] and [[silver]] ingots, ''misthios.\n*'''Kassandra:''' ''You sound like you're plotting something.''\n*'''Man:''' ''Someone got there before me. Cursed [[Piracy|pirates]] tried to take the boat. The chest must be on the ocean floor by now. The pirates are all circling, looking for it.''\n\n<tabber>\n|-|Destroy Pirate ships=\n*'''Kassandra:''' ''Sounds like I need to sink some pirate ships.''\n*'''Man:''' ''That's exactly it. Will you do it for me?''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Man:''' ''Good. Be discreet.''\n*'''Kassandra:''' Chaire'', stranger.''\nKassandra set out to destroy the pirate ships, and then returned to the man.\n*'''Man:''' ''Back already. Did you destroy them all?''\n*'''Kassandra:''' ''It would be hard to piece them back together.''\n*'''Man:''' ''Job well done, my friend. I believe this is yours.''\n*'''Kassandra:''' ''That'll do.''\n\n|-|(unknown)=\n</tabber>",
+    "Section_Outcome": "Kassandra did as the civilian asked, and was rewarded for this.",
+    "Section_Behind_the_scenes": "The dialogue for timed quests in ''[[Assassin's Creed: Odyssey]]'' is part scripted, part randomly generated from a pool of generic statements. As such, the wording encountered varies.\n\nAll timed quests have two variants, as noted: when given a choice, the desired is always the top one.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Naval side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''I offer great riches to anyone willing to help me recover them! Come see me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the civilian and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''There's a [[merchant]] [[ship]] near the port with a [[Treasure chest|crate]] of [[gold]] and [[silver]] ingots, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You sound like you're plotting something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Man:''' ''Someone got there before me. Cursed [[Piracy|pirates]] tried to take the boat. The chest must be on the ocean floor by now. The pirates are all circling, looking for it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Destroy Pirate ships=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Sounds like I need to sink some pirate ships.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Man:''' ''That's exactly it. Will you do it for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "13",
+            "content": "(Accept - I'll destroy them.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Man:''' ''Good. Be discreet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' Chaire'', stranger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "17",
+            "content": "Kassandra set out to destroy the pirate ships, and then returned to the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Man:''' ''Back already. Did you destroy them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''It would be hard to piece them back together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Man:''' ''Job well done, my friend. I believe this is yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "|-|(unknown)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

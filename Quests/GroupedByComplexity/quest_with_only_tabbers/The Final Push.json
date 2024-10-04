@@ -1,0 +1,301 @@
+{
+    "Quest_Name": "The Final Push",
+    "Quest_ID": "222535",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "The_Final_Push_-_Assassins_Creed_Odyssey.png",
+        "description": "'Having weakened the Athens|Athenian hold on Megaris, Kassandra joined the Spartans in battle to conquer the region. The time had come to turn the blue banners red.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Athenian Leader",
+        "next": "The Wolf of Sparta",
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''The Final Push''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Having weakened the [[Athens|Athenian]] hold on [[Megaris]], Kassandra returned to [[Stentor]] to report her success.",
+    "Section_Dialogue": "Kassandra returned to Stentor at the Spartan camp near [[Pagai]].\n*'''Stentor:''' ''I hear good things from my commanders, mercenary. What news do you have?''\n*'''Kassandra:''' ''The Athenian commander is dead. Megaris is ready to fall.''\n*'''Stentor:''' ''Good. The [[Nikolaos|Wolf]] has ordered the attack. I'm glad you're here to join us on our march to glory.''\n<tabber>\n|-|I'm honored to be here.=\n*'''Kassandra:''' ''I'm proud to fight by your side.''\n*'''Stentor:''' ''Yes... You have earned your place.''\n|-|Let's kill some Athenians.=\n*'''Kassandra:''' ''It's about time we took the fight to the Athenians.''\n*'''Stentor:''' ''Yes, it's time they felt the wrath of [[Sparta]]! Come, kleos (glory) awaits.''\n*'''Kassandra:''' ''It's what I was born to do...''\n</tabber>\n*'''Stentor:''' ''We will win the day for Sparta and the Wolf. Come, we must reach the forward camp.''\n<tabber>\n|-|I'm ready.=\n*'''Kassandra:''' ''I am ready.''\n*'''Stentor:''' ''Follow me. We must prepare for the battle ahead.''\nKassandra followed Stentor as they made their way to the camp.\n*'''Kassandra:''' ''So, tell me about the Wolf.''\n*'''Stentor:''' ''He is a great man. He will lead Sparta to victory against the\u2014''\n*'''Kassandra:''' ''No, no! What is he like as a man, as a father?''\n*'''Stentor:''' ''He... he is to be admired, strong, caring in his way. But sometimes, I\u2014''\n*'''Kassandra:''' ''Yes?''\n*'''Stentor:''' ''Nothing. Just, he gets this faraway look in his eyes, and I sense a sadness there. He is Sparta's general, but he is also made of flesh and blood. Life cannot be lived without some regrets.''\nThe reached the camp.\n|-|I'll meet you there.=\n*'''Kassandra:''' ''I'll see you at the camp.''\n*'''Stentor:''' ''Very well, but don't delay. We attack soon.''\nKassandra eventually made her way to the forward camp, where Stentor was found with his troops.\n</tabber>\n*'''Stentor:''' ''Are you ready to crush the Athenians?''\n*'''Kassandra:''' ''I'm ready for war.''\nKassandra joined the Spartans on the field of battle against the Athenians. After defeating their foes in a drawn-out conflict, Kassandra again met with Stentor. Their victory was interrupted by an arriving soldier.\n*'''Sparta Light Soldier:''' ''The Wolf has requested the presence of the mercenary.''\n*'''Stentor:''' ''We shall be up to him in a moment.''\n*'''Sparta Light Soldier:''' ''With respect, he wishes to see the mercenary alone.''\n*'''Stentor:''' ''What?''\n*'''Spartan Light Soldier:''' ''I said the Commander wishes...''\n[[File:ACOD_The_Final_Push_-_Stentor_Annoyed.png|thumb|250px|Stentor displeased with what he heard]]\n*'''Stentor:''' ''I heard what you said. I just don't understand why.''\n*'''Spartan Light Soldier:''' ''Those were his orders, sir.''\n*'''Stentor:''' ''Very well.''\nThe soldier departed, leaving Stentor and Kassandra alone.\n*'''Stentor:''' ''It appears I have other matters to attend to.''",
+    "Section_Outcome": "Kassandra helped the Spartans in their final battle against Athens in Megaris, helping them to defeat the Athenians and conquer the region. By doing so, she was granted the opportunity to meet Nikolaos face to face.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:L'assaut final]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Stentor at the Spartan camp near [[Pagai]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Stentor:''' ''I hear good things from my commanders, mercenary. What news do you have?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''The Athenian commander is dead. Megaris is ready to fall.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Stentor:''' ''Good. The [[Nikolaos|Wolf]] has ordered the attack. I'm glad you're here to join us on our march to glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|I'm honored to be here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I'm proud to fight by your side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Stentor:''' ''Yes... You have earned your place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Let's kill some Athenians.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''It's about time we took the fight to the Athenians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Stentor:''' ''Yes, it's time they felt the wrath of [[Sparta]]! Come, kleos (glory) awaits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''It's what I was born to do...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Stentor:''' ''We will win the day for Sparta and the Wolf. Come, we must reach the forward camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "15",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "16",
+            "content": "|-|I'm ready.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I am ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Stentor:''' ''Follow me. We must prepare for the battle ahead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "19",
+            "content": "Kassandra followed Stentor as they made their way to the camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''So, tell me about the Wolf.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Stentor:''' ''He is a great man. He will lead Sparta to victory against the\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''No, no! What is he like as a man, as a father?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Stentor:''' ''He... he is to be admired, strong, caring in his way. But sometimes, I\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Stentor:''' ''Nothing. Just, he gets this faraway look in his eyes, and I sense a sadness there. He is Sparta's general, but he is also made of flesh and blood. Life cannot be lived without some regrets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "26",
+            "content": "The reached the camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|I'll meet you there.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I'll see you at the camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Stentor:''' ''Very well, but don't delay. We attack soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "30",
+            "content": "Kassandra eventually made her way to the forward camp, where Stentor was found with his troops.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "31",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Stentor:''' ''Are you ready to crush the Athenians?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'm ready for war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "34",
+            "content": "Kassandra joined the Spartans on the field of battle against the Athenians. After defeating their foes in a drawn-out conflict, Kassandra again met with Stentor. Their victory was interrupted by an arriving soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Sparta Light Soldier:''' ''The Wolf has requested the presence of the mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Stentor:''' ''We shall be up to him in a moment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Sparta Light Soldier:''' ''With respect, he wishes to see the mercenary alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Stentor:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Spartan Light Soldier:''' ''I said the Commander wishes...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "40",
+            "content": "[[File:ACOD_The_Final_Push_-_Stentor_Annoyed.png|thumb|250px|Stentor displeased with what he heard]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D27",
+            "global_id": "41",
+            "content": "*'''Stentor:''' ''I heard what you said. I just don't understand why.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Spartan Light Soldier:''' ''Those were his orders, sir.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "43",
+            "content": "*'''Stentor:''' ''Very well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "44",
+            "content": "The soldier departed, leaving Stentor and Kassandra alone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Stentor:''' ''It appears I have other matters to attend to.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+{
+    "Quest_Name": "Followers of Truth",
+    "Quest_ID": "233146",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "After being attacked by the Followers of Ares, Herodotos suggested Kassandra investigate the Akousmatikoi Cave|island's cave.",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Regrets",
+        "next": "Family Values (Samos)|Family Values",
+        "source": "Kassandra",
+        "location": "Akousmatikoi Cave, Devotee's Sanctuary, Samos, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Followers of Truth''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "[[Herodotos]] and Kassandra decided to investigate the [[Followers of Ares]] threat.",
+    "Section_Dialogue": "Kassandra traveled to Akousmatikoi Cave, where Herodotos was waiting.\n\n*'''Herodotos:''' ''I'll follow you in after you've finished...''\n*'''Kassandra:''' ''Killing everyone inside.''\n*'''Herodotos:''' ''Yes. That.''\n\nAfter entering the cave, and killing 4 of the Followers, Herodotos enters.\n\n*'''Herodotos:''' ''So this is where they've been hiding.''\n*'''Kassandra:''' ''You were right to suggest we look here. But they've been dealt with.''\n*'''Herodotos:''' ''We still need to find out what they were doing here in the first place. Let's look around.''\n\nExploring around, she noticed a shield and some armor on the ground.\n\n*'''Kassandra:''' ''Athenian and Spartan uniforms...''\n*'''Herodotos:''' ''They could have the people of Samos believe they were attacking from either side.''\n\nA piece of paper caught her eye.\n\n*'''Kassandra:''' ''I didn't take the Followers of Ares to be lovers of poetry.''\n*'''Herodotos:''' ''They're not. This work... it's awfully close to the style Theodoros uses. Why would his writings be here?''\n\nShe found a bracelet on the ground.\n\n*'''Kassandra:''' ''I didn't take them for the heirloom type.''\n*'''Herodotos:''' ''How did they... That's our family's sigil.''\n*'''Kassandra:''' ''They must have stolen it.''\n*'''Herodotos:''' ''There's no way they could have found that on their own. It was given to them.''\n\nShe went over to a parchment on a nearby table, also filed with severed body parts.\n\n*'''Kassandra:''' ''There's a list of names here.''\n*'''Herodotos:''' ''I recognize these names. They're all quite influential on Samos. But... Mestor's is missing.''\n\nShe went over to a bag of coins.\n\n*'''Kassandra:''' ''These coins aren't like any I've seen before.''\n*'''Herodotos:''' ''I have. They're Persian...''\n\nHaving explored enough, she went over to Herodotos.\n\n*'''Herodotos:''' ''I'm afraid to even say what I think is going on here.''\n\n<tabber>\n|-|Samos is in danger.=\n*'''Kassandra:''' ''I'll say it. Persia want to take Samos.''\n*'''Herodotos:''' ''I think you're right. It's close enough to places like Athens and Sparta, but small enough to not draw their attention.''\n*'''Kassandra:''' ''Makes sense.''\n*'''Herodotos:''' ''Unfortunately, that's not the worst part.''\n\n|-|I want to hear your theory.=\n*'''Kassandra:''' ''This island and these people are yours. Tell me what you're thinking.''\n*'''Herodotos:''' ''Persia wants to take control of Samos. It'd be a good staging ground for something greater.''\n*'''Kassandra:''' ''You're right.''\n*'''Herodotos:''' ''I only wish that was all there is to worry about.''\n\n</tabber>\n\n*'''Kassandra:''' ''What is it?''\n*'''Herodotos:''' ''If Persia is involved, they couldn't have done this alone. They would have needed someone here to help them.''\n*'''Kassandra:''' ''Someone with ties to the empire.''\n*'''Herodotos:''' ''And influence on Samos, yes. Other than myself, there are only two others who could be responsible. For what's going to happen... and for what already has.''\n*'''Kassandra:''' ''Herodotos...''\n*'''Herodotos:''' ''With everything we've found... everything you've seen and heard. Please, just tell me which of them it is.''\n\n<tabber>\n|-|It's Theodoros.=\n*'''Kassandra:''' ''It's Theodoros. He's working for the Persians and brought the Followers of Ares here.''\n\n|-|It's Mestor.=\n*'''Kassandra:''' ''It's Mestor. He brought the Followers of Ares here to help Persia.''\n\n</tabber>\n\n*'''Herodotos:''' ''I was afraid you'd say that, but I know you must be right.''\n*'''Kassandra:''' ''What do you want to do now?''\n*'''Herodotos:''' ''I need to talk to Theodoros.''",
+    "Section_Outcome": "Kassandra and Herodotos traveled to [[Akousmatikoi Cave]] and discovered that [[Persia]] wanted to take hold of Samos.",
+    "Section_Trivia": "*Kassandra can accuse either brother, [[Theodoros (Samian)|Theodoros]] and [[Mestor (Samian)|Mestor]], but Mestor is the culprit.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Every Story Has an Ending",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to Akousmatikoi Cave, where Herodotos was waiting.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Herodotos:''' ''I'll follow you in after you've finished...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Killing everyone inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Herodotos:''' ''Yes. That.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "After entering the cave, and killing 4 of the Followers, Herodotos enters.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Herodotos:''' ''So this is where they've been hiding.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You were right to suggest we look here. But they've been dealt with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Herodotos:''' ''We still need to find out what they were doing here in the first place. Let's look around.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "Exploring around, she noticed a shield and some armor on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Athenian and Spartan uniforms...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Herodotos:''' ''They could have the people of Samos believe they were attacking from either side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "A piece of paper caught her eye.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I didn't take the Followers of Ares to be lovers of poetry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Herodotos:''' ''They're not. This work... it's awfully close to the style Theodoros uses. Why would his writings be here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "23",
+            "content": "She found a bracelet on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D11",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I didn't take them for the heirloom type.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "26",
+            "content": "*'''Herodotos:''' ''How did they... That's our family's sigil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''They must have stolen it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Herodotos:''' ''There's no way they could have found that on their own. It was given to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "30",
+            "content": "She went over to a parchment on a nearby table, also filed with severed body parts.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U11",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''There's a list of names here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "33",
+            "content": "*'''Herodotos:''' ''I recognize these names. They're all quite influential on Samos. But... Mestor's is missing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "35",
+            "content": "She went over to a bag of coins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U13",
+            "global_id": "36",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D17",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''These coins aren't like any I've seen before.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "38",
+            "content": "*'''Herodotos:''' ''I have. They're Persian...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "40",
+            "content": "Having explored enough, she went over to Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "42",
+            "content": "*'''Herodotos:''' ''I'm afraid to even say what I think is going on here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "44",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "45",
+            "content": "|-|Samos is in danger.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I'll say it. Persia want to take Samos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "47",
+            "content": "*'''Herodotos:''' ''I think you're right. It's close enough to places like Athens and Sparta, but small enough to not draw their attention.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Makes sense.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "49",
+            "content": "*'''Herodotos:''' ''Unfortunately, that's not the worst part.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "51",
+            "content": "|-|I want to hear your theory.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''This island and these people are yours. Tell me what you're thinking.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "53",
+            "content": "*'''Herodotos:''' ''Persia wants to take control of Samos. It'd be a good staging ground for something greater.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''You're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "55",
+            "content": "*'''Herodotos:''' ''I only wish that was all there is to worry about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U18",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "57",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U19",
+            "global_id": "58",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D28",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "60",
+            "content": "*'''Herodotos:''' ''If Persia is involved, they couldn't have done this alone. They would have needed someone here to help them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Someone with ties to the empire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "62",
+            "content": "*'''Herodotos:''' ''And influence on Samos, yes. Other than myself, there are only two others who could be responsible. For what's going to happen... and for what already has.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Herodotos...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "64",
+            "content": "*'''Herodotos:''' ''With everything we've found... everything you've seen and heard. Please, just tell me which of them it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U20",
+            "global_id": "65",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "66",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "67",
+            "content": "|-|It's Theodoros.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''It's Theodoros. He's working for the Persians and brought the Followers of Ares here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "69",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "70",
+            "content": "|-|It's Mestor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''It's Mestor. He brought the Followers of Ares here to help Persia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U22",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE2",
+            "global_id": "73",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U23",
+            "global_id": "74",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D36",
+            "global_id": "75",
+            "content": "*'''Herodotos:''' ''I was afraid you'd say that, but I know you must be right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''What do you want to do now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "77",
+            "content": "*'''Herodotos:''' ''I need to talk to Theodoros.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

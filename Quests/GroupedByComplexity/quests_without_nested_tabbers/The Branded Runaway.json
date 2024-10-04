@@ -1,0 +1,128 @@
+{
+    "Quest_Name": "The Branded Runaway",
+    "Quest_ID": "236785",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Branded Runaway",
+        "description": "'And so it was that a fugitive Slavery|slave required the help of a 'Mercenary|misthios' to escape the soldiers pursuing him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Branded Runaway''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A runaway [[Slavery|slave]] sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra came across a slave sitting by a camp fire.\n*'''Kassandra:''' Chaire''. Is there something you need?''\n*'''Man:''' ''You see my brand,'' [[Mercenary|misthios]]''? It says I'm a runaway, and the [[soldier]]s have seen it. More are coming for me... I'll never make it past them!''\n*'''Kassandra:''' ''So you want me to provide protection?''\n*'''Man:''' ''Obviously. Do we have a deal?''\n\n(Accept \u2013 \"I'm going to help you.\")\n*'''Kassandra:''' ''All right. I've got your back.''\nKassandra and the slave successfully fended off the attacking soldiers.\n*'''Man:''' ''That should be the last of them, ''misthios''. You're quite the warrior.''\n*'''Kassandra:''' ''You're safe now.''\n*'''Man:''' ''Thank you. For everything. Please, this isn't much, but take it.''\nThe man gave Kassandra some of what [[drachma]]e he had.\n*'''Kassandra:''' ''Doesn't look this life is offering you much, but another awaits aboard [[Adrestia|my ship]]. Sail with me\u2014we need someone like you.''\n*'''Man:''' ''You know I can't leave, mercenary. Though I'd like to.''\n*'''Kassandra:''' ''You're always welcome aboard if you change your mind.''",
+    "Section_Outcome": "Kassandra helped the slave by dealing with the soldiers sent after him.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While traveling across [[Greece]], Kassandra came across a slave sitting by a camp fire.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' Chaire''. Is there something you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''You see my brand,'' [[Mercenary|misthios]]''? It says I'm a runaway, and the [[soldier]]s have seen it. More are coming for me... I'll never make it past them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''So you want me to provide protection?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Man:''' ''Obviously. Do we have a deal?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(Accept \u2013 \"I'm going to help you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''All right. I've got your back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "9",
+            "content": "Kassandra and the slave successfully fended off the attacking soldiers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Man:''' ''That should be the last of them, ''misthios''. You're quite the warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''You're safe now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Man:''' ''Thank you. For everything. Please, this isn't much, but take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "The man gave Kassandra some of what [[drachma]]e he had.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Doesn't look this life is offering you much, but another awaits aboard [[Adrestia|my ship]]. Sail with me\u2014we need someone like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Man:''' ''You know I can't leave, mercenary. Though I'd like to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''You're always welcome aboard if you change your mind.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

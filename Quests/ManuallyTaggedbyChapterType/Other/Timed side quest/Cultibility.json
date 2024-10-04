@@ -1,0 +1,39 @@
+{
+    "QuestName": "Cultibility",
+    "QuestID": "236203",
+    "Revision": {
+        "id": "1047518",
+        "parentid": "1001757",
+        "timestamp": "2023-06-13T19:25:59Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047518",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "shh6sqae5cmw4koyto17zgqkujq1c9r"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Following a direct attack from the Followers of Ares, a politician finally decided to take action against them and to alert the temple.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Cultibility''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "After saving a statesman when he was attacked by the [[Followers of Ares]], Kassandra was charged by him to kill more of them.",
+    "Section_Dialogue": "*'''Politician:''' ''Thank you for jumping in. Come to think of it, I could use a [[mercenary]] of your caliber.''\n*'''Kassandra:''' ''If you're paying, I'm listening.''\n*'''Politician:''' ''Those were Followers of [[Ares]]! I can scarcely believe they are attacking people openly like this.''\n*'''Kassandra:''' ''Whether you believe it or not, they will kill you. Be more careful, friend.''\n*'''Politician:''' ''You're right. This is serious. I... We must strike against them. And send a warning to the priestess at the temple.''\n*'''Kassandra:''' ''So I should send them all to the [[underworld]]?''\n*'''Politician:''' ''Yes. All the Followers must die.''\n(Accept \u2013 \"I'll handle it.\")\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Politician:''' ''You're doing me a service, mercenary.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left the man, sought out the Followers camping nearby, and killed them before returning to the politician.\n*'''Politician:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Politician:''' ''You kept your end of the deal. Now it's time I hold up mine. Take this.''\n*'''Kassandra:''' ''I always finish what I've started.''",
+    "Section_Outcome": "Kassandra sought out and slew some of the Followers of Ares in the region, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

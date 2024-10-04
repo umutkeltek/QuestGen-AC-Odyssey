@@ -1,0 +1,245 @@
+{
+    "Quest_Name": "Art Leading Life",
+    "Quest_ID": "225008",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Art Leading Life 1.png",
+        "description": "'Phidias had decoded the secret message found near the Statue of Zeus, Olympia|statue of Zeus. It listed the location of three famous statues throughout the Greece|Greek world that needed Kassandra's investigative eye.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Side, Character {{c|Phidias}}",
+        "previous": "The Message, the Stick, and the Artist",
+        "next": "Pieces of the Puzzle",
+        "concurrent": "The Kytheran Statue<br>The Samian Statue<br>The Thasian Statue",
+        "source": "Kassandra",
+        "location": "Sanctuary of Olympia, Elis, Greece",
+        "date": "428 BCE/c. 422 BCE"
+    },
+    "General_Description": "'''Art Leading Life''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Phidias told Kassandra the locations of the statues from the ''{{Wiki|scytale}}''{{'}}s deciphered message to uncover the remaining symbols.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Well, don't keep me waiting. What did it say?''\n*'''Phidias:''' ''It's a list of statues, and... there's something else, but it's not complete.''\n*'''Kassandra:''' ''Do you think the complete message will be revealed once all the statues have been visited?''\n*'''Phidias:''' ''I would assume so.''\n*'''Kassandra:''' ''Someone's gone to a lot of trouble to ensure this remains a secret.''\n*'''Phidias:''' ''Maybe it will reveal the identity of the ones who want to dispose of me... Will you help?''\n(Accept \u2013 \"Tell me more.\")\n*'''Kassandra:''' ''Tell me what I need to do.''\n*'''Phidias:''' ''There are three locations listed. Each region has a statue of some renown placed there.''\n*'''Kassandra:''' ''So it's safe to say that at each of these statues, there'll be a clue''\n*'''Phidias:''' ''Yes, it'll be quite a journey, the statues are scattered all over. There's one near [[Kythera]] , another at [[Thasos]] , and also [[Samos]] .''\n(If \"Tell me about the [[Aphrodite's Beauty|statue]] near Kythera.\" is chosen.)\n*'''Kassandra:''' ''What statue should I be looking for in Kythera?''\n*'''Phidias:''' ''Oh, what an island! The birthplace of the goddess of love. How I wish I could go with you...''\n*'''Kassandra:''' ''It is a fitting place then to look for [[Aphrodite]] .''\n*'''Phidias:''' ''Exactly! The island lies at the southeastern tip of the [[Peloponnese]] . You will find what we seek at Aphrodite's feet.''\n(If \"Tell me about the statue near Thasos.\" is chosen.)\n*'''Kassandra:''' ''What's in Thasos?''\n*'''Phidias:''' ''Ah, a controversial statue indeed. It can only be the one of [[Theagenes of Thasos|Theagenes]] from this northern isle.''\n*'''Kassandra:''' ''Theagenes?''\n*'''Phidias:''' ''The [[Olympic Games|Olympic]] hero! It's even rumored that [[Herakles]] himself was his father. He was exquisitely immortalized by the sculptor [[Glaukias of Aegina]] .''\n(If \"Tell me about the statue near Samos.\" is chosen.)\n*'''Kassandra:''' ''What statue should I seek in Samos?''\n*'''Phidias:''' ''Well, it's not exactly Samos or [[Lesbos]] , but a [[Island of Triton|small island]] nestled between. In the bosom of the ocean, one might say.''\nKassandra gets slightly impatient.\n*'''Kassandra:''' ''Stick to the statue. What is it?''\n*'''Phidias:''' ''Why [[Poseidon]], of course! It is as if you are watching the god himself holding back the waves.''\n*'''Kassandra:''' ''I should be on my way. This will take some time.''\n*'''Phidias:''' ''Of course, but I am excited to see where this will lead.''\n*'''Kassandra:''' ''As am I. Stay safe, Phidias.''\n*'''Phidias:''' ''You too, and return to me as soon as you have all the clues.''\n*'''Kassandra:''' ''Don't worry, I will.''\nKassandra left the [[Phidias' Workshop, Olympia|workshop]] and prepared for her journey.\n*'''Kassandra:''' ''This won't be an easy task, but whatever the messages reveal must be important...''\nAfter long years reuniting her family and visiting the places Phidias had indicated, she eventually got all the symbols and returned to the workshop.",
+    "Section_Outcome": "Looking to decipher the rest of the cryptic intended for Phidias, Kassandra tried to help\u00a0him by acquiring the other symbols all across the Greek islands. However, when she returned, she found him murdered by a marble block he started working on.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Phidias",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''Well, don't keep me waiting. What did it say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Phidias:''' ''It's a list of statues, and... there's something else, but it's not complete.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Do you think the complete message will be revealed once all the statues have been visited?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Phidias:''' ''I would assume so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Someone's gone to a lot of trouble to ensure this remains a secret.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Phidias:''' ''Maybe it will reveal the identity of the ones who want to dispose of me... Will you help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(Accept \u2013 \"Tell me more.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Tell me what I need to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Phidias:''' ''There are three locations listed. Each region has a statue of some renown placed there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''So it's safe to say that at each of these statues, there'll be a clue''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "11",
+            "content": "*'''Phidias:''' ''Yes, it'll be quite a journey, the statues are scattered all over. There's one near [[Kythera]] , another at [[Thasos]] , and also [[Samos]] .''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "12",
+            "content": "(If \"Tell me about the [[Aphrodite's Beauty|statue]] near Kythera.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''What statue should I be looking for in Kythera?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Phidias:''' ''Oh, what an island! The birthplace of the goddess of love. How I wish I could go with you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''It is a fitting place then to look for [[Aphrodite]] .''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "16",
+            "content": "*'''Phidias:''' ''Exactly! The island lies at the southeastern tip of the [[Peloponnese]] . You will find what we seek at Aphrodite's feet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "17",
+            "content": "(If \"Tell me about the statue near Thasos.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''What's in Thasos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Phidias:''' ''Ah, a controversial statue indeed. It can only be the one of [[Theagenes of Thasos|Theagenes]] from this northern isle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Theagenes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "21",
+            "content": "*'''Phidias:''' ''The [[Olympic Games|Olympic]] hero! It's even rumored that [[Herakles]] himself was his father. He was exquisitely immortalized by the sculptor [[Glaukias of Aegina]] .''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "22",
+            "content": "(If \"Tell me about the statue near Samos.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''What statue should I seek in Samos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "24",
+            "content": "*'''Phidias:''' ''Well, it's not exactly Samos or [[Lesbos]] , but a [[Island of Triton|small island]] nestled between. In the bosom of the ocean, one might say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "25",
+            "content": "Kassandra gets slightly impatient.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Stick to the statue. What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "27",
+            "content": "*'''Phidias:''' ''Why [[Poseidon]], of course! It is as if you are watching the god himself holding back the waves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I should be on my way. This will take some time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "29",
+            "content": "*'''Phidias:''' ''Of course, but I am excited to see where this will lead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''As am I. Stay safe, Phidias.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "31",
+            "content": "*'''Phidias:''' ''You too, and return to me as soon as you have all the clues.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Don't worry, I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "33",
+            "content": "Kassandra left the [[Phidias' Workshop, Olympia|workshop]] and prepared for her journey.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''This won't be an easy task, but whatever the messages reveal must be important...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "35",
+            "content": "After long years reuniting her family and visiting the places Phidias had indicated, she eventually got all the symbols and returned to the workshop.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "Quest_Name": "Citizenship Test",
+    "Quest_ID": "223773",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Citizenship Test Memory.png",
+        "description": "'Kassandra found Alkibiades speaking with Sokrates. Apparently, a man named Sophanes wanted to become an Athens|Athenian citizen, but needed Kassandra's help in doing so.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Sokrates}}",
+        "next": "Witness Him",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "c. 431 BCE"
+    },
+    "General_Description": "'''Citizenship Test''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found [[Alkibiades]], who need her help with a citizenship issue.",
+    "Section_Dialogue": "Kassandra found Alkibiades and [[Sokrates]] in the [[Garden of Hephaistos|garden]] outside the [[Temple of Hephaistos, Athens|Temple]] of [[Hephaistos]].\n*'''Alkibiades:''' ''Talking in circles may work on others, Sokrates, but not on me.''\n*'''Sokrates:''' ''I don't speak in circles, or any other shape. You answered one of my questions, and that brought another to mind.''\n*'''Alkibiades:''' ''And another... And another...''\nKassandra approached Alkibiades and Sokrates.\n<tabber>\n|-|If Kassandra slept with Alkibiades=\n*'''Alkibiades:''' ''Kassandra! I knew you'd be back for more. I can't say it hasn't been on my mind... But, alas, we must save it for another time.''\n|-|If Kassanda denied Alkibiades' advances=\n*'''Alikibiades:''' ''Kassandra! I knew you'd change your mind after turning me down. Unfortunately, love must wait a little longer.''\n</tabber>\n\n*'''Kassandra:''' ''Whatever you say.''\n*'''Alkibiades:''' ''I hate to cut our conversation short, Sokrates, but I believe you've talked enough for the both of us. We must find another use for that mouth of yours.''\n*'''Sokrates:''' ''Speak to him long enough, and you may find the smallest hint of knowledge veiled deep behind his... enthusiastic advances.''\n\nSokrates left.\n\n*'''Alkibiades:''' ''A compliment and an insult in the same sentence. He truly is gifted. You've arrived at the perfect time. I have a friend named [[Sophanes]] who wants to become an Athenian citizen, but he needs a bit of help. Your help.''\n*'''Kassandra:''' ''I can't wait to hear why it's my help he needs.''\n*'''Alkibiades:''' ''Any ''[[Mercenary|misthios]]'' would do, really, but you're my favorite. All you need to do is sign my friend's name on a little list.''\n\n(If \"Why can't Sophanes sign for himself?\" is chosen.)\n\n*'''Kassandra:''' ''There has to be a reason Sophanes can't sign the list himself.''\n*'''Alkibiades:''' ''Well, he would, but he isn't nearly as... able as you are.''\n*'''Kassandra:''' ''Meaning?''\n*'''Alkibiades:''' ''Meaning you have skills he doesn't possess. He'd fail if he tried on his own.''\n\n(If \"Why does Sophanes want to be a citizen?\" is chosen.)\n\n*'''Kassandra:''' ''Why Athens? Surely he is a citizen somewhere else already.''\n*'''Alkibiades:''' ''Everyone wants to be an Athenian citizen, even if they don't say so. Sophanes has a mind for politics, but can only participate as a citizen.''\n\n(If \"Why am I your favourite ''misthios''?\" is chosen.)\n\n*'''Kassandra:''' ''I didn't realize you had a list of mercenaries you favor... And I'm at the top?''\n*'''Alkibiades:''' ''Of course you are. Although, if you ask nicely, I would happily let you be on the bottom.''\n\n(If \"This sounds too easy.\" is chosen.)\n\n*'''Kassandra:''' ''This sounds simple. Now tell me why it isn't.''\n*'''Alkibiades:''' ''There's the small matter that you'll have to enter the [[Stoa of Zeus|Metroon]], where you're not allowed... And forge his name well enough, of course.''\n*'''Kassandra:''' ''So he's trying to become a citizen illegally. You should have led with that.''\n*'''Alkibiades:''' ''I'll try to remember that next time. The building you're looking for is near the [[Agora of Athens|agora]]. Be safe.''\n\nBefore leaving, Kassandra spoke to Alkibiades once more.\n\n*'''Alkibiades:''' ''Did you forget what you're supposed to do, or did you just miss me?''\n\nSeeing she would get no further information, Kassandra travelled to the agora and infiltrated the building. She found the book and forged Sophane's name on it.\n\n*'''Kassandra:''' ''There, his name's been signed. Time to get back to Alkibiades.''\n\nKassandra returned to Alkibiades.\n\n*'''Alkibiades:''' ''My favorite ''misthios'' returns.''\n<tabber>\n|-|If Kassanda killed any guards=\n*'''Kassandra:''' ''Sophanes's name is on the list, but it came at a price.''\n*'''Alkibiades:''' ''I see. Sometimes blood must be shed... You were the right ''misthios'' for the job.''\n|-|If Kassandra avoided killing any guards=\n*'''Kassandra:''' ''And with good news, too.''\n*'''Alkibiades:''' ''My favorite kind. You did it then?''\n*'''Kassandra:''' ''Of course I did. Sophanes's name is now on the citizen list.''\n*'''Alkibiades:''' ''Perfect! I knew you were the right ''misthios'' for the job.''\n</tabber>",
+    "Section_Outcome": "Kassandra fulfilled Alkibiades' request to forge Sophanes' name on the citizen list.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Examen de citoyennet\u00e9]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Sokrates",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found Alkibiades and [[Sokrates]] in the [[Garden of Hephaistos|garden]] outside the [[Temple of Hephaistos, Athens|Temple]] of [[Hephaistos]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Alkibiades:''' ''Talking in circles may work on others, Sokrates, but not on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Sokrates:''' ''I don't speak in circles, or any other shape. You answered one of my questions, and that brought another to mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Alkibiades:''' ''And another... And another...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra approached Alkibiades and Sokrates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|If Kassandra slept with Alkibiades=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Alkibiades:''' ''Kassandra! I knew you'd be back for more. I can't say it hasn't been on my mind... But, alas, we must save it for another time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|If Kassanda denied Alkibiades' advances=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Alikibiades:''' ''Kassandra! I knew you'd change your mind after turning me down. Unfortunately, love must wait a little longer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Whatever you say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Alkibiades:''' ''I hate to cut our conversation short, Sokrates, but I believe you've talked enough for the both of us. We must find another use for that mouth of yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Sokrates:''' ''Speak to him long enough, and you may find the smallest hint of knowledge veiled deep behind his... enthusiastic advances.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "17",
+            "content": "Sokrates left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Alkibiades:''' ''A compliment and an insult in the same sentence. He truly is gifted. You've arrived at the perfect time. I have a friend named [[Sophanes]] who wants to become an Athenian citizen, but he needs a bit of help. Your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I can't wait to hear why it's my help he needs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Alkibiades:''' ''Any ''[[Mercenary|misthios]]'' would do, really, but you're my favorite. All you need to do is sign my friend's name on a little list.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "23",
+            "content": "(If \"Why can't Sophanes sign for himself?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U5",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''There has to be a reason Sophanes can't sign the list himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Alkibiades:''' ''Well, he would, but he isn't nearly as... able as you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Meaning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Alkibiades:''' ''Meaning you have skills he doesn't possess. He'd fail if he tried on his own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "30",
+            "content": "(If \"Why does Sophanes want to be a citizen?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U7",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Why Athens? Surely he is a citizen somewhere else already.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Alkibiades:''' ''Everyone wants to be an Athenian citizen, even if they don't say so. Sophanes has a mind for politics, but can only participate as a citizen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "35",
+            "content": "(If \"Why am I your favourite ''misthios''?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U9",
+            "global_id": "36",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D18",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''I didn't realize you had a list of mercenaries you favor... And I'm at the top?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Alkibiades:''' ''Of course you are. Although, if you ask nicely, I would happily let you be on the bottom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C4",
+            "global_id": "40",
+            "content": "(If \"This sounds too easy.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U11",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D20",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''This sounds simple. Now tell me why it isn't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Alkibiades:''' ''There's the small matter that you'll have to enter the [[Stoa of Zeus|Metroon]], where you're not allowed... And forge his name well enough, of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''So he's trying to become a citizen illegally. You should have led with that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "45",
+            "content": "*'''Alkibiades:''' ''I'll try to remember that next time. The building you're looking for is near the [[Agora of Athens|agora]]. Be safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "47",
+            "content": "Before leaving, Kassandra spoke to Alkibiades once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U13",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D24",
+            "global_id": "49",
+            "content": "*'''Alkibiades:''' ''Did you forget what you're supposed to do, or did you just miss me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "51",
+            "content": "Seeing she would get no further information, Kassandra travelled to the agora and infiltrated the building. She found the book and forged Sophane's name on it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "52",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D25",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''There, his name's been signed. Time to get back to Alkibiades.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "54",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "55",
+            "content": "Kassandra returned to Alkibiades.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U17",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D26",
+            "global_id": "57",
+            "content": "*'''Alkibiades:''' ''My favorite ''misthios'' returns.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "58",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "59",
+            "content": "|-|If Kassanda killed any guards=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Sophanes's name is on the list, but it came at a price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "61",
+            "content": "*'''Alkibiades:''' ''I see. Sometimes blood must be shed... You were the right ''misthios'' for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "62",
+            "content": "|-|If Kassandra avoided killing any guards=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''And with good news, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "64",
+            "content": "*'''Alkibiades:''' ''My favorite kind. You did it then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Of course I did. Sophanes's name is now on the citizen list.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "66",
+            "content": "*'''Alkibiades:''' ''Perfect! I knew you were the right ''misthios'' for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "67",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

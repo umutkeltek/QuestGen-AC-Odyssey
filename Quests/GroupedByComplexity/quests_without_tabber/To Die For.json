@@ -1,0 +1,120 @@
+{
+    "Quest_Name": "To Die For",
+    "Quest_ID": "236417",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "To Die For",
+        "description": "'An Athens|Athenian spy planned to eliminate a Spartan Commander using the commander's sweet tooth against him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430-420s BCE"
+    },
+    "General_Description": "'''To Die For''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found a note left on the [[message board]], and decided to look into it.",
+    "Section_Dialogue": "She sought out the [[Athens|Athenian]] spy and addressed him.\n*'''Kassandra:''' ''I got your message on the board. What's going on?''\n*'''Man:''' ''The local [[Sparta]]n commander enjoys figs with [[honey]]. I'd like to send him some, but he can't know they're from me.''\n*'''Kassandra:''' ''Why are you sending him a snack?''\n*'''Man:''' ''Not a snack. His last meal.''\n*'''Kassandra:''' ''You want me to deliver it to the Spartan commander.''\n*'''Man:''' ''Exactly. It must arrive without a scratch.''\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''\n*'''Man:''' ''Thank you. Please be quick.''\n*'''Kassandra:''' ''I should get going.''\nKassandra sought out the commander and spoke to him.\n*'''Kassandra:''' ''Someone thought you might need this.''\n*'''Man:''' ''Thank you,''[[Mercenary|misthios]]''. Please, take this.''\nThe man took the supplies, and gave Kassandra her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "She sought out the [[Athens|Athenian]] spy and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I got your message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''The local [[Sparta]]n commander enjoys figs with [[honey]]. I'd like to send him some, but he can't know they're from me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Why are you sending him a snack?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Man:''' ''Not a snack. His last meal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You want me to deliver it to the Spartan commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Man:''' ''Exactly. It must arrive without a scratch.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(Accept - I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Man:''' ''Thank you. Please be quick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I should get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "Kassandra sought out the commander and spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Someone thought you might need this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Man:''' ''Thank you,''[[Mercenary|misthios]]''. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "15",
+            "content": "The man took the supplies, and gave Kassandra her reward.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

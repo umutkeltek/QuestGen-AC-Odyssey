@@ -1,0 +1,170 @@
+{
+    "Quest_Name": "Hades, Meet Podarkes",
+    "Quest_ID": "223874",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Hades, Meet Podarkes 2.png",
+        "description": "'Podarkes's days of cruelty were numbered. The time had come for Kassandra to slit his throat. And much like the Adrestia (deity)|goddess her Adrestia|ship was named after, there were none who could escape her wrath.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Bleeding Hearts and Stolen Money<br>Call to Arms (Mykonos)|Call to Arms",
+        "next": "A Night to Remember (Odyssey)|A Night to Remember",
+        "source": "Kassandra",
+        "location": "Mykonos City, Mykonos, Greece",
+        "date": "426 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Hades, Meet Podarkes''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to eliminate [[Podarkes]] and end his tyrannical rule of the [[Silver Islands]].",
+    "Section_Dialogue": "Kassandra tracked down Podarkes with the help of [[Ikaros]].\n*'''Kassandra:''' ''I'm coming for you, Podarkes.''\nKassandra made her way to Podarkes and struck at him. He struggled against her.\n*'''Podarkes:''' ''Guards! Kill her!''\nThe guards were no match for her.\n*'''Podarkes:''' ''You will die for standing against us, ''child!\nPodarkes fought well, but Kassandra eventually inflicted significant wounds on him.\n*'''Podarkes:''' ''You've been a thorn in my side since you landed.''\n*'''Kassandra:''' ''Soon I'm going to be a blade in your throat.''\n*'''Podarkes:''' ''Even if you kill me, you will lose, Eagle Bearer. We are everywhere. There isn't a rock you can hide under where we won't find you.''\n*'''Kassandra:''' ''You are the snakes who hide! I'm going to bury you so deep only [[Hades]] will find you.''\nAfter a struggle, Kassandra disabled Podarkes.\n*'''Kassandra:''' ''That was for my family, ''mal\u00e1ka.\nShe readied to deliver the final blow before hearing his last words.\n<tabber>\n|-|If \"M\" for Murder was not completed=\n*'''Podarkes:''' ''What I did, I did for the glory of Delos.''\n*'''Kassandra:''' ''You acted alone, and you will die alone.''\n|-|If '\"M\" for Murder' was completed=\n*'''Podarkes:''' ''Tell my [[Kyra|daughter]]... She should have killed me herself.''\n*'''Kassandra:''' ''She's not your daughter anymore.''\n</tabber>\nKassandra delivered the final blow and ended the cruel tyrant's life.",
+    "Section_Outcome": "Kassandra eliminated Podarkes, ending his rule over the islands.",
+    "Section_Behind_the_scenes": "*Completing [[Call to Arms (Mykonos)|Call to Arms]] will force Podarkes out of the Leader House and into the [[Tavern, Mykonos|Tavern]] for a much easier kill. He'll have only one retainer and will likely aggro the [[Sparta]]n guard outside as soon as he is loaded into the player's vicinity.\n*Killing Podarkes will still deduct -200 Nation Power, even after the bar is refilled upon Sparta taking control, as he is still flagged as a Nation Leader.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Mykonos",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra tracked down Podarkes with the help of [[Ikaros]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I'm coming for you, Podarkes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra made her way to Podarkes and struck at him. He struggled against her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Podarkes:''' ''Guards! Kill her!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "The guards were no match for her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Podarkes:''' ''You will die for standing against us, ''child!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Podarkes fought well, but Kassandra eventually inflicted significant wounds on him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Podarkes:''' ''You've been a thorn in my side since you landed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Soon I'm going to be a blade in your throat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Podarkes:''' ''Even if you kill me, you will lose, Eagle Bearer. We are everywhere. There isn't a rock you can hide under where we won't find you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''You are the snakes who hide! I'm going to bury you so deep only [[Hades]] will find you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "12",
+            "content": "After a struggle, Kassandra disabled Podarkes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''That was for my family, ''mal\u00e1ka.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "14",
+            "content": "She readied to deliver the final blow before hearing his last words.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "15",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "16",
+            "content": "|-|If \"M\" for Murder was not completed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Podarkes:''' ''What I did, I did for the glory of Delos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''You acted alone, and you will die alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "19",
+            "content": "|-|If '\"M\" for Murder' was completed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Podarkes:''' ''Tell my [[Kyra|daughter]]... She should have killed me herself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''She's not your daughter anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "22",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N7",
+            "global_id": "23",
+            "content": "Kassandra delivered the final blow and ended the cruel tyrant's life.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

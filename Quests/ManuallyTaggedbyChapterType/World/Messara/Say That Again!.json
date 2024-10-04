@@ -1,0 +1,35 @@
+{
+    "QuestName": "Say That Again!",
+    "QuestID": "224107",
+    "Revision": {
+        "id": "1019813",
+        "parentid": "927150",
+        "timestamp": "2023-01-08T07:20:53Z",
+        "contributor": null,
+        "origin": "1019813",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "tl4g3zf53l03r2bmlq7qh2dn17xpo62"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Say That Again!.png",
+        "description": "'Craving peace and quiet, Kassandra left the loud Daktyls blacksmith|Blacksmith and his apprentice in Kydonia to find the obsidian glass he asked for.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Civil Unrest",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Daktyls Depleted Mine, Messara, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Say That Again!''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra's attention was drawn by an argument between a [[blacksmith]] and his apprentice in [[Messara]].",
+    "Section_Dialogue": "While in the [[Daktyls Depleted Mine]], Kassandra came across the [[Daktyls blacksmith]] and his apprentice.\n*'''Blacksmith:''' ''I told you to be careful with it.''\n*'''Civilian:''' ''You were the one not paying attention...''\n*'''Blacksmith:''' ''What did you say?''\n*'''Civilian:''' ''Nothing. You're absolutely perfect, boss.''\nKassandra approached them.\n*'''Kassandra:''' ''Something happen to your shipment?''\n*'''Blacksmith:''' ''Huh?''\nKassandra repeated herself louder.\n*'''Kassandra:''' ''Did something happen to your shipment?''\n*'''Blacksmith:''' ''Yes, idiots happened. They dropped it and shattered my [[obsidian glass]].''\n*'''Civilian:''' ''You were carrying it too.''\n*'''Blacksmith:''' ''Did you say something, whelp?''\n*'''Civilian:''' ''I said \"curse those clumsy fools!\"''\n*'''Blacksmith:''' ''Exactly. Now I need more obsidian. If you can bring me some, ''[[Mercenary|misthios]]'', my [[Sword of Avaris|finest blade]] shall be yours. Do we have a deal?''\n<tabber>\n|-|Accept \u2013 \"I'll do it.\"=\n*'''Kassandra:''' ''I'll get you your\u2014''\n*'''Blacksmith:''' ''What? Is that a yes? Did she say\u2014''\n*'''Civilian:''' ''She sure did, boss! Idiot.''\n*'''Blacksmith:''' ''Wonderful. My apprentice here will tell you where to find the obsidian.''\n*'''Civilian:''' ''Thanks for doing this, 'else he wouldn't have shut up. There are stashes of the stuff in the [[Temple of Britomartis|Temple]] of [[Britomartis]] and the [[Sunken Ruins]]. If you have any questions, point them at me. I've had enough of his booming voice for one day.''\n(If \"Where are the ruins?\" is chosen.)\n*'''Kassandra:''' ''These ruins you mentioned, where are they?''\n*'''Civilian:''' ''The Sunken Ruins are on the west coast of Messara. Fair warning, though\u2014they're infested with [[Great white shark|sharks]].''\n{{#tag:tabber|\nIf Kassandra had not looted the ruins=\n*'''Kassandra:''' ''Good to know.''\n{{!}}-{{!}}\nIf Kassandra had already looted the ruins=\n*'''Kassandra:''' ''I've already been there. There wasn't much obsidian.''\n*'''Civilian:''' ''Oh. That's not good. But at least you got whatever was there.''\n}}\n(If \"Where is the temple?\" is chosen.)\n*'''Kassandra:''' ''Tell me where to find it.''\n*'''Civilian:''' ''The Temple of Britomartis is northwest of [[Kydonia]]. But there are [[Soldier|guards]] roaming about\u2014be careful.''\n:(If Kassandra had already looted the temple)\n:*'''Kassandra:''' ''That temple has been ransacked \u2013 the obsidian is gone.''\n:*'''Civilian:''' ''I take it you saw that personally.''\n(If \"What's with the shouting?\" is chosen.)\n*'''Kassandra:''' ''What's wrong with him?''\n*'''Civilian:''' ''Where would you like me to begin? He's spent all his life in front of the forge. He can barely hear a thing. Watch. You smell gross today, you old toad.''\n*'''Blacksmith:''' ''That's very sweet of you to say\u2014You too smell like a rose.''\n*'''Civilian:''' ''The trick is to just smile when you say anything. You should try it.''\n(If \"Can I try?\" is chosen.)\n{{#tag:tabber|\nIntro 1=\n*'''Kassandra:''' ''I like what you've done with the place.''\n*'''Blacksmith:''' ''What? What did you say about my face?''\n*'''Civilian:''' ''No, no! She said she likes the place.''\n*'''Blacksmith:''' ''Oh! I see. Thank you.''\n*'''Civilian:''' ''You're not very good at this.''\n{{!}}-{{!}}\nIntro 2=\n*'''Kassandra:''' ''You're looking really good today.''\n*'''Blacksmith:''' ''\"Put the wood in the hay?\" I'm a blacksmith, silly ''misthios''. I deal with [[iron]], not [[wood]].''\nKassandra and the apprentice laughed.\n{{!}}-{{!}}\nIntro 3=\n*'''Kassandra:''' ''You don't like taking showers, do you?''\n*'''Blacksmith:''' ''No, I am not particularly fond of flowers. They make me sneeze.''\nKassandra and the apprentice laughed.\n}}\n(Leave \u2013 I've got enough information.\")\n*'''Kasssandra:''' ''I've got all I neeed. I'll be back with the obsidian glass.''\n*'''Civilian:''' ''She's going to get your stuff now.''\n*'''Blacksmith:''' ''Wonderful. Return quickly, ''misthios''.''\n*'''Civilian:''' ''Please hurry, my ears can't take any more of his complaining.''\nKassandra left the settlement and headed for the Sunken Ruins. \n*'''Kasssandra:''' ''The obsidian glass must be here for a reason. Better be on my guard.''\nLike the apprentice had warned, sharks swam around in the ruins, and attacked Kassandra, but she bested them and found the obsidian glass within a sunken [[Treasure chest|chest]]. She then headed to the Temple of Britomartis. The place had been taken over by soldiers, but she made her way in, and discovered a chest.\n*'''Kasssandra:''' ''This must be where they keep the obsidian glass.''\nAfter obtaining enough obsidian glass, Kassandra returned to the blacksmith and his apprentice.\n*'''Kassandra:''' ''Here's your obsidian glass.''\n*'''Civilian:''' ''Excellently done, ''misthios''. She got the stuff.''\n*'''Blacksmith:''' ''Well done, ''misthios''. Take my blade. May it serve you well.''\n*'''Civilian:''' ''Now he'll finally shut up for a bit!''\n*'''Blacksmith:''' ''I heard that.''\n|-|I have some Obsidian glass.=\n*'''Kassandra:''' ''This should be enough.''\n*'''Civilian:''' ''You are well-stocked. You a [[merchant]] or a ''misthios'', eh?''\n*'''Blacksmith:''' ''Excellent! This will do fine. Here you go, ''misthios''. As promised.''\n|-|I don't have time for this=\n{{stub}}\n</tabber>",
+    "Section_Outcome": "Kassandra helped the blacksmith to recover some obsidian glass, obtaining a epic [[sword]] as a reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Tu peux r\u00e9p\u00e9ter ?]]"
+}

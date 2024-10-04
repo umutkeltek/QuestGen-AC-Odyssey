@@ -1,0 +1,40 @@
+{
+    "QuestName": "Not Just Decoration",
+    "QuestID": "223643",
+    "Revision": {
+        "id": "1047551",
+        "parentid": "844996",
+        "timestamp": "2023-06-13T19:31:04Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047551",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "hsv49zkr6nywkn5ek19ly6o4mfhd0kn"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Not Just Decoration",
+        "image": null,
+        "description": "'A spy who claimed her jewelry was inscribed with secret codes had her earrings stolen by bandits.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Not Just Decoration''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A spy for [[Athens]] sought the aid of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "*'''Kassandra:''' ''I picked up your message on the [[Message board|board]]. What's happening?''\n*'''Woman:''' ''Bandits have stolen my earrings, ''misthios!\n*'''Kassandra:''' ''Just your earrings? Count yourself lucky they didn't kill you.''\n*'''Woman:''' ''This isn't an ordinary pair of earrings.''\n*'''Kassandra:''' ''What makes them so special? Were they a gift from a lover?''\n*'''Woman:''' ''No. The set was inscribed with an important message for the Athenian commander. It's easy to use jewelry to send secret messages. The men never bother to look.''\n*'''Kassandra:''' ''So you want me to take it from the bandits.''\n*'''Woman:''' ''By [[Zeus]], you'd do that for me?''\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Woman:''' ''Perfect. Time is of the essence.''\n*'''Kassandra:''' Chaire.\nKassandra sought out the camp of the bandits, and infiltrated it, retrieving the jewelry before returning to the woman.\n*'''Woman:''' ''Tell me it's been handled,'' misthios.\n*'''Kassandra:''' ''It's all yours.''\n*'''Woman:''' ''Job well done, mercenary. Here, this is yours.''\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

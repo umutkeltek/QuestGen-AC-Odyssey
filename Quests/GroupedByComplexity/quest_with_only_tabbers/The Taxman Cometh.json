@@ -1,0 +1,834 @@
+{
+    "Quest_Name": "The Taxman Cometh",
+    "Quest_ID": "223518",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_c": {
+            "description": "dependent"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD-TheTaxmanCometh-02.jpg",
+        "description": "'A farmer in Euboea learned the hard way that when you dance with The Dagger, you get cut.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character/Support {{c|Agapios}}",
+        "previous": "Freedom Isn't Free<br>{{c|dependent}}",
+        "next": "Sharp Tongue",
+        "source": "Kassandra",
+        "location": "Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE",
+        "concurrent": "Dagger to the Heart<br>Wasn't Born the Kingfisher<br>Blood and Water"
+    },
+    "General_Description": "'''The Taxman Cometh''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra, following [[Agapios]]' advice, sought out a farmer who had information about [[The Dagger]].",
+    "Section_Dialogue": "[[File:ACOD-TheTaxmanCometh-01.jpg|thumb|250px|Kassandra meeting Rhoeo]]\nKassandra traveled to the [[Chalkis Farm]] mentioned by Agapios.\n*'''Kassandra:''' ''This must be the farm Agapios mentioned. Now to find the farmer and see what he knows about [[The Dagger]].''\nShe entered the farm, climbing up to the topmost floor. A woman was reclining on the pillows, and noticed her.\n*'''[[Rhoeo]]:''' Misthios''! Up here. Please don't make me shout!''\nKassandra knelt down beside her.\n\n<tabber>\n|-|Agapios' storyline=\n*'''Kassandra:''' ''I need to speak with your husband.''\n*'''Rhoeo:''' ''Oh forget him, ''I'' need your services.''\n*'''Kassandra:''' ''Is that right?''\n*'''Rhoeo:''' ''Would you fetch me a drink? The [[Slavery|slaves]] are all busy, and I'm quite parched.''\n*'''Kassandra:''' ''I\u2014No! The [[wine]]'s right next to you! Tell me where I can find your husband.''\n*'''Rhoeo:''' ''Somewhere on the eastern road. I think? Delivering [[wheat]] and [[grape]]s. Come to think of it, I haven't seen him in days. A lot of days. Weeks? Oh... oh no, I think he might be in trouble!''\n|-|Separate memory=\n*'''Rhoeo:''' ''Thank the gods, you heard me!''\n*'''Kassandra:''' ''Sounds serious. How can I help?''\n*'''Rhoeo:''' ''I'm thirsty. Usually my husband fills me up, but I haven't seen him in a while, so if you could just reach over there and grab me the wine\u2014''\n*'''Kassandra:''' ''I'm a ''misthios'', I don't fetch wine. Wait, your husband's missing?''\n*'''Rhoeo:''' ''Oh\u2014well, yes, I suppose he is.''\n</tabber>\n<tabber>\n|-|You're drunk.=\n*'''Kassandra:''' ''You must be drinking a lot if you didn't notice your husband was missing.''\n*'''Rhoeo:''' ''Yeah. Between you and me, it's hard to notice anything after enough wine.''\n|-|Husbands are hard to keep track of.=\n*'''Kassandra:''' ''I hear husbands can be hard to keep track of. They're always getting lost.''\n*'''Rhoeo:''' ''I've been through three already. I don't want to lose this one, too.''\n</tabber>\n*'''Kassandra:''' ''Your husband must have enemies or something. Someone who might want to make him go missing?''\n*'''Rhoeo:''' ''The Dagger. If you're wealthy, they're your enemy. A local captain and his ''mal\u00e1kes'' Dagger friends visit as often as they please, demanding made up taxes and beating my husband if he doesn't pay. Will you find him? Will you find my husband?''\n(Accept \u2013 \"I'll find your husband.\")\n* '''Kassandra:''' ''Don't worry, I'll find him.''\n* '''Rhoeo:''' ''Thank you. Is... is there anything else I can tell you?''\n(If \"Where might your husband be?\" is chosen.)\n*'''Kassandra:''' ''Any idea where I should look for your husband?''\n*'''Rhoeo:''' ''He's been trying to find ways to get his shipments past The Dagger's forces on the road east of here. Any time his carts ride by, the troops on patrol take a cut. More of their godsless ''mal\u00e1kes'' taxes. My husband usually waits on the road directly south of the cave until it's clear.''\n<tabber>\n|-|Agapios' storyline=\n(If \"What do you know about The Dagger?\" is chosen.)\n*'''Kassandra:''' ''I want you to tell me everything you know about The Dagger.''\n*'''Rhoeo:''' ''[[Short blade|Daggers]]? They're like cute lil' baby [[sword]]s.''\n*'''Kassandra:''' ''What? No. ''The'' Dagger. The Dagger ''you'' just mentioned!''\n*'''Rhoeo:''' ''Oh! Right!''\n|-|Separate memory=\n(If \"What's 'The Dagger'?\" is chosen.)\n*'''Kassandra:''' ''You mentioned something called \"The Dagger?\"''\n*'''Rhoeo:''' ''I thought a ''misthios'' would know? They're tiny blades that look like baby swords.''\n*'''Kassandra:''' ''...You said \"The Dagger,\" like they were a group, or\u2014''\n*'''Rhoeo:''' ''Oh! Oh, oh, oh, right. ''The'' Dagger!''\n</tabber> \n*'''Rhoeo:''' ''They're just men, ''misthios''. Greedy. Delusions of grandeur. Bleeding dry the [[drachma]]e of poor innocent slave masters, like me.''\n(Leave \u2013 \"I have enough information.\") \n*'''Kassandra:''' ''I've heard enough. I'll head east and find your husband.''\n*'''Rhoeo:''' ''Thank you,'' misthios.\nBefore leaving, Kassandra spoke to Rhoeo once more.\n*'''Rhoeo:''' ''I don't see my husband. Is he not with you? Is he not coming home? Did you find him with some filthy ''[[Courtesan|hetaera]]''?!''\n*'''Kassandra:''' ''No, no, I haven't found him yet.''\nKassandra left the farm and headed to the road.\n* '''Kassandra:''' ''If I follow the road east, I should be able to follow the husband's tracks.''\nReaching a crossroad at the base of [[Mount Dirfi]], she saw a broken box and blood-spattered wheat strewn about.\n[[File:ACOD-TheTaxmanCometh-03.jpg|thumb|250px|The broken box and bloody wheat]]\n*'''Kassandra:''' ''This wheat might've fallen off one of the husband's carts. Maybe he's nearby...''\nKassandra took the left path and ascended the mountain to [[Katarraktes Cave]], where she saw two [[civilian]]s digging in the dirt at the cave's mouth.\n* '''Civilian:''' ''I told you! There's tons of drachmae to be made digging caves!''\nThe civilian addressed Kassandra. \n*'''Civilian:''' ''If you're looking for the farmer, you just missed him. Check the road headed east.''\nKassandra descended the mountain and, seeing a dead body and butchered [[horse]] on the road, inspected them.\n[[File:ACOD-TheTaxmanCometh-07.jpg||thumb|250px|Bloody debris from the cart crash]]\n*'''Kassandra:''' ''A dead slave. Looks like he fell off something at speed. The husband's cart, maybe?''\nShe eyed the blood trail and torn grass leading off road and spotted the broken cart some ways down a hill, its contents pillaged and blood-soaked, and the horse team slaughtered.\n*'''Kassandra:''' ''The husband's carts. Looks like he tried to escape an armed patrol. Didn't end well.''\nAmong the rubble was a badly injured man. Kassandra knelt beside him.\n*'''Kassandra:''' ''What happened here?''\n*'''Slave:''' ''[[Soldier|Guards]]... ''Mal\u00e1kes'' corrupt guards... They wanted \"taxes.\" They always want \"taxes\"... Took my master up to the [[Dystos Fort]]... He should've paid their stupid taxes... He\u2014he should've paid...''\nThe man succumbed to his wounds. Kassandra stood to spy the [[fort]] on the distant mountain. \n*'''Kassandra:''' ''I better head to the fort.'' \nKassandra approached the fort.\n*'''Kassandra:''' ''Dystos Fort... It's big. The husband could be anywhere in there.''\nShe surveyed it with the help of [[Ikaros]], finding the farmer in a cage.\n* '''Kassandra:''' ''That must be the farmer. He's locked up.'' \nKassandra infiltrated the fort. Nearing the cages, she overheard the fort's ''[[strategos]]'' and the farmer conversing.\n[[File:ACOD-TheTaxmanCometh-11.jpg||thumb|250px|Kassandra infiltrating Dystos Fort]]\n*'''[[Athens|Athenian]] Strategos:''' ''See, friend? If you don't pay your taxes, you end up a slave.''\n*'''Farmer:''' ''I paid them! Again and again, I've paid every tax you ever invented! Please, I haven't got anything left...''\n*'''Athenian Strategos:''' ''I've seen your farm, friend. Don't tell me you're broke.''\n*'''Farmer:''' ''I am! I swear! You've taken everything!''\n*'''Athenian Strategos:''' ''Tell us where you keep your drachmae!''\n*'''Farmer:''' ''I shouldn't even be in here. I'm not a slave!''\nKassandra freed the farmer.\n*'''Farmer:''' ''I'm not sure who you are, but I'm grateful.''\n*'''Kassandra:''' ''No matter what happens, keep going. I won't let you die.''\n[[File:ACOD-TheTaxmanCometh-15.jpg||thumb|250px|The farmer talking to Kassandra]]\n*'''Farmer:''' ''Follow me. I know a secret way out. It feels like every two weeks they're locking me up in here.''\nThe farmer led the way out through a cave. After they had reached safety, Kassandra and the farmer spoke again.\n*'''Farmer:''' ''You saved me!''\n*'''Kassandra:''' ''Surprised?'' \n*'''Farmer:''' ''It's just... you look more like a hired killer than a hero.''\n<tabber>\n|-|Agapios' storyline=\n*'''Kassandra:''' ''A man named Agapios believes you may be able to identify the Kingfisher. If I find out who he is, I can stop The Dagger.''\n*'''Farmer:''' ''Ah, so it's [[Euboea]] you're here to save. Still, thank you.''\n|-|Separate memory=\n*'''Kassandra:''' ''Your wife hired me to check on you. She was worried.''\n*'''Farmer:''' ''About ''me''?''\n*'''Kassandra:''' ''Well, she'd had some wine.''\n*'''Farmer:''' ''So you have met her. Is there anything I can help you with?''\n</tabber>\n(If \"What else do you know about The Dagger?\" is chosen.)\n*'''Kassandra:''' ''I need to know everything I can about The Dagger.''\n*'''Farmer:''' ''They have such ambition. A ''legendary'' greed. They appear to be [[Piracy|pirates]], yet they're organized, funded, well connected... There may be more than just the Kingfisher pulling their strings.''\n*'''Kassandra:''' ''Don't worry, taking on [[Cult of Kosmos|shadowy organizations]] is my specialty.''\n<tabber>\n|-|Agapios' storyline=\n(If \"Tell me what you know about the Kingfisher.\" is chosen.)\n*'''Kassandra:''' ''Whatever you know about the Kingfisher, I also need to know.''\n*'''Farmer:''' ''He'd visit me, the Kingfisher and his ''mal\u00e1kas'' flock, demanding their taxes. I kept him fed, I kept him rich. If I tell you his name... I'm a dead man.''\n*'''Kassandra:''' ''Say it.''\n*'''Farmer:''' ''I can't. What he'll do to me... What he'll do to my wife...''\n*'''Kassandra:''' ''Give me his name!''\n*'''Farmer:''' ''[[Neritos]]! His name is Neritos. Just make sure you stop him.''\n*'''Kassandra:''' ''...Agapios's brother. It ''is'' him.''\n|-|Separate memory=\n(If \"Tell me about your wife.\" is chosen.)\n*'''Kassandra:''' ''Your wife seems... nice.''\n*'''Farmer:''' ''She does have her tastes. Expensive ones. The Dagger keep taking and taking... I don't know what she'll do if I ever run out. I know she loves me, I just... I'd rather not find out how ''much'' she loves me. Still, you've earned a reward. I keep... an \"emergency\" stash of drachmae in a cave behind a waterfall not far from here. It's directly north of where my cart crashed. Take what you think you've earned, just... leave enough for me and my wife.''\n</tabber>\nThe farmer left to return home.\n[[File:ACOD-TheTaxmanCometh-16.jpg||thumb|250px|The farmer's secret stash]]\n*'''Farmer:''' ''Thanks for saving me. Stop by my farm anytime for some free [[olive]] oil.'' \n*'''Kassandra:''' ''Better collect my drachmae from the husband's stash in the Katarraktes Cave.'' \nKassandra returned to the cave and collected a suitable reward from the husband's secret stash.",
+    "Section_Outcome": "Kassandra found and rescued the farmer to learn what he knew about the Dagger. She also was either told of the Kingfisher's real identity or pointed towards the farmer's treasure stash as a reward for saving him.",
+    "Section_Behind_the_scenes": "This memory is part of Agapios\u2019 quests, though it can be completed without meeting him in \"[[Death and Taxes]]\". If this quest is done before agreeing to help Agapios identify The Dagger's leader, the end dialogue will instead direct players to the farmer's treasure and \"[[Wasn't Born the Kingfisher]]\" will become available as a support quest for Agapios. The farmer's stash has no effect on the other treasures in the cave, nor does it affect the player's ability to clear the location. If players began \"[[Freedom Isn't Free]]\" first, this memory is a support quest and the farmer confirms Agapios' fears that the Kingfisher is his brother Neritos. Strangely, regardless which way players approach this memory, the ''strategos'' interrogating the farmer is identified as \"Athenian\" in the subtitles even if the Abantis Islands are occupied by [[Sparta]].",
+    "Section_References": "{{GalleryBox|The Taxman Cometh}}\n* ''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Le collecteur d'imp\u00f4t s'en vient]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Agapios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "I1",
+            "global_id": "1",
+            "content": "[[File:ACOD-TheTaxmanCometh-01.jpg|thumb|250px|Kassandra meeting Rhoeo]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Kassandra traveled to the [[Chalkis Farm]] mentioned by Agapios.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''This must be the farm Agapios mentioned. Now to find the farmer and see what he knows about [[The Dagger]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "She entered the farm, climbing up to the topmost floor. A woman was reclining on the pillows, and noticed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''[[Rhoeo]]:''' Misthios''! Up here. Please don't make me shout!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra knelt down beside her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Agapios' storyline=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I need to speak with your husband.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Rhoeo:''' ''Oh forget him, ''I'' need your services.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Is that right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Rhoeo:''' ''Would you fetch me a drink? The [[Slavery|slaves]] are all busy, and I'm quite parched.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I\u2014No! The [[wine]]'s right next to you! Tell me where I can find your husband.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Rhoeo:''' ''Somewhere on the eastern road. I think? Delivering [[wheat]] and [[grape]]s. Come to think of it, I haven't seen him in days. A lot of days. Weeks? Oh... oh no, I think he might be in trouble!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|Separate memory=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Rhoeo:''' ''Thank the gods, you heard me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Sounds serious. How can I help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Rhoeo:''' ''I'm thirsty. Usually my husband fills me up, but I haven't seen him in a while, so if you could just reach over there and grab me the wine\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'm a ''misthios'', I don't fetch wine. Wait, your husband's missing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Rhoeo:''' ''Oh\u2014well, yes, I suppose he is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "22",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "23",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "24",
+            "content": "|-|You're drunk.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''You must be drinking a lot if you didn't notice your husband was missing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Rhoeo:''' ''Yeah. Between you and me, it's hard to notice anything after enough wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|Husbands are hard to keep track of.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I hear husbands can be hard to keep track of. They're always getting lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Rhoeo:''' ''I've been through three already. I don't want to lose this one, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Your husband must have enemies or something. Someone who might want to make him go missing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Rhoeo:''' ''The Dagger. If you're wealthy, they're your enemy. A local captain and his ''mal\u00e1kes'' Dagger friends visit as often as they please, demanding made up taxes and beating my husband if he doesn't pay. Will you find him? Will you find my husband?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "33",
+            "content": "(Accept \u2013 \"I'll find your husband.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "* '''Kassandra:''' ''Don't worry, I'll find him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "* '''Rhoeo:''' ''Thank you. Is... is there anything else I can tell you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "36",
+            "content": "(If \"Where might your husband be?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Any idea where I should look for your husband?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Rhoeo:''' ''He's been trying to find ways to get his shipments past The Dagger's forces on the road east of here. Any time his carts ride by, the troops on patrol take a cut. More of their godsless ''mal\u00e1kes'' taxes. My husband usually waits on the road directly south of the cave until it's clear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "40",
+            "content": "|-|Agapios' storyline=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "C2",
+            "global_id": "41",
+            "content": "(If \"What do you know about The Dagger?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''I want you to tell me everything you know about The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Rhoeo:''' ''[[Short blade|Daggers]]? They're like cute lil' baby [[sword]]s.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''What? No. ''The'' Dagger. The Dagger ''you'' just mentioned!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Rhoeo:''' ''Oh! Right!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "46",
+            "content": "|-|Separate memory=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "C3",
+            "global_id": "47",
+            "content": "(If \"What's 'The Dagger'?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''You mentioned something called \"The Dagger?\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "49",
+            "content": "*'''Rhoeo:''' ''I thought a ''misthios'' would know? They're tiny blades that look like baby swords.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''...You said \"The Dagger,\" like they were a group, or\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "51",
+            "content": "*'''Rhoeo:''' ''Oh! Oh, oh, oh, right. ''The'' Dagger!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "52",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Rhoeo:''' ''They're just men, ''misthios''. Greedy. Delusions of grandeur. Bleeding dry the [[drachma]]e of poor innocent slave masters, like me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "54",
+            "content": "(Leave \u2013 \"I have enough information.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I've heard enough. I'll head east and find your husband.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "56",
+            "content": "*'''Rhoeo:''' ''Thank you,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "57",
+            "content": "Before leaving, Kassandra spoke to Rhoeo once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "58",
+            "content": "*'''Rhoeo:''' ''I don't see my husband. Is he not with you? Is he not coming home? Did you find him with some filthy ''[[Courtesan|hetaera]]''?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''No, no, I haven't found him yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "60",
+            "content": "Kassandra left the farm and headed to the road.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "61",
+            "content": "* '''Kassandra:''' ''If I follow the road east, I should be able to follow the husband's tracks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "62",
+            "content": "Reaching a crossroad at the base of [[Mount Dirfi]], she saw a broken box and blood-spattered wheat strewn about.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "63",
+            "content": "[[File:ACOD-TheTaxmanCometh-03.jpg|thumb|250px|The broken box and bloody wheat]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D38",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''This wheat might've fallen off one of the husband's carts. Maybe he's nearby...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "65",
+            "content": "Kassandra took the left path and ascended the mountain to [[Katarraktes Cave]], where she saw two [[civilian]]s digging in the dirt at the cave's mouth.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "* '''Civilian:''' ''I told you! There's tons of drachmae to be made digging caves!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "67",
+            "content": "The civilian addressed Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "68",
+            "content": "*'''Civilian:''' ''If you're looking for the farmer, you just missed him. Check the road headed east.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "69",
+            "content": "Kassandra descended the mountain and, seeing a dead body and butchered [[horse]] on the road, inspected them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "70",
+            "content": "[[File:ACOD-TheTaxmanCometh-07.jpg||thumb|250px|Bloody debris from the cart crash]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D41",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''A dead slave. Looks like he fell off something at speed. The husband's cart, maybe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "72",
+            "content": "She eyed the blood trail and torn grass leading off road and spotted the broken cart some ways down a hill, its contents pillaged and blood-soaked, and the horse team slaughtered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''The husband's carts. Looks like he tried to escape an armed patrol. Didn't end well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "74",
+            "content": "Among the rubble was a badly injured man. Kassandra knelt beside him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''What happened here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "76",
+            "content": "*'''Slave:''' ''[[Soldier|Guards]]... ''Mal\u00e1kes'' corrupt guards... They wanted \"taxes.\" They always want \"taxes\"... Took my master up to the [[Dystos Fort]]... He should've paid their stupid taxes... He\u2014he should've paid...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "77",
+            "content": "The man succumbed to his wounds. Kassandra stood to spy the [[fort]] on the distant mountain.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''I better head to the fort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "79",
+            "content": "Kassandra approached the fort.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Dystos Fort... It's big. The husband could be anywhere in there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "81",
+            "content": "She surveyed it with the help of [[Ikaros]], finding the farmer in a cage.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "82",
+            "content": "* '''Kassandra:''' ''That must be the farmer. He's locked up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "83",
+            "content": "Kassandra infiltrated the fort. Nearing the cages, she overheard the fort's ''[[strategos]]'' and the farmer conversing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I4",
+            "global_id": "84",
+            "content": "[[File:ACOD-TheTaxmanCometh-11.jpg||thumb|250px|Kassandra infiltrating Dystos Fort]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D48",
+            "global_id": "85",
+            "content": "*'''[[Athens|Athenian]] Strategos:''' ''See, friend? If you don't pay your taxes, you end up a slave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "86",
+            "content": "*'''Farmer:''' ''I paid them! Again and again, I've paid every tax you ever invented! Please, I haven't got anything left...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "87",
+            "content": "*'''Athenian Strategos:''' ''I've seen your farm, friend. Don't tell me you're broke.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "88",
+            "content": "*'''Farmer:''' ''I am! I swear! You've taken everything!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "89",
+            "content": "*'''Athenian Strategos:''' ''Tell us where you keep your drachmae!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "90",
+            "content": "*'''Farmer:''' ''I shouldn't even be in here. I'm not a slave!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "91",
+            "content": "Kassandra freed the farmer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "92",
+            "content": "*'''Farmer:''' ''I'm not sure who you are, but I'm grateful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''No matter what happens, keep going. I won't let you die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "94",
+            "content": "[[File:ACOD-TheTaxmanCometh-15.jpg||thumb|250px|The farmer talking to Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D56",
+            "global_id": "95",
+            "content": "*'''Farmer:''' ''Follow me. I know a secret way out. It feels like every two weeks they're locking me up in here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "96",
+            "content": "The farmer led the way out through a cave. After they had reached safety, Kassandra and the farmer spoke again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "97",
+            "content": "*'''Farmer:''' ''You saved me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''Surprised?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "99",
+            "content": "*'''Farmer:''' ''It's just... you look more like a hired killer than a hero.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "100",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "101",
+            "content": "|-|Agapios' storyline=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''A man named Agapios believes you may be able to identify the Kingfisher. If I find out who he is, I can stop The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "103",
+            "content": "*'''Farmer:''' ''Ah, so it's [[Euboea]] you're here to save. Still, thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "104",
+            "content": "|-|Separate memory=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''Your wife hired me to check on you. She was worried.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "106",
+            "content": "*'''Farmer:''' ''About ''me''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''Well, she'd had some wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "108",
+            "content": "*'''Farmer:''' ''So you have met her. Is there anything I can help you with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "109",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C4",
+            "global_id": "110",
+            "content": "(If \"What else do you know about The Dagger?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D66",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''I need to know everything I can about The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "112",
+            "content": "*'''Farmer:''' ''They have such ambition. A ''legendary'' greed. They appear to be [[Piracy|pirates]], yet they're organized, funded, well connected... There may be more than just the Kingfisher pulling their strings.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Don't worry, taking on [[Cult of Kosmos|shadowy organizations]] is my specialty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "114",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "115",
+            "content": "|-|Agapios' storyline=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "C5",
+            "global_id": "116",
+            "content": "(If \"Tell me what you know about the Kingfisher.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D69",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''Whatever you know about the Kingfisher, I also need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "118",
+            "content": "*'''Farmer:''' ''He'd visit me, the Kingfisher and his ''mal\u00e1kas'' flock, demanding their taxes. I kept him fed, I kept him rich. If I tell you his name... I'm a dead man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''Say it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "120",
+            "content": "*'''Farmer:''' ''I can't. What he'll do to me... What he'll do to my wife...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''Give me his name!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "122",
+            "content": "*'''Farmer:''' ''[[Neritos]]! His name is Neritos. Just make sure you stop him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''...Agapios's brother. It ''is'' him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "124",
+            "content": "|-|Separate memory=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "C6",
+            "global_id": "125",
+            "content": "(If \"Tell me about your wife.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D76",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''Your wife seems... nice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "127",
+            "content": "*'''Farmer:''' ''She does have her tastes. Expensive ones. The Dagger keep taking and taking... I don't know what she'll do if I ever run out. I know she loves me, I just... I'd rather not find out how ''much'' she loves me. Still, you've earned a reward. I keep... an \"emergency\" stash of drachmae in a cave behind a waterfall not far from here. It's directly north of where my cart crashed. Take what you think you've earned, just... leave enough for me and my wife.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "128",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N18",
+            "global_id": "129",
+            "content": "The farmer left to return home.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I6",
+            "global_id": "130",
+            "content": "[[File:ACOD-TheTaxmanCometh-16.jpg||thumb|250px|The farmer's secret stash]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D78",
+            "global_id": "131",
+            "content": "*'''Farmer:''' ''Thanks for saving me. Stop by my farm anytime for some free [[olive]] oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''Better collect my drachmae from the husband's stash in the Katarraktes Cave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "133",
+            "content": "Kassandra returned to the cave and collected a suitable reward from the husband's secret stash.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

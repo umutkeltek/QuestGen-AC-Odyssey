@@ -1,0 +1,61 @@
+{
+    "Quest_Name": "Pieces of the Puzzle",
+    "Quest_ID": "225146",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Pieces of the Puzzle.png",
+        "description": "'Once the clues were collected from the statues, Kassandra headed back to Phidias so that he could decode them.'",
+        "previous": "Art Leading Life",
+        "next": "Journey's End",
+        "appearance": "'Assassin's Creed: Odyssey  The Lost Tales of Greece'",
+        "type": "Side, Character, {{c|Phidias}}",
+        "source": "Kassandra",
+        "location": "Olympia, Elis, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''Pieces of the Puzzle''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Having discovered all the three symbols, Kassandra returned to [[Phidias]] in [[Elis]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''That's the last one. Time to head back to [[Olympia]] and Phidias to find out what all this means.''\nKassandra returned to Elis, making her way to [[Phidias' Workshop, Olympia|Phidias' Workshop]].\n*'''Kassandra:''' ''This won't be an easy task, but whatever the messages reveal must be important...''\nShe entered the workshop and inside, she saw a number of people lamenting over a corpse, revealed to Phidias.\n*'''Kassandra:''' ''Phidias! I should've never doubted that you were in danger.''",
+    "Section_Outcome": "Kassandra returned from her journey\u00a0to find Phidias murdered.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Phidias",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''That's the last one. Time to head back to [[Olympia]] and Phidias to find out what all this means.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Kassandra returned to Elis, making her way to [[Phidias' Workshop, Olympia|Phidias' Workshop]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''This won't be an easy task, but whatever the messages reveal must be important...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "She entered the workshop and inside, she saw a number of people lamenting over a corpse, revealed to Phidias.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Phidias! I should've never doubted that you were in danger.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

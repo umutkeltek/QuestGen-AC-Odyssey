@@ -1,0 +1,39 @@
+{
+    "QuestName": "Grieving Widow To Be",
+    "QuestID": "227489",
+    "Revision": {
+        "id": "1047490",
+        "parentid": "841323",
+        "timestamp": "2023-06-13T19:18:34Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047490",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "kmoh7gt92bl741zfru073n6d6jfnmem"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Kassandra met a 'Courtesan|hetaera' who, by her claim, was to marry The Monger before his death at Kassandra's hand. Kassandra claimed another mercenary was responsible and was hired to kill them.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Monger Down",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Grieving Widow To Be''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following the death of [[The Monger]], Kassandra ran into a [[Courtesan|''hetaera'']] who wished to see his killer slain.",
+    "Section_Dialogue": "*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Hetaera:''' ''I know you killed the Monger, you home-wrecking'' mal\u00e1kas.\n<tabber>\n|-|Yes, I did kill the Monger.=\n*'''Kassandra:''' ''You're right. I killed that pig so everyone could see.''\n*'''Hetaera:''' ''That ''pig'' was my husband-to-be. And because of you, I'm destined to be a ''[[Courtesan|hetaera]]'' for my entire life and die an old maid.<br>You've killed any chance I had at a normal life.''\n(Quest failed)\n|-|The Monger was destroying Korinthia.=\n*'''Kassandra:''' ''I don't understand why you're so upset. The Monger was running [[Korinthia]] into the ground.''\n*'''Hetaera:''' ''Who cares about Korinthia?! I care about my own fucking life that you've ruined. He was going to marry me. Me! How many chances do you think a ''[[Courtesan|hetaera]]'' gets in a lifetime?''\n(Quest failed)\n|-|(Lie) No, I didn't kill the Monger.=\n*'''Kassandra:''' ''I... don't know what you're talking about.''\n*'''Hetaera:''' ''If it wasn't you who killed my husband-to-be, you're going to find the fucker who did. I want you to go out there and kill the [[mercenary]] that slit his throat.''\n*'''Kassandra:''' ''So you need me to send him to [[Hades]]?''\n*'''Hetaera:''' ''That's exactly it. The mercenary must die.''\n(Accept - I'll kill the mercenary.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Hetaera:''' ''Good. You're doing me a great service.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\n</tabber>\nKassandra set out to find the mercenary, and dealt with them before returning to the ''hetaera''.\n*'''Hetaera:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Hetaera:''' ''You've set great things in motion. Take this as thanks.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra hunted down the mercenary and killed them.",
+    "Section_Trivia": "*This quest is triggered by choosing to kill The Monger publicly at the theater in [[Monger Down]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

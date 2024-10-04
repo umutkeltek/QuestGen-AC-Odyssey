@@ -1,0 +1,39 @@
+{
+    "QuestName": "Precious Bridle",
+    "QuestID": "236190",
+    "Revision": {
+        "id": "1047553",
+        "parentid": "843094",
+        "timestamp": "2023-06-13T19:31:29Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047553",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "b1pr6rh37uptps37dibt80exbpof174"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Precious Bridle",
+        "image": null,
+        "description": "'Bandits stole a secret message without knowing what they had, as the message was inscribed on a bridle stolen from a merchant.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430-420s BCE"
+    },
+    "General_Description": "'''Precious Bridle''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found a note left on the [[message board]], and decided to look into it.",
+    "Section_Dialogue": "*'''Kassandra:''' ''I picked up your message on the board. What's happening?''\n*'''Woman:''' ''A [[merchant]]'s been robbed,'' misthios''! He was supposed to sell a bridle to me today... I need it.''\n*'''Kassandra:''' ''Then buy one from someone else. Why do you care that a merchant was robbed?''\n*'''Woman:''' ''This bridle... It contains secret information about [[Sparta]]'s next move, but bandits have it in their camp.''\n*'''Kassandra:''' ''You want me to get it from the bandits?''\n*'''Woman:''' ''That's exactly it. Will you do it for me?''\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Woman:''' ''The gods are smiling on me, then.''\n*'''Kassandra:''' Chaire.\nKassandra left the spy, and located the bridle in the bandits' camp. Once it was in her possession, she returned to the spy.\n*'''Woman:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Woman:''' ''Thank you for all you've done. Please, take this.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

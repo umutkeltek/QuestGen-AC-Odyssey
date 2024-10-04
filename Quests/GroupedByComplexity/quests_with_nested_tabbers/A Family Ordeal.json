@@ -1,0 +1,1108 @@
+{
+    "Quest_Name": "A Family Ordeal",
+    "Quest_ID": "222874",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Odessa&Pater.jpg",
+        "description": "'Odessa needed some herbs and a mixture for her sick father. She claimed she didn't want to leave his side and asked Kassandra to help gather what she lacked.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Odessa}}",
+        "next": "The True Story",
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''A Family Ordeal''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra found [[Odessa]] talking to two farmers at her [[Odessa's Estate|estate]] near the [[Port of Nisaia]].",
+    "Section_Dialogue": "Kassandra approached Odessa's estate and heard her arguing with two of the farmers.\n*'''Odessa:''' ''You think [[Odysseus]] had to take care of his sick father? If I hope to be remembered, I can't stay in one place like this. Stop standing around, and do what I've told you.''\nKassandra approached Odessa.\n<tabber>\n|-|Intro 1=\n(If Kassandra rescued Odessa on [[Ithaka]] in \"[[A Small Odyssey]]\".)\n*'''Odessa:''' ''Kassandra! I haven't seen you since you took me to the [[Odysseus' Palace|ruins]] of Odysseus.''\n*'''Kassandra:''' ''Odessa. You remember.''\n|-|Intro 2=\n(If Kassandra had not yet visited Ithaka.)\n*'''Odessa:''' ''Well, aren't you something to look at. I'm Odessa... as in Odysseus.''\n*'''Kassandra:''' ''Kassandra.''\n*'''Odessa:''' ''Although, I'd enjoy the sight of you a lot more if I wasn't tired of taking care of my sick father.''\n</tabber>\n:(If [[The Master]] has been revealed during \"[[A Life's Worth]]\" but he still lives or his demand has not been rejected.)\n*'''Odessa:''' ''What's wrong? You have a look about you.''\n*'''Kassandra:''' ''It feels weird saying you this to you, but someone wants me to kill you.''\n*'''Odessa:''' ''That's nothing new to me lately. Now where were we?''\n*'''Kassandra:''' ''Uh... I was surprised you remembered me.''\n(The following dialogue depends on Kassandra's parting words to Odessa in \"A Small Odyssey\".)\n<tabber>\n|-|Intro 1=\n(If Kassandra's parting words were \"Great is as great does.\")\n*'''Odessa:''' ''How could I forget? You told me to live my own life and care less about someone else's greatness.''\n*'''Kassandra:''' ''Looks like you're taking my advice.''\n*'''Odessa:''' ''I've been forced to take care of my sick father. So, no, I've had no chance to live the life I desire.''\n|-|Intro 2=\n(If Kassandra's parting words were \"Being great isn't easy.\")\n*'''Odessa:''' ''Of course I do. You told me to stay home with my family.''\n*'''Kassandra:''' ''Seems like you're doing that.''\n*'''Odessa:''' ''Not by choice. You asked if I wanted to be remembered or to be happy. Well, taking care of my sick father does not make me happy.''\n|-|Intro 3=\n(If Kassandra's parting words were \"I don't give advice.\")\n*'''Odessa:''' ''Yes, although you were hardly any help. I've had nobody to push me to greatness, and now I'm stuck taking care of my sick father.''\n</tabber>\n(Normal dialogue resume here.)\n<tabber>\n|-|Stop complaining.=\n*'''Kassandra:''' ''Be glad you have family to take care of.''\n*'''Odessa:''' ''Says the one who gets to travel and make a name for herself. Nobody knows who I am.''\n*'''Kassandra:''' ''If you don't like it, do something about it.''\n*'''Odessa:''' ''Not until my father is better. I need to get a couple of things for him. Maybe you could help me?''\n|-|That sounds terrible.=\n*'''Kassandra:''' ''No wonder you're upset. You want to be out exploring, but you're stuck here instead.''\n*'''Odessa:''' ''I'm glad somebody gets it.''\n*'''Kassandra:''' ''If you don't like it, do something about it.''\n*'''Odessa:''' ''Not until my father is better. I need to get a couple of things for him. Maybe you could help me?''\n|-|\u2764 I forgot how beautiful you are.=\n(If Kassandra had not visited Ithaka, the dialogue option will read \"\u2764 You're good looking, too.\")\n*'''Kassandra:''' ''I've seen a lot of people, but you're one of the most beautiful I've ever met.''\n*'''Odessa:''' ''Is that so? You're a welcome distraction from my problems.''\n{{#tag:tabber|\nMaybe we could talk some more.=\n*'''Kassandra:''' ''If you have some time, maybe we could get to know each other a little better.''\n*'''Odessa:''' ''Tell me more.''\n*'''Kassandra:''' ''Well, I can think of a few things, but... let's talk some more first.''\n*'''Odessa:''' ''Yeah... That sounds... great.''\n{{!}}-{{!}}\nI'll distract you for hours.=\n*'''Kassandra:''' ''I've been told I'm great at being a distraction. I'm sure you have a bed inside we could use.''\n*'''Odessa:''' ''You get straight to the point, don't you?''\n*'''Kassandra:''' ''I'll show how to the point I can get.''\n*'''Odessa:''' ''I'm sure you will.''\n*'''Kassandra:''' ''So, how about it?''\n*'''Odessa:''' ''You know, I'd ''love'' to, but I have a couple of things I need to pick up for my father first. If you helped me, then we could ''maybe'' continue our conversation.''\n{{!}}-{{!}}\nI hope you have some goats.=\n*'''Kassandra:''' ''Are there any goats around?''\n*'''Odessa:''' ''Why?''\n*'''Kassandra:''' ''A man named Alkibiades once showed me something. It was a... memorable experience.\n*'''Odessa:''' ''Oh my! You're a funny one. I didn't get that feeling from you.''\n*'''Kassandra:''' ''So how about it?''\n*'''Odessa:''' ''You know, I'd ''love'' to, but I have a couple of things I need to pick up for my father first. If you helped me, then we could ''maybe'' continue our conversation.\n}}\n(Accept \u2013 \"I'll get the things for you.\")\n*'''Kassandra:''' ''Don't worry, I'm here to help. What do you need?''\n[[File:ACOD A Family Ordeal - Odessa Requesting Kassandra's Help.png|thumb|250px|Odessa requesting Kassandra's help]]\n*'''Odessa:''' ''A few herbs from the [[Valley of King Lelex|Valley]] of King [[Lelex]] nearby. I also need a mixture from the market to combine with the herbs. There's a [[merchant]] there holding onto it for me.''\n*'''Kassandra:''' ''Is your father really so sick you can't get them yourself?''\n*'''Odessa:''' ''I'm his only child. I'd rather be close by in case he gets worse.''\n(If \"What's wrong with your father?\" is chosen.)\n*'''Kassandra:''' ''Do you know what's wrong with him?''\n*'''Odessa:''' ''No, only that he's not getting better. The mixture and herbs I need may help the pain at least.''\n(If \"What happens if he dies?\" is chosen.)\n*'''Kassandra:''' ''If he dies, all his land will be yours, right?''\n*'''Odessa:''' ''Yes, but I'd sell it anyway. What better reason to leave everything behind and truly begin my quest like Odysseus?''\n(If \"What's so special about Odysseus?\" was chosen.)\n*'''Kassandra:''' ''What's your connection to Odysseus?''\n*'''Odessa:''' ''I'm a descendant of his. I'm named after him, too.''\n(Leave \u2013 \"I'll get going.\")\n*'''Kassandra:''' ''Stay by your father. I'll be back with the herbs and the mixture.''\nBefore leaving, Kassandra spoke to Odessa once more.\n*'''Odessa:''' \nKassandra left the farm and with [[Ikaros]]' help, identified the locations of the herbs near an [[Persian Trireme|old]] [[trireme]] washed up on the shore.\n*'''Kassandra:''' ''Those are the herbs Odessa needs.''\n[[File:ACOD A Family Ordeal - Kassandra Meeting The Merchant.png|thumb|250px|Kassandra meeting the merchant]]\nKassandra recovered the herbs, then reached [[Megara]] to look for the merchant selling the mixture. She approached the merchant near the market.\n*'''Street Vendor:''' ''Tell your friends, tell your family! The best wares [[drachma]]e can buy! Even [[Mercenary|mercenaries]] like you can find something.''\n*'''Kassandra:''' ''Odessa sent me.''\n*'''Street Vendor:''' ''Ah, of course! Sweet girl. Wished she had stopped by herself. This is for her father, I imagine. I'll take the payment, and you can be on your way.''\n</tabber>\n<tabber>\n|-|I'll pay you. (50)=\n*'''Kassandra:''' ''Here, take it.''\nKassandra handed over 50 drachmae.\n*'''Street Vendor:''' ''Quick sales are my favorites. I hope this helps Odessa.''\nKassandra received the mixture.\n|-|\ud83d\udd9d Give it to me, or else.=\nKassandra grabbed the merchant.\n*'''Kassandra:''' ''I'm not paying for that. Unless you want Odessa's father to die, you'll give it to me now.''\n*'''Street Vendor:''' ''Don't try to guilt me into giving you something for free. For all I know, Odessa didn't actually send you.''\n{{#tag:tabber|\n\ud83d\udd9d I'm taking that mixture.=\n*'''Kassandra:''' ''I'll take it from your dead body, then.''\nKassandra killed the street vendor, taking the mixture from his body.\n{{!}}-{{!}}\nLeave \u2013 I'll come back.=\n*'''Kassandra:''' ''I'll return when I have the drachmae.''\nReturn to first dialogue options.\n}}\n|-|\u2696\ufe0f Odessa said she'd pay you next time.=\n*'''Kassandra:''' ''Odessa told me she'd pay you later.''\n*'''Street Vendor:''' ''I don't give away items for free.''\n*'''Kassandra:''' ''You wouldn't be. She said she'd even pay extra for your trouble.''\n*'''Street Vendor:''' ''OK, but only because it's her. Make sure she stops by soon.''\nKassandra received the mixture.\n</tabber>\nWith the mixture and herbs in hand, Kassandra returned to Odessa's estate, where she found her being attacked by unknown assailants. Kassandra helped her to eliminate them.\n*'''Odessa:''' ''Maybe we should check them for clues.''\nKassandra recovered a note from one of the bodies.\n:'''Ambusher's Note:'''<br>''Kill Odessa before she can do any more damage to [[Megaris]]. Her father's estate will be ours once she's gone.''\nKassandra commented on her find.\n*'''Kassandra:''' ''These men work for the leader of Megaris. Seems like Odessa's been causing some problems for them, and they're also after her father's estate.''\nKassandra spoke to Odessa.\n*'''Odessa:''' ''Are the herbs and mixture okay? You did get them, didn't you?''\n*'''Kassandra:'''' ''That's what you're worried about? We were just attacked.''\n*'''Odessa:''' ''Surely you should be used to that by now. Random [[bandit]]s litter these lands. What did that letter you were reading say?''\n<tabber>\n|-|You're causing problems.=\n*'''Kassandra:''' ''Apparently you've been causing some problems for Megaris.''\n*'''Odessa:''' ''How could you say such a thing?''\n*'''Kassandra:''' ''This letter is saying it. This wasn't a random attack.''\n*'''Odessa:''' ''Megaris deserves everything it's gotten! I'm the victim here.''\n*'''Kassandra:''' ''The leader doesn't think so.''\n|-|People are after you.=\n*'''Kassandra:''' ''That they were after you and only you. Not me.''\n*'''Odessa:''' ''I can't believe it!''\n*'''Kassandra:''' ''Looks like it deals with your father's estate. They probably want you and him both gone so they can take it.''\n</tabber>\n*'''Odessa:''' ''I could have died. Without making a name for myself. I'd never be worth anything at all.''\n<tabber>\n|-|Stop thinking of yourself.=\n*'''Kassandra:''' ''People tried to kill me because of you, but you're only thinking about yourself.''\n*'''Odessa:''' ''You can handle it. There was never any true risk.''\n*'''Kassandra:''' ''Now what? Clearly there's more going on here than you first told me.''\n*'''Odessa:''' ''I didn't think you'd be drawn into it. But now that you are, I can prove to you that I'm the victim.''\n*'''Kassandra:''' ''Good.''\n|-|I'm glad I could help.=\n*'''Kassandra:''' ''It's a good thing I came back in time.''\n*'''Odessa:''' ''I'm grateful you did.''\n*'''Kassandra:''' ''Now what? Clearly there's more going on here than you first told me.''\n*'''Odessa:''' ''I didn't think you'd be drawn into it. But now that you are, I can prove to you that I'm the victim.''\n*'''Kassandra:''' ''Good.''\n|-|\u2764 I'll keep you safe.=\n*'''Kassandra:''' ''I won't let anyone hurt that face.''\n*'''Odessa:''' ''No pain, no glory.''\n{{#tag:tabber|\nI'm not so sure.=\n*'''Kassandra:''' ''I don't know if I agree. But maybe you can change my mind.''\n*'''Odessa:''' ''I would, but this news is weighing on me.''\n{{!}}-{{!}}\nShow me what you mean.=\n*'''Kassandra:''' ''How about you take me inside and show me a little pain?''\n*'''Odessa:''' ''Oh, how I would love to do so, but this news... someone aims to kill me! how could we possibly ignore such a thing for pleasure?''\n}}\n*'''Kassandra:''' ''Then where does that leave us?''\n*'''Odessa:''' ''With a task at hand, clearly! Think what you must, but I can prove the truth to you. I just need your help.''\n*'''Kassandra:''' ''I'm not surprised. I'll let you know if you can have it.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped Odessa to retrieve herbs and mixtures for her father's illness. She also uncovered an attempt by the leader of Megaris to eliminate Odessa.",
+    "Section_Trivia": "The game offers three locations for the herbs, though only one needs to be visited.\n\nIf \"[[A Life's Worth]]\" is advanced to the point where The Master demands the player kill a woman, that woman turns out to be Odessa, and she is no longer marked \"essential.\" This will make it possible for her to die when the bandits attack her home, very easily as difficulty increases. Conversely, an \"essential\" Odessa can defeat all of the attacking bandits by herself. This essential status can be restored by completing \"A Life's Worth\" by rejecting The Master.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:\u00c9preuve familiale]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Odessa",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Odessa's estate and heard her arguing with two of the farmers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Odessa:''' ''You think [[Odysseus]] had to take care of his sick father? If I hope to be remembered, I can't stay in one place like this. Stop standing around, and do what I've told you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached Odessa.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|Intro 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O1",
+            "global_id": "6",
+            "content": "(If Kassandra rescued Odessa on [[Ithaka]] in \"[[A Small Odyssey]]\".)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Odessa:''' ''Kassandra! I haven't seen you since you took me to the [[Odysseus' Palace|ruins]] of Odysseus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Odessa. You remember.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Intro 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "10",
+            "content": "(If Kassandra had not yet visited Ithaka.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Odessa:''' ''Well, aren't you something to look at. I'm Odessa... as in Odysseus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Odessa:''' ''Although, I'd enjoy the sight of you a lot more if I wasn't tired of taking care of my sick father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "15",
+            "content": ":(If [[The Master]] has been revealed during \"[[A Life's Worth]]\" but he still lives or his demand has not been rejected.)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Odessa:''' ''What's wrong? You have a look about you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''It feels weird saying you this to you, but someone wants me to kill you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Odessa:''' ''That's nothing new to me lately. Now where were we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Uh... I was surprised you remembered me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "20",
+            "content": "(The following dialogue depends on Kassandra's parting words to Odessa in \"A Small Odyssey\".)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TS2",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "22",
+            "content": "|-|Intro 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O4",
+            "global_id": "23",
+            "content": "(If Kassandra's parting words were \"Great is as great does.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Odessa:''' ''How could I forget? You told me to live my own life and care less about someone else's greatness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Looks like you're taking my advice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Odessa:''' ''I've been forced to take care of my sick father. So, no, I've had no chance to live the life I desire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "27",
+            "content": "|-|Intro 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O5",
+            "global_id": "28",
+            "content": "(If Kassandra's parting words were \"Being great isn't easy.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "29",
+            "content": "*'''Odessa:''' ''Of course I do. You told me to stay home with my family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Seems like you're doing that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Odessa:''' ''Not by choice. You asked if I wanted to be remembered or to be happy. Well, taking care of my sick father does not make me happy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "32",
+            "content": "|-|Intro 3=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O6",
+            "global_id": "33",
+            "content": "(If Kassandra's parting words were \"I don't give advice.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "34",
+            "content": "*'''Odessa:''' ''Yes, although you were hardly any help. I've had nobody to push me to greatness, and now I'm stuck taking care of my sick father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "35",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O7",
+            "global_id": "36",
+            "content": "(Normal dialogue resume here.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TS3",
+            "global_id": "37",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "38",
+            "content": "|-|Stop complaining.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Be glad you have family to take care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "40",
+            "content": "*'''Odessa:''' ''Says the one who gets to travel and make a name for herself. Nobody knows who I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''If you don't like it, do something about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "42",
+            "content": "*'''Odessa:''' ''Not until my father is better. I need to get a couple of things for him. Maybe you could help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "43",
+            "content": "|-|That sounds terrible.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''No wonder you're upset. You want to be out exploring, but you're stuck here instead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "45",
+            "content": "*'''Odessa:''' ''I'm glad somebody gets it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''If you don't like it, do something about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "47",
+            "content": "*'''Odessa:''' ''Not until my father is better. I need to get a couple of things for him. Maybe you could help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "48",
+            "content": "|-|\u2764 I forgot how beautiful you are.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O8",
+            "global_id": "49",
+            "content": "(If Kassandra had not visited Ithaka, the dialogue option will read \"\u2764 You're good looking, too.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''I've seen a lot of people, but you're one of the most beautiful I've ever met.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "51",
+            "content": "*'''Odessa:''' ''Is that so? You're a welcome distraction from my problems.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "52",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "53",
+            "content": "Maybe we could talk some more.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''If you have some time, maybe we could get to know each other a little better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Odessa:''' ''Tell me more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Well, I can think of a few things, but... let's talk some more first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "57",
+            "content": "*'''Odessa:''' ''Yeah... That sounds... great.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "58",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "59",
+            "content": "I'll distract you for hours.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I've been told I'm great at being a distraction. I'm sure you have a bed inside we could use.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "61",
+            "content": "*'''Odessa:''' ''You get straight to the point, don't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I'll show how to the point I can get.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "63",
+            "content": "*'''Odessa:''' ''I'm sure you will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''So, how about it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "65",
+            "content": "*'''Odessa:''' ''You know, I'd ''love'' to, but I have a couple of things I need to pick up for my father first. If you helped me, then we could ''maybe'' continue our conversation.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "66",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "67",
+            "content": "I hope you have some goats.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Are there any goats around?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "69",
+            "content": "*'''Odessa:''' ''Why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''A man named Alkibiades once showed me something. It was a... memorable experience.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "71",
+            "content": "*'''Odessa:''' ''Oh my! You're a funny one. I didn't get that feeling from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''So how about it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "73",
+            "content": "*'''Odessa:''' ''You know, I'd ''love'' to, but I have a couple of things I need to pick up for my father first. If you helped me, then we could ''maybe'' continue our conversation.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "74",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "O9",
+            "global_id": "75",
+            "content": "(Accept \u2013 \"I'll get the things for you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Don't worry, I'm here to help. What do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "77",
+            "content": "[[File:ACOD A Family Ordeal - Odessa Requesting Kassandra's Help.png|thumb|250px|Odessa requesting Kassandra's help]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D45",
+            "global_id": "78",
+            "content": "*'''Odessa:''' ''A few herbs from the [[Valley of King Lelex|Valley]] of King [[Lelex]] nearby. I also need a mixture from the market to combine with the herbs. There's a [[merchant]] there holding onto it for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Is your father really so sick you can't get them yourself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "80",
+            "content": "*'''Odessa:''' ''I'm his only child. I'd rather be close by in case he gets worse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "81",
+            "content": "(If \"What's wrong with your father?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D48",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''Do you know what's wrong with him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "83",
+            "content": "*'''Odessa:''' ''No, only that he's not getting better. The mixture and herbs I need may help the pain at least.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "84",
+            "content": "(If \"What happens if he dies?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D50",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''If he dies, all his land will be yours, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "86",
+            "content": "*'''Odessa:''' ''Yes, but I'd sell it anyway. What better reason to leave everything behind and truly begin my quest like Odysseus?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "87",
+            "content": "(If \"What's so special about Odysseus?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D52",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''What's your connection to Odysseus?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "89",
+            "content": "*'''Odessa:''' ''I'm a descendant of his. I'm named after him, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O10",
+            "global_id": "90",
+            "content": "(Leave \u2013 \"I'll get going.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''Stay by your father. I'll be back with the herbs and the mixture.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "92",
+            "content": "Before leaving, Kassandra spoke to Odessa once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "93",
+            "content": "*'''Odessa:'''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "94",
+            "content": "Kassandra left the farm and with [[Ikaros]]' help, identified the locations of the herbs near an [[Persian Trireme|old]] [[trireme]] washed up on the shore.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Those are the herbs Odessa needs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "96",
+            "content": "[[File:ACOD A Family Ordeal - Kassandra Meeting The Merchant.png|thumb|250px|Kassandra meeting the merchant]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "97",
+            "content": "Kassandra recovered the herbs, then reached [[Megara]] to look for the merchant selling the mixture. She approached the merchant near the market.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "98",
+            "content": "*'''Street Vendor:''' ''Tell your friends, tell your family! The best wares [[drachma]]e can buy! Even [[Mercenary|mercenaries]] like you can find something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''Odessa sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "100",
+            "content": "*'''Street Vendor:''' ''Ah, of course! Sweet girl. Wished she had stopped by herself. This is for her father, I imagine. I'll take the payment, and you can be on your way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "101",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS4",
+            "global_id": "102",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "103",
+            "content": "|-|I'll pay you. (50)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''Here, take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "105",
+            "content": "Kassandra handed over 50 drachmae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "106",
+            "content": "*'''Street Vendor:''' ''Quick sales are my favorites. I hope this helps Odessa.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "107",
+            "content": "Kassandra received the mixture.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC13",
+            "global_id": "108",
+            "content": "|-|\ud83d\udd9d Give it to me, or else.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N9",
+            "global_id": "109",
+            "content": "Kassandra grabbed the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''I'm not paying for that. Unless you want Odessa's father to die, you'll give it to me now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "111",
+            "content": "*'''Street Vendor:''' ''Don't try to guilt me into giving you something for free. For all I know, Odessa didn't actually send you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "112",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC14",
+            "global_id": "113",
+            "content": "\ud83d\udd9d I'm taking that mixture.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''I'll take it from your dead body, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "115",
+            "content": "Kassandra killed the street vendor, taking the mixture from his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "116",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC15",
+            "global_id": "117",
+            "content": "Leave \u2013 I'll come back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''I'll return when I have the drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "119",
+            "content": "Return to first dialogue options.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "120",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC16",
+            "global_id": "121",
+            "content": "|-|\u2696\ufe0f Odessa said she'd pay you next time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D66",
+            "global_id": "122",
+            "content": "*'''Kassandra:''' ''Odessa told me she'd pay you later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "123",
+            "content": "*'''Street Vendor:''' ''I don't give away items for free.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "124",
+            "content": "*'''Kassandra:''' ''You wouldn't be. She said she'd even pay extra for your trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "125",
+            "content": "*'''Street Vendor:''' ''OK, but only because it's her. Make sure she stops by soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "126",
+            "content": "Kassandra received the mixture.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE4",
+            "global_id": "127",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N13",
+            "global_id": "128",
+            "content": "With the mixture and herbs in hand, Kassandra returned to Odessa's estate, where she found her being attacked by unknown assailants. Kassandra helped her to eliminate them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "129",
+            "content": "*'''Odessa:''' ''Maybe we should check them for clues.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "130",
+            "content": "Kassandra recovered a note from one of the bodies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N15",
+            "global_id": "131",
+            "content": ":'''Ambusher's Note:'''<br>''Kill Odessa before she can do any more damage to [[Megaris]]. Her father's estate will be ours once she's gone.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N16",
+            "global_id": "132",
+            "content": "Kassandra commented on her find.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "133",
+            "content": "*'''Kassandra:''' ''These men work for the leader of Megaris. Seems like Odessa's been causing some problems for them, and they're also after her father's estate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "134",
+            "content": "Kassandra spoke to Odessa.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "135",
+            "content": "*'''Odessa:''' ''Are the herbs and mixture okay? You did get them, didn't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "136",
+            "content": "*'''Kassandra:'''' ''That's what you're worried about? We were just attacked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "137",
+            "content": "*'''Odessa:''' ''Surely you should be used to that by now. Random [[bandit]]s litter these lands. What did that letter you were reading say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "138",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC17",
+            "global_id": "139",
+            "content": "|-|You're causing problems.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D75",
+            "global_id": "140",
+            "content": "*'''Kassandra:''' ''Apparently you've been causing some problems for Megaris.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "141",
+            "content": "*'''Odessa:''' ''How could you say such a thing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "142",
+            "content": "*'''Kassandra:''' ''This letter is saying it. This wasn't a random attack.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "143",
+            "content": "*'''Odessa:''' ''Megaris deserves everything it's gotten! I'm the victim here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''The leader doesn't think so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC18",
+            "global_id": "145",
+            "content": "|-|People are after you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D80",
+            "global_id": "146",
+            "content": "*'''Kassandra:''' ''That they were after you and only you. Not me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "147",
+            "content": "*'''Odessa:''' ''I can't believe it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "148",
+            "content": "*'''Kassandra:''' ''Looks like it deals with your father's estate. They probably want you and him both gone so they can take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "149",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D83",
+            "global_id": "150",
+            "content": "*'''Odessa:''' ''I could have died. Without making a name for myself. I'd never be worth anything at all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS6",
+            "global_id": "151",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC19",
+            "global_id": "152",
+            "content": "|-|Stop thinking of yourself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D84",
+            "global_id": "153",
+            "content": "*'''Kassandra:''' ''People tried to kill me because of you, but you're only thinking about yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "154",
+            "content": "*'''Odessa:''' ''You can handle it. There was never any true risk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "155",
+            "content": "*'''Kassandra:''' ''Now what? Clearly there's more going on here than you first told me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "156",
+            "content": "*'''Odessa:''' ''I didn't think you'd be drawn into it. But now that you are, I can prove to you that I'm the victim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "157",
+            "content": "*'''Kassandra:''' ''Good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC20",
+            "global_id": "158",
+            "content": "|-|I'm glad I could help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D89",
+            "global_id": "159",
+            "content": "*'''Kassandra:''' ''It's a good thing I came back in time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "160",
+            "content": "*'''Odessa:''' ''I'm grateful you did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''Now what? Clearly there's more going on here than you first told me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "162",
+            "content": "*'''Odessa:''' ''I didn't think you'd be drawn into it. But now that you are, I can prove to you that I'm the victim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "163",
+            "content": "*'''Kassandra:''' ''Good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC21",
+            "global_id": "164",
+            "content": "|-|\u2764 I'll keep you safe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D94",
+            "global_id": "165",
+            "content": "*'''Kassandra:''' ''I won't let anyone hurt that face.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "166",
+            "content": "*'''Odessa:''' ''No pain, no glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "167",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC22",
+            "global_id": "168",
+            "content": "I'm not so sure.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D96",
+            "global_id": "169",
+            "content": "*'''Kassandra:''' ''I don't know if I agree. But maybe you can change my mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D97",
+            "global_id": "170",
+            "content": "*'''Odessa:''' ''I would, but this news is weighing on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "171",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC23",
+            "global_id": "172",
+            "content": "Show me what you mean.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D98",
+            "global_id": "173",
+            "content": "*'''Kassandra:''' ''How about you take me inside and show me a little pain?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D99",
+            "global_id": "174",
+            "content": "*'''Odessa:''' ''Oh, how I would love to do so, but this news... someone aims to kill me! how could we possibly ignore such a thing for pleasure?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "175",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D100",
+            "global_id": "176",
+            "content": "*'''Kassandra:''' ''Then where does that leave us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "177",
+            "content": "*'''Odessa:''' ''With a task at hand, clearly! Think what you must, but I can prove the truth to you. I just need your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D102",
+            "global_id": "178",
+            "content": "*'''Kassandra:''' ''I'm not surprised. I'll let you know if you can have it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE6",
+            "global_id": "179",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

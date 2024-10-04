@@ -1,0 +1,321 @@
+{
+    "Quest_Name": "Left to Dye",
+    "Quest_ID": "224777",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Left to Dye",
+        "image": "ACOD Left to Dye 1.png",
+        "description": "'Empedokles, freed from his bondage, requested that Kassandra find his purple cloak - though it was the Key to Olympos|key hidden inside that was the most important item of all.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "A God Among Men",
+        "next": "Stairway to Olympos",
+        "source": "Kassandra",
+        "location": "Kythera Island, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Left to Dye''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Empedokles]] requested Kassandra to retrieve a [[Key to Olympos|key]] from a [[Greek brute|thief]].",
+    "Section_Dialogue": "Accepting Empedokles' request, Kassandra went to look for the thief who stole the disk. After a bit of searching, she found the thief with his [[guard]]s.\n*'''Greek Brute:''' ''Purple dye might stink like rotten dog guts, but I'll be fucked if doesn't make me look like a god!''\n*'''Greek Soldier:''' ''Technically it's made from rotten snail guts, boss.''\n*'''Greek Brute:''' ''...I'm wearing snail guts?''\nKassandra killed the thief and his guards, recovering a pair of [[Purple Bracers|bracers]] and the disk from the thief's corpse. She then returned to Empedokles at his [[Statue of Empedokles|statue]].\n*'''Empedokles:''' ''Ah, look how she strides! The confidence! If I didn't know better, I'd say there were ''two'' gods on [[Kythera Island|Kythera]]!''\n*'''Kassandra:''' ''I found your disk.''\n*'''Empedokles:''' ''Praise ''me''! Clearly, I have worked through you.''\n*'''Kassandra:''' ''Clearly. Time to meet the gods, then?''\n*'''Empedokles:''' ''I'd love to introduce you to my family\u2014of course, if you're ready to join me?''\n\n(Reject - No, enough of this.)\n*'''Kassandra:''' First, I have other matters to attend to..\n*'''Empedokles:''' Matters more important than meeting the gods?! Your life must be a blessed adventure.\n(After conversation with Empedokles) \n*'''Civilian 1:''' Praise Empedokles! Oh, oh praise him!\n[[File:ACOD Left to Dye 2.png|thumb|250px|Empedokles asking Kassandra to meet his \"siblings\"]]\n(Accept \u2013 Yes, I will.)\n*'''Kassandra:''' ''This should be interesting.''\n*'''Empedokles:''' ''That, my dear ''[[Mercenary|misthios]]'', I can absolutely guarantee.<br>A moment please, while I address my audience.''\nEmpedokles turned to his [[Empedoklite|followers]].\n*'''Empedokles:''' ''Rejoice! For I, your humble god, shall introduce you to my brothers and sisters.<br>[[Athena]] awaits you!<br>Ares demands your audience!''\n*'''Kassandra:''' ''That's a big promise.''\n*'''Empedokles:''' ''You doubt me?!''\n\n<tabber>\n|-|I doubt you.=\n*'''Kassandra:''' ''I doubt you could get us to the ocean. It's behind you, by the way.''\n*'''Empedokles:''' ''How dare you mock\u2014I\u2014I'm a god! A ''god''!''\nEmpedokles turned to one of his follower.\n*'''Empedokles:''' ''What am I?!''\n*'''Civilian:''' ''A\u2014a god?''\n*'''Kassandra:''' ''Thanks for clearing that up.''\n\n|-|I believe in you.=\n*'''Kassandra:''' ''I don't doubt the joy you've brought to your followers.''\n*'''Empedokles:''' ''Their loyalty will be rewarded. As will yours.''\n\n</tabber>\n*'''Empedokles:''' ''We set sail for the [[Gulf of Korinth]], and all the secrets she veils! Meet us there and see the truth for yourself.''\n(Accept \u2013 I'll see you there.)\n*'''Kassandra:''' ''And meet your siblings? Wouldn't miss it.''\n\nIf Empedokles was spoken to once more.\n*'''Empedokles:''' ''To the Gulf of Korinth, and all she hides, ''misthios!\nIf Kassandra speaks to the nearby civilian.\n*'''Civilian 1:''' ''Do you really think Empedokles is a God?''\n*'''Civilian 2:''' ''I couldn't give a shit if he was a rooster - I'm just here to get away from the Priestesses.''",
+    "Section_Outcome": "Kassandra helped Empedokles reclaim the so-called key to [[Mount Olympus|Olympus]]. She agreed to meet him at the [[Isle of Thisvi|island]] in the Gulf of Korinth.",
+    "Section_Behind_the_scenes": "The two brutes guarding the thief carrying the key have unique avatars when viewed by Ikaros. They can be knocked out and recruited as lieutenants for the Adrestia.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[fr:Ne pas laisser le purpurin aux cochons]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Empedokles",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Accepting Empedokles' request, Kassandra went to look for the thief who stole the disk. After a bit of searching, she found the thief with his [[guard]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Greek Brute:''' ''Purple dye might stink like rotten dog guts, but I'll be fucked if doesn't make me look like a god!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Greek Soldier:''' ''Technically it's made from rotten snail guts, boss.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Greek Brute:''' ''...I'm wearing snail guts?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra killed the thief and his guards, recovering a pair of [[Purple Bracers|bracers]] and the disk from the thief's corpse. She then returned to Empedokles at his [[Statue of Empedokles|statue]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Empedokles:''' ''Ah, look how she strides! The confidence! If I didn't know better, I'd say there were ''two'' gods on [[Kythera Island|Kythera]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I found your disk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Empedokles:''' ''Praise ''me''! Clearly, I have worked through you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Clearly. Time to meet the gods, then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Empedokles:''' ''I'd love to introduce you to my family\u2014of course, if you're ready to join me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Reject - No, enough of this.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' First, I have other matters to attend to..",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Empedokles:''' Matters more important than meeting the gods?! Your life must be a blessed adventure.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "15",
+            "content": "(After conversation with Empedokles)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Civilian 1:''' Praise Empedokles! Oh, oh praise him!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "17",
+            "content": "[[File:ACOD Left to Dye 2.png|thumb|250px|Empedokles asking Kassandra to meet his \"siblings\"]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "O3",
+            "global_id": "18",
+            "content": "(Accept \u2013 Yes, I will.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''This should be interesting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Empedokles:''' ''That, my dear ''[[Mercenary|misthios]]'', I can absolutely guarantee.<br>A moment please, while I address my audience.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "21",
+            "content": "Empedokles turned to his [[Empedoklite|followers]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Empedokles:''' ''Rejoice! For I, your humble god, shall introduce you to my brothers and sisters.<br>[[Athena]] awaits you!<br>Ares demands your audience!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''That's a big promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Empedokles:''' ''You doubt me?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "26",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "27",
+            "content": "|-|I doubt you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I doubt you could get us to the ocean. It's behind you, by the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Empedokles:''' ''How dare you mock\u2014I\u2014I'm a god! A ''god''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "30",
+            "content": "Empedokles turned to one of his follower.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Empedokles:''' ''What am I?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Civilian:''' ''A\u2014a god?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Thanks for clearing that up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "35",
+            "content": "|-|I believe in you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I don't doubt the joy you've brought to your followers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Empedokles:''' ''Their loyalty will be rewarded. As will yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "*'''Empedokles:''' ''We set sail for the [[Gulf of Korinth]], and all the secrets she veils! Meet us there and see the truth for yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "41",
+            "content": "(Accept \u2013 I'll see you there.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''And meet your siblings? Wouldn't miss it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "44",
+            "content": "If Empedokles was spoken to once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "45",
+            "content": "*'''Empedokles:''' ''To the Gulf of Korinth, and all she hides, ''misthios!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "46",
+            "content": "If Kassandra speaks to the nearby civilian.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "47",
+            "content": "*'''Civilian 1:''' ''Do you really think Empedokles is a God?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Civilian 2:''' ''I couldn't give a shit if he was a rooster - I'm just here to get away from the Priestesses.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

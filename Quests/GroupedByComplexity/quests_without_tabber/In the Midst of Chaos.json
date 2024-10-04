@@ -1,0 +1,282 @@
+{
+    "Quest_Name": "In the Midst of Chaos",
+    "Quest_ID": "223688",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "The Wise Warrior",
+        "next": "Swift as Wind",
+        "description": "'Demosthenes, while an experienced tactician with many victories, was dogged by early failures. In removing Spartan Polemarch|leaders, he hoped to make clear his cunning.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "431\u2013422 BCE"
+    },
+    "General_Description": "'''In the Midst of Chaos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Demosthenes]] to recover [[Sparta]]n seals.",
+    "Section_Dialogue": "*'''Kassandra:\u00a0'''''I'll get you your seals.''\n*'''Demosthenes:\u00a0'''''Thank you.''\n*'''Kassandra:\u00a0'''''First, I have some questions.''\n(If players choose \"Who do you admire?\")\n*'''Kassandra:\u00a0'''''Who does a general like you look up to?''\n*'''Demosthenes:\u00a0'''''You know who was a true hero?''\n*'''Kassandra:\u00a0'''''I'm guessing you're about to tell me.''\n*'''Demosthenes:\u00a0'''''[[Odysseus]] . He used his wits to triumph. Wily Odysseus, they call him. Without him, the [[Trojan War|Trojan war]] would have been lost. And the other generals understood that.''\n(If players choose \"What do you see in your future?\")\n*'''Kassandra:\u00a0'''''What do you think your future holds?''\n*'''Demosthenes:\u00a0'''''Victory or death. You don't stay a general for long if you don't win battles.''\n*'''Kassandra:\u00a0'''''I suppose many generals die on the field.''\n*'''Demosthenes:\u00a0'''''Not the majority. The Athenian people are the greatest threat to a general's life. If you displease them, they'll remove you from office. Ostracize you. Or even condemn you to death.''\n*'''Kassandra:\u00a0'''''And you want this job?''\n*'''Demosthenes:\u00a0'''''There is no greater purpose than the glory of Athens. It's my duty and my honor.''\n(If players choose \"Why are you always here?\")\n*'''Kassandra:\u00a0'''''Why is it I always find you here?''\n*'''Demosthenes:\u00a0'''''[[Athena]] is the goddess of wisdom. And war. What better place for a general to ask for blessings?''\n*'''Kassandra:\u00a0'''''You don't seem very devout to me.''\n*'''Demosthenes:\u00a0'''''I'm not the first general in my family. My father was as well, and his father before him.''\n*'''Kassandra:\u00a0'''''You would have learned military thinking from a young age.''\n*'''Demosthenes:\u00a0'''''Exactly. My grandfather brought me here when I was a child. He stood me here and told me Athena was our patron. That we must always offer her our respect on the eve of war.''\n*'''Kassandra:\u00a0'''''He sounds like a wise man.''\n*'''Demosthenes:\u00a0'''''He was. He died in battle the next day.''\n*'''Kassandra:\u00a0'''''You come here to remember him.''\n*'''Demosthenes:\u00a0'''''And to remember that though the gods may be our patrons, they will not always protect us.''\n(Leave - \"I have what I need.\")\n*'''Kassandra:\u00a0'''''I know enough.''\n(If players already have the seals.)\n*'''Kassandra:''' ''Since you're being so polite, I already have them.''\n*'''Demosthenes:''' ''And the other generals dare to doubt me! There's no way Neon can take credit for this one.''\n*'''Kassandra:''' ''He's taken credit before?''\n*'''Demosthenes:''' ''You could say that. However, I'm the one who hired you. I have more work for you, if you're ready.''\nKassandra returns with the seals.\n*'''Demosthenes:\u00a0'''''Do you have my seals yet?''\n*'''Kassandra:\u00a0'''''Why yes, I do.''\n*'''Demosthenes:\u00a0'''''Good. The Spartans will soon realize someone is picking off their senior commanders.''\n*'''Kassandra:\u00a0'''''Probably, but they haven't caught me yet.''\n*'''Demosthenes:\u00a0'''''Interested in more work?''\n\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander recover three more polemarch seals and was rewarded with his [[Demosthenes' Hood|hood]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n*\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Demosthenes",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:\u00a0'''''I'll get you your seals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Demosthenes:\u00a0'''''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:\u00a0'''''First, I have some questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "4",
+            "content": "(If players choose \"Who do you admire?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:\u00a0'''''Who does a general like you look up to?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Demosthenes:\u00a0'''''You know who was a true hero?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:\u00a0'''''I'm guessing you're about to tell me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Demosthenes:\u00a0'''''[[Odysseus]] . He used his wits to triumph. Wily Odysseus, they call him. Without him, the [[Trojan War|Trojan war]] would have been lost. And the other generals understood that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "9",
+            "content": "(If players choose \"What do you see in your future?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:\u00a0'''''What do you think your future holds?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Demosthenes:\u00a0'''''Victory or death. You don't stay a general for long if you don't win battles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:\u00a0'''''I suppose many generals die on the field.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Demosthenes:\u00a0'''''Not the majority. The Athenian people are the greatest threat to a general's life. If you displease them, they'll remove you from office. Ostracize you. Or even condemn you to death.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Kassandra:\u00a0'''''And you want this job?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Demosthenes:\u00a0'''''There is no greater purpose than the glory of Athens. It's my duty and my honor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "16",
+            "content": "(If players choose \"Why are you always here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Kassandra:\u00a0'''''Why is it I always find you here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Demosthenes:\u00a0'''''[[Athena]] is the goddess of wisdom. And war. What better place for a general to ask for blessings?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Kassandra:\u00a0'''''You don't seem very devout to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "20",
+            "content": "*'''Demosthenes:\u00a0'''''I'm not the first general in my family. My father was as well, and his father before him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "21",
+            "content": "*'''Kassandra:\u00a0'''''You would have learned military thinking from a young age.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "22",
+            "content": "*'''Demosthenes:\u00a0'''''Exactly. My grandfather brought me here when I was a child. He stood me here and told me Athena was our patron. That we must always offer her our respect on the eve of war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "23",
+            "content": "*'''Kassandra:\u00a0'''''He sounds like a wise man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "24",
+            "content": "*'''Demosthenes:\u00a0'''''He was. He died in battle the next day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "25",
+            "content": "*'''Kassandra:\u00a0'''''You come here to remember him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "26",
+            "content": "*'''Demosthenes:\u00a0'''''And to remember that though the gods may be our patrons, they will not always protect us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "27",
+            "content": "(Leave - \"I have what I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "28",
+            "content": "*'''Kassandra:\u00a0'''''I know enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "29",
+            "content": "(If players already have the seals.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D25",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Since you're being so polite, I already have them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "31",
+            "content": "*'''Demosthenes:''' ''And the other generals dare to doubt me! There's no way Neon can take credit for this one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''He's taken credit before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "33",
+            "content": "*'''Demosthenes:''' ''You could say that. However, I'm the one who hired you. I have more work for you, if you're ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "34",
+            "content": "Kassandra returns with the seals.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "35",
+            "content": "*'''Demosthenes:\u00a0'''''Do you have my seals yet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "36",
+            "content": "*'''Kassandra:\u00a0'''''Why yes, I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "37",
+            "content": "*'''Demosthenes:\u00a0'''''Good. The Spartans will soon realize someone is picking off their senior commanders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "38",
+            "content": "*'''Kassandra:\u00a0'''''Probably, but they haven't caught me yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "39",
+            "content": "*'''Demosthenes:\u00a0'''''Interested in more work?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "41",
+            "content": "(Dialogue continues to start the next quest.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "Quest_Name": "A Good Toast",
+    "Quest_ID": "225278",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-LotFB-AGoodToast-view.jpg",
+        "description": "'Kassandra eliminated the Mercenary|mercenaries hired by the Order of the Ancients|secret group and returned to the old Ide|lady for a good toast.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Side, Support",
+        "previous": "Taking Out the Competition",
+        "source": "Kassandra",
+        "location": "Amphipolis, Makedonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''A Good Toast''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to the old [[Ide|lady]] in [[Amphipolis]] after eliminating the [[Mercenary|mercenaries]] as requested.",
+    "Section_Dialogue": "Upon arriving at the old woman's spot in [[Amphipolis]], Kassandra was shocked to find her dead on the ground.\n*'''Kassandra:''' ''The old lady...''\nShe talked to the woman who knelt next to the body in mourning.\n*'''Kassandra:''' ''What happened?''\n*'''Civilian:''' ''Some mercenary came out of nowhere and stabbed her in the back. She stumbled back here mumbling something about how they weren't going to ruin her view...''\nKassandra shook her head and her expression sank. \n\nShortly thereafter, she helped herself to a cup of the woman's wine and stepped to the edge of the scaffolding, taking in the view the lady had so praised.\n<tabber>\n|-|This wine's for me.=\n*'''Kassandra:''' ''This wine's for me. Thanks for the view, Old Lady.''\n|-|This wine's for you.=\n*'''Kassandra:''' ''The view ''is'' pretty good.''\n</tabber>\nThen, with a loud threat, she set out to find the [[Exadios the Backbreaker|fourth mercenary]].\n*'''Kassandra:''' ''You can't hide forever. I'm coming for you!''\nShe spotted the mercenary at the harbor and eliminated her, avenging the old lady.\n*'''Kassandra:''' ''This one's for you, Old Lady.''",
+    "Section_Outcome": "Kassandra eliminated Exadios the Backbreaker, avenging Ide's murder.",
+    "Section_Trivia": "*The protagonist's yell of \"You can't hide forever\" uses the exact same voice file as in [[Whimpers Through the Fog]], when they chase after the [[Pactyas (Ancients)|Madman]].",
+    "Section_References": "''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Upon arriving at the old woman's spot in [[Amphipolis]], Kassandra was shocked to find her dead on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''The old lady...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She talked to the woman who knelt next to the body in mourning.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''Some mercenary came out of nowhere and stabbed her in the back. She stumbled back here mumbling something about how they weren't going to ruin her view...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra shook her head and her expression sank.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "Shortly thereafter, she helped herself to a cup of the woman's wine and stepped to the edge of the scaffolding, taking in the view the lady had so praised.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|This wine's for me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''This wine's for me. Thanks for the view, Old Lady.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|This wine's for you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''The view ''is'' pretty good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N5",
+            "global_id": "15",
+            "content": "Then, with a loud threat, she set out to find the [[Exadios the Backbreaker|fourth mercenary]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''You can't hide forever. I'm coming for you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "17",
+            "content": "She spotted the mercenary at the harbor and eliminated her, avenging the old lady.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''This one's for you, Old Lady.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

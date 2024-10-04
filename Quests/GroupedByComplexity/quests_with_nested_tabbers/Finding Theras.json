@@ -1,0 +1,547 @@
+{
+    "Quest_Name": "Finding Theras",
+    "Quest_ID": "229544",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Finding Theras Memory Screenshot.png",
+        "description": "'The Staff of Hermes Trismegistus|Staff of Hermes became much more than it first appeared, guiding Kassandra, now known as the Keeper, to Theras.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "The Heir of Memories",
+        "next": "Three Symbols Entombed",
+        "source": "Kassandra",
+        "location": "Seriphos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Finding Theras''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "On [[Aletheia]]'s suggestion, Kassandra travelled to [[Seriphos]] to look for [[Theras]].",
+    "Section_Dialogue": "Kassandra found Theras north of the [[Temple of Athena, Seriphos|Temple of Athena]], surrounded by guards of the [[Cult of Kosmos]].\n*'''Theras:''' ''I beg you. Have pity.''\n*'''Cult Guardian:''' ''Gladly. Once you tell me what I want to know.''\nKassandra crept into the bushes nearby and listened in.\n*'''Theras:''' ''I don't know any more than [[Phidias]] did. Please. Stop.''\n*'''Cult Guardian:''' ''I want to stop. But I can't. Not until you tell us where you found the symbols in [[Phidias]]' [[Phidias' Workshop, Olympia|workshop]].''\nKassandra had to make a decision quickly.\n\n<tabber>\n|-|Distract.=\nKassandra threw a rock far past the Cultists, making a distinct sound far down the opposite side of the hill.\n*'''Cult Guardian:''' ''Go check it out.''\nTwo of the guards went to investigate.\n*'''Theras:''' ''I beg you.''\n*'''Cult Guardian:''' ''Gladly. Once you tell me what I want to know.''\nWith the Cult Guardian alone, Kassandra sneaked up on him and eliminated him, saving Theras.\n|-|Attack.=\nKassandra shouted to the Cultists.\n*'''Kassandra:''' ''Leave him!''\nKassandra attacked and eliminated the guards, saving Theras.\n|-|Do Nothing.=\nKassandra held back, allowing the Cult Guardian to interrogate Theras further. He punched Theras in the face, and he fell onto the planks over the mineshaft behind him. He rose, clutching his abdomen.\n*'''Theras:''' ''All right. I'll tell you. Just please, stop.''\n*'''Cult Guardian:''' ''Speak.''\n*'''Theras:''' ''In [[Argolis]], [[Agamemnon's Tomb]]. In [[Attika]], [[Tomb of Eteokles|Eteokles' Tomb]].''\n*'''Cult Guardian:''' ''The third?''\n{{#tag:tabber|\nDistract.=\n(see first \"Distract.\" choice)\n{{!}}-{{!}}\nAttack.=\n(see first \"Attack.\" choice)\n{{!}}-{{!}}\nDo nothing.=\nOnce more, Kassandra did not intervene.\n*'''Theras:''' ''Please. I have children.''\nThe Cult Guardian grabbed Theras by the neck.\n*'''Cult Guardian:''' ''The third!''\n{{#tag:tabber|\nAttack.=\n(see first \"Attack.\" choice)\n{{!}}-{{!}}\nDo nothing.=\nFor a third time, Kassandra refused to help Theras.\n*'''Theras:''' ''In [[Boeotia]], there's [[Tomb of Orion|Orion's Tomb]]. But the symbols don't do anything.''\nThe Cult Guardian did not keep his word.  He threw Theras down the mineshaft once he had outlived his usefulness. Theras' scream faded into the depths of the mineshaft until it fell silent upon his death. Kassandra took the information gleaned from her eavesdropping and left.\n}}\n}}\n</tabber>\n(If Kassandra intervened to save Theras)<br />\nKassandra addressed Theras, who shook hands with her.\n*'''Theras:''' ''Eagle Bearer! I can't tell you how relieved I am to see you.''\n*'''Kassandra:''' ''Are you all right?''\n*'''Theras:''' ''It's nothing compared to what they did to poor Phidias. Did you hear?''\n\n<tabber>\n|-|Tell me about Phidias.=\n*'''Kassandra:''' ''What do you know about Phidias?''\n*'''Theras:''' ''Only rumours now. A [[Alexios|man]] in gold came into his workshop. Tortured him. Broke his hands. His body... was too destroyed for a proper burial. All because of these symbols.''\n*'''Kassandra:''' ''Symbols?''\n|-|Tell me about the symbols.=\n*'''Kassandra:''' ''Theras, I need you to think. I'm looking for the location of some symbols. I can't explain why, but you have to help me.''\n</tabber>\n\n*'''Theras:''' ''I was exploring the tombs of [[Agamemnon]], [[Eteokles]], and [[Orion]]. I'm a traveler like you. I found the symbols and etched them onto parchment to give to Phidias as a gift.''\n\n(If \"Where did you find the symbols?\" is chosen.)\n*'''Kassandra:''' ''Where were the symbols?''\n*'''Theras:''' ''In [[Argolis]] you'll find one in Agamemnon's [[Agamemnon's Tomb|Tomb]]. Eteokles' [[Tomb of Eteokles|Tomb]] in [[Attika]] is where I found another. The final one, I found in [[Boeotia]], deep in Orion's [[Tomb of Orion|Tomb]].''\n\n(If \"What happened to Phidias?\" is chosen. \u2013 Only available if earlier players did not ask about Phidias)\n*'''Kassandra:''' ''What did you hear about Phidias?''\n*'''Theras:''' ''Rumors now. A man in gold came into his workshop. Tortured him. Broke his hands. His body... was too destroyed for a proper burial.''\n\n<tabber>\n|-|I can protect you.=\n*'''Kassandra:''' ''You need to find somewhere safe, Theras. You can sail with us on the [[Adrestia]].''\n*'''Theras:''' ''I would be forever in your debt.''\n|-|You should go.=\n*'''Kassandra:''' ''You need to find somewhere safe to hide, Theras.''\n*'''Theras:''' ''I will.''\n</tabber>\n\n*'''Theras:''' ''Take this map. It's rough, but it's the best I could do.''\nTheras handed Kassandra a map.\n*'''Theras:''' ''Chaire, Eagle Bearer, and thank you.''",
+    "Section_Outcome": "Kassandra met with and rescued Theras, who gave her the locations of three symbols he found.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Heir of Memories",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found Theras north of the [[Temple of Athena, Seriphos|Temple of Athena]], surrounded by guards of the [[Cult of Kosmos]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Theras:''' ''I beg you. Have pity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Cult Guardian:''' ''Gladly. Once you tell me what I want to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra crept into the bushes nearby and listened in.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Theras:''' ''I don't know any more than [[Phidias]] did. Please. Stop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Cult Guardian:''' ''I want to stop. But I can't. Not until you tell us where you found the symbols in [[Phidias]]' [[Phidias' Workshop, Olympia|workshop]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Kassandra had to make a decision quickly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Distract.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "Kassandra threw a rock far past the Cultists, making a distinct sound far down the opposite side of the hill.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Cult Guardian:''' ''Go check it out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "13",
+            "content": "Two of the guards went to investigate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Theras:''' ''I beg you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Cult Guardian:''' ''Gladly. Once you tell me what I want to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "16",
+            "content": "With the Cult Guardian alone, Kassandra sneaked up on him and eliminated him, saving Theras.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "|-|Attack.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N7",
+            "global_id": "18",
+            "content": "Kassandra shouted to the Cultists.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Leave him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "20",
+            "content": "Kassandra attacked and eliminated the guards, saving Theras.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC3",
+            "global_id": "21",
+            "content": "|-|Do Nothing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N9",
+            "global_id": "22",
+            "content": "Kassandra held back, allowing the Cult Guardian to interrogate Theras further. He punched Theras in the face, and he fell onto the planks over the mineshaft behind him. He rose, clutching his abdomen.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "23",
+            "content": "*'''Theras:''' ''All right. I'll tell you. Just please, stop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "24",
+            "content": "*'''Cult Guardian:''' ''Speak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "25",
+            "content": "*'''Theras:''' ''In [[Argolis]], [[Agamemnon's Tomb]]. In [[Attika]], [[Tomb of Eteokles|Eteokles' Tomb]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "26",
+            "content": "*'''Cult Guardian:''' ''The third?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "27",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "Distract.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O1",
+            "global_id": "29",
+            "content": "(see first \"Distract.\" choice)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "30",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "31",
+            "content": "Attack.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "32",
+            "content": "(see first \"Attack.\" choice)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "33",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "34",
+            "content": "Do nothing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N10",
+            "global_id": "35",
+            "content": "Once more, Kassandra did not intervene.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "36",
+            "content": "*'''Theras:''' ''Please. I have children.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "37",
+            "content": "The Cult Guardian grabbed Theras by the neck.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "38",
+            "content": "*'''Cult Guardian:''' ''The third!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "39",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "40",
+            "content": "Attack.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O3",
+            "global_id": "41",
+            "content": "(see first \"Attack.\" choice)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "42",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "43",
+            "content": "Do nothing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N12",
+            "global_id": "44",
+            "content": "For a third time, Kassandra refused to help Theras.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "45",
+            "content": "*'''Theras:''' ''In [[Boeotia]], there's [[Tomb of Orion|Orion's Tomb]]. But the symbols don't do anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "46",
+            "content": "The Cult Guardian did not keep his word.  He threw Theras down the mineshaft once he had outlived his usefulness. Theras' scream faded into the depths of the mineshaft until it fell silent upon his death. Kassandra took the information gleaned from her eavesdropping and left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "47",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "48",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "49",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O4",
+            "global_id": "50",
+            "content": "(If Kassandra intervened to save Theras)<br />",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N14",
+            "global_id": "51",
+            "content": "Kassandra addressed Theras, who shook hands with her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "52",
+            "content": "*'''Theras:''' ''Eagle Bearer! I can't tell you how relieved I am to see you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Are you all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "54",
+            "content": "*'''Theras:''' ''It's nothing compared to what they did to poor Phidias. Did you hear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "55",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "56",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "57",
+            "content": "|-|Tell me about Phidias.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''What do you know about Phidias?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "59",
+            "content": "*'''Theras:''' ''Only rumours now. A [[Alexios|man]] in gold came into his workshop. Tortured him. Broke his hands. His body... was too destroyed for a proper burial. All because of these symbols.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Symbols?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "61",
+            "content": "|-|Tell me about the symbols.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''Theras, I need you to think. I'm looking for the location of some symbols. I can't explain why, but you have to help me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "64",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D23",
+            "global_id": "65",
+            "content": "*'''Theras:''' ''I was exploring the tombs of [[Agamemnon]], [[Eteokles]], and [[Orion]]. I'm a traveler like you. I found the symbols and etched them onto parchment to give to Phidias as a gift.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "66",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "67",
+            "content": "(If \"Where did you find the symbols?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Where were the symbols?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "69",
+            "content": "*'''Theras:''' ''In [[Argolis]] you'll find one in Agamemnon's [[Agamemnon's Tomb|Tomb]]. Eteokles' [[Tomb of Eteokles|Tomb]] in [[Attika]] is where I found another. The final one, I found in [[Boeotia]], deep in Orion's [[Tomb of Orion|Tomb]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "70",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O5",
+            "global_id": "71",
+            "content": "(If \"What happened to Phidias?\" is chosen. \u2013 Only available if earlier players did not ask about Phidias)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''What did you hear about Phidias?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "73",
+            "content": "*'''Theras:''' ''Rumors now. A man in gold came into his workshop. Tortured him. Broke his hands. His body... was too destroyed for a proper burial.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "74",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "75",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "76",
+            "content": "|-|I can protect you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''You need to find somewhere safe, Theras. You can sail with us on the [[Adrestia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "78",
+            "content": "*'''Theras:''' ''I would be forever in your debt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC12",
+            "global_id": "79",
+            "content": "|-|You should go.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''You need to find somewhere safe to hide, Theras.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "81",
+            "content": "*'''Theras:''' ''I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "82",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U7",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D32",
+            "global_id": "84",
+            "content": "*'''Theras:''' ''Take this map. It's rough, but it's the best I could do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "85",
+            "content": "Theras handed Kassandra a map.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "86",
+            "content": "*'''Theras:''' ''Chaire, Eagle Bearer, and thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

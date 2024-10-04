@@ -1,0 +1,42 @@
+{
+    "QuestName": "Hirpes the Sordid (memory)",
+    "QuestID": "226383",
+    "Revision": {
+        "id": "1045780",
+        "parentid": "813122",
+        "timestamp": "2023-06-06T04:08:36Z",
+        "contributor": null,
+        "comment": "imageneed template",
+        "origin": "1045780",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "3fu0qolm2awkhmg5g5jtmv3we9u651o"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra | the [[Hirpes the Sordid | mercenary]]"
+        },
+        "Tag_Imageneed": {
+            "description": "Assassin's Creed: Odyssey \u2014 [[Legacy of the First Blade]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Hirpes the Sordid|This mercenary preferred a stealthy approach. He would hide for hours while waiting for his targets. Assigned to patrol Pellene, he knew how to use the town's geography to his advantage.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Main",
+        "previous": "Atos the Beast Caller (memory)|Atos the Beast Caller",
+        "next": "Aias the Clean (memory)|Aias the Clean",
+        "source": "Kassandra",
+        "location": "Pellene, Achaia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Hirpes the Sordid''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra tracked down [[Hirpes the Sordid]], one of the mercenaries hired by the [[Phila|Tempest]].",
+    "Section_Dialogue": "Kassandra found the [[mercenary]] in [[Pellene]], attacking him.\n*'''Mercenary:''' ''The Tempest demands your head, Eagle Bearer!''\n*'''Kassandra:''' ''She'll have yours instead.''\nKassandra eliminated Hirpes.\n*'''Kassandra:''' ''This mercenary was sent by the Tempest. He won't be the last.''",
+    "Section_Outcome": "Kassandra eliminated Hirpes the Sordid.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

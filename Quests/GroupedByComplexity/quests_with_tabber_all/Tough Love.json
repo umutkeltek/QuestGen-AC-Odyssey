@@ -1,0 +1,704 @@
+{
+    "Quest_Name": "Tough Love",
+    "Quest_ID": "225235",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd ToughLove.png",
+        "description": "'Arriving on Thasos, Kassandra found herself caught in the middle of a family drama that included her trusty ship captain Barnabas, his Neleus|nephew, and an overly friendly Mikkos|caretaker.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Mikkos}}",
+        "next": "Have You Seen My Mikkos?",
+        "source": "Kassandra",
+        "location": "Lemnos, Greece<br />Thasos, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Tough Love''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Mikkos]] north of [[Myrina]] in [[Lemnos]].",
+    "Section_Dialogue": "Kassandra docked at Myrina and a civilian hailed her as she disembarked.\n*'''Civilian:''' ''The Eagle Bearer?'' [[Mercenary|Misthios]]! ''Over here, I need to talk to you!''\nKassandra approached the man.\n*'''Civilian:''' Misthios! ''And that looks like [[Barnabas]]' ship.''\n*'''Kassandra:''' ''In fact it\u2014''\nBarnabas came up behind Kassandra.\n*'''Barnabas:''' ''Ah! That ship belongs to the Eagle Bearer now. Legendary ''misthios'', famed across the Greek world. I am just her humble servant.''\n*'''Civilian:''' ''Barnabas! You're back!''\n*'''Barnabas:''' ''In the flesh. A little older, but not a bit wiser.''\n*'''Civilian:''' ''[[Mikkos]] sent me here to wait for your return. It's about [[Neleus]]...''\nBarnabas rolled his one good eye.\n*'''Barnabas:''' ''Here we go. What has my nephew gotten himself into this time?''\n*'''Civilian:''' ''I think the trouble is real, Barnabas. You should go to him. Mikkos told me not to return without help, and I mean not to.''\nBarnabas raised a finger.\n*'''Barnabas:''' ''I need to think. But one thing... I know my nephew. Ah yes. He's fine, that much is certain. I'll be on the ship.''\nBarnabas walked back towards the ship.\n*'''Civilian:''' ''And you, ''misthios''? I need ''someone'' to go see about Neleus.''\n(If players choose \"Why doesn't Barnabas believe you?\")\n*'''Kassandra:''' ''Why doesn't Barnabas think something is wrong with his nephew?''\n*'''Civilian:''' ''It's just... Neleus was a legendary nuisance growing up. He lied. He cheated. He brawled and broke things.''\n*'''Kassandra:''' ''Some of us grow out of that.''\n*'''Civilian:''' ''Well, now Neleus is a serious athlete, training to be an [[Olympic Games|Olympic]] champion. And what's more, he's ''family'' to Barnabas.''\n*'''Kassandra:''' ''That ''is'' important.''\n(Accept \u2013 I'll see what's going on.)\n*'''Kassandra:''' ''I'll help Barnbas' nephew however I can.''\n*'''Civilian:''' ''Neleus lives with his caretaker, Mikkos. Their house is just up the hill north of here.''\nKassandra travelled to [[Mikkos' House]]. As she approached, she heard a loud argument coming from inside the house.\n*'''Barnabas:''' ''The amount of times this boy's been \"too sick to work\" only to hear, ''not two hours later'', he's in the fields with his friends. By [[Zeus]]!''\n*'''Mikkos:''' ''He's grown since you've been gone. He's not a kid anymore.''\n*'''Barnabas:''' ''Ah, but still up to his old tricks, if you ask me.''\n*'''Mikkos:''' ''Listen to reason, Barnabas. I saw him vomiting myself. And now he's like this!''\nKassandra entered the house to see Barnabas and Mikkos standing over Neleus, who lay on a mat on the ground.\n*'''Barnabas:''' ''He's faking it, Mikkos. I've seen this routine before. Gods! Grant me [[Penelope]]'s patience.''\nNeleus groaned in his sleep.\n*'''Mikkos:''' ''It's not just Neleus. There have been others. All promising young athletes turning up sick or missing. Something's not right in [[Thasos]].''\n*'''Barnabas:''' ''What goes on across Thasos is not my concern. But I know my nephew. Ah, yes. He practically ''worships'' at the altar of [[Aergia]]. A devotee of sloth and idleness, he is.''\n*'''Mikkos:''' ''Help me talk sense into him, ''misthios.\n\n<tabber>\n|-|Neleus needs tough love.=\n*'''Kassandra:''' ''You know your nephew best, and it sounds like he needs a firm hand.''\n*'''Barnabas:''' ''I thought his caretaker could handle him, but apparently I was wrong.''\nThey all looked at Neleus, who kept groaning.\n*'''Mikkos:''' ''Come on Barnabas, he's plainly ill.''\n*'''Barnabas:''' ''Bah! I'll be at the ship when Neleus snaps out of it.''\n|-|Try a gentle approach.=\n*'''Kassandra:''' ''Maybe you should be a bit easier on your nephew this time. He really does seem sick.''\nBarnabas shook his head sadly as Neleus groaned again.\n*'''Barnabas:''' ''Ah, you're right. I\u2013I guess I didn't want it to be true. He's not a boy anymore, I can see that.''\n*'''Mikkos:''' ''He may be grown, but he still needs help.''\n*'''Barnabas:''' ''There's only one way I know how.''\nBarnabas walked out of the house, pausing at the door only to give Kassandra and Mikkos his parting instructions.\n*'''Barnabas:''' ''Let me know if there is any change in his condition. I'll be at the ship making offerings to [[Asklepios]].''\n</tabber>\nBarnabas left. Kassandra turned back to Mikkos.\n*'''Kassandra:''' ''Give Barnabas some time.''\n*'''Mikkos:''' ''But our time may run out. I have more leads to follow up on, but with Neleus like this I can't leave his side. Maybe you could help me?''\n(Accept \u2013 I'll help.)\n*'''Kassandra:''' ''Barnabas is like family to me. I want to do anything I can to help Neleus.''\n*'''Mikkos:''' ''Thank you.''\nMikkos relaxed.\n*'''Mikkos:''' ''You know, it's not often a beautiful and capable misthios comes to this house.''\n\n<tabber>\n|-|Flirt \u2013 Must have been the Fates.=\n*'''Kassandra:''' ''They may have brought Neleus sickness, but the [[Fates]] have brought us together...''\n*'''Mikkos:''' ''I'd hate to get sick someday and think of all the fun I didn't have.''\n*'''Kassandra:''' ''But first, there are those leads you mentioned.''\n|-|Not now.=\n*'''Kassandra:''' ''We shouldn't talk like this with Neleus in this condition. Now, about those leads you mentioned...''\n</tabber>\n*'''Mikkos:''' ''Well, someone at the [[Champion's Gymnasium]] must know something.''\n*'''Mikkos:''' ''[[Aietes]] was the last one to be with Neleus when he was well.''\n*'''Kassandra:''' ''They were friends?''\n*'''Mikkos:''' ''They were. If he doesn't know anything, you could talk to the doctor at the quarry.''\n*'''Kassandra:''' ''If he's the local doctor, he's bound to know something.''\n(If players choose \"What more can you tell me about the Champion's Gymnasium?\")\n*'''Kassandra:''' ''What more can you tell me about this gymnasium? You say other athletes have disappeared?''\n*'''Mikkos:''' ''Many, yes. A lot of the athletes came here to train from elsewhere across the Greek world, so when they disappear, people think they maybe just went home.''\n*'''Kassandra:''' ''A convenient story if something bad were happening to them.''\n*'''Mikkos:''' ''Exactly.''\n(If players choose \"Where is the quarry?\")\n*'''Kassandra:''' ''I'd like to have a word with that doctor at the quarry.''\n*'''Mikkos:''' ''The [[Aliki Quarry]] is at the southern point of Thasos. The doctor there is mixed up with training athletes and the workers.''\n*'''Kassandra:''' ''Sounds like a strange connection.''\n*'''Mikkos:''' ''Yes, until you realize half of the workers are athletes who have given up on their training. Something's happened to them, and that doctor is the only connection I see.''\n(If players choose \"Where can I find Aietes?\")\n*'''Kassandra:''' ''The last person to see Neleus before he got sick was Aietes. Where can I find him?''\n*'''Mikkos:''' ''He's an aspiring athlete, too, but nowhere near as talented as Neleus. He trains alone on the outskirts of the [[Vineyard of Glory]]. You're sure to find him there.''\n(Leave \u2013 \"I'll look into these leads.\")\n*'''Kassandra:''' ''I'll follow up on these leads and check back when I know what's going on.''\n*'''Mikkos:''' ''Thank you, ''misthios''. And feel free to \"check back\" any time.''\n\n(The player can talk to Mikkos again in the house)\n*'''Mikkos:''' ''You're back! Neleus hasn't gotten any better. But maybe you're here to see me instead?''\n\n<tabber>\n|-|I'm here for you (Flirt)=\n*'''Kassandra:''' ''I've been thinking about you and wanted to see you again. I won't pretend otherwise.''\n*'''Mikkos:''' ''You've stormed into my life like a creature from the summit of Olympus itself. It's safe to say I've been thinking about you, too.''\n*'''Kassandra:''' ''We should probably leave our feelings aside...for now.''\n*'''Mikkos:''' ''For the sake of Neleus.''\n*'''Kassandra:''' ''Yes.''\n|-|Now is not the time.=\n*'''Kassandra:''' ''We can't do this now.''\n*'''Mikkos:''' ''I know, I know. It's just -''\n*'''Kassandra:''' ''What happened to Neleus is still an open question. I need to get to work.''\n|-|I have questions.=\n*'''Kassandra:''' ''I have some questions.''\n</tabber>\n*'''Mikkos:''' ''Is there anything I can do to help?''\n(goes back to the questions above)",
+    "Section_Outcome": "Kassandra agreed to help Mikkos investigate what was wrong with Neleus.",
+    "Section_Trivia": "The advice that Kassandra gives Barnabas about Neleus has a decisive influence on the outcome of the entire\u00a0quest line. If the player choses to tell Barnabas that \"Neleus needs tough love\", then both Neleus and Mikkos will not survive\u00a0[[Retribution]].",
+    "Section_Behind_the_scenes": "* [[File:TheTwoBarnabases.jpg|thumb|250px|alt=Quest Barnabas coaxed down to the dock for a group photo with Real Barnabas.|The two Barnabases]] After Kassandra sailed to Mikkos' dock and walked up the path to speak with Barnabas and Mikkos in Mikkos' house, she left the house and looked down the cliffside at the Adrestia, only to see that Barnabas was not just standing behind her in the house, but also on the deck of the ship below. Strangely, Kassandra made no comment on this disturbing discovery.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Mikkos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra docked at Myrina and a civilian hailed her as she disembarked.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''The Eagle Bearer?'' [[Mercenary|Misthios]]! ''Over here, I need to talk to you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Civilian:''' Misthios! ''And that looks like [[Barnabas]]' ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''In fact it\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Barnabas came up behind Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Barnabas:''' ''Ah! That ship belongs to the Eagle Bearer now. Legendary ''misthios'', famed across the Greek world. I am just her humble servant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Civilian:''' ''Barnabas! You're back!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Barnabas:''' ''In the flesh. A little older, but not a bit wiser.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Civilian:''' ''[[Mikkos]] sent me here to wait for your return. It's about [[Neleus]]...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "Barnabas rolled his one good eye.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Barnabas:''' ''Here we go. What has my nephew gotten himself into this time?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Civilian:''' ''I think the trouble is real, Barnabas. You should go to him. Mikkos told me not to return without help, and I mean not to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "14",
+            "content": "Barnabas raised a finger.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Barnabas:''' ''I need to think. But one thing... I know my nephew. Ah yes. He's fine, that much is certain. I'll be on the ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "16",
+            "content": "Barnabas walked back towards the ship.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''And you, ''misthios''? I need ''someone'' to go see about Neleus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "18",
+            "content": "(If players choose \"Why doesn't Barnabas believe you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Why doesn't Barnabas think something is wrong with his nephew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Civilian:''' ''It's just... Neleus was a legendary nuisance growing up. He lied. He cheated. He brawled and broke things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Some of us grow out of that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Civilian:''' ''Well, now Neleus is a serious athlete, training to be an [[Olympic Games|Olympic]] champion. And what's more, he's ''family'' to Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''That ''is'' important.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "24",
+            "content": "(Accept \u2013 I'll see what's going on.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'll help Barnbas' nephew however I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Civilian:''' ''Neleus lives with his caretaker, Mikkos. Their house is just up the hill north of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "27",
+            "content": "Kassandra travelled to [[Mikkos' House]]. As she approached, she heard a loud argument coming from inside the house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Barnabas:''' ''The amount of times this boy's been \"too sick to work\" only to hear, ''not two hours later'', he's in the fields with his friends. By [[Zeus]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Mikkos:''' ''He's grown since you've been gone. He's not a kid anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Barnabas:''' ''Ah, but still up to his old tricks, if you ask me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Mikkos:''' ''Listen to reason, Barnabas. I saw him vomiting myself. And now he's like this!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "32",
+            "content": "Kassandra entered the house to see Barnabas and Mikkos standing over Neleus, who lay on a mat on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Barnabas:''' ''He's faking it, Mikkos. I've seen this routine before. Gods! Grant me [[Penelope]]'s patience.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "34",
+            "content": "Neleus groaned in his sleep.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Mikkos:''' ''It's not just Neleus. There have been others. All promising young athletes turning up sick or missing. Something's not right in [[Thasos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Barnabas:''' ''What goes on across Thasos is not my concern. But I know my nephew. Ah, yes. He practically ''worships'' at the altar of [[Aergia]]. A devotee of sloth and idleness, he is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Mikkos:''' ''Help me talk sense into him, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "40",
+            "content": "|-|Neleus needs tough love.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''You know your nephew best, and it sounds like he needs a firm hand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Barnabas:''' ''I thought his caretaker could handle him, but apparently I was wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "43",
+            "content": "They all looked at Neleus, who kept groaning.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Mikkos:''' ''Come on Barnabas, he's plainly ill.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Barnabas:''' ''Bah! I'll be at the ship when Neleus snaps out of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "46",
+            "content": "|-|Try a gentle approach.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Maybe you should be a bit easier on your nephew this time. He really does seem sick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "48",
+            "content": "Barnabas shook his head sadly as Neleus groaned again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "49",
+            "content": "*'''Barnabas:''' ''Ah, you're right. I\u2013I guess I didn't want it to be true. He's not a boy anymore, I can see that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "50",
+            "content": "*'''Mikkos:''' ''He may be grown, but he still needs help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Barnabas:''' ''There's only one way I know how.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "52",
+            "content": "Barnabas walked out of the house, pausing at the door only to give Kassandra and Mikkos his parting instructions.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Barnabas:''' ''Let me know if there is any change in his condition. I'll be at the ship making offerings to [[Asklepios]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N13",
+            "global_id": "55",
+            "content": "Barnabas left. Kassandra turned back to Mikkos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Give Barnabas some time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "57",
+            "content": "*'''Mikkos:''' ''But our time may run out. I have more leads to follow up on, but with Neleus like this I can't leave his side. Maybe you could help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "58",
+            "content": "(Accept \u2013 I'll help.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''Barnabas is like family to me. I want to do anything I can to help Neleus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "60",
+            "content": "*'''Mikkos:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "61",
+            "content": "Mikkos relaxed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "62",
+            "content": "*'''Mikkos:''' ''You know, it's not often a beautiful and capable misthios comes to this house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "63",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "64",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "65",
+            "content": "|-|Flirt \u2013 Must have been the Fates.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''They may have brought Neleus sickness, but the [[Fates]] have brought us together...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "67",
+            "content": "*'''Mikkos:''' ''I'd hate to get sick someday and think of all the fun I didn't have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''But first, there are those leads you mentioned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "69",
+            "content": "|-|Not now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''We shouldn't talk like this with Neleus in this condition. Now, about those leads you mentioned...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "71",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D45",
+            "global_id": "72",
+            "content": "*'''Mikkos:''' ''Well, someone at the [[Champion's Gymnasium]] must know something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "73",
+            "content": "*'''Mikkos:''' ''[[Aietes]] was the last one to be with Neleus when he was well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''They were friends?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "75",
+            "content": "*'''Mikkos:''' ''They were. If he doesn't know anything, you could talk to the doctor at the quarry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''If he's the local doctor, he's bound to know something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "77",
+            "content": "(If players choose \"What more can you tell me about the Champion's Gymnasium?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D50",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''What more can you tell me about this gymnasium? You say other athletes have disappeared?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "79",
+            "content": "*'''Mikkos:''' ''Many, yes. A lot of the athletes came here to train from elsewhere across the Greek world, so when they disappear, people think they maybe just went home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''A convenient story if something bad were happening to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "81",
+            "content": "*'''Mikkos:''' ''Exactly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "82",
+            "content": "(If players choose \"Where is the quarry?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''I'd like to have a word with that doctor at the quarry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "84",
+            "content": "*'''Mikkos:''' ''The [[Aliki Quarry]] is at the southern point of Thasos. The doctor there is mixed up with training athletes and the workers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Sounds like a strange connection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "86",
+            "content": "*'''Mikkos:''' ''Yes, until you realize half of the workers are athletes who have given up on their training. Something's happened to them, and that doctor is the only connection I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "87",
+            "content": "(If players choose \"Where can I find Aietes?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D58",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''The last person to see Neleus before he got sick was Aietes. Where can I find him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "89",
+            "content": "*'''Mikkos:''' ''He's an aspiring athlete, too, but nowhere near as talented as Neleus. He trains alone on the outskirts of the [[Vineyard of Glory]]. You're sure to find him there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "90",
+            "content": "(Leave \u2013 \"I'll look into these leads.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''I'll follow up on these leads and check back when I know what's going on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "92",
+            "content": "*'''Mikkos:''' ''Thank you, ''misthios''. And feel free to \"check back\" any time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "93",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "94",
+            "content": "(The player can talk to Mikkos again in the house)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "95",
+            "content": "*'''Mikkos:''' ''You're back! Neleus hasn't gotten any better. But maybe you're here to see me instead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "96",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "97",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "98",
+            "content": "|-|I'm here for you (Flirt)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''I've been thinking about you and wanted to see you again. I won't pretend otherwise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "100",
+            "content": "*'''Mikkos:''' ''You've stormed into my life like a creature from the summit of Olympus itself. It's safe to say I've been thinking about you, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''We should probably leave our feelings aside...for now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "102",
+            "content": "*'''Mikkos:''' ''For the sake of Neleus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''Yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "104",
+            "content": "|-|Now is not the time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''We can't do this now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "106",
+            "content": "*'''Mikkos:''' ''I know, I know. It's just -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''What happened to Neleus is still an open question. I need to get to work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "108",
+            "content": "|-|I have questions.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I have some questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "110",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D72",
+            "global_id": "111",
+            "content": "*'''Mikkos:''' ''Is there anything I can do to help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O5",
+            "global_id": "112",
+            "content": "(goes back to the questions above)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

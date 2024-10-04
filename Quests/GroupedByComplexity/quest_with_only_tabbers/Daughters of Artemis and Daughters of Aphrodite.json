@@ -1,0 +1,320 @@
+{
+    "Quest_Name": "Daughters of Artemis and Daughters of Aphrodite",
+    "Quest_ID": "226150",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Sharp Lessons",
+        "next": "Learning the Land",
+        "source": "Kassandra",
+        "location": "Phokis, Greece"
+    },
+    "General_Description": "'''Daughters of Artemis and Daughters of Aphrodite''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A rebel faction of the [[Daughters of Artemis]] made camp near [[Lalaia]]. Kassandra ventured there to investigate their intentions and seek aid for the threatened village.",
+    "Section_Dialogue": "After becoming leader of the Daughters of Artemis, Kassandra learned of a group of Daughters that had rebelled against her leadership happened to be near Lalaia, which was in need of skilled warriors to defend it. She made her way to the [[Forest Camp]] to negotiate.\n*'''Kassandra:''' ''Hello?''\nThe Daughters returned her greeting with a somewhat hostile gaze.\n*'''Kassandra:''' ''The traditional welcome of the Daughters of Artemis.''\n*'''Abrota:''' ''You are the Eagle Bearer, Messenger of Zeus, and Leader of the Daughters of Artemis?''\n*'''Kassandra:''' ''I earned the title by defeating [[Daphnae]]. I've come to ask for your help. The village near here is under siege by the [[Sons of Xerxes]].''\n*'''Abrota:''' ''We followed Daphnae. We do not follow you. You are a brute and a thug. Great leaders aren't measured by the piles of bodies at their feet, but by the help they give others.''\n\n<tabber>\n|-|Great leaders keep us safe.=\n*'''Kassandra:''' ''Without the sword and [[Spear of Leonidas|spear of my grandfather]], King [[Leonidas I of Sparta|Leonidas]], this coast would belong to the Persians. Great leaders protect us from invasion, no matter the price in blood.''\n|-|I feel the same way.=\n*'''Kassandra:''' ''A selfish leader is no leader at all. A good leader helps people in their time of need.''\n</tabber>\n*'''Abrota:''' ''A great leader also provides for their people. Daphnae always kept us in meat and shelter. You kill animals for trophies. Like the [[Zeus|god]] you champion, you are selfish. Why would we trust you?''\n\n<tabber>\n|-|I hunt like Artemis.=\n*'''Kassandra:''' ''If [[Artemis]] found me unworthy, I would not have returned with the pelts of the [[Nemean Lion]] or [[Kallisto the Bear]]. If anything, this proves me more Artemis' champion than Zeus'.''\n|-|I only take what I need.=\n*'''Kassandra:''' ''I grew up with nothing and have not forgotten the ache of hunger. I take what I need and no more.''\n</tabber>\n*'''Abrota:''' ''Why do you care about this village and why do you expect our sympathy? What do we stand to gain from this?''\n\n<tabber>\n|-|You will gain resources.=\n*'''Kassandra:''' ''This forest may provide you with food and shelter for now, but you won't be able to fend off the Sons of Xerxes for long. You need those resources.''\n|-|You will gain allies.=\n*'''Kassandra:''' ''The women of Lalaia have food and shelter, but are not prepared to defend themselves from raiding bandits. An alliance benefits you both.''\n</tabber>\nAbrota considered Kassandra's responses.\n\n<tabber>\n|-|2+ \"assertive\" choices=\n*'''Abrota:''' ''Power radiates off you the same way it did Daphnae. I can see now why you carry her title. If you can get me and my best warrior to yield, then my bow and sisters are yours.''\n|-|2+ \"compassionate\" choices=\n*'''Abrota:''' ''I'm surprised by your compassion, Hero, and beginning to see what Daphnae saw in you. Still, I do not submit to any leader who cannot defeat me and my best warrior in combat. If you can get me on my back, then I bow. Only then.''\n</tabber>\n*'''Abrota:''' ''Telesilla, join me!''\nThe two women attacked Kassandra, but she defeated them swiftly.\n*'''Abrota:''' ''I yield! You have proven yourself worthy of your titles. My warriors and I are yours.''\n*'''Kassandra:''' ''You fought well. You know the direction of Lalaia, yes?''\n*'''Abrota:''' ''Of course. We'll gather our things and join you there.''\n*'''Kassandra:''' ''I expect to see you defending Lalaia when the Sons of Xerxes attack.''\n*'''Abrota:''' ''Yes, Champion.''\n\nIf this is the last of the three quests completed:\n*'''Kassandra:''' ''I've done all I can for these women. Time to get back to Periktione.''",
+    "Section_Outcome": "*Kassandra dueled Abrota and Telesilla, earning the loyalty of the camp's Daughters of Artemis and recruiting them to the defense of Lalaia.",
+    "Section_Trivia": "*This quest is only available if the player has assumed leadership of the Daughters of Artemis by killing [[Daphnae]] at the end of [[Artemis's Request]].\n*For the purposes of Abrota's final statement, the first dialogue choices are decidedly \"assertive\" in tone and the second dialogue choices are decidedly \"compassionate.\"",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Lalaia",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After becoming leader of the Daughters of Artemis, Kassandra learned of a group of Daughters that had rebelled against her leadership happened to be near Lalaia, which was in need of skilled warriors to defend it. She made her way to the [[Forest Camp]] to negotiate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Hello?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "The Daughters returned her greeting with a somewhat hostile gaze.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The traditional welcome of the Daughters of Artemis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Abrota:''' ''You are the Eagle Bearer, Messenger of Zeus, and Leader of the Daughters of Artemis?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I earned the title by defeating [[Daphnae]]. I've come to ask for your help. The village near here is under siege by the [[Sons of Xerxes]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Abrota:''' ''We followed Daphnae. We do not follow you. You are a brute and a thug. Great leaders aren't measured by the piles of bodies at their feet, but by the help they give others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Great leaders keep us safe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Without the sword and [[Spear of Leonidas|spear of my grandfather]], King [[Leonidas I of Sparta|Leonidas]], this coast would belong to the Persians. Great leaders protect us from invasion, no matter the price in blood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|I feel the same way.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''A selfish leader is no leader at all. A good leader helps people in their time of need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Abrota:''' ''A great leader also provides for their people. Daphnae always kept us in meat and shelter. You kill animals for trophies. Like the [[Zeus|god]] you champion, you are selfish. Why would we trust you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "18",
+            "content": "|-|I hunt like Artemis.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''If [[Artemis]] found me unworthy, I would not have returned with the pelts of the [[Nemean Lion]] or [[Kallisto the Bear]]. If anything, this proves me more Artemis' champion than Zeus'.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "20",
+            "content": "|-|I only take what I need.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I grew up with nothing and have not forgotten the ache of hunger. I take what I need and no more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "22",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Abrota:''' ''Why do you care about this village and why do you expect our sympathy? What do we stand to gain from this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "25",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "26",
+            "content": "|-|You will gain resources.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''This forest may provide you with food and shelter for now, but you won't be able to fend off the Sons of Xerxes for long. You need those resources.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "28",
+            "content": "|-|You will gain allies.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''The women of Lalaia have food and shelter, but are not prepared to defend themselves from raiding bandits. An alliance benefits you both.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "31",
+            "content": "Abrota considered Kassandra's responses.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "33",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "34",
+            "content": "|-|2+ \"assertive\" choices=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "35",
+            "content": "*'''Abrota:''' ''Power radiates off you the same way it did Daphnae. I can see now why you carry her title. If you can get me and my best warrior to yield, then my bow and sisters are yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "36",
+            "content": "|-|2+ \"compassionate\" choices=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "37",
+            "content": "*'''Abrota:''' ''I'm surprised by your compassion, Hero, and beginning to see what Daphnae saw in you. Still, I do not submit to any leader who cannot defeat me and my best warrior in combat. If you can get me on my back, then I bow. Only then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D16",
+            "global_id": "39",
+            "content": "*'''Abrota:''' ''Telesilla, join me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "40",
+            "content": "The two women attacked Kassandra, but she defeated them swiftly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "41",
+            "content": "*'''Abrota:''' ''I yield! You have proven yourself worthy of your titles. My warriors and I are yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''You fought well. You know the direction of Lalaia, yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "43",
+            "content": "*'''Abrota:''' ''Of course. We'll gather our things and join you there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I expect to see you defending Lalaia when the Sons of Xerxes attack.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "45",
+            "content": "*'''Abrota:''' ''Yes, Champion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "47",
+            "content": "If this is the last of the three quests completed:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I've done all I can for these women. Time to get back to Periktione.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

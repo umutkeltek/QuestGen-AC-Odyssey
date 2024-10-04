@@ -1,0 +1,101 @@
+{
+    "Quest_Name": "A Midsummer Nightmare",
+    "Quest_ID": "236468",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "A Midsummer Nightmare",
+        "description": "'A writer, enraged that a drunken actor had ruined her play, vowed to get revenge either on the man himself, or on his goats.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''A Midsummer Nightmare''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met an incensed writer, who had a job for her.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Anyone willing to help me teach a wretched ''mal\u00e1kas'' a lesson, let's talk!''\nShe sought out the writer and addressed her.\n*'''Kassandra:''' ''You left a message on the board. What\u2019s the matter?''\n*'''Woman:''' ''My play was a disaster, ''misthios''! The actor was drunk, the ''mal\u00e1kas''! He ruined it!''\n*'''Kassandra:''' ''What did he do?''\n*'''Woman:''' ''What didn't he do? Stumbling around, slurring the lines he didn't forget - he even spewed vomit on the front row! I was a fool to think an idiot [[goat]]herd could be an actor, but I'll have my revenge.''\n*'''Kassandra:''' ''And let me guess, you want me to kill him.''\n*'''Woman:''' ''His blood must be spilled.''\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''I'm in.''",
+    "Section_Outcome": "Kassandra helped the writer and was rewarded for this.",
+    "Section_Trivia": "*The name of the memory references ''{{Wiki|A Midsummer Night's Dream}}'', a play by [[William Shakespeare]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Anyone willing to help me teach a wretched ''mal\u00e1kas'' a lesson, let's talk!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the writer and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You left a message on the board. What\u2019s the matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''My play was a disaster, ''misthios''! The actor was drunk, the ''mal\u00e1kas''! He ruined it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''What did he do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''What didn't he do? Stumbling around, slurring the lines he didn't forget - he even spewed vomit on the front row! I was a fool to think an idiot [[goat]]herd could be an actor, but I'll have my revenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''And let me guess, you want me to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''His blood must be spilled.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm in.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

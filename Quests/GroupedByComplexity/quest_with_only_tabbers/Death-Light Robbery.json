@@ -1,0 +1,925 @@
+{
+    "Quest_Name": "Death-Light Robbery",
+    "Quest_ID": "232598",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA ToH Death-Light Robbery 01.png",
+        "description": "'The dock was a scene of chaos. A thief had stolen coins from a group of souls waiting to cross the Styx. Without the coins, Charon couldn't allow them passage into the underworld, so Kassandra had a mystery to solve.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Charon}}",
+        "previous": "Home is Where You Make It",
+        "source": "Kassandra",
+        "location": "The Scorched Lands, the Underworld",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Death-Light Robbery''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Charon]] to deal with an issue of theft near the [[Styx]].",
+    "Section_Dialogue": "Kassandra travelled to the docks, finding a huge crowd gathering in front of Charon.\n*'''Kassandra:''' ''What now?''\nKassandra approached Charon.\n*'''Kassandra:''' ''What's going on here?''\n*'''Charon:''' ''A disaster! Can't I just have a normal day of ferrying the dead?''\n*'''Kassandra:''' ''Tell me what happened.''\n*'''Charon:''' ''All of these souls had their coins stolen. Assistant, you have to find the [[thief]] and get coins back so the dead can cross the Styx.''\n*'''Kassandra:''' ''Why don't you just let them through?''\n*'''Charon:''' ''I know you're new around here, but that's not really how we do things in the [[underworld]]. Besides, [[Hades]] would burn me one toe at a time if I did.''\n*'''Kassandra:''' ''All right, I'll find the coin thief.''\nCharon nodded and turned to the crowd.\n*'''Charon:''' ''You hear that, everyone? My assistant will find the coin thief!''\n[[File:ACOD FoA ToH Death-Light Robbery 02.png|thumb|250px|Kassandra learning what happened]]\n(If \"Why would anyone steal coins?\" is chosen.)\n*'''Kassandra:''' ''Why would anyone want to rob the dead?''\n*'''Charon:''' ''Isn't it obvious? The coins are used to pay me for passage across the Styx into the underworld.''\n(If \"Who do you think did it?\" is chosen.)\n*'''Kassandra:''' ''Do you suspect anyone here already?''\n*'''Charon:''' ''So many pass through, and honestly... you all look the same to me.''\n*'''Kassandra:''' ''Come on. Think.''\n*'''Charon:''' ''Well... There was a [[merchant]] and a politician who acted strangely. They were the only ones not storming my dock.''\n(Leave \u2013 That's all for now.)\n*'''Kassandra:''' ''I'll come back when I have news.''\n*'''Charon:''' ''I'd start looking in the [[Passage of Souls]], it's where the first coins went missing. Good luck.''\n*'''Kassandra:''' ''With all the thieves in the underworld, I'll need it.''\nKassandra travelled to the Passage of Souls. Arriving there, she spoke to a soul.\n[[File:ACOD FoA ToH Death-Light Robbery 03.png|thumb|250px|Kassandra speaking to one of the souls]]\n*'''Mortal Man:''' ''How am I supposed to find anything in this dirty, horrible wasteland?''\n*'''Kassandra:''' ''You must be looking for your stolen coins.''\n*'''Mortal Man:''' ''How do ''you'' know? Maybe you're the criminal who came to admire their handiwork.''\n*'''Kassandra:''' ''I'm looking for the thief too, but I won't help with that attitude.''\n*'''Mortal Man:''' ''Fine. I've found nothing here myself, anyway.''\n(If \"When did you last have the coins?\" is chosen.)\n*'''Kassandra:''' ''You must remember when you last had your coins.''\n*'''Mortal Man:''' ''Course I remember. I was walking through the valley with the rest and struck up conversation with a merchant. So arrogant! Still wearing his jewels and [[gold]]. Won't do much for him here. When I reached the docks, they were gone.''\n(If \"Did you see anything suspicious?\" is chosen.)\n*'''Kassandra:''' ''Did anything catch your attention?''\n*'''Mortal Man:''' ''The merchant I spoke to... Seemed nervous. He asked if we really had to pay the ferryman. Perhaps his coins were already stolen.''\n(Leave \u2013 I have enough to go on.)\n*'''Kassandra:''' ''I think I've got what I need.''\nKassandra found a bunch of empty coin pouches in the skull of a huge beast.\n*'''Kassandra:''' ''Empty coin pouches. The strings have been cut.''\nKassandra approached a dig site.\n*'''Kassandra:''' ''Looks like someone buried something here and then came back for it. Must have been in a hurry.''\nKassandra investigated a broken bracelet.\n*'''Kassandra:''' ''A gold bracelet. But it's broken\u2014must've snapped when its owner was digging.''\nKassandra spoke to a woman.\n[[File:ACOD FoA ToH Death-Light Robbery 04.png|thumb|250px|Kassandra speaking to another soul]]\n*'''Mortal Woman:''' ''You don't look like the usual people I see passing through here.''\n*'''Kassandra:''' ''I'm not dead, if that's what you mean. I'm searching for something.''\n*'''Mortal Woman:''' ''Makes two of us. I'm looking for the coins I lost. They must be around here somewhere.''\n(If \"When did you last have the coins?\" is chosen.)\n*'''Kassandra:''' ''Think of when you last had them.''\n*'''Mortal Woman:''' ''I remembering wandering with the crowd of other people... We were all moving towards the dock\u2014I don't remember where we came from. But as we reached this place, the crowd halted as a man, a politician I think, got up and addressed us.''\n(If \"Where did you lose your coins?\" is chosen.)\n*'''Kassandra:''' ''Where were you when you realized your coins were missing?''\n*'''Mortal Woman:''' ''At the dock. I was going to pay for the ferryman when I discovered they were gone.''\n(If players choose \"Did you see anything suspicious?\")\n*'''Kassandra:''' ''Did you see anything strange during your travels?''\n*'''Mortal Woman:''' ''Only the politician. He was moving away from the docks, while everyone else was moving toward them.''\n(Leave \u2013 I have to go.)\n*'''Kassandra:''' ''I have to go.''\n*'''Mortal Woman:''' ''Good luck in your search.''\nKassandra continued searching the area, finding a [[Short blade|dagger]] near a couple of opened chests.\n*'''Kassandra:''' ''A dagger. Looks expensive. Must've been used to cut the coins out.''\nKassandra recovered the dagger and returned to the man she talked to earlier.\n*'''Mortal Man:''' ''Any news of my coins?''\n(If \"Do you recognize this dagger?\" is chosen.)\n*'''Kassandra:''' ''I found this dagger. Remind you of anything?''\n*'''Mortal Man:''' ''A ha! That's what I felt! It nicked me when they cut the strings of my purse.''\n*'''Kassandra:''' ''So did you see who did it?''\n*'''Mortal Man:''' ''No, I was too focused on the politician addressing the crowd. Captivating man.''\n(Leave \u2013 I have enough to go on.)\n*'''Kassandra:''' ''I think I've got what I need.''\nKassandra returned to Charon at the docks, along with two men sitting on the ground.\n*'''Charon:''' ''Finally! I was starting to worry you'd gotten lost.''\n*'''Kassandra:''' ''I didn't think ''your'' kind were capable of worrying.''\n*'''Charon:''' ''There are many things you don't know about us. Like how ''impatient'' we are. Have you discovered who stole the coins?''\n(If \"Let's look at the evidence.\" is chosen.)\n[[File:ACOD FoA ToH Death-Light Robbery 05.png|thumb|250px|A worried politician]]\n*'''Kassandra:''' ''So, the dead were robbed while a politician gave a speech. One witness thought he looked suspicious because he was wandering through the crowd. Away from the docks.''\nThe politician displayed a worried look on his face, which Charon noticed.\n*'''Charon:''' ''Ah yes, even I noticed him.''\n*'''Kassandra:''' ''But, a rich merchant was asking about paying the toll. I found a nice dagger that must've cut the coins out. And I found a gold bracelet near the hole that hid the coins.''\n*'''Charon:''' ''The plot thickens...''\n<tabber>\n|-|The merchant stole the coins.=\n*'''Kassandra:''' ''It was the merchant. He stole the coins.''\n*'''Charon:''' ''A greedy merchant. Typical. Come, let us deal with him and be done with this.''\nCharon and Kassandra approached the merchant.\n*'''Charon:''' ''So you were the one who took coins from these people.''\nThe merchant stood up.\n*'''Merchant:''' ''This is nonsense. No one should have to pay to enter the underworld.''\n*'''Charon:''' ''Spare me your platitudes. You stole because you're greedy.''\n*'''Merchant:''' ''These people had nothing in life\u2014they need nothing in death. If I can't live a comfortable life, nobody should.''\n|-|A politician stole the coins.=\n*'''Kassandra:''' ''The politician is responsible for taking the coins.''\n*'''Charon:''' ''I lost count of how many selfish politicians I've ferried across the Styx long ago. We must deal with this now before more chaos ensues.''\nCharon and Kassandra approached the politician.\n*'''Charon:''' ''Let's make this quick. I'm told you were the one to steal the coins.''\n*'''Politician:''' ''Me? No, I'm innocent.''\n*'''Charon:''' ''Of course you are. Problem is, my friend thinks otherwise.''\n*'''Politician:''' ''You've got the wrong man. Please!''\n*'''Charon:''' ''You know, this is the worst part of my job.''\nCharon put the man to sleep. The merchant stood up.\n*'''Merchant:''' ''I can't take it anymore. I didn't want any of this. No one should have to pay to enter the underworld.''\n</tabber>\n[[File:ACOD FoA ToH Death-Light Robbery 06.png|thumb|250px|The merchant confronted by Hades]]\nThe merchant took out a coin pouch and threw it into the Styx. Charon walked up to the merchant in anger. Showing a nervous look, the merchant stepped back, only to bounce into Hades who appeared behind.\n*'''Charon:''' ''Hades... So nice to see you. Whatever brings you to my shore?''\n*'''Hades:''' ''I could hear this ruckus from the bowels of [[Tartaros]]. What is happening here?''\nThe merchant turned around, only to be punched by Kassandra and knocked to the ground.\n*'''Kassandra:''' ''This man stole coins from the dead and then threw them into the river Styx.''\n*'''Hades:''' ''Mortals always seem to find new ways to surprise me.''\n*'''Charon:''' ''I'm glad you're finding this funny, but these people had coins for fair passageway and now they don't.''\n*'''Hades:''' ''If they do not have coins, they cannot cross into my realm. That is the law, Charon.''\n*'''Charon:''' ''They were sent here with the coins as law and tradition state. They deserve to be granted passage.''\n*'''Hades:''' ''Why don't we let our friend here decide their fate?''\n<tabber>\n|-|The people should be granted passage.=\n*'''Kassandra:''' ''These people were robbed of their chance for peace. They deserve passage.''\n*'''Charon:''' ''Well said, Kassandra. They will be granted passage to the underworld.''\nHades pointed to the merchant who recovered.\n*'''Hades:''' ''And what of him?''\n*'''Charon:''' ''Feed him to your [[Hound of Hades|hounds]].''\n*'''Hades:''' ''I was hoping you'd say that.''\n|-|No coins, no passage.=\n*'''Kassandra:''' ''They don't have coins, so they can't pass.''\n*'''Hades:''' ''Well said. This man may have acted foolishly, but he will pay the price for that soon. However, it is not our place to involve ourselves in the affairs of mortals.''\n*'''Charon:''' ''As you wish.''\n*'''Hades:''' ''Come, merchant. My hounds grow hungry.''\n</tabber>\n[[File:ACOD FoA ToH Death-Light Robbery 09.png|thumb|250px|Hades \"punishing\" the merchant]]\nAn energy began to engulf the merchant. Hades, using telekinesis, pulled the merchant to him and drew him into a portal on the ground. Hades then left the place. Charon turned to Kassandra.\n*'''Charon:''' ''Sometimes we have to make difficult choices. To be able to do so confidently is a rare trait in your kind.''\n*'''Kassandra:''' ''I've done it before. I'll have to do it again.''\n*'''Charon:''' ''For such a hopeless fleshing, you've come a long way.''\n<tabber>\n|-|If Charon was on favorable terms with Kassandra=\n*'''Charon:''' ''Now that Hades is gone, there's something you should have.''\n*'''Kassandra:''' ''Thank you, Charon.''\n*'''Charon:''' ''It's a shame you have to go. You've been a good assistant. I hope you find the answers you seek.''\nKassandra received a note from Charon.\n*'''A Note from Charon''' ''I am grateful for your help, but know the trials ahead won't be easy. Things are not always as they seem in the realm of Hades. Sometimes you must fight fire with fire, little fleshling.''\n|-|If Charon was not on favorable terms with Kassandra=\n*'''Charon:''' ''This should help you in the rest of your journey.''\n*'''Kassandra:''' ''Thank you, Charon.''\n*'''Charon:''' ''You've been a passable assistant. I hope you find the answers you seek in this realm.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped Charon to identify the thief who stole the coins of the souls. The culprit was later punished by [[Hades]].",
+    "Section_Trivia": "*The name of the memory is a play on the phrase \"daylight robbery\", meaning a situation in which one must pay far too much money for something.\n*Regardless of which decision Kassandra chooses, the merchant is the culprit who stole the coins and reveals himself.\n*Charon is favorable towards Kassandra if players accuse the right culprit or accuse the wrong one but then grant the people passage without payment. Charon is unfavorable towards Kassandra if players choose the wrong culprit and deny the people passage.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:D\u00e9pouilles d\u00e9pouill\u00e9es]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the docks, finding a huge crowd gathering in front of Charon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''What now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached Charon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What's going on here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Charon:''' ''A disaster! Can't I just have a normal day of ferrying the dead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Tell me what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Charon:''' ''All of these souls had their coins stolen. Assistant, you have to find the [[thief]] and get coins back so the dead can cross the Styx.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Why don't you just let them through?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Charon:''' ''I know you're new around here, but that's not really how we do things in the [[underworld]]. Besides, [[Hades]] would burn me one toe at a time if I did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''All right, I'll find the coin thief.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "Charon nodded and turned to the crowd.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Charon:''' ''You hear that, everyone? My assistant will find the coin thief!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "13",
+            "content": "[[File:ACOD FoA ToH Death-Light Robbery 02.png|thumb|250px|Kassandra learning what happened]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "14",
+            "content": "(If \"Why would anyone steal coins?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Why would anyone want to rob the dead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Charon:''' ''Isn't it obvious? The coins are used to pay me for passage across the Styx into the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "17",
+            "content": "(If \"Who do you think did it?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Do you suspect anyone here already?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Charon:''' ''So many pass through, and honestly... you all look the same to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Come on. Think.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Charon:''' ''Well... There was a [[merchant]] and a politician who acted strangely. They were the only ones not storming my dock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "22",
+            "content": "(Leave \u2013 That's all for now.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I'll come back when I have news.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Charon:''' ''I'd start looking in the [[Passage of Souls]], it's where the first coins went missing. Good luck.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''With all the thieves in the underworld, I'll need it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "26",
+            "content": "Kassandra travelled to the Passage of Souls. Arriving there, she spoke to a soul.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "27",
+            "content": "[[File:ACOD FoA ToH Death-Light Robbery 03.png|thumb|250px|Kassandra speaking to one of the souls]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Mortal Man:''' ''How am I supposed to find anything in this dirty, horrible wasteland?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''You must be looking for your stolen coins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Mortal Man:''' ''How do ''you'' know? Maybe you're the criminal who came to admire their handiwork.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I'm looking for the thief too, but I won't help with that attitude.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Mortal Man:''' ''Fine. I've found nothing here myself, anyway.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "33",
+            "content": "(If \"When did you last have the coins?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''You must remember when you last had your coins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Mortal Man:''' ''Course I remember. I was walking through the valley with the rest and struck up conversation with a merchant. So arrogant! Still wearing his jewels and [[gold]]. Won't do much for him here. When I reached the docks, they were gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "36",
+            "content": "(If \"Did you see anything suspicious?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Did anything catch your attention?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Mortal Man:''' ''The merchant I spoke to... Seemed nervous. He asked if we really had to pay the ferryman. Perhaps his coins were already stolen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "39",
+            "content": "(Leave \u2013 I have enough to go on.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I think I've got what I need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "41",
+            "content": "Kassandra found a bunch of empty coin pouches in the skull of a huge beast.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Empty coin pouches. The strings have been cut.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": "Kassandra approached a dig site.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Looks like someone buried something here and then came back for it. Must have been in a hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "Kassandra investigated a broken bracelet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''A gold bracelet. But it's broken\u2014must've snapped when its owner was digging.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "47",
+            "content": "Kassandra spoke to a woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "48",
+            "content": "[[File:ACOD FoA ToH Death-Light Robbery 04.png|thumb|250px|Kassandra speaking to another soul]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D32",
+            "global_id": "49",
+            "content": "*'''Mortal Woman:''' ''You don't look like the usual people I see passing through here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''I'm not dead, if that's what you mean. I'm searching for something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Mortal Woman:''' ''Makes two of us. I'm looking for the coins I lost. They must be around here somewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "52",
+            "content": "(If \"When did you last have the coins?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Think of when you last had them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Mortal Woman:''' ''I remembering wandering with the crowd of other people... We were all moving towards the dock\u2014I don't remember where we came from. But as we reached this place, the crowd halted as a man, a politician I think, got up and addressed us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "55",
+            "content": "(If \"Where did you lose your coins?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D37",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Where were you when you realized your coins were missing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "57",
+            "content": "*'''Mortal Woman:''' ''At the dock. I was going to pay for the ferryman when I discovered they were gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "58",
+            "content": "(If players choose \"Did you see anything suspicious?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''Did you see anything strange during your travels?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Mortal Woman:''' ''Only the politician. He was moving away from the docks, while everyone else was moving toward them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "61",
+            "content": "(Leave \u2013 I have to go.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I have to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "63",
+            "content": "*'''Mortal Woman:''' ''Good luck in your search.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "64",
+            "content": "Kassandra continued searching the area, finding a [[Short blade|dagger]] near a couple of opened chests.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''A dagger. Looks expensive. Must've been used to cut the coins out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "66",
+            "content": "Kassandra recovered the dagger and returned to the man she talked to earlier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "67",
+            "content": "*'''Mortal Man:''' ''Any news of my coins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "68",
+            "content": "(If \"Do you recognize this dagger?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D45",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''I found this dagger. Remind you of anything?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Mortal Man:''' ''A ha! That's what I felt! It nicked me when they cut the strings of my purse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''So did you see who did it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Mortal Man:''' ''No, I was too focused on the politician addressing the crowd. Captivating man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "73",
+            "content": "(Leave \u2013 I have enough to go on.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I think I've got what I need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "75",
+            "content": "Kassandra returned to Charon at the docks, along with two men sitting on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "76",
+            "content": "*'''Charon:''' ''Finally! I was starting to worry you'd gotten lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''I didn't think ''your'' kind were capable of worrying.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "78",
+            "content": "*'''Charon:''' ''There are many things you don't know about us. Like how ''impatient'' we are. Have you discovered who stole the coins?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C9",
+            "global_id": "79",
+            "content": "(If \"Let's look at the evidence.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "I4",
+            "global_id": "80",
+            "content": "[[File:ACOD FoA ToH Death-Light Robbery 05.png|thumb|250px|A worried politician]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D53",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''So, the dead were robbed while a politician gave a speech. One witness thought he looked suspicious because he was wandering through the crowd. Away from the docks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "82",
+            "content": "The politician displayed a worried look on his face, which Charon noticed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Charon:''' ''Ah yes, even I noticed him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''But, a rich merchant was asking about paying the toll. I found a nice dagger that must've cut the coins out. And I found a gold bracelet near the hole that hid the coins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "85",
+            "content": "*'''Charon:''' ''The plot thickens...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "86",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "87",
+            "content": "|-|The merchant stole the coins.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''It was the merchant. He stole the coins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "89",
+            "content": "*'''Charon:''' ''A greedy merchant. Typical. Come, let us deal with him and be done with this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "90",
+            "content": "Charon and Kassandra approached the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "91",
+            "content": "*'''Charon:''' ''So you were the one who took coins from these people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "92",
+            "content": "The merchant stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "93",
+            "content": "*'''Merchant:''' ''This is nonsense. No one should have to pay to enter the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "94",
+            "content": "*'''Charon:''' ''Spare me your platitudes. You stole because you're greedy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "95",
+            "content": "*'''Merchant:''' ''These people had nothing in life\u2014they need nothing in death. If I can't live a comfortable life, nobody should.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "96",
+            "content": "|-|A politician stole the coins.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''The politician is responsible for taking the coins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "98",
+            "content": "*'''Charon:''' ''I lost count of how many selfish politicians I've ferried across the Styx long ago. We must deal with this now before more chaos ensues.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "99",
+            "content": "Charon and Kassandra approached the politician.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "100",
+            "content": "*'''Charon:''' ''Let's make this quick. I'm told you were the one to steal the coins.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "101",
+            "content": "*'''Politician:''' ''Me? No, I'm innocent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "102",
+            "content": "*'''Charon:''' ''Of course you are. Problem is, my friend thinks otherwise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "103",
+            "content": "*'''Politician:''' ''You've got the wrong man. Please!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "104",
+            "content": "*'''Charon:''' ''You know, this is the worst part of my job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "105",
+            "content": "Charon put the man to sleep. The merchant stood up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "106",
+            "content": "*'''Merchant:''' ''I can't take it anymore. I didn't want any of this. No one should have to pay to enter the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "107",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I5",
+            "global_id": "108",
+            "content": "[[File:ACOD FoA ToH Death-Light Robbery 06.png|thumb|250px|The merchant confronted by Hades]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N17",
+            "global_id": "109",
+            "content": "The merchant took out a coin pouch and threw it into the Styx. Charon walked up to the merchant in anger. Showing a nervous look, the merchant stepped back, only to bounce into Hades who appeared behind.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "110",
+            "content": "*'''Charon:''' ''Hades... So nice to see you. Whatever brings you to my shore?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "111",
+            "content": "*'''Hades:''' ''I could hear this ruckus from the bowels of [[Tartaros]]. What is happening here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "112",
+            "content": "The merchant turned around, only to be punched by Kassandra and knocked to the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''This man stole coins from the dead and then threw them into the river Styx.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "114",
+            "content": "*'''Hades:''' ''Mortals always seem to find new ways to surprise me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "115",
+            "content": "*'''Charon:''' ''I'm glad you're finding this funny, but these people had coins for fair passageway and now they don't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "116",
+            "content": "*'''Hades:''' ''If they do not have coins, they cannot cross into my realm. That is the law, Charon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "117",
+            "content": "*'''Charon:''' ''They were sent here with the coins as law and tradition state. They deserve to be granted passage.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "118",
+            "content": "*'''Hades:''' ''Why don't we let our friend here decide their fate?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "119",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "120",
+            "content": "|-|The people should be granted passage.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D79",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''These people were robbed of their chance for peace. They deserve passage.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "122",
+            "content": "*'''Charon:''' ''Well said, Kassandra. They will be granted passage to the underworld.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "123",
+            "content": "Hades pointed to the merchant who recovered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D81",
+            "global_id": "124",
+            "content": "*'''Hades:''' ''And what of him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "125",
+            "content": "*'''Charon:''' ''Feed him to your [[Hound of Hades|hounds]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "126",
+            "content": "*'''Hades:''' ''I was hoping you'd say that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "127",
+            "content": "|-|No coins, no passage.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D84",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''They don't have coins, so they can't pass.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "129",
+            "content": "*'''Hades:''' ''Well said. This man may have acted foolishly, but he will pay the price for that soon. However, it is not our place to involve ourselves in the affairs of mortals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "130",
+            "content": "*'''Charon:''' ''As you wish.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "131",
+            "content": "*'''Hades:''' ''Come, merchant. My hounds grow hungry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "132",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I6",
+            "global_id": "133",
+            "content": "[[File:ACOD FoA ToH Death-Light Robbery 09.png|thumb|250px|Hades \"punishing\" the merchant]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N20",
+            "global_id": "134",
+            "content": "An energy began to engulf the merchant. Hades, using telekinesis, pulled the merchant to him and drew him into a portal on the ground. Hades then left the place. Charon turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D88",
+            "global_id": "135",
+            "content": "*'''Charon:''' ''Sometimes we have to make difficult choices. To be able to do so confidently is a rare trait in your kind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "136",
+            "content": "*'''Kassandra:''' ''I've done it before. I'll have to do it again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "137",
+            "content": "*'''Charon:''' ''For such a hopeless fleshing, you've come a long way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "138",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "139",
+            "content": "|-|If Charon was on favorable terms with Kassandra=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D91",
+            "global_id": "140",
+            "content": "*'''Charon:''' ''Now that Hades is gone, there's something you should have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "141",
+            "content": "*'''Kassandra:''' ''Thank you, Charon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "142",
+            "content": "*'''Charon:''' ''It's a shame you have to go. You've been a good assistant. I hope you find the answers you seek.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "143",
+            "content": "Kassandra received a note from Charon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D94",
+            "global_id": "144",
+            "content": "*'''A Note from Charon''' ''I am grateful for your help, but know the trials ahead won't be easy. Things are not always as they seem in the realm of Hades. Sometimes you must fight fire with fire, little fleshling.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "145",
+            "content": "|-|If Charon was not on favorable terms with Kassandra=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D95",
+            "global_id": "146",
+            "content": "*'''Charon:''' ''This should help you in the rest of your journey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D96",
+            "global_id": "147",
+            "content": "*'''Kassandra:''' ''Thank you, Charon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D97",
+            "global_id": "148",
+            "content": "*'''Charon:''' ''You've been a passable assistant. I hope you find the answers you seek in this realm.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "149",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

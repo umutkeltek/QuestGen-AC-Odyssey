@@ -1,0 +1,133 @@
+{
+    "Quest_Name": "Loose Lips (Odyssey)",
+    "Quest_ID": "236799",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory of Kassandra | the [[Loose Lips | genetic memory]] of Ezio Auditore da Firenze"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Loose Lips",
+        "description": "'Impressed by Kassandra's ability to sink a fleet of ships, an Athens|Athenian spy let her know of a Spartan Commander who would decide where the ships moved next.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Loose Lips''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An [[Athens|Athenian]] spy sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "She sought out the spy and addressed him.\n*'''Kassandra:''' ''You left a message on the [[Message board|board]]. What's the matter?''\n*'''Man:''' ''I've been tasked with keeping on eye [[Sparta]]n ship movement. I hear a lot of stories from the sailors.''\n<tabber>\n|-|Get to the point.=\n|-|Tell me one.=\n*'''Kassandra:''' ''And what tales have the sailors been telling you?''\n*'''Man:''' ''You mean the one about the mercenary sinking their ships? Or the one about the Spartan commander deciding where the ships move next...''\n</tabber>\n*'''Kassandra:''' ''So you want me to sink the Spartan ships.''\n*'''Man:''' ''Yes, they all must sink. Do we have a deal, ''misthios?\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Man:''' ''Good. I need it done fast. And quietly.''\n*'''Kassandra:''' ''We're done here.''\nKassandra left the spy and went forth aboard the ship ''[[Adrestia]]'', and sank some Spartan ships/killed the Spartan commander before returning to the spy.",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Naval side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "She sought out the spy and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''You left a message on the [[Message board|board]]. What's the matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''I've been tasked with keeping on eye [[Sparta]]n ship movement. I hear a lot of stories from the sailors.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|Get to the point.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "6",
+            "content": "|-|Tell me one.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''And what tales have the sailors been telling you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Man:''' ''You mean the one about the mercenary sinking their ships? Or the one about the Spartan commander deciding where the ships move next...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "9",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''So you want me to sink the Spartan ships.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Man:''' ''Yes, they all must sink. Do we have a deal, ''misthios?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Accept - I'll destroy them.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Man:''' ''Good. I need it done fast. And quietly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''We're done here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "16",
+            "content": "Kassandra left the spy and went forth aboard the ship ''[[Adrestia]]'', and sank some Spartan ships/killed the Spartan commander before returning to the spy.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

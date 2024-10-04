@@ -1,0 +1,43 @@
+{
+    "QuestName": "Another Wolf Another Day",
+    "QuestID": "223169",
+    "Revision": {
+        "id": "1047484",
+        "parentid": "912322",
+        "timestamp": "2023-06-13T19:17:28Z",
+        "contributor": null,
+        "comment": "up",
+        "origin": "1047484",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "7ft8mi8vxd2d4y14dxtq14eduvsdpga"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'After Kassandra's efforts in Megaris, an artist was asked to create a statue of the 'misthios'. Bitter, the artist wished for Kassandra to prove her worth by helping with a wolf problem.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "The Wolf of Sparta",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Megaris",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Another Wolf Another Day''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After meeting [[Nikolaos]] following the [[Battle of Megara]], Kassandra ran into a sculptor.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire.'' Can I help you with anything?''\n*'''Woman:''' ''You think you're so incredible, don't you?''\n*'''Kassandra:''' ''What?''\n*'''Woman:''' ''You play hero for the [[Sparta]]n army in Megaris, and now you think you can do anything. Can't believe the town is asking me to build a statue of you.''\n\n<tabber>\n|-|I deserve a statue.=\n*'''Kassandra:''' ''What I did couldn't have been achieved by some Mal\u00e1kas like you. Glad to hear I'm finally getting some recognition.\n|-|A statue is a bit much.=\n*'''Kassandra:''' ''I did what had to be done. A statue may be... overdoing it.''\n</tabber>\n*'''Woman:''' ''Before I agree to making some statue in your honor, I want you to do something for the people. There's a pack of [[Wolf|wolves]] that's been harassing my village. You want to be a real hero? Now's your chance.''\n*'''Kassandra:''' ''Wolves, huh?''\n*'''Woman:''' ''Yes, real wolves. Not just some self-important Spartan in a [[The Wolf's Helm|silly helmet]].''\n*'''Kassandra:''' ''Let me guess, you want me to hunt the wolves?''\n*'''Woman:''' ''Yes, all of them must be gutted. Do you accept?''\n(Accept \u2013 I'll kill the beasts.)\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''You're truly brave, [[mercenary]].''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra hunted down the three wolves before returning to the woman.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''So you are as brave as you look. Please, take this as thanks.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra dealt with the artist's wolf-problem, and was rewarded for this.",
+    "Section_Trivia": "*This impact quest is triggered by completing the [[The Wolf of Sparta]]. Specifics are unknown.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Un autre loup, un autre jour]]"
+}

@@ -1,0 +1,373 @@
+{
+    "Quest_Name": "Death Comes For Us All",
+    "Quest_ID": "223871",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Death Comes For Us All.png",
+        "description": "'A distraught woman wept along the roads entering Argos. Her husband had been taken by a violent group of bandits. Someone had to save his life.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Ashes to Ashes",
+        "source": "Kassandra",
+        "location": "Argos, Argolis, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Death Comes For Us All''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across a distressed woman outside of [[Argos]], begging for her to rescue her husband from a group of [[bandit]]s.",
+    "Section_Dialogue": "After her encounter with [[Chrysis]], Kassandra traveled through Argolis and found a woman crying out for help.\n*'''Civilian:''' ''[[Mercenary|Misthios]]! Please help! I'll do anything! Why won't anyone help me?''\nKassan approached the woman.\n[[File:ACOD_Death_Comes_For_Us_All_-_Woman_Pleading.png|thumb|250px|The woman talking with Kassandra]]\n*'''Civilian:''' ''Please, help me.''\n*'''Kassandra:''' ''Calm down. Tell me what happened.''\n*'''Civilian:''' ''Raiders in the forest... My husband... He tried to fight them off.''\n\n<tabber>\n|-|He can't fight bandits alone.=\n*'''Kassandra:''' ''If your husband is facing the bandits alone, he won't have long to live.''\n*'''Civilian:''' ''Please. I have a child. You have to help us.''\n|-|Where were the bandits?=\n*'''Kassandra:''' ''Did you say the forest? I thought the forests of Argos are safe.''\n*'''Civilian:''' ''They stole our food, our [[horse]]. They wanted to take me. All I can hear is their awful laughing. Such a horrible noise.''\n*'''Kassandra:''' ''Laughing? And a whole group ambushed you for one horse?''\n*'''Civilian:''' ''Yes!''\n</tabber>\n<tabber>\n|-|I'll teach the bandits a lesson.=\n*'''Kassandra:''' ''I will find your husband and the bandits.''\n|-|Your husband can deal with it.=\n*'''Kassandra:''' ''Your husband should be able to fight them off.''\n</tabber>\n*'''Civilian:''' ''Go to the forest and save my husband!''\n[[File:ACOD_Death_Comes_For_Us_All_-_Kassandra_Finds_Body.png|thumb|250px|Kassandra finding the husband's body]]\nTraveling deep into the woods, Kassandra found the woman's husband, slain and laid out face-down on a blanket in a clearing. Chrysis called out to her.\n*'''Chrysis:''' ''After you saved that child, I knew. Can't help but do the right thing, can you?''\n*'''Kassandra:''' ''Chrysis! You killed this man just to set a trap?''\n*'''Chrysis:''' ''It's an honor to give your life to [[Hera]]'s greatest priestess. He died willingly.<br />With him gone, I have room for one more on my council. It isn't too late to join us.''\n\n<tabber>\n|-|You're insane.=\n*'''Kassandra:''' ''You've lost your mind, Chrysis! This is madness.''\n*'''Chrysis:''' ''A world where a killer like you is held up as a hero... That is madness.''\n*'''Kassandra:''' ''This is the world you helped to make! I will unmake it.''\n|-|I'll avenge my brother.=\n*'''Kassandra:''' ''This stops now, Chrysis! Today you die for what you did to my family. I will avenge my [[Alexios|brother]].''\n</tabber>\n[[File:ACOD_Death_Comes_For_Us_All_-_Kassandra_Surrounded.png|thumb|250px|Kassandra surrounded]]\nSeveral [[Cult of Kosmos]] [[guard]]s stepped forward.\n*'''Chrysis:''' ''Very well. If you wish to be an agent of chaos\u2014if you wish to be a killer\u2014then ''kill'', child.''\nAs the Cult soldiers and Chrysis advanced on Kassandra, the priestess taunted her.\n*'''Chrysis:''' ''You could have joined me, messenger.<br />We could have ruled the world together.<br />Die for me, my child.''\nKassandra slew the Cult soldiers and subdued Chrysis.\n*'''Kassandra:''' ''You fucking snake!''\nChrysis laughed as Kassandra pinned her down with one hand and held the [[Spear of Leonidas]] against her throat with the other.\n\n<tabber>\n|-|I will find my family.=\n*'''Kassandra:''' ''I am not your child. I will find [[Myrrine|mother]], and we will be together again.  I ''will'' make this right.''\n|-|I will destroy the Cult.=\n*'''Kassandra:''' ''I will not stop until every last Cultist has met my spear. You will be erased from history. ''I'' will erase you.''\n</tabber>\nKassandra made one final declaration.\n*'''Kassandra:''' ''This is for my mother and every family you destroyed.''\nKassandra slashed Chrysis' throat. An expression of shock and pain filled her face as the life faded from her.",
+    "Section_Outcome": "Kassandra walked into a trap of Chrysis' making, and subsequently slew another member of the Cult of Kosmos.",
+    "Section_Trivia": "*This quest is only available if the [[Alethea|baby]] is saved in [[Ashes to Ashes]].\n*The civilian in distress bears a strong resemblance to the mother who gave her baby to Chrysis in Ashes to Ashes. It is possible they are the same person.\n*Chrysis and her Cult soldiers are loaded globally upon triggering their appearance. Should the player leave the area and continue with the rest of the game after loading them, they will persist at the woods where they were spawned until talking to Chrysis to confirm the kill and complete the quest. If slain, Chrysis will remain 'dead' for the rest of the playthrough, although the soldiers will eventually revive.\n:*As Chrysis' death is not a pre-requisite to complete Chapter 5, only the completion of 'Ashes to Ashes,' this has the effect of providing a dialogue option for the hero to declare their intent to \"find [their] mother,\" even after they have already reunited with Myrrine.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La mort vient tous nous chercher]]",
+    "Chapter_SequenceID": "10.",
+    "Chapter_Name": "A Prescription for Discovery",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "7.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After her encounter with [[Chrysis]], Kassandra traveled through Argolis and found a woman crying out for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''[[Mercenary|Misthios]]! Please help! I'll do anything! Why won't anyone help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassan approached the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "4",
+            "content": "[[File:ACOD_Death_Comes_For_Us_All_-_Woman_Pleading.png|thumb|250px|The woman talking with Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''Please, help me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Calm down. Tell me what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Civilian:''' ''Raiders in the forest... My husband... He tried to fight them off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|He can't fight bandits alone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''If your husband is facing the bandits alone, he won't have long to live.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Civilian:''' ''Please. I have a child. You have to help us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|Where were the bandits?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Did you say the forest? I thought the forests of Argos are safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Civilian:''' ''They stole our food, our [[horse]]. They wanted to take me. All I can hear is their awful laughing. Such a horrible noise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Laughing? And a whole group ambushed you for one horse?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''Yes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "19",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "20",
+            "content": "|-|I'll teach the bandits a lesson.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I will find your husband and the bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "22",
+            "content": "|-|Your husband can deal with it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Your husband should be able to fight them off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Civilian:''' ''Go to the forest and save my husband!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "26",
+            "content": "[[File:ACOD_Death_Comes_For_Us_All_-_Kassandra_Finds_Body.png|thumb|250px|Kassandra finding the husband's body]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "27",
+            "content": "Traveling deep into the woods, Kassandra found the woman's husband, slain and laid out face-down on a blanket in a clearing. Chrysis called out to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Chrysis:''' ''After you saved that child, I knew. Can't help but do the right thing, can you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Chrysis! You killed this man just to set a trap?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Chrysis:''' ''It's an honor to give your life to [[Hera]]'s greatest priestess. He died willingly.<br />With him gone, I have room for one more on my council. It isn't too late to join us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "32",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "33",
+            "content": "|-|You're insane.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''You've lost your mind, Chrysis! This is madness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "35",
+            "content": "*'''Chrysis:''' ''A world where a killer like you is held up as a hero... That is madness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This is the world you helped to make! I will unmake it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "37",
+            "content": "|-|I'll avenge my brother.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''This stops now, Chrysis! Today you die for what you did to my family. I will avenge my [[Alexios|brother]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "39",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I3",
+            "global_id": "40",
+            "content": "[[File:ACOD_Death_Comes_For_Us_All_-_Kassandra_Surrounded.png|thumb|250px|Kassandra surrounded]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "41",
+            "content": "Several [[Cult of Kosmos]] [[guard]]s stepped forward.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "42",
+            "content": "*'''Chrysis:''' ''Very well. If you wish to be an agent of chaos\u2014if you wish to be a killer\u2014then ''kill'', child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "43",
+            "content": "As the Cult soldiers and Chrysis advanced on Kassandra, the priestess taunted her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Chrysis:''' ''You could have joined me, messenger.<br />We could have ruled the world together.<br />Die for me, my child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "45",
+            "content": "Kassandra slew the Cult soldiers and subdued Chrysis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''You fucking snake!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "47",
+            "content": "Chrysis laughed as Kassandra pinned her down with one hand and held the [[Spear of Leonidas]] against her throat with the other.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "50",
+            "content": "|-|I will find my family.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''I am not your child. I will find [[Myrrine|mother]], and we will be together again.  I ''will'' make this right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "52",
+            "content": "|-|I will destroy the Cult.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I will not stop until every last Cultist has met my spear. You will be erased from history. ''I'' will erase you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N8",
+            "global_id": "55",
+            "content": "Kassandra made one final declaration.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''This is for my mother and every family you destroyed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "57",
+            "content": "Kassandra slashed Chrysis' throat. An expression of shock and pain filled her face as the life faded from her.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

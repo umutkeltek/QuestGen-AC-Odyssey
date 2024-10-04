@@ -1,0 +1,442 @@
+{
+    "Quest_Name": "The Liberator",
+    "Quest_ID": "223655",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Liberator 01.png",
+        "description": "'The Onomakles|freed prisoner begged Kassandra for help, claiming he was on urgent business for Athens and needed to reach his ship safely. Kassandra agreed to aid his return.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "He Who Stops",
+        "source": "Kassandra",
+        "location": "Attika, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''The Liberator''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Having discovered [[Kleon]]'s [[Heremos|informant]] dead, Kassandra sort to free other prisoners held in the [[Mt. Pentelikos Marble Quarry]].",
+    "Section_Dialogue": "Kassandra found a [[Onomakles|prisoner]] calling out to her for help.\n*'''Onomakles:''' ''Over here! Help me, please. Save me. Please, get me out of here.''\nKassandra opened the cage and slung him over her shoulder.\n*'''Onomakles:''' ''Thank you. My legs... You'll have to carry me.''\nShe carried him safely out of the quarry and set him down to speak to him.\n*'''Onomakles:''' ''Thank you...''\n*'''Onomakles:''' ''I need to get to my ship. I'll reward you well.''\n(If players asked \"What ship?\")\n*'''Kassandra:''' ''You have a ship?''\n*'''Onomakles:''' ''Yes. I came inland to meet an associate. You might have seen him... He enjoyed [[Sparta]]n hospitality at the end of a rope.''\n*'''Kassandra:''' ''Heremos? I was sent to rescue him.''\n*'''Onomakles:''' ''We can still complete the mission if you help me.''\n(If players asked, \"Who are you?\")\n*'''Kassandra:''' ''Tell me who you are.''\n*'''Onomakles:''' ''Captain Onomakles. I'm on an urgent mission. I need to get out of here.''\n(If players chose, \"We'll die if we stay here.\")\n*'''Kassandra:''' ''Spartan patrols could find us at any moment.''\n*'''Onomakles:''' ''Agreed. We need to get to my ship.''\n(Accept \u2013 \"Let's get out of here.\")\n*'''Kassandra:''' ''I'll get you to your ship. Just point me in the right direction.''\n*'''Onomakles:''' ''It's on the coast... Just south of [[Marathon Beach]].''\nKassandra whistled for [[Phobos (horse)|Phobos]] and slung Onomakles onto his back while taking the reins.\n*'''Kassandra:''' ''What's so important about this ship?''\n*'''Onomakles:''' ''It's not the ship, but its cargo. It must reach its destination.''\n*'''Kassandra:''' ''Then what's the cargo?''\n*'''Onomakles:''' ''I'm not ungrateful for your help, but it's better you don't know.''\n*'''Kassandra:''' ''Why's that?''\n*'''Onomakles:''' ''Just believe me. What we do is for the security and future of [[Athens]]. This mission must succeed.''\n*'''Kassandra:''' ''My payment relies on it. So trust me, it will.''\nThey rode northeast to the beach where Onomakles's crew had been caged by Spartans.\n*'''Kassandra:''' ''Seems your crew met the same fate as you.''\n*'''Onomakles:''' ''I don't blame Heremos for talking. Spartans lack the most basic empathy.''\n*'''Kassandra:''' ''Stay here. I'll kill the Spartans, destroy their ships, and free your crew.''\nKassandra retook the beach by freeing the Athenians and slaying the Spartans. She then boarded the nearby ''[[Adrestia]]'' and sank the Spartan ship. By the time she had returned to shore, Onomakles had managed to join up with the crew.\n*'''Onomakles:''' ''You've done Athens a great service. On my return I will make sure to acknowledge it.''\n*'''Kassandra:''' ''Well, you did mention payment.''\n*'''Onomakles:''' ''More than that, you will have earned the favor of some powerful people when they hear of what you've done.''\n\n<tabber>\n|-|That could come in handy.=\n*'''Kassandra:''' ''I hear it's useful to have powerful friends.''\n*'''Onomakles:''' ''The way the world is now, you need them more than ever.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Onomakles:''' ''I've said enough, and my ship awaits. Thank you again, misthios. I hope we'll meet again.''\n\n|-|I don't care.=\n*'''Kassandra:''' ''I'm not interested in who I impress. I just want my drachmae.''\n*'''Onomakles:''' ''Take it, but I know you have a heart in there somewhere. Remember, you didn't have to save me.''\n*'''Kassandra:''' ''You can think what you like. My purse is still heavier than it was.''\n*'''Onomakles:''' ''Chaire, misthios.''\n\n</tabber>\nOnomakles boarded the ship and Kassandra saw it off. She returned to Athens to speak to Kleon, who was waiting near the [[Commercial Stoa]].\n*'''Kleon:''' ''You took far longer than I expected.''\n*'''Kassandra:''' ''There were... complications.''\n*'''Kleon:''' ''In what way?''\n*'''Kassandra:''' ''Your messenger was dead by the time I arrived, but I was able to free the captain, and the ship sailed. So I still did the job.''\n*'''Kleon:''' ''Poor Heremos... but I should be thankful for your initiative.''\n(If players asked \"What about Heremos?\")\n*'''Kassandra:''' ''You don't seem very concerned about \"poor Heremos\".''\n*'''Kleon:''' ''Every struggle has its sacrifice. Heremos played his part well.''\n(If players asked \"What's in Mytilene?\")\n*'''Kassandra:''' ''What's in Mytilene that's so important?''\n*'''Kleon:''' ''People. We need as many allies as we can gather.''\n(Leave \u2013 \"Pay me.\")\n*'''Kassandra:''' ''This was more than I bargained for.''\n*'''Kleon:''' ''You'll be amply compensated. You have done me and the people a huge service. One day you will see your part in this great work.''\nKleon patted Kassandra on the arm in gratitude and paid her before taking his leave.",
+    "Section_Outcome": "Kassandra completed Heremos's mission by saving the ship captain Onomakles. He promised that he would tell his associates how she had helped him, and Kleon paid her well for her initiative upon her return to Athens.",
+    "Section_Trivia": "*As with all quests that require naval combat, the ''Adrestia'' is conveniently moored near the site of said combat, regardless of where it was in the world beforehand.\n*It is possible the target Spartan ship will already be destroyed by a fleet of Athenian ships, if such a fleet spawns nearby.\n:*Regardless of how the ship is destroyed, if it is destroyed first, the player can observe Onomakles effortlessly run to the shoreline, despite his legs being so injured that he had to be carried, as soon as the Spartans on the beach are dealt with.\n*The Spartans can be easily defeated by shooting the cell doors with arrows to quickly free the Athenian soldiers. Both cells can be easily targeted from the safety of some thick bushes on a ledge overlooking the camp.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kleon",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found a [[Onomakles|prisoner]] calling out to her for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Onomakles:''' ''Over here! Help me, please. Save me. Please, get me out of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra opened the cage and slung him over her shoulder.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Onomakles:''' ''Thank you. My legs... You'll have to carry me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She carried him safely out of the quarry and set him down to speak to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Onomakles:''' ''Thank you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Onomakles:''' ''I need to get to my ship. I'll reward you well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "8",
+            "content": "(If players asked \"What ship?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''You have a ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Onomakles:''' ''Yes. I came inland to meet an associate. You might have seen him... He enjoyed [[Sparta]]n hospitality at the end of a rope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Heremos? I was sent to rescue him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Onomakles:''' ''We can still complete the mission if you help me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "13",
+            "content": "(If players asked, \"Who are you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Tell me who you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Onomakles:''' ''Captain Onomakles. I'm on an urgent mission. I need to get out of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "16",
+            "content": "(If players chose, \"We'll die if we stay here.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Spartan patrols could find us at any moment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Onomakles:''' ''Agreed. We need to get to my ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "19",
+            "content": "(Accept \u2013 \"Let's get out of here.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll get you to your ship. Just point me in the right direction.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Onomakles:''' ''It's on the coast... Just south of [[Marathon Beach]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "22",
+            "content": "Kassandra whistled for [[Phobos (horse)|Phobos]] and slung Onomakles onto his back while taking the reins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''What's so important about this ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Onomakles:''' ''It's not the ship, but its cargo. It must reach its destination.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Then what's the cargo?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Onomakles:''' ''I'm not ungrateful for your help, but it's better you don't know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Why's that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Onomakles:''' ''Just believe me. What we do is for the security and future of [[Athens]]. This mission must succeed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''My payment relies on it. So trust me, it will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "30",
+            "content": "They rode northeast to the beach where Onomakles's crew had been caged by Spartans.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Seems your crew met the same fate as you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Onomakles:''' ''I don't blame Heremos for talking. Spartans lack the most basic empathy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Stay here. I'll kill the Spartans, destroy their ships, and free your crew.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "34",
+            "content": "Kassandra retook the beach by freeing the Athenians and slaying the Spartans. She then boarded the nearby ''[[Adrestia]]'' and sank the Spartan ship. By the time she had returned to shore, Onomakles had managed to join up with the crew.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Onomakles:''' ''You've done Athens a great service. On my return I will make sure to acknowledge it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Well, you did mention payment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "37",
+            "content": "*'''Onomakles:''' ''More than that, you will have earned the favor of some powerful people when they hear of what you've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "40",
+            "content": "|-|That could come in handy.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I hear it's useful to have powerful friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Onomakles:''' ''The way the world is now, you need them more than ever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "44",
+            "content": "*'''Onomakles:''' ''I've said enough, and my ship awaits. Thank you again, misthios. I hope we'll meet again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "46",
+            "content": "|-|I don't care.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I'm not interested in who I impress. I just want my drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "48",
+            "content": "*'''Onomakles:''' ''Take it, but I know you have a heart in there somewhere. Remember, you didn't have to save me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''You can think what you like. My purse is still heavier than it was.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "50",
+            "content": "*'''Onomakles:''' ''Chaire, misthios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "52",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N7",
+            "global_id": "53",
+            "content": "Onomakles boarded the ship and Kassandra saw it off. She returned to Athens to speak to Kleon, who was waiting near the [[Commercial Stoa]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Kleon:''' ''You took far longer than I expected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''There were... complications.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "56",
+            "content": "*'''Kleon:''' ''In what way?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Your messenger was dead by the time I arrived, but I was able to free the captain, and the ship sailed. So I still did the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "58",
+            "content": "*'''Kleon:''' ''Poor Heremos... but I should be thankful for your initiative.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "59",
+            "content": "(If players asked \"What about Heremos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D41",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''You don't seem very concerned about \"poor Heremos\".''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "61",
+            "content": "*'''Kleon:''' ''Every struggle has its sacrifice. Heremos played his part well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "62",
+            "content": "(If players asked \"What's in Mytilene?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D43",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''What's in Mytilene that's so important?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "64",
+            "content": "*'''Kleon:''' ''People. We need as many allies as we can gather.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "65",
+            "content": "(Leave \u2013 \"Pay me.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''This was more than I bargained for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "67",
+            "content": "*'''Kleon:''' ''You'll be amply compensated. You have done me and the people a huge service. One day you will see your part in this great work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "68",
+            "content": "Kleon patted Kassandra on the arm in gratitude and paid her before taking his leave.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

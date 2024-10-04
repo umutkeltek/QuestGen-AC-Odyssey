@@ -1,0 +1,38 @@
+{
+    "QuestName": "The Stolen Steed",
+    "QuestID": "225051",
+    "Revision": {
+        "id": "860114",
+        "parentid": "860080",
+        "timestamp": "2020-03-17T14:31:02Z",
+        "contributor": null,
+        "comment": "/* Gallery */",
+        "origin": "860114",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "6fw9gmzdb9qel9hlttir14pgp3d3sy6"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Stolen Steed 3.png",
+        "description": "'The Oil Merchant had his Spyro|horse stolen while on his last delivery. Kassandra had vested interest in returning the horse so the merchant could complete his delivery to the Boeotian Champions of Boeotia|champion, Drakon.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "The Conqueror",
+        "next": "The End of Drakon",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "427 BCE\u2013426 BCE"
+    },
+    "General_Description": "'''The Stolen Steed''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While hunting for the [[Champions of Boeotia]], especially [[Drakon]], Kassandra met an [[Oil Merchant]] who was terrified of Drakon's retribution, given he couldn't deliver his oils as his beloved [[horse]] [[Spyro]] had been stolen.",
+    "Section_Dialogue": "Kassandra overheard the sad merchant.\n*'''Street Vendor:''' ''What I would do to see you again, Spyro... If only.''\nShe approached him.\n*'''Street Vendor:''' ''You come to steal from me too,'' [[Mercenary|misthios]]''?''\n*'''Kassandra:''' ''Is that how you greet all your customers?''\nThe merchant sighs and changes his tone.\n*'''Street Vendor:''' ''I'm sorry. The [[Athens|soldiers]] have taken everything from me\u2014even my beloved Spyro.''\n*'''Kassandra:''' ''Soldiers take what they want. Who is Spyro?''\n*'''Street Vendor:''' ''Only the best horse I ever owned.''\n\n<tabber>\n|-|Get another horse.=\n*'''Kassandra:''' ''You could always get another horse.''\n*'''Street Vendor:''' ''These things cost [[drachma]]e, you know.''\n*'''Kassandra:''' ''Drachmae you don't have, by the sound of it.''\n|-|That's a sad story.=\n*'''Kassandra:''' ''I feel the same about my [[Phobos (horse)|Phobos]].''\n*'''Street Vendor:''' ''We did everything together. He'd do'' anything ''for me\u2014even without the promise of a carrot.''\n*'''Kassandra:''' ''He sounds like a true friend.''\n</tabber>\n\n*'''Street Vendor:''' ''I need him back to cart my shipments. Once Drakon finds out I can't get him his oil, I'm as good as dead.''\n*'''Kassandra:''' ''Drakon? The Boeotian champion?''\n*'''Street Vendor:''' ''He's my biggest customer.''\n*'''Kassandra:''' ''I'm trying to hunt him down.''\n*'''Street Vendor:''' ''Save me from Drakon's wrath. Find my Spyro\u2014please.''\n(Accept \u2013 \"I'll bring Spyro back.\")\n*'''Kassandra:''' ''If you need him so badly, I'll find your Spyro.''\n*'''Street Vendor:''' ''Be quick, please. I can only imagine what those [[Thief|thieves]] are doing to him.''\n*'''Kassandra:''' ''Where did they take him?''\n*'''Street Vendor:''' ''They must have him at the [[Potnies Military Camp|military camp]] east of [[Snake Head Rock]]. It's the only outpost nearby.''\n(If players asked \"Why does Drakon need oil?\")\n*'''Kassandra:''' ''Why do you take oil to Drakon?''\n*'''Street Vendor:''' ''He likes to have his back oiled. Makes his muscles look bigger, I suppose.''\n*'''Kassandra:''' ''I didn't think he needed the help.''\n*'''Street Vendor:''' ''No, although I don't know why he prefers my flammable oil over something less dangerous.''\n(If players asked \"Where do you meet Drakon?\")\n*'''Kassandra:''' ''Where do you deliver the oil?''\n*'''Street Vendor:''' ''I deliver his shipments to his [[Drakon's Training Site|training ground]] near the [[Site of Iphigenia's Sacrifice]].''\n(If players asked \"Where are the horse thieves, again?\")\n*'''Kassandra:''' ''Where can I find these thieves?''\n*'''Street Vendor:''' ''In a camp east of Snake Head Rock.''\n(If players asked \"What does Spyro look like?\")\n*'''Kassandra:''' ''Can you tell me what Spyro looks like? I want to make sure I'm stealing the right horse.''\n*'''Street Vendor:''' ''Where to begin... He's magnificent\u2014a towering stallion as black as night, with a mane of brilliant, shimmering white hair.''\n(Leave \u2013 \"I have what I need.\")\n*'''Kassandra:''' ''Looks like I have a horse to find.''\nKassandra departed for the military camp outside the city. She arrived and spotted the horse within with the help of [[Ikaros]].\n*'''Kassandra:''' ''That must be Spyro. Looks like a sturdy horse.''\nShe took care of the soldiers before riding Spyro out of the camp.\n*'''Kassandra:''' ''You must be Spyro. Let's get you back home.''\nKassandra returned to the merchant in Thebes.\n*'''Street Vendor:''' Spyro. ''Oh, I thought I'd never see you again.''\n*'''Kassandra:''' ''He's all right. Not a hair touched on his mane.''\n*'''Street Vendor:''' ''And Drakon will still get his shipment of oil, won't he Spyro? We'll take it up the mountain, and fill his halls with our wonderful, flammable oil.''\n*'''Street Vendor:''' ''You've made Spyro a happy horse,'' misthios. ''And me a happy man.''",
+    "Section_Outcome": "Kassandra stole Spyro back from the military camp and returned him to his owner. The merchant was able to make his delivery of flammable oil to Drakon at his camp.",
+    "Section_Trivia": "*This quest is missable: finishing [[The End of Drakon]] removes the quest.\n*Finishing this quest adds jars of flammable oil to [[Drakon's Training Site]], making it easier to apply fire damage over time. This will work best if the player also completes [[Brewing Love]] to deprive him of his armor.",
+    "Section_Gallery": "<gallery captionalign=\"center\" position=\"center\" spacing=\"small\" widths=\"180\">\nBoeotia-PotniesMilCamp.jpg|The military camp where Spyro was held.\nACOD The Stolen Steed 1.png|The stree vendor\nACOd-SpyroKass.jpg|Kassandra riding Spyro\nACOD The Stolen Steed 2.png|Kassandra returning with the horse\nACOD_-_Spyro_returned_to_the_oil_merchant.png|The oil merchant thanks Kassandra for returning Spyro.\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

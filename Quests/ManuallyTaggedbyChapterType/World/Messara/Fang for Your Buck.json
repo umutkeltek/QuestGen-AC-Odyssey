@@ -1,0 +1,37 @@
+{
+    "QuestName": "Fang for Your Buck",
+    "QuestID": "224113",
+    "Revision": {
+        "id": "965402",
+        "parentid": "965127",
+        "timestamp": "2021-09-21T18:20:12Z",
+        "contributor": null,
+        "origin": "965402",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "lon0n1vm1270h0injlv81kl9uwbg0dz"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-FangforYourBuck-vendor.jpg",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "description": "'The weaponsmith had a discerning eye and knew only the Trade Goods|sharpest teeth would do for his new Ares' Bow of Slaughter|bow. Having known sharp teeth her whole life, Kassandra was the one to get them.'",
+        "previous": "Flowers for the Dead",
+        "next": "Gortyn Out of Hand",
+        "source": "Kassandra",
+        "location": "Gortyn, Messara, Krete, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Fang for Your Buck''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to a street vendor who requested her to recover a number of items.",
+    "Section_Dialogue": "A street vendor drew Kassandra's attention while she was in [[Gortyn]].\n*'''Street Vendor:''' ''I have quite the deal to offer you, if you're open to a business partnership?<br />You there! ''[[Mercenary|Misthios]]''! Yes, you!''\nKassandra gave them her attention.\n\n<tabber>\n|-|I work alone.=\n\n|-|Business sounds profitable.=\n*'''Kassandra:''' ''Where you make [[drachma]]e, and I make drachmae? That kind of partnership?''\n*'''Street Vendor:''' ''Exactly! Equal work, equal pay.''\n</tabber>\n*'''Kassandra:''' ''What exactly did you have in mind?''\n*'''Street Vendor:''' ''I craft [[bow]]s from rare, exotic items. I've been commissioned to make one using the only finest quality [[Trade Goods|fangs]]. One from a [[Eurasian lynx|lynx]], one from a [[lion]]ess, and one from a [[Great white shark|shark]]. I could make one for you, too, if you'll help.''\n*'''Kassandra:''' ''I'll fetch the fangs for you, if you tell me where to find them. Though sharks have teeth, not fangs\u2014''\n*'''Street Vendor:''' ''A mere technicality! A \"fang bow\" sounds better. Now, there were questions?''\n(If players choose \"Where can I find a lynx?\")\n*'''Kassandra:''' ''If you want a lynx's fang, I'll need a heading.''\n*'''Street Vendor:''' ''Of course! Lynxes can be found north of the [[Lost Minoan Shrine]] in [[Zeus' Playground]]. And be careful, they're feisty.''\n(If players choose \"Where can I find a lioness?\")\n*'''Kassandra:''' ''A lioness? In [[Krete]]?''\n*'''Street Vendor:''' ''As luck would have it, one is being transported for a rich man on the road from [[Phaistos Village]] to Gortyn City.''\n(If players choose \"Where can I find a shark?\")\n*'''Kassandra:''' ''Where can I find sharks around here?''\n*'''Street Vendor:''' ''Perhaps you've heard of \"the ocean\"?''\nKassandra glared at the vendor.\n*'''Street Vendor:''' ''[[Octopus Bay]]! Try Octopus Bay, it's full of the cursed things.''\n(If players choose \"Leave\u2014I have enough information.\")\n*'''Kassandra:''' ''I'll get them for you.''\n*'''Street Vendor:''' ''Thank you, ''[[Mercenary|misthios]].\nKassandra first headed to the road between Phaistos Village and Gortyn. Along the way, she found the cart, with its driver and passengers dead.\n*'''Kassandra:''' ''That must be the cart that was transporting the lioness.''\nShe approached the cart.\n*'''Kassandra:''' ''The driver must've lost control, and the lioness' cage broke open.''\nShe investigated a body nearby, recovering a letter.\n*'''Letter from Lioness Handler:'''<br />''Make sure this fine beast reaches the great city of Gortyn unharmed. Should you harm her, you'll be FED TO HER.''\n*'''Kassandra:''' ''Hmm. A note. The driver was to deliver the lioness to the leader of Gortyn.''\nKassandra followed the blood trails to where the lioness was. After killing the lioness, she looted its fang. Kassandra then next traveled to [[Zeus' Playground]], killing a lynx and recovering its fang. Finally, she traveled to Octopus Bay, killing a shark and recovering its teeth. Having collected all the fangs, she returned to the vendor in Gortyn.\n*'''Street Vendor:''' Misthios'', my humble hands have been commissioned to craft a bow using but a single fang from each a lioness, a lynx, and a shark. Do you have any?''\n\n<tabber>\n|-|I have fangs to sell.=\n*'''Kassandra:''' ''I have the fangs you need, if you're willing to negotiate a fair price for them.''\n*'''Street Vendor:''' ''Of course! I know the value of a good tooth.<br>Would your own mighty [[Ares' Bow of Slaughter|bow]] crafted from fangs be considered a \"fair price\"? It would have great... bite.''\n*'''Kassandra:''' ''Deal.<br />Hmm a bow worthy of [[Artemis]]...''\n|-|I want to keep my fangs.=\n*'''Kassandra:''' ''I have other uses for these fangs.''\n*'''Street Vendor:''' ''I suppose what you do with the teeth of beasts is your own business. Though... perhaps I could hire you to get more lion, lynx, and shark fangs for me? I'll make you a custom bow with them as payment...''\n</tabber>\n\n\n*'''Street Vendor:''' I''<nowiki/>'m thinking my next masterpiece will be fang armor.''\n*'''Kassandra:''' ''We all have our niche, I guess.''",
+    "Section_Outcome": "Kassandra acquired fangs from a lynx, lioness and shark for a weaponsmith to craft a \"fang bow\".",
+    "Section_Trivia": "*If the player has all animal parts in their [[Trade Goods|inventory]], this quest will automatically jump to the part at the end.\n**While it is possible to obtain all the fangs through other means, the animals for this mission are uniquely tagged so that no loot is shown on them. The lynxes are guaranteed to drop lynx fangs, the lioness is guaranteed to drop a lion fang, and the two sharks near [[Hermit's Dive]] are guaranteed to drop two Shark's Teeth.\n*The name of this quest is a reference to the idiom \"Bang for the/your buck\", meaning it was worth one's money.",
+    "Section_Gallery": "<gallery captionalign=\"center\" position=\"center\">\nACOd-FangforYourBuck-carriage.jpg|The carriage\nACOd-FangforYourBuck-lion.jpg|The escaped lioness\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,352 @@
+{
+    "Quest_Name": "Keep the Faith",
+    "Quest_ID": "225076",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra | the [[Keep the Faith (Rebellion) | memory]] of Aguilar de Nerha"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Keep the Faith 2.png",
+        "description": "'Something had awakened with the tomb's opening. Those who heard the whispers of gods across the wind found themselves divinely inspired or driven to madness.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Eppie}}",
+        "previous": "The Tribute",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Keep the Faith''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "After recovering the remain steles, Kassandra returned to [[Eppie]] to solve the [[Mycenae]]n mystery once and for all.",
+    "Section_Dialogue": "Kassandra returned to Eppie in the [[Mycenaean Tomb|tomb]] behind the [[Cave of the Oracle]].\n*'''Kassandra:''' ''I've found the final stele pieces. All of the [[armor]] has been found as well.''\n*'''Eppie:''' ''I can hardly contain myself. This will be life-changing, hero! [[Isu|Primordial gods]], worth, [[Eagle Vision|inner vision]]! What can it all mean?''\n*'''Kassandra:''' ''We'll know soon enough, when you finish translating.''\n*'''Eppie:''' ''Yes! You're right. The stele needs to be assembled. Come!''\n[[File:ACOD Keep the Faith 1.png|thumb|250px|Kassandra and Eppie at the wall of text]]\nThey returned to the wall of text.\n*'''Eppie:''' ''This is the cusp of a great discovery. Will the gods speak to us? What will I say to them? What will they say to me? Does it matter?''\n*'''Kassandra:''' ''Perhaps when you read it...''\n*'''Eppie:''' ''Yes, yes! Hmm... Only those who possess inner vision, a gift of the primordial gods, will be deemed worth to wield power of the Great {{Wiki|List of Mycenaean deities|Dipsioi}}. Dipsioi? What do you make of that?''\nThe text of the glow started to glow, seemingly only visible to Kassandra.\n*'''Kassandra:''' ''I am amazed.''\n*'''Eppie:''' ''I don't understand. There's no change that I see. It's the same place as when we first arrived.''\nEppie started walking away.\n*'''Kassandra:''' ''Look around you.''\n*'''Eppie:''' ''I see nothing. What do you see?''\n<tabber>\n|-|Lie \u2013 There's dust in my eyes.=\n*'''Kassandra:''' ''Nothing's happening. It's only dust in my eyes.''\n*'''Eppie:''' ''Really? We are a pair, aren't we? I feel ashamed to think that I was hoping for more. Knowledge is reward enough.''\n*'''Kassandra:''' ''That's the idea.''\n*'''Eppie:''' ''At least I have this discovery. But you, ''[[Mercenary|misthios]]'', all you have is the armor.''\n*'''Kassandra:''' ''It's good armor. You know, Eppie? I think maybe you should continue on your journey.''\n*'''Eppie:''' ''Should I? Hmm. Well, there are other clues to follow.''\n{{#tag:tabber|\nRecruit \u2013 We can adventure together.=\n*'''Kassandra:''' ''I would like you to join my crew.''\n*'''Eppie:''' ''Really! Will it require swimming? Because you know I can't swim. And what about [[horse]]s? I don't think my backside can take it.''\n*'''Kassandra:''' ''We'll figure something out.''\n{{!}}-{{!}}\nLeave \u2013 Take care, friend.=\n*'''Kassandra:''' ''Take care, Eppie. I'm sure our paths will cross again.''\n*'''Eppie:''' ''I hope so. Especially if I'm being attacked by something.''\nKassandra walked away.\n}}\n|-|The lore is real.=\n*'''Kassandra:''' ''The room has come to life. The gods are speaking to us.''\n*'''Eppie:''' ''How can that be? Why can't I see any of this? Why should the gods not present themselves to me?''\n*'''Kassandra:''' ''I promise you, I have no idea.''\n*'''Eppie:''' ''Is it because I'm not worthy? Do you have inner vision? It isn't fair.''\n*'''Kassandra:''' ''Eppie, you have the tomb. And there will be other discoveries.''\n*'''Eppie:''' ''Enough. Just leave me. Can you please leave?''\nKassandra walked away.\n*'''Eppie:''' ''I don't understand.''\n|-|It isn't meant for you.=\n*'''Kassandra:''' ''This isn't meant for you.''\n*'''Eppie:''' ''Who are you to decide?''\n*'''Kassandra:''' ''It isn't my decision. But I know that neither of us can know what the gods want with us.''\n*'''Eppie:''' ''I have value, too!''\n*'''Kassandra:''' ''Calm yourself. I have no control over this. You have your discovery. That should satisfy you.''\n*'''Eppie:''' ''Why not me? It isn't fair.''\nKassandra walked away.\n</tabber>",
+    "Section_Outcome": "Kassandra and Eppie deciphered the Mycenaean steles, revealing a text which could only be seen with a special vision. Kassandra also gained the ancient [[Restored Mycenaean Set|armor]] for her own.",
+    "Section_Behind_the_scenes": "The name of the memory may be a reference to {{Wiki|Bon Jovi}}'s song ''Keep the Faith'', on their {{Wiki|Keep the Faith|album}} of the same name.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Garder la foi]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Eppie",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "6.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Eppie in the [[Mycenaean Tomb|tomb]] behind the [[Cave of the Oracle]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I've found the final stele pieces. All of the [[armor]] has been found as well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Eppie:''' ''I can hardly contain myself. This will be life-changing, hero! [[Isu|Primordial gods]], worth, [[Eagle Vision|inner vision]]! What can it all mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''We'll know soon enough, when you finish translating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Eppie:''' ''Yes! You're right. The stele needs to be assembled. Come!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "6",
+            "content": "[[File:ACOD Keep the Faith 1.png|thumb|250px|Kassandra and Eppie at the wall of text]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "They returned to the wall of text.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Eppie:''' ''This is the cusp of a great discovery. Will the gods speak to us? What will I say to them? What will they say to me? Does it matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Perhaps when you read it...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Eppie:''' ''Yes, yes! Hmm... Only those who possess inner vision, a gift of the primordial gods, will be deemed worth to wield power of the Great {{Wiki|List of Mycenaean deities|Dipsioi}}. Dipsioi? What do you make of that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "The text of the glow started to glow, seemingly only visible to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I am amazed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Eppie:''' ''I don't understand. There's no change that I see. It's the same place as when we first arrived.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "14",
+            "content": "Eppie started walking away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Look around you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Eppie:''' ''I see nothing. What do you see?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|Lie \u2013 There's dust in my eyes.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Nothing's happening. It's only dust in my eyes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Eppie:''' ''Really? We are a pair, aren't we? I feel ashamed to think that I was hoping for more. Knowledge is reward enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''That's the idea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Eppie:''' ''At least I have this discovery. But you, ''[[Mercenary|misthios]]'', all you have is the armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''It's good armor. You know, Eppie? I think maybe you should continue on your journey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Eppie:''' ''Should I? Hmm. Well, there are other clues to follow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "25",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "26",
+            "content": "Recruit \u2013 We can adventure together.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I would like you to join my crew.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Eppie:''' ''Really! Will it require swimming? Because you know I can't swim. And what about [[horse]]s? I don't think my backside can take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''We'll figure something out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "30",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "31",
+            "content": "Leave \u2013 Take care, friend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Take care, Eppie. I'm sure our paths will cross again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Eppie:''' ''I hope so. Especially if I'm being attacked by something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "34",
+            "content": "Kassandra walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "35",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC4",
+            "global_id": "36",
+            "content": "|-|The lore is real.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''The room has come to life. The gods are speaking to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Eppie:''' ''How can that be? Why can't I see any of this? Why should the gods not present themselves to me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''I promise you, I have no idea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "40",
+            "content": "*'''Eppie:''' ''Is it because I'm not worthy? Do you have inner vision? It isn't fair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Eppie, you have the tomb. And there will be other discoveries.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Eppie:''' ''Enough. Just leave me. Can you please leave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": "Kassandra walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Eppie:''' ''I don't understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "45",
+            "content": "|-|It isn't meant for you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''This isn't meant for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "47",
+            "content": "*'''Eppie:''' ''Who are you to decide?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''It isn't my decision. But I know that neither of us can know what the gods want with us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Eppie:''' ''I have value, too!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Calm yourself. I have no control over this. You have your discovery. That should satisfy you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Eppie:''' ''Why not me? It isn't fair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "52",
+            "content": "Kassandra walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "53",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

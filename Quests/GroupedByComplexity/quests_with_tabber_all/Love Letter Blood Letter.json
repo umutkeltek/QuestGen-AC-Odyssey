@@ -1,0 +1,153 @@
+{
+    "Quest_Name": "Love Letter Blood Letter",
+    "Quest_ID": "268578",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Love Letter Blood Letter",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Love Letter Blood Letter''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]] in 2018.",
+    "Section_Description": "Kassandra answered the call of an [[Athenian military|Athenian soldier]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''What does [[Athens]] need done today, soldier?''\n*'''Soldier:''' ''There is a girl I love,'' [[Mercenary|misthios]]''. I think if I had stayed home, she would love me, too. But now I am posted here, and I hear there is a poet whispering his clever words in her ear.''\n*'''Kassandra:''' ''Send her your own love letter, then.''\n*'''Soldier:''' ''Oh. Do you think that would work? I was just going to have the poet killed.''\n*'''Kassandra:''' ''And let me guess, you want me to kill him.''\n*'''Soldier:''' ''By the [[Greek mythology|gods]], you read my mind.''\n<tabber>\n|-|I'll handle it.=\n*'''Kassandra:''' ''All right. I'll do it.''\n*'''Soldier:''' ''I'm glad to have someone of your strength on my side.''\n*'''Kassandra:''' ''Leave it to me.''\n|-|I'm not interested.=\nKassandra left, but reconsidered her decision and returned to speak with him again.\n</tabber>\nKassandra left, [[Assassination|assassinated]] the writer, and came back after finishing her job.\n*'''Soldier:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Soldier:''' ''I knew you were the type to get the job done. Here, take this as a sign of my gratitude.''\nHe gave her a bag of [[drachma]]e.\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra attended to the soldier's request.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Lettre d'amour, lettre de sang]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''What does [[Athens]] need done today, soldier?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Soldier:''' ''There is a girl I love,'' [[Mercenary|misthios]]''. I think if I had stayed home, she would love me, too. But now I am posted here, and I hear there is a poet whispering his clever words in her ear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Send her your own love letter, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Soldier:''' ''Oh. Do you think that would work? I was just going to have the poet killed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''And let me guess, you want me to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Soldier:''' ''By the [[Greek mythology|gods]], you read my mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|I'll handle it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''All right. I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Soldier:''' ''I'm glad to have someone of your strength on my side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|I'm not interested.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N1",
+            "global_id": "13",
+            "content": "Kassandra left, but reconsidered her decision and returned to speak with him again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N2",
+            "global_id": "15",
+            "content": "Kassandra left, [[Assassination|assassinated]] the writer, and came back after finishing her job.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Soldier:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Soldier:''' ''I knew you were the type to get the job done. Here, take this as a sign of my gratitude.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "He gave her a bag of [[drachma]]e.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

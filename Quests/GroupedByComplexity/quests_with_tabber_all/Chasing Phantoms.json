@@ -1,0 +1,284 @@
+{
+    "Quest_Name": "Chasing Phantoms",
+    "Quest_ID": "224445",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Chasing Phantoms 2.png",
+        "description": "'Uncovering the meaning behind the text presented more questions. Soon the full stele would reveal the answers. Would it cause turmoil within young Eppie's noble dedication to Greece|Greek history?'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Eppie}}",
+        "previous": "Language of the Ancients",
+        "next": "Origins of a Ritual",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "c. 429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Chasing Phantoms''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Eppie]] tasked Kassandra to recover the stele piece in the [[Tomb of Orion]].",
+    "Section_Dialogue": "Kassandra travelled to the Tomb of Orion. Inside the tomb, she found a [[Aristomachos|man]] lying next to an altar, injured.\n*'''Aristomachos:''' ''Whatever you're after, you're too late. They're all gone... dead or mad.''\n*'''Kassandra:''' ''I don't understand. Who did this to you?''\n*'''Aristomachos:''' ''I don't understand it myself. My brethen and I were drawn to this place, but madness took over. We fought over the artifact. One of them grabbed it and ran.''\n*'''Kassandra:''' ''Grabbed the stele?''\n*'''Aristomachos:''' ''Search the caves. That's where they'll be hiding. Beware though, they're beyond reason.''\n[[File:ACOD Chasing Phantoms 3.png|thumb|250px|Kassandra arriving at the cave]]\nAs the man succumbed to his wounds, Kassandra left the tomb and headed up hill, searching for the nearby caves. She entered [[Cave of Madness|one of the caves]] and found the deceased man's brethen. After killing them, she recovered the stele and a [[Rusty Mycenaean Waistband|waistband]] from one of the bodies.\n*'''Kassandra:''' ''Was the stele influencing them in some way?''\nKassandra departed the cave and returned to Eppie in the Mycenaean tomb behind the [[Cave of the Oracle]]. She handed over the stele.\n[[File:ACOD Chasing Phantoms 4.png|thumb|250px|Kassandra returning to Eppie]]\n*'''Kassandra:''' ''There may be some truth in this lore.''\n*'''Eppie:''' ''Ugh! Is that blood on it?''\n*'''Kassandra:''' ''It's otherwise undamaged. There are people claiming that it speaks to them. What could do that?''\n*'''Eppie:''' ''Strange. I don't hear anything. Do you?''\n*'''Kassandra:''' ''Words of madmen... Perhaps the next pieces will tell us more.''\n*'''Eppie:''' ''This one needs a good cleaning... Let's hope the remaining ones are fine.''\n(Accept \u2013 I'll search for the steles.)\n*'''Kassandra:''' ''I'll search for the remaining steles.''\n*'''Eppie:''' ''My peers will finally listen to what I have to say.<br />It says the ritual will activate something. But what? What will happen when we have all of the pieces? Will it lead to a treasure? Some of the translations is lost on me. This passage speaks of worth.''\n*'''Kassandra:''' ''Hmm... What else?''\n*'''Eppie:''' ''Um. This passage mentions something about \"[[Eagle Vision|inner vision]].\" But... the meaning is unclear.''\n*'''Kassandra:''' ''It's almost translated. Why aren't you happy?''\n*'''Eppie:''' ''You tell me others are hearing things. They think it speaks to them. Yet I hear nothing. I feel nothing.''\n\n<tabber>\n|-|It's a new discovery.=\n*'''Kassandra:''' ''This is an important find. You said so yourself. Why does it matter what others say or feel?''\n*'''Eppie:''' ''I know. I see that it's important from a logical perspective. But what if I can't experience it? And this mention of worth... What if it means I'm not worthy?''\n*'''Kassandra:''' ''What if the gods are not worthy of us? Look. We aren't done yet, right? So wait and see.''\n*'''Eppie:''' ''You're right.''\n|-|It's natural to doubt.=\n*'''Kassandra:''' ''It's natural to have doubts. You've convinced me that this search for the past has a value beyond drachmae.''\n*'''Eppie:''' ''That makes me happy. I just can't help but wonder what the gods think of me.''\n*'''Kassandra:''' ''I think what's important is what you think of yourself.''\n*'''Eppie:''' ''Thank you, hero.''\n</tabber>\n*'''Kassandra:''' ''Time to dust yourself off and focus.''\n*'''Eppie:''' ''You're right.''\n*'''Kassandra:''' ''We should carry on.''\n*'''Eppie:''' ''There are two locations to explore this time. There's a [[Burned Temple of Charites|temple]] in the [[City of Orchomenos]]. It's near the harbor. The other stele is difficult to pinpoint. There are ruins along the coastline, near the [[Site of Iphigenia's Sacrifice|altar]] for [[Iphigenia]].''\n*'''Kassandra:''' ''All right, then. And cheer up. We're almost done.''",
+    "Section_Outcome": "Kassandra helped Eppie to retrieve the stele piece from the Tomb of Orion, agreeing to help him locate more.",
+    "Section_Behind_the_scenes": "The men in the cave can be knocked out and recruited as lieutenants for the ''Adrestia''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Eppie",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the Tomb of Orion. Inside the tomb, she found a [[Aristomachos|man]] lying next to an altar, injured.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Aristomachos:''' ''Whatever you're after, you're too late. They're all gone... dead or mad.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I don't understand. Who did this to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Aristomachos:''' ''I don't understand it myself. My brethen and I were drawn to this place, but madness took over. We fought over the artifact. One of them grabbed it and ran.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Grabbed the stele?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Aristomachos:''' ''Search the caves. That's where they'll be hiding. Beware though, they're beyond reason.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "7",
+            "content": "[[File:ACOD Chasing Phantoms 3.png|thumb|250px|Kassandra arriving at the cave]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "As the man succumbed to his wounds, Kassandra left the tomb and headed up hill, searching for the nearby caves. She entered [[Cave of Madness|one of the caves]] and found the deceased man's brethen. After killing them, she recovered the stele and a [[Rusty Mycenaean Waistband|waistband]] from one of the bodies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Was the stele influencing them in some way?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "10",
+            "content": "Kassandra departed the cave and returned to Eppie in the Mycenaean tomb behind the [[Cave of the Oracle]]. She handed over the stele.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "11",
+            "content": "[[File:ACOD Chasing Phantoms 4.png|thumb|250px|Kassandra returning to Eppie]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''There may be some truth in this lore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Eppie:''' ''Ugh! Is that blood on it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''It's otherwise undamaged. There are people claiming that it speaks to them. What could do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Eppie:''' ''Strange. I don't hear anything. Do you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Words of madmen... Perhaps the next pieces will tell us more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Eppie:''' ''This one needs a good cleaning... Let's hope the remaining ones are fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "18",
+            "content": "(Accept \u2013 I'll search for the steles.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'll search for the remaining steles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Eppie:''' ''My peers will finally listen to what I have to say.<br />It says the ritual will activate something. But what? What will happen when we have all of the pieces? Will it lead to a treasure? Some of the translations is lost on me. This passage speaks of worth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Hmm... What else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Eppie:''' ''Um. This passage mentions something about \"[[Eagle Vision|inner vision]].\" But... the meaning is unclear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''It's almost translated. Why aren't you happy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "24",
+            "content": "*'''Eppie:''' ''You tell me others are hearing things. They think it speaks to them. Yet I hear nothing. I feel nothing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "26",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "27",
+            "content": "|-|It's a new discovery.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''This is an important find. You said so yourself. Why does it matter what others say or feel?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Eppie:''' ''I know. I see that it's important from a logical perspective. But what if I can't experience it? And this mention of worth... What if it means I'm not worthy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''What if the gods are not worthy of us? Look. We aren't done yet, right? So wait and see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Eppie:''' ''You're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "32",
+            "content": "|-|It's natural to doubt.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''It's natural to have doubts. You've convinced me that this search for the past has a value beyond drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Eppie:''' ''That makes me happy. I just can't help but wonder what the gods think of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I think what's important is what you think of yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Eppie:''' ''Thank you, hero.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Time to dust yourself off and focus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Eppie:''' ''You're right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''We should carry on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Eppie:''' ''There are two locations to explore this time. There's a [[Burned Temple of Charites|temple]] in the [[City of Orchomenos]]. It's near the harbor. The other stele is difficult to pinpoint. There are ruins along the coastline, near the [[Site of Iphigenia's Sacrifice|altar]] for [[Iphigenia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''All right, then. And cheer up. We're almost done.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

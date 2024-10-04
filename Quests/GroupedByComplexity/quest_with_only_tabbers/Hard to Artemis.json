@@ -1,0 +1,301 @@
+{
+    "Quest_Name": "Hard to Artemis",
+    "Quest_ID": "225066",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Bryce believed the Daughters of Artemis kept a Gorgon Disk|key to the Writhing Dread's Petrified Temple|lair in their trophy room. It seemed unlikely there were going to simply hand it over.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "previous": "A Slithery Plea",
+        "next": "Heavy is the Spear<br>Keys to Happiness?",
+        "type": "Main, Support",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece<br />Chios, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Hard to Artemis''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to the [[Huntress Village]] on [[Chios]] to recover the [[Gorgon Disk|key]] to the [[Petrified Temple]].",
+    "Section_Dialogue": "Kassandra reached the outskirts of the [[Huntress Village]] on [[Chios]] and found that Bryce's information was correct.\n*'''Kassandra:''' ''The Daughters of Artemis are where Bryce said they'd be... The cave with the key must be nearby.''\n[[Ikaros]] scanned the area and found up to three caves in total; [[Cave of Potnia Theron|one]] just outside the north gate, [[Artemis Cave|another]] in the cliff wall on the western side of the village, and the [[Cave of Arktoi|last]] on the southern side.\n*'''Kassandra:''' ''Here we are.''\n*'''Kassandra:''' ''This looks like the place.''\n*'''Kassandra:''' ''This is it.''\nKassandra made her way into one of the caves, faced the bear within, and found no disk within.\n*'''Kassandra:''' ''The key's not here. Must be in another cave.''\nShe exited the cave and made her way to another. She faced another bear, but did not find the disk in that cave, either.\n*'''Kassandra:''' ''No key. I'll keep looking.''\nShe deduced the key must be in the Cave of Arktoi, the cave on the southernmost side of the village. Kassandra crossed the village to infiltrate the cave.\n\n(If [[Artemis's Request]] was completed by killing [[Daphnae]])<br />\nAlternatively, a sentinel spotted Kassandra approaching the Cave of Arktoi and drew her blade.\n*'''Sentinel:''' ''Wolf meat approaches! Toned muscle\u2014should keep the pack chewing for hours.''\n\n<tabber>\n|-|I am your leader.=\n*'''Kassandra:''' ''As the new Leader, the wolves will submit to ''my'' will.''\n*'''Sentinel:''' ''You're not\u2014''\nThe sentinel looked up and saw Ikaros.\n*'''Sentinel:''' ''They sent word that the new leader was an eagle bearer.''\n*'''Kassandra:''' ''Yes. I crushed Daphnae in ritual combat. Your life and your beasts belong to me.''\n|-|Embrace me, sister.=\n*'''Kassandra:''' Our'' pack. I defeated Daphnae in combat and earned her title.''\n*'''Sentinel:''' ''No, there's no way ''you\u2014\nThe sentinel looked up and saw Ikaros.\n*'''Sentinel:''' ''The Eagle Bearer... They sent word, but I didn't believe it.''\n*'''Kassandra:''' ''We're family now, sister.''\n</tabber>\nThe sentinel looked at her intently, then sheathed her blade.\n*'''Sentinel:''' ''How may we serve you?''\n*'''Kassandra:''' ''I am a friend of Bryce and [[Ligeia]]\u2014''\n*'''Sentinel:''' ''Ligeia?! What's nearly eaten her this week?''\n*'''Kassandra:''' ''The Writhing Dread.''\nThe sentinel gasped.\n*'''Kassandra:''' ''You guard a disk that opens the creature's lair on [[Lesbos]]. I need it to save her.''\n*'''Sentinel:''' ''What's ours is yours, Eagle Bearer. You can enter the cave and take the disk, but know I am not its only guardian.''\n*'''Kassandra:''' ''...Wolves?''\n*'''Sentinel:''' ''Bears.''\n*'''Kassandra:''' Mal\u00e1ka.\n\nKassandra entered the Cave of Arktoi, slew the bears within, and retrieved the disk.\n*'''Kassandra:''' ''The disk from Ligeia's story. I hope it opens the Writhing Dread's lair like they say.''",
+    "Section_Outcome": "Kassandra retrieved the [[Gorgon Disk]] from the Huntress Village, enabling her to open the Petrified Temple on Lesbos.",
+    "Section_Trivia": "*The quest can overlap with [[Clothes Make the Daughter]], in that the [[Artemis Cave]] is one of the targets for both quests. If Ikaros highlights the cave while both quests are active, then both of Kassandra's comments tied to each highlight will play simultaneously.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Voler Art\u00e9mis]]",
+    "Chapter_SequenceID": "25.",
+    "Chapter_Name": "Shadows of Serpents",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra reached the outskirts of the [[Huntress Village]] on [[Chios]] and found that Bryce's information was correct.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''The Daughters of Artemis are where Bryce said they'd be... The cave with the key must be nearby.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "[[Ikaros]] scanned the area and found up to three caves in total; [[Cave of Potnia Theron|one]] just outside the north gate, [[Artemis Cave|another]] in the cliff wall on the western side of the village, and the [[Cave of Arktoi|last]] on the southern side.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Here we are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''This looks like the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''This is it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Kassandra made her way into one of the caves, faced the bear within, and found no disk within.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The key's not here. Must be in another cave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "She exited the cave and made her way to another. She faced another bear, but did not find the disk in that cave, either.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''No key. I'll keep looking.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "11",
+            "content": "She deduced the key must be in the Cave of Arktoi, the cave on the southernmost side of the village. Kassandra crossed the village to infiltrate the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "13",
+            "content": "(If [[Artemis's Request]] was completed by killing [[Daphnae]])<br />",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "14",
+            "content": "Alternatively, a sentinel spotted Kassandra approaching the Cave of Arktoi and drew her blade.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Sentinel:''' ''Wolf meat approaches! Toned muscle\u2014should keep the pack chewing for hours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|I am your leader.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''As the new Leader, the wolves will submit to ''my'' will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Sentinel:''' ''You're not\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "21",
+            "content": "The sentinel looked up and saw Ikaros.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Sentinel:''' ''They sent word that the new leader was an eagle bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Yes. I crushed Daphnae in ritual combat. Your life and your beasts belong to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "24",
+            "content": "|-|Embrace me, sister.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' Our'' pack. I defeated Daphnae in combat and earned her title.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Sentinel:''' ''No, there's no way ''you\u2014",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "27",
+            "content": "The sentinel looked up and saw Ikaros.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Sentinel:''' ''The Eagle Bearer... They sent word, but I didn't believe it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''We're family now, sister.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N9",
+            "global_id": "31",
+            "content": "The sentinel looked at her intently, then sheathed her blade.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Sentinel:''' ''How may we serve you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I am a friend of Bryce and [[Ligeia]]\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Sentinel:''' ''Ligeia?! What's nearly eaten her this week?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''The Writhing Dread.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "36",
+            "content": "The sentinel gasped.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''You guard a disk that opens the creature's lair on [[Lesbos]]. I need it to save her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Sentinel:''' ''What's ours is yours, Eagle Bearer. You can enter the cave and take the disk, but know I am not its only guardian.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''...Wolves?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Sentinel:''' ''Bears.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' Mal\u00e1ka.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "43",
+            "content": "Kassandra entered the Cave of Arktoi, slew the bears within, and retrieved the disk.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''The disk from Ligeia's story. I hope it opens the Writhing Dread's lair like they say.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

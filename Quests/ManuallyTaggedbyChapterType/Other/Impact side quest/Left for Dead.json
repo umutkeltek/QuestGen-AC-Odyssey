@@ -1,0 +1,39 @@
+{
+    "QuestName": "Left for Dead",
+    "QuestID": "223179",
+    "Revision": {
+        "id": "1047493",
+        "parentid": "864002",
+        "timestamp": "2023-06-13T19:18:53Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047493",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "cpe0bwjw2rrl8p8b0phjmia1htkd256"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Elpenor's brother, a politician who was unaware of Kassandra's role in Elpenor's death, feared that he was now vulnerable to bandit attack. Ironically, he hired Kassandra for protection.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Left for Dead''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra approached a statesman in [[Phokis]], and was tasked to deal with [[bandit]]s.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire, ''statesman. I don't suppose you could use a [[mercenary]]'s help today? / Need something, statesman?''\n*'''Man:''' ''I'm losing everything. Not only was my brother [[Elpenor]] murdered, but my whole political career is about to disappear, too.''\n<tabber>\n|-|I killed Elpenor.=\n*'''Kassandra:''' ''I am the one who killed your brother.''\n*'''Man:''' ''You? You bastard! You will pay for what you did to him! He was massacred! You deserve a fate worse than death.''\n(Quest failed.)\n|-|Losing your family can be very hard=\n*'''Kassandra:''' ''I know what it's like to lose family. Toughest thing you'll ever face in your life.''\n|-|I didn't know him.=\n*'''Kassandra:''' ''Elpenor? Can't say I've heard of him.''\n</tabber>\n*'''Man:''' ''Elpenor was a kind and wealthy man. He financed my love for politics and protected me from harm. And now that he's gone, I risk losing everything I have left.''\n*'''Kassandra:''' ''Is there something I can do?''\n*'''Man:''' ''Ever since my brother disappeared, bandits have been attacking me. They're after the family fortune, and I'm left defenseless. If they take the money from me, then I can't continue my political career.''\n*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''\n*'''Man:''' ''I beg you.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''All right. I'm in. / I'll handle this.''\n*'''Man:''' ''Get this done quickly. / Thank you. Please be discreet.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra left the man and found the bandits' camp outside the city. She slew them all and then returned.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Excellent work, my friend. Please, take this.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra dealt with the bandits and returned to claim her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

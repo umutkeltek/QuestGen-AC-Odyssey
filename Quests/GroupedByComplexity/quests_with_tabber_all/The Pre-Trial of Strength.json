@@ -1,0 +1,260 @@
+{
+    "Quest_Name": "The Pre-Trial of Strength",
+    "Quest_ID": "223990",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_c": {
+            "description": "concurrent"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Pre-Trial of Strength",
+        "image": "ACOd-PreTrialStrength-Master.jpg",
+        "description": "'Kassandra had to prove her might in the Pre-Trial of Strength. The brute she had to compete against would not let her off easy.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Support",
+        "previous": "Minotour De Force",
+        "next": "The Pre-Trial of Endurance {{c|concurrent}}<br>The Pre-Trial of Accuracy {{c|concurrent}}<br>Cashing In On the Cow",
+        "source": "Kassandra",
+        "location": "Pephka, Krete, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''The Pre-Trial of Strength''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra participated in the Pre-Trial of Strength.",
+    "Section_Dialogue": "In [[Lato]], Kassandra approached a small [[Warrior's Battleground|arena]], wherein the Pre-Trial of Strength took place. All around the stage itself were people lying on the ground, groaning and moaning and complaining.\n*'''Civilian:''' ''HE CANNOT BE BEATEN! He's too strong. Your only logical choice is to purchase the Trial Token from him. Be wise, friend.''\n*'''Civilian:''' ''By [[Zeus]], my legs! If only I hadn't tried to fight the Trial Master. I should have paid him. I SHOULD HAVE PAID HIM!''\n*'''Civilian:''' ''Put down your [[spear]] and grab your [[drachma]]e, challenger - for only honorable bribery can save you from sharing my astoundingly painful fate!''\n*'''Civilian:''' Oh my bones! ''They are EXTREMELY broken. Don't be a fool - please, you must pay to skip this Pre-Trial!''\n*'''Civilian:''' ''The pain! The incredible pain! My limbs and organs - crushed. If only I'd paid for the Trial Token. What an incredible, fairly priced deal!''\nKassandra approached the brute exercising on the stage.\n*'''Pre-Trial Master of Strength:''' Chaire'', poorly-muscled challenger! You are here to have your feeble frame crushed in my Pre-Trial of Strength, yes?''\n*'''Kassandra:''' ''My \"feeble frame\" might be harder to crush than you think.''\n*'''Pre-Trial Master of Strength:''' ''So brave! Pretending you have a chance against a warrior as strong and handsome as me. We may fight for my Token, yes, but maybe you would prefer to remain un-crushed and buy my Token instead? Yes?''\n\n<tabber>\n|-|Accept \u2013 Let's fight.=\n*'''Kassandra:''' ''No, we fight.''\n*'''Pre-Trial Master of Strength:''' ''Are you sure you would not prefer to spend your shiny drachmae\u2014''\n*'''Kassandra:''' We fight.\n*'''Pre-Trial Master of Strength:''' ''Then let the crushing begin!''\nKassandra and the Trial Master drew their swords.\n*'''Pre-Trial Master of Strength:''' ''You should have bought my Token, yes? Very good price! Now you must pay a ''new'' price... ''DEATH''.<br>I will use your bones to pick your ''other'' bones from my teeth.''\nKassandra defeated the Trial Master.\n*'''Pre-Trial Master of Strength:''' UGH''! This isn't what winning feels like...!<br> Crush, crush, crush...''\nKassandra approached him.\n*'''Pre-Trial Master of Strength:''' ''What\u2014what am I feeling? What is this?''\n*'''Kassandra:''' ''The shame of defeat.''\n*'''Pre-Trial Master of Strength:''' This'' is defeat?''\nKassandra shrugged\n*'''Pre-Trial Master of Strength:''' ''...Winning is better, yes.<br>The Token of Strength is yours. Have a wonderful day\u2014and please don't hit me again.''\nAs Kassandra prepared to leave, the Pre-Trial Master joined the chorus of the civilians around the stage.\n*'''Pre-Trial Master of Strength:''' ''My favorite bones! You have crushed them to dust INSIDE of my skin. You ARE a champion, yes!''\n\n|-|I'll buy the token. [1500]=\n*'''Kassandra:''' ''There's no need for unnecessary bloodshed. I'll pay for your Token.''\n*'''Pre-Trial Master of Strength:''' ''A wise choice, my spineless friend. May you one day slither out from under from (sic) the metaphoric rock of your cowardice!''\n|-|I don't have time for this.=\n*'''Kassandra:''' ''I'll be back.''\n*'''Pre-Trial Master of Strength:''' ''I look forward to more of your cowardice, tiny one!''\n</tabber>",
+    "Section_Outcome": "Kassandra completed the Trial of Strength, obtaining the token in the process.\n\n\n\nCivilian: Uhh... Is it break time yet? I feel like my legs will be actually crushed if I stay here any longer...",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Leiandros",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "In [[Lato]], Kassandra approached a small [[Warrior's Battleground|arena]], wherein the Pre-Trial of Strength took place. All around the stage itself were people lying on the ground, groaning and moaning and complaining.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''HE CANNOT BE BEATEN! He's too strong. Your only logical choice is to purchase the Trial Token from him. Be wise, friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian:''' ''By [[Zeus]], my legs! If only I hadn't tried to fight the Trial Master. I should have paid him. I SHOULD HAVE PAID HIM!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Civilian:''' ''Put down your [[spear]] and grab your [[drachma]]e, challenger - for only honorable bribery can save you from sharing my astoundingly painful fate!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Civilian:''' Oh my bones! ''They are EXTREMELY broken. Don't be a fool - please, you must pay to skip this Pre-Trial!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Civilian:''' ''The pain! The incredible pain! My limbs and organs - crushed. If only I'd paid for the Trial Token. What an incredible, fairly priced deal!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "Kassandra approached the brute exercising on the stage.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Pre-Trial Master of Strength:''' Chaire'', poorly-muscled challenger! You are here to have your feeble frame crushed in my Pre-Trial of Strength, yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''My \"feeble frame\" might be harder to crush than you think.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Pre-Trial Master of Strength:''' ''So brave! Pretending you have a chance against a warrior as strong and handsome as me. We may fight for my Token, yes, but maybe you would prefer to remain un-crushed and buy my Token instead? Yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|Accept \u2013 Let's fight.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''No, we fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Pre-Trial Master of Strength:''' ''Are you sure you would not prefer to spend your shiny drachmae\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' We fight.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Pre-Trial Master of Strength:''' ''Then let the crushing begin!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Kassandra and the Trial Master drew their swords.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Pre-Trial Master of Strength:''' ''You should have bought my Token, yes? Very good price! Now you must pay a ''new'' price... ''DEATH''.<br>I will use your bones to pick your ''other'' bones from my teeth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Kassandra defeated the Trial Master.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Pre-Trial Master of Strength:''' UGH''! This isn't what winning feels like...!<br> Crush, crush, crush...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "22",
+            "content": "Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Pre-Trial Master of Strength:''' ''What\u2014what am I feeling? What is this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''The shame of defeat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Pre-Trial Master of Strength:''' This'' is defeat?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "26",
+            "content": "Kassandra shrugged",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Pre-Trial Master of Strength:''' ''...Winning is better, yes.<br>The Token of Strength is yours. Have a wonderful day\u2014and please don't hit me again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "28",
+            "content": "As Kassandra prepared to leave, the Pre-Trial Master joined the chorus of the civilians around the stage.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Pre-Trial Master of Strength:''' ''My favorite bones! You have crushed them to dust INSIDE of my skin. You ARE a champion, yes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "31",
+            "content": "|-|I'll buy the token. [1500]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''There's no need for unnecessary bloodshed. I'll pay for your Token.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Pre-Trial Master of Strength:''' ''A wise choice, my spineless friend. May you one day slither out from under from (sic) the metaphoric rock of your cowardice!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "34",
+            "content": "|-|I don't have time for this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I'll be back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Pre-Trial Master of Strength:''' ''I look forward to more of your cowardice, tiny one!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

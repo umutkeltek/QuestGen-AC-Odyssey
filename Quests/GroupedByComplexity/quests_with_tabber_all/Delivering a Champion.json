@@ -1,0 +1,1891 @@
+{
+    "Quest_Name": "Delivering a Champion",
+    "Quest_ID": "224305",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_Testikles_trips.png",
+        "description": "'Victory was assured for Sparta with Testikles as their champion in the Pankration. Kassandra just needed to get him to the Olympic Games|Olympics.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Kings of Sparta",
+        "next": "The Contender",
+        "source": "Kassandra",
+        "location": "Lakonia, Greece<br />Ionian Sea<br />Elis, Greece",
+        "date": "428 BCE"
+    },
+    "General_Description": "'''Delivering a Champion''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Escorting the [[Sparta]]n [[Pankration]] champion to the [[Olympic Games]] of 428 BCE, and ensuring that Sparta won, was easier said than done.",
+    "Section_Dialogue": "As instructed by King [[Pausanias of Sparta|Pausanias]], Kassandra met with the pankration [[Alkon|trainer]] to provide an escort for Sparta's fighting champion to the Olympics.\n*'''Alkon:''' ''You're new. If it's training you want, we don't just take anyone.''\n<tabber>\n|-|You couldn't teach me anything.=\n*'''Kassandra:''' ''Do I look like I need training? I was sent by King Pausanias to collect the pankration champion.''\n*'''Alkon:''' ''My apologies, I didn't realize you were here for Testikles.''\n{{#tag:tabber|\nYou should be more careful.=\n*'''Kassandra:''' ''Next time think before opening you mouth.''\n*'''Alkon:''' ''Typical Spartan... Don't understand that honey can get you more than vinegar.''\n{{!}}-{{!}}\nMisunderstandings happen.=\n*'''Kassandra:''' ''Don't worry about it. I don't exactly look the part.''\n*'''Alkon:''' ''If I may offer some advice before you get him, Testikles can be... difficult. A gift of oil is known to put a person on his good side.''\n*'''Kassandra:''' ''Oil?''\n*'''Alkon:'''\u00a0''A muscle rub. He believes it imbues him with the power of [[Herakles]]. Look in the [[Village of Gytheion]]. His favorite [[merchant]] is there.''\n}}\n|-|Sounds exclusive.=\n*'''Kassandra:'''\u00a0''I'd appreciate training with a master such as yourself, but that's not why I'm here.''\n*'''Alkon:''' ''Oh?''\n*'''Kassandra:''' ''King Pausanias asked me to bring the pankration champion to Elis.''\n*'''Alkon:''' ''Forgive me. I didn't know a royal messenger was coming. I'm Alkon, Testikles's trainer.''\n*'''Kassandra:''' ''Kassandra of Sparta.''\n*'''Alkon:''' ''If I may offer some advice before you get him, Testikles can be... difficult. A gift of oil is known to put a person on his good side.''\n*'''Kassandra:'''''\u00a0Oil?''\n*'''Alkon:'''\u00a0''A muscle rub. He believes it imbues him with the power of [[Herakles]]. Look in the [[Village of Gytheion]]. His favorite merchant is there.''\n</tabber>\n[[File:ACOD Kassandra and Alkon.png|thumb|250px|Kassandra speaking to Alkon]]\n(If players asked \"What's Testikles like?\")\n*'''Kassandra:'''\u00a0''Winning the {{Wiki|Olive wreath|wreath}} is important for Sparta. You think he can do it?''\n*'''Alkon:'''\u00a0''The other day he knocked out six [[Human|men]] and a bull... and he only went to the market to buy fruit. That's why I had to send him to the island.''\n(If players asked \"Where can I find Testikles?\")\n*'''Kassandra:''' ''Where can I find your champion?''\n*'''Alkon:''' ''I sent Testikles to train on a small island in the [[Bay of Hades]]. It's good for him there\u2014isolated. Away from people. Look for the [[Shipwreck of Nestor]] on the southern shore.''\n(If players asked \"What is pankration?\")\n*'''Kassandra:'''\u00a0''Can you tell me anything about pankration?''\n*'''Alkon:'''\u00a0''It's a mix of boxing and wrestling, a fearsome test of skill. Champions come from the farthest corners of the world to compete in Olympia... but not all walk away.''\n*'''Kassandra:'''\u00a0''I can't wait to see it.''\n(Leave \u2013 \"I'm leaving\")\n*'''Kassandra:'''\u00a0''I need to get this champion of yours to Elis. I hope he lives up to your promise.''\n*'''Alkon:'''\u00a0''Oh he will. Look for his camp on the southernmost island in [[Messenia]]. Good luck!''\nKassandra took her leave of Alkon.\n(If players were rude to Alkon and he did not tell them about the oil, the related quest objective and interactions will be skipped, and Kassandra will leave to find Testikles right away.)\n*'''Kassandra:'''\u00a0''I should get that oil. Anything that'll make it easier to get Testikles to the Olympics.''\nArriving at the Village of Gytheion, Kassandra found the oil maker's assistant with the help of [[Ikaros]].\n*'''Kassandra:''' ''I see her.''\nShe overheard her talking to herself.\n*'''Slave:''' ''Another slow day...''\n*'''Slave:''' ''I hope he comes back soon.''\n[[File:ACOD Gytheion - Oil Maker's Apprentice.png|thumb|250px|Kassandra finding the Oil Maker's apprentice]]\nKassandra approached her, and the slave worriedly waved her off.\n*'''Slave:'''\u00a0''Sorry. Closed.''\n*'''Kassandra:'''\u00a0''I need oil, then I'll be on my way. There's a special one that Testikles uses?''\n*'''Slave:'''\u00a0''Ah, for pankration fighters. That one has to be made fresh by the master, and he's gone.''\n*'''Kassandra:'''\u00a0''I'm not leaving without it.''\n*'''Slave:'''\u00a0''You don't understand. I'm nearly free...''\n*'''Kassandra:'''\u00a0''You're a slave?''\n*'''Slave:'''\u00a0''Yes, and in a good postition. Doing this would be stealing from him.''\n<tabber>\n|-|I'm not asking, tell me.=\n*'''Kassandra:''' ''Tell me, or I'll make you.''\n*'''Slave:''' ''Why would a ''misthios'' care about a slave? I'll tell you, but not help you.''\n*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]] to aid the infusion. When it's warm, just add a touch of cinnamon.''\n(After saying \"I can pay you.\")\n*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]]. This will aid the infusion. Once the oil is warm, add myrrh.''\n{{#tag:tabber|\nLet's make some oil.=\n*'''Kassandra:''' ''Thank you.''\n*'''Slave:''' ''I hope it's worth my freedom.''\n[[File:ACOD Pankration Oil preparation.png|thumb|250px|Kassandra attempting to make the oil]]\nKassandra walked to the open-air fire nearby with a bowl hanging over it and knelt beside it.\n*'''Kassandra:''' ''Let's see if I can get this right.''\n'''Step One \u2013 Heat'''<br>\n(\"First, I light a fire.\")\n*'''Kassandra:''' ''It had to be heated.''\nKassandra stoked the flames and looked over at the two pots of oil nearby.\n*'''Kassandra:''' ''Now what oil did I need...''\n(\"Fire will burn the oil.\")\n*'''Kassandra:''' ''I don't need to light this...''\nKassandra decided against lighting a fire and looked over at the two pots of oil nearby.\n*'''Kassandra:''' ''Now the oil. I think I need...''\n'''Step Two \u2013 Oil'''<br>\n(\"Oil of [[Apollo]]\")\n*'''Kassandra:''' ''Oil of Apollo? Sounds good.''\nShe poured it on the pot.\n*'''Kassandra:''' ''Now what did I need?''\n(\"Oil of Athena\")\n*'''Kassandra:''' ''This one, the oil of Athena. I'll take some of this.''\nShe poured it on the pot.\n*'''Kassandra:''' ''Almost done. Now to add...''\n'''Step Three \u2013 Infusion'''<br>\n(\"Rose petal.\")\n*'''Kassandra:''' ''For the final touch, a rose petal. Testikles will smell so good.''\n(\"Myrrh.\")\n*'''Kassandra:''' ''Just a bit of myrrh. Testikles is going to smell great.''\n(\"Cinnamon.\")\n*'''Kassandra:''' ''This smells good. Everyone loves cinnamon.''\nKassandra stood and smelled the completed mixture it before filling a jar with it.\n*'''Kassandra:''' ''I hope he appreciates this. It smells so good I almost want to keep it for myself.''\n{{!}}-{{!}}\nThis is too much trouble.=\n*'''Kassandra:''' ''That's too much trouble. Testikles can live without his oil.''\nThe slave was vexed.\n*'''Slave:''' ''After all that\u2014nearly throwing away my freedom\u2014it was too much work for you?''\n*'''Slave:''' ''Mal\u00e1ka! Get out.''\nThe slave spat before her.\n}}\n|-|Can't we work something out?=\n*'''Kassandra:''' ''I know I'm asking for a lot, but I need this oil now. I could come back and talk to your master\u2014maybe explain the situation?''\n*'''Slave:''' ''What choice do I have? It's not bad, this life, if I have to stay... I'll give you the recipe, but that's as far as I go. You make it yourself.''\n*'''Kassandra:''' ''I can do that.''\n*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]] to aid the infusion. When it's warm, just add a touch of cinnamon.''\n(After saying \"I can pay you.\")\n*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]]. This will aid the infusion. Once the oil is warm, add a rose petal, and it's done.''\n{{#tag:tabber|\nLet's make some oil.=\n*'''Kassandra:''' ''Thank you.''\n*'''Slave:''' ''I hope it's worth my freedom.''\nKassandra walked to the open-air fire nearby with a bowl hanging over it and knelt beside it.\n*'''Kassandra:''' ''Let's see if I can get this right.''\n'''Step One \u2013 Heat'''<br>\n(\"First, I light a fire.\")\n*'''Kassandra:''' ''It had to be heated.''\nKassandra stoked the flames and looked over at the two pots of oil nearby.\n*'''Kassandra:''' ''Now what oil did I need...''\n(\"Fire will burn the oil.\")\n*'''Kassandra:''' ''I don't need to light this...''\nKassandra decided against lighting a fire and looked over at the two pots of oil nearby.\n*'''Kassandra:''' ''Now the oil. I think I need...''\n'''Step Two \u2013 Oil'''<br>\n(\"Oil of [[Apollo]]\")\n*'''Kassandra:''' ''Oil of Apollo? Sounds good.''\nShe poured it on the pot.\n*'''Kassandra:''' ''Now what did I need?''\n(\"Oil of Athena\")\n*'''Kassandra:''' ''This one, the oil of Athena. I'll take some of this.''\nShe poured it on the pot.\n*'''Kassandra:''' ''Almost done. Now to add...''\n'''Step Three \u2013 Infusion'''<br>\n(\"Rose petal.\")\n*'''Kassandra:''' ''For the final touch, a rose petal. Testikles will smell so good.''\n(\"Myrrh.\")\n*'''Kassandra:''' ''Just a bit of myrrh. Testikles is going to smell great.''\n(\"Cinnamon.\")\n*'''Kassandra:''' ''This smells good. Everyone loves cinnamon.''\nKassandra stood and smelled the completed mixture it before filling a jar with it.\n*'''Kassandra:''' ''I hope he appreciates this. It smells so good I almost want to keep it for myself.''\n{{!}}-{{!}}\nThis is too much trouble.=\n*'''Kassandra:''' ''That's too much trouble. Testikles can live without his oil.''\nThe slave was vexed.\n*'''Slave:''' ''After all that\u2014nearly throwing away my freedom\u2014it was too much work for you?''\n*'''Slave:''' ''Mal\u00e1ka! Get out.''\nThe slave spat before her.\n}}\n|-|I can pay you.=\n*'''Kassandra:''' ''If it's a question of drachmae, I can pay you for the oil.''\n*'''Slave:''' ''It's a question of trust. I know my master. He's kind, but strict. My freedom depends on it.''\nKassandra had to consider another approach.\n|-|I won't put you in that posi...=\n*'''Kassandra:''' ''Don't worry. I won't get you into trouble.''\nKassandra decided to make do without the oil and not jeopardize the slave.\n</tabber>\nRegardless, Kassandra turned away and made for the ''[[Adrestia]].''\n*'''Kassandra:''' ''Time to get Testikles.''\nKassandra sailed to the island in the Bay of Hades to retrieve Testikles. Ikaros located him near the lone hut on the island.\n*'''Kassandra:''' ''That must be Testikles.''\nShe approached him and heard him muttering to himself as he drank.\n*'''Testikles:'''\u00a0''Just another drink... For fortification, improves the stamina.''\n*'''Testikles:''' ''Testikles!''\n*'''Testikles:''' ''Another sip, then training. Good for the constitution.''\n*'''Testikles:''' ''Yeah, Testikles the champion!''\n[[File:ACOD_Delivering_a_Champion_-_Kassandra_finding_jugs_of_wine.png|thumb|250px|Kassandra finding jugs of wine near the hut]]\nAs Kassandra eyed the empty wine amphorae, Testikles turned around and walked up to her, jabbing her in the shoulder.\n*'''Testikles:''' ''Whadda you want from the great champion Testikles? Can't you see I'm... busy?''\nKassandra adjusted her breastplate where Testikles jabbed her.\n*'''Kassandra:''' ''I'm here to take you to the Olympics.''\n*'''Testikles:''' ''Olympics? Fuck yeah! I'm gonna be the champion...''\nTestikles vomited, narrowly missing Kassandra's boots.\n*'''Testikles:''' ''Champion! 'Cause I'm Testikles!''\n*'''Kassandra:''' ''Good. Let's set sail.''\n*'''Testikles:''' ''Oh no, can't possible go now.''\nHe gestured to the amphorae of wine next to him.\n*'''Testikles:''' ''Training, see? And I don't know if I'm up to goin' sailin' on your [[Adrestia|boaty]].''\n<tabber>\n|-|Get on my ship=\n*'''Kassandra:''' ''Enough. Get on my ship, or I'll drag you there.''\n*'''Testikles:''' ''Don't yell at me! I was coming anyway.''\n*'''Kassandra:''' ''Mal\u00e1ka!''\n|-|We sail to victory!=\n*'''Kassandra:''' ''There's nothing to be nervous about. We'll be there cheering you on.''\n*'''Testikles:''' ''But... what if I don't win?''\n*'''Kassandra:''' ''They'll build statues and write poems about you... But first, we need to get you there.''\n|-|(Oil made) \u2013 I've got your oil.=\n*'''Kassandra:''' ''I have something for you. A certain oil...''\n*'''Testikles:''' ''My oil? Oh, I could kiss you!''\n*'''Kassandra:''' ''No. You couldn't.''\n{{#tag:tabber|\nHere's your oil.=\n*'''Kassandra:''' ''Here's your oil. Take it.''\nTestikles sniffs it.\n*'''Testikles:''' ''Ah... Just like mater used to make. Will you rub it on?''\n*'''Kassandra:''' ''[[Twelve Gods|Gods]] no. Get on the boat.''\n{{!}}-{{!}}\nYou'll get your oil in Elis.=\n*'''Kassandra:''' ''I've got your oil... You'll get it when we arrive.''\n*'''Testikles:''' ''That's no fair.''\n*'''Kassandra:''' ''You don't want to use your special oil before the big fight, do you?''\n*'''Testikles:''' ''Good point. Very good point.''\n*'''Kassandra:''' ''Let's get you to the Olympics, then.''\n{{!}}-{{!}}\n(If the player botched the recipe)=\n*'''Kassandra:''' ''Here's your oil.''\n*'''Testikles:''' ''Ah... Wait. What is this stinking piss?''\nDue to the foul stench of the oil, Testikles once again vomited. \n*'''Kassandra:''' ''Are you all right?''\n*'''Testikles:''' ''Yeah... Actually feel much better. Cleared my head right up. Time for a little drink to celebrate!''\n*'''Kassandra:''' ''Sail first, drink later.''\n}}\n</tabber>\n*'''Testikles:''' ''To the Olympics! The people needs me!''\n[[File:ACOD Kassandra convinces Testikles.png|thumb|250px|Testikles convinced by Kassandra to board the ''Adrestia'']]\nHe ran off flinging out his arms, swatting Kassandra to the side. She massaged her collar where Testikles touched her. At the bottom of the hill, he turned to look back at her.\n*'''Testikles:''' ''Well? We going?''\nKassandra adjusted her armor once more and muttered to herself.\n*'''Kassandra:''' ''He'd better fucking win.''\nKassandra undocked the ship and they began sailing north to Elis.\n*'''[[Barnabas]]:''' ''Testikles, it's an honor to sail with you. Your victory at the [[Pythia]]n games is legendary.''\n*'''Testikles:''' ''Yes... I am!''\n*'''[[Herodotos]]:'''\u00a0''What made you kick him in the head instead of going for a grapple?''\n*'''Testikles:''' ''Felt like it.''\n*'''Herodotos:'''\u00a0''Ah, improvisation. Keep your opponent off guard\u2014a good strategy.''\n*'''Testikles:''' ''Strategy's for people who don't hit hard enough.''\nAfter a long journey up the Peloponnesus, they drew near to Elis.\n*'''Testikles:''' ''[[Nike]]! I'm gonna win!''\n*'''Barnabas:''' ''Are you excited for the Games, Kassandra?''\nKassandra replied sarcastically.\n*'''Kassandra:'''\u00a0''Thrilled.''\n*'''Testikles:'''\u00a0''Sparta! Woo!''\n*'''Herodotos:'''\u00a0''Stand warrior stand\u2014feet firmly planted, even in sand. Our spirits soar on high, for a Spartan never truly dies.''\n*'''Testikles:'''\u00a0''Huh?''\n*'''Herodotos:'''\u00a0''It's a poem. A Spartan poem...''\n*'''Testikles:''' ''Oh. SPARTA! Woo!''\n[[File:ACOD_Delivering_a_Champion_-_Alkibiades_receiving_Kassandra.png|thumb|250px|Alkibiades receiving Kassandra and her group]]\nArriving at [[Kyllene]], Kassandra met with a [[Alkibiades|familiar face]] jumping up and down enthusiastically.\n*'''Alkibiades:'''''\u00a0Welcome to the Olympic Games! The party has officially begun.''\n*'''Kassandra:'''\u00a0''Alkibiades? I'm surprised you're... wearing clothes.''\n*'''Alkibiades:\u00a0'''''The day is young, little goat.''\nAlkibiades looked back to a similarly muscular [[Dorieus|athlete]] surrounded by admirers, then returned to Kassandra.\n(If players asked \"Why are you here?\")\n*'''Kassandra:'''\u00a0''Are you here to compete, Alkibiades?''\n*'''Alkibiades:'''''\u00a0Of course. I enjoy other physical exertions from time to time.''\nTestikles belched loudly and staggered back. Alkibiades' wry smile faded. Kassandra looked up at Testikles and grimaced.\n*'''Kassandra:'''\u00a0''Sure.''\nHerodotos and Barnabas exchanged puzzled looks, with the latter shrugging.<br />\n(If players asked \"Who will win this year?\")\n*'''Kassandra:'''\u00a0''Who do you think will win the most wreaths this year?''\n*'''Testikles:'''\u00a0''I will!''\n*'''Alkibiades:''' ''[[Athens]] will surely ''rise'' to the occasion.''\n*'''Barnabas:''' ''I say Messenia.''\n*'''Herodotos:'''\u00a0''Has the sea air addled your mind? Sparta always takes pankration and many others too.''\n*'''Barnabas:''' ''You might know a lot about the past, but you know little about the future.''\n(If players asked \"Who's the fighter?\")<br />\n[[File:ACOD_Delivering_a_Champion_-_Dorieus_of_Rhodes.png|thumb|250px|Dorieus of Rhodes]]\nKassandra looked over at the athlete Alkibiades was ogling.\n*'''Kassandra:'''\u00a0''Who is that?''\n*'''Alkibiades:''' ''That is Dorieus, the reigning champion. He's bloodthirsty, competitive, and has endurance to spare. Jealous?''\n*'''Kassandra:'''\u00a0''I don't think so.''\n(Leave \u2013 \"To the Olympics.\")\n*'''Kassandra:'''\u00a0''We've haven't come all this way to stand on the dock.''\n*'''Alkibiades:''' ''Quite right. Should you ever need a personal sparring partner...''\n*'''Testikles:'''\u00a0''You? A skinny little Athenian? I'm the champion, or gonna be. SPARTA!''\nAlkibiades chuckled.\n*'''Alkibiades:''' ''A pity your brain isn't as big as your muscles.''\nTestikles stared at Alkibiades with intimidation, but brushed it off with a swat of his hand. As he moved away, Alkibiades shrugged at Kassandra.\n*'''Kassandra:'''\u00a0''Let's get going.''\n[[File:ACOD_Delivering_a_Champion_-_Cheering_for_Testikles.png|thumb|250px|Crowd cheering for Testikles]]\nThe crowd applauded upon the arrival of Testikles to the Olympics.\n*'''Testikles:'''\u00a0''I needs to be oiled 'fore I goes to the Games.''\n*'''Alkibiades:''' ''Well, I would have been happy to... assist, if you were in any state to compete.''\n*'''Testikles:'''\u00a0''I likes to be oiled.''\n*'''Kassandra:'''\u00a0''Well, that's obvious.''\n*'''Testikles:'''\u00a0''Yeah, you knows.''\nTestikles lightly tapped Kassandra on the nose.\n*'''Testikles:'''\u00a0''Ahh, come here, gives us a hug.''\nKassandra dodged Testikles, causing him to trip over a bowl of fruit and fall off the dock and into the sea. The bystanders gathered at the edge.\n*'''Kassandra:'''\u00a0''Surely, he can swim.''\n[[File:ACOD Shark devouring Testikles.png|thumb|250px|The shark devouring Testikles]]\nA shark swam by as the water turned red, indicating Testikle's fate.\n*'''Alkibiades:''' ''Oh... Well, looks like you're the champion now, ah?''\nKassandra's entourage was in shock over this turn of events.\n*'''Barnabas:''' ''I can't believe he's gone.''\n*'''Herodotos:'''\u00a0''Unprecedented!''\nKassandra spoke with Alkibiades.\n*'''Kassandra:'''\u00a0''And... you want me to compete in the Olympics?''\n*'''Kassandra:''' ''Stepping into a dead man's sandals... and Testikles isn't even digested yet.''\n*'''Alkibiades:''' ''Come, dear Kassie\u2014show them what you're made of! And show ''me'' while you're at it.''\n(If players asked \"Where do I need to go?\")\n*'''Kassandra:'''\u00a0''Where do I go to fight in the pankration?''\n*'''Alkibiades:''' ''The [[Stadium, Olympia|stadium]] in [[Olympia]], naturally. I do love a good rough and tumble.''\n*'''Kassandra:'''\u00a0''You know people die in these events.''\nAlkibiades simply shrugged.<br />\n(If players asked \"What else should I know?\")\n*'''Kassandra:'''\u00a0''What else goes on apart from the pankration?''\n*'''Alkibiades:''' ''There's javelin, which\u2014of course\u2014you know how that works. The athlete ''thrusts'' the long, smooth [[spear]] forward...''\n*'''Kassandra:'''\u00a0''Yes, I know.''\n*'''Alkibiades:''' ''And then there's the foot races and the [[horse]] races. Sweat ''everywhere.'' A delight for the eyes ''and'' the nose.''\n(Leave \u2013 \"To the Olympics.\")\n*'''Kassandra:'''\u00a0''I need that wreath for Sparta. If it means I have to compete, so be it.''\n*'''Herodotos:'''\u00a0''The event doesn't start just yet. We could look around first\u2014Olympia at [[Olympic Truce|truce]]\u00a0is quite extraordinary.''",
+    "Section_Outcome": "Kassandra successfully delivered Testikles to Elis, but he met a tragic end after a slip and fall into a shark's maw. Kassandra was compelled to compete in the pankration in his stead.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Escorte sportive]]",
+    "Chapter_SequenceID": "17.",
+    "Chapter_Name": "The Olympian",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As instructed by King [[Pausanias of Sparta|Pausanias]], Kassandra met with the pankration [[Alkon|trainer]] to provide an escort for Sparta's fighting champion to the Olympics.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Alkon:''' ''You're new. If it's training you want, we don't just take anyone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-|You couldn't teach me anything.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Do I look like I need training? I was sent by King Pausanias to collect the pankration champion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Alkon:''' ''My apologies, I didn't realize you were here for Testikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "7",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "You should be more careful.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Next time think before opening you mouth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Alkon:''' ''Typical Spartan... Don't understand that honey can get you more than vinegar.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "11",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "12",
+            "content": "Misunderstandings happen.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Don't worry about it. I don't exactly look the part.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Alkon:''' ''If I may offer some advice before you get him, Testikles can be... difficult. A gift of oil is known to put a person on his good side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Oil?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Alkon:'''\u00a0''A muscle rub. He believes it imbues him with the power of [[Herakles]]. Look in the [[Village of Gytheion]]. His favorite [[merchant]] is there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "17",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC4",
+            "global_id": "18",
+            "content": "|-|Sounds exclusive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:'''\u00a0''I'd appreciate training with a master such as yourself, but that's not why I'm here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Alkon:''' ''Oh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''King Pausanias asked me to bring the pankration champion to Elis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Alkon:''' ''Forgive me. I didn't know a royal messenger was coming. I'm Alkon, Testikles's trainer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Kassandra of Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Alkon:''' ''If I may offer some advice before you get him, Testikles can be... difficult. A gift of oil is known to put a person on his good side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:'''''\u00a0Oil?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Alkon:'''\u00a0''A muscle rub. He believes it imbues him with the power of [[Herakles]]. Look in the [[Village of Gytheion]]. His favorite merchant is there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "28",
+            "content": "[[File:ACOD Kassandra and Alkon.png|thumb|250px|Kassandra speaking to Alkon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "29",
+            "content": "(If players asked \"What's Testikles like?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Kassandra:'''\u00a0''Winning the {{Wiki|Olive wreath|wreath}} is important for Sparta. You think he can do it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Alkon:'''\u00a0''The other day he knocked out six [[Human|men]] and a bull... and he only went to the market to buy fruit. That's why I had to send him to the island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "32",
+            "content": "(If players asked \"Where can I find Testikles?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Where can I find your champion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Alkon:''' ''I sent Testikles to train on a small island in the [[Bay of Hades]]. It's good for him there\u2014isolated. Away from people. Look for the [[Shipwreck of Nestor]] on the southern shore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "35",
+            "content": "(If players asked \"What is pankration?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:'''\u00a0''Can you tell me anything about pankration?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Alkon:'''\u00a0''It's a mix of boxing and wrestling, a fearsome test of skill. Champions come from the farthest corners of the world to compete in Olympia... but not all walk away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:'''\u00a0''I can't wait to see it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "39",
+            "content": "(Leave \u2013 \"I'm leaving\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Kassandra:'''\u00a0''I need to get this champion of yours to Elis. I hope he lives up to your promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Alkon:'''\u00a0''Oh he will. Look for his camp on the southernmost island in [[Messenia]]. Good luck!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "42",
+            "content": "Kassandra took her leave of Alkon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C4",
+            "global_id": "43",
+            "content": "(If players were rude to Alkon and he did not tell them about the oil, the related quest objective and interactions will be skipped, and Kassandra will leave to find Testikles right away.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Kassandra:'''\u00a0''I should get that oil. Anything that'll make it easier to get Testikles to the Olympics.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "45",
+            "content": "Arriving at the Village of Gytheion, Kassandra found the oil maker's assistant with the help of [[Ikaros]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I see her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "47",
+            "content": "She overheard her talking to herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Slave:''' ''Another slow day...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Slave:''' ''I hope he comes back soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "50",
+            "content": "[[File:ACOD Gytheion - Oil Maker's Apprentice.png|thumb|250px|Kassandra finding the Oil Maker's apprentice]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "51",
+            "content": "Kassandra approached her, and the slave worriedly waved her off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "52",
+            "content": "*'''Slave:'''\u00a0''Sorry. Closed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Kassandra:'''\u00a0''I need oil, then I'll be on my way. There's a special one that Testikles uses?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "54",
+            "content": "*'''Slave:'''\u00a0''Ah, for pankration fighters. That one has to be made fresh by the master, and he's gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "55",
+            "content": "*'''Kassandra:'''\u00a0''I'm not leaving without it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "56",
+            "content": "*'''Slave:'''\u00a0''You don't understand. I'm nearly free...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "57",
+            "content": "*'''Kassandra:'''\u00a0''You're a slave?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "58",
+            "content": "*'''Slave:'''\u00a0''Yes, and in a good postition. Doing this would be stealing from him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "59",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "60",
+            "content": "|-|I'm not asking, tell me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Tell me, or I'll make you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "62",
+            "content": "*'''Slave:''' ''Why would a ''misthios'' care about a slave? I'll tell you, but not help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "63",
+            "content": "*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]] to aid the infusion. When it's warm, just add a touch of cinnamon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "64",
+            "content": "(After saying \"I can pay you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "65",
+            "content": "*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]]. This will aid the infusion. Once the oil is warm, add myrrh.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "66",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "67",
+            "content": "Let's make some oil.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "69",
+            "content": "*'''Slave:''' ''I hope it's worth my freedom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "70",
+            "content": "[[File:ACOD Pankration Oil preparation.png|thumb|250px|Kassandra attempting to make the oil]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "71",
+            "content": "Kassandra walked to the open-air fire nearby with a bowl hanging over it and knelt beside it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Let's see if I can get this right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "73",
+            "content": "'''Step One \u2013 Heat'''<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O3",
+            "global_id": "74",
+            "content": "(\"First, I light a fire.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''It had to be heated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "76",
+            "content": "Kassandra stoked the flames and looked over at the two pots of oil nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Now what oil did I need...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "78",
+            "content": "(\"Fire will burn the oil.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''I don't need to light this...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "80",
+            "content": "Kassandra decided against lighting a fire and looked over at the two pots of oil nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D48",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Now the oil. I think I need...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "82",
+            "content": "'''Step Two \u2013 Oil'''<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O5",
+            "global_id": "83",
+            "content": "(\"Oil of [[Apollo]]\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Oil of Apollo? Sounds good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "85",
+            "content": "She poured it on the pot.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Now what did I need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O6",
+            "global_id": "87",
+            "content": "(\"Oil of Athena\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''This one, the oil of Athena. I'll take some of this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "89",
+            "content": "She poured it on the pot.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''Almost done. Now to add...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "91",
+            "content": "'''Step Three \u2013 Infusion'''<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O7",
+            "global_id": "92",
+            "content": "(\"Rose petal.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''For the final touch, a rose petal. Testikles will smell so good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O8",
+            "global_id": "94",
+            "content": "(\"Myrrh.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Just a bit of myrrh. Testikles is going to smell great.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O9",
+            "global_id": "96",
+            "content": "(\"Cinnamon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''This smells good. Everyone loves cinnamon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "98",
+            "content": "Kassandra stood and smelled the completed mixture it before filling a jar with it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''I hope he appreciates this. It smells so good I almost want to keep it for myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "100",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "101",
+            "content": "This is too much trouble.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''That's too much trouble. Testikles can live without his oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "103",
+            "content": "The slave was vexed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D58",
+            "global_id": "104",
+            "content": "*'''Slave:''' ''After all that\u2014nearly throwing away my freedom\u2014it was too much work for you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "105",
+            "content": "*'''Slave:''' ''Mal\u00e1ka! Get out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "106",
+            "content": "The slave spat before her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "107",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC8",
+            "global_id": "108",
+            "content": "|-|Can't we work something out?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''I know I'm asking for a lot, but I need this oil now. I could come back and talk to your master\u2014maybe explain the situation?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "110",
+            "content": "*'''Slave:''' ''What choice do I have? It's not bad, this life, if I have to stay... I'll give you the recipe, but that's as far as I go. You make it yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''I can do that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "112",
+            "content": "*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]] to aid the infusion. When it's warm, just add a touch of cinnamon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O10",
+            "global_id": "113",
+            "content": "(After saying \"I can pay you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "114",
+            "content": "*'''Slave:''' ''Light a fire, and gently heat oil of [[Athena]]. This will aid the infusion. Once the oil is warm, add a rose petal, and it's done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "115",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "116",
+            "content": "Let's make some oil.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "118",
+            "content": "*'''Slave:''' ''I hope it's worth my freedom.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "119",
+            "content": "Kassandra walked to the open-air fire nearby with a bowl hanging over it and knelt beside it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D67",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''Let's see if I can get this right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "121",
+            "content": "'''Step One \u2013 Heat'''<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O11",
+            "global_id": "122",
+            "content": "(\"First, I light a fire.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''It had to be heated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "124",
+            "content": "Kassandra stoked the flames and looked over at the two pots of oil nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D69",
+            "global_id": "125",
+            "content": "*'''Kassandra:''' ''Now what oil did I need...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O12",
+            "global_id": "126",
+            "content": "(\"Fire will burn the oil.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D70",
+            "global_id": "127",
+            "content": "*'''Kassandra:''' ''I don't need to light this...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "128",
+            "content": "Kassandra decided against lighting a fire and looked over at the two pots of oil nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "129",
+            "content": "*'''Kassandra:''' ''Now the oil. I think I need...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "130",
+            "content": "'''Step Two \u2013 Oil'''<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O13",
+            "global_id": "131",
+            "content": "(\"Oil of [[Apollo]]\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D72",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''Oil of Apollo? Sounds good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "133",
+            "content": "She poured it on the pot.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''Now what did I need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O14",
+            "global_id": "135",
+            "content": "(\"Oil of Athena\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D74",
+            "global_id": "136",
+            "content": "*'''Kassandra:''' ''This one, the oil of Athena. I'll take some of this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "137",
+            "content": "She poured it on the pot.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D75",
+            "global_id": "138",
+            "content": "*'''Kassandra:''' ''Almost done. Now to add...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "139",
+            "content": "'''Step Three \u2013 Infusion'''<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O15",
+            "global_id": "140",
+            "content": "(\"Rose petal.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D76",
+            "global_id": "141",
+            "content": "*'''Kassandra:''' ''For the final touch, a rose petal. Testikles will smell so good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O16",
+            "global_id": "142",
+            "content": "(\"Myrrh.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D77",
+            "global_id": "143",
+            "content": "*'''Kassandra:''' ''Just a bit of myrrh. Testikles is going to smell great.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O17",
+            "global_id": "144",
+            "content": "(\"Cinnamon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D78",
+            "global_id": "145",
+            "content": "*'''Kassandra:''' ''This smells good. Everyone loves cinnamon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "146",
+            "content": "Kassandra stood and smelled the completed mixture it before filling a jar with it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D79",
+            "global_id": "147",
+            "content": "*'''Kassandra:''' ''I hope he appreciates this. It smells so good I almost want to keep it for myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "148",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "149",
+            "content": "This is too much trouble.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D80",
+            "global_id": "150",
+            "content": "*'''Kassandra:''' ''That's too much trouble. Testikles can live without his oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "151",
+            "content": "The slave was vexed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D81",
+            "global_id": "152",
+            "content": "*'''Slave:''' ''After all that\u2014nearly throwing away my freedom\u2014it was too much work for you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "153",
+            "content": "*'''Slave:''' ''Mal\u00e1ka! Get out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N27",
+            "global_id": "154",
+            "content": "The slave spat before her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "155",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC11",
+            "global_id": "156",
+            "content": "|-|I can pay you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D83",
+            "global_id": "157",
+            "content": "*'''Kassandra:''' ''If it's a question of drachmae, I can pay you for the oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "158",
+            "content": "*'''Slave:''' ''It's a question of trust. I know my master. He's kind, but strict. My freedom depends on it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N28",
+            "global_id": "159",
+            "content": "Kassandra had to consider another approach.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC12",
+            "global_id": "160",
+            "content": "|-|I won't put you in that posi...=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D85",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''Don't worry. I won't get you into trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N29",
+            "global_id": "162",
+            "content": "Kassandra decided to make do without the oil and not jeopardize the slave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "163",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N30",
+            "global_id": "164",
+            "content": "Regardless, Kassandra turned away and made for the ''[[Adrestia]].''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D86",
+            "global_id": "165",
+            "content": "*'''Kassandra:''' ''Time to get Testikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N31",
+            "global_id": "166",
+            "content": "Kassandra sailed to the island in the Bay of Hades to retrieve Testikles. Ikaros located him near the lone hut on the island.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D87",
+            "global_id": "167",
+            "content": "*'''Kassandra:''' ''That must be Testikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N32",
+            "global_id": "168",
+            "content": "She approached him and heard him muttering to himself as he drank.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D88",
+            "global_id": "169",
+            "content": "*'''Testikles:'''\u00a0''Just another drink... For fortification, improves the stamina.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "170",
+            "content": "*'''Testikles:''' ''Testikles!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "171",
+            "content": "*'''Testikles:''' ''Another sip, then training. Good for the constitution.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "172",
+            "content": "*'''Testikles:''' ''Yeah, Testikles the champion!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "173",
+            "content": "[[File:ACOD_Delivering_a_Champion_-_Kassandra_finding_jugs_of_wine.png|thumb|250px|Kassandra finding jugs of wine near the hut]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N33",
+            "global_id": "174",
+            "content": "As Kassandra eyed the empty wine amphorae, Testikles turned around and walked up to her, jabbing her in the shoulder.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D92",
+            "global_id": "175",
+            "content": "*'''Testikles:''' ''Whadda you want from the great champion Testikles? Can't you see I'm... busy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N34",
+            "global_id": "176",
+            "content": "Kassandra adjusted her breastplate where Testikles jabbed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D93",
+            "global_id": "177",
+            "content": "*'''Kassandra:''' ''I'm here to take you to the Olympics.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D94",
+            "global_id": "178",
+            "content": "*'''Testikles:''' ''Olympics? Fuck yeah! I'm gonna be the champion...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N35",
+            "global_id": "179",
+            "content": "Testikles vomited, narrowly missing Kassandra's boots.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D95",
+            "global_id": "180",
+            "content": "*'''Testikles:''' ''Champion! 'Cause I'm Testikles!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D96",
+            "global_id": "181",
+            "content": "*'''Kassandra:''' ''Good. Let's set sail.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D97",
+            "global_id": "182",
+            "content": "*'''Testikles:''' ''Oh no, can't possible go now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N36",
+            "global_id": "183",
+            "content": "He gestured to the amphorae of wine next to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D98",
+            "global_id": "184",
+            "content": "*'''Testikles:''' ''Training, see? And I don't know if I'm up to goin' sailin' on your [[Adrestia|boaty]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "185",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "186",
+            "content": "|-|Get on my ship=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D99",
+            "global_id": "187",
+            "content": "*'''Kassandra:''' ''Enough. Get on my ship, or I'll drag you there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D100",
+            "global_id": "188",
+            "content": "*'''Testikles:''' ''Don't yell at me! I was coming anyway.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "189",
+            "content": "*'''Kassandra:''' ''Mal\u00e1ka!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC14",
+            "global_id": "190",
+            "content": "|-|We sail to victory!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D102",
+            "global_id": "191",
+            "content": "*'''Kassandra:''' ''There's nothing to be nervous about. We'll be there cheering you on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D103",
+            "global_id": "192",
+            "content": "*'''Testikles:''' ''But... what if I don't win?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D104",
+            "global_id": "193",
+            "content": "*'''Kassandra:''' ''They'll build statues and write poems about you... But first, we need to get you there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC15",
+            "global_id": "194",
+            "content": "|-|(Oil made) \u2013 I've got your oil.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D105",
+            "global_id": "195",
+            "content": "*'''Kassandra:''' ''I have something for you. A certain oil...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D106",
+            "global_id": "196",
+            "content": "*'''Testikles:''' ''My oil? Oh, I could kiss you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D107",
+            "global_id": "197",
+            "content": "*'''Kassandra:''' ''No. You couldn't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "198",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "199",
+            "content": "Here's your oil.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D108",
+            "global_id": "200",
+            "content": "*'''Kassandra:''' ''Here's your oil. Take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N37",
+            "global_id": "201",
+            "content": "Testikles sniffs it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D109",
+            "global_id": "202",
+            "content": "*'''Testikles:''' ''Ah... Just like mater used to make. Will you rub it on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D110",
+            "global_id": "203",
+            "content": "*'''Kassandra:''' ''[[Twelve Gods|Gods]] no. Get on the boat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "204",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC17",
+            "global_id": "205",
+            "content": "You'll get your oil in Elis.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D111",
+            "global_id": "206",
+            "content": "*'''Kassandra:''' ''I've got your oil... You'll get it when we arrive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D112",
+            "global_id": "207",
+            "content": "*'''Testikles:''' ''That's no fair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D113",
+            "global_id": "208",
+            "content": "*'''Kassandra:''' ''You don't want to use your special oil before the big fight, do you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D114",
+            "global_id": "209",
+            "content": "*'''Testikles:''' ''Good point. Very good point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D115",
+            "global_id": "210",
+            "content": "*'''Kassandra:''' ''Let's get you to the Olympics, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "211",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC18",
+            "global_id": "212",
+            "content": "(If the player botched the recipe)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D116",
+            "global_id": "213",
+            "content": "*'''Kassandra:''' ''Here's your oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D117",
+            "global_id": "214",
+            "content": "*'''Testikles:''' ''Ah... Wait. What is this stinking piss?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N38",
+            "global_id": "215",
+            "content": "Due to the foul stench of the oil, Testikles once again vomited.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D118",
+            "global_id": "216",
+            "content": "*'''Kassandra:''' ''Are you all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D119",
+            "global_id": "217",
+            "content": "*'''Testikles:''' ''Yeah... Actually feel much better. Cleared my head right up. Time for a little drink to celebrate!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D120",
+            "global_id": "218",
+            "content": "*'''Kassandra:''' ''Sail first, drink later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "219",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE3",
+            "global_id": "220",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D121",
+            "global_id": "221",
+            "content": "*'''Testikles:''' ''To the Olympics! The people needs me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "222",
+            "content": "[[File:ACOD Kassandra convinces Testikles.png|thumb|250px|Testikles convinced by Kassandra to board the ''Adrestia'']]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N39",
+            "global_id": "223",
+            "content": "He ran off flinging out his arms, swatting Kassandra to the side. She massaged her collar where Testikles touched her. At the bottom of the hill, he turned to look back at her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D122",
+            "global_id": "224",
+            "content": "*'''Testikles:''' ''Well? We going?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N40",
+            "global_id": "225",
+            "content": "Kassandra adjusted her armor once more and muttered to herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D123",
+            "global_id": "226",
+            "content": "*'''Kassandra:''' ''He'd better fucking win.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N41",
+            "global_id": "227",
+            "content": "Kassandra undocked the ship and they began sailing north to Elis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D124",
+            "global_id": "228",
+            "content": "*'''[[Barnabas]]:''' ''Testikles, it's an honor to sail with you. Your victory at the [[Pythia]]n games is legendary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D125",
+            "global_id": "229",
+            "content": "*'''Testikles:''' ''Yes... I am!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D126",
+            "global_id": "230",
+            "content": "*'''[[Herodotos]]:'''\u00a0''What made you kick him in the head instead of going for a grapple?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D127",
+            "global_id": "231",
+            "content": "*'''Testikles:''' ''Felt like it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D128",
+            "global_id": "232",
+            "content": "*'''Herodotos:'''\u00a0''Ah, improvisation. Keep your opponent off guard\u2014a good strategy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D129",
+            "global_id": "233",
+            "content": "*'''Testikles:''' ''Strategy's for people who don't hit hard enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N42",
+            "global_id": "234",
+            "content": "After a long journey up the Peloponnesus, they drew near to Elis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D130",
+            "global_id": "235",
+            "content": "*'''Testikles:''' ''[[Nike]]! I'm gonna win!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D131",
+            "global_id": "236",
+            "content": "*'''Barnabas:''' ''Are you excited for the Games, Kassandra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N43",
+            "global_id": "237",
+            "content": "Kassandra replied sarcastically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D132",
+            "global_id": "238",
+            "content": "*'''Kassandra:'''\u00a0''Thrilled.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D133",
+            "global_id": "239",
+            "content": "*'''Testikles:'''\u00a0''Sparta! Woo!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D134",
+            "global_id": "240",
+            "content": "*'''Herodotos:'''\u00a0''Stand warrior stand\u2014feet firmly planted, even in sand. Our spirits soar on high, for a Spartan never truly dies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D135",
+            "global_id": "241",
+            "content": "*'''Testikles:'''\u00a0''Huh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D136",
+            "global_id": "242",
+            "content": "*'''Herodotos:'''\u00a0''It's a poem. A Spartan poem...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D137",
+            "global_id": "243",
+            "content": "*'''Testikles:''' ''Oh. SPARTA! Woo!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I6",
+            "global_id": "244",
+            "content": "[[File:ACOD_Delivering_a_Champion_-_Alkibiades_receiving_Kassandra.png|thumb|250px|Alkibiades receiving Kassandra and her group]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N44",
+            "global_id": "245",
+            "content": "Arriving at [[Kyllene]], Kassandra met with a [[Alkibiades|familiar face]] jumping up and down enthusiastically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D138",
+            "global_id": "246",
+            "content": "*'''Alkibiades:'''''\u00a0Welcome to the Olympic Games! The party has officially begun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D139",
+            "global_id": "247",
+            "content": "*'''Kassandra:'''\u00a0''Alkibiades? I'm surprised you're... wearing clothes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D140",
+            "global_id": "248",
+            "content": "*'''Alkibiades:\u00a0'''''The day is young, little goat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N45",
+            "global_id": "249",
+            "content": "Alkibiades looked back to a similarly muscular [[Dorieus|athlete]] surrounded by admirers, then returned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C5",
+            "global_id": "250",
+            "content": "(If players asked \"Why are you here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D141",
+            "global_id": "251",
+            "content": "*'''Kassandra:'''\u00a0''Are you here to compete, Alkibiades?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D142",
+            "global_id": "252",
+            "content": "*'''Alkibiades:'''''\u00a0Of course. I enjoy other physical exertions from time to time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N46",
+            "global_id": "253",
+            "content": "Testikles belched loudly and staggered back. Alkibiades' wry smile faded. Kassandra looked up at Testikles and grimaced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D143",
+            "global_id": "254",
+            "content": "*'''Kassandra:'''\u00a0''Sure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N47",
+            "global_id": "255",
+            "content": "Herodotos and Barnabas exchanged puzzled looks, with the latter shrugging.<br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C6",
+            "global_id": "256",
+            "content": "(If players asked \"Who will win this year?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D144",
+            "global_id": "257",
+            "content": "*'''Kassandra:'''\u00a0''Who do you think will win the most wreaths this year?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D145",
+            "global_id": "258",
+            "content": "*'''Testikles:'''\u00a0''I will!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D146",
+            "global_id": "259",
+            "content": "*'''Alkibiades:''' ''[[Athens]] will surely ''rise'' to the occasion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D147",
+            "global_id": "260",
+            "content": "*'''Barnabas:''' ''I say Messenia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D148",
+            "global_id": "261",
+            "content": "*'''Herodotos:'''\u00a0''Has the sea air addled your mind? Sparta always takes pankration and many others too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D149",
+            "global_id": "262",
+            "content": "*'''Barnabas:''' ''You might know a lot about the past, but you know little about the future.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "263",
+            "content": "(If players asked \"Who's the fighter?\")<br />",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "I7",
+            "global_id": "264",
+            "content": "[[File:ACOD_Delivering_a_Champion_-_Dorieus_of_Rhodes.png|thumb|250px|Dorieus of Rhodes]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N48",
+            "global_id": "265",
+            "content": "Kassandra looked over at the athlete Alkibiades was ogling.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D150",
+            "global_id": "266",
+            "content": "*'''Kassandra:'''\u00a0''Who is that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D151",
+            "global_id": "267",
+            "content": "*'''Alkibiades:''' ''That is Dorieus, the reigning champion. He's bloodthirsty, competitive, and has endurance to spare. Jealous?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D152",
+            "global_id": "268",
+            "content": "*'''Kassandra:'''\u00a0''I don't think so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O18",
+            "global_id": "269",
+            "content": "(Leave \u2013 \"To the Olympics.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D153",
+            "global_id": "270",
+            "content": "*'''Kassandra:'''\u00a0''We've haven't come all this way to stand on the dock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D154",
+            "global_id": "271",
+            "content": "*'''Alkibiades:''' ''Quite right. Should you ever need a personal sparring partner...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D155",
+            "global_id": "272",
+            "content": "*'''Testikles:'''\u00a0''You? A skinny little Athenian? I'm the champion, or gonna be. SPARTA!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N49",
+            "global_id": "273",
+            "content": "Alkibiades chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D156",
+            "global_id": "274",
+            "content": "*'''Alkibiades:''' ''A pity your brain isn't as big as your muscles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N50",
+            "global_id": "275",
+            "content": "Testikles stared at Alkibiades with intimidation, but brushed it off with a swat of his hand. As he moved away, Alkibiades shrugged at Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D157",
+            "global_id": "276",
+            "content": "*'''Kassandra:'''\u00a0''Let's get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I8",
+            "global_id": "277",
+            "content": "[[File:ACOD_Delivering_a_Champion_-_Cheering_for_Testikles.png|thumb|250px|Crowd cheering for Testikles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N51",
+            "global_id": "278",
+            "content": "The crowd applauded upon the arrival of Testikles to the Olympics.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D158",
+            "global_id": "279",
+            "content": "*'''Testikles:'''\u00a0''I needs to be oiled 'fore I goes to the Games.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D159",
+            "global_id": "280",
+            "content": "*'''Alkibiades:''' ''Well, I would have been happy to... assist, if you were in any state to compete.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D160",
+            "global_id": "281",
+            "content": "*'''Testikles:'''\u00a0''I likes to be oiled.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D161",
+            "global_id": "282",
+            "content": "*'''Kassandra:'''\u00a0''Well, that's obvious.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D162",
+            "global_id": "283",
+            "content": "*'''Testikles:'''\u00a0''Yeah, you knows.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N52",
+            "global_id": "284",
+            "content": "Testikles lightly tapped Kassandra on the nose.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D163",
+            "global_id": "285",
+            "content": "*'''Testikles:'''\u00a0''Ahh, come here, gives us a hug.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N53",
+            "global_id": "286",
+            "content": "Kassandra dodged Testikles, causing him to trip over a bowl of fruit and fall off the dock and into the sea. The bystanders gathered at the edge.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D164",
+            "global_id": "287",
+            "content": "*'''Kassandra:'''\u00a0''Surely, he can swim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I9",
+            "global_id": "288",
+            "content": "[[File:ACOD Shark devouring Testikles.png|thumb|250px|The shark devouring Testikles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N54",
+            "global_id": "289",
+            "content": "A shark swam by as the water turned red, indicating Testikle's fate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D165",
+            "global_id": "290",
+            "content": "*'''Alkibiades:''' ''Oh... Well, looks like you're the champion now, ah?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N55",
+            "global_id": "291",
+            "content": "Kassandra's entourage was in shock over this turn of events.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D166",
+            "global_id": "292",
+            "content": "*'''Barnabas:''' ''I can't believe he's gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D167",
+            "global_id": "293",
+            "content": "*'''Herodotos:'''\u00a0''Unprecedented!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N56",
+            "global_id": "294",
+            "content": "Kassandra spoke with Alkibiades.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D168",
+            "global_id": "295",
+            "content": "*'''Kassandra:'''\u00a0''And... you want me to compete in the Olympics?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D169",
+            "global_id": "296",
+            "content": "*'''Kassandra:''' ''Stepping into a dead man's sandals... and Testikles isn't even digested yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D170",
+            "global_id": "297",
+            "content": "*'''Alkibiades:''' ''Come, dear Kassie\u2014show them what you're made of! And show ''me'' while you're at it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "298",
+            "content": "(If players asked \"Where do I need to go?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D171",
+            "global_id": "299",
+            "content": "*'''Kassandra:'''\u00a0''Where do I go to fight in the pankration?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D172",
+            "global_id": "300",
+            "content": "*'''Alkibiades:''' ''The [[Stadium, Olympia|stadium]] in [[Olympia]], naturally. I do love a good rough and tumble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D173",
+            "global_id": "301",
+            "content": "*'''Kassandra:'''\u00a0''You know people die in these events.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N57",
+            "global_id": "302",
+            "content": "Alkibiades simply shrugged.<br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C9",
+            "global_id": "303",
+            "content": "(If players asked \"What else should I know?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D174",
+            "global_id": "304",
+            "content": "*'''Kassandra:'''\u00a0''What else goes on apart from the pankration?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D175",
+            "global_id": "305",
+            "content": "*'''Alkibiades:''' ''There's javelin, which\u2014of course\u2014you know how that works. The athlete ''thrusts'' the long, smooth [[spear]] forward...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D176",
+            "global_id": "306",
+            "content": "*'''Kassandra:'''\u00a0''Yes, I know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D177",
+            "global_id": "307",
+            "content": "*'''Alkibiades:''' ''And then there's the foot races and the [[horse]] races. Sweat ''everywhere.'' A delight for the eyes ''and'' the nose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O19",
+            "global_id": "308",
+            "content": "(Leave \u2013 \"To the Olympics.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D178",
+            "global_id": "309",
+            "content": "*'''Kassandra:'''\u00a0''I need that wreath for Sparta. If it means I have to compete, so be it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D179",
+            "global_id": "310",
+            "content": "*'''Herodotos:'''\u00a0''The event doesn't start just yet. We could look around first\u2014Olympia at [[Olympic Truce|truce]]\u00a0is quite extraordinary.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

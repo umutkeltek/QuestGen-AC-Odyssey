@@ -1,0 +1,229 @@
+{
+    "Quest_Name": "Of Sharks and Spartans",
+    "Quest_ID": "251103",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Of Sharks and Spartans",
+        "description": "'A Spartan spy discovered a shipwreck full of sunken Athens|Athenian weaponry. The spy had more difficulty in discovering a way to deal with the Great white shark|sharks.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Of Sharks and Spartans''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A [[Sparta]]n spy wanted Kassandra's help with some weapons in an ocean full of [[Great white shark|sharks]].",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n:'''Note:'''<br>''[[Athens|Athenians]] are excellent runners. They run away so often, their boats have holes.''\nShe sought out the Spartan [[soldier]] and addressed him.\n*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Man:''' ''An Spartan [[ship]] was sunk just off the coast. The warriors on board will never see battle again, but their weapons still could. The ship was carrying a [[Treasure chest|chest]] with their gear.''\n*'''Kassandra:''' ''So go get them.''\n*'''Man:''' ''Spartans weren't made for fighting the sharks in these waters.''\n<tabber>\n|-|You want it recovered from the ocean.=\n*'''Kassandra:''' ''You want me to go diving for it?''\n*'''Man:''' ''That would be the idea, yes.''\n(Accept \u2013 I'll bring it to you.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Man:''' ''Please, get it done.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra dove into the ocean and recovered the weapons. Afterwards, she returned to the soldier.\n*'''Man:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Man:''' ''Thank you, mercenary. Now, your reward.''\n*'''Kassandra:''' ''Thank you.''\n|-|You want the sharks gutted.=\n*'''Kassandra:''' ''And you want me to gut all the sharks.''\n*'''Man:''' ''Yes, all of them must die.''\n(Accept \u2013 I'll handle it.)\n*'''Kassandra:''' ''I'll handle this.''\n*'''Man:''' ''Please, get it done.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra dove into the ocean and killed the sharks. Afterwards, she returned to the soldier.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Well done! Sparta is in your debt. Here, as thanks.''\n*'''Kassandra:''' ''Thank you.''\n</tabber>",
+    "Section_Outcome": "Kassandra either recovered the weapons or killed the sharks, and in return was rewarded.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Naval side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": ":'''Note:'''<br>''[[Athens|Athenians]] are excellent runners. They run away so often, their boats have holes.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "3",
+            "content": "She sought out the Spartan [[soldier]] and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Man:''' ''An Spartan [[ship]] was sunk just off the coast. The warriors on board will never see battle again, but their weapons still could. The ship was carrying a [[Treasure chest|chest]] with their gear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''So go get them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Man:''' ''Spartans weren't made for fighting the sharks in these waters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You want it recovered from the ocean.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You want me to go diving for it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Man:''' ''That would be the idea, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Accept \u2013 I'll bring it to you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Man:''' ''Please, get it done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "16",
+            "content": "Kassandra dove into the ocean and recovered the weapons. Afterwards, she returned to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Man:''' ''Did you get it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''It's all yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Man:''' ''Thank you, mercenary. Now, your reward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "21",
+            "content": "|-|You want the sharks gutted.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''And you want me to gut all the sharks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Man:''' ''Yes, all of them must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "24",
+            "content": "(Accept \u2013 I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Man:''' ''Please, get it done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I'll come back when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "28",
+            "content": "Kassandra dove into the ocean and killed the sharks. Afterwards, she returned to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Man:''' ''Well done! Sparta is in your debt. Here, as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "33",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

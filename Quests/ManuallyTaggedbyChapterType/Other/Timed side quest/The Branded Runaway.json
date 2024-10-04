@@ -1,0 +1,41 @@
+{
+    "QuestName": "The Branded Runaway",
+    "QuestID": "236785",
+    "Revision": {
+        "id": "1047506",
+        "parentid": "915373",
+        "timestamp": "2023-06-13T19:22:10Z",
+        "contributor": null,
+        "comment": "imageneed template",
+        "origin": "1047506",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "5sjijhm1oivrvc57x6h9yup8ow3euxe"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Branded Runaway",
+        "image": null,
+        "description": "'And so it was that a fugitive Slavery|slave required the help of a 'Mercenary|misthios' to escape the soldiers pursuing him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Branded Runaway''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A runaway [[Slavery|slave]] sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra came across a slave sitting by a camp fire.\n*'''Kassandra:''' Chaire''. Is there something you need?''\n*'''Man:''' ''You see my brand,'' [[Mercenary|misthios]]''? It says I'm a runaway, and the [[soldier]]s have seen it. More are coming for me... I'll never make it past them!''\n*'''Kassandra:''' ''So you want me to provide protection?''\n*'''Man:''' ''Obviously. Do we have a deal?''\n\n(Accept \u2013 \"I'm going to help you.\")\n*'''Kassandra:''' ''All right. I've got your back.''\nKassandra and the slave successfully fended off the attacking soldiers.\n*'''Man:''' ''That should be the last of them, ''misthios''. You're quite the warrior.''\n*'''Kassandra:''' ''You're safe now.''\n*'''Man:''' ''Thank you. For everything. Please, this isn't much, but take it.''\nThe man gave Kassandra some of what [[drachma]]e he had.\n*'''Kassandra:''' ''Doesn't look this life is offering you much, but another awaits aboard [[Adrestia|my ship]]. Sail with me\u2014we need someone like you.''\n*'''Man:''' ''You know I can't leave, mercenary. Though I'd like to.''\n*'''Kassandra:''' ''You're always welcome aboard if you change your mind.''",
+    "Section_Outcome": "Kassandra helped the slave by dealing with the soldiers sent after him.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD-TheBrandedRunaway-01.jpg|Kassandra approaching the slave\nACOD-TheBrandedRunaway-02.jpg|Kassandra fighting the soldiers\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

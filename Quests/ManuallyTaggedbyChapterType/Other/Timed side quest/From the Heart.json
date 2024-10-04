@@ -1,0 +1,42 @@
+{
+    "QuestName": "From the Heart",
+    "QuestID": "236192",
+    "Revision": {
+        "id": "1047530",
+        "parentid": "846537",
+        "timestamp": "2023-06-13T19:27:52Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047530",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "dn4vvfzb7mz62wvtizlyfhzgz7jczpj"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430-420s BCE"
+    },
+    "General_Description": "'''From the Heart''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found a note left on the [[message board]], and decided to look into it.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a message board.\n*'''Note:'''<br>''From [[Zeus]], the [[Cattle|bull]] [[Europa (mythology)|Europa]] kissed. He offered a [[Spear of Kephalos|javelin]] that never missed.''\nShe sought out the Athenian soldier and addressed him.\n*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''\n*'''Athenian Soldier:''' ''My commander is in love with a priestess of [[Hekate|Hecate]].''\n*'''Kassandra:''' ''What's wrong with that?''\n*'''Athenian Soldier:''' ''She asked him for a letter expressing his eternal devotion written in his blood.''\n*'''Kassandra:''' ''And he gave it to her?''\n*'''Athenian Soldier:''' ''Love turns people into idiots. I just know she's going to do something evil with that letter.''\n*'''Kassandra:''' ''So you want me to deal with her.''\n*'''Athenian Soldier:''' ''I knew I asked the right person.''\n(Accept - I'm going to help you.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Athenian Soldier:''' ''Thank you. Please be quick.''\n*'''Kassandra:''' Chaire.\nKassandra sought out the priestess and killed her, then returned to the soldier.\n*'''Athenian Soldier:''' ''You. Have you killed her?''\n*'''Kassandra:''' ''She's no longer your concern.''\n*'''Athenian Soldier:''' ''Well done, my friend. You've earned your keep, that's for sure. Please, accept this as thanks.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the spy deal with a priestess, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,39 @@
+{
+    "Quest_Name": "Going Down",
+    "Quest_ID": "224404",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra knew lowering Paros Island|Paros's Nation Power would give Naxos Island|Naxos an advantage in the war, one Myrrine and the people of Naxos desperately needed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Death and Disorder",
+        "next": "Quarry Quandary",
+        "source": "Kassandra",
+        "location": "Paros Island, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Going Down''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to undermine the strength of [[Paros Island|Paros]] to aid her [[Myrrine|mother]] in her war.",
+    "Section_Dialogue": "There was no spoken dialogue for this memory.",
+    "Section_Outcome": "Kassandra lowered the strength of Paros as a nation, which would force them into a reckless strike against Naxos.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:D\u00e9clin]]",
+    "Chapter_SequenceID": "14.",
+    "Chapter_Name": "Paradise Lost",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "There was no spoken dialogue for this memory.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

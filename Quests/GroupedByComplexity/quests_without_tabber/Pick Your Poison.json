@@ -1,0 +1,86 @@
+{
+    "Quest_Name": "Pick Your Poison",
+    "Quest_ID": "224732",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Pick Your Poison 2.png",
+        "description": "'Kassandra was tasked with heading into the Mycenaean Ruins to search for a stolen bag of poison for the priestesses of Kythera Island|Kythera.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World, Support",
+        "previous": "Place in the Kosmos",
+        "concurrent": "All Bonds Will Break<br>The Handmaiden's Story",
+        "next": "In a Rush",
+        "source": "Kassandra",
+        "location": "Skandeia Bay, Kythera Island, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Pick Your Poison''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Diona]] recover a stolen bag of [[poison]].",
+    "Section_Dialogue": "Kassandra approached the [[Mycenaean Ruins]] south of [[Kythera Town]].\n*'''Kassandra:''' ''These look like the ruins Diona spoke about. Best be on my guard.''\nWith the help of [[Ikaros]], she found the bag of poisons stolen from Diona.\n*'''Kassandra:''' ''I see it.''\nShe infiltrated the ruins, dealt with the bandits as she saw fit, and retrieved the poisons, along with [[Kytheran Belt]].\n*'''Kassandra:''' ''Poison... a coward's weapon.<br>Diona will want this back.''\nKassandra left the ruins behind and returned to the city.\n\n(Dialogue with Diona concludes over the course of [[Place in the Kosmos]]/[[In a Rush]])",
+    "Section_Outcome": "Kassandra retrieved the poisons stolen from Diona.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Diona",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.d",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the [[Mycenaean Ruins]] south of [[Kythera Town]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''These look like the ruins Diona spoke about. Best be on my guard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "With the help of [[Ikaros]], she found the bag of poisons stolen from Diona.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I see it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She infiltrated the ruins, dealt with the bandits as she saw fit, and retrieved the poisons, along with [[Kytheran Belt]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Poison... a coward's weapon.<br>Diona will want this back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra left the ruins behind and returned to the city.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "9",
+            "content": "(Dialogue with Diona concludes over the course of [[Place in the Kosmos]]/[[In a Rush]])",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

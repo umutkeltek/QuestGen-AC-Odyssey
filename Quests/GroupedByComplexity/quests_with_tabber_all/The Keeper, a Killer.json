@@ -1,0 +1,1456 @@
+{
+    "Quest_Name": "The Keeper, a Killer",
+    "Quest_ID": "230991",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'In the grand story of life, there were many tales of friendships forged by violence or broken by bloodshed. In this way, Hermes Trismegistus|Hermes and Kassandra were no different from any other.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "previous": "The Keeper and the Flame",
+        "next": "Good News",
+        "source": "Kassandra",
+        "location": "Persephone's Lost Outpost, Minos' Faith, Elysium"
+    },
+    "General_Description": "'''The Keeper, a Killer''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra recovered the recipe to the eternal flame, but [[Adonis]]' rebels continued their campaigns against [[Persephone]]'s forces. [[Hermes Trismegistus|Hermes]] beseeched Kassandra for aid in dealing with them.",
+    "Section_Dialogue": "Kassandra spoke to Hermes at the [[Dionysian Hemicycle]] as Adonis' rebellion reached a tipping point.\n*'''Hermes:''' ''The humans are after us\u2014you, me, Persephone\u2014anyone not like them.''\n*'''Kassandra:''' ''I've seen it too. War has come to [[Elysium]].''\nKassandra and Hermes walked to the edge of the hemicycle to observe [[Persephone's Lost Outpost]], where the humans mingled.\n*'''Hermes:''' ''We must crush the force behind the chaos. Let's fight for Persephone.''\n*'''Kassandra:''' ''You're so worried about Persephone you can't even see you're in just as much danger.''\nHermes brushed her off.\n<tabber>\n|-|If Kassandra was unseen=\n{{#tag:tabber|\nIf the eternal flame was kept from humans=\n*'''Hermes:''' ''You keep the eternal flame out of the hands of the humans, ''and'' you went unseen. We have the upper hand\u2014we just have to strike.''\n{{!}}-{{!}}\nIf the eternal flame was given to humans=\n*'''Hermes:''' ''You want [[Adonis]] to have the key to the eternal flame, fine. But that just means I fight harder.''\n}}\n*'''Kassandra:''' ''Calm yourself, Hermes. It's not like you're going to go on a rampage.''\n*'''Hermes:''' ''And why not? There are so-called captains guiding the human forces. They invited chaos into this realm, so let's show them chaos.''\n{{#tag:tabber|\nAccept \u2013 Let's kill the captains.=\n*'''Kassandra:''' ''Fine, I'll kill the captains.''\nKassandra looked out at Persephone's Lost Outpost, agreeing to Hermes request.\n{{!}}-{{!}}\nYou're no murderer.=\n*'''Kassandra:''' ''At least when you asked me to steal, it was from thieves. You're not a murderer, Hermes.''\n{{#tag:tabber|\nIf Kassandra brought Kyros late and lied=\n*'''Hermes:''' ''You made me look like a fool when I sent you to [[Kyros of Zarax|Kyros]]. But I still can come back from that and prove my worth.''\n*'''Kassandra:''' ''I told you we were diverted.''\n{{!}}-{{!}}\nIf Kassandra brought Kyros late and blamed him=\n*'''Hermes:''' ''You made me look like a fool when I sent you to Kyros. But I still can come back from that and prove my worth.''\n*'''Kassandra:''' ''I told you, that was Kyros' fault, not yours.''\n{{!}}-{{!}}\nIf Kassandra brought Kyros immediately=\n*'''Hermes:''' ''Maybe not, but if Persephone doesn't love me for who I am, she'll love me for who I'm willing to become.''\n*'''Kassandra:''' ''So others should die for ''your'' devotion?''\n}}\n*'''Hermes:''' ''It doesn't matter. Please, I'm begging you, my friend. Help me to help her.''\n{{#tag:tabber|\nAccept \u2013 We'll kill the captains.=\n*'''Kassandra:''' ''Fine. I'll kill the captains.''\n{{!}}-{{!}}\nI won't do it.=\n*'''Kassandra:''' ''You think that your obsession with Persephone entitles you to her love. It doesn't. She will never love you, Hermes, and no amount of killing will change that.''\nHermes' rage surfaced. He grabbed Kassandra by the throat and threw her across the hemicycle.\n*'''Hermes:''' ''Enough!''\nKassandra leapt to her feet and readied herself for battle as Hermes lashed out at her with powers and techniques made possible by the [[Spear of Leonidas|Spear]] and [[Staff of Hermes Trismegistus|Staff]]. Their battle continued until [[Hekate]] ran up to stop them.\n{{#tag:tabber|\nIf Kassandra defeated Hermes=\n*'''Hekate:''' ''Stop! You're going to kill him!''\n{{!}}-{{!}}\nIf Kassandra and Hermes fought to a draw=\n*'''Hekate:''' ''Stop, both of you!''\n}}\n*'''Kassandra:''' ''What are you doing here?''\n*'''Hekate:''' ''Don't question me\u2014''thank'' me for stopping you both before you do something you'll regret.''\nKassandra grunted and brushed her off. She turned her back on the two [[Isu]].\n*'''Hermes:''' ''This isn't over.''\n*'''Hekate:''' ''Stand down, both of you. You still have your parts to play in all of this. Now stop bickering and fulfill them.''\nHekate ushered Hermes out of the hemicycle. Both he and Kassandra left their battle intact, but their friendship did not.\n}}\n{{!}}-{{!}}\nLeave \u2013 I need more time.=\n*'''Kassandra:''' ''I can't believe we're even having this conversation. Give me some time to think''\nKassandra took some time to think and returned.\n*'''Hermes:''' ''If we kill their so-called captains, the humans will scramble. Help me make this right.''\n(back to choices)\n}}\n|-|If Kassandra was detected=\n{{#tag:tabber|\nIf the eternal flame was kept from humans=\n*'''Hermes:''' ''I don't care what happens to me. You were caught when we stole back the eternal flame. The humans ''will'' retaliate for what we've done.''\n{{!}}-{{!}}\nIf the eternal flame was given to humans=\n*'''Hermes:''' ''I don't care what happens to me. Adonis has the recipe to the eternal flame, and you were spotted when we tried to get it back. The humans who stole it are going to retaliate.''\n}}\n*'''Kassandra:''' ''What do you propose? That we kill them all?''\n*'''Hermes:''' ''What choice do we have? Chaos came for us, and soon there will be blood on our hands.''\n{{#tag:tabber|\nAccept \u2013 The humans have to die.=\n*'''Kassandra:''' \nKassandra looked out at Persephone's Lost Outpost, agreeing to Hermes request.\n{{!}}-{{!}}\nYou're no murderer.=\n*'''Kassandra:''' ''At least when you asked me to steal, it was from thieves. You're not a murderer, Hermes.''\n{{#tag:tabber|\nIf Kassandra brought Kyros late and lied=\n*'''Hermes:''' ''You made me look like a fool when I sent you to [[Kyros of Zarax|Kyros]]. But I still can come back from that and prove my worth.''\n*'''Kassandra:''' ''I told you we were diverted.''\n{{!}}-{{!}}\nIf Kassandra brought Kyros late and blamed him=\n*'''Hermes:''' ''You made me look like a fool when I sent you to Kyros. But I still can come back from that and prove my worth.''\n*'''Kassandra:''' ''I told you, that was Kyros' fault, not yours.''\n{{!}}-{{!}}\nIf Kassandra brought Kyros immediately=\n*'''Hermes:''' ''Maybe not, but if Persephone doesn't love me for who I am, she'll love me for who I'm willing to become.''\n*'''Kassandra:''' ''So others should die for ''your'' devotion?''\n}}\n*'''Hermes:''' ''It doesn't matter. Please, I'm begging you, my friend. Help me to help her.''\n{{#tag:tabber|\nAccept \u2013 Let's kill all the humans.=\n*'''Kassandra:''' ''If it'll put your mind at ease, I'll kill everyone who saw me. There'll be no retaliation for the theft.''\n{{!}}-{{!}}\nI won't do it.=\n*'''Kassandra:''' ''You think that your obsession with Persephone entitles you to her love. It doesn't. She will never love you, Hermes, and no amount of killing will change that.''\nHermes' rage surfaced. He grabbed Kassandra by the throat and threw her across the hemicycle.\n*'''Hermes:''' ''Enough!''\nKassandra leapt back to her feet and readied herself for battle. Hermes lashed out at her with powers and techniques made possible for her by her [[Spear of Leonidas|spear]] and [[Staff of Hermes Trismegistus|staff]]. Their battle dragged on until [[Hekate]] ran up to stop them.\n{{#tag:tabber|\nIf Kassandra defeated Hermes=\n*'''Hekate:''' ''Stop! You're going to kill him!''\n{{!}}-{{!}}\nIf Kassandra fought Hermes to a draw=\n*'''Hekate:''' ''Stop, both of you!''\n}}\n*'''Kassandra:''' ''What are you doing here?''\n*'''Hekate:''' ''Don't question me\u2014''thank'' me for stopping you both before you do something you'll regret.''\nKassandra grunted and brushed her off. She turned her back on the two [[Isu]].\n*'''Hermes:''' ''This isn't over.''\n*'''Hekate:''' ''Stand down, both of you. You still have your parts to play in all of this. Now stop bickering and fulfill them.''\nHekate ushered Hermes out of the hemicycle. Both he and Kassandra left their battle intact, but their friendship did not.\n}}\n{{!}}-{{!}}\nLeave \u2013 I need more time.=\n*'''Kassandra:''' ''I can't believe we're even having this conversation. Give me some time to think''\nKassandra took some time to think and returned.\n*'''Hermes:''' ''We need to find the humans who saw you and kill them before they get to Persephone.''\n(back to choices)\n}}\n</tabber>\n\n===Helping Hermes===\nKassandra and Hermes traveled to the outpost while [[Ikaros]] surveyed from a distance.\n:(If \"People want her overthrown\" was chosen in [[The Keeper and Kyros]])\n:*'''Hermes:''' ''Thank you. You know, when you told me people wanted Persephone overthrown, I wondered if you were talking about yourself.''\n:*'''Kassandra:''' ''I'm sure you did.''\n*'''Hermes:''' ''I cannot let you do this alone, my friend. Let's fight side by side.''\n{{#tag:tabber|\nLet's do it together.=\n*'''Kassandra:''' ''All right. I've never fought alongside a god before. This should be... messy.''\nThey strode up the stairs into the outpost proper to find their targets.\n*'''Hermes:''' ''For eternity, Elysium has been a place of peace. If we do this, maybe peace will return.''\n*'''Kassandra:''' ''Maybe, but war has a way of following me wherever I go.''\nThey identified their targets and attacked them.\n*'''Hermes:''' ''There they are. For Persephone!''\n*'''Hermes:''' ''We were friends!''\nThey repelled Kassandra's attacks.\n*'''Hermes:''' ''I'll stop them, my friend!''\nThey killed the first target.\n*'''Hermes:''' ''Die, human!''\nThey killed all of their targets as panic rippled through the crowd of revelers.\n*'''Hermes:''' ''We did it! Now let's get out of here.''\nThey escaped the crowds back to the hemicycle at the bottom of the stairs.\n*'''Hermes:''' ''It's been a long time since I had to use this blade, my friend.''\n{{#tag:tabber|\nWe're not friends.=\n*'''Kassandra:''' ''Don't call me friend, Hermes. We're done.''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nPersephone isn't worth this.=\nKassandra's frustration with Hermes boiled over.\n*'''Kassandra:''' ''Can't you see now that Persephone was never worth it?''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nThat did feel good.=\n*'''Kassandra:''' ''You're right. It felt good to fight with a friend.''\n*'''Hermes:''' ''You're quite the warrior. But the war is just beginning.''\nKassandra thought for a moment, then folded her arms.\n*'''Kassandra:''' ''It is.''\n*'''Hermes:''' ''I should tell Persephone what's happened. I know she will join me in this battle. Will you?''\n(or)\n*'''Hermes:''' ''Persephone needs to know what we've done. I'm going to her. If she rises to battle... Will you join us?''\n*'''Kassandra:''' ''One way or another.''\n*'''Hermes:''' ''Until then, my friend.''\nHermes took his leave, and Kassandra stared out at [[Pherephassa Point]].\n}}\n{{!}}-{{!}}\nI need to do this alone.=\n*'''Kassandra:''' ''I'll need to do this alone, Hermes. But don't worry\u2014you can still take the credit.''\nKassandra entered the outpost proper and killed all of her human targets.\n*'''Kassandra:''' ''That's all the humans. I'll let Hermes know.''\nKassandra returned to Hermes.\n*'''Hermes:''' ''You're back. Because of us\u2014because of you\u2014Persephone is safe. Thank you, my friend.''\n{{#tag:tabber|\nWe're not friends.=\n*'''Kassandra:''' ''Don't call me friend, Hermes. We're done.''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nPersephone isn't worth this.=\nKassandra's frustration with Hermes boiled over.\n*'''Kassandra:''' ''Can't you see now that Persephone was never worth it?''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nYou're welcome.=\n*'''Kassandra:''' ''No need to thank me. I'm sure you'd have done the same if you had to.''\n*'''Hermes:''' ''Modest ''and'' deadly. Impressive. But the war is just beginning.''\nKassandra thought for a moment, then folded her arms.\n*'''Kassandra:''' ''It is.''\n*'''Hermes:''' ''I should tell Persephone what's happened. I know she will join me in this battle. Will you?''\n*'''Kassandra:''' ''One way or another.''\n*'''Hermes:''' ''Until then, my friend.''\nHermes took his leave, and Kassandra stared out at [[Pherephassa Point]].\n}}\n}}",
+    "Section_Helping_Hermes": "Kassandra and Hermes traveled to the outpost while [[Ikaros]] surveyed from a distance.\n:(If \"People want her overthrown\" was chosen in [[The Keeper and Kyros]])\n:*'''Hermes:''' ''Thank you. You know, when you told me people wanted Persephone overthrown, I wondered if you were talking about yourself.''\n:*'''Kassandra:''' ''I'm sure you did.''\n*'''Hermes:''' ''I cannot let you do this alone, my friend. Let's fight side by side.''\n{{#tag:tabber|\nLet's do it together.=\n*'''Kassandra:''' ''All right. I've never fought alongside a god before. This should be... messy.''\nThey strode up the stairs into the outpost proper to find their targets.\n*'''Hermes:''' ''For eternity, Elysium has been a place of peace. If we do this, maybe peace will return.''\n*'''Kassandra:''' ''Maybe, but war has a way of following me wherever I go.''\nThey identified their targets and attacked them.\n*'''Hermes:''' ''There they are. For Persephone!''\n*'''Hermes:''' ''We were friends!''\nThey repelled Kassandra's attacks.\n*'''Hermes:''' ''I'll stop them, my friend!''\nThey killed the first target.\n*'''Hermes:''' ''Die, human!''\nThey killed all of their targets as panic rippled through the crowd of revelers.\n*'''Hermes:''' ''We did it! Now let's get out of here.''\nThey escaped the crowds back to the hemicycle at the bottom of the stairs.\n*'''Hermes:''' ''It's been a long time since I had to use this blade, my friend.''\n{{#tag:tabber|\nWe're not friends.=\n*'''Kassandra:''' ''Don't call me friend, Hermes. We're done.''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nPersephone isn't worth this.=\nKassandra's frustration with Hermes boiled over.\n*'''Kassandra:''' ''Can't you see now that Persephone was never worth it?''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nThat did feel good.=\n*'''Kassandra:''' ''You're right. It felt good to fight with a friend.''\n*'''Hermes:''' ''You're quite the warrior. But the war is just beginning.''\nKassandra thought for a moment, then folded her arms.\n*'''Kassandra:''' ''It is.''\n*'''Hermes:''' ''I should tell Persephone what's happened. I know she will join me in this battle. Will you?''\n(or)\n*'''Hermes:''' ''Persephone needs to know what we've done. I'm going to her. If she rises to battle... Will you join us?''\n*'''Kassandra:''' ''One way or another.''\n*'''Hermes:''' ''Until then, my friend.''\nHermes took his leave, and Kassandra stared out at [[Pherephassa Point]].\n}}\n{{!}}-{{!}}\nI need to do this alone.=\n*'''Kassandra:''' ''I'll need to do this alone, Hermes. But don't worry\u2014you can still take the credit.''\nKassandra entered the outpost proper and killed all of her human targets.\n*'''Kassandra:''' ''That's all the humans. I'll let Hermes know.''\nKassandra returned to Hermes.\n*'''Hermes:''' ''You're back. Because of us\u2014because of you\u2014Persephone is safe. Thank you, my friend.''\n{{#tag:tabber|\nWe're not friends.=\n*'''Kassandra:''' ''Don't call me friend, Hermes. We're done.''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nPersephone isn't worth this.=\nKassandra's frustration with Hermes boiled over.\n*'''Kassandra:''' ''Can't you see now that Persephone was never worth it?''\n*'''Hermes:''' ''What? But we did it, and I have you to thank!''\n*'''Kassandra:''' ''You used me just like Persephone's used you.''\n*'''Hermes:''' ''You're wrong.''\n*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''\n*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''\n*'''Kassandra:''' ''So it's come to this.''\n*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''\nHermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.\n*'''Kassandra:''' Mal\u00e1ka''!''\n{{!}}-{{!}}\nYou're welcome.=\n*'''Kassandra:''' ''No need to thank me. I'm sure you'd have done the same if you had to.''\n*'''Hermes:''' ''Modest ''and'' deadly. Impressive. But the war is just beginning.''\nKassandra thought for a moment, then folded her arms.\n*'''Kassandra:''' ''It is.''\n*'''Hermes:''' ''I should tell Persephone what's happened. I know she will join me in this battle. Will you?''\n*'''Kassandra:''' ''One way or another.''\n*'''Hermes:''' ''Until then, my friend.''\nHermes took his leave, and Kassandra stared out at [[Pherephassa Point]].\n}}\n}}",
+    "Section_Outcome": "Kassandra either furthered along her friendship with Hermes, or ended it, based on the actions he wished to take in Persephone's name against Adonis' rebels.",
+    "Section_Trivia": "*If Hermes is fought by refusing to kill the human targets, the \"fought to a draw\" outcome is determined when he deals significant damage to the player. However, if they have very low Health (possible, for example, with the [[Falx of Olympos]] or a weapon that uses its [[Engraving]] equipped, which hard-caps Health to 25%), or Hermes deals enough damage in a single combo (highly possible with difficulty-scaling), he will move immediately into the kill animation for sword-wielding soldiers, meaning the player will be killed as such and de-synchronize.\n*This quest is a pre-requisite for the memory \"[[A Life for a Life]]\", which is in turn a pre-requisite for \"[[The Beacons Are Lit]]\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Fields of Elysium]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra spoke to Hermes at the [[Dionysian Hemicycle]] as Adonis' rebellion reached a tipping point.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Hermes:''' ''The humans are after us\u2014you, me, Persephone\u2014anyone not like them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I've seen it too. War has come to [[Elysium]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra and Hermes walked to the edge of the hemicycle to observe [[Persephone's Lost Outpost]], where the humans mingled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Hermes:''' ''We must crush the force behind the chaos. Let's fight for Persephone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You're so worried about Persephone you can't even see you're in just as much danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Hermes brushed her off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|If Kassandra was unseen=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "10",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "If the eternal flame was kept from humans=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Hermes:''' ''You keep the eternal flame out of the hands of the humans, ''and'' you went unseen. We have the upper hand\u2014we just have to strike.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "13",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "14",
+            "content": "If the eternal flame was given to humans=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "15",
+            "content": "*'''Hermes:''' ''You want [[Adonis]] to have the key to the eternal flame, fine. But that just means I fight harder.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "16",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Calm yourself, Hermes. It's not like you're going to go on a rampage.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Hermes:''' ''And why not? There are so-called captains guiding the human forces. They invited chaos into this realm, so let's show them chaos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "19",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "20",
+            "content": "Accept \u2013 Let's kill the captains.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Fine, I'll kill the captains.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "22",
+            "content": "Kassandra looked out at Persephone's Lost Outpost, agreeing to Hermes request.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "23",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "24",
+            "content": "You're no murderer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''At least when you asked me to steal, it was from thieves. You're not a murderer, Hermes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "26",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "27",
+            "content": "If Kassandra brought Kyros late and lied=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "28",
+            "content": "*'''Hermes:''' ''You made me look like a fool when I sent you to [[Kyros of Zarax|Kyros]]. But I still can come back from that and prove my worth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I told you we were diverted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "30",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "31",
+            "content": "If Kassandra brought Kyros late and blamed him=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "32",
+            "content": "*'''Hermes:''' ''You made me look like a fool when I sent you to Kyros. But I still can come back from that and prove my worth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I told you, that was Kyros' fault, not yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "34",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "35",
+            "content": "If Kassandra brought Kyros immediately=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "36",
+            "content": "*'''Hermes:''' ''Maybe not, but if Persephone doesn't love me for who I am, she'll love me for who I'm willing to become.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''So others should die for ''your'' devotion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "38",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D17",
+            "global_id": "39",
+            "content": "*'''Hermes:''' ''It doesn't matter. Please, I'm begging you, my friend. Help me to help her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "40",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "41",
+            "content": "Accept \u2013 We'll kill the captains.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Fine. I'll kill the captains.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "43",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "44",
+            "content": "I won't do it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''You think that your obsession with Persephone entitles you to her love. It doesn't. She will never love you, Hermes, and no amount of killing will change that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "46",
+            "content": "Hermes' rage surfaced. He grabbed Kassandra by the throat and threw her across the hemicycle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "47",
+            "content": "*'''Hermes:''' ''Enough!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "48",
+            "content": "Kassandra leapt to her feet and readied herself for battle as Hermes lashed out at her with powers and techniques made possible by the [[Spear of Leonidas|Spear]] and [[Staff of Hermes Trismegistus|Staff]]. Their battle continued until [[Hekate]] ran up to stop them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTS5",
+            "global_id": "49",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "50",
+            "content": "If Kassandra defeated Hermes=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "51",
+            "content": "*'''Hekate:''' ''Stop! You're going to kill him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD6",
+            "global_id": "52",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "53",
+            "content": "If Kassandra and Hermes fought to a draw=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "54",
+            "content": "*'''Hekate:''' ''Stop, both of you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "55",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D23",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''What are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "57",
+            "content": "*'''Hekate:''' ''Don't question me\u2014''thank'' me for stopping you both before you do something you'll regret.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "58",
+            "content": "Kassandra grunted and brushed her off. She turned her back on the two [[Isu]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "59",
+            "content": "*'''Hermes:''' ''This isn't over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "60",
+            "content": "*'''Hekate:''' ''Stand down, both of you. You still have your parts to play in all of this. Now stop bickering and fulfill them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "61",
+            "content": "Hekate ushered Hermes out of the hemicycle. Both he and Kassandra left their battle intact, but their friendship did not.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "62",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTD7",
+            "global_id": "63",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "64",
+            "content": "Leave \u2013 I need more time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''I can't believe we're even having this conversation. Give me some time to think''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "66",
+            "content": "Kassandra took some time to think and returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "67",
+            "content": "*'''Hermes:''' ''If we kill their so-called captains, the humans will scramble. Help me make this right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "68",
+            "content": "(back to choices)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTE5",
+            "global_id": "69",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC14",
+            "global_id": "70",
+            "content": "|-|If Kassandra was detected=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS6",
+            "global_id": "71",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC15",
+            "global_id": "72",
+            "content": "If the eternal flame was kept from humans=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "73",
+            "content": "*'''Hermes:''' ''I don't care what happens to me. You were caught when we stole back the eternal flame. The humans ''will'' retaliate for what we've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD8",
+            "global_id": "74",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC16",
+            "global_id": "75",
+            "content": "If the eternal flame was given to humans=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "76",
+            "content": "*'''Hermes:''' ''I don't care what happens to me. Adonis has the recipe to the eternal flame, and you were spotted when we tried to get it back. The humans who stole it are going to retaliate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE6",
+            "global_id": "77",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D31",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''What do you propose? That we kill them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "79",
+            "content": "*'''Hermes:''' ''What choice do we have? Chaos came for us, and soon there will be blood on our hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS7",
+            "global_id": "80",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC17",
+            "global_id": "81",
+            "content": "Accept \u2013 The humans have to die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "82",
+            "content": "*'''Kassandra:'''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "83",
+            "content": "Kassandra looked out at Persephone's Lost Outpost, agreeing to Hermes request.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD9",
+            "global_id": "84",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC18",
+            "global_id": "85",
+            "content": "You're no murderer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''At least when you asked me to steal, it was from thieves. You're not a murderer, Hermes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS8",
+            "global_id": "87",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC19",
+            "global_id": "88",
+            "content": "If Kassandra brought Kyros late and lied=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "89",
+            "content": "*'''Hermes:''' ''You made me look like a fool when I sent you to [[Kyros of Zarax|Kyros]]. But I still can come back from that and prove my worth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I told you we were diverted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD10",
+            "global_id": "91",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC20",
+            "global_id": "92",
+            "content": "If Kassandra brought Kyros late and blamed him=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "93",
+            "content": "*'''Hermes:''' ''You made me look like a fool when I sent you to Kyros. But I still can come back from that and prove my worth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''I told you, that was Kyros' fault, not yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD11",
+            "global_id": "95",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC21",
+            "global_id": "96",
+            "content": "If Kassandra brought Kyros immediately=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "97",
+            "content": "*'''Hermes:''' ''Maybe not, but if Persephone doesn't love me for who I am, she'll love me for who I'm willing to become.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''So others should die for ''your'' devotion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE7",
+            "global_id": "99",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D41",
+            "global_id": "100",
+            "content": "*'''Hermes:''' ''It doesn't matter. Please, I'm begging you, my friend. Help me to help her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS9",
+            "global_id": "101",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC22",
+            "global_id": "102",
+            "content": "Accept \u2013 Let's kill all the humans.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''If it'll put your mind at ease, I'll kill everyone who saw me. There'll be no retaliation for the theft.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD12",
+            "global_id": "104",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC23",
+            "global_id": "105",
+            "content": "I won't do it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''You think that your obsession with Persephone entitles you to her love. It doesn't. She will never love you, Hermes, and no amount of killing will change that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "107",
+            "content": "Hermes' rage surfaced. He grabbed Kassandra by the throat and threw her across the hemicycle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "108",
+            "content": "*'''Hermes:''' ''Enough!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "109",
+            "content": "Kassandra leapt back to her feet and readied herself for battle. Hermes lashed out at her with powers and techniques made possible for her by her [[Spear of Leonidas|spear]] and [[Staff of Hermes Trismegistus|staff]]. Their battle dragged on until [[Hekate]] ran up to stop them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTS10",
+            "global_id": "110",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC24",
+            "global_id": "111",
+            "content": "If Kassandra defeated Hermes=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "112",
+            "content": "*'''Hekate:''' ''Stop! You're going to kill him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD13",
+            "global_id": "113",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC25",
+            "global_id": "114",
+            "content": "If Kassandra fought Hermes to a draw=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "115",
+            "content": "*'''Hekate:''' ''Stop, both of you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE8",
+            "global_id": "116",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D47",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''What are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "118",
+            "content": "*'''Hekate:''' ''Don't question me\u2014''thank'' me for stopping you both before you do something you'll regret.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "119",
+            "content": "Kassandra grunted and brushed her off. She turned her back on the two [[Isu]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "120",
+            "content": "*'''Hermes:''' ''This isn't over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "121",
+            "content": "*'''Hekate:''' ''Stand down, both of you. You still have your parts to play in all of this. Now stop bickering and fulfill them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "122",
+            "content": "Hekate ushered Hermes out of the hemicycle. Both he and Kassandra left their battle intact, but their friendship did not.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE9",
+            "global_id": "123",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTD14",
+            "global_id": "124",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC26",
+            "global_id": "125",
+            "content": "Leave \u2013 I need more time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''I can't believe we're even having this conversation. Give me some time to think''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "127",
+            "content": "Kassandra took some time to think and returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "128",
+            "content": "*'''Hermes:''' ''We need to find the humans who saw you and kill them before they get to Persephone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "129",
+            "content": "(back to choices)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTE10",
+            "global_id": "130",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "131",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "132",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC27",
+            "global_id": "133",
+            "content": "===Helping Hermes===",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N16",
+            "global_id": "134",
+            "content": "Kassandra and Hermes traveled to the outpost while [[Ikaros]] surveyed from a distance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N17",
+            "global_id": "135",
+            "content": ":(If \"People want her overthrown\" was chosen in [[The Keeper and Kyros]])",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N18",
+            "global_id": "136",
+            "content": ":*'''Hermes:''' ''Thank you. You know, when you told me people wanted Persephone overthrown, I wondered if you were talking about yourself.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N19",
+            "global_id": "137",
+            "content": ":*'''Kassandra:''' ''I'm sure you did.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "138",
+            "content": "*'''Hermes:''' ''I cannot let you do this alone, my friend. Let's fight side by side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS11",
+            "global_id": "139",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC28",
+            "global_id": "140",
+            "content": "Let's do it together.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "141",
+            "content": "*'''Kassandra:''' ''All right. I've never fought alongside a god before. This should be... messy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "142",
+            "content": "They strode up the stairs into the outpost proper to find their targets.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "143",
+            "content": "*'''Hermes:''' ''For eternity, Elysium has been a place of peace. If we do this, maybe peace will return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''Maybe, but war has a way of following me wherever I go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "145",
+            "content": "They identified their targets and attacked them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "146",
+            "content": "*'''Hermes:''' ''There they are. For Persephone!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "147",
+            "content": "*'''Hermes:''' ''We were friends!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "148",
+            "content": "They repelled Kassandra's attacks.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "149",
+            "content": "*'''Hermes:''' ''I'll stop them, my friend!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "150",
+            "content": "They killed the first target.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "151",
+            "content": "*'''Hermes:''' ''Die, human!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "152",
+            "content": "They killed all of their targets as panic rippled through the crowd of revelers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "153",
+            "content": "*'''Hermes:''' ''We did it! Now let's get out of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "154",
+            "content": "They escaped the crowds back to the hemicycle at the bottom of the stairs.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "155",
+            "content": "*'''Hermes:''' ''It's been a long time since I had to use this blade, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS12",
+            "global_id": "156",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC29",
+            "global_id": "157",
+            "content": "We're not friends.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "158",
+            "content": "*'''Kassandra:''' ''Don't call me friend, Hermes. We're done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "159",
+            "content": "*'''Hermes:''' ''What? But we did it, and I have you to thank!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "160",
+            "content": "*'''Kassandra:''' ''You used me just like Persephone's used you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "161",
+            "content": "*'''Hermes:''' ''You're wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "162",
+            "content": "*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "163",
+            "content": "*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "164",
+            "content": "*'''Kassandra:''' ''So it's come to this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "165",
+            "content": "*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "166",
+            "content": "Hermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "167",
+            "content": "*'''Kassandra:''' Mal\u00e1ka''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD15",
+            "global_id": "168",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC30",
+            "global_id": "169",
+            "content": "Persephone isn't worth this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N27",
+            "global_id": "170",
+            "content": "Kassandra's frustration with Hermes boiled over.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "171",
+            "content": "*'''Kassandra:''' ''Can't you see now that Persephone was never worth it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "172",
+            "content": "*'''Hermes:''' ''What? But we did it, and I have you to thank!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "173",
+            "content": "*'''Kassandra:''' ''You used me just like Persephone's used you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "174",
+            "content": "*'''Hermes:''' ''You're wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "175",
+            "content": "*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "176",
+            "content": "*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "177",
+            "content": "*'''Kassandra:''' ''So it's come to this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "178",
+            "content": "*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N28",
+            "global_id": "179",
+            "content": "Hermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D80",
+            "global_id": "180",
+            "content": "*'''Kassandra:''' Mal\u00e1ka''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD16",
+            "global_id": "181",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC31",
+            "global_id": "182",
+            "content": "That did feel good.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D81",
+            "global_id": "183",
+            "content": "*'''Kassandra:''' ''You're right. It felt good to fight with a friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "184",
+            "content": "*'''Hermes:''' ''You're quite the warrior. But the war is just beginning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N29",
+            "global_id": "185",
+            "content": "Kassandra thought for a moment, then folded her arms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D83",
+            "global_id": "186",
+            "content": "*'''Kassandra:''' ''It is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "187",
+            "content": "*'''Hermes:''' ''I should tell Persephone what's happened. I know she will join me in this battle. Will you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "188",
+            "content": "(or)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D85",
+            "global_id": "189",
+            "content": "*'''Hermes:''' ''Persephone needs to know what we've done. I'm going to her. If she rises to battle... Will you join us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "190",
+            "content": "*'''Kassandra:''' ''One way or another.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "191",
+            "content": "*'''Hermes:''' ''Until then, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N30",
+            "global_id": "192",
+            "content": "Hermes took his leave, and Kassandra stared out at [[Pherephassa Point]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE11",
+            "global_id": "193",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTD17",
+            "global_id": "194",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC32",
+            "global_id": "195",
+            "content": "I need to do this alone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D88",
+            "global_id": "196",
+            "content": "*'''Kassandra:''' ''I'll need to do this alone, Hermes. But don't worry\u2014you can still take the credit.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N31",
+            "global_id": "197",
+            "content": "Kassandra entered the outpost proper and killed all of her human targets.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D89",
+            "global_id": "198",
+            "content": "*'''Kassandra:''' ''That's all the humans. I'll let Hermes know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N32",
+            "global_id": "199",
+            "content": "Kassandra returned to Hermes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D90",
+            "global_id": "200",
+            "content": "*'''Hermes:''' ''You're back. Because of us\u2014because of you\u2014Persephone is safe. Thank you, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS13",
+            "global_id": "201",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC33",
+            "global_id": "202",
+            "content": "We're not friends.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D91",
+            "global_id": "203",
+            "content": "*'''Kassandra:''' ''Don't call me friend, Hermes. We're done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "204",
+            "content": "*'''Hermes:''' ''What? But we did it, and I have you to thank!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "205",
+            "content": "*'''Kassandra:''' ''You used me just like Persephone's used you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D94",
+            "global_id": "206",
+            "content": "*'''Hermes:''' ''You're wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "207",
+            "content": "*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D96",
+            "global_id": "208",
+            "content": "*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D97",
+            "global_id": "209",
+            "content": "*'''Kassandra:''' ''So it's come to this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D98",
+            "global_id": "210",
+            "content": "*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N33",
+            "global_id": "211",
+            "content": "Hermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D99",
+            "global_id": "212",
+            "content": "*'''Kassandra:''' Mal\u00e1ka''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD18",
+            "global_id": "213",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC34",
+            "global_id": "214",
+            "content": "Persephone isn't worth this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N34",
+            "global_id": "215",
+            "content": "Kassandra's frustration with Hermes boiled over.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D100",
+            "global_id": "216",
+            "content": "*'''Kassandra:''' ''Can't you see now that Persephone was never worth it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "217",
+            "content": "*'''Hermes:''' ''What? But we did it, and I have you to thank!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D102",
+            "global_id": "218",
+            "content": "*'''Kassandra:''' ''You used me just like Persephone's used you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D103",
+            "global_id": "219",
+            "content": "*'''Hermes:''' ''You're wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D104",
+            "global_id": "220",
+            "content": "*'''Kassandra:''' ''I've tried to tell you, but you haven't listened\u2014she doesn't love you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D105",
+            "global_id": "221",
+            "content": "*'''Hermes:''' ''You're wrong. She will love me, and I will always love her. I'll do anything, ''anything'', to prove that. Even killing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D106",
+            "global_id": "222",
+            "content": "*'''Kassandra:''' ''So it's come to this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D107",
+            "global_id": "223",
+            "content": "*'''Hermes:''' ''You're not a friend. You're an outsider. If you cross my path again, I will treat you the way Persephone treats outsiders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N35",
+            "global_id": "224",
+            "content": "Hermes stormed off, his friendship with Kassandra broken. Kassandra yelled after him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D108",
+            "global_id": "225",
+            "content": "*'''Kassandra:''' Mal\u00e1ka''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD19",
+            "global_id": "226",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC35",
+            "global_id": "227",
+            "content": "You're welcome.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D109",
+            "global_id": "228",
+            "content": "*'''Kassandra:''' ''No need to thank me. I'm sure you'd have done the same if you had to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D110",
+            "global_id": "229",
+            "content": "*'''Hermes:''' ''Modest ''and'' deadly. Impressive. But the war is just beginning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N36",
+            "global_id": "230",
+            "content": "Kassandra thought for a moment, then folded her arms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D111",
+            "global_id": "231",
+            "content": "*'''Kassandra:''' ''It is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D112",
+            "global_id": "232",
+            "content": "*'''Hermes:''' ''I should tell Persephone what's happened. I know she will join me in this battle. Will you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D113",
+            "global_id": "233",
+            "content": "*'''Kassandra:''' ''One way or another.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D114",
+            "global_id": "234",
+            "content": "*'''Hermes:''' ''Until then, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N37",
+            "global_id": "235",
+            "content": "Hermes took his leave, and Kassandra stared out at [[Pherephassa Point]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE12",
+            "global_id": "236",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE13",
+            "global_id": "237",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        }
+    ]
+}

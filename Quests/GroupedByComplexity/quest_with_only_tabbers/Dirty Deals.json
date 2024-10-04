@@ -1,0 +1,152 @@
+{
+    "Quest_Name": "Dirty Deals",
+    "Quest_ID": "223511",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'In order to feed his family, a desperate Blacksmith was forced to accept a bad deal from a merchant. The Blacksmith grew angry about the deal and plotted revenge.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Dirty Deals''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[merchant]] refused to pay a [[blacksmith]] as agreed. In retribution, the blacksmith sought someone to kill the merchant.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:''' ''Need help dealing with a dishonest bastard. MERCHANTS AND OTHER SHIT EATERS NEED NOT APPLY.''\nDeciding to look into it, Kassandra sought out the blacksmith.\n*'''Kassandra:''' ''I saw the note you posted. What's the matter?''\n*'''Man:''' ''Weasel-faced little son of a jackal merchant.''\n*'''Kassandra:''' ''Having a bad day?''\n*'''Man:''' ''Offered me half of what we agreed on. My family is hungry, and I had to take it. My weapons making him a profit... I'd rather they sink to the bottom of the [[Aegean Sea|ocean]].''\n<tabber>\n|-|You want the man dead.=\n*'''Kassandra:''' ''So you need a [[mercenary]] to kill him.''\n*'''Man:''' ''Exactly. He must be gutted.''\n|-|You need the ship destroyed.=\n*'''Kassandra:''' ''\n*'''Man:''' ''\n</tabber>\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Man:''' ''Thank you, mercenary.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra left the blacksmith and sought out the merchant. After dealing with him, Kassandra returned to the blacksmith for her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:''' ''Need help dealing with a dishonest bastard. MERCHANTS AND OTHER SHIT EATERS NEED NOT APPLY.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Deciding to look into it, Kassandra sought out the blacksmith.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I saw the note you posted. What's the matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''Weasel-faced little son of a jackal merchant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Having a bad day?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Man:''' ''Offered me half of what we agreed on. My family is hungry, and I had to take it. My weapons making him a profit... I'd rather they sink to the bottom of the [[Aegean Sea|ocean]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You want the man dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''So you need a [[mercenary]] to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Man:''' ''Exactly. He must be gutted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|You need the ship destroyed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Man:''' ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "16",
+            "content": "(Accept - I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Man:''' ''Thank you, mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''You can leave everything to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "20",
+            "content": "Kassandra left the blacksmith and sought out the merchant. After dealing with him, Kassandra returned to the blacksmith for her reward.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

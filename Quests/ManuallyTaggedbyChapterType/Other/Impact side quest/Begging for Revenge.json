@@ -1,0 +1,43 @@
+{
+    "QuestName": "Begging for Revenge",
+    "QuestID": "236250",
+    "Revision": {
+        "id": "1047485",
+        "parentid": "902368",
+        "timestamp": "2023-06-13T19:17:39Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047485",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "4uglc19w2uptlpalwlu90bp4yc89kqn"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Having lost all to the Athens|Athenians, a beggar conspired to take back what was his now that Kassandra had ensured the Athenian forces were scrambling.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "The Final Push",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Megaris",
+        "date": "430s - 420s BCE"
+    },
+    "General_Description": "'''Begging for Revenge''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her actions, Kassandra eventually faced their fallout.",
+    "Section_Dialogue": "(Missing dialogue)\n<tabber>\n|-|You don't look well off.=\n*'''Kassandra:''' ''\n*'''Man:''' ''\n|-|Lie - You look wonderful.=\n*'''Kassandra:''' ''You... uh... look to be in great health!''\n*'''Man:''' ''Don't lie to me, you brute. I would look as good as you say if the [[Athens|Athenians]] hadn't taken my life out from underneath me before the [[Sparta]]ns turned up.''\n</tabber>\n*'''Kassandra:''' ''What do you mean?''\n*'''Man:''' ''The Athenians took all my [[drachma]]e and drove me from my home before the Spartans took [[Megaris]]. Thanks to you, their forces are now scattered.''\n(Missing dialogue)\nKassandra left the man and infiltrated the fort wherein his drachmae were kept. After finding the pouch, she returned to the man.\n*'''Man:''' ''Do you bring me good news,'' misthios?\n*'''Kassandra:''' ''It's all yours.''\n*'''Man:''' ''Thank you,'' misthios''. Take this, it's yours.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the beggar.",
+    "Section_Trivia": "*This impact quest seems to be triggered by the Athenians defeat in the [[Battle of Megara]] during [[The Final Push]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Mendier vengeance]]"
+}

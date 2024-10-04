@@ -1,0 +1,139 @@
+{
+    "Quest_Name": "Goats and Ghosts",
+    "Quest_ID": "223001",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Goats and Ghosts",
+        "description": "'The festival of Anthesteria, with its ghosts and new wine, honors Dionysos. A hunter tasked with both the slaughter of goats and deliveries needed help.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Goats and Ghosts''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A hunter left a message on the [[Message board|board]], calling for help.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a message board.\n*'''Note:'''<br>''Help wanted for preparations for the [[Anthesteria|feasts]] dedicated to [[Dionysos]].''\nShe sought out the hunter and addressed her.\n*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Woman:''' ''It is time to honor Dionysos! Time to drink wine, ''[[Mercenary|misthios]]''! But there is much to prepare, and the ghosts will soon rise from the earth.''\n*'''Kassandra:''' ''Sure they will.''\n*'''Woman:''' ''I have to bring pitch to the farmer to paint his door with... it keeps the ghosts out. But game must be hunted, and goats must be slaughtered, as well.''\n*'''Kassandra:''' ''So... you want me to kill a bunch of goats?''\n*'''Woman:''' ''Yes. All of them must be gutted. Do you accept?''\n(Accept - I'll kill the beasts.)\n*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''\n*'''Woman:''' ''Good. Get it done soon.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the woman and tracked down the goats. While she dealt with the [[wild boar]] among them, the goats fled, but returned as the scuffle died down. Kassandra slew enough of the goats, and then returned to the hunter.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''You earned your pay, mercenary. Take this.''\n*'''Kassandra:''' ''I always finish what I've started.''",
+    "Section_Outcome": "Kassandra helped a hunter with the preparations for a festival of Dionysos, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a message board.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Help wanted for preparations for the [[Anthesteria|feasts]] dedicated to [[Dionysos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the hunter and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''It is time to honor Dionysos! Time to drink wine, ''[[Mercenary|misthios]]''! But there is much to prepare, and the ghosts will soon rise from the earth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Sure they will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''I have to bring pitch to the farmer to paint his door with... it keeps the ghosts out. But game must be hunted, and goats must be slaughtered, as well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''So... you want me to kill a bunch of goats?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''Yes. All of them must be gutted. Do you accept?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - I'll kill the beasts.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''Good. Get it done soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra left the woman and tracked down the goats. While she dealt with the [[wild boar]] among them, the goats fled, but returned as the scuffle died down. Kassandra slew enough of the goats, and then returned to the hunter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Woman:''' ''You earned your pay, mercenary. Take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I always finish what I've started.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

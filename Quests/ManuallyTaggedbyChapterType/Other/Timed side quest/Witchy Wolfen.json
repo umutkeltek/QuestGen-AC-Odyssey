@@ -1,0 +1,42 @@
+{
+    "QuestName": "Witchy Wolfen",
+    "QuestID": "236202",
+    "Revision": {
+        "id": "1047512",
+        "parentid": "841336",
+        "timestamp": "2023-06-13T19:24:55Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047512",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "hos4wgs9vtcobk9p2c6v2v6haecphws"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Witchy Wolfen''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a man with a delivery problem.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Is there something you need?''\n*'''Man:''' ''I've got excess [[mandrake]] among my wares, and there's a witch nearby willing to pay a good price for it.''\n*'''Kassandra:''' ''Sounds like a good match.''\n*'''Man:''' ''It is, but I've got a healthy fear of the [[Wolf|wolves]] that prowl near her home. And a healthy fear of witches, come to think of it.''\n*'''Kassandra:''' ''You want me to bring it to her.''\n*'''Man:''' ''I know I asked the right person.''\n(Accept \u2013 I'll handle it.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Man:''' ''The [[Fates]] are working in my favor.''\n*'''Kassandra:''' Chaire'', stranger.''\nKassandra left the man, and found the witch.\n*'''Kassandra:''' ''A man told me you needed this.''\n*'''Witch:''' ''Ah, yes. I was wondering when this would arrive. Here, your payment.''",
+    "Section_Outcome": "Kassandra delivered the mandrake, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

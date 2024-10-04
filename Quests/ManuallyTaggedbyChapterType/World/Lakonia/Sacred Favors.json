@@ -1,0 +1,40 @@
+{
+    "QuestName": "Sacred Favors",
+    "QuestID": "224053",
+    "Revision": {
+        "id": "1047422",
+        "parentid": "873870",
+        "timestamp": "2023-06-13T18:56:34Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047422",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "qexad8g9p2ivy9930lhdtmvs8r0gyj9"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-SacredFavors.jpg",
+        "description": "'Following the directions of Magistrate Xanthe, Kassandra was asked to carry an important basket to a Spartan Kalibos|general.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "A Treasury of Legends",
+        "next": "A Godless Blight",
+        "source": "Kassandra",
+        "location": "Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Sacred Favors''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of [[Xanthe]], the magistrate of [[Pitana]], Kassandra sought out [[Zeuxo]] in [[Geronthai]] to help with whatever she required.",
+    "Section_Dialogue": "Kassandra arrived at the village and found Zeuxo walking back and forth, looking worried.\n*'''Zeuxo:''' ''You wouldn't happen to be the [[Ikaros|Eagle]] Bearer, would you?''\n*'''Kassandra:''' ''Me? Yes I am.''\nZeuxo looks at her admiringly.\n*'''Zeuxo:''' ''Words do you no justice. Your hair must have been woven by [[Athena]], your body is like a sculpture made by the masters... Your arms look so strong. Strong enough to...''\n*'''Kassandra:''' ''Strong enough to...?''\n*'''Zeuxo:''' ''Strong enough to carry this basket to my husband, Kalibos.''\n*'''Kassandra:''' ''Oh. Right. The magistrate mentioned you.''\n\n<tabber>\n|-|My strong arms are at your service.=\n*'''Kassandra:''' ''It'll be easy to carry.''\n|-|Not right now.=\n*'''Kassandra:''' ''I don't have time for that.''\nKassandra returns.\n*'''Zeuxo:''' ''Please don't forget to bring Kalibos that basket I gave you!''\n(Back to dialogue choice one.)\n</tabber>\n\n*'''Zeuxo:''' ''Thank you so much. Let me know if you need anything.''\n(If players choose \"Where can I find your husband?\")\n*'''Kassandra:''' ''Where might I find Kalibos?''\n*'''Zeuxo:''' ''He's an important general. His unit is stationed in the northeast, near the [[Fort of Praisai]], down by the beach.''\n(If players choose \"What's in the basket?\")\n*'''Kassandra:''' ''What's in the basket?''\n*'''Zeuxo:''' ''What any man would need on the eve of battle to win the respect of the gods. Please, Eagle Bearer, it would give him an edge over his enemies.''\n(Leave - \"I'll bring this to your husband.\")\n*'''Kassandra:''' ''I'll help with your delivery.''\nKassandra carried the basket on her shoulders and left the village.\n*'''Kassandra:''' ''Ugh, this is heavy. What's in here, bricks?''\nShe ran all the way to the beach some three ''[https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement stadia]'' away, and arrived at a beach camp with a table of food and a fire spit-roasting a pig. She gently put down the basket and talked to the [[Strategos]] standing by the biggest tent.\n*'''Kalibos:''' ''A ''[https://assassinscreed.fandom.com/wiki/Mercenary#5th_century_BCE misthios]?'' Well met. What brings you to our camp?''\n*'''Kassandra:''' ''You are Kalibos? Your wife sent me to deliver this package. I think it might be some kind of offering.''\n*'''Kalibos:''' ''Zeuxo is a good woman. She's gifted me with a basket fit for [[Dionysos]].''\n*'''Kassandra:''' ''Earthly pleasures? She made it sound like it was a case of life and death.''\nKalibos and his troops turn cheerful.\n*'''Kalibos:''' ''A deathly hangover, maybe. Boys, we're having a good night! Care to join us, friend?''\n(If players choose \"How can you drink before battle?\")\n*'''Kassandra:''' ''Are you sure you want your soldiers this intoxicated while in the field?''\n*'''Kalibos:''' ''I must have misjudged you. Are you not also a Spartan? The only thing we're better at than fighting is drinking.''\n*'''Kassandra:''' ''I see your point.''\n\n<tabber>\n|-|I'd love to!=\n*'''Kassandra:''' ''I never say no to good wine and good company.''\n*'''Kalibos:''' ''I expected no less from you.''\n|-|I'll stay, but I won't drink.=\n*'''Kassandra:''' ''Thank you for offering. I don't like to dull my senses this close to battle. I will stay and keep you and your men company through the night.''\n*'''Kalibos:''' ''Chaperoned by a messenger of [[Zeus]]? This will be interesting.\n</tabber>\n\nThey spent day and night feasting, and woke up the next day with headaches.\n*'''Spartan Light Soldier:''' ''Could someone pass the waterskin?''\nKalibos groans.\n*'''Kalibos:''' ''Could someone pass my head? I think I left it further down the beach.''\n(If players chose to feast with them.)\nKassandra slurs a bit.\n*'''Kassandra:''' ''Surely this is the after effects of the mushrooms. I remember the chicken coop. I remember the farmer's field. I do not remember building a [https://en.wikipedia.org/wiki/Trojan_Horse Trojan horse].''\nKalibos turns around to also look at the large wooden horse.\n*'''Spartan Light Soldier:''' ''Uh, it was just here when I woke up.''\n*'''Kalibos:''' ''We offer it to the gods for safe passage across the seas! Boys, let's move this down to the beach!''\n(If players chose to feast and not drink with them.)\n*'''Kassandra:''' ''I didn't even drink last night. Why am I seeing a Trojan horse?''\nKalibos turns around to also look at the large wooden horse.\n*'''Kalibos:''' ''We can offer it to [[Poseidon]] [https://en.wikipedia.org/wiki/Poseidon#Epithets Earth-Shaker] for safe passage across the sea!''\n*'''Kassandra:''' ''Careful, this was a trap the last time.''\nRegardless, they prepare to do so.\n*'''Spartan Brute:''' ''I don't trust that horse.''\nAlmost a dozen [[Athens|Athenians]] broke out of the horse and charged at them.\n*'''Kalibos:''' ''By Zeus, I can't believe I fell for that.''\n*'''Athenian Heavy Soldier:''' ''For Athens!''\n*'''Spartan Light Soldier:''' ''For Sparta!''\n*'''Athenian Archer:''' ''I can't believe they fell for that.''\nThey won the battle after killing them all. Kassandra talked to Kalibos for the last time while observing the broken horse.\n*'''Kalibos:''' ''I once boasted to a friend that I was a better tactician than [[Odysseus]] himself... Today I was proven wrong.''\n*'''Kassandra:''' ''You live to fight another day. Learn from this.''\n*'''Kalibos:''' ''Please thank my wife for her festive gift.''\n*'''Kassandra:''' ''I don't know if I should thank her or curse her.''",
+    "Section_Outcome": "Kassandra presumed the help asked by Zeuxo would be something else, but a delivery of liquor to a camp of Spartans, with her husband planning for a feast, has led to a replication of a legendary event the next morning.",
+    "Section_Gallery": "<gallery widths=\"180\" position=\"center\" captionalign=\"center\">\nACOd-SacredFavors1.jpg|Kassandra carrying the basket\nLakonia-Kaliboscamp.jpg|[[Kalibos]]' camp\nACOd-SacredFavors-horse.jpg|The Trojan Horse\nACOd-SacredFavors-burnt.jpg|The remains of the Horse\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

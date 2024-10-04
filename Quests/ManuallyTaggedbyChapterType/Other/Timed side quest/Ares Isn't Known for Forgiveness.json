@@ -1,0 +1,41 @@
+{
+    "QuestName": "Ares Isn't Known for Forgiveness",
+    "QuestID": "236797",
+    "Revision": {
+        "id": "1047502",
+        "parentid": "914526",
+        "timestamp": "2023-06-13T19:21:30Z",
+        "contributor": null,
+        "comment": "imageneed template",
+        "origin": "1047502",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "9gqcv3449yf64kji6uz93di95ogug7t"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Ares Isn't Known for Forgiveness",
+        "image": null,
+        "description": "'The shrines of the Followers of Ares|Followers of Ares were convenient targets for mercenary jobs, although few dared to attack them.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Ares Isn't Known for Forgiveness''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A [[mercenary]] sought the help of another. Kassandra answered.",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra saw a contract from another mercenary on a [[message board]].\n\n:'''Note:'''<br>''Mercenary seeking backup against the [[Followers of Ares|Followers]] of [[Ares]].''\n\nKassandra accepted the contact and left to find the mercenary, who had pitched camp just outside the city. Kassandra walked up and talked to the woman.\n\n*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Woman:''' ''I'll take almost any job, and gods know I'll fight most men... but these Followers. I don't like the idea of them cursing me from their foul shrine. This contract may not be for me.''\n*'''Kassandra:''' ''You want me to destroy the shrine?''\n*'''Woman:''' ''Exactly. Nothing should be left of it.''\n\n(Accept \u2013 \"I'll destroy it.\")\n\n*'''Kassandra:''' ''I'll help you.''\n*'''Woman:''' ''You've saved me, mercenary.''\n*'''Kassandra:''' ''Leave it to me.''\n\nKassandra left the mercenary and went in search of the site where the Followers of Ares conducted their bloody rituals. She soon found the it some ways into the wilderness and infiltrated it. After eliminating all of the Followers present, she destroyed the shrine and returned to the mercenary.\n\n*'''Woman:''' ''You again. Has it been destroyed,'' misthios''?''\n*'''Kassandra:''' ''It's been smashed to pieces, just like you asked.''\n*'''Woman:''' ''Then I believe this is yours. You have my thanks, friend.''\n<tabber>\n|-|You should join my crew.=\n*'''Kassandra:''' ''I have a good [[Adrestia|crew]], but we're missing someone with your talents. I want you on board with us. What do you say?''\n*'''Woman:''' ''Adventuring with you? I'm in.''\nKassandra recruited the mercenary to the ''Adrestia''{{'}}s crew.\n|-|Thank you=\n*'''Kassandra:''' ''Happy to help.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped her fellow mercenary.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD-AresIsntKnownForForgiveness-01.jpg|Kassandra approaching the mercenary\nACOD-AresIsntKnownForForgiveness-02.jpg|Kassandra infiltrating the Followers' site\nACOD-AresIsntKnownForForgiveness-03.jpg|Kassandra destroying the Followers' shrine\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

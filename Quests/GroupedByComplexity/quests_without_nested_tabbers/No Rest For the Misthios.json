@@ -1,0 +1,303 @@
+{
+    "Quest_Name": "No Rest For the Misthios",
+    "Quest_ID": "257943",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "No Rest For the Misthios",
+        "image": "ACOD No Rest For the Misthios 5.png",
+        "description": "'Despite Kassandra's departure, Herodotos and Barnabas proved they were never too far behind. They were sure a treasure hunt for ages was just what Kassandra needed to get back to her normal self.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 Assassin's Creed Crossover Stories'",
+        "type": "Main",
+        "previous": "A Great Escape",
+        "next": "Not All Treasure Should Be Found<br>A Kind of Treasure Hunt",
+        "source": "Kassandra",
+        "location": "Korfu, Greece",
+        "date": "420 BCE"
+    },
+    "General_Description": "'''No Rest For the Misthios''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Dialogue": "Kassandra reclined on a rooftop couch in the evening as she ate grapes, drank [[wine]], and hummed contentedly. Tossing another grape in her mouth, she made to drink from her cup only to be disappointed on finding it empty. Turning to sit and pour another cup from an amphorae, she overheard [[Herodotos]] and [[Barnabas]] bickering as they approached from below.\n*'''Herodotos:''' ''If she's not here, Barnabas, we may as well give up.''\n\n*'''Kassandra:''' ''I'm on vacation!''\n*'''Barnabas:''' ''Ah, you've been in the [[sun]] too long! You're more [[bronze]] than an urn! Come down here!''\nKassandra waved her hand dismissively.\n*'''Kassandra:''' ''Pah, nonsense!''\nKassandra sat back down with her back against the balcony.\n*'''Barnabas:''' ''What if I told you, uh... a mythical treasure awaits! Ah? What say you then?''\nKassandra laughed lightly<br>...\n*'''Barnabas:''' ''Only the most exciting thing to happen to you in ages!''\n*'''Kassandra:''' ''I've had enough excitement for a lifetime.''\n*'''Herodotos:''' ''This was the last place we thought to look for you on [[Korfu]]. What have you been doing all on your own?''\n*'''Kassandra:''' ''Nothing, dear Herodotos. And I've had the time of my life!''\nBarnabas and Herodotos looked at each other, concerned over Kassandra's apparent change from her usual mood. Kassandra grabbed another cup and walked toward a balcony overlooking a cliffside.\n*'''Kassandra:''' ''Napping in the day, star-gazing at night, and as much wine as I can swallow.''\n*'''Herodotos:''' ''That's quite unlike you.''\n*'''Kassandra:''' ''The old Kassandra, maybe. But the new Kassandra has never felt better.''\nThe three arrived on the balcony, which had a carpets laid out beside a table set with another amphorae of wine. Kassandra stared at the amphorae while Barnabas voiced his shock at her change in life plans.\n*'''Barnabas:''' ''Not retiring, are you?''\n...\n*'''Barnabas:''' ''You just need a little distraction from the weight. Say you'll do it. Come on the hunt!''\nKassandra stared off distantly, lost in thought.\n*'''Barnabas:''' ''For the ''[[Adrestia]]''. For me?''\nUnable to turn down her friend's personal request, Kassandra relented.\n*'''Kassandra:''' ''Alright, we'll hunt for treasure. To put some [[drachma]]e in your pocket.''\n*'''Barnabas:''' ''That's our ''[[mercenary|misthios]]''!''\nHe laughed in his excitement.\n*'''Barnabas:''' ''Oh, the loot will be enough for a whole new [[ship]]!''\nHe cleared his throat, attempting to gain a more serious tone.\n*'''Barnabas:''' ''Legends say there are delicate linens woven by [[Greek mythology|goddesses]], ancient scrolls, one-of-a-kind wares from a far-off land!''\nHerodotos shook his head and laughed as Barnabas' exhuberence.\n*'''Herodotos:''' ''Let's not get too carried away, Barnabas.''\n*'''Barnabas:''' ''Oh, right. I won't spoil any surprises.''\nHe turned back to Kassandra.\n*'''Barnabas:''' ''You'll find clues around the island that will lead to treasures beyond imagnination.''\n*'''Kassandra:''' ''If it's so legendary, I'm surprised no one's found it yet.''\nBarnabas spread his arms wide.\n*'''Barnabas:''' ''They've tried for hundreds of years\u2014!''\nHe stopped on seeing Herodotos' pointed stare.\n*'''Barnabas:''' ''...well, less than that, but no one has discovered it. Not until we do today!''\nKassandra sighed.\n*'''Kassandra:''' ''We'll see. The only thing this island has a lot of is sand. And [[Piracy|pirates]].''\nKassandra turned around and walked back into the house.\n*'''Kassandra:''' ''I'll go get my gear.''",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[Assassin's Creed Crossover Stories]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Pas de repos pour les misthios]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Assassin's Creed Crossover Stories",
+    "Chapter_Type": null,
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra reclined on a rooftop couch in the evening as she ate grapes, drank [[wine]], and hummed contentedly. Tossing another grape in her mouth, she made to drink from her cup only to be disappointed on finding it empty. Turning to sit and pour another cup from an amphorae, she overheard [[Herodotos]] and [[Barnabas]] bickering as they approached from below.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Herodotos:''' ''If she's not here, Barnabas, we may as well give up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I'm on vacation!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Barnabas:''' ''Ah, you've been in the [[sun]] too long! You're more [[bronze]] than an urn! Come down here!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "Kassandra waved her hand dismissively.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Pah, nonsense!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "Kassandra sat back down with her back against the balcony.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Barnabas:''' ''What if I told you, uh... a mythical treasure awaits! Ah? What say you then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "Kassandra laughed lightly<br>...",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Barnabas:''' ''Only the most exciting thing to happen to you in ages!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I've had enough excitement for a lifetime.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Herodotos:''' ''This was the last place we thought to look for you on [[Korfu]]. What have you been doing all on your own?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Nothing, dear Herodotos. And I've had the time of my life!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "15",
+            "content": "Barnabas and Herodotos looked at each other, concerned over Kassandra's apparent change from her usual mood. Kassandra grabbed another cup and walked toward a balcony overlooking a cliffside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Napping in the day, star-gazing at night, and as much wine as I can swallow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Herodotos:''' ''That's quite unlike you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''The old Kassandra, maybe. But the new Kassandra has never felt better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "19",
+            "content": "The three arrived on the balcony, which had a carpets laid out beside a table set with another amphorae of wine. Kassandra stared at the amphorae while Barnabas voiced his shock at her change in life plans.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Barnabas:''' ''Not retiring, are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "21",
+            "content": "...",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Barnabas:''' ''You just need a little distraction from the weight. Say you'll do it. Come on the hunt!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "23",
+            "content": "Kassandra stared off distantly, lost in thought.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Barnabas:''' ''For the ''[[Adrestia]]''. For me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "25",
+            "content": "Unable to turn down her friend's personal request, Kassandra relented.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Alright, we'll hunt for treasure. To put some [[drachma]]e in your pocket.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Barnabas:''' ''That's our ''[[mercenary|misthios]]''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "28",
+            "content": "He laughed in his excitement.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Barnabas:''' ''Oh, the loot will be enough for a whole new [[ship]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "30",
+            "content": "He cleared his throat, attempting to gain a more serious tone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Barnabas:''' ''Legends say there are delicate linens woven by [[Greek mythology|goddesses]], ancient scrolls, one-of-a-kind wares from a far-off land!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "32",
+            "content": "Herodotos shook his head and laughed as Barnabas' exhuberence.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Herodotos:''' ''Let's not get too carried away, Barnabas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Barnabas:''' ''Oh, right. I won't spoil any surprises.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "35",
+            "content": "He turned back to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Barnabas:''' ''You'll find clues around the island that will lead to treasures beyond imagnination.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''If it's so legendary, I'm surprised no one's found it yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "38",
+            "content": "Barnabas spread his arms wide.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Barnabas:''' ''They've tried for hundreds of years\u2014!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "40",
+            "content": "He stopped on seeing Herodotos' pointed stare.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Barnabas:''' ''...well, less than that, but no one has discovered it. Not until we do today!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "42",
+            "content": "Kassandra sighed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''We'll see. The only thing this island has a lot of is sand. And [[Piracy|pirates]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "44",
+            "content": "Kassandra turned around and walked back into the house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I'll go get my gear.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

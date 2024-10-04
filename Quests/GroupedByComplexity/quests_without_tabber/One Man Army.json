@@ -1,0 +1,38 @@
+{
+    "Quest_Name": "One Man Army",
+    "Quest_ID": "222499",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD - One Man Army.png",
+        "description": "'If Kassandra wanted to meet the Nikolaos|Wolf, she would have to help the Spartans conquer Megaris. And Megaris would be easier to conquer if ther were fewer Athens|Athenian soldiers.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Crumble and Burn",
+        "next": "The Athenian Treasure Trove",
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''One Man Army''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by [[Stentor]] to eliminate the [[Athens|Athenian]] soldiers in the region to weaken their hold.",
+    "Section_Dialogue": "Kassandra found and eliminated 20 Athenian soldiers in Megaris.",
+    "Section_Outcome": "Kassandra eliminated a number of Athenian soldiers in Megaris, weakening their strength in the region.",
+    "Section_Trivia": "Before moving on to [[The Athenian Leader]], [[Crumble and Burn]] and [[The Athenian Treasure Trove]] must also be completed.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Arm\u00e9e singuli\u00e8re]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.d",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found and eliminated 20 Athenian soldiers in Megaris.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

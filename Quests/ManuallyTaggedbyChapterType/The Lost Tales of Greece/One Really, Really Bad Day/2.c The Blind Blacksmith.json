@@ -1,0 +1,40 @@
+{
+    "QuestName": "The Blind Blacksmith",
+    "QuestID": "231685",
+    "Revision": {
+        "id": "1047383",
+        "parentid": "991072",
+        "timestamp": "2023-06-13T18:12:25Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047383",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "6jng8slmyc8kokm127pr8dc7vb6stm0"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Old Kallipides was once renowned as the best blacksmith in all of Lokris. That was a long time ago, but surely with some help, he could be again.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Support",
+        "previous": "A Town in Need, Indeed",
+        "next": "A Horse, of Course<br />Ajax on Fire<br />A Town in Need, Indeed",
+        "source": "Kassandra",
+        "location": "Alponos, Lokris, Greece<br />Pyrrha Salt Pirates, Malis, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''The Blind Blacksmith''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Kallipides]], an old [[blacksmith]] living in [[Alponos]], in order to get its [[Civilian|citizens]] armed against the upcoming [[Piracy|pirate]] invasion.",
+    "Section_Dialogue": "Kassandra approached Kallipides' smithy and spoke to him.\n\n*'''Kassandra:''' ''Are you the blacksmith?''\n*'''Kallipedes:''' ''I was. Then another ''misthios'', an [[Eagle]] Something, came to help. Kind young man.''\n<tabber>\n|-|I'm the real Eagle Bearer.=\n*'''Kassandra:''' ''It's \"Eagle Bearer,\" and there's only one. Me.''\n*'''Kallipedes:''' ''Ah. The one who sunk the reinforcements?''\n*'''Kassandra:''' ''Gossip travels fast. Let's talk about the other ''misthios'', \"Eagle Something.\"''\n|-|Tell me what happened.=\n*'''Kassandra:''' ''I heard the \"Eagle Something\" made a real mess of things.''\n</tabber>\n\n*'''Kallipedes:''' ''The poor boy lit my forge, but somehow caused the fire to erupt. Flames everywhere. I can barely see now or move my hands.''\n*'''Kassandra:''' ''But you're the only smith in town, and pirates are coming. We need you to start making weapons.''\n*'''Kallipedes:''' ''No need to worry. Old Kallipedes has a few good blades left in him. I just need some space to work. Those stone blocks would make a fine table. Could you move them for me?''\n\n(Accept \u2013 \"I'll start by moving the blocks.\")\n\n*'''Kassandra:''' ''Sounds easy enough.''\n\nKassandra picked up the block.\n\n*'''Kassandra:''' ''Ugh! You could crush someone with these things if you're not careful.''\n\nKassandra set the blocks down by the step and then spoke to Kallipedes.\n\n*'''Kallipedes:''' ''Excellent work! Well, what next? I suppose we can't make weapons without iron, now can we?''\n\n(\"I have iron to share.\")\n\n*'''Kassandra:''' ''I have more than enough to share. Have some of mine.''\n\nKassandra threw a bag of iron to Kallipedes, but as he could not see to catch it, the bag hit him in the chest and fell to the ground.\n\n*'''Kallipedes:''' ''Well, this is certainly better than when that other ''misthios'' came to help. All a good smith needs ''now'' are his tools.''\n*'''Kassandra:''' ''Your tools. Really?''\n*'''Kallipedes:''' ''The Eagle Something said they were stolen by a group of bad eggs. They rode west of here, but I'm not sure where.''\n*'''Kassandra:''' ''I'll get them. ''Then'' you'll be ready to work?''\n*'''Kallipedes:''' ''Of course! You've been so kind to this old smith. I thought I'd never work again. But your generosity has changed all that.''\n\nKassandra went to a nearby camp at [[Pyrrha Salt Pirates]] to retrieve the tools from [[bandit]]s.\n\n*'''Kassandra:''' ''Why would common thugs want old tools?''\n\nWhile recovering the tools, Kassandra found a farewell letter where she learned the dead bandit planned to become a blacksmith. Kassandra returned to Kallipedes.\n\n*'''Kassandra:''' ''I've got your tools right here.''\n*'''Kallipedes:''' ''What a day! You should be proud. You've given this old man purpose again. Now, if you could just set those aside for a moment, I'll get started.''\n\nAs Kassandra turned to leave, Kallipedes tripped on a nearby stone block.\n\n*'''Kallipedes:''' ''Woah!''\n\nKallipedes' fall shook the floor enough for a precariously-balanced shovel to fall on him. Kassandra turned around on hearing his scream as it landed.\n\n*'''Kassandra:''' ''Kallipedes!''\n\nKassandra ran around the corner just in time to watch and grimace as a smelting pot fell and landed on Kallipides, killing him.\n\n*'''Kassandra:''' ''Kallipedes?''\n\nRealizing Kallipedes had died, Kassandra lowered her head and walked off as a hammer fell, crushing the corpse's head. Kassandra turned to face a nearby whimpering [[dog]].\n<tabber>\n|-|Option 1=\n*'''Kassandra:''' ''By the [[Greek mythology|gods]]. I've seen a lot in my life, but that was brutal.\n|-|Option 2=\n*'''Kassandra:''' ''You should get out of Alponos while you can, girl. This place is cursed.''\n</tabber>\nKassandra walked away from the smithy.\n\n*'''Kassandra:''' ''Poor Kallipedes. That's... That's not good.''",
+    "Section_Outcome": "Kassandra moved some stone blocks for Kallipedes the blacksmith and provided him with iron. She then recovered his tools from bandits. Unfortunately, the blind old man tripped and died from several falling tools, leaving the village unarmed.",
+    "Section_Trivia": "Once this quest has been completed, the player can drop down to loot Kallipedes' corpse for Kallipedes Tools.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

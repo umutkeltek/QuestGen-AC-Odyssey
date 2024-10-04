@@ -1,0 +1,439 @@
+{
+    "Quest_Name": "Archery Practice",
+    "Quest_ID": "224008",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Archery Practice Memory.png",
+        "description": "'Roxana knew that to win the Battle of One Hundred Hands, a diverse mix of skills was required. One of these skills was archery.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Sparring with Roxana",
+        "next": "Foot Race",
+        "source": "Kassandra",
+        "location": "Hydrea, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Archery Practice''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met up with [[Roxana]] to continue their training for the [[Battle of One Hundred Hands]].",
+    "Section_Dialogue": "After sparring with Roxana, Kassandra accompanied her to the [[Hydrea Shipwreck|shipwreck]] on the coast of [[Hydrea]], which had been occupied by a pack of [[Wolf|wolves]].\n\n(Went to shipwreck immediately)\n*'''Roxana:''' ''We're a safe distance here. Now shoot these cursed wolves before they start taking down the local children. I'll see if there isn't a thing or two I can learn from you.''\n(Went to shipwreck later)\n*'''Roxana:''' ''You came! Good. We can get on with the training.''\n*'''Kassandra:''' ''You said we'd be doing archery... but I don't see any targets.''\n*'''Roxana:''' ''A ship wrecked here not long ago. It carried a pack of wolves to [[Melos]] as an added challenge to the Battle of One Hundred Hands.''\n*'''Kassandra:''' ''And now they're running loose here on Hydrea?''\n*'''Roxana:''' ''Not for long.<br>Show me what you can do with that [[bow]] and put them down. Maybe I can learn a thing or two.''\n\nRegardless, Kassandra commented on Roxana's choice for training.\n<tabber>\n|-|Flirt \u2013 This time with you is nice.=\n*'''Kassandra:''' ''It's nice to be out here, just the two of us.''\n*'''Roxana:''' ''Is that right?''\n*'''Kassandra:''' ''There were a lot of onlookers when we sparred.''\n*'''Roxana:''' ''You'll be happy to know the rest of our training will be more... private.''\n|-|The wolves are no problem.=\n*'''Kassandra:''' ''A few wolves shouldn't be much trouble.''\n*'''Roxana:''' ''These wolves were trained to be part of the Battle of One Hundred Hands, to ''attack'' and kill people. We can't have them running loose on [[Hydrea]].''\n*'''Kassandra:''' ''I see.''\n|-|The wolves are a menace.=\n*'''Kassandra:''' ''We can't have so many wolves on an island this small. They'll terrorize the people living here.''\n*'''Roxana:''' ''That's exactly right, ''[[Mercenary|misthios]]''. That's why we're here.''\n</tabber>\n*'''Kassandra:''' ''On with the [[Hunting|hunt]]\u2014I can always use more pelts.''\n*'''Roxana:''' ''A true champion. I knew it! Ready your bow.''\nKassandra began taking aim at the animals.\n*'''Roxana:''' ''Look at you, all statuesque as you draw your bow.''\nKassandra slayed one of the wolves.\n*'''Kassandra:''' ''How'd you like that one?''\n*'''Roxana:''' ''Beautiful shot.''\nAnother one of the wolves fell.\n*'''Roxana:''' ''The way your muscles ripple when you draw the string\u2014''\n*'''Kassandra:''' ''Do they ripple?''\n*'''Roxana:''' ''Do they ''ripple''.<br>They're works of art!''\n\n:(If players entered melee)\n:*'''Roxana:''' ''What are you doing? This is supposed to be archery training!''\n:*'''Kassandra:''' ''Do you want the wolves killed, or not?''\n:*'''Roxana:''' ''Yes. Kill them.''\n\nWith the wolves dead, Roxana commented on the results of their training.\n<tabber>\n|-|(Performed to Roxana's standards)=\n*'''Kassandra:''' ''It's done. All the wolves are dead.''\n*'''Roxana:''' ''You elevate archery to an art form. Even [[Sophokles]] couldn't captivate me like that.''\n|-|(Did not perform to Roxana's standards)=\n*'''Roxana:''' ''Not exactly the archery training I was hoping for.''\n*'''Kassandra:''' ''The wolves are dead. That's what matters.''\n*'''Roxana:''' ''If you say so.''\n</tabber>\n\n*'''Kassandra:''' ''How much more \"''training''\" will we do before I can enter the Battle?''\n*'''Roxana:''' ''What, you don't want to spend more time with me?''\n<tabber>\n|-|Flirt \u2013 I'm enjoying this.=\n*'''Kassandra:''' ''This time with you has been-<br>I don't know what to say.''\n*'''Roxana:''' ''Say no more. In a strange way, I see my own reflection in you.''\n*'''Kassandra:''' ''Yes. We've only just met and yet, we have a... connection.''\n*'''Roxana:''' ''You're a unique creature, Kassandra.<br>There's one more step to our training.''\n|-|I have other priorities.=\n*'''Kassandra:''' ''I have other things to do. People to kill.''\n*'''Roxana:''' ''Then you'll be happy to know we only have one last step in our training regimen.''\n</tabber>\n*'''Kassandra:''' ''Where to?''\n*'''Roxana:''' ''My [[Hydrea Apple Farm|house]].''",
+    "Section_Outcome": "Kassandra and Roxana finished the next step in their training regimen for the Battle of One Hundred Hands.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Roxana",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After sparring with Roxana, Kassandra accompanied her to the [[Hydrea Shipwreck|shipwreck]] on the coast of [[Hydrea]], which had been occupied by a pack of [[Wolf|wolves]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "3",
+            "content": "(Went to shipwreck immediately)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Roxana:''' ''We're a safe distance here. Now shoot these cursed wolves before they start taking down the local children. I'll see if there isn't a thing or two I can learn from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "5",
+            "content": "(Went to shipwreck later)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Roxana:''' ''You came! Good. We can get on with the training.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You said we'd be doing archery... but I don't see any targets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Roxana:''' ''A ship wrecked here not long ago. It carried a pack of wolves to [[Melos]] as an added challenge to the Battle of One Hundred Hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''And now they're running loose here on Hydrea?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Roxana:''' ''Not for long.<br>Show me what you can do with that [[bow]] and put them down. Maybe I can learn a thing or two.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "Regardless, Kassandra commented on Roxana's choice for training.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|Flirt \u2013 This time with you is nice.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''It's nice to be out here, just the two of us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Roxana:''' ''Is that right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''There were a lot of onlookers when we sparred.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Roxana:''' ''You'll be happy to know the rest of our training will be more... private.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "19",
+            "content": "|-|The wolves are no problem.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''A few wolves shouldn't be much trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Roxana:''' ''These wolves were trained to be part of the Battle of One Hundred Hands, to ''attack'' and kill people. We can't have them running loose on [[Hydrea]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "23",
+            "content": "|-|The wolves are a menace.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''We can't have so many wolves on an island this small. They'll terrorize the people living here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Roxana:''' ''That's exactly right, ''[[Mercenary|misthios]]''. That's why we're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "26",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''On with the [[Hunting|hunt]]\u2014I can always use more pelts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Roxana:''' ''A true champion. I knew it! Ready your bow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "29",
+            "content": "Kassandra began taking aim at the animals.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Roxana:''' ''Look at you, all statuesque as you draw your bow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "31",
+            "content": "Kassandra slayed one of the wolves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''How'd you like that one?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Roxana:''' ''Beautiful shot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "34",
+            "content": "Another one of the wolves fell.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Roxana:''' ''The way your muscles ripple when you draw the string\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Do they ripple?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Roxana:''' ''Do they ''ripple''.<br>They're works of art!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "39",
+            "content": ":(If players entered melee)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "40",
+            "content": ":*'''Roxana:''' ''What are you doing? This is supposed to be archery training!''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "41",
+            "content": ":*'''Kassandra:''' ''Do you want the wolves killed, or not?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "42",
+            "content": ":*'''Roxana:''' ''Yes. Kill them.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "44",
+            "content": "With the wolves dead, Roxana commented on the results of their training.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "45",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "46",
+            "content": "|-|(Performed to Roxana's standards)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''It's done. All the wolves are dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "48",
+            "content": "*'''Roxana:''' ''You elevate archery to an art form. Even [[Sophokles]] couldn't captivate me like that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "49",
+            "content": "|-|(Did not perform to Roxana's standards)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "50",
+            "content": "*'''Roxana:''' ''Not exactly the archery training I was hoping for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''The wolves are dead. That's what matters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "52",
+            "content": "*'''Roxana:''' ''If you say so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "53",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U5",
+            "global_id": "54",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''How much more \"''training''\" will we do before I can enter the Battle?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "56",
+            "content": "*'''Roxana:''' ''What, you don't want to spend more time with me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "57",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "58",
+            "content": "|-|Flirt \u2013 I'm enjoying this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''This time with you has been-<br>I don't know what to say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "60",
+            "content": "*'''Roxana:''' ''Say no more. In a strange way, I see my own reflection in you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Yes. We've only just met and yet, we have a... connection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "62",
+            "content": "*'''Roxana:''' ''You're a unique creature, Kassandra.<br>There's one more step to our training.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "63",
+            "content": "|-|I have other priorities.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I have other things to do. People to kill.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "65",
+            "content": "*'''Roxana:''' ''Then you'll be happy to know we only have one last step in our training regimen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "66",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D37",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Where to?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Roxana:''' ''My [[Hydrea Apple Farm|house]].''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

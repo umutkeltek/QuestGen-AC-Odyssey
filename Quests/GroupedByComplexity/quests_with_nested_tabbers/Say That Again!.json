@@ -1,0 +1,540 @@
+{
+    "Quest_Name": "Say That Again!",
+    "Quest_ID": "224107",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Say That Again!.png",
+        "description": "'Craving peace and quiet, Kassandra left the loud Daktyls blacksmith|Blacksmith and his apprentice in Kydonia to find the obsidian glass he asked for.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Civil Unrest",
+        "source": "Kassandra",
+        "location": "Daktyls Depleted Mine, Messara, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Say That Again!''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra's attention was drawn by an argument between a [[blacksmith]] and his apprentice in [[Messara]].",
+    "Section_Dialogue": "While in the [[Daktyls Depleted Mine]], Kassandra came across the [[Daktyls blacksmith]] and his apprentice.\n*'''Blacksmith:''' ''I told you to be careful with it.''\n*'''Civilian:''' ''You were the one not paying attention...''\n*'''Blacksmith:''' ''What did you say?''\n*'''Civilian:''' ''Nothing. You're absolutely perfect, boss.''\nKassandra approached them.\n*'''Kassandra:''' ''Something happen to your shipment?''\n*'''Blacksmith:''' ''Huh?''\nKassandra repeated herself louder.\n*'''Kassandra:''' ''Did something happen to your shipment?''\n*'''Blacksmith:''' ''Yes, idiots happened. They dropped it and shattered my [[obsidian glass]].''\n*'''Civilian:''' ''You were carrying it too.''\n*'''Blacksmith:''' ''Did you say something, whelp?''\n*'''Civilian:''' ''I said \"curse those clumsy fools!\"''\n*'''Blacksmith:''' ''Exactly. Now I need more obsidian. If you can bring me some, ''[[Mercenary|misthios]]'', my [[Sword of Avaris|finest blade]] shall be yours. Do we have a deal?''\n<tabber>\n|-|Accept \u2013 \"I'll do it.\"=\n*'''Kassandra:''' ''I'll get you your\u2014''\n*'''Blacksmith:''' ''What? Is that a yes? Did she say\u2014''\n*'''Civilian:''' ''She sure did, boss! Idiot.''\n*'''Blacksmith:''' ''Wonderful. My apprentice here will tell you where to find the obsidian.''\n*'''Civilian:''' ''Thanks for doing this, 'else he wouldn't have shut up. There are stashes of the stuff in the [[Temple of Britomartis|Temple]] of [[Britomartis]] and the [[Sunken Ruins]]. If you have any questions, point them at me. I've had enough of his booming voice for one day.''\n(If \"Where are the ruins?\" is chosen.)\n*'''Kassandra:''' ''These ruins you mentioned, where are they?''\n*'''Civilian:''' ''The Sunken Ruins are on the west coast of Messara. Fair warning, though\u2014they're infested with [[Great white shark|sharks]].''\n{{#tag:tabber|\nIf Kassandra had not looted the ruins=\n*'''Kassandra:''' ''Good to know.''\n{{!}}-{{!}}\nIf Kassandra had already looted the ruins=\n*'''Kassandra:''' ''I've already been there. There wasn't much obsidian.''\n*'''Civilian:''' ''Oh. That's not good. But at least you got whatever was there.''\n}}\n(If \"Where is the temple?\" is chosen.)\n*'''Kassandra:''' ''Tell me where to find it.''\n*'''Civilian:''' ''The Temple of Britomartis is northwest of [[Kydonia]]. But there are [[Soldier|guards]] roaming about\u2014be careful.''\n:(If Kassandra had already looted the temple)\n:*'''Kassandra:''' ''That temple has been ransacked \u2013 the obsidian is gone.''\n:*'''Civilian:''' ''I take it you saw that personally.''\n(If \"What's with the shouting?\" is chosen.)\n*'''Kassandra:''' ''What's wrong with him?''\n*'''Civilian:''' ''Where would you like me to begin? He's spent all his life in front of the forge. He can barely hear a thing. Watch. You smell gross today, you old toad.''\n*'''Blacksmith:''' ''That's very sweet of you to say\u2014You too smell like a rose.''\n*'''Civilian:''' ''The trick is to just smile when you say anything. You should try it.''\n(If \"Can I try?\" is chosen.)\n{{#tag:tabber|\nIntro 1=\n*'''Kassandra:''' ''I like what you've done with the place.''\n*'''Blacksmith:''' ''What? What did you say about my face?''\n*'''Civilian:''' ''No, no! She said she likes the place.''\n*'''Blacksmith:''' ''Oh! I see. Thank you.''\n*'''Civilian:''' ''You're not very good at this.''\n{{!}}-{{!}}\nIntro 2=\n*'''Kassandra:''' ''You're looking really good today.''\n*'''Blacksmith:''' ''\"Put the wood in the hay?\" I'm a blacksmith, silly ''misthios''. I deal with [[iron]], not [[wood]].''\nKassandra and the apprentice laughed.\n{{!}}-{{!}}\nIntro 3=\n*'''Kassandra:''' ''You don't like taking showers, do you?''\n*'''Blacksmith:''' ''No, I am not particularly fond of flowers. They make me sneeze.''\nKassandra and the apprentice laughed.\n}}\n(Leave \u2013 I've got enough information.\")\n*'''Kasssandra:''' ''I've got all I neeed. I'll be back with the obsidian glass.''\n*'''Civilian:''' ''She's going to get your stuff now.''\n*'''Blacksmith:''' ''Wonderful. Return quickly, ''misthios''.''\n*'''Civilian:''' ''Please hurry, my ears can't take any more of his complaining.''\nKassandra left the settlement and headed for the Sunken Ruins. \n*'''Kasssandra:''' ''The obsidian glass must be here for a reason. Better be on my guard.''\nLike the apprentice had warned, sharks swam around in the ruins, and attacked Kassandra, but she bested them and found the obsidian glass within a sunken [[Treasure chest|chest]]. She then headed to the Temple of Britomartis. The place had been taken over by soldiers, but she made her way in, and discovered a chest.\n*'''Kasssandra:''' ''This must be where they keep the obsidian glass.''\nAfter obtaining enough obsidian glass, Kassandra returned to the blacksmith and his apprentice.\n*'''Kassandra:''' ''Here's your obsidian glass.''\n*'''Civilian:''' ''Excellently done, ''misthios''. She got the stuff.''\n*'''Blacksmith:''' ''Well done, ''misthios''. Take my blade. May it serve you well.''\n*'''Civilian:''' ''Now he'll finally shut up for a bit!''\n*'''Blacksmith:''' ''I heard that.''\n|-|I have some Obsidian glass.=\n*'''Kassandra:''' ''This should be enough.''\n*'''Civilian:''' ''You are well-stocked. You a [[merchant]] or a ''misthios'', eh?''\n*'''Blacksmith:''' ''Excellent! This will do fine. Here you go, ''misthios''. As promised.''\n|-|I don't have time for this=\n{{stub}}\n</tabber>",
+    "Section_Outcome": "Kassandra helped the blacksmith to recover some obsidian glass, obtaining a epic [[sword]] as a reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Tu peux r\u00e9p\u00e9ter ?]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Messara",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in the [[Daktyls Depleted Mine]], Kassandra came across the [[Daktyls blacksmith]] and his apprentice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Blacksmith:''' ''I told you to be careful with it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian:''' ''You were the one not paying attention...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Blacksmith:''' ''What did you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''Nothing. You're absolutely perfect, boss.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "Kassandra approached them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Something happen to your shipment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Blacksmith:''' ''Huh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Kassandra repeated herself louder.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Did something happen to your shipment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Blacksmith:''' ''Yes, idiots happened. They dropped it and shattered my [[obsidian glass]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Civilian:''' ''You were carrying it too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Blacksmith:''' ''Did you say something, whelp?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Civilian:''' ''I said \"curse those clumsy fools!\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Blacksmith:''' ''Exactly. Now I need more obsidian. If you can bring me some, ''[[Mercenary|misthios]]'', my [[Sword of Avaris|finest blade]] shall be yours. Do we have a deal?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "17",
+            "content": "|-|Accept \u2013 \"I'll do it.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll get you your\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Blacksmith:''' ''What? Is that a yes? Did she say\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Civilian:''' ''She sure did, boss! Idiot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Blacksmith:''' ''Wonderful. My apprentice here will tell you where to find the obsidian.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Civilian:''' ''Thanks for doing this, 'else he wouldn't have shut up. There are stashes of the stuff in the [[Temple of Britomartis|Temple]] of [[Britomartis]] and the [[Sunken Ruins]]. If you have any questions, point them at me. I've had enough of his booming voice for one day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "23",
+            "content": "(If \"Where are the ruins?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''These ruins you mentioned, where are they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "25",
+            "content": "*'''Civilian:''' ''The Sunken Ruins are on the west coast of Messara. Fair warning, though\u2014they're infested with [[Great white shark|sharks]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "26",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "27",
+            "content": "If Kassandra had not looted the ruins=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Good to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "29",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "30",
+            "content": "If Kassandra had already looted the ruins=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I've already been there. There wasn't much obsidian.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Civilian:''' ''Oh. That's not good. But at least you got whatever was there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "33",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "C2",
+            "global_id": "34",
+            "content": "(If \"Where is the temple?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Tell me where to find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Civilian:''' ''The Temple of Britomartis is northwest of [[Kydonia]]. But there are [[Soldier|guards]] roaming about\u2014be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "37",
+            "content": ":(If Kassandra had already looted the temple)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N5",
+            "global_id": "38",
+            "content": ":*'''Kassandra:''' ''That temple has been ransacked \u2013 the obsidian is gone.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "39",
+            "content": ":*'''Civilian:''' ''I take it you saw that personally.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C3",
+            "global_id": "40",
+            "content": "(If \"What's with the shouting?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''What's wrong with him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Civilian:''' ''Where would you like me to begin? He's spent all his life in front of the forge. He can barely hear a thing. Watch. You smell gross today, you old toad.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Blacksmith:''' ''That's very sweet of you to say\u2014You too smell like a rose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Civilian:''' ''The trick is to just smile when you say anything. You should try it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "45",
+            "content": "(If \"Can I try?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "46",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "47",
+            "content": "Intro 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I like what you've done with the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Blacksmith:''' ''What? What did you say about my face?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Civilian:''' ''No, no! She said she likes the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Blacksmith:''' ''Oh! I see. Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Civilian:''' ''You're not very good at this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "53",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "54",
+            "content": "Intro 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''You're looking really good today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "56",
+            "content": "*'''Blacksmith:''' ''\"Put the wood in the hay?\" I'm a blacksmith, silly ''misthios''. I deal with [[iron]], not [[wood]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "57",
+            "content": "Kassandra and the apprentice laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "58",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "59",
+            "content": "Intro 3=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''You don't like taking showers, do you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "61",
+            "content": "*'''Blacksmith:''' ''No, I am not particularly fond of flowers. They make me sneeze.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "62",
+            "content": "Kassandra and the apprentice laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "63",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "64",
+            "content": "(Leave \u2013 I've got enough information.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "65",
+            "content": "*'''Kasssandra:''' ''I've got all I neeed. I'll be back with the obsidian glass.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "*'''Civilian:''' ''She's going to get your stuff now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Blacksmith:''' ''Wonderful. Return quickly, ''misthios''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "68",
+            "content": "*'''Civilian:''' ''Please hurry, my ears can't take any more of his complaining.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "69",
+            "content": "Kassandra left the settlement and headed for the Sunken Ruins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "70",
+            "content": "*'''Kasssandra:''' ''The obsidian glass must be here for a reason. Better be on my guard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "71",
+            "content": "Like the apprentice had warned, sharks swam around in the ruins, and attacked Kassandra, but she bested them and found the obsidian glass within a sunken [[Treasure chest|chest]]. She then headed to the Temple of Britomartis. The place had been taken over by soldiers, but she made her way in, and discovered a chest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "72",
+            "content": "*'''Kasssandra:''' ''This must be where they keep the obsidian glass.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "73",
+            "content": "After obtaining enough obsidian glass, Kassandra returned to the blacksmith and his apprentice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Here's your obsidian glass.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Civilian:''' ''Excellently done, ''misthios''. She got the stuff.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "76",
+            "content": "*'''Blacksmith:''' ''Well done, ''misthios''. Take my blade. May it serve you well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "77",
+            "content": "*'''Civilian:''' ''Now he'll finally shut up for a bit!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "78",
+            "content": "*'''Blacksmith:''' ''I heard that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "79",
+            "content": "|-|I have some Obsidian glass.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''This should be enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "81",
+            "content": "*'''Civilian:''' ''You are well-stocked. You a [[merchant]] or a ''misthios'', eh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "82",
+            "content": "*'''Blacksmith:''' ''Excellent! This will do fine. Here you go, ''misthios''. As promised.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "83",
+            "content": "|-|I don't have time for this=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U1",
+            "global_id": "84",
+            "content": "{{stub}}",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "85",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

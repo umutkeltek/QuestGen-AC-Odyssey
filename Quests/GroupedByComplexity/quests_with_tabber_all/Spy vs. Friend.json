@@ -1,0 +1,166 @@
+{
+    "Quest_Name": "Spy vs. Friend",
+    "Quest_ID": "236793",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Spy vs. Friend",
+        "description": "'An area of burnt forest took on brief strategic importance when Spartan spies, Athens|Athenian spies, and Mercenary|mercenaries all occupied it at the same time.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Spy vs. Friend''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[Sparta]]n spy sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''What's the difference between an [[Athens|Athenian]] sword and a Spartan sword? The Spartan sword has been used.''\nShe sought out the spy and addressed him.\n*'''Kassandra:''' ''I saw the note you posted. What's the matter?''\n*'''Man:''' ''Be warned. Athens has spies in these woods.''\n*'''Kassandra:''' ''So does Sparta, it seems.''\n*'''Man:''' ''True. But those Athenians have a battle plan that we can't let get out.''\n<tabber>\n|-|You want it brought back to you.=\n*'''Kassandra:''' ''And you want me to get it from the Athenians.''\n*'''Man:''' ''That's exactly it. Will you do it for me?''\n|-|You want all the Athenians dead.=\n</tabber>\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''All right. I'll do it.''\n*'''Man:''' ''Thank you. This must be done carefully.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra did as asked, and then returned to the spy.\n*'''Man:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Man:''' ''Sparta owes you a great deal. Take this.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''What's the difference between an [[Athens|Athenian]] sword and a Spartan sword? The Spartan sword has been used.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the spy and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I saw the note you posted. What's the matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''Be warned. Athens has spies in these woods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''So does Sparta, it seems.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Man:''' ''True. But those Athenians have a battle plan that we can't let get out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You want it brought back to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''And you want me to get it from the Athenians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Man:''' ''That's exactly it. Will you do it for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|You want all the Athenians dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Accept - I'll bring it to you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''All right. I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Man:''' ''Thank you. This must be done carefully.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll come back when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Kassandra did as asked, and then returned to the spy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Man:''' ''Did you get it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It's all yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Man:''' ''Sparta owes you a great deal. Take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''All in a day's work.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

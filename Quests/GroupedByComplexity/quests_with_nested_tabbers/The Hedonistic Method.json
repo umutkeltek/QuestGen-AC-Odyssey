@@ -1,0 +1,663 @@
+{
+    "Quest_Name": "The Hedonistic Method",
+    "Quest_ID": "224199",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "The Curse of Fame",
+        "next": "Showtime (Odyssey)|Showtime",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''The Hedonistic Method''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "As part of putting on [[Thespis]]' play, Kassandra tracked an absent actor to a mystery [[Mysteries of Hedone|cult]]. But the true mystery was yet to come.",
+    "Section_Dialogue": "Kassandra traveled to the [[Spring of Piera]] in search of one of [[Thespis]]' missing actors. When she arrived, she spoke to a woman in the camp at the spring.\n*'''Hedone:''' ''Hello! Have you come to learn about the mysteries of [[Hedone]]?''\n\n<tabber>\n|-|Yes, I'd like to know more.=\n*'''Kassandra:''' ''Sure, I'd like to know. Let's start with... what's Hedone?''\n|-|It's not a mystery anymore.=\n*'''Kassandra:''' ''Not much of a mystery if you tell everybody about it.''\n</tabber>\n*'''Hedone:''' ''Hedone is the goddess of bliss. And since we all seek bliss, we are all Hedone.''\n*'''Kassandra:''' ''I'm not seeking bliss. I'm seeking an actor.''\n*'''Hedone:''' ''We have no actors here, only teachers and students.''\n*'''Kassandra:''' ''Look, his name is [[Tros]]. He's an actor working for Thespis.''\n*'''Hedone:''' ''I recall hearing that an actor joined us... But now his name is Hedone. Like mine. Everyone here is Hedone.''\n*'''Kassandra:''' ''Just give me a straight answer. I need to find that actor.''\n*'''Hedone:''' ''I'm sorry. I'm the only one permitted to speak with outsiders. But if you pass our initiation, others will speak with you too.''\nKassandra sighed.\n*'''Kassandra:''' ''Fine. Initiate me, Hedone. What do I have to do?''\n*'''Hedone:''' ''Wonderful! You must complete two tasks to demonstrate your devotion. First, climb to the top of the Waterfall of Eternal Joy and dive into Froth of Fantasy.''\n*'''Kassandra:''' ''Right. And then what?''\n*'''Hedone:''' ''Then, explore the Cave of Deepest Self Knowledge and return with the treasure you'll find inside.''\n*'''Kassandra:''' ''Waterfall dive. Cave treasure. Got it.''\nKassandra climbed to the top of the waterfall near the spring.\n*'''Kassandra:''' ''This is the waterfall. Now to pick a good spot and jump.''\nKassandra dove into the water below. She then searched for the cave that Hedone had referred to.\n*'''Kassandra:''' ''That cave must be around here somewhere.''\nThe cave's entrance was hidden on the side of the cliff near the waterfall.\n*'''Kassandra:''' ''Ah, that must be the cave with the treasure inside.''\nKassandra searched the cave and found the treasure that Hedone was referring to.\n*'''Kassandra:''' ''That's what I'm looking for.''\nShe brought it back to Hedone who was waiting for her at the top of the waterfall.\n*'''Kassandra:''' ''I jumped from the waterfall and found the treasure. Now will you initiate me?''\n*'''Hedone:''' ''You have initiated yourself! Welcome to the Mysteries of Hedone, Hedone! Go talk with your brothers and sisters, they'll be happy to meet you.''\n*'''Kassandra:''' ''I'll go speak with them now.''\n(If Kassandra speaks to her again.)\n*'''Kassandra:''' ''So, do you know who Tros is?''\n*'''Hedone:''' ''Sorry, Hedone. I've heard that name floating around, but I have no idea who it was attached to. Our former names and professions mean nothing here.''\n*'''Kassandra:''' ''I'll have to talk to everyone, then.''\nThere were five people worshiping in the water. Kassandra spoke to them one by one, hoping to pick which one was the actor.\n*'''Kassandra:''' ''Are you Tros? I'm looking for an actor named Tros.''\n*'''Hedone:''' ''What? I had nearly reached the third level of Hedone's godly bliss when you interrupted me. Now I have to start all over again!''\n*'''Kassandra:''' ''You get on with that. It's probably best you stay away from acting.''\nKassandra approached another Hedone.\n*'''Kassandra:''' Chaire. ''Are you Tros, the actor?''\n*'''Hedone:''' ''Um, I, oh... N-no. I'm not him.''\n*'''Kassandra:''' ''Good. Otherwise Thespis is terrible at choosing actors.''\nKassandra approached another Hedone.\n*'''Kassandra:''' ''Hello. I'm looking for the actor Tros. Is that you?''\n*'''Hedone:''' ''Oh, an actor? I'd love to be an actor. But my friends told me I'd need to practice my stage presence first.''\n*'''Kassandra:''' ''That's wise advice. Good luck with that.''\nKassandra approached another Hedone.\n*'''Kassandra:''' ''Hello, are you Tros, the actor?''\n*'''Hedone:''' ''You must be new. There are no actors here. Our only role is to be Hedone, to inhabit her grace and tranquility.''\n*'''Kassandra:''' ''You sound like you know something about the theater.''\n*'''Hedone:''' ''I wouldn't say I know much about it. I might have studied a little [[Aristophanes]], a little [[Euripides]]... [[Medea]] was robbed, you know.''\n\n<tabber>\n|-|I'm sure you're the actor I need.=\n*'''Kassandra:''' ''If you aren't the actor Tros, you're certainly good enough to be him. Come act in Thespis' play.''\n*'''Hedone:''' ''I'd like to help you, Hedone, but I need to stay here. Work on my enlightenment, all right?''\n{{#tag:tabber|\nOur audience needs to learn the way of Hedone, too.=\n*'''Kassandra:''' ''Picture it \u2013 you, up on a stage, showing hundreds of people how wonderful the message of Hedone is. I'm offering you that chance, you just have to take it.''\n*'''Hedone:''' ''That is magnificent. A chance to spread the joy of Hedone to so many people... I'll do it.''\n*'''Kassandra:''' ''Good. Now go report to Thespis at [[Pelops|Pelops Market]] in [[Elis]]. And get on with your rehearsals, Hedone... I mean, [[Ephialtes]].''\n{{!}}-{{!}}\nYou'll never reach enlightenment if you stay here.=\n*'''Kassandra:''' ''Enlightenment is hard. The gods don't make things easy for us. If you truly want to follow their path, you have to challenge yourself. If you stay here and rot, you'll be a failure.\n*'''Hedone:''' ''That's harsh... But you're right. If I don't go out in the world, is my faith in Hedone really true? Only one way to find out, and that's on the stage.\n*'''Kassandra:''' ''Good. Now go report to Thespis at [[Pelops|Pelops Market]] in [[Elis]]. And get on with your rehearsals, Hedone... I mean, [[Ephialtes]].''\n}}\n|-|Leave \u2013 I'm going to talk to some more people.=\n*'''Kassandra:''' ''I'm going to speak with some more Hedonists.''\n*'''Hedone:''' ''That's a good name.''\n</tabber>\n\n(If Kassandra approached another Hedone.)\n*'''Kassandra:''' ''Hello. I'm looking for Tros, the actor.''\n*'''Hedone:''' ''Well, none of us use our old names here. But acting, I know about that. Make the audience laugh when they want to laugh, and cry when they want to cry.''\n*'''Kassandra:''' ''And how would you make an audience laugh?''\n*'''Hedone:''' ''Well, I'd probably slip and fall on a piece of goat's bladder. Works every time.''\n*'''Kassandra:''' ''I see... And to make them cry?''\n*'''Hedone:''' ''I'd tell them about how much I miss my poor dead goat. And if that didn't work, I'd cut an onion at the same time. Old theater trick, you know.''\n\n<tabber>\n|-|I'm sure you're the actor I need.=\n*'''Kassandra:''' ''If you aren't the actor Tros, you're certainly good enough to be him. Come act in Thespis' play.''\n*'''Hedone:''' ''I'm flattered. But what am I supposed to tell my friends? We're supposed to honor the goddess Hedone together.''\n{{#tag:tabber|\nOur audience needs to learn the way of Hedone, too.=\n*'''Kassandra:''' ''Look, your friends here already understand Hedone's teachings. But if you were onstage expressing them, then hundreds more people could hear your message.''\n*'''Hedone:''' ''You talk a good game. Sure, I'll do it to get the message out. Let everyone hear what Hedone can do for them.''\n*'''Kassandra:''' ''Good. Thespis is waiting for you at [[Pelops|Pelops Market]] in [[Elis]].''\n{{!}}-{{!}}\nYou'll never amount to anything if you stay here.=\n*'''Kassandra:''' ''You're living in the middle of nowhere claiming to worship the goddess of joy, when the real people who need her words are living just a few steps away. If you stay here, you're wasting your life.''\n*'''Hedone:''' ''You're a tough one, but you have a point. Everyone in here already understands the word. On stage, I can make sure everyone gets it.''\n*'''Kassandra:''' ''Good. Thespis is waiting for you at [[Pelops|Pelops Market]] in [[Elis]].''\n}}\n|-|Leave \u2013 I'm going to talk to some more people.=\n*'''Kassandra:''' ''Thanks for your time. I'll speak with the rest of the Hedonists.''\n*'''Hedone:''' ''We should use that name. Might get more people joining with a snappy name like that.''\nKassandra left to speak to another Hedone.\n</tabber>\nHedone left to meet Thespis.",
+    "Section_Outcome": "Kassandra wasn't sure if she had found Tros, but procured a suitable actor to play Ephialtes in Thespis' play.",
+    "Section_Behind_the_scenes": "The Hedones can be spoken to in any order.\n<!--Not sure if there's any effect on the final story, depending on which Hedone you hire.-->\n\nIt seems that picking the closest Hedone to the player's position (the one with hair) and choosing the 2nd dialogue option (\"Never reach enlightenment\") is the correct choice, as the remaining 3 paths all result in inaccurate acting by the chosen Hedone and a poor crowd reaction.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Show Must Go On",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to the [[Spring of Piera]] in search of one of [[Thespis]]' missing actors. When she arrived, she spoke to a woman in the camp at the spring.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Hedone:''' ''Hello! Have you come to learn about the mysteries of [[Hedone]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|Yes, I'd like to know more.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Sure, I'd like to know. Let's start with... what's Hedone?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "7",
+            "content": "|-|It's not a mystery anymore.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Not much of a mystery if you tell everybody about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "9",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Hedone:''' ''Hedone is the goddess of bliss. And since we all seek bliss, we are all Hedone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm not seeking bliss. I'm seeking an actor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Hedone:''' ''We have no actors here, only teachers and students.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Look, his name is [[Tros]]. He's an actor working for Thespis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Hedone:''' ''I recall hearing that an actor joined us... But now his name is Hedone. Like mine. Everyone here is Hedone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Just give me a straight answer. I need to find that actor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Hedone:''' ''I'm sorry. I'm the only one permitted to speak with outsiders. But if you pass our initiation, others will speak with you too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "17",
+            "content": "Kassandra sighed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Fine. Initiate me, Hedone. What do I have to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Hedone:''' ''Wonderful! You must complete two tasks to demonstrate your devotion. First, climb to the top of the Waterfall of Eternal Joy and dive into Froth of Fantasy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Right. And then what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Hedone:''' ''Then, explore the Cave of Deepest Self Knowledge and return with the treasure you'll find inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Waterfall dive. Cave treasure. Got it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "23",
+            "content": "Kassandra climbed to the top of the waterfall near the spring.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''This is the waterfall. Now to pick a good spot and jump.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Kassandra dove into the water below. She then searched for the cave that Hedone had referred to.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''That cave must be around here somewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "The cave's entrance was hidden on the side of the cliff near the waterfall.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Ah, that must be the cave with the treasure inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "29",
+            "content": "Kassandra searched the cave and found the treasure that Hedone was referring to.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''That's what I'm looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "31",
+            "content": "She brought it back to Hedone who was waiting for her at the top of the waterfall.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I jumped from the waterfall and found the treasure. Now will you initiate me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Hedone:''' ''You have initiated yourself! Welcome to the Mysteries of Hedone, Hedone! Go talk with your brothers and sisters, they'll be happy to meet you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'll go speak with them now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "35",
+            "content": "(If Kassandra speaks to her again.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''So, do you know who Tros is?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Hedone:''' ''Sorry, Hedone. I've heard that name floating around, but I have no idea who it was attached to. Our former names and professions mean nothing here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll have to talk to everyone, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "39",
+            "content": "There were five people worshiping in the water. Kassandra spoke to them one by one, hoping to pick which one was the actor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Are you Tros? I'm looking for an actor named Tros.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "41",
+            "content": "*'''Hedone:''' ''What? I had nearly reached the third level of Hedone's godly bliss when you interrupted me. Now I have to start all over again!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''You get on with that. It's probably best you stay away from acting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "43",
+            "content": "Kassandra approached another Hedone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' Chaire. ''Are you Tros, the actor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "45",
+            "content": "*'''Hedone:''' ''Um, I, oh... N-no. I'm not him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Good. Otherwise Thespis is terrible at choosing actors.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "47",
+            "content": "Kassandra approached another Hedone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Hello. I'm looking for the actor Tros. Is that you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Hedone:''' ''Oh, an actor? I'd love to be an actor. But my friends told me I'd need to practice my stage presence first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''That's wise advice. Good luck with that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "51",
+            "content": "Kassandra approached another Hedone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Hello, are you Tros, the actor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "53",
+            "content": "*'''Hedone:''' ''You must be new. There are no actors here. Our only role is to be Hedone, to inhabit her grace and tranquility.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''You sound like you know something about the theater.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "55",
+            "content": "*'''Hedone:''' ''I wouldn't say I know much about it. I might have studied a little [[Aristophanes]], a little [[Euripides]]... [[Medea]] was robbed, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "57",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "58",
+            "content": "|-|I'm sure you're the actor I need.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''If you aren't the actor Tros, you're certainly good enough to be him. Come act in Thespis' play.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Hedone:''' ''I'd like to help you, Hedone, but I need to stay here. Work on my enlightenment, all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "61",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "62",
+            "content": "Our audience needs to learn the way of Hedone, too.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Picture it \u2013 you, up on a stage, showing hundreds of people how wonderful the message of Hedone is. I'm offering you that chance, you just have to take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "64",
+            "content": "*'''Hedone:''' ''That is magnificent. A chance to spread the joy of Hedone to so many people... I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Good. Now go report to Thespis at [[Pelops|Pelops Market]] in [[Elis]]. And get on with your rehearsals, Hedone... I mean, [[Ephialtes]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "66",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "67",
+            "content": "You'll never reach enlightenment if you stay here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Enlightenment is hard. The gods don't make things easy for us. If you truly want to follow their path, you have to challenge yourself. If you stay here and rot, you'll be a failure.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "69",
+            "content": "*'''Hedone:''' ''That's harsh... But you're right. If I don't go out in the world, is my faith in Hedone really true? Only one way to find out, and that's on the stage.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Good. Now go report to Thespis at [[Pelops|Pelops Market]] in [[Elis]]. And get on with your rehearsals, Hedone... I mean, [[Ephialtes]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "71",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "72",
+            "content": "|-|Leave \u2013 I'm going to talk to some more people.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''I'm going to speak with some more Hedonists.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "74",
+            "content": "*'''Hedone:''' ''That's a good name.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "75",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "76",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "77",
+            "content": "(If Kassandra approached another Hedone.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''Hello. I'm looking for Tros, the actor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "79",
+            "content": "*'''Hedone:''' ''Well, none of us use our old names here. But acting, I know about that. Make the audience laugh when they want to laugh, and cry when they want to cry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''And how would you make an audience laugh?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "81",
+            "content": "*'''Hedone:''' ''Well, I'd probably slip and fall on a piece of goat's bladder. Works every time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''I see... And to make them cry?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Hedone:''' ''I'd tell them about how much I miss my poor dead goat. And if that didn't work, I'd cut an onion at the same time. Old theater trick, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "84",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "85",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "86",
+            "content": "|-|I'm sure you're the actor I need.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''If you aren't the actor Tros, you're certainly good enough to be him. Come act in Thespis' play.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "88",
+            "content": "*'''Hedone:''' ''I'm flattered. But what am I supposed to tell my friends? We're supposed to honor the goddess Hedone together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "89",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "90",
+            "content": "Our audience needs to learn the way of Hedone, too.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''Look, your friends here already understand Hedone's teachings. But if you were onstage expressing them, then hundreds more people could hear your message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "92",
+            "content": "*'''Hedone:''' ''You talk a good game. Sure, I'll do it to get the message out. Let everyone hear what Hedone can do for them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''Good. Thespis is waiting for you at [[Pelops|Pelops Market]] in [[Elis]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "94",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "95",
+            "content": "You'll never amount to anything if you stay here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''You're living in the middle of nowhere claiming to worship the goddess of joy, when the real people who need her words are living just a few steps away. If you stay here, you're wasting your life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "97",
+            "content": "*'''Hedone:''' ''You're a tough one, but you have a point. Everyone in here already understands the word. On stage, I can make sure everyone gets it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''Good. Thespis is waiting for you at [[Pelops|Pelops Market]] in [[Elis]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "99",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC10",
+            "global_id": "100",
+            "content": "|-|Leave \u2013 I'm going to talk to some more people.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Thanks for your time. I'll speak with the rest of the Hedonists.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "102",
+            "content": "*'''Hedone:''' ''We should use that name. Might get more people joining with a snappy name like that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "103",
+            "content": "Kassandra left to speak to another Hedone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "104",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N13",
+            "global_id": "105",
+            "content": "Hedone left to meet Thespis.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

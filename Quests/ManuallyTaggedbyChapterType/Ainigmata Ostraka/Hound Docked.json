@@ -1,0 +1,40 @@
+{
+    "QuestName": "Hound Docked",
+    "QuestID": "222848",
+    "Revision": {
+        "id": "1050126",
+        "parentid": "998987",
+        "timestamp": "2023-06-22T05:29:41Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1050126",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "9ooiehxzkd0p1bdiluwo21gx0293fyc"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Fatal Attraction",
+        "next": "Record Sunshine",
+        "source": "Kassandra",
+        "location": "Farm of Tripodiskos, Megaris",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Hound Docked''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''When all [[ship]]s look the same, it's hard to remember where you docked. Go to the shores in the [[Occupied Forest of Tripodiskos]] and look for a moored ship guarded by a [[dog]]. Find me where X marks the spot.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

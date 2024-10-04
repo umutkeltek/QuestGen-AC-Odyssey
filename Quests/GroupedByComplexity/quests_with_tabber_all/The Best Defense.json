@@ -1,0 +1,325 @@
+{
+    "Quest_Name": "The Best Defense",
+    "Quest_ID": "226153",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Best Defense 2.png",
+        "description": "'When tasked with picking the first strike against the Sons of Xerxes, Kassandra had to side with either Periktione or Thyia.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "The Ore of Aphrodite",
+        "next": "Blood for Aphrodite",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Best Defense''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with magistrate [[Periktione]] to decide the next step in dealing with the [[Sons of Xerxes]].",
+    "Section_Dialogue": "After helping the villagers of [[Lalaia]], Kassandra returned to the magistrate Periktione, who was speaking to her sister [[Thyia]].\n*'''Thyia:''' ''Peri, we need to be strategic about this!''\n*'''Magistrate Periktione:''' ''Destroying the caches is strategic! Wandering through the woods looking for scouts is a waste of time.''\nKassandra approached them.\n[[File:ACOD The Best Defense 1.png|thumb|250px|Kassandra speaking to Periktione and Thyia]]\n*'''Magistrate Periktione:''' ''Eagle Bearer! Good. You can talk some sense into my sister.''\n*'''Thyia:''' ''i've just spoken with the [[hunting]] party. They recovered new enemy arrows near the boundaries of the village.''\n*'''Kassandra:''' ''Scouts. Likely sent ahead to find weaknesses in Lalaia's defenses... Of which there are many.''\n*'''Thyia:''' ''That's what I've been telling Peri! We need to kill those scouts. Even if we do defeat the lion's share of the Sons in battle, the scouts will cut our throats as we sleep!''\n*'''Magistrate Periktione:''' ''If everyone dies in battle there will be no village left to defend. [[Agnodike]] spoke of enemy weapons caches. If we destroy those, we'll cut the legs off our foes.''\n(If players choose \"What enemy caches?\")\n*'''Kassandra:''' ''What did Agnodike find?''\n*'''Magistrate Periktione:''' ''She overheard the Sons of Xerxes discussing supplies they stole from a nearby [[fort]]ress and returned to their camp.''\n(If players choose \"Why are you so worried about the scouts?\")\n*'''Kassandra:''' ''Why are these scouts such a threat?''\n*'''Thyia:''' ''What if we're away in battle and the scouts return to kill those we've left behind?''\n(Let's get ready.)\n*'''Kassandra:''' ''We need to deal with this now.''\n*'''Magistrate Periktione:''' ''Which do we focus on, the scouts or the caches?''\n\n<tabber>\n|-|We focus on the scouts.=\n*'''Kassandra:''' ''I'll take care of the scouts. The last thing we need is an ambush.''\n*'''Magistrate Periktione:''' ''if you've chosen wrong, we'll be exposed with nothing to show for it! But if you must go, go now. Are you ready?''\n*'''Kassandra:''' ''I'll see you when it's done.''\n*'''Thyia:''' ''What is it that [[Sparta]]ns say about [[shield]]s? With them or on them?''\n*'''Magistrate Periktione:''' ''May the gods guide your path and the arc of your sword.''\nKassandra heads off to locate the scouts. Making her way to the [[Bay of Hades]], she found a scout group walking along a road.\n*'''Kassandra:''' ''There's a scout!''\n[[File:ACOD The Best Defense 3.png|thumb|250px|Kassandra finding the scouts]]\nKassandra eliminated the first group of scouts and headed off to locate another. Finding them in the woods, she approached and eliminated them. Kassandra then found another group on a road, eliminating them.\n*'''Kassandra:''' ''That's all of them. Better get back to Lalaia.''\nKassandra returned to Periktione in Lalaia.\n*'''Kassandra:''' ''I hunted them to the last.''\n*'''Thyia:''' ''I'll sleep easier knowing that.''\n*'''Magistrate Periktione:''' ''I still worry about them overcoming our numbers in battle. But, thank you. This will change our fate.''\n|-|We focus on the caches.=\n*'''Kassandra:''' ''We'll focus on the caches... but we'll need to find the Sons of Xerxes' stronghold first.''\n*'''Thyia:''' ''I hope you know what you're doing. I'll be sleeping with one eye open. Are you ready to do this?''\n*'''Kassandra:''' ''I'll see you when it's done.''\n*'''Thyia:''' ''What is it that [[Sparta]]ns say about [[shield]]s? With them or on them?''\n*'''Magistrate Periktione:''' ''May the gods guide your path and the arc of your sword.''\nKassandra heads off to locate the caches, making her way to the [[Heraklea Bandit Camp]]. Upon arrival, she kills all the bandits and burns the two caches in the camp and one located in a hidden cave.\n*'''Kassandra:''' ''That's all of them. Better get back to Lalaia.''\nKassandra returned to Periktione in Lalaia.\n*'''Kassandra:''' ''I destroyed the caches.''\n*'''Magistrate Periktione:''' ''Thank the gods. We will win this war.''\n*'''Thyia:''' ''The war maybe, but at what cost? We could still have our throats slit in the night. That sounds ungrateful of me. Thank you for all you've done.''\n</tabber>",
+    "Section_Outcome": "Kassandra sided with either Periktione's or Thyia's plan to deal with the Sons of Xerxes.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Lalaia",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After helping the villagers of [[Lalaia]], Kassandra returned to the magistrate Periktione, who was speaking to her sister [[Thyia]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Thyia:''' ''Peri, we need to be strategic about this!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Magistrate Periktione:''' ''Destroying the caches is strategic! Wandering through the woods looking for scouts is a waste of time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra approached them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "5",
+            "content": "[[File:ACOD The Best Defense 1.png|thumb|250px|Kassandra speaking to Periktione and Thyia]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Magistrate Periktione:''' ''Eagle Bearer! Good. You can talk some sense into my sister.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Thyia:''' ''i've just spoken with the [[hunting]] party. They recovered new enemy arrows near the boundaries of the village.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Scouts. Likely sent ahead to find weaknesses in Lalaia's defenses... Of which there are many.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Thyia:''' ''That's what I've been telling Peri! We need to kill those scouts. Even if we do defeat the lion's share of the Sons in battle, the scouts will cut our throats as we sleep!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Magistrate Periktione:''' ''If everyone dies in battle there will be no village left to defend. [[Agnodike]] spoke of enemy weapons caches. If we destroy those, we'll cut the legs off our foes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "11",
+            "content": "(If players choose \"What enemy caches?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''What did Agnodike find?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Magistrate Periktione:''' ''She overheard the Sons of Xerxes discussing supplies they stole from a nearby [[fort]]ress and returned to their camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "14",
+            "content": "(If players choose \"Why are you so worried about the scouts?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Why are these scouts such a threat?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Thyia:''' ''What if we're away in battle and the scouts return to kill those we've left behind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Let's get ready.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''We need to deal with this now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Magistrate Periktione:''' ''Which do we focus on, the scouts or the caches?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "22",
+            "content": "|-|We focus on the scouts.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I'll take care of the scouts. The last thing we need is an ambush.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Magistrate Periktione:''' ''if you've chosen wrong, we'll be exposed with nothing to show for it! But if you must go, go now. Are you ready?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'll see you when it's done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Thyia:''' ''What is it that [[Sparta]]ns say about [[shield]]s? With them or on them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Magistrate Periktione:''' ''May the gods guide your path and the arc of your sword.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "28",
+            "content": "Kassandra heads off to locate the scouts. Making her way to the [[Bay of Hades]], she found a scout group walking along a road.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''There's a scout!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "30",
+            "content": "[[File:ACOD The Best Defense 3.png|thumb|250px|Kassandra finding the scouts]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "31",
+            "content": "Kassandra eliminated the first group of scouts and headed off to locate another. Finding them in the woods, she approached and eliminated them. Kassandra then found another group on a road, eliminating them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''That's all of them. Better get back to Lalaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "33",
+            "content": "Kassandra returned to Periktione in Lalaia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I hunted them to the last.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Thyia:''' ''I'll sleep easier knowing that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Magistrate Periktione:''' ''I still worry about them overcoming our numbers in battle. But, thank you. This will change our fate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "37",
+            "content": "|-|We focus on the caches.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''We'll focus on the caches... but we'll need to find the Sons of Xerxes' stronghold first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "39",
+            "content": "*'''Thyia:''' ''I hope you know what you're doing. I'll be sleeping with one eye open. Are you ready to do this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I'll see you when it's done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "41",
+            "content": "*'''Thyia:''' ''What is it that [[Sparta]]ns say about [[shield]]s? With them or on them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Magistrate Periktione:''' ''May the gods guide your path and the arc of your sword.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": "Kassandra heads off to locate the caches, making her way to the [[Heraklea Bandit Camp]]. Upon arrival, she kills all the bandits and burns the two caches in the camp and one located in a hidden cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''That's all of them. Better get back to Lalaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "Kassandra returned to Periktione in Lalaia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I destroyed the caches.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "47",
+            "content": "*'''Magistrate Periktione:''' ''Thank the gods. We will win this war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "48",
+            "content": "*'''Thyia:''' ''The war maybe, but at what cost? We could still have our throats slit in the night. That sounds ungrateful of me. Thank you for all you've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "49",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

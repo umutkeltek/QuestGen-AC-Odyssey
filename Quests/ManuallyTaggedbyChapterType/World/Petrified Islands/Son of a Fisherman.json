@@ -1,0 +1,40 @@
+{
+    "QuestName": "Son of a Fisherman",
+    "QuestID": "225231",
+    "Revision": {
+        "id": "1047433",
+        "parentid": "987695",
+        "timestamp": "2023-06-13T18:59:13Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047433",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "mot8me1x5ki3dwio3fgnyr88qgq2cls"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'A fisherman in Eresos asked Kassandra for help finding his son, who he believed had taken his boat to meet a girl.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Shroud of the Bear",
+        "next": "Waiting for Galarnos",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Son of a Fisherman''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a fisherman who asked her to look for his missing son.",
+    "Section_Dialogue": "While in [[Eresos]], Kassandra approached a fisherman.\n*'''Civilian:''' ''I hope you're here to buy fish and not just hang about.''\n*'''Kassandra:''' ''Your face looks more sour than this fishy stink.''\n*'''Civilian:''' ''Why shouldn't I be sour, eh? My no-good son sailed off with my boat and should've been back hours ago! Probably showing off for that [[Mytilene]] girl. Bah!''\n\n<tabber>\n|-|Your son couldn't stand your stench.=\n*'''Kassandra:''' ''The smell... Of course your son ran away. Doubt he'll come back.''\n*'''Civilian:''' ''Choke on goat dung!''\n*'''Kassandra:''' ''I can leave...''\n*'''Civilian:''' ''Hmm... On second thought. Would you fetch my lazy son? He's at Fisherman's Bay. An easy errand for fair pay.''\n\n|-|I'm sure your son will be back.=\n*'''Kassandra:''' ''He's probably just lost track of time. I'm sure he'll be back eventually.''\n*'''Civilian:''' ''Of course he'll be back eventually\u2014but I need him back now! These fish aren't going to skin themselves, you know.''\n*'''Civilian:''' ''Say... Have you got time for an errand? Go look for my boy on the [[Fisherman's Bay|bay]] bordering the [[Petrified Valley]] and [[Ancient Pearl]]. And when you find him, scare him a bit to teach him a lesson. I'll pay you for it.''\n</tabber>\n(Accept \u2013 I'll look for your son.)\n*'''Kassandra:''' ''I'll do it.''\n*'''Civilian:''' ''Good. You find him, and I'll tan his hide.''\n(If players choose \"Where is this bay?\")\n*'''Kassandra:''' ''And where is exactly is this bay?''\n*'''Civilian:''' ''Fisherman's Bay is northeasy of here, and runs through the middle of our island. You can't miss it.''\n(If players choose \"Who's this girl your boy's interested in?\")\n*'''Kassandra:''' ''Tell me more about the girl.''\n*'''Civilian:''' ''I don't know... some Mytilene lovely, full of history and poetry from that [[Sappho School|school]] over there. She keeps my boy's head in the clouds instead of focused on his work.''\n(Leave \u2013 I'll go look for your son.)\n*'''Kassandra:''' ''Let's quit chatting so I can go find your son.''\n*'''Civilian:''' ''See that you do. I'll pay you, and then my boy's hide will pay for taking my boat out.''\nKassandra left the elderly fisherman and made her way to the bay mentioned.\n*'''Kassandra:''' ''Time to search Fisherman's Bay.''\nArriving at the bay, she identified an empty boat in the middle of the water.\n*'''Kassandra:''' ''There's the fishing boat. But where's the fisherman's son?''\nAs she swam towards it, she came across a pool of blood near the boat.\n*'''Kassandra:''' ''There's blood in the water!''\nKassandra dived under water and found a body tangled in a fisherman's net.\n*'''Kassandra:''' ''It's the fisherman's son!''\nShe approached the body for a closer look.\n*'''Kassandra:''' ''The fisherman's son. Looks like he got tangled up in the net trying to haul a heavy load of fish. Slipped. then the weight of the net dragged him down.''\nHaving found what was needed, Kassandra returned to the fisherman.\n*'''Civilian:''' ''Any word on my son?''\n\n<tabber>\n|-|Your son is dead.=\n*'''Kassandra:''' ''Your son is dead, drowned in his fishing net.''\n*'''Civilian:''' ''No! My boy... my poor boy. I pushed him too hard.''\n|-|You drove your son to his death.=\n*'''Kassandra:''' ''Your son is dead, drowned in your own fishing nets. He died trying to impress his sour father, who pushed him too hard.''\n*'''Civilian:''' ''My fault... You think it's my fault? Get out of my shop. Go!''\nThe fisherman turned away from Kassandra\n*'''Civilian:''' ''My poor boy! What did I do? What did I do? I pushed him too hard.''\n|-|Lie \u2013 Your son ran off with the girl.=\n*'''Kassandra:''' ''Your son ran away with the girl. I found your boat abandoned on the opposite shore, and two sets of footprints pointing to Mytilene.''\n*'''Civilian:''' ''But he's safe? Oh... Thank Poseidon.''\n*'''Civilian:''' ''...Thank Poseidon for not robbing me of the chance of slapping some sense into that no-good boy.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped the fisherman to uncover the whereabouts and fate of his son.",
+    "Section_Trivia": "The name of this quest is a reference to a [https://en.wikipedia.org/wiki/Son_of_a_Preacher_Man song] by [https://en.wikipedia.org/wiki/Dusty_Springfield Dusty Springfield].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

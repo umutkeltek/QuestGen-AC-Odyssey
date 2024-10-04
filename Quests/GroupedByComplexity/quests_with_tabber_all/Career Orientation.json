@@ -1,0 +1,696 @@
+{
+    "Quest_Name": "Career Orientation",
+    "Quest_ID": "227482",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Thinly veiling his desire to spend more time with the Eagle Bearer as gratitude, Lykinos offered to cook Kassandra dinner and asked that she hunt deer to provide for the meal.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Honoring the Dead",
+        "next": "Wounds of Days Gone By",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Career Orientation''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Lykinos]], who was preparing dinner on a cliff near the [[Dibutades Cave]].",
+    "Section_Dialogue": "Kassandra found Lykinos in his house.\n\n*'''Lykinos:''' ''My dear Kassandra! Over here. Do you have a moment? I was hoping to have the chance to thank you for all you've done.''\n*'''Kassandra:''' ''What did you have in mind?''\n*'''Lykinos:''' ''Poet may be my day job, but there's more to me than that. I'm also a very talented cook. Allow me to make you a fabulous meal.''\n\n(If players choose \"A meal sounds nice.\")\n\n*'''Kassandra:''' ''I'd like that.''\n*'''Lykinos:''' ''Great! There's just one thing... I'll need a little help [[hunting]] down some ingredients. Literally.''\n*'''Kassandra:''' ''You're treating me, you said?''\n*'''Lykinos:''' ''After all we've been through together, surely you can agree that I'm a lover, not a fighter?''\n<tabber>\n|-|You're not a lover yet.=\n*'''Kassandra:''' ''A lover, huh? We'll see.''\n*'''Lykinos:''' ''I hope so.''\n|-|You're no fighter.=\n*'''Kassandra:''' ''For how many [[bandit]]s I've killed for you, it's pretty safe to say you're not a fighter.''\n*'''Lykinos:''' ''I have to compensate somehow.''\n</tabber>\n\n*'''Kassandra:''' ''What do you need me to hunt?''\n*'''Lykinos:''' ''This dish calls for [[Deer]]venison. Any of the beasts wandering nearby should do. Meet me at the cliffs near the [[Hypermnestra Camp]] once you find some.''\n\nKassandra found some deer nearby and killed one.\n\n*'''Kassandra:''' ''It's a start, but Lykinos will need more.''\n\nShe killed another.\n\n*'''Kassandra:''' ''This should be plenty of meat for Lykinos's dinner.''\n\nShe traveled to the cliff, and admired the view.\n\n*'''Kassandra:''' ''Beautiful view.''\n*'''Lykinos:''' ''It certainly is. Did you manage to hunt down our food?''\n*'''Kassandra:''' ''Here's the meat.''\n*'''Lykinos:''' ''Perfect, I'll get started. Please, make yourself comfortable.''\n\nAfter the meal, the two sat together as it got dark.\n\n*'''Kassandra:''' ''That was delicious.''\n*'''Lykinos:''' ''I told you I could cook. Was the food worth it?''\n<tabber>\n|-|The company was worth it.=\n*'''Kassandra:''' ''The company was certainly worth it. I'm having a really nice time.''\n*'''Lykinos:''' ''I can hardly believe someone like you wants to spend time with someone like me. I have truly been blessed by the gods.''\n|-|The hunt was hardly a challenge.=\n*'''Kassandra:''' ''A few deer are no match for a mighty ''Misthios''.''\n*'''Lykinos:''' ''I wish I had your skill... and confidence.''\n</tabber>\n\n*'''Kassandra:''' ''Fighter or not, I'm sure it takes a lot to be a renowned poet in Athens.''\n*'''Lykinos:''' ''I, uh, may have exaggerated my accomplishments as a poet a bit earlier. The truth is... I'm not just home for a visit. I ran out of [[drachma]]e in [[Athens]].''\n*'''Kassandra:''' ''Why lie to your brother about this? Or... to me?''\n*'''Lykinos:''' ''[[Timotheos]] has always been [[Diokles|my father]]'s son. In every way. They both fought for Athens. Both worked in the family business. Timotheos's path was never for me, so I left for Athens to strike out on my own.''\n*'''Kassandra:''' ''You're afraid of what he'll think.''\n*'''Lykinos:''' ''He'll say it was irresponsible for me to leave in the first place. And he's right, I don't have any drachmae or means to earn it.''\n<tabber>\n|-|You shouldn't give up on being a poet.=\n*'''Kassandra:''' ''If poetry really is your passion, then you should keep at it.''\n*'''Lykinos:''' ''If ''you'' really think so...''\n|-|You should become a cook.=\n*'''Kassandra:''' ''You're an amazing cook, Lykinos. If you're looking for a way to make a living, you should start there.''\n*'''Lykinos:''' ''I guess everyone needs to eat. Besides, any skill that impresses you is worth pursuing.''\n</tabber>\n\n*'''Kassandra:''' ''You never answered my question, though. Why lie to ''me'' about your career?''\n*'''Lykinos:''' ''Isn't it obvious? I didn't want to appear a failure to you. From the moment I met you, I knew you were amazing.''\n<tabber>\n|-|I'm just a mercenary.=\n*'''Kassandra:''' ''I'm just someone that's had to fight everyday of my life.''\n*'''Lykinos:''' ''Still, you saved my life, Kassandra. I'll never forget that.''\n*'''Kassandra:''' ''Well, I'm glad I did. This has been nice, Lykinos.''\n*'''Lykinos:''' ''It really has.''\n|-|Flirt - You're amazing too.=\n*'''Kassandra:''' ''You might not see it yourself, but I think you're pretty amazing, too''\n*'''Lykinos:''' ''Even after everything I just told you?''\n{{#tag:tabber|\nPoetry is useless, anyway.=\n*'''Kassandra:''' ''Why would I care if you failed at being a poet. Poetry isn't useful.''\n*'''Lykinos:''' ''I may not be making any money as a poet, but it's still my passion in life.''\n*'''Kassandra:''' ''I see.''\n{{!}}-{{!}}\nI like you more when you're honest.=\n*'''Kassandra:''' ''Lykinos, I actually like you more for being honest with me.''\n*'''Lykinos:''' ''Really?''\n*'''Kassandra:''' ''Of course. I want to know the real you.''\n{{!}}-{{!}}\nYou're still cute.=\n*'''Kassandra:''' ''Poet or not, you're still charming.''\n*'''Lykinos:''' ''Glad you think so.''\n*'''Kassandra:''' ''Definitely.''\n}}\n*'''Lykinos:''' ''Kassandra, ever since I met you, it's as if the [[Aphrodite|weaver of wiles]] herself possessed me. I can hardly resist you.''\n{{#tag:tabber|\nFlirt - Then don't hold back.=\n*'''Kassandra:''' ''If Aphrodite's speaking, you should listen.''\nThe two kissed and spent the night together.\n{{!}}-{{!}}\nWe should take this slow.=\n*'''Kassandra:''' ''We've got time, Lykinos. Let's just enjoy the night.''\n*'''Lykinos:''' ''As long as you're around, I'll revel in your company.''\n}}\n|-|I am amazing.=\n*'''Kassandra:''' ''You've barely seen what I'm capable of. I've faced trials you wouldn't believe.''\n*'''Lykinos:''' ''Still, you saved my life, Kassandra. I'll never forget that.''\n*'''Kassandra:''' ''Well, I'm glad I did. This has been nice, Lykinos.''\n*'''Lykinos:''' ''It really has.''\n</tabber>",
+    "Section_Outcome": "Kassandra hunted two deer and recovered some venison. Lykinos cooked her dinner as a thank you for the help.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Brother's Seduction",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found Lykinos in his house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Lykinos:''' ''My dear Kassandra! Over here. Do you have a moment? I was hoping to have the chance to thank you for all you've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What did you have in mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Lykinos:''' ''Poet may be my day job, but there's more to me than that. I'm also a very talented cook. Allow me to make you a fabulous meal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "7",
+            "content": "(If players choose \"A meal sounds nice.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U3",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'd like that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Lykinos:''' ''Great! There's just one thing... I'll need a little help [[hunting]] down some ingredients. Literally.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''You're treating me, you said?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Lykinos:''' ''After all we've been through together, surely you can agree that I'm a lover, not a fighter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|You're not a lover yet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''A lover, huh? We'll see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Lykinos:''' ''I hope so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "|-|You're no fighter.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''For how many [[bandit]]s I've killed for you, it's pretty safe to say you're not a fighter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Lykinos:''' ''I have to compensate somehow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "20",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''What do you need me to hunt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Lykinos:''' ''This dish calls for [[Deer]]venison. Any of the beasts wandering nearby should do. Meet me at the cliffs near the [[Hypermnestra Camp]] once you find some.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "25",
+            "content": "Kassandra found some deer nearby and killed one.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''It's a start, but Lykinos will need more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "29",
+            "content": "She killed another.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''This should be plenty of meat for Lykinos's dinner.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "33",
+            "content": "She traveled to the cliff, and admired the view.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U10",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Beautiful view.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "36",
+            "content": "*'''Lykinos:''' ''It certainly is. Did you manage to hunt down our food?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Here's the meat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Lykinos:''' ''Perfect, I'll get started. Please, make yourself comfortable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "40",
+            "content": "After the meal, the two sat together as it got dark.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U12",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D20",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''That was delicious.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Lykinos:''' ''I told you I could cook. Was the food worth it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "44",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "45",
+            "content": "|-|The company was worth it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''The company was certainly worth it. I'm having a really nice time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "47",
+            "content": "*'''Lykinos:''' ''I can hardly believe someone like you wants to spend time with someone like me. I have truly been blessed by the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "48",
+            "content": "|-|The hunt was hardly a challenge.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''A few deer are no match for a mighty ''Misthios''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "50",
+            "content": "*'''Lykinos:''' ''I wish I had your skill... and confidence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "51",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U13",
+            "global_id": "52",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D26",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Fighter or not, I'm sure it takes a lot to be a renowned poet in Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "54",
+            "content": "*'''Lykinos:''' ''I, uh, may have exaggerated my accomplishments as a poet a bit earlier. The truth is... I'm not just home for a visit. I ran out of [[drachma]]e in [[Athens]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Why lie to your brother about this? Or... to me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "56",
+            "content": "*'''Lykinos:''' ''[[Timotheos]] has always been [[Diokles|my father]]'s son. In every way. They both fought for Athens. Both worked in the family business. Timotheos's path was never for me, so I left for Athens to strike out on my own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''You're afraid of what he'll think.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "58",
+            "content": "*'''Lykinos:''' ''He'll say it was irresponsible for me to leave in the first place. And he's right, I don't have any drachmae or means to earn it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "59",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "60",
+            "content": "|-|You shouldn't give up on being a poet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''If poetry really is your passion, then you should keep at it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Lykinos:''' ''If ''you'' really think so...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "63",
+            "content": "|-|You should become a cook.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''You're an amazing cook, Lykinos. If you're looking for a way to make a living, you should start there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "65",
+            "content": "*'''Lykinos:''' ''I guess everyone needs to eat. Besides, any skill that impresses you is worth pursuing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "66",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U14",
+            "global_id": "67",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D36",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''You never answered my question, though. Why lie to ''me'' about your career?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "69",
+            "content": "*'''Lykinos:''' ''Isn't it obvious? I didn't want to appear a failure to you. From the moment I met you, I knew you were amazing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "70",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "71",
+            "content": "|-|I'm just a mercenary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I'm just someone that's had to fight everyday of my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "73",
+            "content": "*'''Lykinos:''' ''Still, you saved my life, Kassandra. I'll never forget that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Well, I'm glad I did. This has been nice, Lykinos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "75",
+            "content": "*'''Lykinos:''' ''It really has.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "76",
+            "content": "|-|Flirt - You're amazing too.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''You might not see it yourself, but I think you're pretty amazing, too''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "78",
+            "content": "*'''Lykinos:''' ''Even after everything I just told you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "79",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "80",
+            "content": "Poetry is useless, anyway.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Why would I care if you failed at being a poet. Poetry isn't useful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "82",
+            "content": "*'''Lykinos:''' ''I may not be making any money as a poet, but it's still my passion in life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "84",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "85",
+            "content": "I like you more when you're honest.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Lykinos, I actually like you more for being honest with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "87",
+            "content": "*'''Lykinos:''' ''Really?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Of course. I want to know the real you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "89",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "90",
+            "content": "You're still cute.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''Poet or not, you're still charming.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "92",
+            "content": "*'''Lykinos:''' ''Glad you think so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''Definitely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "94",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D53",
+            "global_id": "95",
+            "content": "*'''Lykinos:''' ''Kassandra, ever since I met you, it's as if the [[Aphrodite|weaver of wiles]] herself possessed me. I can hardly resist you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "96",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "97",
+            "content": "Flirt - Then don't hold back.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''If Aphrodite's speaking, you should listen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "99",
+            "content": "The two kissed and spent the night together.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "100",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "101",
+            "content": "We should take this slow.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''We've got time, Lykinos. Let's just enjoy the night.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "103",
+            "content": "*'''Lykinos:''' ''As long as you're around, I'll revel in your company.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "104",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC14",
+            "global_id": "105",
+            "content": "|-|I am amazing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''You've barely seen what I'm capable of. I've faced trials you wouldn't believe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "107",
+            "content": "*'''Lykinos:''' ''Still, you saved my life, Kassandra. I'll never forget that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''Well, I'm glad I did. This has been nice, Lykinos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "109",
+            "content": "*'''Lykinos:''' ''It really has.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "110",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

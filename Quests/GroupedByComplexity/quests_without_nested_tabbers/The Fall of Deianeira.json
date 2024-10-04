@@ -1,0 +1,38 @@
+{
+    "Quest_Name": "The Fall of Deianeira",
+    "Quest_ID": "224307",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-Deianeiragrief.jpg",
+        "description": "'As one of the Champions of Boeotia, Deianeira was in Kassandra's way and had to be dealt with, but she was not to be taken lightly.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The End of Drakon<br />\nSibling Revenge {{C|Support Quest}}",
+        "next": "The Last Fight of Aristaios",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "427 BCE\u2013426 BCE"
+    },
+    "General_Description": "'''The Fall of Deianeira''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Under the orders of [[Stentor]], as well as part of her quest to demolish the [[Cult of Kosmos]], Kassandra found [[Deianeira]], one of the [[Champions of Boeotia]] in the [[Reborn Hills]] of [[Boeotia]].",
+    "Section_Dialogue": "After learning of Deianeira's location from [[Timon]], Kassandra made her way to the [[Cave of the Oracle]]. After navigating her way through the caverns, she found Deianeira in one of the chambers, eliminating her.",
+    "Section_Outcome": "Kassandra eliminated Deianeira, one of the Champions of Boeotia and a member of the [[Cult of Kosmos]].",
+    "Section_Trivia": "*If the quest [[Sibling Revenge]] is finished, Deianeira can be found within her dwelling in the depths of the [[Cave of the Oracle]] in Reborn Hills, mourning the death of [[Astra]], her cousin. Otherwise, Deianeira can be found wandering the hills.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La fin de Deianeira]]",
+    "Chapter_SequenceID": "16.",
+    "Chapter_Name": "Paint It Red",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After learning of Deianeira's location from [[Timon]], Kassandra made her way to the [[Cave of the Oracle]]. After navigating her way through the caverns, she found Deianeira in one of the chambers, eliminating her.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

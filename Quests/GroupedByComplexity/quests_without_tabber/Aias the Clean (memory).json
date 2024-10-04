@@ -1,0 +1,54 @@
+{
+    "Quest_Name": "Aias the Clean (memory)",
+    "Quest_ID": "226385",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Aias the Clean | mercenary]]"
+        },
+        "Tag_Imageneed": {
+            "description": "Assassin's Creed: Odyssey \u2014 [[Legacy of the First Blade]]"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Despite his brutish look, Aias the Clean|this mercenary favored strategy over force. He wisely opted to strategize with the 'polemarch' in Olouros Fortress instead of facing the Kassandra|Eagle Bearer without a plan.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Main",
+        "previous": "Hirpes the Sordid (memory)|Hirpes the Sordid",
+        "next": "Kephalon the Thinker (memory)|Kephalon the Thinker",
+        "source": "Kassandra",
+        "location": "Achaia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Aias the Clean''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra tracked down [[Aias the Clean]], one of the [[mercenaries]] sent by the [[Phila|Tempest]] to eliminate her.",
+    "Section_Dialogue": "Kassandra found Aias the Clean in the [[Olouros Fortress]].\n*'''Kassandra:''' ''He's over there.''\nKassandra infiltrated fort and eliminated the mercenary.",
+    "Section_Outcome": "Kassandra found and eliminated mercenary Aias the Clean.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found Aias the Clean in the [[Olouros Fortress]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''He's over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra infiltrated fort and eliminated the mercenary.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

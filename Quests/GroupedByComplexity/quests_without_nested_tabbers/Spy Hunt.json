@@ -1,0 +1,124 @@
+{
+    "Quest_Name": "Spy Hunt",
+    "Quest_ID": "236252",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Spy Hunt",
+        "description": "'Some hunters in the wilderness were disinterested in the Peloponnesian War|war, thinking it a matter of the city-states until spies and scouts invaded their hunting grounds.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Spy Hunt''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Spies were stalking through the fields of a huntress, who decided to get rid of them.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Spies are creeping though my fields. Work for [[Mercenary|mercenaries]] willing to get their hands dirty.''\nShe sought out the huntress and addressed her.\n*'''Kassandra:''' ''I've been looking for you... I saw your message. What's happened?''\n*'''Woman:''' ''Spies from the city have been creeping through the fields and delivering supplies. I think they're planning where to set up camp.''\n*'''Kassandra:''' ''The [[Peloponnesian War|war]]'s not to your liking?''\n*'''Woman:''' ''When is there not war? In the city they care for war. I just want to eat. There's plenty of places they can fight without trampling my hunting grounds. I need to see those supply-running spies.''\n*'''Kassandra:''' ''You need me to destroy the military supplies?''\n*'''Woman:''' ''I knew I asked the right person.''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Woman:''' ''Good. Get it done soon.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left the woman and did as she'd asked before returning to her.\n(Missing dialogue.)",
+    "Section_Outcome": "Kassandra aided a huntress, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Spies are creeping though my fields. Work for [[Mercenary|mercenaries]] willing to get their hands dirty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the huntress and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I've been looking for you... I saw your message. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''Spies from the city have been creeping through the fields and delivering supplies. I think they're planning where to set up camp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''The [[Peloponnesian War|war]]'s not to your liking?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''When is there not war? In the city they care for war. I just want to eat. There's plenty of places they can fight without trampling my hunting grounds. I need to see those supply-running spies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''You need me to destroy the military supplies?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''I knew I asked the right person.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - I'll destroy them.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm the one for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''Good. Get it done soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra left the woman and did as she'd asked before returning to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O2",
+            "global_id": "15",
+            "content": "(Missing dialogue.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

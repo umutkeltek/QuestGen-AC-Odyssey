@@ -1,0 +1,865 @@
+{
+    "Quest_Name": "Theatrics and Espionage",
+    "Quest_ID": "226373",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Theatrics and Espionage Memory Screenshot 06.png",
+        "description": "'The Phila|Tempest's Gyras|Chief Engineer, who is said to be the best naval engineer in the Greece|Greek world, tasked Kassandra to retrieve something that could turn the tides in their favour.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Main, Support",
+        "previous": "Persian Puppetry",
+        "next": "Prodigal",
+        "source": "Kassandra",
+        "location": "Achaia, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Theatrics and Espionage''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "On [[Darius]]' suggestion, Kassandra looked for the [[Gyras|engineer]] responsible for creating the [[Chimera's Breath]].",
+    "Section_Dialogue": "Kassandra travelled to Darius' makeshift [[Patrai hideout|hideout]] in the hull of an unfinished [[ship]] in [[Patrai]]. He tinkered with his [[Hidden Blade]] as she approached.\n*'''Kassandra:''' ''Getting ready for something?''\n*'''Darius:''' ''Good, you're finally here.''\n*'''Kassandra:''' ''You mentioned something big is about to happen in [[Achaia]].''\n*'''Darius:''' ''I've heard that the [[Phila|Tempest]]'s [[Gyras|chief engineer]] is developing a [[Chimera's Breath|new weapon]].''\n<tabber>\n|-|Met with Natakas first=\n*'''Kassandra:''' ''[[Natakas]] and I saw her try the weapon at the docks. It's not working yet, but it'll be a problem when it does.''\n|-|Darius first=\n*'''Kassandra:''' ''A new weapon. That can't be good for us.''\n</tabber>\n\n*'''Darius:''' ''He's trying to flee Achaia.''\n*'''Kassandra:''' ''If he does want to escape, maybe we can convince him to help us defeat the Tempest.''\n*'''Darius:''' ''He's attending the [[shipbuilding symposium]] at the [[Patrai amphitheater|amphitheater]] here in Achaia.''\n(Accept \u2013 \"I'll go to the symposium.\")\n*'''Kassandra:''' ''I can head over to the amphitheater now.''\n*'''Darius:''' ''There seems to be a discussion about a plan\u2014a secret weapon for the Tempest. The chief engineer should have more information about it.''\n*'''Kassandra:''' ''Sounds easy enough.''\n*'''Darius:''' ''They answer to the code word \"I am [[Poseidon]]'s Chosen.\"''\nKassandra laughed.\n*'''Kassandra:''' ''Sure.''\n*'''Darius:''' ''The chief engineer is amongst the attendees, seek him out.''\n(If players asked \"What's with that blade?\")\n*'''Kassandra:''' ''That blade means a lot to you. Where does it come from?''\nShe eyed his Hidden Blade closely as she spoke.\n*'''Darius:''' ''I forged it myself. But it's more than a blade to me. It's a choice.''\n*'''Kassandra:''' ''It takes skill to get so close to a target...''\n*'''Darius:''' ''That's the point.''\n(If players asked \"What do you know about the Tempest?\")\n*'''Kassandra:''' ''What do you know about the Tempest? She must have been planted by [[Amorges]].''\n*'''Darius:''' ''I'm not familiar with the Tempest, but I wouldn't put anything past Amorges. He's only ever had one thing on his mind. Lasting prosperity for [[Iran|Persia]].''\n*'''Kassandra:''' ''No matter the price.''\n(If players asked \"Why get involved in all of this?\")\n*'''Kassandra:''' ''What convinced you to help the stranded people, Darius?''\n*'''Darius:''' ''Natakas' heart is in the right place, and I want to... encourage that. But the moment we're done, we're leaving the [[Greece|Greek world]] for good.''\n(Leave \u2013 \"I'll go find the chief engineer.\")\n*'''Kassandra:''' ''I'll head to the amphitheater now and find the chief engineer.''\n\nKassandra headed to the amphitheater. Along the way, she thought about what Darius had said.\n*'''Kassandra:''' ''The chief engineer is here, but I don't know exactly who it is... Should be easy enough. The code word is \"I am Poseidon's Chosen.\"''\nShe snorted in laughter once again at the code word.\n\nKassandra arrived at the amphitheater, where a [[Parmys|woman]] was giving a speech from atop a showboat on display at the base of the amphitheater.\n*'''Kassandra:''' ''This looks like the place Darius mentioned.''\n*'''Parmys:''' ''My friends, we have come a long way. I do not speak of the paths you have all traveled to be here, though I thank you for coming.<br />I speak of the noble history of Greek shipbuilding. In this wonderful historic amphitheater set within prosperous Achaia, I think it appropriate to reflect upon that ancient duty of which, with all modesty, we have become masters.<br />It is we, the Greeks, who took the world from the humble ''monoxylon'' to the ''papyrella'', through the [[penteconter]] and [[bireme]], and finally to the unconquerable [[trireme]]. We have plied the graces of patient Poseidon as the oceans slowly relinquished their secrets. And now the entire Greek world enjoys the benefits of our toil.<br />Admittedly, we have been less successful in that respect with [[Zeus]] and [[Ares]]. So where do we go from here? Where ''can'' we go from here? Can we improve upon the mighty trireme, that conqueror of the tides?<br />I say to you, yes!<br />It would be a brave soul who limits the scope of Greek innovation. Could we not one day bear witness to the construction of vessels rivaling those of the gods? Imagine the magnificence of the ships not 130 feet long, but 400! Carrying not 200, but 2000! With not three rows of oars, but 20! And broad decks bearing catapults with which to vanquish enemies from afar!<br />Why stop there? For the nobles, [[gymnasium]]s and gardens! All crowned with a temple to beloved [[Aphrodite]]! Imagine such worlds on the water.<br />What would it take to build them? Who could do it? Come now brethren! I say to you, our gods-given Greek genius has never known human limitation. Our own [[Pythagoras]] discovered the secrets of angles, did he not? Another like him will rise to achieve these glorious constructions. Imagine a child of Pythagoras! What wonders might that child perform, as it would sit upon its father's shoulders?''\nKassandra muttered to herself at the mention of Pythagoras.\n*'''Kassandra:''' Ma-l\u00e1-ka!'' I'll bet he couldn't calculate the chances of that.''\nAbove her, the woman continued her speech.\n*'''Parmys:''' ''In the light of such exalted heritage, I say to you, it is not a question of \"if\" we do it, but of \"when\"!<br />Welcome, then, to the Achaia shipbuilding symposium, and to the glorious future of Greek shipbuilding! This brand new innovation is called an oar lock.<br />As you can see, it holds the oar in place and prevents it from sliding around. Notice how it affords unrestricted movement without inducing undue wear on the ear or on the rail. It's already improved the effectiveness of those vessels to which it has been applied.<br />Captains report greater speeds from their crews, who are able to row harder and longer. Which is something, I venture, that would gain the approval even of Aphrodite herself. But what about sails? We already use the best linen available. Our ropes and pulleys are the finest ever made. In fact, they recently discovered that by \"squeezing down\" one side of the sail, the amount of wind captured can be increased. That means more speed, especially in critical moments of battle. Of course, these techniques will never replace a crew of strong [[Slavery|slaves]]. But they are useful nonetheless.''\n\n(Chose the leftmost spectator)\nKassandra approached the woman.\n*'''Kassandra:''' ''I am Poseidon's Chosen.''\n*'''Civilian:''' ''Right, and I'm [[Hera]]'s Harlot.''\n*'''Kassandra:''' ''What?''\n*'''Civilian:''' ''What do you mean, what? Go away, I'm trying to pay attention here.''\n(Chose the rightmost spectator)\nKassandra approached the man.\n*'''Kassandra:''' ''I am Poseidon's Chosen.''\n*'''Civilian:''' ''Oh, OK. What did he choose you for?''\n*'''Kassandra:''' ''To... speak to you?''\n*'''Civilian:''' ''I\u2014um. Please leave me alone.''\n(Chose the one in the middle)\nKassandra sat down next to a spectator, wearing finery and a silver bangle that could only be afforded by a wealthy craftsman, who clapped for the speaker.\n<tabber>\n|-|Spoke to engineer first=\n*'''Kassandra:''' ''I am Poseidon's Chosen.''\nThe spectator sat in silence, then responded.\n*'''Gyras:''' ''Who sent you?''\n|-|Spoke to another spectator first= \n*'''Kassandra:''' ''I am Poseidon's\u2014''\n*'''Gyras:''' ''Idiot.''\n*'''Kassandra:''' ''What?''\n*'''Gyras:''' ''You're not his Chosen, you're his idiot. I could hear you from here pestering people. Who told you about me?''\n</tabber>\n\n<tabber>\n|-|A friend sent me.=\n*'''Kassandra:''' ''A friend of mine has been asking around about you. We heard you want to flee Achaia, and we can help with that.''\n*'''Gyras:''' ''Such freely offered help often comes with a hidden cost.''\n*'''Kassandra:''' ''Not this time, I promise.''\n|-|Lie \u2013 The gods sent me.=\n*'''Kassandra:''' ''Lucky for you, the gods have sent me to solve your problems. I heard you wish to flee Achaia.''\n*'''Gyras:''' ''I don't know about gods, but your spies seem fairly well informed.''\n*'''Kassandra:''' ''Yes, fairly.''\n</tabber>\n*'''Gyras:''' ''Well... if the Tempest had sent you, I'd be dead by now.''\nElsewhere, a [[Megakreon|man]] stood near the amphitheater, eavesdropping on their conversation.\n*'''Kassandra:''' ''I need a way to defeat her. Like this weapon I've heard about.''\nThe man walked away.\n*'''Gyras:''' ''The Chimera's Breath. My greatest creation, but also my greatest regret. I left before they could force me to complete it. Without my finishing touches, it will never work as intended.''\n(If players asked \"What is the Chimera's Breath, exactly?\")\n*'''Kassandra:''' ''Tell me more about this secret weapon. What does it do?''\n*'''Gyras:''' ''It's meant to engulf enemy ships in a torrent of flames. And it works extremely well. Installation is the tricky part though. If done incorrectly, it backfires. Horribly.''\n(If players asked \"What do you know about the Tempest?\")\n*'''Kassandra:''' ''You worked with the Tempest. What can you tell me about her?''\n*'''Gyras:''' ''She's a ruthless, emotionless creature. But the scariest part about her is her strategic brilliance. You'd be hard pressed to find a more perfect commander.''\n(If players asked \"How do you plan to leave?\")\n*'''Kassandra:''' ''You said you want out of Achaia. Do you have a plan?''\n*'''Gyras:''' ''The only way out is through the Tempest. Trust me, I've exhausted every other option I can think of.''\nThe engineer looked up at the speaker on the showboat.\n*'''Gyras:''' ''That's my wife up there, and now I've put her life at risk, too.''\n(If players chose \"Defying the Tempest is risky.\")\n*'''Kassandra:''' ''You're taking a big risk by sharing your secrets with me.''\nThe man paused, then smirked before turning back to Kassandra.\n*'''Gyras:''' ''No, I'm ''betting'' on you to destroy the Tempest for me. Get your hands on the plans, and I can install the Chimera's Breath on your [[Adrestia|ship]]. With it, you can destroy her entire fleet. I must do something to right this wrong.''\n<tabber>\n|-|My ship is already unstoppable.=\n*'''Kassandra:''' ''The ''Adrestia'' is one of the best ships there ever was. It doesn't need extra weaponry.''\n*'''Gyras:''' ''Against the Tempest? You'll need to be as prepared as possible.''\n|-|I could use the help.=\n*'''Kassandra:''' ''If the Chimera's Breath is as powerful as you say it is, it would be helpful.''\n*'''Gyras:''' ''Once I'm done with your ship, it will crush the [[Skylla (ship)|Skylla]].''\n</tabber>\n\n*'''Kassandra:''' ''So how do I get the plans?''\n*'''Gyras:''' ''The Tempest's fleet commander has them. He's manning the naval blockade. While you're gone, I'll get to work. The plans are written in a code that only I can read, so even when we have them, it'll take some time.''\n*'''Kassandra:''' ''I'll meet you back here when I'm done.''\nThe man walked away. Darius sat on the stands behind Kassandra, having overheard everything.\n*'''Darius:''' ''Good. I was wondering how we would clear the blockade.''\nKassandra turned around.\n*'''Kassandra:''' ''I'll take care of\u2014''\nHowever, Darius had vanished once again in his trademark fashion. Kassandra rolled her eyes at his exit.\n\nKassandra travelled to the [[Temple of Artemis Laphria]], where the fleet commander was located. She killed the commander and his [[guard]]s, looting the plans from the former's body.\n*'''Kassandra:''' ''The weapon plans for the Chimera's Breath. Time to head back to the amphitheater.''\nKassandra returned to the amphitheater, only to find the engineer lying on the ground, dead.\n*'''Kassandra:''' ''No!<br /> No. They must have found the engineer.<br /> Only he could decipher the weapon plans.''\nKassandra inspected his body. A man arrived with his guards.\n*'''Megakreon:''' ''Look, boys!<br />First the runaway engineer and now the Eagle Bearer. Aren't we lucky?''\nDarius arrived, assassinating one of the guards from behind.\n*'''Darius:''' ''\"Lucky\" isn' the word I'd use.''\n*'''Kassandra:''' ''Oh, look who decided to show up just in time.''\n*'''Megakreon:''' ''Kill them! Kill them both!''\nKassandra and Darius killed Megakreon and his guards. The engineer's wife came over and mourned his death. Kassandra turned to Darius.\n*'''Darius:''' ''The Tempest is more shrewd and careful than we expected.''\n*'''Kassandra:''' ''We should warn the others. They might be in danger, too. I'll have [[Barnabas]] take a look at the plans. In any case, we shouldn't linger here.''\n*'''Darius:''' ''Back to the shadows then.''",
+    "Section_Outcome": "Kassandra met with the engineer responsible for the weapon, who tasked Kassandra to recover the weapon's plans. However, he was murdered by Megakreon who discovered his treachery. Kassandra and Darius were able to gain revenge and eliminate him.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to Darius' makeshift [[Patrai hideout|hideout]] in the hull of an unfinished [[ship]] in [[Patrai]]. He tinkered with his [[Hidden Blade]] as she approached.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Getting ready for something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Darius:''' ''Good, you're finally here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You mentioned something big is about to happen in [[Achaia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Darius:''' ''I've heard that the [[Phila|Tempest]]'s [[Gyras|chief engineer]] is developing a [[Chimera's Breath|new weapon]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|Met with Natakas first=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''[[Natakas]] and I saw her try the weapon at the docks. It's not working yet, but it'll be a problem when it does.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Darius first=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''A new weapon. That can't be good for us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U1",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Darius:''' ''He's trying to flee Achaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''If he does want to escape, maybe we can convince him to help us defeat the Tempest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Darius:''' ''He's attending the [[shipbuilding symposium]] at the [[Patrai amphitheater|amphitheater]] here in Achaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "16",
+            "content": "(Accept \u2013 \"I'll go to the symposium.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I can head over to the amphitheater now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Darius:''' ''There seems to be a discussion about a plan\u2014a secret weapon for the Tempest. The chief engineer should have more information about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Sounds easy enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Darius:''' ''They answer to the code word \"I am [[Poseidon]]'s Chosen.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "21",
+            "content": "Kassandra laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Sure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Darius:''' ''The chief engineer is amongst the attendees, seek him out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If players asked \"What's with that blade?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''That blade means a lot to you. Where does it come from?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "26",
+            "content": "She eyed his Hidden Blade closely as she spoke.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Darius:''' ''I forged it myself. But it's more than a blade to me. It's a choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''It takes skill to get so close to a target...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Darius:''' ''That's the point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "30",
+            "content": "(If players asked \"What do you know about the Tempest?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''What do you know about the Tempest? She must have been planted by [[Amorges]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Darius:''' ''I'm not familiar with the Tempest, but I wouldn't put anything past Amorges. He's only ever had one thing on his mind. Lasting prosperity for [[Iran|Persia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''No matter the price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "34",
+            "content": "(If players asked \"Why get involved in all of this?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''What convinced you to help the stranded people, Darius?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Darius:''' ''Natakas' heart is in the right place, and I want to... encourage that. But the moment we're done, we're leaving the [[Greece|Greek world]] for good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "37",
+            "content": "(Leave \u2013 \"I'll go find the chief engineer.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll head to the amphitheater now and find the chief engineer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "40",
+            "content": "Kassandra headed to the amphitheater. Along the way, she thought about what Darius had said.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''The chief engineer is here, but I don't know exactly who it is... Should be easy enough. The code word is \"I am Poseidon's Chosen.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "42",
+            "content": "She snorted in laughter once again at the code word.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "44",
+            "content": "Kassandra arrived at the amphitheater, where a [[Parmys|woman]] was giving a speech from atop a showboat on display at the base of the amphitheater.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''This looks like the place Darius mentioned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Parmys:''' ''My friends, we have come a long way. I do not speak of the paths you have all traveled to be here, though I thank you for coming.<br />I speak of the noble history of Greek shipbuilding. In this wonderful historic amphitheater set within prosperous Achaia, I think it appropriate to reflect upon that ancient duty of which, with all modesty, we have become masters.<br />It is we, the Greeks, who took the world from the humble ''monoxylon'' to the ''papyrella'', through the [[penteconter]] and [[bireme]], and finally to the unconquerable [[trireme]]. We have plied the graces of patient Poseidon as the oceans slowly relinquished their secrets. And now the entire Greek world enjoys the benefits of our toil.<br />Admittedly, we have been less successful in that respect with [[Zeus]] and [[Ares]]. So where do we go from here? Where ''can'' we go from here? Can we improve upon the mighty trireme, that conqueror of the tides?<br />I say to you, yes!<br />It would be a brave soul who limits the scope of Greek innovation. Could we not one day bear witness to the construction of vessels rivaling those of the gods? Imagine the magnificence of the ships not 130 feet long, but 400! Carrying not 200, but 2000! With not three rows of oars, but 20! And broad decks bearing catapults with which to vanquish enemies from afar!<br />Why stop there? For the nobles, [[gymnasium]]s and gardens! All crowned with a temple to beloved [[Aphrodite]]! Imagine such worlds on the water.<br />What would it take to build them? Who could do it? Come now brethren! I say to you, our gods-given Greek genius has never known human limitation. Our own [[Pythagoras]] discovered the secrets of angles, did he not? Another like him will rise to achieve these glorious constructions. Imagine a child of Pythagoras! What wonders might that child perform, as it would sit upon its father's shoulders?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "47",
+            "content": "Kassandra muttered to herself at the mention of Pythagoras.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' Ma-l\u00e1-ka!'' I'll bet he couldn't calculate the chances of that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "49",
+            "content": "Above her, the woman continued her speech.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Parmys:''' ''In the light of such exalted heritage, I say to you, it is not a question of \"if\" we do it, but of \"when\"!<br />Welcome, then, to the Achaia shipbuilding symposium, and to the glorious future of Greek shipbuilding! This brand new innovation is called an oar lock.<br />As you can see, it holds the oar in place and prevents it from sliding around. Notice how it affords unrestricted movement without inducing undue wear on the ear or on the rail. It's already improved the effectiveness of those vessels to which it has been applied.<br />Captains report greater speeds from their crews, who are able to row harder and longer. Which is something, I venture, that would gain the approval even of Aphrodite herself. But what about sails? We already use the best linen available. Our ropes and pulleys are the finest ever made. In fact, they recently discovered that by \"squeezing down\" one side of the sail, the amount of wind captured can be increased. That means more speed, especially in critical moments of battle. Of course, these techniques will never replace a crew of strong [[Slavery|slaves]]. But they are useful nonetheless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "52",
+            "content": "(Chose the leftmost spectator)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N9",
+            "global_id": "53",
+            "content": "Kassandra approached the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I am Poseidon's Chosen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "55",
+            "content": "*'''Civilian:''' ''Right, and I'm [[Hera]]'s Harlot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "57",
+            "content": "*'''Civilian:''' ''What do you mean, what? Go away, I'm trying to pay attention here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "58",
+            "content": "(Chose the rightmost spectator)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N10",
+            "global_id": "59",
+            "content": "Kassandra approached the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I am Poseidon's Chosen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "61",
+            "content": "*'''Civilian:''' ''Oh, OK. What did he choose you for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''To... speak to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "63",
+            "content": "*'''Civilian:''' ''I\u2014um. Please leave me alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O5",
+            "global_id": "64",
+            "content": "(Chose the one in the middle)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N11",
+            "global_id": "65",
+            "content": "Kassandra sat down next to a spectator, wearing finery and a silver bangle that could only be afforded by a wealthy craftsman, who clapped for the speaker.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "66",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "67",
+            "content": "|-|Spoke to engineer first=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''I am Poseidon's Chosen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "69",
+            "content": "The spectator sat in silence, then responded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "70",
+            "content": "*'''Gyras:''' ''Who sent you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "71",
+            "content": "|-|Spoke to another spectator first=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I am Poseidon's\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "73",
+            "content": "*'''Gyras:''' ''Idiot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "75",
+            "content": "*'''Gyras:''' ''You're not his Chosen, you're his idiot. I could hear you from here pestering people. Who told you about me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "76",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U5",
+            "global_id": "77",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "78",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "79",
+            "content": "|-|A friend sent me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''A friend of mine has been asking around about you. We heard you want to flee Achaia, and we can help with that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "81",
+            "content": "*'''Gyras:''' ''Such freely offered help often comes with a hidden cost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''Not this time, I promise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "83",
+            "content": "|-|Lie \u2013 The gods sent me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Lucky for you, the gods have sent me to solve your problems. I heard you wish to flee Achaia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "85",
+            "content": "*'''Gyras:''' ''I don't know about gods, but your spies seem fairly well informed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Yes, fairly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "87",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D51",
+            "global_id": "88",
+            "content": "*'''Gyras:''' ''Well... if the Tempest had sent you, I'd be dead by now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "89",
+            "content": "Elsewhere, a [[Megakreon|man]] stood near the amphitheater, eavesdropping on their conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''I need a way to defeat her. Like this weapon I've heard about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "91",
+            "content": "The man walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "92",
+            "content": "*'''Gyras:''' ''The Chimera's Breath. My greatest creation, but also my greatest regret. I left before they could force me to complete it. Without my finishing touches, it will never work as intended.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "93",
+            "content": "(If players asked \"What is the Chimera's Breath, exactly?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D54",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Tell me more about this secret weapon. What does it do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "95",
+            "content": "*'''Gyras:''' ''It's meant to engulf enemy ships in a torrent of flames. And it works extremely well. Installation is the tricky part though. If done incorrectly, it backfires. Horribly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "96",
+            "content": "(If players asked \"What do you know about the Tempest?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D56",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''You worked with the Tempest. What can you tell me about her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "98",
+            "content": "*'''Gyras:''' ''She's a ruthless, emotionless creature. But the scariest part about her is her strategic brilliance. You'd be hard pressed to find a more perfect commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "99",
+            "content": "(If players asked \"How do you plan to leave?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D58",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''You said you want out of Achaia. Do you have a plan?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "101",
+            "content": "*'''Gyras:''' ''The only way out is through the Tempest. Trust me, I've exhausted every other option I can think of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "102",
+            "content": "The engineer looked up at the speaker on the showboat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "103",
+            "content": "*'''Gyras:''' ''That's my wife up there, and now I've put her life at risk, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "104",
+            "content": "(If players chose \"Defying the Tempest is risky.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D61",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''You're taking a big risk by sharing your secrets with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "106",
+            "content": "The man paused, then smirked before turning back to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "107",
+            "content": "*'''Gyras:''' ''No, I'm ''betting'' on you to destroy the Tempest for me. Get your hands on the plans, and I can install the Chimera's Breath on your [[Adrestia|ship]]. With it, you can destroy her entire fleet. I must do something to right this wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "108",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "109",
+            "content": "|-|My ship is already unstoppable.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D63",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''The ''Adrestia'' is one of the best ships there ever was. It doesn't need extra weaponry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "111",
+            "content": "*'''Gyras:''' ''Against the Tempest? You'll need to be as prepared as possible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "112",
+            "content": "|-|I could use the help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''If the Chimera's Breath is as powerful as you say it is, it would be helpful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "114",
+            "content": "*'''Gyras:''' ''Once I'm done with your ship, it will crush the [[Skylla (ship)|Skylla]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "115",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U6",
+            "global_id": "116",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D67",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''So how do I get the plans?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "118",
+            "content": "*'''Gyras:''' ''The Tempest's fleet commander has them. He's manning the naval blockade. While you're gone, I'll get to work. The plans are written in a code that only I can read, so even when we have them, it'll take some time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''I'll meet you back here when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "120",
+            "content": "The man walked away. Darius sat on the stands behind Kassandra, having overheard everything.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "121",
+            "content": "*'''Darius:''' ''Good. I was wondering how we would clear the blockade.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "122",
+            "content": "Kassandra turned around.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D71",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''I'll take care of\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "124",
+            "content": "However, Darius had vanished once again in his trademark fashion. Kassandra rolled her eyes at his exit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "125",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N20",
+            "global_id": "126",
+            "content": "Kassandra travelled to the [[Temple of Artemis Laphria]], where the fleet commander was located. She killed the commander and his [[guard]]s, looting the plans from the former's body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "127",
+            "content": "*'''Kassandra:''' ''The weapon plans for the Chimera's Breath. Time to head back to the amphitheater.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "128",
+            "content": "Kassandra returned to the amphitheater, only to find the engineer lying on the ground, dead.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "129",
+            "content": "*'''Kassandra:''' ''No!<br /> No. They must have found the engineer.<br /> Only he could decipher the weapon plans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "130",
+            "content": "Kassandra inspected his body. A man arrived with his guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D74",
+            "global_id": "131",
+            "content": "*'''Megakreon:''' ''Look, boys!<br />First the runaway engineer and now the Eagle Bearer. Aren't we lucky?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "132",
+            "content": "Darius arrived, assassinating one of the guards from behind.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D75",
+            "global_id": "133",
+            "content": "*'''Darius:''' ''\"Lucky\" isn' the word I'd use.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''Oh, look who decided to show up just in time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "135",
+            "content": "*'''Megakreon:''' ''Kill them! Kill them both!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "136",
+            "content": "Kassandra and Darius killed Megakreon and his guards. The engineer's wife came over and mourned his death. Kassandra turned to Darius.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D78",
+            "global_id": "137",
+            "content": "*'''Darius:''' ''The Tempest is more shrewd and careful than we expected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "138",
+            "content": "*'''Kassandra:''' ''We should warn the others. They might be in danger, too. I'll have [[Barnabas]] take a look at the plans. In any case, we shouldn't linger here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "139",
+            "content": "*'''Darius:''' ''Back to the shadows then.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

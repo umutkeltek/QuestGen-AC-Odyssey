@@ -1,0 +1,99 @@
+{
+    "Quest_Name": "Trials of the Keeper",
+    "Quest_ID": "230817",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'If Kassandra wanted to fulfill her role as Keeper, she had quite the job ahead of her. The Key to controlling the Staff of Hermes Trismegistus|Staff would lie in simulations created by Aletheia. Kassandra just had to step inside.'",
+        "appearance": "'Assassin's Creed: Odyssey' - 'The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "previous": "The Isu Beckon",
+        "next": "Welcome to Elysium\nA Growing Perception",
+        "source": "Kassandra",
+        "location": "Gateway to the Lost City, Thera, Greece<br>\nHeart of Elysium, Elysium",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Trials of the Keeper''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra walked into the first portal created by [[Aletheia]], not knowing what awaited her within.",
+    "Section_Dialogue": "Kassandra approached the first portal.\n*'''Kassandra:''' ''No going back now. I have to trust her.''\nKassandra entered the portal.<br />\nHaving landed in [[Elysium]], Kassandra surveyed her surroundings.\n*'''Kassandra:''' ''Aletheia needs to work on that landing.''\nA [[Ros|dog]] approached Kassandra and began licking her face.\n*'''Kassandra:''' ''Eugh!''\nThe dog left, leading Kassandra to a squadron of frozen Isu soldiers guarding a regally-dressed Isu [[Persephone|woman]] with violet eyes.\n*'''Persephone:''' ''You don't belong here.''\nPersephone snapped her fingers, awakening the soldiers and sending them to attack Kassandra.\n*'''Kassandra:''' ''Oh, shit.''",
+    "Section_Outcome": "Upon entering Elysium, Kassandra was accosted by a squadron of Isu soldiers controlled by Persephone.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' - ''[[The Fate of Atlantis: Fields of Elysium]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the first portal.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''No going back now. I have to trust her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra entered the portal.<br />",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "4",
+            "content": "Having landed in [[Elysium]], Kassandra surveyed her surroundings.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Aletheia needs to work on that landing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "6",
+            "content": "A [[Ros|dog]] approached Kassandra and began licking her face.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Eugh!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "8",
+            "content": "The dog left, leading Kassandra to a squadron of frozen Isu soldiers guarding a regally-dressed Isu [[Persephone|woman]] with violet eyes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Persephone:''' ''You don't belong here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "10",
+            "content": "Persephone snapped her fingers, awakening the soldiers and sending them to attack Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Oh, shit.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

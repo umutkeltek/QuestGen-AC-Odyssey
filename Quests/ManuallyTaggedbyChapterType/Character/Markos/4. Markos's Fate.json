@@ -1,0 +1,40 @@
+{
+    "QuestName": "Markos's Fate",
+    "QuestID": "223970",
+    "Revision": {
+        "id": "1047471",
+        "parentid": "965428",
+        "timestamp": "2023-06-13T19:11:20Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047471",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "e1ch7yx60oug7l2fq2depq3ifuip04u"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'In his grand finale, Markos needed Kassandra more than ever\u2014the vengeful Cerberus brothers were at his door. As Markos begged for protection, Kassandra realized it might be too little, too late.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Markos}}",
+        "previous": "Farm in Flames",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Kos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Markos's Fate''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In his grand finale, [[Markos]] needed Kassandra more than ever\u2014the vengeful Cerberus brothers were at his door. As Markos begged for protection, Kassandra realized it might be too little, too late.",
+    "Section_Dialogue": "Kassandra returned to Markos at the [[Aion Vineyard|vineyard]].\n*'''Kassandra:''' ''The Cerberus should stay away from you now.''\n*'''Markos:''' ''Er, well, maybe not after all. One of the farmers ran over. She was uh, not happy.''\n*'''Kassandra:''' ''Why?''\n*'''Markos:''' ''It seems I may have\u2014or, I did\u2014accidentally, of course... sent you to someone else's farm.''\n*'''Kassandra:''' ''It wasn't the Cerberus' farm.''\n*'''Markos:''' ''I could have sworn it belonged to the Cerberus! You have to believe me, my friend\u2014an honest mistake.''\n\n<tabber>\n|-|You should have made sure.=\n*'''Kassandra:''' ''How could you not know? You know the island. I thought you had a plan.''\n*'''Markos:''' ''His men are always hanging around that farm... Must have been that pretty farmer. A common misconception!''\n|-|You're an idiot, Markos.=\n*'''Kassandra:''' ''Mal\u00e1ka! Markos, sometimes I wonder how you walk around with a brain so small.''\n*'''Markos:''' ''You don't mean that! Come on, think of all the smart things I've done. Remember the [[Cyclops of Kephallonia|Cyclops]]' eye?''\n|-|I burned down an innocent's farm.=\n*'''Kassandra:''' ''I destroyed someone's farm. I ''knew'' something was off.''\n*'''Markos:''' ''I'll take on the debt and help them rebuild. Nothing else can go wrong!''\n</tabber>\n*'''Kassandra:''' ''Another mess.''\n*'''Markos:''' ''You've known me longer than anyone. If you can't forgive me, Kassandra, who can?''\n*'''Kassandra:''' ''Someone with more patience.''\n\n(Quest begins here if silos were burned down prior to [[Farm in Flames]]'')''\n\n*'''Markos:''' ''Are you going to make me beg? Because I'll beg. Spare me from the Cerberus!''\nMarkos proceeded to kneel down.\n*'''Kassandra:''' ''Markos...''\n*'''Markos:''' ''Have I led you down the wrong path? A few times, yes. Many times, maybe. But this is it for me, my friend!''\n\n<tabber>\n|-|I don't want you to get hurt.=\n*'''Kassandra:''' ''I can't keep you safe if you keep getting into trouble, Markos.''\n|-|I've done enough for you.=\n*'''Kassandra:''' ''What happened to \"everybody benefits\"!? I've never benefited from helping you.''\n</tabber>\nMarkos slowly stood up.\n*'''Markos:''' ''Think back to that sunny day when I found you, Kassandra. That was your day of need, and Markos came to the rescue! Come to my rescue today.''\n*'''Kassandra:''' ''I've paid you back plenty.''\n*'''Markos:''' ''That I can't deny. But the Cerberus will come with its dogs and its devotees, and I'll be finished! Protect me, and we'll come out on top.''\n*'''Kassandra:''' ''There's that \"we\" again...''\n*'''Markos:''' ''I'll tell you what. You protect me, and you get Mama's beloved battle axe! She used to be quite the fighter, believe it or not.''\n\n<tabber>\n|-|Accept \u2013 I'll protect you.=\n*'''Kassandra:''' ''All right. Let's keep you alive.''\n*'''Markos:''' ''Oh, I've never heard words more sweet! You'll never get rid of me now.''\n*'''Kassandra:''' ''That's why I do what I do.''\n*'''Markos:''' ''And just in time. I hear them approaching!''\nCerberus' thugs approached the farm.\n*'''Markos:''' ''All right, Markos, this is it. The grand finale!''\nKassandra defeated the thugs.\n*'''Markos:''' ''We did it, my friend! I'd say I was invincible, but I don't want to jinx myself.''\n*'''Kassandra:''' ''Yes, that's why you're alive.''\n*'''Markos:''' ''I joke, I joke. I owe you everything, Kassandra! For this, you get a lifetime supply of wine, and my friendship. Lucky you! Oh, and Mama's axe. Life will now be simple. All thanks to you. It's always thanks to you!''\n*'''Kassandra:''' ''A less dramatic life is just what you need, Markos.''\n*'''Markos:''' ''Go now, and adventure. Come back anytime for that cup of wine!''\n*'''Kassandra:''' ''Right... We'll see about that.''\n\n|-|Not this time.=\n*'''Kassandra:''' ''I'm done, Markos. I've stuck my neck out for you more times than I can count.''\n*'''Markos:''' ''I have to do this all on my lonesome?''\n*'''Kassandra:''' ''Good luck. ''Chaire'', Markos.''\n*'''Markos:''' ''You're really leaving? Ay! I have to hide!''\n</tabber>",
+    "Section_Outcome": "Kassandra learned that the farm silos she burned down belonged to an innocent farmer. She was left to decide Markos' fate for his actions against the Cerberus brothers.",
+    "Section_Behind_the_scenes": "If Kassandra decides to fight the Cerberus brothers, they can be knocked out and recruited as lieutenants for the ''Adrestia''. The previous brother and Faas can also be recruited.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

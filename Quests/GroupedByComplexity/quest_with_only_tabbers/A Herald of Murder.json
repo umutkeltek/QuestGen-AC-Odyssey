@@ -1,0 +1,643 @@
+{
+    "Quest_Name": "A Herald of Murder",
+    "Quest_ID": "223701",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "A Herald of Murder - Assassin's Creed Odyssey.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Doctor Will See You Now",
+        "next": "Ashes to Ashes",
+        "source": "Kassandra",
+        "location": "Argolis, Greece",
+        "date": "c. 431 BCE"
+    },
+    "General_Description": "'''A Herald of Murder''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra confronted Dolops, who had faced a threat to his life.",
+    "Section_Dialogue": "After her conversation with [[Hippokrates]], Kassandra departed the [[Cave of Pan]] to search for her next source of information, [[Dolops]], about the whereabouts of her mother, [[Myrrine]].\n*'''Dolops:''' ''Go away!''\n*'''Kassandra:''' ''Calm down. Hippokrates sent me.''\n*'''Dolops:''' ''The great doctor is concerned for ''my'' health?''\n*'''Kassandra:''' ''Yes. And we need some information.''\n*'''Dolops:''' ''Tell him someone tried to kill me.''\n*'''Kassandra:''' ''Kill you? He said you worked with orphans. That's why I'm here.''\n*'''Dolops:''' ''That was long ago. Now I'm just a farmer.''\n*'''Kassandra:''' ''And I'm a ''misthios''. If I stop this killer, will you speak with me?''\n*'''Dolops:''' ''I will.''\n(If players choose \"What happened?\")\n*'''Kassandra:''' ''Tell me what happened.''\n*'''Dolops:''' ''I was on my way home when a man dressed in black attacked me. I ran as fast as I could. Once I reached safety, I thought I heard [[Wolf|wolves]]. Maybe they scared him away.''\n*'''Kassandra:''' ''Are you hurt?''\n*'''Dolops:''' ''No, thank [[Juno|Hera]].''\n(If players choose \"Who would try to kill you?\")\n*'''Kassandra:''' ''Why would someone attack you?''\n*'''Dolops:''' ''My neighbor thinks I'm back luck. He may be right.''\n*'''Kassandra:''' ''There's a difference between insulting someone and attacking them. What else?''\n*'''Dolops:''' ''I'm behind on my rent. I think my landlord wants to get rid of me and find a new tenant.''\n(If players choose \"I'll find out who attacked you.\")\n*'''Kassandra:''' ''I'll find out who wants you dead.''\n*'''Dolops:''' ''It was either my neighbor or my landlord who attacked me. But you can't punish someone unless you know they're guilty.''\n*'''Kassandra:''' ''I'll be back when I've figured it out. Then we're talking about your past.''\nKassandra began her investigation by checking the crime scene.\n*'''Kassandra:''' ''This armor is broken, but it was valuable. If it belonged to the attacker, he's either wealthy, or very lucky.''\nShe interviewed a potential witness.\n*'''Kassandra:''' ''Did you see someone attack Dolops?''\n*'''Civilian:''' ''Yes! It was terrible.''\n*'''Kassandra:''' ''Who did it?''\n*'''Civilian:''' ''I couldn't see clearly, but I think it was that bull-headed neighbor of his. He must have finally snapped.''\n*'''Kassandra:''' ''Thanks for letting me know.''\nShe located a knife on the road.\n*'''Kassandra:''' ''This knife has seen better days... like something a poor farmer would use.''\nBlack cloth was found on the road ahead.\n*'''Kassandra:''' ''This black cloth is fine enough for a king. Would do well as a mask, too.''\nAnother potential witness was located nearby.\n*'''Kassandra:''' ''I'm looking for the person who attacked Dolops.''\n*'''Civilian:''' ''I saw it happen! His face was covered, but I'm sure it was our landlord. He lives all alone, and hires soldiers to protect him. He has to be hiding something.''\n*'''Kassandra:''' ''Thanks for letting me know.''\nKassandra returned to Dolops with the conflicting information.\n*'''Dolops:''' '' ''Misthios''! You scared me.''\n*'''Kassandra:''' ''I know who did it.''\n*'''Dolops:''' ''What do you think? Who tried to kill me?''\n\n<tabber>\n|-|Your neighbor wants you dead.=\n*'''Kassandra:''' ''Your neighbor tried to kill you.''\n*'''Dolops:''' ''I knew it!''\n*'''Kassandra:''' ''I'll take care of him.''\n*'''Dolops:''' ''Good luck.''\nKassandra confronted the neighbor.\n*'''Kassandra:''' ''I heard someone tried to kill your neighbor.''\n*'''Farmer:''' ''Dolops? That mouse turd? Who'd give him trouble?''\n*'''Kassandra:''' ''People say it's you.''\n*'''Farmer:''' ''He's a fool. I like to give him a hard time\u2014but I wouldn't try to kill him.''\n(If players choose \"What proof do you have of your innocence?\")\n*'''Kassandra:''' ''If you want me to believe you're innocent, prove it.''\n*'''Farmer:''' ''I heard he was attacked with a knife. I only ever had one knife, and it was stolen moons ago.''\n(If players choose \"I don't think you did it.\")\n*'''Kassandra:''' ''I don't think you did it, but you're going to have to clear your name.''\nShe returned to Dolops to inform him of the outcome, only to find him murdered.\n*'''Kassandra:''' ''By [[Hades]]! The killer must have been waiting for me to leave. I hope Dolops left some sign of his days as a priest, or this has all been for nothing.''\nShe discovered a letter in a chest in Dolops's house.\n*'''Kassandra:''' ''What's this? A letter. \"[[Chrysis]], you cannot keep taking children to the [[Altar of Apollo Maleatas]]. It is not the gods who condemn them, but you. I will take this to the authorities if you don't stop. Your son, Dolops.\"''\n|-|Your landlord wants you dead.=\n* '''Kassandra:''' ''It was your landlord.''\n* '''Dolops:''' ''Of course! He wants me out of the way.''\n* '''Kassandra:''' ''I'll take care of him.''\n* '''Dolops:''' ''Be careful. He's dangerous.''\n\n\nKassandra located and snuck into the landlord's house, ended his life, and returned to Dolops to deliver the news.\n\n*'''Kassandra:''' ''Your landlord is dead. He was a lot more than that, though.''\n*'''Dolops:''' ''He... was one of those people, wasn't he? I can't...''\n*'''Dolops:''' ''Please, take this. You might find it useful.''\n*'''Dolops:''' ''You wanted to know something?''\n*'''Kassandra:''' ''Hippokrates said you used to work with orphans.''\n*'''Dolops:''' ''I did, but Chrysis drove me away.''\n*'''Kassandra:''' ''So she did. Where did you last see her?''\n*'''Dolops:''' ''In the woods near the Sanctuary of Asklepios, but that was many years ago.''\n(If players choose \"Where can I find Chrysis now?\")\n*'''Kassandra:''' ''Where do you think Chrysis is now?''\n*'''Dolops:''' ''I can't be sure. But she used to pray at the Altar of Apollo Maleatas. That's where she decided which children to train and which to let die.''\n(If players choose \"How do you know Chrysis?\")\n*'''Kassandra:''' ''How did you come to work with Chrysis?''\n*'''Dolops:''' ''I didn't have a choice. She's my mother.''\n*'''Kassandra:''' ''Chrysis kept you a secret.''\n*'''Dolops:''' ''My birth brought shame to her. I could never redeem that.''\n(If players choose \"What did Chrysis do?\")\n*'''Kassandra:''' ''What was Chrysis doing that was so terrible?''\n*'''Dolops:''' ''She would take the children and teach them terrible things\u2014turn them into spies and even soldiers. I couldn't take it anymore and left.''\n*'''Kassandra:''' ''At a secret meeting in Delphi, I overheard Chrysis mention a great warrior. Could these children have been part of her plan?''\n*'''Dolops:''' ''So she did see the Oracle! Yes, Chrysis spoke of building an army with a champion at its head. It must have been for her associates... the masked ones.''\n(Leave \u2013 \"I'm going to find Chrysis.\")\n*'''Kassandra:''' ''You've done your duty to Hera. I'll deal with Chrysis.''\n\nKassandra ponders the information she has learned, about Dolops and Chrysis.\n\n*'''Kassandra:''' ''So Chrysis is the key to finding my ''mater''. I must find this Altar of Apollo Maleatas.''\n</tabber>",
+    "Section_Outcome": "Kassandra discovers Chrysis's location and proceeds toward the Altar of Apollo Maleatas.",
+    "Section_Trivia": "*This quest is only available if [[Speak No Evil]] was completed prior to [[The Doctor Will See You Now]]. If Hippokrates is helped before visiting the sanctuary, he will direct the player to go there and will never mention Dolops. Subsequently, [[Mydon]]'s servant will divulge Chrysis's location at the end of that conversation.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Un h\u00e9raut du meurtre]]",
+    "Chapter_SequenceID": "10.",
+    "Chapter_Name": "A Prescription for Discovery",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "6.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After her conversation with [[Hippokrates]], Kassandra departed the [[Cave of Pan]] to search for her next source of information, [[Dolops]], about the whereabouts of her mother, [[Myrrine]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Dolops:''' ''Go away!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Calm down. Hippokrates sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Dolops:''' ''The great doctor is concerned for ''my'' health?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Yes. And we need some information.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Dolops:''' ''Tell him someone tried to kill me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Kill you? He said you worked with orphans. That's why I'm here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Dolops:''' ''That was long ago. Now I'm just a farmer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''And I'm a ''misthios''. If I stop this killer, will you speak with me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Dolops:''' ''I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "11",
+            "content": "(If players choose \"What happened?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Tell me what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Dolops:''' ''I was on my way home when a man dressed in black attacked me. I ran as fast as I could. Once I reached safety, I thought I heard [[Wolf|wolves]]. Maybe they scared him away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Are you hurt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Dolops:''' ''No, thank [[Juno|Hera]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "16",
+            "content": "(If players choose \"Who would try to kill you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Why would someone attack you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Dolops:''' ''My neighbor thinks I'm back luck. He may be right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''There's a difference between insulting someone and attacking them. What else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "20",
+            "content": "*'''Dolops:''' ''I'm behind on my rent. I think my landlord wants to get rid of me and find a new tenant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "21",
+            "content": "(If players choose \"I'll find out who attacked you.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'll find out who wants you dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "23",
+            "content": "*'''Dolops:''' ''It was either my neighbor or my landlord who attacked me. But you can't punish someone unless you know they're guilty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'll be back when I've figured it out. Then we're talking about your past.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "25",
+            "content": "Kassandra began her investigation by checking the crime scene.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''This armor is broken, but it was valuable. If it belonged to the attacker, he's either wealthy, or very lucky.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "27",
+            "content": "She interviewed a potential witness.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Did you see someone attack Dolops?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "29",
+            "content": "*'''Civilian:''' ''Yes! It was terrible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Who did it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "31",
+            "content": "*'''Civilian:''' ''I couldn't see clearly, but I think it was that bull-headed neighbor of his. He must have finally snapped.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Thanks for letting me know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "33",
+            "content": "She located a knife on the road.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''This knife has seen better days... like something a poor farmer would use.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "35",
+            "content": "Black cloth was found on the road ahead.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This black cloth is fine enough for a king. Would do well as a mask, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "37",
+            "content": "Another potential witness was located nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'm looking for the person who attacked Dolops.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "39",
+            "content": "*'''Civilian:''' ''I saw it happen! His face was covered, but I'm sure it was our landlord. He lives all alone, and hires soldiers to protect him. He has to be hiding something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Thanks for letting me know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "41",
+            "content": "Kassandra returned to Dolops with the conflicting information.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "42",
+            "content": "*'''Dolops:''' '' ''Misthios''! You scared me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I know who did it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "44",
+            "content": "*'''Dolops:''' ''What do you think? Who tried to kill me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "46",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "47",
+            "content": "|-|Your neighbor wants you dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Your neighbor tried to kill you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "49",
+            "content": "*'''Dolops:''' ''I knew it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''I'll take care of him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "51",
+            "content": "*'''Dolops:''' ''Good luck.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "52",
+            "content": "Kassandra confronted the neighbor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I heard someone tried to kill your neighbor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "54",
+            "content": "*'''Farmer:''' ''Dolops? That mouse turd? Who'd give him trouble?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''People say it's you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "56",
+            "content": "*'''Farmer:''' ''He's a fool. I like to give him a hard time\u2014but I wouldn't try to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "57",
+            "content": "(If players choose \"What proof do you have of your innocence?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D43",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''If you want me to believe you're innocent, prove it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "59",
+            "content": "*'''Farmer:''' ''I heard he was attacked with a knife. I only ever had one knife, and it was stolen moons ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "60",
+            "content": "(If players choose \"I don't think you did it.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D45",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''I don't think you did it, but you're going to have to clear your name.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "62",
+            "content": "She returned to Dolops to inform him of the outcome, only to find him murdered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''By [[Hades]]! The killer must have been waiting for me to leave. I hope Dolops left some sign of his days as a priest, or this has all been for nothing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "64",
+            "content": "She discovered a letter in a chest in Dolops's house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''What's this? A letter. \"[[Chrysis]], you cannot keep taking children to the [[Altar of Apollo Maleatas]]. It is not the gods who condemn them, but you. I will take this to the authorities if you don't stop. Your son, Dolops.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "66",
+            "content": "|-|Your landlord wants you dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "67",
+            "content": "* '''Kassandra:''' ''It was your landlord.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "68",
+            "content": "* '''Dolops:''' ''Of course! He wants me out of the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "69",
+            "content": "* '''Kassandra:''' ''I'll take care of him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "70",
+            "content": "* '''Dolops:''' ''Be careful. He's dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "71",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U3",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "73",
+            "content": "Kassandra located and snuck into the landlord's house, ended his life, and returned to Dolops to deliver the news.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "74",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D52",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''Your landlord is dead. He was a lot more than that, though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "76",
+            "content": "*'''Dolops:''' ''He... was one of those people, wasn't he? I can't...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "77",
+            "content": "*'''Dolops:''' ''Please, take this. You might find it useful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "78",
+            "content": "*'''Dolops:''' ''You wanted to know something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Hippokrates said you used to work with orphans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "80",
+            "content": "*'''Dolops:''' ''I did, but Chrysis drove me away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''So she did. Where did you last see her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "82",
+            "content": "*'''Dolops:''' ''In the woods near the Sanctuary of Asklepios, but that was many years ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "83",
+            "content": "(If players choose \"Where can I find Chrysis now?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D60",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Where do you think Chrysis is now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "85",
+            "content": "*'''Dolops:''' ''I can't be sure. But she used to pray at the Altar of Apollo Maleatas. That's where she decided which children to train and which to let die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "86",
+            "content": "(If players choose \"How do you know Chrysis?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D62",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''How did you come to work with Chrysis?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "88",
+            "content": "*'''Dolops:''' ''I didn't have a choice. She's my mother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''Chrysis kept you a secret.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "90",
+            "content": "*'''Dolops:''' ''My birth brought shame to her. I could never redeem that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "91",
+            "content": "(If players choose \"What did Chrysis do?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D66",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''What was Chrysis doing that was so terrible?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "93",
+            "content": "*'''Dolops:''' ''She would take the children and teach them terrible things\u2014turn them into spies and even soldiers. I couldn't take it anymore and left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''At a secret meeting in Delphi, I overheard Chrysis mention a great warrior. Could these children have been part of her plan?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "95",
+            "content": "*'''Dolops:''' ''So she did see the Oracle! Yes, Chrysis spoke of building an army with a champion at its head. It must have been for her associates... the masked ones.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "96",
+            "content": "(Leave \u2013 \"I'm going to find Chrysis.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D70",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''You've done your duty to Hera. I'll deal with Chrysis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "98",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "99",
+            "content": "Kassandra ponders the information she has learned, about Dolops and Chrysis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "100",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D71",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''So Chrysis is the key to finding my ''mater''. I must find this Altar of Apollo Maleatas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "102",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

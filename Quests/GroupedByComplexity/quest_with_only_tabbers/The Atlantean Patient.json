@@ -1,0 +1,471 @@
+{
+    "Quest_Name": "The Atlantean Patient",
+    "Quest_ID": "233451",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA JoA The Atlantean Patient.png",
+        "description": "'The Archons of Atlantis|Archon Azaes was dealing with a medical emergency unknown to Atlantis. If he hoped to cure the sickness, he would need the help of the new 'Dikastes'.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Main, Support",
+        "previous": "Burden of Leadership",
+        "next": "A Complete Education",
+        "concurrent": "Crowd Pleaser<br>Rebel Scum",
+        "source": "Kassandra",
+        "location": "Oikos of Atlantis, Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''The Atlantean Patient''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Azaes]], son of [[Poseidon]], to help him cure a terrible sickness.",
+    "Section_Dialogue": "After departing from the [[Doma of Atlas]], Kassandra headed to the [[Oikos of Atlantis]], where she found Azaes with the help of [[Ikaros]].\n*'''Kassandra:''' ''Is Azaes a physician and an [[Archons of Atlantis|Archon]]?''\nKassandra entered a makeshift clinic, filled with a number of sick people.\n*'''Sick Patient 1:''' ''Azaes saw me yesterday. He told me I'll be able to go home soon.''\n*'''Sick Patient 2:''' ''You're a lucky one. The man next to me hasn't come back yet. Maybe Azaes is treating him?''\nShe found Azaes looking through his notes on a table.\n*'''Azaes:''' ''What have I missed... What must I do...''\n*'''Kassandra:''' ''Azaes. You have your hands full.''\n*'''Azaes:''' Dikastes''! You're a welcome sight. The only one I've had in some time.''\n*'''Kassandra:''' ''So many sick. I'm surprised anything can spread in a place as advanced as this.''\n*'''Azaes:''' ''It's shocking. Nothing I have tried will cure the sick or stop the pathogen spreading. I've lost so many already.''\n(If \"When did the sickness start?\" is chosen.)\n[[File:ACOD FoA JoA The Atlantean Patient - Azaes Telling Kassandra.png|thumb|250px|Azaes telling Kassandra what he knew about the sickness]]\n*'''Kassandra:''' ''When did you first notice people were getting sick?''\n*'''Azaes:''' ''At the start of this cycle. It began quite slowly and I didn't think much of it. But then, the cases grew rapidly day by day. The more that fell sick, the faster the pathogen spread.''\n(If \"Have you seen anything like this before?\" is chosen.)\n*'''Kassandra:''' ''You seem really worried. Have you ever seen a sickness like this before?''\n*'''Azaes:''' ''No. There are many odd phenomena during this cycle. Plants dying, strange insects and animal attacks. I worry what this could signify.''\n(\"I'm here to help.\")\n[[File:ACOD FoA JoA The Atlantean Patient - Kassandra Azaes Discussion.png|thumb|250px|Azaes and Kassandra discussing]]\n*'''Kassandra:''' ''Don't worry, we'll find a way to stop the sickness. Tell me what you need.''\n*'''Azaes:''' ''Well, there was [[Shrouds of Eden|a device]] being worked on by a scientist named [[Consus]]. Its intention was to rapidly heal injuries and eradicate diseases.''\n*'''Kassandra:''' ''Was?''\n*'''Azaes:''' ''His device is missing. Scientists here have tried to replicate it based on the schematics, but it's still in the experimental phase. And, it hasn't been tested on humans.''\n*'''Kassandra:''' ''So it may not work.''\n*'''Azaes:''' ''That's not the biggest issue. Poseidon has outlawed the use of our technology on humans. I fear that if we don't act quickly, the pathogen will spread across Atlantis.''\n<tabber>\n|-|I'll go get the device.=\n*'''Kassandra:''' ''If you think this healing device can help the stick, then I'll make sure that you have it.''\n*'''Azaes:''' ''The wisdom of an Isu, but the compassion of a human\u2014you were a good choice for ''Dikastes''. You'll find the device in one of the Isu laboratories in the [[Consus Archive]].''\n|-|We should purge the sickness.=\n*'''Kassandra:''' ''In [[Athens]], when the [[Plague of Athens|plague]] spread, [[Hippokrates]] thought the only option left was to burn the bodies\u2014and the sick with them.''\n*'''Azaes:''' ''You're talking about murdering innocent people.''\n*'''Kassandra:''' ''It's mercy, Azaes. Better than even more dying because we wouldn't act.''\n*'''Azaes:''' ''No, we are not barbarians. We don't waste precious life if there's a chance it can be saved. Please, find the device and bring it to me.''\n*'''Kassandra:''' ''Fine, we'll do it your way. Tell me where it is and I will.''\n*'''Azaes:''' ''You'll find the device in one of the Isu laboratories in the Consus Archive. With luck, we can save these people my father discovers what's happened.''\n</tabber>\n[[File:ACOD FoA JoA The Consus Archive.jpg|thumb|250px|The Consus Archive]]\nKassandra departed the clinic and made her way to the Consus Archive.\n*'''Kassandra:''' ''The device Azaes wants must be inside.''\nKassandra entered the archive, taking care of the guards. Along the way, she found a note on a table.\n:'''Azae's Musings on the Prototype:'''<br>''\"Another test. Another failure. Perhaps Poseidon was right. Maybe the shroud should be outlawed. Unless...\"''\nKassandra entered a room, finding a [[Isu codex|knowledge]] stele.\n:'''Consus's Shroud of Eden:'''<br>''Historian of Technology<br>Cycle 9.338<br><br>While [[Hephaistos]] was a master of forging instruments of war, his apprentice, proved himself equally capable of creating instruments of life. It was during the [[War of Unification]] where the scientist met bloodshed with innovation.<br><br>In the face of an ever-rising death toll, he worked obsessively to create a device which could restore bodies devastated by the war to their previously-healthy state. He eventually succeeded in creating a prototype, and as he approached the end of his natural life, he uploaded his consciousness into this new device.<br><br>Unable to communicate with the outside world, however, he and the prototype disappeared into obscurity for centuries. Many failed attempts were made by fellow Isu scientists to replicate Consus's invention.<br><br>During the previous cycle, rumors surfaced about the discovery of Consus's original prototype, but evidence of this discovery has yet to be revealed.''\nKassandra approached another stele.\n:'''A Tale of Brothers:'''<br>''Cycle 18.192. Archivist's note: This is my personal account of the familial relationships connected to the Dikastes Basileus. For the official statement, reference Codex statement 905.107.<br><br>For those who exist past this cycle's destruction, take these words as a warning.<br><br>My official document will read that [[Hades]], brother to Poseidon, is a mastermind of leadership. On the contrary. His immaturity should bar him any realm above his underworld. Matters unique to the Isu don't concern him, for in [[Underworld|his realm]], the quality of blood his subordinates have are inconsequential. The word \"progress\" means as much to him as the dirt on his sandal. Other than a love of games of chance, Poseidon and Hades are opposites.<br/><br>However, they do share a common ground on one subject: [[Jupiter|Zeus]]. Their other brother, golden child atop [[Mount Olympos]], has been a taboo topic for more cycles than have been recorded. If the brothers had it their way, their brood would have stopped at two. One myth tells of a time Zeus came to Atlantis personally to reprimand his brother. As soon as he left, Poseidon destroyed the cycle just to get his stench out of the air. That is truly bad blood.''\nKassandra entered a room full of movable pillars. She moved them around, finding an opening. She entered the laboratory, finding the cloth on a table.\n[[File:ACOD FoA JoA Experimental Shroud of Eden.jpg|thumb|250px|The device in one of the laboratory]]\n*'''Kassandra:''' ''An Isu device. It's like nothing I've ever seen.''\nKassandra exited the archive and returned to Azaes.\n*'''Kassandra:''' ''I've brought the, uh... glowing cloth you asked for.''\nShe handed over the cloth to Azaes.\n*'''Azaes:''' ''It's a nanotech matter regenerator in fact. But, you have it. I can't believe it.''\n[[File:ACOD The Atlantean Patient - Shroud of Eden.png|thumb|250px|The device being used on the patient]]\nAzaes proceeded to cover the sick patient with the device.\n*'''Azaes:''' ''Now then, let's see what this thing can do.''\nAzaes handed to a table and proceeded to make some calibrations. which caused the patient to explode, with  the blood splatting over Kassandra.\n*'''Kassandra:''' ''Azaes! What the fuck did you do?''\n*'''Azaes:''' ''I thought I had calibrated correctly. Oh no, what have I done? I killed this poor human, the device doesn't work, and you stole it against Poseidon's laws. What do we do now?''\n<tabber>\n|-|Stop using the device.=\n*'''Kassandra:''' ''This device is dangerous. Maybe Poseidon outlawed it for a reason. I don't think you should use it on anyone else.''\n*'''Azaes:''' '' I was so hopeful, but you're right. This device isn't ready to be used on live subjects. All I've done is add to the pain and suffering.''\n*'''Kassandra:''' ''Some things can't be fixed with devices or intellect. There are problems even the Isu can't solve.''\n*'''Azaes:''' ''I suppose all I can do is return this device to the laboratory and make sure the victims are comfortable until the end.''\n|-|You have to try again.=\n*'''Kassandra:''' ''This device is your only chance of stopping the sickness. You need to keep trying.''\n*'''Azaes:''' ''Yes, you're right. Not trying will just mean more innocent lives are lost. I think if I make some adjustments, I can get it to function on humans correctly.''\nKassandra and Azaes continued to experiment on the device, eventually making it to work.\n*'''Kassandra:''' ''Everyone seems to be looking much better. Well, almost everyone.''\n*'''Azaes:''' ''The device still needs work, but it has incredible potential. Poseidon won't be happy that we broke his law, but I'm glad you were the one to do it and not me. In any case I'm eternally grateful for your help. Thank you.''\n</tabber>",
+    "Section_Outcome": "Kassandra assisted Azaes in attempting to treat his patients with an experimental Shroud of Eden.",
+    "Section_Behind_the_scenes": "The name of the memory is a reference to the [[Canada|Canadian]] author {{Wiki|Michael Ondaatje}}'s 1992 novel ''{{Wiki|The English Patient}}'', which was later adapted into {{Wiki|The English Patient (film)|a film}} in 1996.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Judgment of Atlantis]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After departing from the [[Doma of Atlas]], Kassandra headed to the [[Oikos of Atlantis]], where she found Azaes with the help of [[Ikaros]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Is Azaes a physician and an [[Archons of Atlantis|Archon]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra entered a makeshift clinic, filled with a number of sick people.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Sick Patient 1:''' ''Azaes saw me yesterday. He told me I'll be able to go home soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Sick Patient 2:''' ''You're a lucky one. The man next to me hasn't come back yet. Maybe Azaes is treating him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "She found Azaes looking through his notes on a table.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Azaes:''' ''What have I missed... What must I do...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Azaes. You have your hands full.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Azaes:''' Dikastes''! You're a welcome sight. The only one I've had in some time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''So many sick. I'm surprised anything can spread in a place as advanced as this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Azaes:''' ''It's shocking. Nothing I have tried will cure the sick or stop the pathogen spreading. I've lost so many already.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "12",
+            "content": "(If \"When did the sickness start?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "I1",
+            "global_id": "13",
+            "content": "[[File:ACOD FoA JoA The Atlantean Patient - Azaes Telling Kassandra.png|thumb|250px|Azaes telling Kassandra what he knew about the sickness]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''When did you first notice people were getting sick?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Azaes:''' ''At the start of this cycle. It began quite slowly and I didn't think much of it. But then, the cases grew rapidly day by day. The more that fell sick, the faster the pathogen spread.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "16",
+            "content": "(If \"Have you seen anything like this before?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You seem really worried. Have you ever seen a sickness like this before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Azaes:''' ''No. There are many odd phenomena during this cycle. Plants dying, strange insects and animal attacks. I worry what this could signify.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "19",
+            "content": "(\"I'm here to help.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "I2",
+            "global_id": "20",
+            "content": "[[File:ACOD FoA JoA The Atlantean Patient - Kassandra Azaes Discussion.png|thumb|250px|Azaes and Kassandra discussing]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Don't worry, we'll find a way to stop the sickness. Tell me what you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Azaes:''' ''Well, there was [[Shrouds of Eden|a device]] being worked on by a scientist named [[Consus]]. Its intention was to rapidly heal injuries and eradicate diseases.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Was?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Azaes:''' ''His device is missing. Scientists here have tried to replicate it based on the schematics, but it's still in the experimental phase. And, it hasn't been tested on humans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''So it may not work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Azaes:''' ''That's not the biggest issue. Poseidon has outlawed the use of our technology on humans. I fear that if we don't act quickly, the pathogen will spread across Atlantis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "27",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "28",
+            "content": "|-|I'll go get the device.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''If you think this healing device can help the stick, then I'll make sure that you have it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Azaes:''' ''The wisdom of an Isu, but the compassion of a human\u2014you were a good choice for ''Dikastes''. You'll find the device in one of the Isu laboratories in the [[Consus Archive]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "31",
+            "content": "|-|We should purge the sickness.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''In [[Athens]], when the [[Plague of Athens|plague]] spread, [[Hippokrates]] thought the only option left was to burn the bodies\u2014and the sick with them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Azaes:''' ''You're talking about murdering innocent people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''It's mercy, Azaes. Better than even more dying because we wouldn't act.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Azaes:''' ''No, we are not barbarians. We don't waste precious life if there's a chance it can be saved. Please, find the device and bring it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Fine, we'll do it your way. Tell me where it is and I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Azaes:''' ''You'll find the device in one of the Isu laboratories in the Consus Archive. With luck, we can save these people my father discovers what's happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I3",
+            "global_id": "39",
+            "content": "[[File:ACOD FoA JoA The Consus Archive.jpg|thumb|250px|The Consus Archive]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "40",
+            "content": "Kassandra departed the clinic and made her way to the Consus Archive.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''The device Azaes wants must be inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "42",
+            "content": "Kassandra entered the archive, taking care of the guards. Along the way, she found a note on a table.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": ":'''Azae's Musings on the Prototype:'''<br>''\"Another test. Another failure. Perhaps Poseidon was right. Maybe the shroud should be outlawed. Unless...\"''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N7",
+            "global_id": "44",
+            "content": "Kassandra entered a room, finding a [[Isu codex|knowledge]] stele.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "45",
+            "content": ":'''Consus's Shroud of Eden:'''<br>''Historian of Technology<br>Cycle 9.338<br><br>While [[Hephaistos]] was a master of forging instruments of war, his apprentice, proved himself equally capable of creating instruments of life. It was during the [[War of Unification]] where the scientist met bloodshed with innovation.<br><br>In the face of an ever-rising death toll, he worked obsessively to create a device which could restore bodies devastated by the war to their previously-healthy state. He eventually succeeded in creating a prototype, and as he approached the end of his natural life, he uploaded his consciousness into this new device.<br><br>Unable to communicate with the outside world, however, he and the prototype disappeared into obscurity for centuries. Many failed attempts were made by fellow Isu scientists to replicate Consus's invention.<br><br>During the previous cycle, rumors surfaced about the discovery of Consus's original prototype, but evidence of this discovery has yet to be revealed.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "46",
+            "content": "Kassandra approached another stele.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N10",
+            "global_id": "47",
+            "content": ":'''A Tale of Brothers:'''<br>''Cycle 18.192. Archivist's note: This is my personal account of the familial relationships connected to the Dikastes Basileus. For the official statement, reference Codex statement 905.107.<br><br>For those who exist past this cycle's destruction, take these words as a warning.<br><br>My official document will read that [[Hades]], brother to Poseidon, is a mastermind of leadership. On the contrary. His immaturity should bar him any realm above his underworld. Matters unique to the Isu don't concern him, for in [[Underworld|his realm]], the quality of blood his subordinates have are inconsequential. The word \"progress\" means as much to him as the dirt on his sandal. Other than a love of games of chance, Poseidon and Hades are opposites.<br/><br>However, they do share a common ground on one subject: [[Jupiter|Zeus]]. Their other brother, golden child atop [[Mount Olympos]], has been a taboo topic for more cycles than have been recorded. If the brothers had it their way, their brood would have stopped at two. One myth tells of a time Zeus came to Atlantis personally to reprimand his brother. As soon as he left, Poseidon destroyed the cycle just to get his stench out of the air. That is truly bad blood.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N11",
+            "global_id": "48",
+            "content": "Kassandra entered a room full of movable pillars. She moved them around, finding an opening. She entered the laboratory, finding the cloth on a table.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I4",
+            "global_id": "49",
+            "content": "[[File:ACOD FoA JoA Experimental Shroud of Eden.jpg|thumb|250px|The device in one of the laboratory]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''An Isu device. It's like nothing I've ever seen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "51",
+            "content": "Kassandra exited the archive and returned to Azaes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''I've brought the, uh... glowing cloth you asked for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "53",
+            "content": "She handed over the cloth to Azaes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "54",
+            "content": "*'''Azaes:''' ''It's a nanotech matter regenerator in fact. But, you have it. I can't believe it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "55",
+            "content": "[[File:ACOD The Atlantean Patient - Shroud of Eden.png|thumb|250px|The device being used on the patient]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N14",
+            "global_id": "56",
+            "content": "Azaes proceeded to cover the sick patient with the device.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "57",
+            "content": "*'''Azaes:''' ''Now then, let's see what this thing can do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "58",
+            "content": "Azaes handed to a table and proceeded to make some calibrations. which caused the patient to explode, with  the blood splatting over Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''Azaes! What the fuck did you do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "60",
+            "content": "*'''Azaes:''' ''I thought I had calibrated correctly. Oh no, what have I done? I killed this poor human, the device doesn't work, and you stole it against Poseidon's laws. What do we do now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "62",
+            "content": "|-|Stop using the device.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''This device is dangerous. Maybe Poseidon outlawed it for a reason. I don't think you should use it on anyone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "64",
+            "content": "*'''Azaes:''' '' I was so hopeful, but you're right. This device isn't ready to be used on live subjects. All I've done is add to the pain and suffering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Some things can't be fixed with devices or intellect. There are problems even the Isu can't solve.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "66",
+            "content": "*'''Azaes:''' ''I suppose all I can do is return this device to the laboratory and make sure the victims are comfortable until the end.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "67",
+            "content": "|-|You have to try again.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''This device is your only chance of stopping the sickness. You need to keep trying.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "69",
+            "content": "*'''Azaes:''' ''Yes, you're right. Not trying will just mean more innocent lives are lost. I think if I make some adjustments, I can get it to function on humans correctly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "70",
+            "content": "Kassandra and Azaes continued to experiment on the device, eventually making it to work.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''Everyone seems to be looking much better. Well, almost everyone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "72",
+            "content": "*'''Azaes:''' ''The device still needs work, but it has incredible potential. Poseidon won't be happy that we broke his law, but I'm glad you were the one to do it and not me. In any case I'm eternally grateful for your help. Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "73",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

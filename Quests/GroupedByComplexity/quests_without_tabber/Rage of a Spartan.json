@@ -1,0 +1,120 @@
+{
+    "Quest_Name": "Rage of a Spartan",
+    "Quest_ID": "236229",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Athens|Athenians in Spartan territory could not rest easy once the enemy soldiers were dead. This is the story of a woman who hired Mercenary|mercenaries against the Athenians.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Rage of a Spartan''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A woman hired Kassandra to deal with an [[Athens|Athenian]] Commander.",
+    "Section_Dialogue": "*'''Kassandra:''' ''You're the one who left the message on the [[Message board|board]]. What's going on?''\n*'''Woman:''' ''The Athenians defeated the soldiers and killed most of the men. But they are fools if they think they are safe now.''\n*'''Kassandra:''' ''What are you planning?''\n*'''Woman:''' ''[[Sparta]]n women are not like weak Athenian women. We have [[Drachma|money]], and property, and rage. I will use all to strike at their commanders, soldiers, and fleet.''\n*'''Kassandra:''' ''Of course. You want me to deal with the Athenian commander.''\n*'''Woman:''' ''Are you up for it?''\n(Accept \u2013 The commander's head is mine.)\n*'''Kassandra:''' ''I'll handle this.''\n*'''Woman:''' ''You truly are sent by the gods.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra left the woman, and sought out the commander, killing him before returning to the woman.\n*'''Woman:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Woman:''' ''You've earned your payment, ''misthios''. Here. This is for you.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra dealt with the Athenian Commander, and was rewarded for it.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''You're the one who left the message on the [[Message board|board]]. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Woman:''' ''The Athenians defeated the soldiers and killed most of the men. But they are fools if they think they are safe now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''What are you planning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Woman:''' ''[[Sparta]]n women are not like weak Athenian women. We have [[Drachma|money]], and property, and rage. I will use all to strike at their commanders, soldiers, and fleet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Of course. You want me to deal with the Athenian commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Woman:''' ''Are you up for it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(Accept \u2013 The commander's head is mine.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''You truly are sent by the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I'll come back when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "11",
+            "content": "Kassandra left the woman, and sought out the commander, killing him before returning to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Woman:''' ''You've earned your payment, ''misthios''. Here. This is for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

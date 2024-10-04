@@ -1,0 +1,154 @@
+{
+    "Quest_Name": "Injured on the Job",
+    "Quest_ID": "235037",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Injured_on_the_Job_1.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Injured on the Job''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a man who claimed to have sailed with [[Barnabas]].",
+    "Section_Dialogue": "[[File:ACOD_-_Injured_on_the_Job_2.png|thumb|240px]]\nKassandra found the man wandering.\n*'''Kassandra:''' Chaire. ''Anything you need a mercenary's help with?''\n*'''Man:''' ''You! You sail aboard the [[Adrestia]] with Barnabas!''\n*'''Kassandra:''' ''How do you know this, stranger?''\n*'''Man:''' ''I once stood alongside him, until a filthy pirate ran his blade through my back. Now I can barely stand straight. I was replaced by you.''\n<tabber>\n|-|Sorry to hear that.=\n*'''Kassandra:''' ''I'm sorry to hear of your injury. I had no idea I was taking anyone's place.''\n|-|Not my problem.=\n*'''Kassandra:''' ''I had nothing to do with your back or Barnabas' decision.''\n*'''Man:''' ''Now I'll never get to sail with my son. You took everything from me. Now I'll take everything from you!''\nThe man started attacking Kassandra\n<br/>\n(Quest Failed)\n</tabber>\n*'''Man:''' ''The worst part is I always dreamed of sailing with my son. But with my back, I can't even collect enough wood to build a [[felucca|felluca]] for him.''\n*'''Kassandra:''' ''So you want me to give you some drachmae?''\n*'''Man:''' ''Yes. Any drachmae you can give helps.''\n(\"Take this.\" [50 Drachmae])\n*'''Kassandra:''' ''All right. Here it is.''",
+    "Section_Outcome": "Kassandra gave the man fifty drachmae to him buy a ''felluca'' for his son.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "[[File:ACOD_-_Injured_on_the_Job_2.png|thumb|240px]]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": "Kassandra found the man wandering.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' Chaire. ''Anything you need a mercenary's help with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Man:''' ''You! You sail aboard the [[Adrestia]] with Barnabas!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''How do you know this, stranger?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Man:''' ''I once stood alongside him, until a filthy pirate ran his blade through my back. Now I can barely stand straight. I was replaced by you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|Sorry to hear that.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'm sorry to hear of your injury. I had no idea I was taking anyone's place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Not my problem.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I had nothing to do with your back or Barnabas' decision.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Man:''' ''Now I'll never get to sail with my son. You took everything from me. Now I'll take everything from you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "The man started attacking Kassandra",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "14",
+            "content": "<br/>",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "15",
+            "content": "(Quest Failed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "16",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Man:''' ''The worst part is I always dreamed of sailing with my son. But with my back, I can't even collect enough wood to build a [[felucca|felluca]] for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''So you want me to give you some drachmae?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Man:''' ''Yes. Any drachmae you can give helps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "20",
+            "content": "(\"Take this.\" [50 Drachmae])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''All right. Here it is.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

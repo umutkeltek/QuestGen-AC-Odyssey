@@ -1,0 +1,39 @@
+{
+    "QuestName": "Thieving from Athenians",
+    "QuestID": "236204",
+    "Revision": {
+        "id": "1047415",
+        "parentid": "845604",
+        "timestamp": "2023-06-13T18:54:03Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047415",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "awm8eif8pauc65t5zp9p3mu627b1y8b"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'A bandit's letter told of a cache of Athens|Athenian supplies just waiting to be stolen. The information fell into Kassandra's hands.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Thieving from Athenians''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "On the corpse of a bandit, Kassandra discovered a note detailing the location of the [[Thief|thieves]]' loot.",
+    "Section_Messages": "*''Let's see how far those cursed [[Athens|Athenians]] get without their supplies! Stealing from their camp won't be easy, but I've heard their guard falls asleep on his watch.''",
+    "Section_Outcome": "Kassandra found the location and claimed the valuables for herself.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,48 @@
+{
+    "Quest_Name": "Upgrade the Spear",
+    "Quest_ID": "222779",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Memories Awoken - Using the Spear - Assassins Creed Odyssey.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Memories Awoken",
+        "next": "Welcome to Athens",
+        "source": "Kassandra",
+        "location": "Ancient Forge, Andros, Greece",
+        "date": "431 BCE \u2013 421 BCE"
+    },
+    "General_Description": "'''Upgrade the Spear''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "The only way to charge the power of [[Leonidas I of Sparta|Leonidas]]'s [[Spear of Leonidas|spear]] would be to collect the [[Artifact Fragments]] from each member of the [[Cult of Kosmos]].",
+    "Section_Dialogue": "Each time Kassandra obtained a sufficient number of [[Artifact Fragment]]s from the bodies of [[Cult of Kosmos|Cultists of Kosmos]], she made haste to the [[Ancient Forge]] hidden on [[Andros]] to improve the [[Spear of Leonidas]]. She inserted the Spear into the relief that bore its shape and inserted the fragments into the triangular slot on the relief's facade. The same words could be heard each time the forge came to life.\n*'''Aletheia:''' ''Forge activated. Synchronizing retransmission chronicity... Contact engaged.''\nEach time, the Spear's metal cast off the rust of ages and shone with renewed steel and gave off the orange light of the forge, increasing in power. Kassandra could immediately feel its increases in power upon sheathing the spear on her back. Kassandra would upgrade the Spear a total of five times until its true potential was revealed.",
+    "Section_Outcome": "Kassandra upgraded the Spear of Leonidas. She would do this a total of five times until the Spear's full power awakened.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Am\u00e9liorer la lance]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Spear of Leonidas",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Each time Kassandra obtained a sufficient number of [[Artifact Fragment]]s from the bodies of [[Cult of Kosmos|Cultists of Kosmos]], she made haste to the [[Ancient Forge]] hidden on [[Andros]] to improve the [[Spear of Leonidas]]. She inserted the Spear into the relief that bore its shape and inserted the fragments into the triangular slot on the relief's facade. The same words could be heard each time the forge came to life.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Aletheia:''' ''Forge activated. Synchronizing retransmission chronicity... Contact engaged.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Each time, the Spear's metal cast off the rust of ages and shone with renewed steel and gave off the orange light of the forge, increasing in power. Kassandra could immediately feel its increases in power upon sheathing the spear on her back. Kassandra would upgrade the Spear a total of five times until its true potential was revealed.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

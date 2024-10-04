@@ -1,0 +1,43 @@
+{
+    "QuestName": "Honey Eyes",
+    "QuestID": "232435",
+    "Revision": {
+        "id": "1047491",
+        "parentid": "842114",
+        "timestamp": "2023-06-13T19:18:43Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047491",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "1pcwf4i0b6piktcfx1xf29hwpajop28"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Honey Eyes",
+        "image": null,
+        "description": "'After Kassandra provided Kleio with safe passage from Korinth, a musician soon fell in love with the 'Courtesan|hetaera'. Yet the ring she wished give her was stolen.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Escort Service",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Honey Eyes''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire. ''Anything you need a [[mercenary]]'s help with?''\n*'''Woman:''' ''I can't contain myself. My lover has eyes poured from [[honey]] by [[Aphrodite]] herself. Her lips taste as if they were picked from pomegranate seeds. Her scent\u2013''\n*'''Kassandra:''' ''I get the picture.''\n*'''Woman:''' ''But that's not even to speak of her soul. My darling [[Kleio]]'s sweet wanderer's heart lead her to me all the way from Korinth!''\n\n<tabber>\n|-|Actually, I brought Kleio here.=\n*'''Kassandra:''' ''I actually provided safe passage for a ''[[Courtesan|hetaera]]'' named Kleio aboard my [[Adrestia|ship]].''\n*'''Woman:''' ''You? You are responsible for the happiness that courses through every fiber of my being?''\n*'''Kassandra:''' ''Looks like it.''\n|-|That's enough.=\n</tabber>\n\n*'''Woman:''' ''Oh, mercenary, this is my lucky day. I had a ring I wished to get engraved for my darling Kleio, but it was stolen just this morning.''\n*'''Kassandra:''' ''So you want me to take it from the bandits.''\n*'''Woman:''' ''You catch on fast. Will you do it? / Obviously. Do we have a deal? / Yes, I need it back at all costs.''\n\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Woman:''' ''The glory will be yours, mercenary.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra hunted the bandits and retrieved the ring and returned to the woman.\n\n(If already completed)\n*'''Kassandra:''' ''Sounds like you can stop worrying \u2013 I've taken care of everything.''\n\n*'''Woman:''' ''Did you get it?''\n*'''Kassandra:''' ''It's all yours.''\n*'''Woman:''' ''The gods were smiling on me the day we met. Thank you. Please, for your trouble.'' / ''The gods favored me the day we met. Take this for your troubles,'' misthios.\n*'''Kassandra:''' ''All in a day's work.''\n\n<tabber>\n|-|[OFFER] You should join my crew.=\n*'''Kassandra:''' ''You're strong, capable, and obviously resourceful. I could use someone like you on my ship. What do you say?''\n*'''Woman:''' ''The sea is a [[Muses|muse]] for many, but not for me. My own muse wouldn't be happy if I left.''\n*'''Kassandra:''' ''You're making a mistake, but I'll respect your decision.''\n|-|Thank you.=\n</tabber>",
+    "Section_Outcome": "Kassandra helped the musician regain her ring, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

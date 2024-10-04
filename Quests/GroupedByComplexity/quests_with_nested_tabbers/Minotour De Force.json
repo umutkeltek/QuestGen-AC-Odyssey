@@ -1,0 +1,547 @@
+{
+    "Quest_Name": "Minotour De Force",
+    "Quest_ID": "223187",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Minotour De Force",
+        "image": "ACOd-MDF-Leiandroscrowd.jpg",
+        "description": "'In order to battle the Minotaur and win the Prize of Pephka, Kassandra was told that she'd first have to endure certain suspicious sounding \"Pre-Trials\".'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "next": "The Pre-Trial of Strength<br>The Pre-Trial of Endurance<br>The Pre-Trial of Accuracy<br>Cashing In On the Cow",
+        "source": "Kassandra",
+        "location": "Pephka, Krete, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Minotour de Force''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In the town of [[Lato]], Kassandra's attention was drawn by the exclamations of [[Leiandros]], promising glory, honour and [[drachma]]e to whoever managed to slay the [[Minotaur]].",
+    "Section_Dialogue": "In Lato, Kassandra spotted a group of townsfolk crowding around Leiandros.\n*'''Leiandros:''' ''Who among you is afraid?!<br>Who among you is frail or weak?!<br>Who among you... IS STRONG?!<br>Then I say prove yourselves! Come face-to-face with He of the Blood-Soaked Hooves! He of the Entrail-Splattered Horns! You know his name, you know his roar! The Beast, the Myth... THE MINOTAAAAAUR!!!<br>Maximum of three members per Minotaur hunting party; purchase of Minotaur-themed merchandise ''is'' mandatory before proceeding; no legendary warriors, pregnant heroes, or legitimate gods (demi, semi, or otherwise) are eligible to fight the Minotaur; and no pushing\u2014you'll all get a chance at dismemberment.''\nKassandra approached Leiandros.\n*'''Leiandros:''' ''Ah, a mighty specimen approaches! Are you ready for honor? For glory?!'' For certain death?!\n*'''Kassandra:''' ''I'm ready for two-thirds of that.''\n*'''Leiandros:''' ''Then you seek combat with... THE MINOTAUR!''\n<tabber>\n|-|If players already defeated the Minotaur=\n*'''Kassandra:''' ''The Minotaur's already dead, by my hand.''\n*'''Leiandros:''' ''You killed the Minotaur?!''\nThe man laughed.\n*'''Leiandros:''' ''I'm sorry my friend, you're very mistaken! Some scam artist fooled you with flame-lit corridors and flimsy costumes! The 100% genuine and completely real Minotaur lives here! And, uh, you better believe it!''\n|-|If players have not defeated the Minotaur=\n{{#tag:tabber|\nThere's no Minotaur here.=\n*'''Kassandra:''' ''No self-respecting Minotaur would live in Lato.''\n*'''Leiandros:''' ''He does.''\n*'''Kassandra:''' ''Here?''\n*'''Leiandros:''' ''Yes.''\n*'''Kassandra:''' ''... In Lato?''\n*'''Leiandros:''' ''Yes.''\n*'''Kassandra:''' ''This Lato?''\n*'''Leiandros:''' ''I assure you, the beast lives here, and he wants nothing more than a wealthy - uh, a worthy opponent to battle.''\n{{!}}-{{!}}\nI'm interested=\n*'''Kassandra:''' ''I can't see any labyrinths or golden balls of string... but, if there's a Minotaur to be fought, I'm listening.''\n*'''Leiandros:''' ''Then listen well, my observant friend!''\n}}\n</tabber>\n*'''Leiandros:''' ''If you slay the Minotaur, you would be [[Theseus]] reborn!<br>And you'd get to take home the ''Prize of [[Pephka]]!\n(Accept \u2013 I'll kill your Minotaur.)\n*'''Kassandra:''' ''Your Minotaur must die.''\n*'''Leiandros:''' ''Sounds like we have... ''another contender!\nThe crowd cheered as Leiandros sold the scene to them.\n*'''Leiandros:''' ''It's time for the Trials of the Minotaur.. Pre-Trials.''\n(If players choose \"\"Pre-Trials\"?!\")\n*'''Kassandra:''' ''... Did you just say Minotaur ''\"Pre-Trials\"''?''\n*'''Leiandros:''' ''To face the Minotaur, you must first prove yourself ''worthy'' by completing three heroic trials.<br>We can't let people fresh off of the [[trireme]]s casually stroll to their deaths!<br>Pephka policy.''\n(If players choose \"What are these \"Pre-Trials\"?)\n**'''Kassandra:''' ''What do these Pre-Trials require me to do, exactly?''\n**'''Leiandros:''' ''There's the Trial of Strength, where you fight the greatest warrior in all of [[Krete]]. The Trial of Accuracy, which only a keen eye can overcome! And the Trial of Endurance, where you must brave...<br>The water!'' \n**'''Kassandra:''' ''One of your Trials is swimming?! That's\u2014this is a scheme to fleece me.''\n**'''Leiandros:''' ''[[Mercenary|Misthios]]'', I\u2014that's\u2014how could you even think such a thing?<br>You're a terrible person.''\n(If players choose \"What is the \"The Prize of Pephka\"?\")\n*'''Kassandra:''' ''What exactly is the \"Prize of Pephka\"?''\n*'''Leiandros:''' ''Why, it's limitless riches of course! Warriors defeated by the Minotaur no longer need their [[drachma]]e, so we collect their coins into a grand prize that only a champion who kills the beast may claim.''\n*'''Kassandra:''' ''Your grand prize is drachmae looted from the dead?!''\n*'''Leiandros:''' Misthios'', please believe me, many of those coins go straight to the Lato School for Children Whose Parents Were Tragically Killed By the Minotaur!''\n*'''Kassandra:''' ''I see.''\n(If players choose \"What exactly is the Minotaur?\") <!--present if the Minotaur already slain-->\n*'''Kassandra:''' ''Tell me about your \"Minotaur.\"''\n*'''Leiandros:''' ''Part man, part beast, all monster. His horns are as sharp as blades, and his blades are as sharp as... horns? Wait, no, I always mess that up\u2014''\n*'''Kassandra:''' ''A vivid portrait. You must have seen him personally.''\n*'''Leiandros:''' ''Many times. And I'll tell you this much\u2014no one's ever returned from where he dwells.''\n(If players choose \"What does the name \"[[Melite]]\" mean to you?\") <!--present if Kythera Island's Cultist-quest chain completed -->\n*'''Kassandra:''' ''How would you react if I said the name... \"Melite\"?''\n*'''Leiandros:''' ''Uh, Melite? Well, I\u2014No. I've not heard of them. It's a strange name, one I'd remember.''\n(I'm ready.)\n*'''Kassandra:''' ''I'll do your Trials\u2014''\n*'''Leiandros:''' Pre''-Trials!''\n*'''Kassandra:''' ''\u2014I'll do your ''Pre-Trials'', but then the Minotaur's head is mine.''\n*'''Leiandros:''' ''Fantastic! Don't forget to collect Tokens of Success from the Trial Masters to prove your victories.''\nA [[Kore|woman]] interrupted the conversation, walking to them.\n*'''Kore:''' ''Ugh, another \"champion,\" here to save us all from Pephka's long queues and overpriced Minotaur merchandise.''\n*'''Leiandros:''' ''Ah, may I introduce my wife, Kore! A rare beauty, and so\u2014<br>So loud, in front of my new friend.''\n*'''Kore:''' ''Please, Leiandros\u2014there are more important things than glory.''\n<tabber>\n|-|Glory comes first.=\n*'''Kassandra:''' ''Nothing stands in the way of glory. Statues aren't carved to honor the insignificant.''\n*'''Kore:''' ''And what about my daughter? Is she insignificant, \"hero\"?''\n|-|Family comes first.=\n*'''Kassandra:''' ''Not everyone with a [[sword]] seeks glory. Family comes before all else.''\n*'''Kore:''' ''Exactly, ''misthios''. That's what I keep telling this cowardly slime in the shape of my husband.''\n*'''Leiandros:''' ''..Hey!''\n*'''Kore:''' ''It's\u2014it's our daughter.''\n</tabber>\n*'''Kassandra:''' ''Your daughter?''\n*'''Kore:''' ''[[Amara]]. She ran off days ago.''\n*'''Leiandros:''' ''I'm sure she's\u2014she's just fine!<br>Don't worry about Amara\u2014not when there's a Minotaur to slay!<br />\"GRR!\" \"Slash-slash!\" Big fight! Lots of blood! Think of the fame, ''misthios''! Think of winning the ''Prize of Pephka!\nLeiandros leaned forward, whispering to Kassandra.\n*'''Leiandros:''' ''Please trust me, champion\u2014nothing is what it seems in Pepha. Solving one problem may just solve all the others...''\nLeiandros stepped backwards and raised his voice again.\n*'''Leiandros:''' ''Go, my legendary friend! The Pre-Trials of the Minotaur await!''\nKassandra departed to complete the trials mentioned by Leiandros. In doing so, she collected all the three tokens to prove her success.\n*'''Kassandra:''' ''That's all 3 Tokens. Better [[Cashing In On the Cow|meet]] Leiandros at the [[Warrior's Rest]].''",
+    "Section_Outcome": "Kassandra met Leiandros, agreeing to participate in the \"pre-trials\" before facing the Minotaur. She obtained all three tokens as proof of her success.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Leiandros",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "In Lato, Kassandra spotted a group of townsfolk crowding around Leiandros.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Leiandros:''' ''Who among you is afraid?!<br>Who among you is frail or weak?!<br>Who among you... IS STRONG?!<br>Then I say prove yourselves! Come face-to-face with He of the Blood-Soaked Hooves! He of the Entrail-Splattered Horns! You know his name, you know his roar! The Beast, the Myth... THE MINOTAAAAAUR!!!<br>Maximum of three members per Minotaur hunting party; purchase of Minotaur-themed merchandise ''is'' mandatory before proceeding; no legendary warriors, pregnant heroes, or legitimate gods (demi, semi, or otherwise) are eligible to fight the Minotaur; and no pushing\u2014you'll all get a chance at dismemberment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached Leiandros.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Leiandros:''' ''Ah, a mighty specimen approaches! Are you ready for honor? For glory?!'' For certain death?!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I'm ready for two-thirds of that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Leiandros:''' ''Then you seek combat with... THE MINOTAUR!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|If players already defeated the Minotaur=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''The Minotaur's already dead, by my hand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Leiandros:''' ''You killed the Minotaur?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "11",
+            "content": "The man laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Leiandros:''' ''I'm sorry my friend, you're very mistaken! Some scam artist fooled you with flame-lit corridors and flimsy costumes! The 100% genuine and completely real Minotaur lives here! And, uh, you better believe it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|If players have not defeated the Minotaur=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "14",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "15",
+            "content": "There's no Minotaur here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''No self-respecting Minotaur would live in Lato.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Leiandros:''' ''He does.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Leiandros:''' ''Yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''... In Lato?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Leiandros:''' ''Yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''This Lato?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Leiandros:''' ''I assure you, the beast lives here, and he wants nothing more than a wealthy - uh, a worthy opponent to battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "24",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "25",
+            "content": "I'm interested=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I can't see any labyrinths or golden balls of string... but, if there's a Minotaur to be fought, I'm listening.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Leiandros:''' ''Then listen well, my observant friend!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "28",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "29",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Leiandros:''' ''If you slay the Minotaur, you would be [[Theseus]] reborn!<br>And you'd get to take home the ''Prize of [[Pephka]]!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "31",
+            "content": "(Accept \u2013 I'll kill your Minotaur.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Your Minotaur must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Leiandros:''' ''Sounds like we have... ''another contender!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "The crowd cheered as Leiandros sold the scene to them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Leiandros:''' ''It's time for the Trials of the Minotaur.. Pre-Trials.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "36",
+            "content": "(If players choose \"\"Pre-Trials\"?!\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''... Did you just say Minotaur ''\"Pre-Trials\"''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Leiandros:''' ''To face the Minotaur, you must first prove yourself ''worthy'' by completing three heroic trials.<br>We can't let people fresh off of the [[trireme]]s casually stroll to their deaths!<br>Pephka policy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "39",
+            "content": "(If players choose \"What are these \"Pre-Trials\"?)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "40",
+            "content": "**'''Kassandra:''' ''What do these Pre-Trials require me to do, exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "**'''Leiandros:''' ''There's the Trial of Strength, where you fight the greatest warrior in all of [[Krete]]. The Trial of Accuracy, which only a keen eye can overcome! And the Trial of Endurance, where you must brave...<br>The water!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "**'''Kassandra:''' ''One of your Trials is swimming?! That's\u2014this is a scheme to fleece me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "**'''Leiandros:''' ''[[Mercenary|Misthios]]'', I\u2014that's\u2014how could you even think such a thing?<br>You're a terrible person.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "44",
+            "content": "(If players choose \"What is the \"The Prize of Pephka\"?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''What exactly is the \"Prize of Pephka\"?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "46",
+            "content": "*'''Leiandros:''' ''Why, it's limitless riches of course! Warriors defeated by the Minotaur no longer need their [[drachma]]e, so we collect their coins into a grand prize that only a champion who kills the beast may claim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Your grand prize is drachmae looted from the dead?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "48",
+            "content": "*'''Leiandros:''' Misthios'', please believe me, many of those coins go straight to the Lato School for Children Whose Parents Were Tragically Killed By the Minotaur!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "50",
+            "content": "(If players choose \"What exactly is the Minotaur?\") <!--present if the Minotaur already slain-->",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D33",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Tell me about your \"Minotaur.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "52",
+            "content": "*'''Leiandros:''' ''Part man, part beast, all monster. His horns are as sharp as blades, and his blades are as sharp as... horns? Wait, no, I always mess that up\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''A vivid portrait. You must have seen him personally.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Leiandros:''' ''Many times. And I'll tell you this much\u2014no one's ever returned from where he dwells.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "55",
+            "content": "(If players choose \"What does the name \"[[Melite]]\" mean to you?\") <!--present if Kythera Island's Cultist-quest chain completed -->",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D37",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''How would you react if I said the name... \"Melite\"?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "57",
+            "content": "*'''Leiandros:''' ''Uh, Melite? Well, I\u2014No. I've not heard of them. It's a strange name, one I'd remember.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "58",
+            "content": "(I'm ready.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''I'll do your Trials\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "60",
+            "content": "*'''Leiandros:''' Pre''-Trials!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''\u2014I'll do your ''Pre-Trials'', but then the Minotaur's head is mine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "62",
+            "content": "*'''Leiandros:''' ''Fantastic! Don't forget to collect Tokens of Success from the Trial Masters to prove your victories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "63",
+            "content": "A [[Kore|woman]] interrupted the conversation, walking to them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "64",
+            "content": "*'''Kore:''' ''Ugh, another \"champion,\" here to save us all from Pephka's long queues and overpriced Minotaur merchandise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "65",
+            "content": "*'''Leiandros:''' ''Ah, may I introduce my wife, Kore! A rare beauty, and so\u2014<br>So loud, in front of my new friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "66",
+            "content": "*'''Kore:''' ''Please, Leiandros\u2014there are more important things than glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "67",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "68",
+            "content": "|-|Glory comes first.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Nothing stands in the way of glory. Statues aren't carved to honor the insignificant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "70",
+            "content": "*'''Kore:''' ''And what about my daughter? Is she insignificant, \"hero\"?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "71",
+            "content": "|-|Family comes first.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Not everyone with a [[sword]] seeks glory. Family comes before all else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "73",
+            "content": "*'''Kore:''' ''Exactly, ''misthios''. That's what I keep telling this cowardly slime in the shape of my husband.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "74",
+            "content": "*'''Leiandros:''' ''..Hey!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "75",
+            "content": "*'''Kore:''' ''It's\u2014it's our daughter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "76",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D52",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Your daughter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "78",
+            "content": "*'''Kore:''' ''[[Amara]]. She ran off days ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "79",
+            "content": "*'''Leiandros:''' ''I'm sure she's\u2014she's just fine!<br>Don't worry about Amara\u2014not when there's a Minotaur to slay!<br />\"GRR!\" \"Slash-slash!\" Big fight! Lots of blood! Think of the fame, ''misthios''! Think of winning the ''Prize of Pephka!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "80",
+            "content": "Leiandros leaned forward, whispering to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "81",
+            "content": "*'''Leiandros:''' ''Please trust me, champion\u2014nothing is what it seems in Pepha. Solving one problem may just solve all the others...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "82",
+            "content": "Leiandros stepped backwards and raised his voice again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "83",
+            "content": "*'''Leiandros:''' ''Go, my legendary friend! The Pre-Trials of the Minotaur await!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "84",
+            "content": "Kassandra departed to complete the trials mentioned by Leiandros. In doing so, she collected all the three tokens to prove her success.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''That's all 3 Tokens. Better [[Cashing In On the Cow|meet]] Leiandros at the [[Warrior's Rest]].''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

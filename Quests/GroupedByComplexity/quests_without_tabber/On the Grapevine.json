@@ -1,0 +1,210 @@
+{
+    "Quest_Name": "On the Grapevine",
+    "Quest_ID": "226369",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD On the Grapevine 1.png",
+        "description": "'Through a series of letters, the ever resourceful Kassandra figured out how the Phila|Tempest was solidifying the Order of the Ancients|Order's influence across Achaia.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Shadow Heritage'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Achaia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''On the Grapevine''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra attempted to recover information about the [[Phila|Tempest]].",
+    "Section_Dialogue": "While in the [[Teichos of Herakles]], Kassandra recovered a document.\n*'''Warning Letter:'''<br>''Bones to ash, and ash to dust. We've been watching [[Iran|across]] the [[Aegean Sea|Aegean]], biding and waiting for our time. I trust that our forces were helpful in aiding your goals before, and this time I believe that our goals align. Don't worry, we haven't forgotten our agreement. We just need the Eagle Bearer. We've done your [[Cult of Kosmos|cult]] favors, and we've come to claim ours. \u2013 The Tempest''\n*'''Kassandra:''' ''\"We've done your cult favors and we've come to claim ours.\" Signed by the Tempest. The [[Order of the Ancients|Order]] and the Cult working together. Not surprising.''\n[[File:ACOD On the Grapevine 2.png|thumb|250px|Eivor finding the note in the fortress]]\nKassandra travelled to the [[Olouros Fortress]]. [[Ikaros]] determined the intel she required was in the guard tower.\n*'''Kassandra:''' ''Here it is.''\nShe sneaked in and recovered the military orders.\n*'''Military Orders:'''<br>''Double our patrols to the East and be prepared if [[Athens]] decides to invade our waters again. Relocate some forces in the east to bolster our patrols if you must. We need to buy time if we are to have our new [[Chimera's Breath|weapon]] fitted onto our fleets.''\n*'''Kassandra:''' ''\"We need time to get the new weapons fitted onto our fleet.\" New weapons? I don't like the sound of that.''\n[[File:ACOD On the Grapevine 4.png|thumb|250px|Eivor recovering the orders in the Leader House]]\nKassandra travelled to the [[Leader House, Achaia|Leader House]] in [[Patrai]]. Ikaros identified the intel she required on a table inside.\n*'''Kassandra:''' ''There it is!''\nShe infiltrated the leader house and recovered the intel.\n*'''Order Manifesto:'''<br>''The Tempest is performing well, better than we imagined. Our concerns were unfounded\u2014her ties to this place have not clouded her judgement or affected her actions. She is bringing the storm. Still... I will continue my observations.''\n*'''Kassandra:''' ''\"The Tempest is performing flawlessly, but I will continue my observations.\" Someone sent this woman to spy on the Tempest.''\n[[File:ACOD On the Grapevine 3.png|thumb|250px|Eivor finding the orders in the House of the Phoenician]]\nKassandra travelled to the [[House of the Phoenician]] in [[Boura]]. Ikaros found the note on a table inside.\n*'''Kassandra:''' ''I see it.''\nShe infiltrated the house and recovered the note.\n*'''Reply from the Tempest:'''<br>''Capture the stranded people in Boura. We can't let them get established there. I know for a fact that [[Kleta|someone]] from that village will be helping them... Someone unable to stay idle around people in need. Make sure to round them up\u2014all of them.''\n*'''Kassandra:''' ''\"Capture the stranded people in Boura. We can't let them establish a foothold there.\"<br>I wonder if Kleta knows about this.''\n\nAfter collecting a second piece of intel, Kassandra remarked on her foe's influence.\n*'''Kassandra:''' ''The Tempest has heavy influence here. I need to know more.''\n\nAfter collecting a third piece, Kassandra reiterated her need to learn more.\n*'''Kassandra:''' ''I need to know more about the Tempest.''\n\nAfter collecting all four pieces of information she needed, Kassandra assessed her new foe.\n*'''Kassandra:''' ''That's all the letters I need.<br>The Tempest is a brilliant strategist. A straight fight won't work. We'll need a plan to defeat her.''",
+    "Section_Outcome": "Kassandra found all four pieces of information related to the Tempest.",
+    "Section_Trivia": "*The other three pieces of intel will not spawn until the first note (from the Teichos of Herakles) is collected.\n*The dialogue after collecting the note in the House of the Phoenician will not trigger if [[Prodigal]] has already been completed.\n*The dialogue after collecting the note in Olouros Fortress will not trigger if [[Persian Puppetry]] has already been completed.\n*The notes can still be collected if [[Leviathan's Maw]] has already been completed, but no dialogue will trigger.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Shadow Heritage]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in the [[Teichos of Herakles]], Kassandra recovered a document.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Warning Letter:'''<br>''Bones to ash, and ash to dust. We've been watching [[Iran|across]] the [[Aegean Sea|Aegean]], biding and waiting for our time. I trust that our forces were helpful in aiding your goals before, and this time I believe that our goals align. Don't worry, we haven't forgotten our agreement. We just need the Eagle Bearer. We've done your [[Cult of Kosmos|cult]] favors, and we've come to claim ours. \u2013 The Tempest''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''\"We've done your cult favors and we've come to claim ours.\" Signed by the Tempest. The [[Order of the Ancients|Order]] and the Cult working together. Not surprising.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "4",
+            "content": "[[File:ACOD On the Grapevine 2.png|thumb|250px|Eivor finding the note in the fortress]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra travelled to the [[Olouros Fortress]]. [[Ikaros]] determined the intel she required was in the guard tower.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Here it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "She sneaked in and recovered the military orders.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Military Orders:'''<br>''Double our patrols to the East and be prepared if [[Athens]] decides to invade our waters again. Relocate some forces in the east to bolster our patrols if you must. We need to buy time if we are to have our new [[Chimera's Breath|weapon]] fitted onto our fleets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''\"We need time to get the new weapons fitted onto our fleet.\" New weapons? I don't like the sound of that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "10",
+            "content": "[[File:ACOD On the Grapevine 4.png|thumb|250px|Eivor recovering the orders in the Leader House]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "Kassandra travelled to the [[Leader House, Achaia|Leader House]] in [[Patrai]]. Ikaros identified the intel she required on a table inside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''There it is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "13",
+            "content": "She infiltrated the leader house and recovered the intel.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Order Manifesto:'''<br>''The Tempest is performing well, better than we imagined. Our concerns were unfounded\u2014her ties to this place have not clouded her judgement or affected her actions. She is bringing the storm. Still... I will continue my observations.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''\"The Tempest is performing flawlessly, but I will continue my observations.\" Someone sent this woman to spy on the Tempest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "16",
+            "content": "[[File:ACOD On the Grapevine 3.png|thumb|250px|Eivor finding the orders in the House of the Phoenician]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "17",
+            "content": "Kassandra travelled to the [[House of the Phoenician]] in [[Boura]]. Ikaros found the note on a table inside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I see it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "19",
+            "content": "She infiltrated the house and recovered the note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Reply from the Tempest:'''<br>''Capture the stranded people in Boura. We can't let them get established there. I know for a fact that [[Kleta|someone]] from that village will be helping them... Someone unable to stay idle around people in need. Make sure to round them up\u2014all of them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''\"Capture the stranded people in Boura. We can't let them establish a foothold there.\"<br>I wonder if Kleta knows about this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "23",
+            "content": "After collecting a second piece of intel, Kassandra remarked on her foe's influence.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''The Tempest has heavy influence here. I need to know more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "26",
+            "content": "After collecting a third piece, Kassandra reiterated her need to learn more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I need to know more about the Tempest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "29",
+            "content": "After collecting all four pieces of information she needed, Kassandra assessed her new foe.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''That's all the letters I need.<br>The Tempest is a brilliant strategist. A straight fight won't work. We'll need a plan to defeat her.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

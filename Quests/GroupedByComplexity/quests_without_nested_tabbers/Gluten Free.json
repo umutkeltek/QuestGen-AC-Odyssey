@@ -1,0 +1,176 @@
+{
+    "Quest_Name": "Gluten Free",
+    "Quest_ID": "224603",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Gluten Free 1.png",
+        "description": "'After discovering the Cult of Kosmos|Cult had kidnapped Lagos' family, Kassandra found the entrance to the Cultist Cave|cave where they were being held hostage. She only hoped she could free them before it was too late.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "White Lies and Blackmail",
+        "next": "Judge, Jury, Executioner (Odyssey)|Judge, Jury, Executioner",
+        "source": "Kassandra",
+        "location": "Arkadia, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''Gluten Free''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra went to look for [[Lagos]]' family after learning they had been kidnapped by the [[Cult of Kosmos]].",
+    "Section_Dialogue": "Kassandra infiltrated the nondescript cave under the farm and slew the [[Cult of Kosmos|Cult]] guards within. In the depths of the cave, she found a woman and child, [[Philonoe]] and [[Niloxenos]], locked in cages. She released and spoke to them as the two tearfully embraced. Philonoe released the child and turned her attention to Kassandra.\n*'''Philonoe:''' ''Who are you?''\n*'''Kassandra:''' ''Kassandra. [[Brasidas]] sent me.''\n*'''Niloxenos:''' ''Are we going home?''\n*'''Philonoe:''' ''I have no idea.''\n*'''Philonoe:''' ''We've been trapped in this filthy cave for days with no word from [[Lagos]] whatsoever.''\n*'''Kassandra:''' ''You're free, but it's not safe to return to Lagos, yet.''\n*'''Niloxenos:''' ''Are those scary men still with ''pater''?''\n(If players asked \"What have you heard about the Cult of Kosmos?\")\n*'''Kassandra:''' ''Have you heard of the Cult of Kosmos?''\n*'''Philonoe:''' ''Only in whispers... Ever since my husband found new \"business partners,\" they've stationed guards around our home. For our safety, he said. Then one day, those guards dragged us here.''\n(Leave - \"I'll deal with the scary men.\")<br>\n[[File:ACOD Gluten Free 2.png|thumb|250px|Kassandra speaking to Niloxenos]]\nKassandra knelt down and smiled at Niloxenos.\n*'''Kassandra:''' ''They're making your ''pater'' do things he doesn't want to do.''\nShe stood and turned to Philonoe, while still addressing the child.\n*'''Kassandra:''' ''I'll find Lagos and release him from these scary men.''\n*'''Philonoe:''' ''And what of us? I can't go back to that wretch, and now that these guards are dead, we're in danger.''\n*'''Kassandra:''' ''For now, go to my friend, Brasidas. He'll meet you at the safe house northeast of Tegea.''\n*'''Philonoe:''' ''Where Lagos has his secret meetings...''\nShe remained skeptical of the whole turn of events. Niloxenos turned to her.\n*'''Niloxenos:''' ''Are you angry, ''mater''?''\nPhilonoe composed herself.\n*'''Philonoe:''' ''I am grateful you saved us. We'll go find Brasidas. Chaire.''",
+    "Section_Outcome": "Kassandra rescued Lagos' family and removed the Cult's leverage over him. This gave him the option to abandon the Cult altogether.",
+    "Section_Trivia": "*Completing this quest reduces Lagos' persistent bounty, presumably as a result of him learning Kassandra rescued his family, but maintaining it just enough to placate the Cult.  Together with [[Breaking Bread]] and [[Fourth-Degree Burns]], this can remove up to two of the three helmets before dealing with Lagos and lifting the bounty altogether.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Sans gluten]]",
+    "Chapter_SequenceID": "18.",
+    "Chapter_Name": "The Cult and the Archon",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra infiltrated the nondescript cave under the farm and slew the [[Cult of Kosmos|Cult]] guards within. In the depths of the cave, she found a woman and child, [[Philonoe]] and [[Niloxenos]], locked in cages. She released and spoke to them as the two tearfully embraced. Philonoe released the child and turned her attention to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Philonoe:''' ''Who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Kassandra. [[Brasidas]] sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Niloxenos:''' ''Are we going home?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Philonoe:''' ''I have no idea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Philonoe:''' ''We've been trapped in this filthy cave for days with no word from [[Lagos]] whatsoever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You're free, but it's not safe to return to Lagos, yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Niloxenos:''' ''Are those scary men still with ''pater''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "9",
+            "content": "(If players asked \"What have you heard about the Cult of Kosmos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Have you heard of the Cult of Kosmos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Philonoe:''' ''Only in whispers... Ever since my husband found new \"business partners,\" they've stationed guards around our home. For our safety, he said. Then one day, those guards dragged us here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Leave - \"I'll deal with the scary men.\")<br>",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "I1",
+            "global_id": "13",
+            "content": "[[File:ACOD Gluten Free 2.png|thumb|250px|Kassandra speaking to Niloxenos]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "14",
+            "content": "Kassandra knelt down and smiled at Niloxenos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''They're making your ''pater'' do things he doesn't want to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "16",
+            "content": "She stood and turned to Philonoe, while still addressing the child.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll find Lagos and release him from these scary men.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Philonoe:''' ''And what of us? I can't go back to that wretch, and now that these guards are dead, we're in danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''For now, go to my friend, Brasidas. He'll meet you at the safe house northeast of Tegea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Philonoe:''' ''Where Lagos has his secret meetings...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "21",
+            "content": "She remained skeptical of the whole turn of events. Niloxenos turned to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Niloxenos:''' ''Are you angry, ''mater''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "23",
+            "content": "Philonoe composed herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Philonoe:''' ''I am grateful you saved us. We'll go find Brasidas. Chaire.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

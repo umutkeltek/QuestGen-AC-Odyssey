@@ -1,0 +1,203 @@
+{
+    "Quest_Name": "The Nemean Lion",
+    "Quest_ID": "223194",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Nemean Lion | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "NemeanLion.jpg",
+        "description": "'The Nemean Lion held Argolis in a grip of fear - those who roamed into the wilds rarely returned. Though it was a killer, Kassandra saw in it a noble beauty, and was sad she had to slay it.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support, Character {{c|Daphnae}}",
+        "previous": "The Lykaon Wolf",
+        "next": "The Goddesses' Hunt",
+        "source": "Kassandra",
+        "location": "Sinkholes of Herakles, Argolis, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Nemean Lion''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of [[Daphnae]], the acting leader of the [[Daughters of Artemis]], Kassandra hunted down the fabled [[Nemean Lion]].",
+    "Section_Dialogue": "Kassandra travelled to the [[Sinkholes of Herakles]] in [[Argolis]], finding the lion at its lair, along with its pack mates.\n*'''Kassandra:''' ''King of beasts.''\nKassandra entered the lair and engaged the lion and its pack, eventually killing them, claiming the legendary lion's pelt.\n\nKassandra returned to Daphnae to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n(\"I have the Nemean Lion pelt.\")\n*'''Kassandra:''' ''The Nemean Lion's pelt.''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''Magnificent, as is its hunter.''\n<tabber>\n|-|I am magnificent.=\n*'''Kassandra:''' ''I won't argue with that.''\n*'''Daphnae:''' ''The gods must envy your humility.''\n|-|Flirt \u2013 So are you.=\n*'''Kassandra:''' ''Strength is powerless in the face of beauty. Even [[Herakles|Heracles]] fell to its sway.''\n*'''Daphnae:''' ''You slay me as easily with your words as your weapons do these beasts.''\n{{#tag:tabber|\nNo more talking.=\n*'''Kassandra:''' ''You haven't seen anything yet.''\nKassandra drew closer to Daphnae and the two shared an intimate moment.\n{{!}}-{{!}}\nSome other time.=\n*'''Kassandra:''' ''Speaking of beasts, we should talk about the others.''\n}}\n</tabber>\n(Leave \u2013 \"I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''",
+    "Section_Outcome": "Kassandra found and killed the Nemean Lion, recovering its pelt for Daphnae. In return, she received [[Pandora's Kopis]] as a reward.",
+    "Section_Trivia": "*The dialogue leading to the intimate moment is only truly available if a previous Flirt option, from either dialogue or handing over a different pelt, has been taken beforehand.  Otherwise, the dialogue is skipped even if the preceding Flirt option is taken here.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.g",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the [[Sinkholes of Herakles]] in [[Argolis]], finding the lion at its lair, along with its pack mates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''King of beasts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra entered the lair and engaged the lion and its pack, eventually killing them, claiming the legendary lion's pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to Daphnae to deliver the pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(\"I have the Nemean Lion pelt.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The Nemean Lion's pelt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra handed the pelt over to Daphnae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Daphnae:''' ''Magnificent, as is its hunter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|I am magnificent.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I won't argue with that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Daphnae:''' ''The gods must envy your humility.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Flirt \u2013 So are you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Strength is powerless in the face of beauty. Even [[Herakles|Heracles]] fell to its sway.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Daphnae:''' ''You slay me as easily with your words as your weapons do these beasts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "18",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "19",
+            "content": "No more talking.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''You haven't seen anything yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "21",
+            "content": "Kassandra drew closer to Daphnae and the two shared an intimate moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "22",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "23",
+            "content": "Some other time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Speaking of beasts, we should talk about the others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "25",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "26",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O2",
+            "global_id": "27",
+            "content": "(Leave \u2013 \"I'll return soon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "QuestName": "Myths and Minotaurs",
+    "QuestID": "224115",
+    "Revision": {
+        "id": "1047154",
+        "parentid": "894918",
+        "timestamp": "2023-06-13T02:24:48Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047154",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "79knzy120hysgcttiulq9jdfc7c0y6v"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Though the Ardos|young boy's claim of a living Minotaur seemed improbable to her, Kassandra decided to help him search for his Nikios|father.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": null,
+        "next": "Of Minotaurs and Men",
+        "source": "Kassandra",
+        "location": "Knossos Palace, Messara, Krete, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Myths and Minotaurs''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a [[Ardos|young boy]] at the [[Knossos Palace]] who claimed to have seen a living [[Minotaur]].",
+    "Section_Dialogue": "Exploring the Knossos Palace, Kassandra came upon a camp someone had put together. Intrigued, she inspected it. As she knelt before the chest in the camp, a voice rang behind her.\n*'''Ardos:''' ''Don't touch that chest! It's mine!''\nKassandra stood up and turned to face the boy.\n\n<tabber>\n|-|I'm not a thief.=\n*'''Kassandra:''' ''I'm no thief, but if I was\u2014<br>I'd want something more valuable.''\n*'''Ardos:''' ''Take that'' back.\n|-|Try and stop me.=\n*'''Kassandra:''' ''Feeling brave, are you?''\n*'''Ardos:''' ''Me? No. Brave people are just looking for trouble.<br>But if ''you'' wanna be brave? ''Open it.\n*'''Kassandra:''' ''This is junk.''\n*'''Ardos:''' ''Maybe to you\u2014<br>\u2014but it's all I have.''\n</tabber>\n*'''Kassandra:''' ''These ruins are an... interesting place to set up camp. What brings you here?''\nArdos walked past her, and then sighed.\n*'''Ardos:''' ''A long time ago, below this very spot, my ''pater''\u2014the great adventurer, [[Nikios]]\u2014entered the [[Labyrinth of Lost Souls|labyrinth]] to steal the [[Minotaur]]'s treasure.<br />As I waited outside, I heard shouts and roars, then his men came pouring out\u2014<br />His men, but not ''pater''. I need to save him.''\n\n<tabber>\n|-|Leiandros' questline not started=\n{{#tag:tabber|\nThe Minotaur is no match for me.=\n*'''Kassandra:''' ''Your monster is no match for my or my [[Spear of Leonidas|spear]].''\n*'''Ardos:''' ''Suuure.''\n*'''Kassandra:''' ''If he's real, killing a creature of legend would be worth my time.''\n*'''Ardos:''' ''Of course he's real!''\n{{!}}-{{!}}\nThe Minotaur is a mighty beast.=\n*'''Kassandra:''' ''The Minotaur would be a match for any mortal... but wasn't it slain by [[Theseus]]?''\n*'''Ardos:''' ''No, ''[[Mercenary|misthios]]''. It's very much alive and well.''\n}}\n|-|Leiandros' questline incomplete=\n*'''Kassandra:''' ''A tragic tale... But last I heard, the Minotaur was living in Pephka. He's quite famous.''\n*'''Ardos:''' ''They don't know what they're talking about! The real Minotaur is in [[Messara]]!''\n*'''Kassandra:''' ''That's what they said in Pephka.''\n*'''Ardos:''' ''It's a scam.<br>Trust me, I know scams.''\n|-|Leiandros' questline complete=\n{{#tag:tabber|\nThe Minotaur was just a man.=\n*'''Kassandra:''' ''The Minotaur was just a [[Leiandros|man in a mask]].<br>And not much a man at that.''\n{{!}}-{{!}}\nYou shouldn't believe the myths.=\n*'''Kassandra:''' ''I've met the Minotaur... He's not what you think.''\n}}\n*'''Ardos:''' ''Those idiots in [[Pephka]]\u2014they wouldn't know a ''real'' Minotaur if it ran them through with its horns!<br>It's not like that here, ''misthios.\n</tabber>\n*'''Kassandra:''' ''Where is he then? You said the labyrinth was beneath us\u2014''\n*'''Ardos:''' ''Yeah! There's a ''creepy'' looking trapdoor beneath the temple!''\n*'''Kassandra:''' ''Take me there, and I will slay the Minotaur and find your ''pater's\u2014\nArdos looked at her hopefully. She stammered.\n*'''Kassandra:''' ''...Find your ''pater.\n*'''Ardos:''' ''You-you'll do that?''\n(Accepting the quest segues into [[Of Minotaurs and Men]])",
+    "Section_Outcome": "Kassandra set about finding a way inside, by investigating the men who accompanied Ardos' father Nikios inside several years prior.",
+    "Section_Gallery": null,
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,43 @@
+{
+    "QuestName": "Keys to Happiness?",
+    "QuestID": "225064",
+    "Revision": {
+        "id": "1047166",
+        "parentid": "963634",
+        "timestamp": "2023-06-13T02:26:39Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047166",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "912b0wmgsibwmh83fmoz5p5k4edemqe"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Now armed with the mercenary's spear and the \"Gorgon Disk|key\" of the Daughters of Artemis, Kassandra decided to return to Bryce.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Heavy is the Spear",
+        "next": "Writhing Dead",
+        "source": "Kassandra",
+        "location": "Petrified Valley, Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Keys to Happiness?''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Bryce]] outside the [[Petrified Temple]], having retrieved the [[Gorgon Disk|key]] and a [[spear]].",
+    "Section_Dialogue": "Kassandra returned to Bryce at the entrance to the [[Petrified Temple]] with what she needed.\n\n(Mercenary fought, [[Heavy is the Spear]] completed)\n*'''Kassandra:''' ''The [[Zetes the Retired|Mercenary]] knew nothing. He never made it inside the lair.''\n*'''Bryce:''' ''Then it was a waste of time! Ligeia waits, and we've done nothing to help her!''\n*'''Kassandra:''' ''Not exactly\u2014the Mercenary carried this spear, which he claims killed the Writhing Dread.''\n*'''Bryce:''' ''No, no, the Creature took Ligeia! It ''can't'' be dead\u2014it awaits in its lair, even now!''\n*'''Kassandra:''' ''Then there may be a piece of this puzzle we don't yet understand.''\n(Mercenary spoken to, but not fought)\n*'''Kassandra:''' ''I found the Mercenary. Just another man obsessed with his spear.''\nBryce snorted and rolled her eyes.\n*'''Bryce:''' ''Aren't they all?''\nBryce asked what he knew.\n*'''Bryce:''' ''Well? What else did the Mercenary know? How do we get inside to save Ligeia and kill the Creature?''\n*'''Kassandra:''' ''I didn't question him very thoroughly. ...Or take his spear.''\nKassandra rubbed the back of her head.\n*'''Bryce:''' ''Then who knows what vital clue you may have missed?!''\n*'''Kassandra:''' ''It might be worth returning to see what he knows...''\n\nWhether Kassandra spoke to the mercenary or not, Bryce asked if she found the key.\n*'''Bryce:''' ''Have you found a way inside the lair?''\n*'''Kassandra:''' ''Ligeia's story was true. The Daughters of Artemis were protecting this... [[Gorgon Disk|Disk]]... Key? This\u2014''\nKassandra held out the disk, struggled to describe it, then gave up with a sigh. She returned it to her pack.\n*'''Kassandra:''' ''I have what opens the lair.''\n\n('Heavy is the Spear' complete)\n*'''Bryce:''' ''And... You didn't hurt any of the Daughters when you took it?''\n\n<tabber>\n|-|Lie \u2013 I killed them silently.=\n*'''Kassandra:''' ''They didn't hear me or my blades... but they felt them, Bryce.''\n*'''Bryce:''' ''Why?! Why would you\u2014''\n*'''Kassandra:''' ''This disk is a prized possession\u2014if I hadn't killed them, I never would have made it out alive, and Ligeia would be lost.''\n*'''Bryce:''' ''I\u2014I suppose you did what you had to. Ligeia's worth any price.''\n|-|Nobody died.=\n*'''Kassandra:''' ''There was no need for violence. The Daughters of Artemis didn't even know I was there.''\n*'''Bryce:''' ''Then [[Tyche]] truly is on our side. Ligeia still stands a chance.''\n</tabber>\n\n('Heavy is the Spear' not complete)\n*'''Bryce:''' ''Then what are you waiting for? Use the disk! Open the door!''\n\n<tabber>\n|-|Accept \u2013 Let's go.=\n*'''Kassandra:''' ''There's no time for the Mercenary. Whatever he knows/ we'll find out ourselves. We're opening that door, now.''\n*'''Bryce:''' ''You have Ligeia's heart, Kassandra.''\n|-|I need to talk to the Mercenary.=\n*'''Kassandra:''' ''...No. I'm not walking in there without talking to the Mercenary first. He might know something we could use.''\n*'''Bryce:''' ''He might know how not to be a ''coward!'' Kassandra, Ligeia needs us now! Open the door. Open it!''\nBryce fumed as Kassandra left once again. \n\nWhen Kassandra returned, Bryce was still furious.\n{{#tag:tabber|\n'Heavy is the Spear' still not complete=\n*'''Bryce:''' ''The cowardly ''misthios''! What terribly important items might you need now, before you keep your promise to save my lover?''\n:Repeat of dialogue options from [[A Slithery Plea]]\n{{!}}-{{!}}\n'Heavy is the Spear' complete=\n*'''Bryce:''' ''Did you find anything, coward?''\n*'''Kassandra:''' ''I found the  Mercenary's [[Gorgon Slayer|spear]]. He says it was made for the slaying of mythical beasts.''\n*'''Bryce:''' ''Then let the slaying begin.''\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra gathered what she needed to enter the Petrified Temple.",
+    "Section_Trivia": "* The dialogue with Bryce does not acknowledge Kassandra being the leader of the Daughters of Artemis, should the player have earned that title during [[Artemis's Request]]. Being the leader allows you to enter the village and the cave peacefully during [[Hard to Artemis]], but when Bryce asks you if you killed any Daughters, there are no options that reflect this peaceful method.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

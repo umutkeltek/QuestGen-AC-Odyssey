@@ -1,0 +1,32 @@
+{
+    "Quest_Name": "A Specific General",
+    "Quest_ID": "222857",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "A Finger Tip",
+        "next": "Red Scent",
+        "source": "Kassandra",
+        "location": "Sanctuary of Athena Pronaia, Phokis",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''A Specific General''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''With so much to see in [[Sanctuary of Delphi|Delphi]], it may be hard to find me. I'm sitting at the plinth of the only bronze statue holding a spear and a sword. This great general is among seven of his [[Monument of Epigones|peers]].''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Ainigmata Ostraka",
+    "Chapter_Type": null,
+    "Quest_SequenceID": null
+}

@@ -1,0 +1,40 @@
+{
+    "QuestName": "Call to Arms (Mykonos)",
+    "QuestID": "223873",
+    "Revision": {
+        "id": "869011",
+        "parentid": "869010",
+        "timestamp": "2020-05-15T13:22:48Z",
+        "contributor": null,
+        "origin": "869011",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "eyw3maw1bjrjo9ojechn1tqgudid57n"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra in Mykonos | another [[Call to Arms (Melos) | memory]] of Kassandra on Melos"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Call to Arms (Mykonos) 3.png",
+        "description": "'To watch Kassandra cripple the Athens|Athenians was a thing to behold. As Spartan reinforcements flooded the Battleground of Silver Islands|beaches, Herodianos invited her to fight in one of the bloodiest battles Mykonos had ever seen.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Trouble in Paradise",
+        "next": "Hades, Meet Podarkes",
+        "source": "Kassandra",
+        "location": "Mykonos, Greece",
+        "date": "426 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Call to Arms''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Call came to free the [[Silver Islands]] from the yoke of overthrow the [[Athens|Athenian]] forces, and Kassandra was there to answer it.",
+    "Section_Dialogue": "Kassandra approached [[Herodianos]] at the Spartan camp on the beach.\n*'''Herodianos:''' ''Eagle Bearer! My name is Herodianos, second to [[Thaletas]] in battle. The dogs of war howl for blood, and thanks to you, Sparta now howls back.''\n*'''Kassandra:''' ''Sounds like a lot of howling.''\n(If extra ships were sunk during [[The Thaletas Way]])\n*'''Herodianos:''' ''And thanks to your victory against the Athenian fleet at sea, their best troops are at the bottom of the [[Aegean Sea|Aegean]]. The day is as good as ours! Join us.''\n(else)\n*'''Herodianos:''' ''Fight with us. Together, we'll run our shields through their skulls, and spears through their hearts.''\n(Accept \u2013 \"I'll fight for Sparta.\")\n*'''Kassandra:''' ''I'd be honored to fight with Sparta.''\n*'''Herodianos:''' ''To battle!''\n[[File:ACOd-Dioklesbattle.jpg|thumb|250px|Diokles in battle]]\nKassandra fought alongside the Spartans on the [[Battleground of Silver Islands|beach]].  During the battle, [[Diokles (Athenian Soldier)|Diokles]] appeared on the battlefield and challenged Kassandra. She defeated him and claimed a [[Cult of Kosmos notes|letter]] that confirmed what she already knew; that [[Podarkes]] was a member of the [[Cult of Kosmos]]. The Spartans eventually overwhelmed the Athenian forces, driving them from power on the Delos Islands.",
+    "Section_Outcome": "With Kassandra's help, the Spartan forces overwhelmed the Athenian support and took control of the islands, removing Podarkes' regime from leadership.",
+    "Section_Trivia": "*This quest yields the Cultist clue that formally unveils Podarkes as a member of the Cult of Kosmos, even though that has been known for some time.  If Podarkes is slain prior to this quest, this clue cannot be read.\n**Under certain circumstances, simply reloading the game will add the clue to Podarkes' submenu, even if he is already dead.\n*If any of the [[Ambition|quests]] for [[Lysander]] are active, killing Diokles counts as killing an ordinary Athenian ''[[polemarch]]'' and yields one of the seals.\n*Completing this memory will also complete the [[Bleeding Hearts and Stolen Money]], which part of [[Kyra]]'s storyline.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD Call to Arms (Mykonos) 1.png|Herodianos asking Kassandra for assistance\nACOD Call to Arms (Mykonos) 2.png|Kassandra agreeing to help the Spartans\nACOD Call to Arms (Mykonos) 4.png|Diokles\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

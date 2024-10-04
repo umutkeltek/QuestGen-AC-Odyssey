@@ -1,0 +1,323 @@
+{
+    "Quest_Name": "Rumored Bracelet Location",
+    "Quest_ID": "224398",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Sacred Vows",
+        "next": "She Who Controls the Seas",
+        "image": "Attika-SanctuaryofSounion.jpg",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support",
+        "source": "Kassandra",
+        "location": "Sculptors Elysium, Paros Island, Greece<br/>Island of Triton, Greece<br/>Cape Sounion, Attika, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Rumored Bracelet Location''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "One of the maps given by [[Xenia]] for the [[Makedonia]]n bracelet leads here.",
+    "Section_Dialogue": "Kassandra sailed to one of the five rumored locations and looted the place.\n*'''Kassandra:''' ''Not bad! But I don't think this is what Xenia is looking for.''\nShe finally arrived at the [[Sanctuary of Sounion]] and went behind it down an altar by a cliff. She noticed something different.\n*'''Kassandra:''' ''Huh. An offering box is missing.''\nKassandra investigated a trail of clues.\n*'''Kassandra:''' ''These ribbons tied the box shut.<br>The lid of the offering box.<br>Flower petals. These would have lined the offering box.<br>Someone tossed the box here... but it's empty.''\nAs she turns round a corner, she saw two men arguing and overhears them.\n*'''Laios:''' ''Didn't you like it? I thought you would like it!''\n*'''Kassandra:''' ''Perhaps one of these couples saw something.''\n*'''Hyacinthos:''' ''Doesn't matter if I liked it. You stole from the gods!''\nKassandra approached them.\n*'''Laios:''' ''Do you have any idea how much it was worth?''\n*'''Hyacinthos:''' ''What it's worth? What's a curse from the gods worth?!''\n*'''Laios:''' ''Don't be a superstitious donkey! That bracelet was priceless!''\n*'''Kassandra:''' ''Hey.''\n*'''Hyacinthos:''' ''All you care about is [[drachma|money]]! What about how I feel?''\n*'''Kassandra:''' ''Hey!''\n*'''Laios:''' ''I wanted to impress you!''\n*'''Hyacinthos:''' ''You wanted to get into my clothes, you mean!''\n*'''Kassandra:''' ''HEY!''\nThey finally turned their attention to her.\n*'''Laios:''' ''Huh? What do you want?''\n\n<tabber>\n|-|Tell me who stole the bracelet.=\n*'''Kassandra:''' ''Which one of you idiots stole the bracelet from the shine?''\n*'''Hyacinthos:''' ''By [[Poseidon]], she knows!''\n*'''Laios:''' ''Shut your teeth! She doesn't know anything! How could she?''\n*'''Kassandra:''' ''Maybe because every [[goat]]-herder around could hear your spat? Give me the bracelet.''\n*'''Laios:''' ''You don't scare me!''\nKassandra stepped closer to him, angry.\n*'''Kassandra:''' ''Where?''\n|-|I was sent by Apollo to punish you.=\n*'''Kassandra:''' ''Tremble, you fools, for I am the wrath of [[Apollo]]!''\nKassandra moved her arms dramatically.\n*'''Hyacinthos:''' ''I told you Laios! The gods come to punish us!''\n*'''Kassandra:''' ''Exactly! Give me what I want or I will smite you down!''\nNervous, Laios looked at.\n*'''Laios:''' ''And what do you want?''\n*'''Hyacinthos:''' ''Fool! She wants the bracelet you stole!''\n*'''Kassandra:''' ''You understand completely! Give me the bracelet!''\n</tabber>\n\n*'''Hyacinthos:''' ''I threw it off the cliffs, into the sea.''\nKassandra whispered to herself.\n*'''Kassandra:''' Mal\u00e1ka. ''Guess I'm going for a swim.''\n\nKassandra walked a few paces to the cliff's edge and dove. She found the Makedonian Bracelet on the seafloor.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra sailed to one of the five rumored locations and looted the place.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Not bad! But I don't think this is what Xenia is looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She finally arrived at the [[Sanctuary of Sounion]] and went behind it down an altar by a cliff. She noticed something different.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Huh. An offering box is missing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra investigated a trail of clues.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''These ribbons tied the box shut.<br>The lid of the offering box.<br>Flower petals. These would have lined the offering box.<br>Someone tossed the box here... but it's empty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "As she turns round a corner, she saw two men arguing and overhears them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Laios:''' ''Didn't you like it? I thought you would like it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Perhaps one of these couples saw something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Hyacinthos:''' ''Doesn't matter if I liked it. You stole from the gods!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "11",
+            "content": "Kassandra approached them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Laios:''' ''Do you have any idea how much it was worth?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Hyacinthos:''' ''What it's worth? What's a curse from the gods worth?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Laios:''' ''Don't be a superstitious donkey! That bracelet was priceless!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Hey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Hyacinthos:''' ''All you care about is [[drachma|money]]! What about how I feel?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Hey!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Laios:''' ''I wanted to impress you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Hyacinthos:''' ''You wanted to get into my clothes, you mean!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''HEY!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "21",
+            "content": "They finally turned their attention to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Laios:''' ''Huh? What do you want?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "25",
+            "content": "|-|Tell me who stole the bracelet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Which one of you idiots stole the bracelet from the shine?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Hyacinthos:''' ''By [[Poseidon]], she knows!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Laios:''' ''Shut your teeth! She doesn't know anything! How could she?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Maybe because every [[goat]]-herder around could hear your spat? Give me the bracelet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Laios:''' ''You don't scare me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "31",
+            "content": "Kassandra stepped closer to him, angry.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Where?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "33",
+            "content": "|-|I was sent by Apollo to punish you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Tremble, you fools, for I am the wrath of [[Apollo]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "35",
+            "content": "Kassandra moved her arms dramatically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Hyacinthos:''' ''I told you Laios! The gods come to punish us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Exactly! Give me what I want or I will smite you down!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "38",
+            "content": "Nervous, Laios looked at.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Laios:''' ''And what do you want?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Hyacinthos:''' ''Fool! She wants the bracelet you stole!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''You understand completely! Give me the bracelet!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "42",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D29",
+            "global_id": "44",
+            "content": "*'''Hyacinthos:''' ''I threw it off the cliffs, into the sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "45",
+            "content": "Kassandra whispered to herself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' Mal\u00e1ka. ''Guess I'm going for a swim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "47",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "48",
+            "content": "Kassandra walked a few paces to the cliff's edge and dove. She found the Makedonian Bracelet on the seafloor.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

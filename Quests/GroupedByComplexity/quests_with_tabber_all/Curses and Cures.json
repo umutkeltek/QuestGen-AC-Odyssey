@@ -1,0 +1,239 @@
+{
+    "Quest_Name": "Curses and Cures",
+    "Quest_ID": "236800",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Curses and Cures",
+        "image": "ACOD-CursesAndCures-01.jpg",
+        "description": "'A physician devoted to caring for both spirit and body requested help removing a curse by removing the person who placed the curse.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Curses and Cures''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[Doctor|physician]] sought a [[mercenary]]'s help to remove a curse.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br />''I'm a physician in need of some help with a difficult curse. If you think you can aid me, let's talk.''\nShe sought out the physician and addressed him.\n*'''Kassandra:''' ''I got your message on the board. What's going on?''\n*'''Man:''' ''One of my patients has lost all favor with the gods. I need help lifting the curse that's been placed on her.''\n<tabber>\n|-|I'm good with curses.=\n*'''Kassandra:''' ''Well, I might have some sway with the gods.''\n|-|Gods aren't my specialty.=\n*'''Kassandra:''' ''I'm not sure I have much say in the gods' business.''\n</tabber>\n*'''Man:''' ''The problem isn't the gods. It's with the person who laid the curse.''\n*'''Kassandra:''' ''So you want me to deal with her.''\n*'''Man:''' ''The gods show me mercy. That is exactly what I desire.''\n(Accept \u2013 I'm going to help you.)\n*'''Kassandra:''' ''All right. I'm in.''\n*'''Man:''' ''Thank you. You saved me.''\n*'''Kassandra:''' Chaire.\nKassandra left the physician and sought out the priestess.\n*'''Kassandra:''' ''You've made a few enemies, stranger. Including the person who hired me.''\n*'''Woman:''' ''No, please. There must be something I can do to change your mind.''\n<tabber>\n|-|Fine, join my crew.=\n*'''Kassandra:''' ''I might be able to help you escape... If you're willing to join [[Adrestia|my crew?]]''\n*'''Woman:''' ''I must abandon my life here completely to avoid death? Fine, if that's what it takes.''\n|-|Not interested.=\n*[dialogue]\nKassandra killed the woman.\n</tabber>\nAfter dealing with the priestess, she returned to the physician.\n*'''Man:''' ''Has she been... taken care of,'' misthios?\n*'''Kassandra:''' ''She's no longer a concern.''\n*'''Man:''' ''Then this belongs to you. Nice work, ''misthios.\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the physician.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br />''I'm a physician in need of some help with a difficult curse. If you think you can aid me, let's talk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the physician and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I got your message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''One of my patients has lost all favor with the gods. I need help lifting the curse that's been placed on her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|I'm good with curses.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Well, I might have some sway with the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Gods aren't my specialty.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I'm not sure I have much say in the gods' business.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Man:''' ''The problem isn't the gods. It's with the person who laid the curse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''So you want me to deal with her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Man:''' ''The gods show me mercy. That is exactly what I desire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "15",
+            "content": "(Accept \u2013 I'm going to help you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''All right. I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Man:''' ''Thank you. You saved me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "Kassandra left the physician and sought out the priestess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''You've made a few enemies, stranger. Including the person who hired me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Woman:''' ''No, please. There must be something I can do to change your mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "22",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "23",
+            "content": "|-|Fine, join my crew.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I might be able to help you escape... If you're willing to join [[Adrestia|my crew?]]''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Woman:''' ''I must abandon my life here completely to avoid death? Fine, if that's what it takes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "26",
+            "content": "|-|Not interested.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U1",
+            "global_id": "27",
+            "content": "*[dialogue]",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "28",
+            "content": "Kassandra killed the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "29",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N5",
+            "global_id": "30",
+            "content": "After dealing with the priestess, she returned to the physician.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Man:''' ''Has she been... taken care of,'' misthios?",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''She's no longer a concern.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Man:''' ''Then this belongs to you. Nice work, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

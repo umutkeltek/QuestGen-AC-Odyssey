@@ -1,0 +1,943 @@
+{
+    "Quest_Name": "Escape from Athens",
+    "Quest_ID": "222822",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Escape_from_Athens_-_Assassins_Creed_Odyssey.png",
+        "description": "'In order to gain access to his symposium, Perikles tasked Kassandra with getting his friend and famous artist, Phidias, out of Athens.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Welcome to Athens",
+        "next": "Perikles's Symposium",
+        "source": "Kassandra",
+        "location": "Athens, Greece<br>Seriphos, Greece",
+        "date": "May 431 BCE"
+    },
+    "General_Description": "'''Escape from Athens''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Perikles]] to escort his friend, the sculptor [[Phidias]], out of [[Athens]].",
+    "Section_Dialogue": "Pursuing Perikles's tasks, Kassandra went to the workshop of Phidias to assist him in escaping Athens.\n*'''Athenian Light Soldier:''' ''Stop! I can't let you go any further.''\n(If players choose \"Why are you out here?\")\n*'''Kassandra:''' ''It isn't often you see a [[guard]] outside of an artist's workshop.''\n*'''Athenian Light Soldier:''' ''I just do what I'm told, stranger. And until I'm told otherwise, no one is going in or out.''\n(If players choose \"I need to see Phidias.\")\n*'''Kassandra:''' ''Stand aside. This is important.''\n*'''Athenian Light Soldier:''' ''So is keeping people out. Maybe you can see Phidias after his trial... If the people spare his life.''\n\n<tabber>\n|-|Perikles sent me.=\n*'''Kassandra:''' ''Listen. I'm working for Perikles. He wants me to see Phidias.''\n*'''Athenian Light Soldier:''' ''Well, I'm working for the people of Athens, and they want Phidias dead. Now back off, or you're dead too.''\n{{#tag:tabber|\nI'm sure drachmae could change your mind.=\n*'''Kassandra:''' ''Everyone has a price. How much [[drachma]]e is this going to take?''\n*'''Athenian Light Soldier:''' ''Depends how much you have.''\n*'''Kassandra:''' ''Here, take it.''\n*'''Athenian Light Soldier:''' ''That'll do just fine. You tell anyone I did this and you're as good as dead.''\n*'''Kassandra:''' ''Funny. I was going to say the same to you.''\nThe Athenian soldier walked away.\n{{!}}-{{!}}\nAttack \u2013 Have it your way.=\nKassandra grabbed the soldier by his throat.\n*'''Kassandra:''' ''I tried to be nice. I really did.''\nKassandra let off the guard, who proceeded to attack her. However, she easily dispatched him\n}}\n|-|Lie \u2013 Phidias is my lover.=\n*'''Kassandra:''' ''It's been so long since Phidias and I have... ''seen'' each other. You understand, don't you?''\n*'''Athenian Light Soldier:''' ''Oh! Oh... Come to pay him a last visit before the trial? He's as good as dead, you know. Better make this one count.''\n*'''Kassandra:''' ''Just don't tell anyone I was here.''\n*'''Athenian Light Soldier:''' ''Sure, sure. Keep it moving.''\n|-|Lie \u2013 Phidias is my friend.=\n*'''Kassandra:''' ''Phidias and I have been friends for a long time. I'm leaving Athens, and I don't know if I'll ever see him again.''\n*'''Athenian Light Soldier:''' ''You won't. If you want to leave Athens in one piece, you'll go. Now.''\n{{#tag:tabber|\nI'm sure drachmae could change your mind.=\n*'''Kassandra:''' ''Everyone has a price. How much [[drachma]]e is this going to take?''\n*'''Athenian Light Soldier:''' ''Depends how much you have.''\n*'''Kassandra:''' ''Here, take it.''\n*'''Athenian Light Soldier:''' ''That'll do just fine. You tell anyone I did this and you're as good as dead.''\n*'''Kassandra:''' ''Funny. I was going to say the same to you.''\nThe Athenian soldier walked away.\n{{!}}-{{!}}\nAttack \u2013 Have it your way.=\nKassandra grabbed the soldier by his throat.\n*'''Kassandra:''' ''I tried to be nice. I really did.''\nKassandra let off the guard, who proceeded to attack her. However, she easily dispatched him\n}}\n</tabber>\nEntering the workshop, Kassandra located Phidias on the top floor, working on a sculpture. He dropped his tools in surprise.\n*'''Kassandra:''' ''Sorry about that.''\n*'''Phidias:''' ''How did you get past the guard? No one gets past the guard.''\n*'''Kassandra:''' ''Relax. Perikles sent me.''\n*'''Phidias:''' ''Praise [[Athena]], I knew he'd send help. I was worried they sent someone after me.''\n\n<tabber>\n|-|We need to get you out of here.=\n*'''Kassandra:''' ''He sent me to get you out of Athens.''\n*'''Phidias:''' ''So he knows about the plot.''\n*'''Kassandra:''' ''You mean the trial? From what I've seen, you don't stand a chance.''\n*'''Phidias:''' ''Pah! The people love me. I am ''the'' Phidias! But there are others. Look.''\nHe handed her a rolled up parchment. Kassandra read its contents.\n*'''Kassandra:''' '' ''Malaka''. It isn't the trial that Perikles is saving you from... these are instruction to murder you. Who wrote this?''\n|-|\"They\" seem to scare you.=\n*'''Kassandra:''' ''\"They\" who?''\n*'''Phidias:''' ''The shadows in the night... why you fear falling asleep. They're hunting me. Us. No one is safe in Athens anymore.''\n{{#tag:tabber|\nYou're in danger.=\n*'''Kassandra:''' ''So you do know. I tried talking to Perikles, but we were interrupted.''\n{{!}}-{{!}}\nThe Cult.=\n*'''Kassandra:''' ''The Cult of Kosmos... You know about them .''\n}}\n</tabber>\n*'''Phidias:''' ''Of course I know about the [[Cult of Kosmos|Cult]]. Here, look at this.''\nHe handed her a rolled up parchment. Kassandra read its contents.\n*'''Kassandra:''' ''These are instructions...''\n*'''Phidas:''' ''On how to kill me. But they've been torn.''\n*'''Kassandra:''' ''Then Perikles isn't just getting you out of Athens to save you from trial... He's saving you from being murdered.''\n*'''Phidias:''' ''I don't know who to trust. I'm just an artist... I just wanted to create. Please, what am I to do?''\n*'''Kassandra:''' ''First, you need to pull yourself together. You're on trial, the people are against you, and now I find that the Cult want to kill you.''\nPhidias began to panick.\n*'''Kassandra:''' ''I said, pull yourself together.''\n*'''Phidias:''' ''Yes, of course.''\n(If players choose \"Are the accusation true?\")\n*'''Kassandra:''' ''[[Kleon]] said you're wasting the people's drachmae. If he has his way, he'd serve them your head.''\n*'''Phidias:''' ''Kleon mentioned me? That's going to hurt Perikles. First impiety, now theft. After all we've done for this city.''\n(If players choose \"Who is Perikles to you?\")\n*'''Kassandra:''' ''You and Perikles seem close...''\n*'''Phidias:''' ''For Perikles and me, it started with our love of Athens. Our differences push us to greatness. ''That'' is true friendship.''\n(If players choose \"We should get going.\")\n*'''Kassandra:''' ''All right. We need to go. Do you have any idea where I can take you?''\n*'''Phidias:''' ''South of Athens, there's an island called [[Seriphos]]. My friend [[Theras]] lives there. When I discovered the plot against me, I sent word to him. If anyone can help us, he can.''\n*'''Kassandra:''' ''Good. Any clues he has of the Cultists' identities, I want them.''\n*'''Phidias:''' ''Yes, yes, anything...''\n[[File:ACOD Escape from Athens 04.png|thumb|250px|A guard entering Phidias' workshop]]\nA guard entered the workshop.\n*'''Phidias:''' ''A guard!''\n*'''Kassandra:''' ''I'll distract them while you sneak out. Meet me tonight to set sail for Seriphos. Don't show your face until you see me at the docks.''\n*'''Phidias:''' ''I understand.''\n*'''Athenian Light Soldier:''' ''You didn't really think I'd let you come and go as you pleased, did you? Now, where are you?''\nAs Phidias escaped, Kassandra killed the searching guards, then hurried to meet him at the [[Port of Piraeus]] at night.\n*'''Phidias:''' ''Good, you made it. I was beginning to worry.''\n*'''Kassandra:''' ''I told you I'd get you out of Athens.''\n*'''Phidias:''' ''So you did.''\n(If players choose \"Who is the friend we're meeting?\")\n*'''Kassandra:''' ''Can your friend be trusted?''\n*'''Phidias:''' ''Theras and I have been friends for a long time. I just sent word telling him where to meet us.''\n(If players choose \"Let's go.\")\n*'''Kassandra:''' ''Wasting time will only get us into trouble. Let's head to Seriphos while we still can.''\nThey boarded the ''[[Adrestia]]'' and set sail for Seriphos.\n*'''Phidias:''' ''I never thought I'd leave Athens for good.''\n*'''Kassandra:''' ''I've left places I've called home.''\nKassandra spoke to Phidias on the deck.\n*'''Phidias:''' ''I hope leaving Athens was the right thing to do.''\n*'''Kassandra:''' ''Of course it was. You'll be safe this way.''\n*'''Phidias:''' ''Will I?''\n*'''Kassandra:''' ''Safer than you were, at least. If the Cult can't find you, they can't kill you. It's simple.''\n*'''Phidias:''' ''So long as they don't find me, yes. But who knows where they are... who they are... we could be heading somewhere even more dangerous.''\n*'''Kassandra:''' ''Maybe. But this is your best chance.''\nThey boarded the ship, and left the harbour, avoiding Athenian ships.\n\nAs the ship sailed south, Phidias spoke up.\n*'''Phidias:''' ''Hopefully, the Cult won't bother me now that I'm out of Athens.''\nKassandra did not respond. Phidias spoke up again as the ship sailed on.\n*'''Phidias:''' ''This is a nice ship.''\n*'''Kassandra:''' ''You don't have to do that.''\n*'''Phidias:''' ''Do what?''\n*'''Kassandra:''' ''Fill the silence.''\n*'''Phidias:''' ''Oh! I wasn't trying to do that at all. I simply don't find myself traveling the seas very often.''\n*'''Kassandra:''' ''It can be freeing.''\n*'''Phidias:''' ''Yes, \"freeing\" seems to be an accurate word. Although I've begun to feel a bit sick...''\n*'''Kassandra:''' ''Lean over the side if you need to, otherwise you're cleaning it up.''\nAs they neared Seriphos, Phidias's seasickness worsened.\n*'''Phidias:''' ''Is your stomach turning as much as mine is?''\n*'''Kassandra:''' ''You'll get used to it. We'll reach Seriphos before long.''\nThey docked at the island at the town of [[Chora, Seriphos|Chora]]. Phidias' friend Theras greeted them.\n*'''Civilian:''' ''It's good to see you alive and well, Phidias!''\n*'''Phidias:''' ''And you, Theras. As you can see, I didn't get here alone.''\n*'''Civilian:''' ''Ah, yes, the kind and thoughtful hero you mentioned in your letter!''\n\n<tabber>\n|-|I just wanted Phidias safe.=\n*'''Kassandra:''' ''I'm glad I could get him out alive.''\n|-|I did this for myself.=\n*'''Kassandra:''' ''If I wasn't getting something out of it, He'd be dead already.''\n</tabber>\n*'''Civilian:''' ''And for that heroism, I've found some information on a man named [[Brison]] who's plotting Phidias's early demise. Hopefully, you can make something of this clue.''\nKassandra examined the parchment Theras handed to her.\n*'''Kassandra:''' ''I can.''\n*'''Phidias:''' ''Please give Perikles my thanks and my farewell. And be careful\u2014I still believe many in Athens are in danger.''",
+    "Section_Outcome": "Kassandra helped Phidias to escape Athens, escorting him to the island of Seriphos where his friend Theras awaited him.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n[[fr:La fuite d'Ath\u00e8nes]]",
+    "Chapter_SequenceID": "8.",
+    "Chapter_Name": "The Road to the Symposium",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Pursuing Perikles's tasks, Kassandra went to the workshop of Phidias to assist him in escaping Athens.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Athenian Light Soldier:''' ''Stop! I can't let you go any further.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "3",
+            "content": "(If players choose \"Why are you out here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''It isn't often you see a [[guard]] outside of an artist's workshop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Athenian Light Soldier:''' ''I just do what I'm told, stranger. And until I'm told otherwise, no one is going in or out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "6",
+            "content": "(If players choose \"I need to see Phidias.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Stand aside. This is important.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Athenian Light Soldier:''' ''So is keeping people out. Maybe you can see Phidias after his trial... If the people spare his life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|Perikles sent me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Listen. I'm working for Perikles. He wants me to see Phidias.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Athenian Light Soldier:''' ''Well, I'm working for the people of Athens, and they want Phidias dead. Now back off, or you're dead too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "14",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "I'm sure drachmae could change your mind.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Everyone has a price. How much [[drachma]]e is this going to take?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Athenian Light Soldier:''' ''Depends how much you have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Here, take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Athenian Light Soldier:''' ''That'll do just fine. You tell anyone I did this and you're as good as dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Funny. I was going to say the same to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "21",
+            "content": "The Athenian soldier walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "22",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "23",
+            "content": "Attack \u2013 Have it your way.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra grabbed the soldier by his throat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I tried to be nice. I really did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "26",
+            "content": "Kassandra let off the guard, who proceeded to attack her. However, she easily dispatched him",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "27",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "|-|Lie \u2013 Phidias is my lover.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''It's been so long since Phidias and I have... ''seen'' each other. You understand, don't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Athenian Light Soldier:''' ''Oh! Oh... Come to pay him a last visit before the trial? He's as good as dead, you know. Better make this one count.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Just don't tell anyone I was here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Athenian Light Soldier:''' ''Sure, sure. Keep it moving.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "33",
+            "content": "|-|Lie \u2013 Phidias is my friend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Phidias and I have been friends for a long time. I'm leaving Athens, and I don't know if I'll ever see him again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Athenian Light Soldier:''' ''You won't. If you want to leave Athens in one piece, you'll go. Now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "36",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "37",
+            "content": "I'm sure drachmae could change your mind.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Everyone has a price. How much [[drachma]]e is this going to take?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "39",
+            "content": "*'''Athenian Light Soldier:''' ''Depends how much you have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Here, take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Athenian Light Soldier:''' ''That'll do just fine. You tell anyone I did this and you're as good as dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Funny. I was going to say the same to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "43",
+            "content": "The Athenian soldier walked away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "44",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "45",
+            "content": "Attack \u2013 Have it your way.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "46",
+            "content": "Kassandra grabbed the soldier by his throat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I tried to be nice. I really did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "48",
+            "content": "Kassandra let off the guard, who proceeded to attack her. However, she easily dispatched him",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "49",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "50",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N8",
+            "global_id": "51",
+            "content": "Entering the workshop, Kassandra located Phidias on the top floor, working on a sculpture. He dropped his tools in surprise.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Sorry about that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "53",
+            "content": "*'''Phidias:''' ''How did you get past the guard? No one gets past the guard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Relax. Perikles sent me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Phidias:''' ''Praise [[Athena]], I knew he'd send help. I was worried they sent someone after me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "57",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "58",
+            "content": "|-|We need to get you out of here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''He sent me to get you out of Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "60",
+            "content": "*'''Phidias:''' ''So he knows about the plot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''You mean the trial? From what I've seen, you don't stand a chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Phidias:''' ''Pah! The people love me. I am ''the'' Phidias! But there are others. Look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "63",
+            "content": "He handed her a rolled up parchment. Kassandra read its contents.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' '' ''Malaka''. It isn't the trial that Perikles is saving you from... these are instruction to murder you. Who wrote this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "65",
+            "content": "|-|\"They\" seem to scare you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''\"They\" who?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "67",
+            "content": "*'''Phidias:''' ''The shadows in the night... why you fear falling asleep. They're hunting me. Us. No one is safe in Athens anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "68",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "69",
+            "content": "You're in danger.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''So you do know. I tried talking to Perikles, but we were interrupted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "71",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "72",
+            "content": "The Cult.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''The Cult of Kosmos... You know about them .''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "74",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "75",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D39",
+            "global_id": "76",
+            "content": "*'''Phidias:''' ''Of course I know about the [[Cult of Kosmos|Cult]]. Here, look at this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "77",
+            "content": "He handed her a rolled up parchment. Kassandra read its contents.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''These are instructions...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "79",
+            "content": "*'''Phidas:''' ''On how to kill me. But they've been torn.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Then Perikles isn't just getting you out of Athens to save you from trial... He's saving you from being murdered.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "81",
+            "content": "*'''Phidias:''' ''I don't know who to trust. I'm just an artist... I just wanted to create. Please, what am I to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''First, you need to pull yourself together. You're on trial, the people are against you, and now I find that the Cult want to kill you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "83",
+            "content": "Phidias began to panick.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''I said, pull yourself together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "85",
+            "content": "*'''Phidias:''' ''Yes, of course.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "86",
+            "content": "(If players choose \"Are the accusation true?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D47",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''[[Kleon]] said you're wasting the people's drachmae. If he has his way, he'd serve them your head.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "88",
+            "content": "*'''Phidias:''' ''Kleon mentioned me? That's going to hurt Perikles. First impiety, now theft. After all we've done for this city.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "89",
+            "content": "(If players choose \"Who is Perikles to you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D49",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''You and Perikles seem close...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "91",
+            "content": "*'''Phidias:''' ''For Perikles and me, it started with our love of Athens. Our differences push us to greatness. ''That'' is true friendship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "92",
+            "content": "(If players choose \"We should get going.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D51",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''All right. We need to go. Do you have any idea where I can take you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "94",
+            "content": "*'''Phidias:''' ''South of Athens, there's an island called [[Seriphos]]. My friend [[Theras]] lives there. When I discovered the plot against me, I sent word to him. If anyone can help us, he can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Good. Any clues he has of the Cultists' identities, I want them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "96",
+            "content": "*'''Phidias:''' ''Yes, yes, anything...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "97",
+            "content": "[[File:ACOD Escape from Athens 04.png|thumb|250px|A guard entering Phidias' workshop]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N12",
+            "global_id": "98",
+            "content": "A guard entered the workshop.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "99",
+            "content": "*'''Phidias:''' ''A guard!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''I'll distract them while you sneak out. Meet me tonight to set sail for Seriphos. Don't show your face until you see me at the docks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "101",
+            "content": "*'''Phidias:''' ''I understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "102",
+            "content": "*'''Athenian Light Soldier:''' ''You didn't really think I'd let you come and go as you pleased, did you? Now, where are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "103",
+            "content": "As Phidias escaped, Kassandra killed the searching guards, then hurried to meet him at the [[Port of Piraeus]] at night.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "104",
+            "content": "*'''Phidias:''' ''Good, you made it. I was beginning to worry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''I told you I'd get you out of Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "106",
+            "content": "*'''Phidias:''' ''So you did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "107",
+            "content": "(If players choose \"Who is the friend we're meeting?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D62",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''Can your friend be trusted?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "109",
+            "content": "*'''Phidias:''' ''Theras and I have been friends for a long time. I just sent word telling him where to meet us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "110",
+            "content": "(If players choose \"Let's go.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D64",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''Wasting time will only get us into trouble. Let's head to Seriphos while we still can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "112",
+            "content": "They boarded the ''[[Adrestia]]'' and set sail for Seriphos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "113",
+            "content": "*'''Phidias:''' ''I never thought I'd leave Athens for good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''I've left places I've called home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "115",
+            "content": "Kassandra spoke to Phidias on the deck.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D67",
+            "global_id": "116",
+            "content": "*'''Phidias:''' ''I hope leaving Athens was the right thing to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''Of course it was. You'll be safe this way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "118",
+            "content": "*'''Phidias:''' ''Will I?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''Safer than you were, at least. If the Cult can't find you, they can't kill you. It's simple.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "120",
+            "content": "*'''Phidias:''' ''So long as they don't find me, yes. But who knows where they are... who they are... we could be heading somewhere even more dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''Maybe. But this is your best chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "122",
+            "content": "They boarded the ship, and left the harbour, avoiding Athenian ships.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "123",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N17",
+            "global_id": "124",
+            "content": "As the ship sailed south, Phidias spoke up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "125",
+            "content": "*'''Phidias:''' ''Hopefully, the Cult won't bother me now that I'm out of Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "126",
+            "content": "Kassandra did not respond. Phidias spoke up again as the ship sailed on.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D74",
+            "global_id": "127",
+            "content": "*'''Phidias:''' ''This is a nice ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''You don't have to do that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "129",
+            "content": "*'''Phidias:''' ''Do what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''Fill the silence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "131",
+            "content": "*'''Phidias:''' ''Oh! I wasn't trying to do that at all. I simply don't find myself traveling the seas very often.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''It can be freeing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "133",
+            "content": "*'''Phidias:''' ''Yes, \"freeing\" seems to be an accurate word. Although I've begun to feel a bit sick...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''Lean over the side if you need to, otherwise you're cleaning it up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "135",
+            "content": "As they neared Seriphos, Phidias's seasickness worsened.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D82",
+            "global_id": "136",
+            "content": "*'''Phidias:''' ''Is your stomach turning as much as mine is?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "137",
+            "content": "*'''Kassandra:''' ''You'll get used to it. We'll reach Seriphos before long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "138",
+            "content": "They docked at the island at the town of [[Chora, Seriphos|Chora]]. Phidias' friend Theras greeted them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D84",
+            "global_id": "139",
+            "content": "*'''Civilian:''' ''It's good to see you alive and well, Phidias!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "140",
+            "content": "*'''Phidias:''' ''And you, Theras. As you can see, I didn't get here alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "141",
+            "content": "*'''Civilian:''' ''Ah, yes, the kind and thoughtful hero you mentioned in your letter!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "142",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "143",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "144",
+            "content": "|-|I just wanted Phidias safe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D87",
+            "global_id": "145",
+            "content": "*'''Kassandra:''' ''I'm glad I could get him out alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC13",
+            "global_id": "146",
+            "content": "|-|I did this for myself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D88",
+            "global_id": "147",
+            "content": "*'''Kassandra:''' ''If I wasn't getting something out of it, He'd be dead already.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "148",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D89",
+            "global_id": "149",
+            "content": "*'''Civilian:''' ''And for that heroism, I've found some information on a man named [[Brison]] who's plotting Phidias's early demise. Hopefully, you can make something of this clue.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "150",
+            "content": "Kassandra examined the parchment Theras handed to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D90",
+            "global_id": "151",
+            "content": "*'''Kassandra:''' ''I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "152",
+            "content": "*'''Phidias:''' ''Please give Perikles my thanks and my farewell. And be careful\u2014I still believe many in Athens are in danger.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

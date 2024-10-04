@@ -1,0 +1,260 @@
+{
+    "Quest_Name": "We're Treasure Hunters",
+    "Quest_ID": "224093",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD We're Treasure Hunters.png",
+        "description": "'After Obelia had obtained the treasure map, she was ready to split the profit with someone brave and strong enough to dive to the bottom of the Aegean Sea|sea and bring back the lost Trade Goods|Artifact.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "We're Not Thieves",
+        "next": "Lost and Found (Odyssey)|Lost and Found",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''We're Treasure Hunters''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After obtaining the map from [[Obelia]], Kassandra traveled to the [[Submerged Minoan Palace]] south of the [[Lost Garden of Bacchylides]] on [[Keos]].",
+    "Section_Dialogue": "Kassandra reached near the ruins, finding a pod of [[Great white shark|sharks]] around it. After killing the sharks, she dove into the ruins, opening a chest and recovering the artifact. She resurfaced, finding Obelia calling to her aboard her ship, docked nearby.\n*'''Obelia:''' ''Climb aboard. Get out of that shark-infested water.''\nAfter Kassandra had boarded the ship, Obelia greeted her.\n*'''Obelia:''' ''My friend, you are a gift from [[Poseidon]] himself.''\n*'''Kassandra:''' ''I try my best.''\n*'''Obelia:''' ''I'm going to need that artifact from you now.''\n*'''Kassandra:''' ''First, my pay.''\n*'''Obelia:''' ''I don't think so.''\n\n<tabber>\n|-|Nice joke.=\n*'''Kassandra:''' ''Very funny. Now pay up.''\n*'''Obelia:''' ''The last laugh is all mine... I'm in the business of double crossing [[Mercenary|mercenaries]].''\n*'''Kassandra:''' ''I didn't swim through sharks for this.''\n*'''Obelia:''' ''That was your mistake, not mine.''\n|-|This isn't happening.=\n*'''Kassandra:''' ''You fucking traitor.''\n*'''Obelia:''' ''Now, now. Let's not make it personal.''\n*'''Kassandra:''' ''I do your dirty work, and you don't pay me? It's personal.''\n*'''Obelia:''' ''Look on the bright side\u2014I'm allowing you to walk away with your life.''\n</tabber>\n<tabber>\n|-|Take the treasure.=\n*'''Kassandra:''' ''Here's your treasure. I hope it's cursed.''\n*'''Obelia:''' ''I could tell you were a smart one.''\n*'''Kassandra:''' ''Satisfied?''\n*'''Obelia:''' ''Yes. Now get off my fucking ship.''\n|-|I don't have the treasure.=\n*'''Kassandra:''' ''There was no treasure.''\n*'''Obelia:''' ''Then why are you here?''\n*'''Kassandra:''' ''I came to tell you there's nothing there. Someone else must have got there first.''\n*'''Obelia:''' ''Then I'll kill you and check your remains, just to be sure.''\nObelia and her crew attacked Kassandra. However, they were easily defeated and killed by her.\n|-|You're dead.=\n*'''Kassandra:''' ''Deal's off. Now I'll kill you for wasting my time.''\n*'''Obelia:''' ''You haven't got a chance. Take her out!''\nObelia and her crew attacked Kassandra. However, they were easily defeated and killed by her.\n</tabber>",
+    "Section_Outcome": "Kassandra was betrayed by Obelia, who demanded the artifact in exchange for her life. It is unclear if Kassandra handed it over without a fight or slew the entirety of Obelia's ship for her betrayal.",
+    "Section_Trivia": "*Obelia can still be killed if players choose to give her the artifact, but her body does not drop any loot.\n*Alternatively, the player can also choose to fire upon her ship and sink it without going on board to meet her, thereby killing her preemptively.\n*It's possible to board her ship and kill her and her crew before talking to her.\n*It's also possible to kill her crew and disappear underwater, causing her to return to her spot on the ship. If the player walks in front of her she will attack, but if the player walks behind her then the player can talk to her again. If the player chooses to not to hand over the artifact, it will be much easier to kill her without the rest of her crew in the way.\n*Despite her betrayal, Obelia can be knocked unconscious, so long as the final hit comes from unarmed attacks, Spartan Kick, or Paralyzing Arrows, and hired as a lieutenant for the ''[[Adrestia]].''\n*Obelia's ship will persist offshore for quite a while. This makes it an easy mark for the \"Sink (2) bandit ships\" requirement of [[Recruitment Drive]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Nous sommes des chasseurs de tr\u00e9sors]]",
+    "Chapter_SequenceID": "9.",
+    "Chapter_Name": "Pirate Hospitality",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra reached near the ruins, finding a pod of [[Great white shark|sharks]] around it. After killing the sharks, she dove into the ruins, opening a chest and recovering the artifact. She resurfaced, finding Obelia calling to her aboard her ship, docked nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Obelia:''' ''Climb aboard. Get out of that shark-infested water.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "After Kassandra had boarded the ship, Obelia greeted her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Obelia:''' ''My friend, you are a gift from [[Poseidon]] himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I try my best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Obelia:''' ''I'm going to need that artifact from you now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''First, my pay.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Obelia:''' ''I don't think so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|Nice joke.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Very funny. Now pay up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Obelia:''' ''The last laugh is all mine... I'm in the business of double crossing [[Mercenary|mercenaries]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I didn't swim through sharks for this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Obelia:''' ''That was your mistake, not mine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|This isn't happening.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''You fucking traitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Obelia:''' ''Now, now. Let's not make it personal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I do your dirty work, and you don't pay me? It's personal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Obelia:''' ''Look on the bright side\u2014I'm allowing you to walk away with your life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "21",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS2",
+            "global_id": "22",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "23",
+            "content": "|-|Take the treasure.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Here's your treasure. I hope it's cursed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Obelia:''' ''I could tell you were a smart one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Satisfied?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Obelia:''' ''Yes. Now get off my fucking ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "28",
+            "content": "|-|I don't have the treasure.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''There was no treasure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Obelia:''' ''Then why are you here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I came to tell you there's nothing there. Someone else must have got there first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Obelia:''' ''Then I'll kill you and check your remains, just to be sure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "33",
+            "content": "Obelia and her crew attacked Kassandra. However, they were easily defeated and killed by her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC5",
+            "global_id": "34",
+            "content": "|-|You're dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Deal's off. Now I'll kill you for wasting my time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Obelia:''' ''You haven't got a chance. Take her out!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "37",
+            "content": "Obelia and her crew attacked Kassandra. However, they were easily defeated and killed by her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

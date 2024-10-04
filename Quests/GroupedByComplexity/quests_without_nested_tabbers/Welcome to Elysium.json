@@ -1,0 +1,273 @@
+{
+    "Quest_Name": "Welcome to Elysium",
+    "Quest_ID": "230818",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'In her ascension from Human|mortal to hero, and from hero to Hybrid|demi-god, Kassandra appeared to be granted passage to Elysium itself. Surely no mortal could fathom what she would find there.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "previous": "Trials of the Keeper",
+        "next": "A Lover and A Fighter",
+        "source": "Kassandra",
+        "location": "Heart of Elysium, Elysium",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Welcome to Elysium''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Poortable Animus HR-8.5]].",
+    "Section_Description": "Kassandra gets a not so friendly welcome to [[Elysium]] by [[Persephone]] and her [[Soldier|guards]].",
+    "Section_Dialogue": "Persephone took her leave. The soldiers engaged Kassandra and made use of techniques to rob her of her power, but she eventually defeated all of them. Kassandra walked back up the steps to survey her surroundings, and noted the giant statue of the same woman who confronted her. [[Ikaros]] flew past the statue as Kassandra's first trial began in earnest.\n\nAs Kassandra continued to survey the surrounding fields, a blond-haired Isu man approached her from behind.\n*'''[[Hermes Trismegistus|Hermes]]:''' ''No one stands up to Persephone's guards. Let alone best them in battle.''\n*'''Kassandra:''' ''Tell me your name or you're next.''\nKassandra spun around to a chest view, then craned her neck to look the figure towering over her in the eye.\n*'''Hermes:''' ''Ah! I'm Hermes. As you're holding my proudest [[Staff of Hermes Trismegistus|creation]], that means you're a descendant of [[Pythagoras]]. I know just why you're here. You need to harness its power. Now, your name.''\n*'''Kassandra:''' ''The Staff calls me Keeper, but you can call me Kassandra. What is this place?''\n*'''Hermes:''' ''Keeper! A great name, with a great journey ahead of you. This is the paradise of Elysium, presided over by the mighty Persephone herself. Elysium was a gift from her husband [[Hades]]. This beautiful realm she crafted in her image is the only joy she gets from the [[underworld]]\u2014she's his prisoner. But, she's come into her role as queen with much aplomb!''\n*'''Kassandra:''' ''Elysium\u2014resting place of heroes. When I was a girl, I'd dream of seeing it with my own eyes. Then why would Persephone attack me?''\n*'''Hermes:''' ''Most rulers don't take the sudden invasion of a lone outsider lightly. Speaking of which, the appearance of a living [[human]] is quite unexpected.''\n*'''Kassandra:''' ''I'm supposed to go through trials, and eventually leave this place. There was a [[Great Seal to Atlantis|Great Seal]], and the Staff [[Aletheia|talks]]... It's all very complicated.''\n*'''Hermes:''' ''Allow me to explain. The Staff is a gift, not a toy! It can be a key, a weapon, and a way to attain power until the very end of time. Here, you'll find the means to control it before it controls you. After that... There is a gate that leads out of Elysium, but the only way to it is through Persephone, and she'd never allow that.''\n*'''Kassandra:''' ''I need to get to that gate.''\n*'''Hermes:''' ''Try talking to her. Who knows? Maybe she'll convince you to stay. Or, you could find [[Hekate]], Persephone's top advisor and closest friend. Or... you could prove yourself.''\n*'''Kassandra:''' ''Prove myself how?''\n*'''Hermes:''' ''Persephone sent guards because she's concerned. There are reports of lawlessness in [[Deukalion]]'s [[Deukalion's Heritage|Heritage]] south of here.''\nHermes chuckled.\n*'''Hermes:''' ''Why am I telling you all this? You said it yourself\u2014it's very complicated. Elysium may look like paradise, but we all have our secrets.''\n(If \"Where is Persephone?\" is chosen.)\n*'''Kassandra:''' ''I'm thinking I go straight to Persephone.''\n*'''Hermes:''' ''Not so fast! Give her some time to cool down. When you introduce yourself, you'll find her in her majestic akropolis, perched high above the [[Asphodel Fields]].''\n(If \"What do you know of Hekate?\" is chosen.)\n*'''Kassandra:''' ''I ''could'' talk to Hekate.''\n*'''Hermes:''' ''You could, though she prefers to keep to herself. The dwellers of [[Pheraia's Retreat]], which is to the east, might know of her whereabouts. I'd ask them.''\n(If \"What's going on in Deukalion's Heritage?\" is chosen.)\n*'''Kassandra:''' ''Maybe I should investigate Deukalion's Heritage.''\n*'''Hermes:''' ''Persephone responds best to action. We need to smother them immediately if there's a whiff of trouble against her.''\n(If \"What do you do here?\" is chosen.)\n*'''Kassandra:''' ''Tell me about yourself.''\n*'''Hermes:''' ''Me? Well, I've never had anyone ask ''me'' before. I work west of here. It's a modest workshop, but all great things appear modest at first, don't they?''\n(If \"Tell me about my Staff.\" is chosen.)\n*'''Kassandra:''' ''What can you tell me about my Staff? I need to learn how to use it.''\n*'''Hermes:''' ''Find my energy sources\u2014the Perceptions of Hermes\u2014across Elysium to imbue both you and the Staff with power. Only then are you ready to move onward. You can't wield the Staff without them! Are you certain there's nothing else you'd like to know?''\n(Leave \u2013 \"I have everything I need.\")\n*'''Kassandra:''' Chaire.\n*'''Hermes:''' ''When you've sorted your affairs with Persephone, come see me in [[Minos' Faith]]. I look forward to hearing about your progress.''\n*'''Kassandra:''' ''I will.''\n*'''Hermes:''' ''I almost forgot. I've invented just the thing for you flightless humans in Elysium\u2014the [[Wings of Hermes]]. Go, enjoy them!''\nHermes took his leave.",
+    "Section_Outcome": "Kassandra made the acquaintance of Hermes, creator of the Staff, who pointed her towards seeking out Hekate or dispelling rebellion in Deukalion's Heritage. He also provided a means for Kassandra to upgrade the Staff.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Fields of Elysium]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Persephone took her leave. The soldiers engaged Kassandra and made use of techniques to rob her of her power, but she eventually defeated all of them. Kassandra walked back up the steps to survey her surroundings, and noted the giant statue of the same woman who confronted her. [[Ikaros]] flew past the statue as Kassandra's first trial began in earnest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "As Kassandra continued to survey the surrounding fields, a blond-haired Isu man approached her from behind.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''[[Hermes Trismegistus|Hermes]]:''' ''No one stands up to Persephone's guards. Let alone best them in battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Tell me your name or you're next.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra spun around to a chest view, then craned her neck to look the figure towering over her in the eye.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Hermes:''' ''Ah! I'm Hermes. As you're holding my proudest [[Staff of Hermes Trismegistus|creation]], that means you're a descendant of [[Pythagoras]]. I know just why you're here. You need to harness its power. Now, your name.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The Staff calls me Keeper, but you can call me Kassandra. What is this place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Hermes:''' ''Keeper! A great name, with a great journey ahead of you. This is the paradise of Elysium, presided over by the mighty Persephone herself. Elysium was a gift from her husband [[Hades]]. This beautiful realm she crafted in her image is the only joy she gets from the [[underworld]]\u2014she's his prisoner. But, she's come into her role as queen with much aplomb!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Elysium\u2014resting place of heroes. When I was a girl, I'd dream of seeing it with my own eyes. Then why would Persephone attack me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Hermes:''' ''Most rulers don't take the sudden invasion of a lone outsider lightly. Speaking of which, the appearance of a living [[human]] is quite unexpected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'm supposed to go through trials, and eventually leave this place. There was a [[Great Seal to Atlantis|Great Seal]], and the Staff [[Aletheia|talks]]... It's all very complicated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Hermes:''' ''Allow me to explain. The Staff is a gift, not a toy! It can be a key, a weapon, and a way to attain power until the very end of time. Here, you'll find the means to control it before it controls you. After that... There is a gate that leads out of Elysium, but the only way to it is through Persephone, and she'd never allow that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I need to get to that gate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Hermes:''' ''Try talking to her. Who knows? Maybe she'll convince you to stay. Or, you could find [[Hekate]], Persephone's top advisor and closest friend. Or... you could prove yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Prove myself how?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Hermes:''' ''Persephone sent guards because she's concerned. There are reports of lawlessness in [[Deukalion]]'s [[Deukalion's Heritage|Heritage]] south of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "Hermes chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Hermes:''' ''Why am I telling you all this? You said it yourself\u2014it's very complicated. Elysium may look like paradise, but we all have our secrets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "20",
+            "content": "(If \"Where is Persephone?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'm thinking I go straight to Persephone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Hermes:''' ''Not so fast! Give her some time to cool down. When you introduce yourself, you'll find her in her majestic akropolis, perched high above the [[Asphodel Fields]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "23",
+            "content": "(If \"What do you know of Hekate?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I ''could'' talk to Hekate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Hermes:''' ''You could, though she prefers to keep to herself. The dwellers of [[Pheraia's Retreat]], which is to the east, might know of her whereabouts. I'd ask them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "26",
+            "content": "(If \"What's going on in Deukalion's Heritage?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Maybe I should investigate Deukalion's Heritage.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Hermes:''' ''Persephone responds best to action. We need to smother them immediately if there's a whiff of trouble against her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "29",
+            "content": "(If \"What do you do here?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Tell me about yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Hermes:''' ''Me? Well, I've never had anyone ask ''me'' before. I work west of here. It's a modest workshop, but all great things appear modest at first, don't they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "32",
+            "content": "(If \"Tell me about my Staff.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''What can you tell me about my Staff? I need to learn how to use it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Hermes:''' ''Find my energy sources\u2014the Perceptions of Hermes\u2014across Elysium to imbue both you and the Staff with power. Only then are you ready to move onward. You can't wield the Staff without them! Are you certain there's nothing else you'd like to know?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "35",
+            "content": "(Leave \u2013 \"I have everything I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "37",
+            "content": "*'''Hermes:''' ''When you've sorted your affairs with Persephone, come see me in [[Minos' Faith]]. I look forward to hearing about your progress.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Hermes:''' ''I almost forgot. I've invented just the thing for you flightless humans in Elysium\u2014the [[Wings of Hermes]]. Go, enjoy them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "40",
+            "content": "Hermes took his leave.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

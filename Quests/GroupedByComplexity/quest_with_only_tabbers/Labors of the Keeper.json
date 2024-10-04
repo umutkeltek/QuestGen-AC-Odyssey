@@ -1,0 +1,272 @@
+{
+    "Quest_Name": "Labors of the Keeper",
+    "Quest_ID": "232596",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA ToH - Labors of the Keeper.png",
+        "description": "'After completing her labors of atonement, Kassandra returned triumphantly to the Hades|god of the underworld to claim what was promised.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Main",
+        "previous": "The Next Lesson",
+        "next": "The Last Call {{c|non-canon}}<br>Welcome Home",
+        "source": "Kassandra",
+        "location": "Path to the Underworld, the Underworld",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Labors of the Keeper''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Hades]] after performing numerous tasks to atone for her killing of [[Cerberos]].",
+    "Section_Dialogue": "After helping Hades with his tasks, Kassandra returned him at the [[Passage of Souls]]. There, Hades sat on his throne while his [[Hound of Hades|hounds]] attacked [[Kleon]]. Hades spotted Kassandra approaching.\n*'''Hades:''' ''Ah, Kassandra returns. Victory written across her face.''\nThe hounds dragged Kleon away.\n*'''Kassandra:''' ''Where's your [[Poseidon|brother]]? Not here to settle any bets?''\n*'''Hades:''' ''It's already been settled. He lost.''\n*'''Kassandra:''' ''The gates have their guardians, [[Charon]]'s lost souls have found peace. Now, tell me what you know about the [[Staff of Hermes Trismegistus|Staff]].''\nHades laughed.\n*'''Hades:''' ''I never promised you that. I promised to fulfill your destiny.''\n<tabber>\n|-|Stop toying with me.=\n*'''Kassandra:''' ''Enough games, Hades. I did as you asked. We had a deal.''\n|-|The Staff is my destiny.=\n*'''Kassandra:''' ''Mastering the Staff ''is'' my destiny. And you're going to show me.''\n</tabber>\nHades rose from his throne menacingly and towered over Kassandra.\n*'''Hades:''' ''You were ''never'' in a position to bargain with me. Your life was mine the moment you killed Cerberos. I could have had anyone place guardians at those gates. Truth is, I needed you to grow accustomed.''\n*'''Kassandra:''' ''What are you talking about?''\nHades leaned casually against his throne.\n*'''Hades:''' ''Oh, did I not mention? I have a fifth gate, and you're going to spend the rest of eternity protecting it. ''That'' is your destiny.''\n*'''Kassandra:''' ''I didn't bow to your [[Persephone|wife]], and I won't bow to you.''\nHades picked up his throne and threw it towards Kassandra, who dodged it. He brandished his [[Hades' Executioner|axe]].\n[[File:ACOD FoA ToH Labors of the Keeper - Hades Preparing To Fight.png|thumb|250px|Hades preparing to attack Kassandra]]\n*'''Hades:''' ''Oh, you'll fucking bow.''\nHades and Kassandra engaged in combat. Hades unleashed a series of attacks at Kassandra, which included launching several [[Orb of Hades|Orbs of Hades]], dashing forward with his weapon extended, and telekinesis.\n*'''Hades:''' ''Shame it has to end this way. You'd have made an excellent addition to my dead hero collection.''\n*'''Kassandra:''' ''Collect this!''\nKassandra dealt significant wounds to Hades.\n*'''Hades:''' ''All you pathetic humans end up here eventually. Why fight it?''\nKassandra and Hades continued to clash. Hades began conjuring protective auras on his armor to mitigate Kassandra's attacks. The protections were no match for Kassandra, and she wounded him further.\n*'''Hades:''' ''Last chance. Work for me or suffer forever.''\n*'''Kassandra:''' ''Listening to you, I've suffered enough.''\n[[File:ACOD FoA ToH Labors of the Keeper - Hades Defeated.png|thumb|250px|Hades defeated]]\nKassandra defeated Hades, who collapsed to the ground bloody and out of breath. Despite this, he began laughing.\n*'''Kassandra:''' ''I don't see what's funny.''\nHades sat up.\n*'''Hades:''' ''You act like any of this matters. But you're a prisoner ''wherever'' you are.''\nHades picked up his weapon and pointed it skyward. The bridge became encircled with a projection of smoky black shields. Kassandra looked around before turning towards Hades.\n*'''Kassandra:''' Mal\u00e1ka!\n\nWith their battle ended and Hades' last gambit to imprison Kassandra in play, she angrily raised her foot to kick him square in the face.",
+    "Section_Outcome": "Kassandra fought and defeated Hades after he refused to teach her what he knew about the [[Staff of Hermes Trismegistus]]. Hades later trapped her in the realm by projecting a shield around it.",
+    "Section_Trivia": "*This quest can only be unlocked after completing all quests in the Welcome to the Underworld Chapter.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After helping Hades with his tasks, Kassandra returned him at the [[Passage of Souls]]. There, Hades sat on his throne while his [[Hound of Hades|hounds]] attacked [[Kleon]]. Hades spotted Kassandra approaching.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Hades:''' ''Ah, Kassandra returns. Victory written across her face.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "The hounds dragged Kleon away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Where's your [[Poseidon|brother]]? Not here to settle any bets?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Hades:''' ''It's already been settled. He lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''The gates have their guardians, [[Charon]]'s lost souls have found peace. Now, tell me what you know about the [[Staff of Hermes Trismegistus|Staff]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Hades laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Hades:''' ''I never promised you that. I promised to fulfill your destiny.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Stop toying with me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Enough games, Hades. I did as you asked. We had a deal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|The Staff is my destiny.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Mastering the Staff ''is'' my destiny. And you're going to show me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N4",
+            "global_id": "15",
+            "content": "Hades rose from his throne menacingly and towered over Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Hades:''' ''You were ''never'' in a position to bargain with me. Your life was mine the moment you killed Cerberos. I could have had anyone place guardians at those gates. Truth is, I needed you to grow accustomed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''What are you talking about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "18",
+            "content": "Hades leaned casually against his throne.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Hades:''' ''Oh, did I not mention? I have a fifth gate, and you're going to spend the rest of eternity protecting it. ''That'' is your destiny.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I didn't bow to your [[Persephone|wife]], and I won't bow to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "21",
+            "content": "Hades picked up his throne and threw it towards Kassandra, who dodged it. He brandished his [[Hades' Executioner|axe]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "22",
+            "content": "[[File:ACOD FoA ToH Labors of the Keeper - Hades Preparing To Fight.png|thumb|250px|Hades preparing to attack Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Hades:''' ''Oh, you'll fucking bow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "24",
+            "content": "Hades and Kassandra engaged in combat. Hades unleashed a series of attacks at Kassandra, which included launching several [[Orb of Hades|Orbs of Hades]], dashing forward with his weapon extended, and telekinesis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Hades:''' ''Shame it has to end this way. You'd have made an excellent addition to my dead hero collection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Collect this!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "27",
+            "content": "Kassandra dealt significant wounds to Hades.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Hades:''' ''All you pathetic humans end up here eventually. Why fight it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "29",
+            "content": "Kassandra and Hades continued to clash. Hades began conjuring protective auras on his armor to mitigate Kassandra's attacks. The protections were no match for Kassandra, and she wounded him further.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Hades:''' ''Last chance. Work for me or suffer forever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Listening to you, I've suffered enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "32",
+            "content": "[[File:ACOD FoA ToH Labors of the Keeper - Hades Defeated.png|thumb|250px|Hades defeated]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "33",
+            "content": "Kassandra defeated Hades, who collapsed to the ground bloody and out of breath. Despite this, he began laughing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I don't see what's funny.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "35",
+            "content": "Hades sat up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Hades:''' ''You act like any of this matters. But you're a prisoner ''wherever'' you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "37",
+            "content": "Hades picked up his weapon and pointed it skyward. The bridge became encircled with a projection of smoky black shields. Kassandra looked around before turning towards Hades.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' Mal\u00e1ka!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "40",
+            "content": "With their battle ended and Hades' last gambit to imprison Kassandra in play, she angrily raised her foot to kick him square in the face.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

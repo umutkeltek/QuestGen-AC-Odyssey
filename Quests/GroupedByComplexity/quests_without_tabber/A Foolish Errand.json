@@ -1,0 +1,209 @@
+{
+    "Quest_Name": "A Foolish Errand",
+    "Quest_ID": "223053",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD-AFoolishErrand-02.jpg",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE",
+        "description": "'A young man in love with a 'Courtesan|hetaera' wanted to prove himself to her by hunting lions. The 'hetaera' feared for his life and his business.'"
+    },
+    "General_Description": "'''A Foolish Errand''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A [[Courtesan|''hetaera'']] sought the help of a [[mercenary]] to save her favorite client from a foolish decision.",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra saw a contract from a ''hetaera'' on a [[message board]].\n\n:'''Note:'''<br>''I need the help of someone strong and confident. Must not fear [[lion]]s.''\n\nKassandra accepted the contact and left to find the ''hetaera'', who was waiting at the town's entrance. Kassandra walked up and talked to the woman.\n\n*'''Kassandra:''' ''You left a message on the board. What's the matter?''\n*'''Woman:''' ''Yet another young man swore he would prove himself the sole person worthy of my affection.''\n*'''Kassandra:''' ''That's... nice?''\n*'''Woman:''' ''Maybe so, ''misthios'', but I don't think this one will return. The poor fool has gone lion [[hunting]]. He is a good client... it would be a shame to lose him.''\n*'''Kassandra:''' ''And you'd like me to protect him.''\n*'''Woman:''' ''Yes, he must remain unscathed.''\n\n(Accept \u2013 \"I'm going to help you.\")\n\n*'''Kassandra:''' ''All right, I'll do it.''\n*'''Woman:''' ''Good. You're doing me a great service.''\n*'''Kassandra:''' ''I'll be back when I'm done.''\n\nKassandra left to find the ''hetaera''{{'}}s client before he was killed. She soon reached the man's camp, where she saw him and another woman smoking fish and drying animal hides from their latest hunting trip. Kassandra walked up to the man and talked to him.\n\n*'''Kassandra:''' ''I'm here to look after you.''\n*'''Man:''' ''Thank the [[Greek mythology|gods]]! I hear them coming!''\n\nAt that moment, the camp was attacked by two male lions and an albino alpha lion. Although Kassandra was unable to help the man's hunting partner from being mauled to death, she managed to protect the client and slew all three predators. She then returned to the waiting ''hetaera'' to report on her success.\n\n*'''Woman:''' Misthios''! Were you able to keep him safe?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''You're a true warrior. Please take this as thanks.''\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra killed a group of lions, saving a ''hetaera''{{'}}s favored client.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While traveling across [[Greece]], Kassandra saw a contract from a ''hetaera'' on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": ":'''Note:'''<br>''I need the help of someone strong and confident. Must not fear [[lion]]s.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra accepted the contact and left to find the ''hetaera'', who was waiting at the town's entrance. Kassandra walked up and talked to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You left a message on the board. What's the matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "8",
+            "content": "*'''Woman:''' ''Yet another young man swore he would prove himself the sole person worthy of my affection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''That's... nice?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Woman:''' ''Maybe so, ''misthios'', but I don't think this one will return. The poor fool has gone lion [[hunting]]. He is a good client... it would be a shame to lose him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''And you'd like me to protect him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''Yes, he must remain unscathed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Accept \u2013 \"I'm going to help you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U5",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''All right, I'll do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Woman:''' ''Good. You're doing me a great service.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll be back when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Kassandra left to find the ''hetaera''{{'}}s client before he was killed. She soon reached the man's camp, where she saw him and another woman smoking fish and drying animal hides from their latest hunting trip. Kassandra walked up to the man and talked to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'm here to look after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Man:''' ''Thank the [[Greek mythology|gods]]! I hear them coming!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "25",
+            "content": "At that moment, the camp was attacked by two male lions and an albino alpha lion. Although Kassandra was unable to help the man's hunting partner from being mauled to death, she managed to protect the client and slew all three predators. She then returned to the waiting ''hetaera'' to report on her success.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "27",
+            "content": "*'''Woman:''' Misthios''! Were you able to keep him safe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "29",
+            "content": "*'''Woman:''' ''You're a true warrior. Please take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

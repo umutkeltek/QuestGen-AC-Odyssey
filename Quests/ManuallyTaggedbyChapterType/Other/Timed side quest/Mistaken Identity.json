@@ -1,0 +1,40 @@
+{
+    "QuestName": "Mistaken Identity",
+    "QuestID": "236755",
+    "Revision": {
+        "id": "1047547",
+        "parentid": "846517",
+        "timestamp": "2023-06-13T19:30:30Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047547",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "mv9hop09o96kmxo7v559pc5qb7zhifv"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Mistaken Identity",
+        "image": null,
+        "description": "'A woman who was passing information to Athens|Athenians looked for help when her husband was thought to be the spy and was taken by bandits.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Mistaken Identity''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was asked by a spy for [[Athens]] to help her husband.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''The priestess [[Io]] did [[Zeus]] pursue. As a cloud his love was true.''\n*'''Kassandra:''' ''I've been looking for you... I saw your message. What's happened?''\n*'''Woman:''' ''My husband has been captured by bandits. They think he is a spy, and those ''mal\u00e1kes'' know the [[Sparta]]ns will reward them for his capture.''\n*'''Kassandra:''' ''Being a spy is dangerous work.''\n*'''Woman:''' ''It is but he's not even a spy! It was me. I can't let this happen,'' misthios.\n<tabber>\n|-|You want all the outlaws to be killed.=\n|-|You want the man rescued.=\n*'''Kassandra:''' ''You want me to rescue him.''\n*'''Woman:''' ''No. All the bandits must die.''\n</tabber>\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Perfect. Time is of the essence.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left the woman, sought out the bandit camp and killed the bandits within before returning to the spy.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''Thank you for all you've done. Please, take this.''\n*'''Kassandra:''' ''All in a day's work.''",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

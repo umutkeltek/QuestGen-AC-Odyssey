@@ -1,0 +1,722 @@
+{
+    "Quest_Name": "Barnabas Abroad",
+    "Quest_ID": "225000",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_Olympia_entrance_-_Kassandra_and_Barnabas.png",
+        "description": "'Barnabas was overjoyed to be at the Olympic Games|Olympics and was more than willing to share his knowledge of Sanctuary of Olympia|Olympia with Kassandra.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side,",
+        "previous": "Delivering a Champion",
+        "next": "Throwing the Bet",
+        "source": "Kassandra",
+        "location": "Sanctuary of Olympia, Elis, Greece",
+        "date": "428 BCE"
+    },
+    "General_Description": "'''Barnabas Abroad''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Kassandra]] met [[Barnabas]] at the gates of the [[Sanctuary of Olympia]] and agreed to go on a tour of the city with him.",
+    "Section_Dialogue": "Kassandra arrived at the entrance northwest of Olympia and Barnabas beckoned her.\n*'''Barnabas:''' ''Hey, over here! Come on!''\nKassandra approached him. He inhaled deeply while talking to her.\n*'''Barnabas:''' ''Welcome to the [[Olympic Games|Olympics]]! Breathe in. Can you not taste the excitement in the air?''\nThey began to walk through the city.\n*'''Kassandra:''' ''Are you going to be like this the whole time we're here?''\n*'''Barnabas:''' ''By the [[Twelve Gods|gods]], yes!''\n*'''Kassandra:''' ''I'll try and win quickly then.''\n*'''Barnabas:''' ''Come now. You must be feeling something.''\nKassandra laughed.\n*'''Kassandra:''' ''I'm just having fun with you. Who wouldn't be impressed?''\n*'''Barnabas:''' ''It is a place of immortal glory\u2014you can be sure [[Hera]] and [[Zeus]] will be watching your performance closely.''\nShe replied sarcastically.\n*'''Kassandra:''' ''Oh, no pressure, then.''\nBarnabas chuckled.\n*'''Barnabas:''' ''Forget that for the moment, and let's enjoy the sights and see what Olympia has to offer.''\nThey walked for a bit, then turned back to look at the grand entrance with the banners of [[Elis]].\n*'''Barnabas:''' ''Isn't this magnificent?''\n*'''Kassandra:''' ''It's certainly impressive. Though I'm sad we'll be missing the [[chariot]] races.''\n*'''Barnabas:''' ''Oh, what I would have given to see that!''\nHe turned towards her.\n*'''Barnabas:''' ''We should take in the sights and praise the gods to be here at such a time.''\n*'''Kassandra:''' ''Which sights should we see?''\n*'''Barnabas:''' ''There're so many! Let me think... The [[Temple of Zeus, Olympia|Temple of Zeus]], the [[Altar of Zeus]], and of course, the [[Olympic Tree]].''\n(Leave \u2013 \"Maybe later.\")\n*'''Kassandra:''' ''You have fun Barnabas\u2014I'll catch up with you later.''\nKassandra returned.\n*'''Kassandra:''' ''Enjoying the Olympics so far?''\n*'''Barnabas:''' ''Even more than I imagined. There's so much to see and do!''\n(If players chose \"I'll meet you at the altar.\")\n*'''Kassandra:''' ''We should make an offering to Zeus for good luck in the Games.''\n[[File:ACOD Altar of Zeus - Kassandra and Barnabas.png|thumb|250px|Barnabas and Kassandra at the Altar of Zeus]]\nThey met at the entryway to the Altar of Zeus, flanked by two bull statues.\n*'''Barnabas:''' ''To think I would see such an offering to the gods in Olympia itself...''\n*'''Kassandra:''' ''I've never seen anything like this.''\n*'''Barnabas:''' ''And this is nothing! On the final day the ''mageiros'' will slaughter a hundred [[Cattle|bulls]] for the hecatomb to honor Zeus.''\n<tabber>\n|-|Disgusting!=\n*'''Kassandra:''' ''Ugh, I think I've had enough of the stench of offal and burned meat.''\n|-|Delicious!=\n*'''Kassandra:''' ''I could eat.''\n*'''Barnabas:''' ''But that's not for people like us!''\n*'''Kassandra:''' ''What's wrong with people like us?''\n{{#tag:tabber|\nGive me some meat.=\nKassandra turned to a butcher nearby.\n*'''Kassandra:''' ''Hey, give me some of that meat. The gods won't miss it.''\n*'''Butcher:''' ''I won't anger the gods for your belly. Get lost.''\n{{!}}-{{!}}\nI'll pay for some meat. [200]=\nKassandra turned to a butcher nearby and handed him some [[drachma]]e.\n*'''Kassandra:''' ''My friend here would like to savor your offering. I have the drachmae.''\n*'''Butcher:''' ''Won't say no to some extra drachmae.''\nBarnabas had a taste.\n*'''Barnabas:''' ''Mmm, delicious. Thank you, my friend.''\n*'''Kassandra:''' ''Gladly. I know how much this all means to you.''\n}}\n</tabber>\n*'''Barnabas:''' ''Well then, I think we've spent enough time here.''\n*'''Kassandra:''' ''Agreed. Let's go.''\n(If players chose \"I'll meet you at the altar.\" after having visited the Altar of Zeus.)\n*'''Kassandra:''' ''What about the Altar of Zeus?''\n*'''Barnabas:''' ''We've already been.''\n*'''Kassandra:''' ''All these things with Zeus in the name\u2014I get confused!''\n*'''Barnabas:''' ''It's Olympia. What do you expect?''\n(If players chose \"I'll meet you at the temple.\")\n*'''Kassandra:''' ''We're in Olympia. It's only fitting we visit the Temple of Zeus.''\n[[File:ACOD Statue of Zeus - Kassandra and Barnabas.png|thumb|250px|Barnabas and Kassandra inside the Temple of Zeus]]\nKassandra entered the huge temple in the middle of Olympia and approached Barnabas at the feet of the massive [[Statue of Zeus, Olympia|Statue of Zeus]]. They both gazed up at it.\n*'''Barnabas:''' ''I heard it's one of the [[Wonders of the World|wonders of the world]]\u2014and sculpted by your friend, [[Phidias]]!''\nThey turned their gazes to one another.\n*'''Kassandra:''' ''I'd hardly say friend. Even acquaintance might be pushing it.''\n*'''Barnabas:''' ''Can't you just feel the presence of Zeus and Hera when you stand here?''\nKassandra replied sarcastically.\n*'''Kassandra:''' ''I thought it was the wind.''\nBarnabas barked back with godly fear:\n*'''Barnabas:''' ''Don't mock the gods.''\n<tabber>\n|-|I don't owe the gods anything.=\nKassandra responded sharply.\n*'''Kassandra:''' ''My life's been tainted by prophecy and the word of the gods. I've yet to see their hand in anything in this life.''\nBarnabas nodded slightly, sympathetic to her point.\n*'''Barnabas:''' ''You may not see it, but they have steered you to greatness. You will be a hero for the ages!''\n*'''Kassandra:''' ''At what cost?''\n|-|Forgive me.=\n*'''Kassandra:''' ''I'm sorry. I don't want my feelings to cast a shadow on your day.''\n</tabber>\n*'''Barnabas:''' ''Don't think of yourself as tortured by the gods, but as molded for greatness by their hands.''\n*'''Kassandra:''' ''I am ''molded'' by no one's hands. If the gods know me, they watch in silence.''\nBarnabas sighed as they turned away from the statue.\n*'''Barnabas:''' ''Come. Let's leave this place. Fortunately for you, I have enough faith for the both of us!''\n(If players chose \"I'll meet you at the temple.\" after having visited the Temple of Zeus.)\n*'''Kassandra:''' ''Have I seen the temple?''\n*'''Barnabas:''' ''Yes. Are you paying attention?''\n(If players chose \"I'll meet you at the tree.\")\n*'''Kassandra:''' ''I'd like to see the Olympic Tree.''\nThey met at the foot of the Olympic Tree, where there was a cheering crowd.\n*'''Kassandra:''' ''You brought me to see a tree?''\n*'''Barnabas:''' ''Not just any tree. This is the sacred tree from which the winners ''kotinos'' are made.''\n*'''Kassandra:''' ''I'd rather have drachmae than a wreath.''\n*'''Barnabas:''' ''A kotinos is no ordinary wreath. The [[olive]] branches are harvested by children and taken to the [[Temple of Hera, Olympia|temple of Hera]]. There, the ''{{Wiki|Hellanodikai}}'', or judges, make the wreaths.''\n*'''Kassandra:''' ''I guess they'll be lighter to carry back to [[Sparta]] than gold.''\n*'''Barnabas:''' ''At least you see the practicality, if not the wonder, of the Olympic wreaths.''\n(If players chose \"I'll meet you at the tree.\" after having visited the Olympic Tree.)\n*'''Kassandra:''' ''Should we see the Olympic Tree?''\n*'''Barnabas:''' ''Were you sleeping? We've been there.''\nAfter their tour was over, they convened in the walkway between the Olympic Tree and the [[Olympic Gymnasium]].\n*'''Kassandra:''' ''Barnabas?''\n*'''Barnabas:''' ''Yes?''\n*'''Kassandra:''' ''Thank you for this. I hope I wasn't too much of a distraction.''\n*'''Barnabas:''' ''No, it was made better by your company.''\n[[File:ACOD_Barnabas_Abroad_-_Barnabas_and_Kassandra_hug.png|thumb|250px|Barnabas and Kassandra hugging]]\nThe two embraced.\n*'''Barnabas:''' ''A flock of [[Harpy|harpies]] couldn't dampen my spirits\u2014we're at the Olympics! You're competing, and I believe you'll win.''\nKassandra laughed heartily as they returned to the task at hand.",
+    "Section_Outcome": "Barnabas showed Kassandra around the Sanctuary of Olympia, telling her about the history and meaning of significant locations.",
+    "Section_Trivia": "*This memory is only available during the Odyssey Quest \"[[The Contender]].\"",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Olympics",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived at the entrance northwest of Olympia and Barnabas beckoned her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Barnabas:''' ''Hey, over here! Come on!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached him. He inhaled deeply while talking to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Barnabas:''' ''Welcome to the [[Olympic Games|Olympics]]! Breathe in. Can you not taste the excitement in the air?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "They began to walk through the city.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Are you going to be like this the whole time we're here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Barnabas:''' ''By the [[Twelve Gods|gods]], yes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I'll try and win quickly then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Barnabas:''' ''Come now. You must be feeling something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "Kassandra laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm just having fun with you. Who wouldn't be impressed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Barnabas:''' ''It is a place of immortal glory\u2014you can be sure [[Hera]] and [[Zeus]] will be watching your performance closely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "13",
+            "content": "She replied sarcastically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Oh, no pressure, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "15",
+            "content": "Barnabas chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Barnabas:''' ''Forget that for the moment, and let's enjoy the sights and see what Olympia has to offer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "17",
+            "content": "They walked for a bit, then turned back to look at the grand entrance with the banners of [[Elis]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Barnabas:''' ''Isn't this magnificent?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''It's certainly impressive. Though I'm sad we'll be missing the [[chariot]] races.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Barnabas:''' ''Oh, what I would have given to see that!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "21",
+            "content": "He turned towards her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Barnabas:''' ''We should take in the sights and praise the gods to be here at such a time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Which sights should we see?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Barnabas:''' ''There're so many! Let me think... The [[Temple of Zeus, Olympia|Temple of Zeus]], the [[Altar of Zeus]], and of course, the [[Olympic Tree]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "25",
+            "content": "(Leave \u2013 \"Maybe later.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''You have fun Barnabas\u2014I'll catch up with you later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "27",
+            "content": "Kassandra returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Enjoying the Olympics so far?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Barnabas:''' ''Even more than I imagined. There's so much to see and do!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "30",
+            "content": "(If players chose \"I'll meet you at the altar.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''We should make an offering to Zeus for good luck in the Games.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "32",
+            "content": "[[File:ACOD Altar of Zeus - Kassandra and Barnabas.png|thumb|250px|Barnabas and Kassandra at the Altar of Zeus]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "33",
+            "content": "They met at the entryway to the Altar of Zeus, flanked by two bull statues.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Barnabas:''' ''To think I would see such an offering to the gods in Olympia itself...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I've never seen anything like this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Barnabas:''' ''And this is nothing! On the final day the ''mageiros'' will slaughter a hundred [[Cattle|bulls]] for the hecatomb to honor Zeus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "37",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "38",
+            "content": "|-|Disgusting!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Ugh, I think I've had enough of the stench of offal and burned meat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "40",
+            "content": "|-|Delicious!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I could eat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Barnabas:''' ''But that's not for people like us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''What's wrong with people like us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "44",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "45",
+            "content": "Give me some meat.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N11",
+            "global_id": "46",
+            "content": "Kassandra turned to a butcher nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Hey, give me some of that meat. The gods won't miss it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Butcher:''' ''I won't anger the gods for your belly. Get lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "49",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "50",
+            "content": "I'll pay for some meat. [200]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N12",
+            "global_id": "51",
+            "content": "Kassandra turned to a butcher nearby and handed him some [[drachma]]e.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''My friend here would like to savor your offering. I have the drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "53",
+            "content": "*'''Butcher:''' ''Won't say no to some extra drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "54",
+            "content": "Barnabas had a taste.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "55",
+            "content": "*'''Barnabas:''' ''Mmm, delicious. Thank you, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Gladly. I know how much this all means to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "57",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "58",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D34",
+            "global_id": "59",
+            "content": "*'''Barnabas:''' ''Well then, I think we've spent enough time here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Agreed. Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "61",
+            "content": "(If players chose \"I'll meet you at the altar.\" after having visited the Altar of Zeus.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D36",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''What about the Altar of Zeus?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "63",
+            "content": "*'''Barnabas:''' ''We've already been.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''All these things with Zeus in the name\u2014I get confused!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "65",
+            "content": "*'''Barnabas:''' ''It's Olympia. What do you expect?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "66",
+            "content": "(If players chose \"I'll meet you at the temple.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''We're in Olympia. It's only fitting we visit the Temple of Zeus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "68",
+            "content": "[[File:ACOD Statue of Zeus - Kassandra and Barnabas.png|thumb|250px|Barnabas and Kassandra inside the Temple of Zeus]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N14",
+            "global_id": "69",
+            "content": "Kassandra entered the huge temple in the middle of Olympia and approached Barnabas at the feet of the massive [[Statue of Zeus, Olympia|Statue of Zeus]]. They both gazed up at it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "70",
+            "content": "*'''Barnabas:''' ''I heard it's one of the [[Wonders of the World|wonders of the world]]\u2014and sculpted by your friend, [[Phidias]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "71",
+            "content": "They turned their gazes to one another.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I'd hardly say friend. Even acquaintance might be pushing it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "73",
+            "content": "*'''Barnabas:''' ''Can't you just feel the presence of Zeus and Hera when you stand here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "74",
+            "content": "Kassandra replied sarcastically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''I thought it was the wind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "76",
+            "content": "Barnabas barked back with godly fear:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "77",
+            "content": "*'''Barnabas:''' ''Don't mock the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "78",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "79",
+            "content": "|-|I don't owe the gods anything.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N18",
+            "global_id": "80",
+            "content": "Kassandra responded sharply.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''My life's been tainted by prophecy and the word of the gods. I've yet to see their hand in anything in this life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "82",
+            "content": "Barnabas nodded slightly, sympathetic to her point.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "83",
+            "content": "*'''Barnabas:''' ''You may not see it, but they have steered you to greatness. You will be a hero for the ages!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''At what cost?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "85",
+            "content": "|-|Forgive me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''I'm sorry. I don't want my feelings to cast a shadow on your day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "87",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D50",
+            "global_id": "88",
+            "content": "*'''Barnabas:''' ''Don't think of yourself as tortured by the gods, but as molded for greatness by their hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''I am ''molded'' by no one's hands. If the gods know me, they watch in silence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "90",
+            "content": "Barnabas sighed as they turned away from the statue.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "91",
+            "content": "*'''Barnabas:''' ''Come. Let's leave this place. Fortunately for you, I have enough faith for the both of us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "92",
+            "content": "(If players chose \"I'll meet you at the temple.\" after having visited the Temple of Zeus.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D53",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''Have I seen the temple?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "94",
+            "content": "*'''Barnabas:''' ''Yes. Are you paying attention?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "95",
+            "content": "(If players chose \"I'll meet you at the tree.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D55",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''I'd like to see the Olympic Tree.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "97",
+            "content": "They met at the foot of the Olympic Tree, where there was a cheering crowd.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''You brought me to see a tree?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "99",
+            "content": "*'''Barnabas:''' ''Not just any tree. This is the sacred tree from which the winners ''kotinos'' are made.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''I'd rather have drachmae than a wreath.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "101",
+            "content": "*'''Barnabas:''' ''A kotinos is no ordinary wreath. The [[olive]] branches are harvested by children and taken to the [[Temple of Hera, Olympia|temple of Hera]]. There, the ''{{Wiki|Hellanodikai}}'', or judges, make the wreaths.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''I guess they'll be lighter to carry back to [[Sparta]] than gold.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "103",
+            "content": "*'''Barnabas:''' ''At least you see the practicality, if not the wonder, of the Olympic wreaths.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "104",
+            "content": "(If players chose \"I'll meet you at the tree.\" after having visited the Olympic Tree.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D62",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''Should we see the Olympic Tree?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "106",
+            "content": "*'''Barnabas:''' ''Were you sleeping? We've been there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "107",
+            "content": "After their tour was over, they convened in the walkway between the Olympic Tree and the [[Olympic Gymnasium]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D64",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''Barnabas?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "109",
+            "content": "*'''Barnabas:''' ''Yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''Thank you for this. I hope I wasn't too much of a distraction.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "111",
+            "content": "*'''Barnabas:''' ''No, it was made better by your company.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "112",
+            "content": "[[File:ACOD_Barnabas_Abroad_-_Barnabas_and_Kassandra_hug.png|thumb|250px|Barnabas and Kassandra hugging]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N23",
+            "global_id": "113",
+            "content": "The two embraced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "114",
+            "content": "*'''Barnabas:''' ''A flock of [[Harpy|harpies]] couldn't dampen my spirits\u2014we're at the Olympics! You're competing, and I believe you'll win.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "115",
+            "content": "Kassandra laughed heartily as they returned to the task at hand.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

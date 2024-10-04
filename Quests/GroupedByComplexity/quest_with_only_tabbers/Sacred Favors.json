@@ -1,0 +1,502 @@
+{
+    "Quest_Name": "Sacred Favors",
+    "Quest_ID": "224053",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-SacredFavors.jpg",
+        "description": "'Following the directions of Magistrate Xanthe, Kassandra was asked to carry an important basket to a Spartan Kalibos|general.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "A Treasury of Legends",
+        "next": "A Godless Blight",
+        "source": "Kassandra",
+        "location": "Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Sacred Favors''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of [[Xanthe]], the magistrate of [[Pitana]], Kassandra sought out [[Zeuxo]] in [[Geronthai]] to help with whatever she required.",
+    "Section_Dialogue": "Kassandra arrived at the village and found Zeuxo walking back and forth, looking worried.\n*'''Zeuxo:''' ''You wouldn't happen to be the [[Ikaros|Eagle]] Bearer, would you?''\n*'''Kassandra:''' ''Me? Yes I am.''\nZeuxo looks at her admiringly.\n*'''Zeuxo:''' ''Words do you no justice. Your hair must have been woven by [[Athena]], your body is like a sculpture made by the masters... Your arms look so strong. Strong enough to...''\n*'''Kassandra:''' ''Strong enough to...?''\n*'''Zeuxo:''' ''Strong enough to carry this basket to my husband, Kalibos.''\n*'''Kassandra:''' ''Oh. Right. The magistrate mentioned you.''\n\n<tabber>\n|-|My strong arms are at your service.=\n*'''Kassandra:''' ''It'll be easy to carry.''\n|-|Not right now.=\n*'''Kassandra:''' ''I don't have time for that.''\nKassandra returns.\n*'''Zeuxo:''' ''Please don't forget to bring Kalibos that basket I gave you!''\n(Back to dialogue choice one.)\n</tabber>\n\n*'''Zeuxo:''' ''Thank you so much. Let me know if you need anything.''\n(If players choose \"Where can I find your husband?\")\n*'''Kassandra:''' ''Where might I find Kalibos?''\n*'''Zeuxo:''' ''He's an important general. His unit is stationed in the northeast, near the [[Fort of Praisai]], down by the beach.''\n(If players choose \"What's in the basket?\")\n*'''Kassandra:''' ''What's in the basket?''\n*'''Zeuxo:''' ''What any man would need on the eve of battle to win the respect of the gods. Please, Eagle Bearer, it would give him an edge over his enemies.''\n(Leave - \"I'll bring this to your husband.\")\n*'''Kassandra:''' ''I'll help with your delivery.''\nKassandra carried the basket on her shoulders and left the village.\n*'''Kassandra:''' ''Ugh, this is heavy. What's in here, bricks?''\nShe ran all the way to the beach some three ''[https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement stadia]'' away, and arrived at a beach camp with a table of food and a fire spit-roasting a pig. She gently put down the basket and talked to the [[Strategos]] standing by the biggest tent.\n*'''Kalibos:''' ''A ''[https://assassinscreed.fandom.com/wiki/Mercenary#5th_century_BCE misthios]?'' Well met. What brings you to our camp?''\n*'''Kassandra:''' ''You are Kalibos? Your wife sent me to deliver this package. I think it might be some kind of offering.''\n*'''Kalibos:''' ''Zeuxo is a good woman. She's gifted me with a basket fit for [[Dionysos]].''\n*'''Kassandra:''' ''Earthly pleasures? She made it sound like it was a case of life and death.''\nKalibos and his troops turn cheerful.\n*'''Kalibos:''' ''A deathly hangover, maybe. Boys, we're having a good night! Care to join us, friend?''\n(If players choose \"How can you drink before battle?\")\n*'''Kassandra:''' ''Are you sure you want your soldiers this intoxicated while in the field?''\n*'''Kalibos:''' ''I must have misjudged you. Are you not also a Spartan? The only thing we're better at than fighting is drinking.''\n*'''Kassandra:''' ''I see your point.''\n\n<tabber>\n|-|I'd love to!=\n*'''Kassandra:''' ''I never say no to good wine and good company.''\n*'''Kalibos:''' ''I expected no less from you.''\n|-|I'll stay, but I won't drink.=\n*'''Kassandra:''' ''Thank you for offering. I don't like to dull my senses this close to battle. I will stay and keep you and your men company through the night.''\n*'''Kalibos:''' ''Chaperoned by a messenger of [[Zeus]]? This will be interesting.\n</tabber>\n\nThey spent day and night feasting, and woke up the next day with headaches.\n*'''Spartan Light Soldier:''' ''Could someone pass the waterskin?''\nKalibos groans.\n*'''Kalibos:''' ''Could someone pass my head? I think I left it further down the beach.''\n(If players chose to feast with them.)\nKassandra slurs a bit.\n*'''Kassandra:''' ''Surely this is the after effects of the mushrooms. I remember the chicken coop. I remember the farmer's field. I do not remember building a [https://en.wikipedia.org/wiki/Trojan_Horse Trojan horse].''\nKalibos turns around to also look at the large wooden horse.\n*'''Spartan Light Soldier:''' ''Uh, it was just here when I woke up.''\n*'''Kalibos:''' ''We offer it to the gods for safe passage across the seas! Boys, let's move this down to the beach!''\n(If players chose to feast and not drink with them.)\n*'''Kassandra:''' ''I didn't even drink last night. Why am I seeing a Trojan horse?''\nKalibos turns around to also look at the large wooden horse.\n*'''Kalibos:''' ''We can offer it to [[Poseidon]] [https://en.wikipedia.org/wiki/Poseidon#Epithets Earth-Shaker] for safe passage across the sea!''\n*'''Kassandra:''' ''Careful, this was a trap the last time.''\nRegardless, they prepare to do so.\n*'''Spartan Brute:''' ''I don't trust that horse.''\nAlmost a dozen [[Athens|Athenians]] broke out of the horse and charged at them.\n*'''Kalibos:''' ''By Zeus, I can't believe I fell for that.''\n*'''Athenian Heavy Soldier:''' ''For Athens!''\n*'''Spartan Light Soldier:''' ''For Sparta!''\n*'''Athenian Archer:''' ''I can't believe they fell for that.''\nThey won the battle after killing them all. Kassandra talked to Kalibos for the last time while observing the broken horse.\n*'''Kalibos:''' ''I once boasted to a friend that I was a better tactician than [[Odysseus]] himself... Today I was proven wrong.''\n*'''Kassandra:''' ''You live to fight another day. Learn from this.''\n*'''Kalibos:''' ''Please thank my wife for her festive gift.''\n*'''Kassandra:''' ''I don't know if I should thank her or curse her.''",
+    "Section_Outcome": "Kassandra presumed the help asked by Zeuxo would be something else, but a delivery of liquor to a camp of Spartans, with her husband planning for a feast, has led to a replication of a legendary event the next morning.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lakonia",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived at the village and found Zeuxo walking back and forth, looking worried.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Zeuxo:''' ''You wouldn't happen to be the [[Ikaros|Eagle]] Bearer, would you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Me? Yes I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Zeuxo looks at her admiringly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Zeuxo:''' ''Words do you no justice. Your hair must have been woven by [[Athena]], your body is like a sculpture made by the masters... Your arms look so strong. Strong enough to...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Strong enough to...?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Zeuxo:''' ''Strong enough to carry this basket to my husband, Kalibos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Oh. Right. The magistrate mentioned you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|My strong arms are at your service.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''It'll be easy to carry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|Not right now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I don't have time for that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "15",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Zeuxo:''' ''Please don't forget to bring Kalibos that basket I gave you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Zeuxo:''' ''Thank you so much. Let me know if you need anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "21",
+            "content": "(If players choose \"Where can I find your husband?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Where might I find Kalibos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Zeuxo:''' ''He's an important general. His unit is stationed in the northeast, near the [[Fort of Praisai]], down by the beach.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "24",
+            "content": "(If players choose \"What's in the basket?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''What's in the basket?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Zeuxo:''' ''What any man would need on the eve of battle to win the respect of the gods. Please, Eagle Bearer, it would give him an edge over his enemies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "27",
+            "content": "(Leave - \"I'll bring this to your husband.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I'll help with your delivery.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "29",
+            "content": "Kassandra carried the basket on her shoulders and left the village.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Ugh, this is heavy. What's in here, bricks?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "31",
+            "content": "She ran all the way to the beach some three ''[https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement stadia]'' away, and arrived at a beach camp with a table of food and a fire spit-roasting a pig. She gently put down the basket and talked to the [[Strategos]] standing by the biggest tent.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kalibos:''' ''A ''[https://assassinscreed.fandom.com/wiki/Mercenary#5th_century_BCE misthios]?'' Well met. What brings you to our camp?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''You are Kalibos? Your wife sent me to deliver this package. I think it might be some kind of offering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kalibos:''' ''Zeuxo is a good woman. She's gifted me with a basket fit for [[Dionysos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Earthly pleasures? She made it sound like it was a case of life and death.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "36",
+            "content": "Kalibos and his troops turn cheerful.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Kalibos:''' ''A deathly hangover, maybe. Boys, we're having a good night! Care to join us, friend?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "38",
+            "content": "(If players choose \"How can you drink before battle?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Are you sure you want your soldiers this intoxicated while in the field?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Kalibos:''' ''I must have misjudged you. Are you not also a Spartan? The only thing we're better at than fighting is drinking.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I see your point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "44",
+            "content": "|-|I'd love to!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I never say no to good wine and good company.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Kalibos:''' ''I expected no less from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "47",
+            "content": "|-|I'll stay, but I won't drink.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Thank you for offering. I don't like to dull my senses this close to battle. I will stay and keep you and your men company through the night.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "49",
+            "content": "*'''Kalibos:''' ''Chaperoned by a messenger of [[Zeus]]? This will be interesting.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "50",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "52",
+            "content": "They spent day and night feasting, and woke up the next day with headaches.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "53",
+            "content": "*'''Spartan Light Soldier:''' ''Could someone pass the waterskin?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "54",
+            "content": "Kalibos groans.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "55",
+            "content": "*'''Kalibos:''' ''Could someone pass my head? I think I left it further down the beach.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "56",
+            "content": "(If players chose to feast with them.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "N9",
+            "global_id": "57",
+            "content": "Kassandra slurs a bit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''Surely this is the after effects of the mushrooms. I remember the chicken coop. I remember the farmer's field. I do not remember building a [https://en.wikipedia.org/wiki/Trojan_Horse Trojan horse].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "59",
+            "content": "Kalibos turns around to also look at the large wooden horse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "60",
+            "content": "*'''Spartan Light Soldier:''' ''Uh, it was just here when I woke up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "61",
+            "content": "*'''Kalibos:''' ''We offer it to the gods for safe passage across the seas! Boys, let's move this down to the beach!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "62",
+            "content": "(If players chose to feast and not drink with them.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D34",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''I didn't even drink last night. Why am I seeing a Trojan horse?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "64",
+            "content": "Kalibos turns around to also look at the large wooden horse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "65",
+            "content": "*'''Kalibos:''' ''We can offer it to [[Poseidon]] [https://en.wikipedia.org/wiki/Poseidon#Epithets Earth-Shaker] for safe passage across the sea!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Careful, this was a trap the last time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "67",
+            "content": "Regardless, they prepare to do so.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "68",
+            "content": "*'''Spartan Brute:''' ''I don't trust that horse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "69",
+            "content": "Almost a dozen [[Athens|Athenians]] broke out of the horse and charged at them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "70",
+            "content": "*'''Kalibos:''' ''By Zeus, I can't believe I fell for that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "71",
+            "content": "*'''Athenian Heavy Soldier:''' ''For Athens!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "72",
+            "content": "*'''Spartan Light Soldier:''' ''For Sparta!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "73",
+            "content": "*'''Athenian Archer:''' ''I can't believe they fell for that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "74",
+            "content": "They won the battle after killing them all. Kassandra talked to Kalibos for the last time while observing the broken horse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "75",
+            "content": "*'''Kalibos:''' ''I once boasted to a friend that I was a better tactician than [[Odysseus]] himself... Today I was proven wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''You live to fight another day. Learn from this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "77",
+            "content": "*'''Kalibos:''' ''Please thank my wife for her festive gift.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''I don't know if I should thank her or curse her.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

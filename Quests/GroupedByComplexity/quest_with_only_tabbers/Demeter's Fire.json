@@ -1,0 +1,145 @@
+{
+    "Quest_Name": "Demeter's Fire",
+    "Quest_ID": "229221",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Demeter's Fire Screenshot.png",
+        "description": "'In the name of friendship, Kassandra did the unthinkable. She snuck into Leda (Barnabas' daughter)|Leda's Leda's farm|farm to burn it to the ground, just so Barnabas and his daughter could be together again.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Daddy's Home",
+        "source": "Kassandra",
+        "location": "Sacred Plains of Demeter, Attika, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Demeter's Fire''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to find a way to let [[Barnabas]] be with his daughter [[Leda (Barnabas' daughter)|Leda]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''I'm doing this for you, Barnabas. I just hope you never find out.''\nAt night, Kassandra set the grain silos in [[Leda's farm]] alight.\n*'''Kassandra:''' ''[[Greek mythology|Gods]] forgive me.''\n\nAfter setting the whole farm ablaze, Kassandra watched nearby. Leda rushed to the scene, shocked.\n*'''Leda:''' ''I can't believe it. Who would do this?''\n\n<tabber>\n|-|It was the gods.=\n*'''Kassandra:''' ''You asked [[Demeter]] to send you a sign. I'd say this is it. She wants you to be with your father, Leda.''\n*'''Leda:''' ''Demeter is right. She always is. Staying here means living in the past. My future is on the ocean, living the life my ''[[Leda (Barnabas' wife)|mater]]'' was meant to live. You still have room for one more on your crew?''\nShe offered her hand, and Kassandra clasped it with a smile.\n*'''Kassandra:''' ''Welcome aboard.''\n|-|I did it.=\n*'''Kassandra:''' ''It was me. I did it for Barnabas and I did it for you.''\nLeda looked at her, aghast.\n*'''Leda:''' ''I... After everything I worked for, everything I fought for. I will find a way to rebuild. And I will get my vengeance. Until then, get off my farm and ''never'' come back.''\nLeda walked off, enraged, while Kassandra looked after her.\n</tabber>",
+    "Section_Outcome": "Kassandra snuck into Leda's farm and burned the grain silos to the ground. This led Leda to reconsider her life.",
+    "Section_Trivia": "*This is a 'hidden' quest, in that the only way to trigger it is to set one of Leda's silos on fire.\n*It is unknown{{Cite|25 Nov 2020. Needs confirmation}} if Leda follows up on her promise to rebuild and seek vengeance if Kassandra confesses to burning the farm.\n*If players set fire to the silos before starting the quest \"[[Odyssey Into the Past]]\", the end cutscene will play immediately after completing \"[[Daddy's Home]]\".\n*Demeter's Fire is a word play on \"{{Wiki|St. Elmo's Fire}}\"",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Friend Worth Dying For",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''I'm doing this for you, Barnabas. I just hope you never find out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "At night, Kassandra set the grain silos in [[Leda's farm]] alight.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''[[Greek mythology|Gods]] forgive me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "After setting the whole farm ablaze, Kassandra watched nearby. Leda rushed to the scene, shocked.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Leda:''' ''I can't believe it. Who would do this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|It was the gods.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You asked [[Demeter]] to send you a sign. I'd say this is it. She wants you to be with your father, Leda.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Leda:''' ''Demeter is right. She always is. Staying here means living in the past. My future is on the ocean, living the life my ''[[Leda (Barnabas' wife)|mater]]'' was meant to live. You still have room for one more on your crew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "She offered her hand, and Kassandra clasped it with a smile.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Welcome aboard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|I did it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''It was me. I did it for Barnabas and I did it for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "16",
+            "content": "Leda looked at her, aghast.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Leda:''' ''I... After everything I worked for, everything I fought for. I will find a way to rebuild. And I will get my vengeance. Until then, get off my farm and ''never'' come back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "18",
+            "content": "Leda walked off, enraged, while Kassandra looked after her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "19",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

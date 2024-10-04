@@ -1,0 +1,43 @@
+{
+    "QuestName": "Curses and Cures",
+    "QuestID": "236800",
+    "Revision": {
+        "id": "1047519",
+        "parentid": "884403",
+        "timestamp": "2023-06-13T19:26:09Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047519",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "n6amepxb68p7qqkrzc8fv1yvo43w5da"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Curses and Cures",
+        "image": "ACOD-CursesAndCures-01.jpg",
+        "description": "'A physician devoted to caring for both spirit and body requested help removing a curse by removing the person who placed the curse.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Curses and Cures''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[Doctor|physician]] sought a [[mercenary]]'s help to remove a curse.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br />''I'm a physician in need of some help with a difficult curse. If you think you can aid me, let's talk.''\nShe sought out the physician and addressed him.\n*'''Kassandra:''' ''I got your message on the board. What's going on?''\n*'''Man:''' ''One of my patients has lost all favor with the gods. I need help lifting the curse that's been placed on her.''\n<tabber>\n|-|I'm good with curses.=\n*'''Kassandra:''' ''Well, I might have some sway with the gods.''\n|-|Gods aren't my specialty.=\n*'''Kassandra:''' ''I'm not sure I have much say in the gods' business.''\n</tabber>\n*'''Man:''' ''The problem isn't the gods. It's with the person who laid the curse.''\n*'''Kassandra:''' ''So you want me to deal with her.''\n*'''Man:''' ''The gods show me mercy. That is exactly what I desire.''\n(Accept \u2013 I'm going to help you.)\n*'''Kassandra:''' ''All right. I'm in.''\n*'''Man:''' ''Thank you. You saved me.''\n*'''Kassandra:''' Chaire.\nKassandra left the physician and sought out the priestess.\n*'''Kassandra:''' ''You've made a few enemies, stranger. Including the person who hired me.''\n*'''Woman:''' ''No, please. There must be something I can do to change your mind.''\n<tabber>\nFine, join my crew.=\n*'''Kassandra:''' ''I might be able to help you escape... If you're willing to join [[Adrestia|my crew?]]''\n*'''Woman:''' ''I must abandon my life here completely to avoid death? Fine, if that's what it takes.''\n|-|\nNot interested.=\n*[dialogue]\nKassandra killed the woman.\n</tabber>\nAfter dealing with the priestess, she returned to the physician.\n*'''Man:''' ''Has she been... taken care of,'' misthios?\n*'''Kassandra:''' ''She's no longer a concern.''\n*'''Man:''' ''Then this belongs to you. Nice work, ''misthios.\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the physician.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,349 @@
+{
+    "Quest_Name": "White Lies and Blackmail",
+    "Quest_ID": "224602",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-WL&B-Cultistmessengerrun.jpg",
+        "description": "'Brasidas believed Lagos was being manipulated by the Cult of Kosmos|Cult against his will. He invited Kassandra on an investigation that could save Lagos' life and maintain the balance between Arkadia and Sparta'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "previous": "To Kill or Not to Kill",
+        "next": "Gluten Free",
+        "source": "Kassandra",
+        "location": "Pan's Cradle, Arkadia, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''White Lies and Blackmail''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Brasidas]] sent Kassandra to find evidence that supported his stand that the [[Cult of Kosmos]] was forcing [[Lagos]]' hand.",
+    "Section_Dialogue": "Kassandra traveled through [[Tegea]] on her way to meet with Brasidas.\n*'''Kassandra:''' ''Animals outnumber people three to one in Tegea. Better watch out for predators.''\nShe made her way northeast to the [[Archon's Safe House]] and reunited with Brasidas. He mused to himself.\n*'''Brasidas:''' ''There has to be some proof around here.''\nKassandra spoke to him.\n*'''Brasidas:''' ''You came. [[Lagos]] still lives, then.''\n*'''Kassandra:''' ''What exactly is this place?''\n*'''Brasidas:''' ''Lagos is a very public figure in [[Arkadia]]. This is where he handles his more private affairs.''\n(If players asked \"Why do you care so much about Lagos?\")\n*'''Kassandra:''' ''Remind me\u2014why are you covering for the man who wants me and my mother dead?''\n*'''Brasidas:''' ''I've known Lagos a long time. He got supplies through to my lines when my soldiers were starving. For him to act so dishonorably is completely out of character.''\n(If players chose \"Tell me what you hope to prove.\")\n*'''Kassandra:''' ''What are you looking for?''\n*'''Brasidas:''' ''If we can find out who's manipulating Lagos, there'll be no need for blood.''\n*'''Kassandra:''' ''I thought Spartans drank blood for breakfast.''\nBrasidas laughed at her remark.\n*'''Brasidas:''' ''I've seen enough for two lifetimes. Still, I have hope.''\nKassandra laughed at his remark, in turn.\n*'''Kassandra:''' ''You're getting soft, Brasidas.''\n*'''Brasidas:''' ''When [[Leonidas I of Sparta|Leonidas]] died at the [[Hot Gates of Thermopylai|Hot Gates]], we all [[Greco-Persian Wars|came together against]] a common [[Achaemenid Empire|enemy]]. [[Athens|Athenians]], Spartans, fighting side by side\u2014''\n[[File:ACOD White Lies and Blackmail 2.png|thumb|250px|Kassandra hearing a noise]]\nKassandra cut him off and leaned in, signaling towards the door.\n*'''Brasidas:''' ''What is it?''\n*'''Kassandra:''' ''Someone's here.''\nThe two eavesdropped on a messenger and a guard of the [[Cult of Kosmos]], who entered in the other building unaware of her and Brasidas.\n*'''Cult Guardian:''' ''Were you followed?''\n*'''Civilian:''' ''No.''\n*'''Cult Guardian:''' ''Good. You have the letter from Lagos?''\n*'''Civilian:''' ''I do.''\n[[File:ACOD White Lies and Blackmail 3.png|thumb|250px|A Cultist talking to a messenger]]\n*'''Cult Guardian:''' ''Our job is to deliver this to the [[Scorched Tree]] near a golden field. Someone will meet us there and take it to the hideout.''\nThe Spartans heard what they needed to hear and carefully strolled back into hiding. The two left none the wiser.\n*'''Brasidas:''' ''A letter from Lagos? It could have the answers we need.''\n*'''Kassandra:''' ''I'll follow them. You keep searching the house.''\nKassandra bid farewell to Brasidas and followed them to the Scorched Tree. She followed the road they were taking and found the scorched tree. As she noticed a woman tied up, Kassandra eavesdropped on the Cult guards having a conversation.\n*'''Cult Guardian:''' ''I'm sick of this job. It's boring as dirt.''\n*'''Cult Guardian:''' ''Could be worse, could be us guarding the [[Cultist Cave|hideout]] next to the farmhouse.''\n*'''Cult Guardian:''' ''Hopefully that slack-jawed messenger will be here soon.''\n*'''Cult Guardian:''' ''What's so important about a letter that they'd need us?''\n*'''Cult Guardian:''' Mal\u00e1ka''! Anyone could follow the messenger straight to the family.''\nKassandra ambushed the Cult guards.\n*'''Cult Guardian:''' ''It's the [[Ikaros|Eagle]] Bearer! Kill her!''\nKassandra slew all of them and freed the woman.\n[[File:ACOD White Lies and Blackmail 5.png|thumb|250px|Kassandra and the slave]]\n*'''Slave:''' ''I was brought here with Lagos' family. I thought we'd be killed!''\n*'''Kassandra:''' ''Where are they?''\n*'''Slave:''' ''Below ground, with many guards.''\n*'''Kassandra:''' ''I need you to go tell my friend Brasidas I've found them. He should be in an old farmhouse northeast of Tegea.''\n*'''Slave:''' ''I'll do it. Thank the [[Twelve Gods|gods]] you came to help us!''\nKassandra parted ways with the woman and made her way east to the abandoned farm.\n*'''Kassandra:''' ''Hmm... Abandoned farmhouse, Cultists\u2014hideout must be nearby.''\nAfter a while, she found a well behind the farmhouse leading down into the caves.\n*'''Kassandra:''' ''Wonder what's down here?''",
+    "Section_Outcome": "Kassandra determined that Lagos' family was being held hostage by the Cult of Kosmos to ensure his cooperation. She discovered the caves where they were hidden and resolved to [[Gluten Free|save them]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Pieux mensonge et vil chantage]]",
+    "Chapter_SequenceID": "18.",
+    "Chapter_Name": "The Cult and the Archon",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.d",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled through [[Tegea]] on her way to meet with Brasidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Animals outnumber people three to one in Tegea. Better watch out for predators.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She made her way northeast to the [[Archon's Safe House]] and reunited with Brasidas. He mused to himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Brasidas:''' ''There has to be some proof around here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra spoke to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Brasidas:''' ''You came. [[Lagos]] still lives, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''What exactly is this place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Brasidas:''' ''Lagos is a very public figure in [[Arkadia]]. This is where he handles his more private affairs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "9",
+            "content": "(If players asked \"Why do you care so much about Lagos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Remind me\u2014why are you covering for the man who wants me and my mother dead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Brasidas:''' ''I've known Lagos a long time. He got supplies through to my lines when my soldiers were starving. For him to act so dishonorably is completely out of character.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "12",
+            "content": "(If players chose \"Tell me what you hope to prove.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''What are you looking for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Brasidas:''' ''If we can find out who's manipulating Lagos, there'll be no need for blood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I thought Spartans drank blood for breakfast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "16",
+            "content": "Brasidas laughed at her remark.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Brasidas:''' ''I've seen enough for two lifetimes. Still, I have hope.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "18",
+            "content": "Kassandra laughed at his remark, in turn.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''You're getting soft, Brasidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Brasidas:''' ''When [[Leonidas I of Sparta|Leonidas]] died at the [[Hot Gates of Thermopylai|Hot Gates]], we all [[Greco-Persian Wars|came together against]] a common [[Achaemenid Empire|enemy]]. [[Athens|Athenians]], Spartans, fighting side by side\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "21",
+            "content": "[[File:ACOD White Lies and Blackmail 2.png|thumb|250px|Kassandra hearing a noise]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "22",
+            "content": "Kassandra cut him off and leaned in, signaling towards the door.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Brasidas:''' ''What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Someone's here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "25",
+            "content": "The two eavesdropped on a messenger and a guard of the [[Cult of Kosmos]], who entered in the other building unaware of her and Brasidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Cult Guardian:''' ''Were you followed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Civilian:''' ''No.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Cult Guardian:''' ''Good. You have the letter from Lagos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Civilian:''' ''I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "30",
+            "content": "[[File:ACOD White Lies and Blackmail 3.png|thumb|250px|A Cultist talking to a messenger]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Cult Guardian:''' ''Our job is to deliver this to the [[Scorched Tree]] near a golden field. Someone will meet us there and take it to the hideout.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "32",
+            "content": "The Spartans heard what they needed to hear and carefully strolled back into hiding. The two left none the wiser.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Brasidas:''' ''A letter from Lagos? It could have the answers we need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'll follow them. You keep searching the house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "35",
+            "content": "Kassandra bid farewell to Brasidas and followed them to the Scorched Tree. She followed the road they were taking and found the scorched tree. As she noticed a woman tied up, Kassandra eavesdropped on the Cult guards having a conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Cult Guardian:''' ''I'm sick of this job. It's boring as dirt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Cult Guardian:''' ''Could be worse, could be us guarding the [[Cultist Cave|hideout]] next to the farmhouse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Cult Guardian:''' ''Hopefully that slack-jawed messenger will be here soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Cult Guardian:''' ''What's so important about a letter that they'd need us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Cult Guardian:''' Mal\u00e1ka''! Anyone could follow the messenger straight to the family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "41",
+            "content": "Kassandra ambushed the Cult guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Cult Guardian:''' ''It's the [[Ikaros|Eagle]] Bearer! Kill her!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "43",
+            "content": "Kassandra slew all of them and freed the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "44",
+            "content": "[[File:ACOD White Lies and Blackmail 5.png|thumb|250px|Kassandra and the slave]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Slave:''' ''I was brought here with Lagos' family. I thought we'd be killed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Where are they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "47",
+            "content": "*'''Slave:''' ''Below ground, with many guards.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I need you to go tell my friend Brasidas I've found them. He should be in an old farmhouse northeast of Tegea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Slave:''' ''I'll do it. Thank the [[Twelve Gods|gods]] you came to help us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "50",
+            "content": "Kassandra parted ways with the woman and made her way east to the abandoned farm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Hmm... Abandoned farmhouse, Cultists\u2014hideout must be nearby.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "52",
+            "content": "After a while, she found a well behind the farmhouse leading down into the caves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Wonder what's down here?''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

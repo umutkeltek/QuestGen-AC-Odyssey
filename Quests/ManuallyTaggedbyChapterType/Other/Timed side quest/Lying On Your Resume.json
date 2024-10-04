@@ -1,0 +1,43 @@
+{
+    "QuestName": "Lying On Your Resume",
+    "QuestID": "268066",
+    "Revision": {
+        "id": "1047543",
+        "parentid": "1044552",
+        "timestamp": "2023-06-13T19:29:58Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047543",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "7kwcko6s699j1lsevzl0cgsp1g5uyn0"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Thought and Deed",
+        "image": null,
+        "description": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Lying On Your Resume''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra answered the call of a mercenary.",
+    "Section_Dialogue": "Kassandra approached a civillian.\n*'''Kassandra:''' Chaire''. Can I help you with anything?''\n*'''[[Mercenary]]:''' ''I have a problem... I may have stretched the truth a bit to secure a mercenary contract... It might be a bit bigger job than I'm used to, if I'm honest.''\n*'''Kassandra:''' ''How ''much'' did you stretch the truth?''\n*'''Mercenary:''' ''I told the [[Sparta]]n commander I have sunk whole fleets of [[ship]]s before. So he sent me after the [[piracy|pirates]] in the area... and the [[Athens|Athenians]].''\n*'''Kassandra:''' ''You haven't ever sunk a ship, have you?''\n*'''Mercenary:''' ''I sank one, once. But it was mine. And I was in it.''\n*'''Kassandra:''' ''So I have to sink the Athenian fleet.''\n*'''Mercenary:''' ''You read me like an oracle.''\n<tabber>\n|-|I'll destroy them.=\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''I owe you one.''\n*'''Kassandra:''' ''I should get going.''\n|-|Find another misthios.=\nTBA\n</tabber>\nKassandra proceeded to board the [[Adrestia]] and sink five Athenian ships, returning to the mercenary shortly after.\n*'''Mercenary:''' ''Back already. Did you destroy them all?''\n*'''Kassandra:''' ''It would be back to piece them back together.''\n*'''Mercenary:''' ''Payment well earned, mercenary. Take this as thanks.''\nThe mercenary hendled her a bag of [[drachma]]e.\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra helped the mercenary.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

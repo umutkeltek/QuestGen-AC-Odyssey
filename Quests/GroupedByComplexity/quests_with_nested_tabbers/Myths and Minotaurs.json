@@ -1,0 +1,350 @@
+{
+    "Quest_Name": "Myths and Minotaurs",
+    "Quest_ID": "224115",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Though the Ardos|young boy's claim of a living Minotaur seemed improbable to her, Kassandra decided to help him search for his Nikios|father.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "next": "Of Minotaurs and Men",
+        "source": "Kassandra",
+        "location": "Knossos Palace, Messara, Krete, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Myths and Minotaurs''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a [[Ardos|young boy]] at the [[Knossos Palace]] who claimed to have seen a living [[Minotaur]].",
+    "Section_Dialogue": "Exploring the Knossos Palace, Kassandra came upon a camp someone had put together. Intrigued, she inspected it. As she knelt before the chest in the camp, a voice rang behind her.\n*'''Ardos:''' ''Don't touch that chest! It's mine!''\nKassandra stood up and turned to face the boy.\n\n<tabber>\n|-|I'm not a thief.=\n*'''Kassandra:''' ''I'm no thief, but if I was\u2014<br>I'd want something more valuable.''\n*'''Ardos:''' ''Take that'' back.\n|-|Try and stop me.=\n*'''Kassandra:''' ''Feeling brave, are you?''\n*'''Ardos:''' ''Me? No. Brave people are just looking for trouble.<br>But if ''you'' wanna be brave? ''Open it.\n*'''Kassandra:''' ''This is junk.''\n*'''Ardos:''' ''Maybe to you\u2014<br>\u2014but it's all I have.''\n</tabber>\n*'''Kassandra:''' ''These ruins are an... interesting place to set up camp. What brings you here?''\nArdos walked past her, and then sighed.\n*'''Ardos:''' ''A long time ago, below this very spot, my ''pater''\u2014the great adventurer, [[Nikios]]\u2014entered the [[Labyrinth of Lost Souls|labyrinth]] to steal the [[Minotaur]]'s treasure.<br />As I waited outside, I heard shouts and roars, then his men came pouring out\u2014<br />His men, but not ''pater''. I need to save him.''\n\n<tabber>\n|-|Leiandros' questline not started=\n{{#tag:tabber|\nThe Minotaur is no match for me.=\n*'''Kassandra:''' ''Your monster is no match for my or my [[Spear of Leonidas|spear]].''\n*'''Ardos:''' ''Suuure.''\n*'''Kassandra:''' ''If he's real, killing a creature of legend would be worth my time.''\n*'''Ardos:''' ''Of course he's real!''\n{{!}}-{{!}}\nThe Minotaur is a mighty beast.=\n*'''Kassandra:''' ''The Minotaur would be a match for any mortal... but wasn't it slain by [[Theseus]]?''\n*'''Ardos:''' ''No, ''[[Mercenary|misthios]]''. It's very much alive and well.''\n}}\n|-|Leiandros' questline incomplete=\n*'''Kassandra:''' ''A tragic tale... But last I heard, the Minotaur was living in Pephka. He's quite famous.''\n*'''Ardos:''' ''They don't know what they're talking about! The real Minotaur is in [[Messara]]!''\n*'''Kassandra:''' ''That's what they said in Pephka.''\n*'''Ardos:''' ''It's a scam.<br>Trust me, I know scams.''\n|-|Leiandros' questline complete=\n{{#tag:tabber|\nThe Minotaur was just a man.=\n*'''Kassandra:''' ''The Minotaur was just a [[Leiandros|man in a mask]].<br>And not much a man at that.''\n{{!}}-{{!}}\nYou shouldn't believe the myths.=\n*'''Kassandra:''' ''I've met the Minotaur... He's not what you think.''\n}}\n*'''Ardos:''' ''Those idiots in [[Pephka]]\u2014they wouldn't know a ''real'' Minotaur if it ran them through with its horns!<br>It's not like that here, ''misthios.\n</tabber>\n*'''Kassandra:''' ''Where is he then? You said the labyrinth was beneath us\u2014''\n*'''Ardos:''' ''Yeah! There's a ''creepy'' looking trapdoor beneath the temple!''\n*'''Kassandra:''' ''Take me there, and I will slay the Minotaur and find your ''pater's\u2014\nArdos looked at her hopefully. She stammered.\n*'''Kassandra:''' ''...Find your ''pater.\n*'''Ardos:''' ''You-you'll do that?''\n(Accepting the quest segues into [[Of Minotaurs and Men]])",
+    "Section_Outcome": "Kassandra set about finding a way inside, by investigating the men who accompanied Ardos' father Nikios inside several years prior.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "26.",
+    "Chapter_Name": "Minotour - A Place of Twists and Turns",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Exploring the Knossos Palace, Kassandra came upon a camp someone had put together. Intrigued, she inspected it. As she knelt before the chest in the camp, a voice rang behind her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Ardos:''' ''Don't touch that chest! It's mine!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra stood up and turned to face the boy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|I'm not a thief.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I'm no thief, but if I was\u2014<br>I'd want something more valuable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Ardos:''' ''Take that'' back.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Try and stop me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Feeling brave, are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Ardos:''' ''Me? No. Brave people are just looking for trouble.<br>But if ''you'' wanna be brave? ''Open it.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''This is junk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Ardos:''' ''Maybe to you\u2014<br>\u2014but it's all I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''These ruins are an... interesting place to set up camp. What brings you here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "16",
+            "content": "Ardos walked past her, and then sighed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Ardos:''' ''A long time ago, below this very spot, my ''pater''\u2014the great adventurer, [[Nikios]]\u2014entered the [[Labyrinth of Lost Souls|labyrinth]] to steal the [[Minotaur]]'s treasure.<br />As I waited outside, I heard shouts and roars, then his men came pouring out\u2014<br />His men, but not ''pater''. I need to save him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "19",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "20",
+            "content": "|-|Leiandros' questline not started=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "21",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "22",
+            "content": "The Minotaur is no match for me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Your monster is no match for my or my [[Spear of Leonidas|spear]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Ardos:''' ''Suuure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''If he's real, killing a creature of legend would be worth my time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Ardos:''' ''Of course he's real!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "27",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "28",
+            "content": "The Minotaur is a mighty beast.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''The Minotaur would be a match for any mortal... but wasn't it slain by [[Theseus]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Ardos:''' ''No, ''[[Mercenary|misthios]]''. It's very much alive and well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "31",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "32",
+            "content": "|-|Leiandros' questline incomplete=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''A tragic tale... But last I heard, the Minotaur was living in Pephka. He's quite famous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "34",
+            "content": "*'''Ardos:''' ''They don't know what they're talking about! The real Minotaur is in [[Messara]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''That's what they said in Pephka.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "36",
+            "content": "*'''Ardos:''' ''It's a scam.<br>Trust me, I know scams.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "37",
+            "content": "|-|Leiandros' questline complete=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "38",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "39",
+            "content": "The Minotaur was just a man.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''The Minotaur was just a [[Leiandros|man in a mask]].<br>And not much a man at that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "41",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "42",
+            "content": "You shouldn't believe the myths.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I've met the Minotaur... He's not what you think.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "44",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D22",
+            "global_id": "45",
+            "content": "*'''Ardos:''' ''Those idiots in [[Pephka]]\u2014they wouldn't know a ''real'' Minotaur if it ran them through with its horns!<br>It's not like that here, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "46",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D23",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Where is he then? You said the labyrinth was beneath us\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "48",
+            "content": "*'''Ardos:''' ''Yeah! There's a ''creepy'' looking trapdoor beneath the temple!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Take me there, and I will slay the Minotaur and find your ''pater's\u2014",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "50",
+            "content": "Ardos looked at her hopefully. She stammered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''...Find your ''pater.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "52",
+            "content": "*'''Ardos:''' ''You-you'll do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "53",
+            "content": "(Accepting the quest segues into [[Of Minotaurs and Men]])",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

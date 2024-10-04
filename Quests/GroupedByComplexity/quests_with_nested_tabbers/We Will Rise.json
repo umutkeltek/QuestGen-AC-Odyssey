@@ -1,0 +1,1058 @@
+{
+    "Quest_Name": "We Will Rise",
+    "Quest_ID": "224446",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD We Will Rise 11.png",
+        "description": "'In a move to rally the Athens|Athenians, Kleon left safety to lead an army to reclaim Amphipolis from the Spartans. Kassandra needed to make this Kleon's last campaign and take down the enigmatic Cult of Kosmos|Cultist.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Knights",
+        "next": "Where It All Began",
+        "source": "Kassandra",
+        "location": "Amphipolis, Makedonia, Greece",
+        "date": "August 422 BCE"
+    },
+    "General_Description": "'''We Will Rise''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Brasidas]] in [[Amphipolis]] to deal with [[Kleon]].",
+    "Section_Dialogue": "After receiving his message, Kassandra made her way to Amphipolis and met with Brasidas on the city's walls.\n<!--A lot of this dialogue is probably conditional on various things - e.g. whether Brasidas likes you, whether Nikolaos is dead. My Brasidas was pretty mad at me. ~L84tea -->\n<!--Not to worry, mine was friendly. I'll fill in what blanks I can, but double-checking Nikolaos will require a friendly Brasidas playthrough + Nikolaos death, as well as a unfriendly Brasidas + Nikolaos alive.  Maybe killing Lagos is enough? ~RShepard227 -->\n<!--Unfriendly Brasidas + Nikolaos alive here. ~Sal -->\n<tabber>\n|-|On Friendly terms=\n*'''Kassandra:''' ''Brasidas.''\nThe two allies embraced.\n*'''Brasidas:''' ''Kassandra. Good to see you\u2014alive. [[Battle of Pylos|Pylos]] didn't go as planned.''\nThey looked down at the injury he'd sustained.\n*'''Brasidas:''' ''At least they didn't get my battle arm.''\n*'''Kassandra:''' ''I'm glad you're all right. I was happy to get your message.''\n*'''Brasidas:''' ''I'm happy it got to you in time.''\n[[File:ACOD We Will Rise 3.png|thumb|250px|Brasidas and Kassandra discussing Pylos and Kleon]]\n(If players asked \"What happened to you after Pylos?\")\n*'''Kassandra:''' ''Tell me what happened after the battle.''\n*'''Brasidas:''' ''They found me wounded. I was taken back to [[Sparta]] and given time to heal. My leg won't be the same, but they didn't kill me.''\n*'''Kassandra:''' ''No Spartan got off easy. I was captured and brought to [[Athens]].''\n*'''Brasidas:''' ''Athens? That rubs salt into the wound. Proof there's still work to be done.''\n*'''Kassandra:''' ''There always is.''\n(If players asked \"Where's Kleon?\")\n*'''Kassandra:''' ''So Kleon's here.''\nShe cracked her knuckles.\n*'''Brasidas:''' ''He's close\u2014somewhere outside the city walls. He intends to take Amphipolis.''\n*'''Brasidas:''' ''For once he plans to fight ''with'' his men.''\n*'''Kassandra:''' ''He was [[The Knights (play)|disgraced]] in Athens. He needs to win back their respect.''\n*'''Brasidas:''' ''A chance at retribution.''\n*'''Kassandra:''' ''Can't let that happen, can we?''\n(Leave \u2013 \"It's time to strike.\")\n*'''Kassandra:''' ''Kleon's here. We need to move.''\n*'''Brasidas:''' ''Easy. First, we need to ''find'' him. We're outnumbered, and our spies say he's already sent for Athenian reinforcements.''\n*'''Kassandra:''' ''All the more reason to act.''\n*'''Brasidas:''' ''You've proven yourself. It's a risk, but I trust you.''\n*'''Kassandra:''' ''We're going to stop Kleon. I give you my word.''\n*'''Brasidas:''' ''Good. Let's move\u2013quickly.''\n\n|-|On Unfriendly terms=\n*'''Kassandra:''' ''Brasidas, you're here.''\n*'''Brasidas:''' ''You got my message.''\nBrasidas turned away from Kassandra, walking towards the walls.\n*'''Kassandra:''' ''I heard about [[Pylos]]. Are you all right?''\n*'''Brasidas:''' ''I've been through worse. We have bigger problems right now.''\n(If players asked \"What happened to you?\")\n*'''Kassandra:''' ''After Pylos\u2014what happened?''\n*'''Brasidas:''' ''The remaining Spartans found me and gave me time to recover, so I did.''\n*'''Kassandra:''' ''But your leg\u2014''\n*'''Brasidas:''' ''You disappeared from battle.''\n*'''Kassandra:''' ''I was captured\u2014taken to [[Athens]] for an interrogation with [[Deimos]] and [[Kleon]].''\n*'''Brasidas:''' ''They didn't kill you.''\n*'''Kassandra:''' ''They tried.''\n(If players asked \"Where's Kleon?\")\n*'''Kassandra:''' ''So Kleon's in Amphipolis...''\n*'''Brasidas:''' ''Somewhere. And in armor, I hear. He'll fight for his life today.''\n*'''Kassandra:''' ''He wants to be the hero. Athenians can't think much of him after what he did.''\n(Leave \u2013 \"Let's get going.\")\n*'''Kassandra:''' ''This is our chance, Brasidas. We kill Kleon today.''\n*'''Brasidas:''' ''If you don't, then I will.''\nBrasidas crossed his arms, refusing to look at her.\n*'''Kassandra:''' ''There's something you're not telling me.''\nBrasidas snorted.\n*'''Brasidas:''' ''I am here for Kleon. Let's keep it at that.''\nHe walked away from Kassandra.\n*'''Kassandra:''' ''I thought we were friends.''\n*'''Brasidas:''' ''You're not who I thought you were. You were raised Spartan\u2014you should know how to be loyal.''\n\n{{#tag:tabber|\nI am loyal to you.=\n*'''Kassandra:''' ''I came here, didn't I? We're fighting the same fight.''\n*'''Brasidas:''' ''You haven't proven that.''\n*'''Kassandra:''' ''Let me prove it now.''\nBrasidas shook his head.\n*'''Brasidas:''' ''It's too late.''\n\n(If [[Nikolaos]] is dead.)\n*'''Kassandra:''' ''Let me explain\u2013''\n*'''Brasidas:''' ''I know you killed Nikolaos.''\nKassandra was taken aback.\n*'''Kassandra:''' ''You... how?''\n*'''Brasidas:''' ''You showed up in [[Megaris]], and the Wolf died. No explanation needed.''\nKassandra was defensive.\n*'''Kassandra:''' ''That man destroyed my life, and they made him a general for it! I had no choice.''\n\n{{!}}-{{!}}\nI'm loyal to myself.=\n*'''Kassandra:''' ''I did what I thought was right.''\n*'''Brasidas:''' ''You hurt my reputation.''\n*'''Kassandra:''' ''I can fix that, Brasidas. Let me fix it.''\n(If Nikolaos is dead.)\n*'''Kassandra:''' ''Let me explain\u2013''\n*'''Brasidas:''' ''I know you killed Nikolaos.''\nKassandra was taken aback.\n*'''Kassandra:''' ''You... how?''\n*'''Brasidas:''' ''You showed up in [[Megaris]], and the Wolf died. No explanation needed.''\nKassandra was defensive.\n*'''Kassandra:''' ''That man destroyed my life, and they made him a general for it! I had no choice.''\n\n}}\n*'''Brasidas:''' ''We're wasting time. Athens is gathering reinforcements.<br>We need to attack now. Let's go.''\nBrasidas walked away from Kassandra.\n*'''Kassandra:''' M\u00e1laka.\n</tabber>\n[[File:ACOD We Will Rise 4.png|thumb|250px|Kassandra following Brasidas and his men to the battlefield]]\nBrasidas led his men towards the [[Battleground of Makedonia|battlefield]] as Kassandra followed at his side.\n*'''Brasidas:''' ''Today, we give everything we have.<br>No giving up!''\nOn the way to the battlefield, they were ambushed by Athenians who had reached the scaffolding of the city.\n*'''Brasidas:''' ''The Athenians are here! Spartans, charge!''\nArchers took up high positions.\n*'''Brasidas:''' ''Archers on the wall!<br>They need to be shot down! Now!''\nThe Spartans defeated the Athenian ambushers, then made their way down the road to their main camp.\n*'''Brasidas:''' ''The Athenian camp is ahead. Destroy it all!''\nBrasidas and Kassandra joined the Spartan fight against the Athenians. \n\nIn a repeat of the [[Battle of Pylos]], Kassandra defeated several Athenian soldiers, then watched [[Deimos]] enter the fray, slaying everyone in his path as he made his way towards Brasidas.\n*'''Deimos:''' ''You want war?!''\n[[File:ACOD We Will Rise 9.png|thumb|250px|Brasidas killed by Deimos]]\nBrasidas and Deimos fought once again, the latter eventually getting the upper hand as Brasidas' defences failed after one another, and finally Deimos impaled Brasidas upon his own spear. Kassandra, who had witnessed it all, lunged at Deimos, pouncing on him.\n*'''Kassandra:''' ''Arrrrggghhh!''\nKassandra and Deimos locked spear and sword, neither giving way.\n*'''Deimos:''' ''You take everything so personally!''\n[[File:ACOD We Will Rise 13.png|thumb|250px|Kleon panicking]]\nAs he mocked Kassandra, Deimos suddenly gasped in surprise, having been struck by an arrow. He fell to the ground and Kassandra looked up. At the edge of the battlefield, astounded Kleon dropped his bow, having apparently missed his target. When their eyes met, Kleon panicked and ran.\n*'''Kleon:''' ''Shit!''\nKassandra pursued him.\n*'''Kleon:''' ''Turn back! Don't come any closer!''\n*'''Kassandra:''' ''Fucking coward! He can't get away.''\n*'''Kleon:''' ''Stop! I beg you!''\n[[File:ACOD We Will Rise 14.png|thumb|250px|Kleon trying to reason with Kassandra]]\nKassandra chased Kleon to the beach, where he made his last stand.\n*'''Kleon:''' ''This isn't your fight, Kassandra.''\n*'''Kassandra:''' ''Unfortunately for you, it is.''\n*'''Kleon:''' ''It's not too late, you know. You can still join us.''\n*'''Kassandra:''' ''We're not in Athens. You can't talk your way out of this.''\n*'''Kleon:''' ''Why won't you just leave me alone? This is all your fault.''\n*'''Kassandra:''' ''You did this, Kleon. You have only yourself to blame.''\nKassandra inflicted some deep wounds on Kleon.\n*'''Kleon:''' ''You've only ever been a nuisance to us.''\nKassandra eventually subdued Kleon utterly, tossing him into the sand near the water. She cracked her knuckles as she approached him menacingly.\n*'''Kleon:''' ''Kassandra, come now! Show mercy!''\n*'''Kassandra:''' ''You turned him against us. My own brother.''\nKleon backed away.\n*'''Kleon:''' ''We lifted Deimos up. We made him ''great''! Unstoppable!''\n*'''Kassandra:''' ''You made him a monster.''\nKassandra backhanded Kleon.\n*'''Kleon:''' ''Then fight by his side\u2014teach him! You would have Deimos once again.''\nKassandra grabbed Kleon by the throat.\n*'''Kassandra:''' ''His name is Alexios.''\n*'''Kleon:''' ''I beg you! This world is severed, Kassandra, and we'll ''unite'' it!''\nKassandra tossed Kleon away from her.\n*'''Kassandra:''' ''Shut the fuck up.''\nKleon held up his hands in front of him as he cowered.\n*'''Kleon:''' ''My hands are empty\u2014have ''pity''!''\n\n<tabber>\n|-|Kill \u2013 I'll kill you mercifully.=\n[[File:ACOD We Will Rise 15.png|thumb|250px|Kleon's neck being snapped by Kassandra]]\n*'''Kassandra:''' ''You don't deserve a quick death. But you'll earn what you meet at the [[Underworld|gates]] of [[Hades]].''\n*'''Kleon:''' ''No.''\n*'''Kassandra:''' ''Now kneel.''\n*'''Kleon:''' ''You don't understand. No one will forget me, Kleon of Athens. I will be remembered u\u2014''\nKassandra grabbed Kleon and snapped his neck, dropping his lifeless body into the ocean.\n*'''Kassandra:''' ''You're already forgotten.''\nKassandra stepped back from what she had done.\n|-|Kill \u2013 I'm going you kill you slowly.=\n*'''Kassandra:''' ''You will die just as you lived.<br>As a coward.''\nKassandra grabbed Kleon's arm and turned him around on his knees.\n*'''Kleon:''' ''I'm not through, I won't be forgotten\u2014for all I've done.''\nKassandra kicked him in the back into the water and pressed his face into the shallow, muddied sea water with her foot. She allowed him up for air twice, Kleon struggling to draw breath each time.\n*'''Kassandra:''' ''You're not worth the memory.''\nShe resumed until he finally drowned.\n</tabber>\n*'''Kassandra:''' ''That's it, then. [[Myrrine]] will want to know Kleon is dead.<br>...And Brasidas. I should have gotten to Deimos sooner. I'm sorry, my friend.''",
+    "Section_Outcome": "Kassandra fought alongside the Spartans at Amphipolis and killed Kleon. Deimos also killed Brasidas during the battle and was shot in the back.",
+    "Section_Trivia": "*Despite Deimos blocking Kassandra's spear with the [[Sword of Damokles]], another one can be seen hanging at his side.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Nous nous soul\u00e8verons]]",
+    "Chapter_SequenceID": "23.",
+    "Chapter_Name": "Battle of Amphipolis",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After receiving his message, Kassandra made her way to Amphipolis and met with Brasidas on the city's walls.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "<!--A lot of this dialogue is probably conditional on various things - e.g. whether Brasidas likes you, whether Nikolaos is dead. My Brasidas was pretty mad at me. ~L84tea -->",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U2",
+            "global_id": "3",
+            "content": "<!--Not to worry, mine was friendly. I'll fill in what blanks I can, but double-checking Nikolaos will require a friendly Brasidas playthrough + Nikolaos death, as well as a unfriendly Brasidas + Nikolaos alive.  Maybe killing Lagos is enough? ~RShepard227 -->",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U3",
+            "global_id": "4",
+            "content": "<!--Unfriendly Brasidas + Nikolaos alive here. ~Sal -->",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|On Friendly terms=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D1",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Brasidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "The two allies embraced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "9",
+            "content": "*'''Brasidas:''' ''Kassandra. Good to see you\u2014alive. [[Battle of Pylos|Pylos]] didn't go as planned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "10",
+            "content": "They looked down at the injury he'd sustained.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "11",
+            "content": "*'''Brasidas:''' ''At least they didn't get my battle arm.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'm glad you're all right. I was happy to get your message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Brasidas:''' ''I'm happy it got to you in time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "14",
+            "content": "[[File:ACOD We Will Rise 3.png|thumb|250px|Brasidas and Kassandra discussing Pylos and Kleon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "15",
+            "content": "(If players asked \"What happened to you after Pylos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Tell me what happened after the battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "17",
+            "content": "*'''Brasidas:''' ''They found me wounded. I was taken back to [[Sparta]] and given time to heal. My leg won't be the same, but they didn't kill me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''No Spartan got off easy. I was captured and brought to [[Athens]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Brasidas:''' ''Athens? That rubs salt into the wound. Proof there's still work to be done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''There always is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "21",
+            "content": "(If players asked \"Where's Kleon?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''So Kleon's here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "23",
+            "content": "She cracked her knuckles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Brasidas:''' ''He's close\u2014somewhere outside the city walls. He intends to take Amphipolis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Brasidas:''' ''For once he plans to fight ''with'' his men.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''He was [[The Knights (play)|disgraced]] in Athens. He needs to win back their respect.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Brasidas:''' ''A chance at retribution.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Can't let that happen, can we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "29",
+            "content": "(Leave \u2013 \"It's time to strike.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Kleon's here. We need to move.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Brasidas:''' ''Easy. First, we need to ''find'' him. We're outnumbered, and our spies say he's already sent for Athenian reinforcements.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''All the more reason to act.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Brasidas:''' ''You've proven yourself. It's a risk, but I trust you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''We're going to stop Kleon. I give you my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Brasidas:''' ''Good. Let's move\u2013quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "36",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "37",
+            "content": "|-|On Unfriendly terms=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Brasidas, you're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Brasidas:''' ''You got my message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "40",
+            "content": "Brasidas turned away from Kassandra, walking towards the walls.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I heard about [[Pylos]]. Are you all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Brasidas:''' ''I've been through worse. We have bigger problems right now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "43",
+            "content": "(If players asked \"What happened to you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''After Pylos\u2014what happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Brasidas:''' ''The remaining Spartans found me and gave me time to recover, so I did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''But your leg\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Brasidas:''' ''You disappeared from battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I was captured\u2014taken to [[Athens]] for an interrogation with [[Deimos]] and [[Kleon]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "49",
+            "content": "*'''Brasidas:''' ''They didn't kill you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''They tried.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "51",
+            "content": "(If players asked \"Where's Kleon?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D34",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''So Kleon's in Amphipolis...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Brasidas:''' ''Somewhere. And in armor, I hear. He'll fight for his life today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''He wants to be the hero. Athenians can't think much of him after what he did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "55",
+            "content": "(Leave \u2013 \"Let's get going.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''This is our chance, Brasidas. We kill Kleon today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "57",
+            "content": "*'''Brasidas:''' ''If you don't, then I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "58",
+            "content": "Brasidas crossed his arms, refusing to look at her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''There's something you're not telling me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "60",
+            "content": "Brasidas snorted.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "61",
+            "content": "*'''Brasidas:''' ''I am here for Kleon. Let's keep it at that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "62",
+            "content": "He walked away from Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''I thought we were friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "64",
+            "content": "*'''Brasidas:''' ''You're not who I thought you were. You were raised Spartan\u2014you should know how to be loyal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "65",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "66",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "67",
+            "content": "I am loyal to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''I came here, didn't I? We're fighting the same fight.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "69",
+            "content": "*'''Brasidas:''' ''You haven't proven that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Let me prove it now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "71",
+            "content": "Brasidas shook his head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "72",
+            "content": "*'''Brasidas:''' ''It's too late.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "73",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "74",
+            "content": "(If [[Nikolaos]] is dead.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''Let me explain\u2013''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "76",
+            "content": "*'''Brasidas:''' ''I know you killed Nikolaos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "77",
+            "content": "Kassandra was taken aback.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''You... how?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "79",
+            "content": "*'''Brasidas:''' ''You showed up in [[Megaris]], and the Wolf died. No explanation needed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "80",
+            "content": "Kassandra was defensive.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''That man destroyed my life, and they made him a general for it! I had no choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "82",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "83",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "84",
+            "content": "I'm loyal to myself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''I did what I thought was right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "86",
+            "content": "*'''Brasidas:''' ''You hurt my reputation.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "87",
+            "content": "*'''Kassandra:''' ''I can fix that, Brasidas. Let me fix it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "88",
+            "content": "(If Nikolaos is dead.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''Let me explain\u2013''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "90",
+            "content": "*'''Brasidas:''' ''I know you killed Nikolaos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "91",
+            "content": "Kassandra was taken aback.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''You... how?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "93",
+            "content": "*'''Brasidas:''' ''You showed up in [[Megaris]], and the Wolf died. No explanation needed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "94",
+            "content": "Kassandra was defensive.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D59",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''That man destroyed my life, and they made him a general for it! I had no choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "96",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "97",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D60",
+            "global_id": "98",
+            "content": "*'''Brasidas:''' ''We're wasting time. Athens is gathering reinforcements.<br>We need to attack now. Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "99",
+            "content": "Brasidas walked away from Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' M\u00e1laka.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "101",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I2",
+            "global_id": "102",
+            "content": "[[File:ACOD We Will Rise 4.png|thumb|250px|Kassandra following Brasidas and his men to the battlefield]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N15",
+            "global_id": "103",
+            "content": "Brasidas led his men towards the [[Battleground of Makedonia|battlefield]] as Kassandra followed at his side.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "104",
+            "content": "*'''Brasidas:''' ''Today, we give everything we have.<br>No giving up!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "105",
+            "content": "On the way to the battlefield, they were ambushed by Athenians who had reached the scaffolding of the city.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D63",
+            "global_id": "106",
+            "content": "*'''Brasidas:''' ''The Athenians are here! Spartans, charge!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "107",
+            "content": "Archers took up high positions.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D64",
+            "global_id": "108",
+            "content": "*'''Brasidas:''' ''Archers on the wall!<br>They need to be shot down! Now!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "109",
+            "content": "The Spartans defeated the Athenian ambushers, then made their way down the road to their main camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D65",
+            "global_id": "110",
+            "content": "*'''Brasidas:''' ''The Athenian camp is ahead. Destroy it all!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "111",
+            "content": "Brasidas and Kassandra joined the Spartan fight against the Athenians.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "112",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N20",
+            "global_id": "113",
+            "content": "In a repeat of the [[Battle of Pylos]], Kassandra defeated several Athenian soldiers, then watched [[Deimos]] enter the fray, slaying everyone in his path as he made his way towards Brasidas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D66",
+            "global_id": "114",
+            "content": "*'''Deimos:''' ''You want war?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "115",
+            "content": "[[File:ACOD We Will Rise 9.png|thumb|250px|Brasidas killed by Deimos]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N21",
+            "global_id": "116",
+            "content": "Brasidas and Deimos fought once again, the latter eventually getting the upper hand as Brasidas' defences failed after one another, and finally Deimos impaled Brasidas upon his own spear. Kassandra, who had witnessed it all, lunged at Deimos, pouncing on him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D67",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''Arrrrggghhh!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "118",
+            "content": "Kassandra and Deimos locked spear and sword, neither giving way.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "119",
+            "content": "*'''Deimos:''' ''You take everything so personally!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "120",
+            "content": "[[File:ACOD We Will Rise 13.png|thumb|250px|Kleon panicking]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N23",
+            "global_id": "121",
+            "content": "As he mocked Kassandra, Deimos suddenly gasped in surprise, having been struck by an arrow. He fell to the ground and Kassandra looked up. At the edge of the battlefield, astounded Kleon dropped his bow, having apparently missed his target. When their eyes met, Kleon panicked and ran.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D69",
+            "global_id": "122",
+            "content": "*'''Kleon:''' ''Shit!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "123",
+            "content": "Kassandra pursued him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "124",
+            "content": "*'''Kleon:''' ''Turn back! Don't come any closer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "125",
+            "content": "*'''Kassandra:''' ''Fucking coward! He can't get away.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "126",
+            "content": "*'''Kleon:''' ''Stop! I beg you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "127",
+            "content": "[[File:ACOD We Will Rise 14.png|thumb|250px|Kleon trying to reason with Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N25",
+            "global_id": "128",
+            "content": "Kassandra chased Kleon to the beach, where he made his last stand.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "129",
+            "content": "*'''Kleon:''' ''This isn't your fight, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''Unfortunately for you, it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "131",
+            "content": "*'''Kleon:''' ''It's not too late, you know. You can still join us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "132",
+            "content": "*'''Kassandra:''' ''We're not in Athens. You can't talk your way out of this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "133",
+            "content": "*'''Kleon:''' ''Why won't you just leave me alone? This is all your fault.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''You did this, Kleon. You have only yourself to blame.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "135",
+            "content": "Kassandra inflicted some deep wounds on Kleon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D79",
+            "global_id": "136",
+            "content": "*'''Kleon:''' ''You've only ever been a nuisance to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N27",
+            "global_id": "137",
+            "content": "Kassandra eventually subdued Kleon utterly, tossing him into the sand near the water. She cracked her knuckles as she approached him menacingly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D80",
+            "global_id": "138",
+            "content": "*'''Kleon:''' ''Kassandra, come now! Show mercy!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "139",
+            "content": "*'''Kassandra:''' ''You turned him against us. My own brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N28",
+            "global_id": "140",
+            "content": "Kleon backed away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D82",
+            "global_id": "141",
+            "content": "*'''Kleon:''' ''We lifted Deimos up. We made him ''great''! Unstoppable!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "142",
+            "content": "*'''Kassandra:''' ''You made him a monster.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N29",
+            "global_id": "143",
+            "content": "Kassandra backhanded Kleon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D84",
+            "global_id": "144",
+            "content": "*'''Kleon:''' ''Then fight by his side\u2014teach him! You would have Deimos once again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N30",
+            "global_id": "145",
+            "content": "Kassandra grabbed Kleon by the throat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D85",
+            "global_id": "146",
+            "content": "*'''Kassandra:''' ''His name is Alexios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "147",
+            "content": "*'''Kleon:''' ''I beg you! This world is severed, Kassandra, and we'll ''unite'' it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N31",
+            "global_id": "148",
+            "content": "Kassandra tossed Kleon away from her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D87",
+            "global_id": "149",
+            "content": "*'''Kassandra:''' ''Shut the fuck up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N32",
+            "global_id": "150",
+            "content": "Kleon held up his hands in front of him as he cowered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D88",
+            "global_id": "151",
+            "content": "*'''Kleon:''' ''My hands are empty\u2014have ''pity''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "152",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "153",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "154",
+            "content": "|-|Kill \u2013 I'll kill you mercifully.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "I6",
+            "global_id": "155",
+            "content": "[[File:ACOD We Will Rise 15.png|thumb|250px|Kleon's neck being snapped by Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D89",
+            "global_id": "156",
+            "content": "*'''Kassandra:''' ''You don't deserve a quick death. But you'll earn what you meet at the [[Underworld|gates]] of [[Hades]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "157",
+            "content": "*'''Kleon:''' ''No.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "158",
+            "content": "*'''Kassandra:''' ''Now kneel.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "159",
+            "content": "*'''Kleon:''' ''You don't understand. No one will forget me, Kleon of Athens. I will be remembered u\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N33",
+            "global_id": "160",
+            "content": "Kassandra grabbed Kleon and snapped his neck, dropping his lifeless body into the ocean.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D93",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''You're already forgotten.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N34",
+            "global_id": "162",
+            "content": "Kassandra stepped back from what she had done.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC6",
+            "global_id": "163",
+            "content": "|-|Kill \u2013 I'm going you kill you slowly.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D94",
+            "global_id": "164",
+            "content": "*'''Kassandra:''' ''You will die just as you lived.<br>As a coward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N35",
+            "global_id": "165",
+            "content": "Kassandra grabbed Kleon's arm and turned him around on his knees.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D95",
+            "global_id": "166",
+            "content": "*'''Kleon:''' ''I'm not through, I won't be forgotten\u2014for all I've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N36",
+            "global_id": "167",
+            "content": "Kassandra kicked him in the back into the water and pressed his face into the shallow, muddied sea water with her foot. She allowed him up for air twice, Kleon struggling to draw breath each time.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D96",
+            "global_id": "168",
+            "content": "*'''Kassandra:''' ''You're not worth the memory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N37",
+            "global_id": "169",
+            "content": "She resumed until he finally drowned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "170",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D97",
+            "global_id": "171",
+            "content": "*'''Kassandra:''' ''That's it, then. [[Myrrine]] will want to know Kleon is dead.<br>...And Brasidas. I should have gotten to Deimos sooner. I'm sorry, my friend.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

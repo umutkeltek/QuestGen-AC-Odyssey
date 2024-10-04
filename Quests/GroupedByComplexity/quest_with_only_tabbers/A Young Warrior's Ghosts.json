@@ -1,0 +1,380 @@
+{
+    "Quest_Name": "A Young Warrior's Ghosts",
+    "Quest_ID": "232528",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Phoibe descended from the golden fields of Elysium to save her parents. Her pursuit led her to a mysterious place called the Ixion Wheel. There, her past, as well as Kassandra's, awaited.'",
+        "appearance": "'Assassin's Creed: Odyssey' - 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Phoibe}}",
+        "previous": "Lost, but Not Forgotten",
+        "next": "Undoing What's Been Done",
+        "source": "Kassandra",
+        "location": "The Scorched Lands, the Underworld"
+    },
+    "General_Description": "'''A Young Warrior's Ghosts''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Phoibe]] was looking for her parents, and Kassandra decided to come with her.",
+    "Section_Dialogue": "Kassandra and Phoibe traveled towards the [[Ixion Wheel]] in the hopes of finding the girl's parents.\n*'''Phoibe:''' ''The last I heard about my parents, they were hiding near the Ixion Wheel.''\n*'''Kassandra:''' ''Hiding? From what?''\n*'''Phoibe:''' ''The [[underworld]] is scary. Maybe they're not fighters like us? I could teach them what you taught me.''\n*'''Kassandra:''' ''I'm sure you could.''\nAs they approached a village near the Ixion Wheel, they heard a woman cry out for help.\n*'''Mortal Woman:''' ''Help us!''\n*'''Kassandra:''' ''Phoibe, stay back!''\nKassandra entered the village and killed the [[Cyclops of Kephallonia|one eyed man]]'s guards. She and Phoibe entered a ruined house and spoke to the woman, the sole survivor of the thugs' raid.\n*'''Survivor:''' ''Please! I already told you\u2014go tell the Cyclops the girl isn't here, and neither is her family. Now get back!''\nShe brandished her knife at Kassandra, albeit unable to stand.\n<tabber>\n|-|I won't hurt you.=\n*'''Kassandra:''' ''Relax. We're not going to hurt you, but we need to know what happened here.''\n|-|Don't threaten me.=\n*'''Kassandra:''' ''No one threatens me. Put down the blade and start talking.''\n*'''Phoibe:''' ''Kassandra! Sorry. What she means to say is we're not goingt to hurt you. We just need to know what happened here.''\n</tabber>\n*'''Survivor:''' ''Those thugs followed the Cyclops of Kephallonia to their graves, and now they follow him in the underworld. He sent them through here looking for a girl.''\nKassandra and Phoibe exchanged glances.\n*'''Phoibe:''' ''The man with one eye...''\n*'''Survivor:''' ''Have you ever met a girl named Phoibe?''\nKassandra and Phoibe looked at each other once more, before deciding how much information to give the woman.\n<tabber>\n|-|This is Phoibe.=\n*'''Kassandra:''' ''This is Phoibe.''\n*'''Survivor:''' ''So you are. My dear, I loved your parents as I loved my own. They hid here with me and told tales about the great warrior Phoibe who sailed to [[Elysium]].''\n*'''Phoibe:''' ''They called her me warrior?''\n*'''Survivor:''' ''When [[Cerberos]] died, they snuck off to find you themselves... But the Cyclops is looking for you, too.''\n|-|I've never heard of her.=\n*'''Kassandra:''' ''We don't know a Phoibe... Why were they looking for the girl?''\n*'''Survivor:''' ''I'm not sure. I was a friend to her parents. They used to hide here. They told tales of their daughter, a great warrior who sailed to [[Elysium]].''\n*'''Phoibe:''' ''They called her a warrior?''\n*'''Survivor:''' ''When [[Cerberos]] died, they snuck off to the golden fields to find her, but now the Cyclops is looking for them all.''\n</tabber>\n*'''Phoibe:''' ''Excuse us, please.''\nKassandra and Phoibe stepped outside.\n*'''Phoibe:''' ''I remember now. The man with one eye is the Cyclops. He forced me to drink the water.''\n*'''Kassandra:''' ''He must know we stole your [[Chara|eagle]] back and came to retaliate.''\n*'''Phoibe:''' ''What do we do?''\n<tabber>\n|-|We find the Cyclops.=\n*'''Kassandra:''' ''The gates to Elysium are open, but you know the Cyclops. He won't stop until he gets what he wants. We have to deal with him.''\n|-|We find your parents.=\n*'''Kassandra:''' ''The gates to Elysium are open. That's how your parents got through. I know the way.''\n</tabber>\n*'''Phoibe:''' ''What about her? She's a friend of my parents. I want to help her.''\n*'''Kassandra:''' ''She seems like she can fend for herself.''\n*'''Phoibe:''' ''The [[Keres]] are magic, and they heal people who get hurt in battle. They live close by. I could...''\n*'''Kassandra:''' ''Phoibe...''\n<tabber>\n|-|(If said \"We find the Cyclops.\")=\n*'''Phoibe:''' ''I can do this! I'll be quick, then we can fight the Cyclops.''\n|-|(If said \"We find your parents.\")=\n*'''Phoibe:''' ''I can do this! I'll be quick, then we'll go to Elysium and find my parents.''\n</tabber>\n*'''Kassandra:''' ''All right. But don't take too long, or I'm coming after you.''\nPhoibe nodded and took off with a start. Kassandra stayed to keep the woman company. However, a great deal of time had passed, and Phoibe had not returned. Kassandra finally decided to go after her.",
+    "Section_Outcome": "Kassandra and Phoibe found a woman who knew Phoibe's parents. Phoibe left to get aid for the woman while Kassandra stayed with her, but after taking too long to return, Kassandra set out after Phoibe.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' - ''[[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra and Phoibe traveled towards the [[Ixion Wheel]] in the hopes of finding the girl's parents.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Phoibe:''' ''The last I heard about my parents, they were hiding near the Ixion Wheel.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Hiding? From what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Phoibe:''' ''The [[underworld]] is scary. Maybe they're not fighters like us? I could teach them what you taught me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I'm sure you could.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "As they approached a village near the Ixion Wheel, they heard a woman cry out for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Mortal Woman:''' ''Help us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Phoibe, stay back!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Kassandra entered the village and killed the [[Cyclops of Kephallonia|one eyed man]]'s guards. She and Phoibe entered a ruined house and spoke to the woman, the sole survivor of the thugs' raid.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Survivor:''' ''Please! I already told you\u2014go tell the Cyclops the girl isn't here, and neither is her family. Now get back!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "11",
+            "content": "She brandished her knife at Kassandra, albeit unable to stand.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|I won't hurt you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Relax. We're not going to hurt you, but we need to know what happened here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Don't threaten me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''No one threatens me. Put down the blade and start talking.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Phoibe:''' ''Kassandra! Sorry. What she means to say is we're not goingt to hurt you. We just need to know what happened here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Survivor:''' ''Those thugs followed the Cyclops of Kephallonia to their graves, and now they follow him in the underworld. He sent them through here looking for a girl.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "20",
+            "content": "Kassandra and Phoibe exchanged glances.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Phoibe:''' ''The man with one eye...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Survivor:''' ''Have you ever met a girl named Phoibe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "23",
+            "content": "Kassandra and Phoibe looked at each other once more, before deciding how much information to give the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "25",
+            "content": "|-|This is Phoibe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''This is Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Survivor:''' ''So you are. My dear, I loved your parents as I loved my own. They hid here with me and told tales about the great warrior Phoibe who sailed to [[Elysium]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Phoibe:''' ''They called her me warrior?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Survivor:''' ''When [[Cerberos]] died, they snuck off to find you themselves... But the Cyclops is looking for you, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "30",
+            "content": "|-|I've never heard of her.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''We don't know a Phoibe... Why were they looking for the girl?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Survivor:''' ''I'm not sure. I was a friend to her parents. They used to hide here. They told tales of their daughter, a great warrior who sailed to [[Elysium]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Phoibe:''' ''They called her a warrior?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Survivor:''' ''When [[Cerberos]] died, they snuck off to the golden fields to find her, but now the Cyclops is looking for them all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "35",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Phoibe:''' ''Excuse us, please.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "37",
+            "content": "Kassandra and Phoibe stepped outside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Phoibe:''' ''I remember now. The man with one eye is the Cyclops. He forced me to drink the water.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''He must know we stole your [[Chara|eagle]] back and came to retaliate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Phoibe:''' ''What do we do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "41",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "42",
+            "content": "|-|We find the Cyclops.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''The gates to Elysium are open, but you know the Cyclops. He won't stop until he gets what he wants. We have to deal with him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "44",
+            "content": "|-|We find your parents.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''The gates to Elysium are open. That's how your parents got through. I know the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "46",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D28",
+            "global_id": "47",
+            "content": "*'''Phoibe:''' ''What about her? She's a friend of my parents. I want to help her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''She seems like she can fend for herself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Phoibe:''' ''The [[Keres]] are magic, and they heal people who get hurt in battle. They live close by. I could...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Phoibe...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "51",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "52",
+            "content": "|-|(If said \"We find the Cyclops.\")=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Phoibe:''' ''I can do this! I'll be quick, then we can fight the Cyclops.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "54",
+            "content": "|-|(If said \"We find your parents.\")=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "55",
+            "content": "*'''Phoibe:''' ''I can do this! I'll be quick, then we'll go to Elysium and find my parents.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "56",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D34",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''All right. But don't take too long, or I'm coming after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "58",
+            "content": "Phoibe nodded and took off with a start. Kassandra stayed to keep the woman company. However, a great deal of time had passed, and Phoibe had not returned. Kassandra finally decided to go after her.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

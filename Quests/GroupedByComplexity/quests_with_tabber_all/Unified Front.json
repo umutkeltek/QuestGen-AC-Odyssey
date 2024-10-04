@@ -1,0 +1,301 @@
+{
+    "Quest_Name": "Unified Front",
+    "Quest_ID": "224192",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-UnifiedFront-AmberDawnfight.jpg",
+        "description": "'With the The Paros Blockade|blockade removed, the time had come to finish things with Paros Island|Paros once and for all. Myrrine waited for Kassandra at the Fort of the Aloades as she prepared to sail her fleet against Paros.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Paros Blockade",
+        "next": "Home Sweet Home (Odyssey)|Home Sweet Home<br />A Family's Legacy",
+        "source": "Kassandra",
+        "location": "Aegean Sea, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Unified Front''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "The time to end the threat of [[Paros Island|Paros]] for good drew near. Kassandra boarded the ''[[Adrestia]]'' with [[Myrrine]] to personally end [[Silanos]]' threat.",
+    "Section_Dialogue": "Kassandra and Myrrine set sail together on the ''Adrestia'', headed west for Paros's main harbor. The Parian fleet was already waiting for them, with Silanos aboard the [[Amber Dawn|flagship]]. With the support of [[Naxos Island|Naxian]] [[ship]]s, the ''Adrestia'' sank the fleet and killed Silanos. They returned to Naxos victorious and assessed the fruits of their labors.\n[[File:ACOD_Unified_Front_-_Victory_Reflection.png|thumb|250px|Kassanda and Myrrine reflecting on their victory]]\n*'''Kassandra:''' ''Naxos... seems secure.''\n*'''Myrrine:''' ''We have done great things together for its people.''\n*'''Kassandra:''' ''But now we must look beyond these shores and destroy the [[Cult of Kosmos|Cult]].''\n*'''Myrrine:''' ''They are everywhere, and nowhere. Their followers are without number. Where do we start?''\n*'''Kassandra:''' ''We cut the heads off the beast one at a time until they are blind and defenseless.''\n*'''Myrrine:''' ''[[Sparta]].''\n*'''Kassandra:''' ''Sparta?''\n*'''Myrrine:''' ''I still have influence there, and allies. We can rally around [[Old Home|our home]] and cleanse it of their influence as an example to the world.''\n*'''Kassandra:''' ''It will be dangerous. Their hold on Sparta is strong.''\n*'''Myrrine:''' ''Don't you think it's time we returned?''\n*'''Kassandra:''' ''Together.''\n[[File:ACOD_Unified_Front_-_Looking_At_Timo.png|thumb|250px|Kassandra and Myrrine observing Timo]]\nMyrrine stared off in the distance at a crestfallen [[Timo]].\n*'''Myrrine:''' ''I have only a few more things to do here.''\n*'''Kassandra:''' ''As soon as you're ready, we'll set sail for [[Lakonia]].''\nMyrrine looked down and decided Kassandra had one more thing to do.\n*'''Myrrine:''' ''I think there's something you should do first.''\n*'''Kassandra:''' ''What?''\n*'''Myrrine:''' ''You need to find your [[Pythagoras|father]].''\n<tabber>\n|-|Tell me about him.=\n*'''Kassandra:''' ''Who is he?''\n*'''Myrrine:''' ''He's a difficult man to describe. He's many things, but the only way to truly know him is to meet him yourself.''\n*'''Kassandra:''' ''So you won't tell me now.''\n*'''Myrrine:''' ''There are details only he can provide. I hope when you meet him you understand.''\n|-|I'm not sure I want to.=\n*'''Kassandra:''' ''I'm tired of searching for answers, and who's to say if he can even give me them.''\n*'''Myrrine:''' ''I know this is difficult.''\n*'''Kassandra:''' ''It's like I don't even know myself anymore. Where I come from. Who I am.''\n*'''Myrrine:''' ''Kassandra, I promise you that he will have answers.''\n|-|I've had enough of fathers.=\n*'''Kassandra:''' ''I think I've dealt with enough fathers for one lifetime.''\n*'''Myrrine:''' ''I don't blame you for that. But there are things you need to know if we are to stop the Cult.''\n*'''Kassandra:''' ''Like what?''\n*'''Myrrine:''' ''I know you seek answers and I want you to have them, but some things are not for me to explain. Hopefully one day you will understand.''\n</tabber>\n*'''Myrrine:''' ''You'll find what you need on the island of [[Thera]]. I've given your [[Barnabas|navigator]] the course. I'll see you in Lakonia.''\n[[File:ACOD_Unified_Front_-_Kassandra_Departs_Naxos.png|thumb|250px|Kassandra departing Naxos]]\n*'''Kassandra:''' ''I'll be there.''\n*'''Myrrine:''' ''May [[Poseidon]] keep you safe.''\n*'''Kassandra:''' ''Safe journeys.''\nMother and daughter parted ways, and Kassandra walked to her ship pondering her destination.\n*'''Kassandra:''' ''Thera.''",
+    "Section_Outcome": "Kassandra helped Myrrine to defeat Silanos and the Parian fleet, scoring a victory for Naxos. With Naxos secure, Myrrine abdicated the leadership position to return to Sparta to deal with the Cult. She also informed Kassandra of her biological father's location, suggesting that she visit him.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Front uni]]",
+    "Chapter_SequenceID": "14.",
+    "Chapter_Name": "Paradise Lost",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra and Myrrine set sail together on the ''Adrestia'', headed west for Paros's main harbor. The Parian fleet was already waiting for them, with Silanos aboard the [[Amber Dawn|flagship]]. With the support of [[Naxos Island|Naxian]] [[ship]]s, the ''Adrestia'' sank the fleet and killed Silanos. They returned to Naxos victorious and assessed the fruits of their labors.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "2",
+            "content": "[[File:ACOD_Unified_Front_-_Victory_Reflection.png|thumb|250px|Kassanda and Myrrine reflecting on their victory]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Naxos... seems secure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Myrrine:''' ''We have done great things together for its people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''But now we must look beyond these shores and destroy the [[Cult of Kosmos|Cult]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Myrrine:''' ''They are everywhere, and nowhere. Their followers are without number. Where do we start?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''We cut the heads off the beast one at a time until they are blind and defenseless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Myrrine:''' ''[[Sparta]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Sparta?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Myrrine:''' ''I still have influence there, and allies. We can rally around [[Old Home|our home]] and cleanse it of their influence as an example to the world.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''It will be dangerous. Their hold on Sparta is strong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Myrrine:''' ''Don't you think it's time we returned?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "14",
+            "content": "[[File:ACOD_Unified_Front_-_Looking_At_Timo.png|thumb|250px|Kassandra and Myrrine observing Timo]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "15",
+            "content": "Myrrine stared off in the distance at a crestfallen [[Timo]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Myrrine:''' ''I have only a few more things to do here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''As soon as you're ready, we'll set sail for [[Lakonia]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Myrrine looked down and decided Kassandra had one more thing to do.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Myrrine:''' ''I think there's something you should do first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Myrrine:''' ''You need to find your [[Pythagoras|father]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "22",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "23",
+            "content": "|-|Tell me about him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Who is he?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Myrrine:''' ''He's a difficult man to describe. He's many things, but the only way to truly know him is to meet him yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''So you won't tell me now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "27",
+            "content": "*'''Myrrine:''' ''There are details only he can provide. I hope when you meet him you understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "28",
+            "content": "|-|I'm not sure I want to.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I'm tired of searching for answers, and who's to say if he can even give me them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Myrrine:''' ''I know this is difficult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''It's like I don't even know myself anymore. Where I come from. Who I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Myrrine:''' ''Kassandra, I promise you that he will have answers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "33",
+            "content": "|-|I've had enough of fathers.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I think I've dealt with enough fathers for one lifetime.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "35",
+            "content": "*'''Myrrine:''' ''I don't blame you for that. But there are things you need to know if we are to stop the Cult.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Like what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "37",
+            "content": "*'''Myrrine:''' ''I know you seek answers and I want you to have them, but some things are not for me to explain. Hopefully one day you will understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D29",
+            "global_id": "39",
+            "content": "*'''Myrrine:''' ''You'll find what you need on the island of [[Thera]]. I've given your [[Barnabas|navigator]] the course. I'll see you in Lakonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "40",
+            "content": "[[File:ACOD_Unified_Front_-_Kassandra_Departs_Naxos.png|thumb|250px|Kassandra departing Naxos]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I'll be there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Myrrine:''' ''May [[Poseidon]] keep you safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Safe journeys.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "44",
+            "content": "Mother and daughter parted ways, and Kassandra walked to her ship pondering her destination.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''Thera.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

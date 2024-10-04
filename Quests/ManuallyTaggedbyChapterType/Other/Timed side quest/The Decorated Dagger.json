@@ -1,0 +1,43 @@
+{
+    "QuestName": "The Decorated Dagger",
+    "QuestID": "236762",
+    "Revision": {
+        "id": "1047521",
+        "parentid": "844951",
+        "timestamp": "2023-06-13T19:26:25Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047521",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ru865v0tbj9mu7mxo0oypzoux4luonu"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Decorated Dagger",
+        "image": null,
+        "description": "'Learning of bandits who stole a fine dagger from a Blacksmith, a man thought to reclaim it for his own profit.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Decorated Dagger''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra accepted a job for a man who had heard of a valuable [[dagger]].",
+    "Section_Dialogue": null,
+    "Section_Outcome": "Kassandra helped the man.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

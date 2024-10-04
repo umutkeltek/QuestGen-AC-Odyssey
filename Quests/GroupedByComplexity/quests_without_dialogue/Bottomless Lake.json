@@ -1,0 +1,30 @@
+{
+    "Quest_Name": "Bottomless Lake",
+    "Quest_ID": "222850",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Bottomless Lake.PNG",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Ashes to Ashes (Ainigmata Ostraka)|Ashes to Ashes",
+        "next": "Fatal Attraction",
+        "source": "Kassandra",
+        "location": "Melissani Cave, Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Bottomless Lake''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''Taking the plunge? Everyone on the [[Kephallonia|island]] thinks this is the deepest dive, but there is a [[Lake Abythos|lake]] in the [[Coast of Koliadai]] that is rumored to be bottomless. If you are able to dive as far as the woman in [[marble]], you will be able to claim me.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Ainigmata Ostraka",
+    "Chapter_Type": null,
+    "Quest_SequenceID": null
+}

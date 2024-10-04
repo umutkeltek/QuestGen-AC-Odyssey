@@ -1,0 +1,36 @@
+{
+    "QuestName": "Eteokles's Symbol",
+    "QuestID": "229547",
+    "Revision": {
+        "id": "870503",
+        "parentid": "860271",
+        "timestamp": "2020-05-21T11:57:35Z",
+        "contributor": null,
+        "origin": "870503",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "rqp47ezni1obnu36ate9tykvi9kruxs"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Eteokles's Symbol Memory Screenshot.png",
+        "description": "'The great king Eteokles held a secret - he was somehow connected to Isu|Those Who Came Before, and brought a symbol of that connection to his grave.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Agamemnon's Symbol",
+        "next": "Orion's Symbol",
+        "source": "Kassandra, Layla Hassan",
+        "location": "Tomb of Eteokles, Attika, Greece",
+        "date": "c. 422 BCE<br />2018"
+    },
+    "General_Description": "'''Eteokles's Symbol''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Attika]] to look for the symbol in [[Eteokles]]' [[Tomb of Eteokles|tomb]].",
+    "Section_Dialogue": "Kassandra reached the entrance to Eteokles' tomb, finding [[Aletheia]] within.\n*'''Aletheia:''' ''You've found Eteokles' Tomb. Well done, Keeper.''\nKassandra approached Aletheia.\n*'''Aletheia:''' ''Keeper. The [[Layla Hassan|Heir of Memories]] must search these old halls for the symbol she seeks. Will the Heir rise to the task?''\n*'''Kassandra:''' ''I suppose she will... now?''\n*'''Aletheia:''' ''Every step brings you down a very long road to the Heir. What you cannot show her, [[Alexios|Deimos]] will.''\n*'''Kassandra:''' ''Deimos? How?!''\n*'''Aletheia:''' ''The Heir will known when the time comes.''",
+    "Section_Outcome": "Kassandra found the tomb of [[Eteokles]], allowing Layla Hassan, who relieved her memories, to locate and discover the symbol within.",
+    "Section_Trivia": "*The tombs use the same layout and maintain the same \"solved\" state between the protagonist's past and the modern day. Therefore, if the tomb has not been solved prior to this quest, the player will have to solve it while playing as Layla.\n:*This can trigger a glitch that disables the stele that confers an additional ability point upon returning to the Animus simulation, making the point unobtainable and the location unable to be cleared. This can be avoided by ignoring Aletheia until after the tomb is completed, but completing the entire \"Three Symbols Entombed\" quest umbrella seems to correct this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

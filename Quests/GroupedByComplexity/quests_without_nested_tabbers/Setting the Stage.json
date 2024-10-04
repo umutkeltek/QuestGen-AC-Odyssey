@@ -1,0 +1,266 @@
+{
+    "Quest_Name": "Setting the Stage",
+    "Quest_ID": "224194",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-ThespisRhodanthe.jpg",
+        "description": "'The great actor Thespis approached Kassandra for help putting on his latest play. The mercenary had no interest in the dramatic arts until she learned of its particular subject.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "next": "A Sophisticated Tipple or Everyman's Drink<br />Evening the Odds",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Setting the Stage''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In [[Elis]], Kassandra met the actor [[Thespis]] again.",
+    "Section_Dialogue": "Passing near the theater, Kassandra heard a familiar voice.\n*'''Thespis:''' ''Look at all these people. What do they need in their lives? Some excitement. A little magic.''\n*'''[[Rhodanthe]]:''' ''And you think you can deliver that?''\n*'''Thespis:''' ''Magic.''\nKassandra approached them.\n*'''Kassandra:''' ''Thespis? Are you acting in another play?''\n*'''Thespis:''' ''Kar, Kal... Kassandra! [[Aristophanes]]' friend! And my friend too. I'd be nowhere without your support.''\n*'''Kassandra:''' ''I suppose if I hadn't carried you out, you might still be in that [[Tavern, Athens|tavern]].''\n*'''Thespis:''' ''On the floor!''\nThe women were not amused. Rhodanthe spoke up.\n*'''Rhodanthe:''' ''Thespis had this \"brilliant\" idea to put on a play in this town. He's got a reputation as a great actor, so I thought, \"this could be a huge success.\" I'm beginning to think I thought wrong.''\n*'''Thespis:''' ''No, no, everything is under control. You keep an eye on the ticket sales, my darling Rhodanthe, and my friend Kassandra will take care of everything else!''\n*'''Kassandra:''' ''I promise you, I know nothing about theater.''\n*'''Thespis:''' ''Don't be so modest. You'll be known as the hero who made \"[[Leonidas I of Sparta|Leonidas]] and His 300 [[Sparta]]ns\" the play of the century!''\n*'''Kassandra:''' ''The play is about King Leonidas? You know, my family\u2014''\n*'''Thespis:''' ''Your family can come, of course. I'm sure they'll be proud to see you. Just help me tell that glorious hero's tale.''\n(Accept \u2013 I'll help put on your play about Leonidas.)\n*'''Kassandra:''' ''I'll help Thespis put on the play. The story of Leonidas must have its due.''\n*'''Rhodanthe:''' ''Very well then. I expect you to deliver.''\nKassandra nodded at her and then turned her attention back to Thespis.\n*'''Kassandra:''' ''So what do you need done?''\n*'''Thespis:''' ''Bring wine. Not for me, for our audience!''\n*'''Kassandra:''' ''So you think the audience won't listen to the tale of Leonidas unless they're drunk?''\n*'''Thespis:''' ''They won't be drunk, just'' appreciative''!''\n(\"Where can I find the wine?\")\n*'''Kassandra:''' ''Where are you keeping the wine?''\nThespis rubbed his head.\n*'''Thespis:''' ''Well, I had wine. But then the local military commander commandeered... Heh, I should put that in the script. \"The [[Iran|Persian]] Commander commandeered the, uh... casks.\" That's it.''\n*'''Kassandra:''' ''Then I'll have to re-commandeer it myself. Where is this commander?''\nRhodanthe spoke up.\n*'''Rhodanthe:''' ''He kept the expensive wine and left the rest for his soldiers. An ordinary audience might be content with the cheaper drink.''\n*'''Kassandra:''' ''If we serve the best wine, we could get a more sophisticated audience. It might be harder to get to, but worth it.''\n*'''Thespis:''' ''You speak my language! Better wine could mean a more generous crowd.''\n(\"Where can I find the wine?\")\n*'''Kassandra:''' ''Where are the two places the wine is being stored?''\n*'''Thespis:''' ''Most of it is in the [[Stable of Ares]]. But the good stuff? That's in [[Demiurgi Fort]].''\n(\"I'll go get the wine.\")\n*'''Kassandra:''' ''I'll take care of everything.''\nShe left the two and headed to get the wine.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Show Must Go On",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Passing near the theater, Kassandra heard a familiar voice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Thespis:''' ''Look at all these people. What do they need in their lives? Some excitement. A little magic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''[[Rhodanthe]]:''' ''And you think you can deliver that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Thespis:''' ''Magic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra approached them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Thespis? Are you acting in another play?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Thespis:''' ''Kar, Kal... Kassandra! [[Aristophanes]]' friend! And my friend too. I'd be nowhere without your support.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I suppose if I hadn't carried you out, you might still be in that [[Tavern, Athens|tavern]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Thespis:''' ''On the floor!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "10",
+            "content": "The women were not amused. Rhodanthe spoke up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Rhodanthe:''' ''Thespis had this \"brilliant\" idea to put on a play in this town. He's got a reputation as a great actor, so I thought, \"this could be a huge success.\" I'm beginning to think I thought wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Thespis:''' ''No, no, everything is under control. You keep an eye on the ticket sales, my darling Rhodanthe, and my friend Kassandra will take care of everything else!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I promise you, I know nothing about theater.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Thespis:''' ''Don't be so modest. You'll be known as the hero who made \"[[Leonidas I of Sparta|Leonidas]] and His 300 [[Sparta]]ns\" the play of the century!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''The play is about King Leonidas? You know, my family\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "16",
+            "content": "*'''Thespis:''' ''Your family can come, of course. I'm sure they'll be proud to see you. Just help me tell that glorious hero's tale.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Accept \u2013 I'll help put on your play about Leonidas.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll help Thespis put on the play. The story of Leonidas must have its due.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Rhodanthe:''' ''Very well then. I expect you to deliver.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Kassandra nodded at her and then turned her attention back to Thespis.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''So what do you need done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Thespis:''' ''Bring wine. Not for me, for our audience!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''So you think the audience won't listen to the tale of Leonidas unless they're drunk?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "24",
+            "content": "*'''Thespis:''' ''They won't be drunk, just'' appreciative''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "25",
+            "content": "(\"Where can I find the wine?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Where are you keeping the wine?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "Thespis rubbed his head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Thespis:''' ''Well, I had wine. But then the local military commander commandeered... Heh, I should put that in the script. \"The [[Iran|Persian]] Commander commandeered the, uh... casks.\" That's it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Then I'll have to re-commandeer it myself. Where is this commander?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "30",
+            "content": "Rhodanthe spoke up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Rhodanthe:''' ''He kept the expensive wine and left the rest for his soldiers. An ordinary audience might be content with the cheaper drink.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''If we serve the best wine, we could get a more sophisticated audience. It might be harder to get to, but worth it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "33",
+            "content": "*'''Thespis:''' ''You speak my language! Better wine could mean a more generous crowd.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "34",
+            "content": "(\"Where can I find the wine?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Where are the two places the wine is being stored?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "36",
+            "content": "*'''Thespis:''' ''Most of it is in the [[Stable of Ares]]. But the good stuff? That's in [[Demiurgi Fort]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "37",
+            "content": "(\"I'll go get the wine.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll take care of everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "39",
+            "content": "She left the two and headed to get the wine.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

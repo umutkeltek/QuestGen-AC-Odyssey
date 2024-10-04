@@ -1,0 +1,1459 @@
+{
+    "Quest_Name": "Awaken the Myth",
+    "Quest_ID": "224456",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-AtM-KassSphinx.jpg",
+        "description": "'The Sphinx Medallion|key to awakening the Sphinx was complete. All that remained was to use it and recover the Prize of the Sphinx|Artifact.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Lore of the Sphinx",
+        "next": "Myths and Minotaurs",
+        "source": "Kassandra",
+        "location": "Lair of the Sphinx, Boeotia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Awaken the Myth''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to the [[Lair of the Sphinx|ruins]] with the completed [[Sphinx Medallion]].",
+    "Section_Dialogue": "Kassandra returned to the Lair of the Sphinx.\n*'''Kassandra:''' ''The statue. It's gone.''\nAs Kassandra approached the plinth where the statue used to sit, she noticed [[Gorgias (historian)|Gorgias]] lying dead nearby. She inserted the medallion, but nothing happened.\n*'''Kassandra:''' ''It must only work at night. I should come back after dark.''\n[[File:ACOD Awaken the Myth 3.png|thumb|250px|Kassandra finding the Sphinx]]\nThat night, Kassandra returned. After she'd inserted the medallion, she took a few steps back, waiting. Suddenly, a light beam struck down the plinth like lightning. She looked away for a moment from the flash, but when she looked back, the [[Sphinx]] sat on the plinth. Kassandra looked in awe as the Sphinx relaxed, smiling at her. Curious, she moved a little closer.\n*'''Sphinx:''' ''Another challenger. I hope you're more resilient than the last one.''\n*'''Kassandra:''' ''By the gods! The statue came alive!''\nA snake appeared beside the Sphinx's left leg - its tail.\n*'''Sphinx:''' ''I am no statue, child. If you cannot comprehend what stands before you, how are you to entertain me?''\n(If players choose \"What are you?\")\n*'''Kassandra:''' ''What are you?''\n*'''Sphinx:''' ''The Sphinx. The guardian of truth and knowledge.''\n(If players choose \"What are you doing here?\")\n*'''Kassandra:''' ''Why are you here?''\n*'''Sphinx:''' ''The [[Isu|gods]] sent me to protect something, and I've been its guardian ever since.''\n(If players choose \"I'm not here to entertain you.\")\n*'''Kassandra:''' ''I\u2014I came here for another reason.''\n*'''Sphinx:''' ''Oh? Then tell me, little one. Why are you here?''\n\n<tabber>\n|-|I've come to destroy you.=\n*'''Kassandra:''' ''I've come to end you and take your [[Atlantis artifact|power]].''\n*'''Sphinx:''' ''Many before you have tried. All have failed.''\nThe Sphinx's snake tail hisses.\n*'''Kassandra:''' ''I won't.''\n*'''Sphinx:''' ''While it would amuse me to see you try, harming me will not give you what you seek. The only way to acquire the power I possess is to impress me with your mind.''\n*'''Kassandra:''' ''Sounds simple enough.''\n*'''Sphinx:''' ''If you are correct, I will surrender that which I guard. If you are wrong,'' I ''shall end'' you.\n|-|I need your artifact.=\n*'''Kassandra:''' ''You protect an object of great power. I have been asked to return it to where it belongs.''\n*'''Sphinx:''' ''A most noble of causes. Sadly I cannot grant your request.''\n*'''Kassandra:''' ''There's too much at stake. I won't leave without it.''\n*'''Sphinx:''' ''The power I guard is not for the [[Human|weak-willed]].''\n*'''Kassandra:''' ''I can [[Hybrid|resist]].''\n*'''Sphinx:''' ''One must risk everything in the pursuit of knowledge. If you can answer my questions wisely, you will have proven yourself worthy.''\n</tabber>\n\n(The Sphinx will ask any three riddles from a dozen different riddles.)\n\n<tabber>\n|-|1=\n*'''Sphinx:''' ''What is always old and sometimes new; never sad, sometimes blue; never empty, but sometimes full; never pushes, always pulls?''\n{{#tag:tabber|\nThe moon.=\n*'''Kassandra:''' ''The moon.''\n*'''Sphinx:''' ''An interesting choice.''\n{{!}}-{{!}}\nThe tide.=\n*'''Kassandra:''' ''The tide.''\n*'''Sphinx:''' ''How fascinating you are.''\n{{!}}-{{!}}\nThe sky.=\n*'''Kassandra:''' ''The sky.''\n*'''Sphinx:''' ''That is a bold choice.''\n}}\n|-|2=\n*'''Sphinx:''' ''This thing all things devour: birds, beasts, trees, flowers; gnaws iron, bites steel; grinds hard stones to meal; slays kings, ruins towns; and beats high mountains down.''\n{{#tag:tabber|\nArmies.=\n*'''Kassandra:''' ''Armies.''\n*'''Sphinx:''' ''This is most entertaining.''\n{{!}}-{{!}}\nTime.=\n*'''Kassandra:''' ''Time.''\n*'''Sphinx:''' ''I'm impressed.''\n{{!}}-{{!}}\nNature.=\n*'''Kassandra:''' ''Nature.''\n*'''Sphinx:''' ''How fascinating.''\n}}\n|-|3=\n*'''Sphinx:''' ''In spring I am gay in handsome array; in summer more clothing I wear; when colder it grows, I fling off my clothes; and in winter quite naked appear.''\n{{#tag:tabber|\nA tree.=\n*'''Kassandra:''' ''You're a tree.''\n*'''Sphinx:''' ''Impressive, little one. Most impressive.''\n{{!}}-{{!}}\nA goat.=\n*'''Kassandra:''' ''You're a goat.''\n*'''Sphinx:''' ''That's one way to look at it.''\n{{!}}-{{!}}\nA mountain.=\n*'''Kassandra:''' ''You're a mountain.''\n*'''Sphinx:''' ''Only time will tell.''\n}}\n|-|4=\n*'''Sphinx:''' ''Never resting, never still; moving silently from hill to hill; it does not walk, run, or trot; all is cool where it is not.''\n{{#tag:tabber|\nThe wind.=\n*'''Kassandra:''' ''The wind.''\n*'''Sphinx:''' ''You do amuse me.''\n{{!}}-{{!}}\nThe sun.=\n*'''Kassandra:''' ''It's the sun.''\n*'''Sphinx:''' ''Your perception is admirable.''\n{{!}}-{{!}}\nThe rain.=\n*'''Kassandra:''' ''The rain.''\n*'''Sphinx:''' ''I wonder why you chose that?''\n}}\n|-|5=\n*'''Sphinx:''' ''What can run, but never walks; has a mouth, but never talks; has a head, but never weeps; has a bed, but never sleeps?''\n{{#tag:tabber|\nA chariot.=\n*'''Kassandra:''' ''A chariot.''\n*'''Sphinx:''' ''You do amuse me.''\n{{!}}-{{!}}\nA child.=\n*'''Kassandra:''' ''A child.''\n*'''Sphinx:''' ''An interesting choice.''\n{{!}}-{{!}}\nA river.=\n*'''Kassandra:''' ''A river.''\n*'''Sphinx:''' ''That could be.''\n}}\n|-|6=\n*'''Sphinx:''' ''I create my lair with earthen string, and dispatch my prey with a biting sting.''\n{{#tag:tabber|\nA snake.=\n*'''Kassandra:''' ''A snake.''\n*'''Sphinx:''' ''I wonder what led you to choose that?''\n{{!}}-{{!}}\nA wasp.=\n*'''Kassandra:''' ''A wasp.''\n*'''Sphinx:''' ''You do amuse me.''\n{{!}}-{{!}}\nA spider.=\n*'''Kassandra:''' ''A spider.''\n*'''Sphinx:''' ''Good thinking, little one.''\n}}\n|-|7=\n*'''Sphinx:''' ''As small as your thumb, I am light in the air. You may hear me before you see me, but trust that I'm there.''\n{{#tag:tabber|\nA hummingbird.=\n*'''Kassandra:''' ''A hummingbird.''\n*'''Sphinx:''' ''How clever you are.''\n{{!}}-{{!}}\nA mosquito.=\n*'''Kassandra:''' ''A mosquito.''\n*'''Sphinx:''' ''A likely answer.''\n{{!}}-{{!}}\nA bumblebee.=\n*'''Kassandra:''' ''A bumblebee.''\n*'''Sphinx:''' ''Perhaps.''\n}}\n|-|8=\n*'''Sphinx:''' ''What can bring back the dead; make you cry, make you laugh, make you young; is born in an instant, yet lasts a lifetime?''\n{{#tag:tabber|\nA memory.=\n*'''Kassandra:''' ''Memories.''\n*'''Sphinx:''' ''You're full of surprises.''\n{{!}}-{{!}}\nA name.=\n*'''Kassandra:''' ''Names.''\n*'''Sphinx:''' ''I can see your reasoning.''\n{{!}}-{{!}}\nA joke.=\n*'''Kassandra:''' ''Jokes.''\n*'''Sphinx:''' ''That is a bold choice.''\n}}\n|-|9=\n*'''Sphinx:''' ''Some try to hide, some try to cheat; but time will show, we always will meet. Try as you might to guess my name; I promise you'll know, when you I do claim.''\n{{#tag:tabber|\nDestiny.=\n*'''Kassandra:''' ''Destiny.''\n*'''Sphinx:''' ''I wonder why you chose that?''\n{{!}}-{{!}}\nTime.=\n*'''Kassandra:''' ''Time.''\n*'''Sphinx:''' ''A keen mind.''\n{{!}}-{{!}}\nDeath.=\n*'''Kassandra:''' ''Death.''\n*'''Sphinx:''' ''Well done, mortal.''\n}}\n|-|10=\n*'''Sphinx:''' ''I'm alive, but without breath; I'm as cold in life as in death; I'm never thirsty, though I always drink.''\n{{#tag:tabber|\nA jellyfish.=\n*'''Kassandra:''' ''You're a jellyfish.''\n*'''Sphinx:''' ''I see your logic.''\n{{!}}-{{!}}\nA fish.=\n*'''Kassandra:''' ''You're a fish.''\n*'''Sphinx:''' ''You're highly perceptive.''\n{{!}}-{{!}}\nA crocodile.=\n*'''Kassandra:''' ''You're a crocodile.''\n*'''Sphinx:''' ''Such imagination.''\n}}\n|-|11=\n*'''Sphinx:''' ''What is large, yet never grows; has roots that cannot be seen; and is taller than trees?''\n{{#tag:tabber|\nA city.=\n*'''Kassandra:''' ''A city.''\n*'''Sphinx:''' ''You're sharp, for a human.''\n{{!}}-{{!}}\nA mountain.=\n*'''Kassandra:''' ''A mountain.''\n*'''Sphinx:''' ''How fascinating.''\n{{!}}-{{!}}\nA forest.=\n*'''Kassandra:''' ''A forest.''\n*'''Sphinx:''' ''This is most entertaining.''\n}}\n|-|12=\n*'''Sphinx:''' ''At night they come without being fetched, and by day they are lost without being stolen.''\n{{#tag:tabber|\nThe sun.=\n*'''Kassandra:''' ''The sun.''\n*'''Sphinx:''' ''I expected no less.''\n{{!}}-{{!}}\nThe moon.=\n*'''Kassandra:''' ''The moon.''\n*'''Sphinx:''' ''I can see the wisdom in that answer.''\n{{!}}-{{!}}\nThe stars.=\n*'''Kassandra:''' ''The stars.''\n*'''Sphinx:''' ''You're a wise one.''\n}}\n</tabber>\n\n(The players can choose any answers and the Sphinx will accept it, only commenting on the choice made. The players must remember the answers they gave, but not necessarily in sequence.)\n\n*'''Sphinx:''' ''You'' are ''an interesting one. Now, take what you have learned and touch the symbols that reflect your choices.''\n\n(If players touched the wrong symbols.)\n*'''Sphinx:''' ''Like those who came before, you have failed.''\nAll the surrounding symbols glowed intensely to power up the Sphinx's plinth. Kassandra tried to flee, but was shot by a beam of light from the plinth, killing her.\n\n(If players touched the correct symbols.)\n\n[[File:ACOD Awaken the Myth 6.png|thumb|250px|Kassandra beside the deceased Sphinx]]\nKassandra walked back to the plinth to see what would happen next but was momentarily blinded by a flash of light. When the light settled, the Sphinx glowed intensely gold all over except for her agonized face. The Sphinx reached for Kassandra but the glow died along with her. Kassandra stood in astonishment for a little while before squatting down and plucking the large golden feather from the Sphinx's head. The feather glowed brightly as it shook violently in her hands, attempting to transmute her. With her eyes closed from the struggle, she was unaware of a ghostly Sphinx reaching its clawed paw towards her.\n*'''Unknown:''' ''...Outwit our oppressors, hide our truth within lies...''\n[[File:ACOD Awaken the Myth 9.png|thumb|250px|Kassandra holding the relic]]\nKassandra grit her teeth and continued to struggle against the artifact's power. Thanks to her willpower and the [[Tainted One|unique blood]] within her veins, she managed to resist. Subdued, the artifact ceased its attempt and took its [[Prize of the Sphinx|true shape]] in the form of an [[Apples of Eden|apple]]-like sphere, which glowed with the same light, albeit dimmer. Kassandra exhaled and pocketed the artifact before leaving the ruins, not noticing the desiccated human corpse of the artifact's previous holder behind her.",
+    "Section_Outcome": "Facing the Sphinx, Kassandra answered the creature's questions correctly and claimed the artifact.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:\u00c9veiller le mythe]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Last Riddle",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to the Lair of the Sphinx.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''The statue. It's gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "As Kassandra approached the plinth where the statue used to sit, she noticed [[Gorgias (historian)|Gorgias]] lying dead nearby. She inserted the medallion, but nothing happened.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''It must only work at night. I should come back after dark.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "5",
+            "content": "[[File:ACOD Awaken the Myth 3.png|thumb|250px|Kassandra finding the Sphinx]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "That night, Kassandra returned. After she'd inserted the medallion, she took a few steps back, waiting. Suddenly, a light beam struck down the plinth like lightning. She looked away for a moment from the flash, but when she looked back, the [[Sphinx]] sat on the plinth. Kassandra looked in awe as the Sphinx relaxed, smiling at her. Curious, she moved a little closer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Sphinx:''' ''Another challenger. I hope you're more resilient than the last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''By the gods! The statue came alive!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "A snake appeared beside the Sphinx's left leg - its tail.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Sphinx:''' ''I am no statue, child. If you cannot comprehend what stands before you, how are you to entertain me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "11",
+            "content": "(If players choose \"What are you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''What are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Sphinx:''' ''The Sphinx. The guardian of truth and knowledge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "14",
+            "content": "(If players choose \"What are you doing here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Why are you here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Sphinx:''' ''The [[Isu|gods]] sent me to protect something, and I've been its guardian ever since.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "17",
+            "content": "(If players choose \"I'm not here to entertain you.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I\u2014I came here for another reason.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Sphinx:''' ''Oh? Then tell me, little one. Why are you here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "22",
+            "content": "|-|I've come to destroy you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I've come to end you and take your [[Atlantis artifact|power]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Sphinx:''' ''Many before you have tried. All have failed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "25",
+            "content": "The Sphinx's snake tail hisses.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I won't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Sphinx:''' ''While it would amuse me to see you try, harming me will not give you what you seek. The only way to acquire the power I possess is to impress me with your mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Sounds simple enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Sphinx:''' ''If you are correct, I will surrender that which I guard. If you are wrong,'' I ''shall end'' you.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "30",
+            "content": "|-|I need your artifact.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''You protect an object of great power. I have been asked to return it to where it belongs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Sphinx:''' ''A most noble of causes. Sadly I cannot grant your request.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''There's too much at stake. I won't leave without it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Sphinx:''' ''The power I guard is not for the [[Human|weak-willed]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I can [[Hybrid|resist]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Sphinx:''' ''One must risk everything in the pursuit of knowledge. If you can answer my questions wisely, you will have proven yourself worthy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "39",
+            "content": "(The Sphinx will ask any three riddles from a dozen different riddles.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U3",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "41",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "42",
+            "content": "|-|1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "43",
+            "content": "*'''Sphinx:''' ''What is always old and sometimes new; never sad, sometimes blue; never empty, but sometimes full; never pushes, always pulls?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "44",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "45",
+            "content": "The moon.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''The moon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "47",
+            "content": "*'''Sphinx:''' ''An interesting choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "48",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "49",
+            "content": "The tide.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''The tide.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "51",
+            "content": "*'''Sphinx:''' ''How fascinating you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "52",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "53",
+            "content": "The sky.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''The sky.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "55",
+            "content": "*'''Sphinx:''' ''That is a bold choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "56",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC7",
+            "global_id": "57",
+            "content": "|-|2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "58",
+            "content": "*'''Sphinx:''' ''This thing all things devour: birds, beasts, trees, flowers; gnaws iron, bites steel; grinds hard stones to meal; slays kings, ruins towns; and beats high mountains down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "59",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "60",
+            "content": "Armies.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Armies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Sphinx:''' ''This is most entertaining.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "63",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "64",
+            "content": "Time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "66",
+            "content": "*'''Sphinx:''' ''I'm impressed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "67",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "68",
+            "content": "Nature.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Nature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "70",
+            "content": "*'''Sphinx:''' ''How fascinating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "71",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC11",
+            "global_id": "72",
+            "content": "|-|3=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "73",
+            "content": "*'''Sphinx:''' ''In spring I am gay in handsome array; in summer more clothing I wear; when colder it grows, I fling off my clothes; and in winter quite naked appear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "74",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "75",
+            "content": "A tree.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''You're a tree.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "77",
+            "content": "*'''Sphinx:''' ''Impressive, little one. Most impressive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "78",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "79",
+            "content": "A goat.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''You're a goat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "81",
+            "content": "*'''Sphinx:''' ''That's one way to look at it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD6",
+            "global_id": "82",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC14",
+            "global_id": "83",
+            "content": "A mountain.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''You're a mountain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "85",
+            "content": "*'''Sphinx:''' ''Only time will tell.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "86",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC15",
+            "global_id": "87",
+            "content": "|-|4=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "88",
+            "content": "*'''Sphinx:''' ''Never resting, never still; moving silently from hill to hill; it does not walk, run, or trot; all is cool where it is not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "89",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "90",
+            "content": "The wind.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''The wind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "92",
+            "content": "*'''Sphinx:''' ''You do amuse me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD7",
+            "global_id": "93",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC17",
+            "global_id": "94",
+            "content": "The sun.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''It's the sun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "96",
+            "content": "*'''Sphinx:''' ''Your perception is admirable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD8",
+            "global_id": "97",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC18",
+            "global_id": "98",
+            "content": "The rain.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''The rain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "100",
+            "content": "*'''Sphinx:''' ''I wonder why you chose that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "101",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC19",
+            "global_id": "102",
+            "content": "|-|5=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "103",
+            "content": "*'''Sphinx:''' ''What can run, but never walks; has a mouth, but never talks; has a head, but never weeps; has a bed, but never sleeps?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS5",
+            "global_id": "104",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC20",
+            "global_id": "105",
+            "content": "A chariot.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''A chariot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "107",
+            "content": "*'''Sphinx:''' ''You do amuse me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD9",
+            "global_id": "108",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC21",
+            "global_id": "109",
+            "content": "A child.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''A child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "111",
+            "content": "*'''Sphinx:''' ''An interesting choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD10",
+            "global_id": "112",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC22",
+            "global_id": "113",
+            "content": "A river.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D57",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''A river.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "115",
+            "content": "*'''Sphinx:''' ''That could be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE5",
+            "global_id": "116",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC23",
+            "global_id": "117",
+            "content": "|-|6=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D59",
+            "global_id": "118",
+            "content": "*'''Sphinx:''' ''I create my lair with earthen string, and dispatch my prey with a biting sting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS6",
+            "global_id": "119",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC24",
+            "global_id": "120",
+            "content": "A snake.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''A snake.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "122",
+            "content": "*'''Sphinx:''' ''I wonder what led you to choose that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD11",
+            "global_id": "123",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC25",
+            "global_id": "124",
+            "content": "A wasp.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "125",
+            "content": "*'''Kassandra:''' ''A wasp.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "126",
+            "content": "*'''Sphinx:''' ''You do amuse me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD12",
+            "global_id": "127",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC26",
+            "global_id": "128",
+            "content": "A spider.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "129",
+            "content": "*'''Kassandra:''' ''A spider.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "130",
+            "content": "*'''Sphinx:''' ''Good thinking, little one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE6",
+            "global_id": "131",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC27",
+            "global_id": "132",
+            "content": "|-|7=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D66",
+            "global_id": "133",
+            "content": "*'''Sphinx:''' ''As small as your thumb, I am light in the air. You may hear me before you see me, but trust that I'm there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS7",
+            "global_id": "134",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC28",
+            "global_id": "135",
+            "content": "A hummingbird.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "136",
+            "content": "*'''Kassandra:''' ''A hummingbird.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "137",
+            "content": "*'''Sphinx:''' ''How clever you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD13",
+            "global_id": "138",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC29",
+            "global_id": "139",
+            "content": "A mosquito.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D69",
+            "global_id": "140",
+            "content": "*'''Kassandra:''' ''A mosquito.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "141",
+            "content": "*'''Sphinx:''' ''A likely answer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD14",
+            "global_id": "142",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC30",
+            "global_id": "143",
+            "content": "A bumblebee.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''A bumblebee.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "145",
+            "content": "*'''Sphinx:''' ''Perhaps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE7",
+            "global_id": "146",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC31",
+            "global_id": "147",
+            "content": "|-|8=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D73",
+            "global_id": "148",
+            "content": "*'''Sphinx:''' ''What can bring back the dead; make you cry, make you laugh, make you young; is born in an instant, yet lasts a lifetime?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS8",
+            "global_id": "149",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC32",
+            "global_id": "150",
+            "content": "A memory.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D74",
+            "global_id": "151",
+            "content": "*'''Kassandra:''' ''Memories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "152",
+            "content": "*'''Sphinx:''' ''You're full of surprises.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD15",
+            "global_id": "153",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC33",
+            "global_id": "154",
+            "content": "A name.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D76",
+            "global_id": "155",
+            "content": "*'''Kassandra:''' ''Names.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "156",
+            "content": "*'''Sphinx:''' ''I can see your reasoning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD16",
+            "global_id": "157",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC34",
+            "global_id": "158",
+            "content": "A joke.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D78",
+            "global_id": "159",
+            "content": "*'''Kassandra:''' ''Jokes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "160",
+            "content": "*'''Sphinx:''' ''That is a bold choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE8",
+            "global_id": "161",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC35",
+            "global_id": "162",
+            "content": "|-|9=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D80",
+            "global_id": "163",
+            "content": "*'''Sphinx:''' ''Some try to hide, some try to cheat; but time will show, we always will meet. Try as you might to guess my name; I promise you'll know, when you I do claim.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS9",
+            "global_id": "164",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC36",
+            "global_id": "165",
+            "content": "Destiny.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D81",
+            "global_id": "166",
+            "content": "*'''Kassandra:''' ''Destiny.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "167",
+            "content": "*'''Sphinx:''' ''I wonder why you chose that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD17",
+            "global_id": "168",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC37",
+            "global_id": "169",
+            "content": "Time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D83",
+            "global_id": "170",
+            "content": "*'''Kassandra:''' ''Time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "171",
+            "content": "*'''Sphinx:''' ''A keen mind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD18",
+            "global_id": "172",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC38",
+            "global_id": "173",
+            "content": "Death.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D85",
+            "global_id": "174",
+            "content": "*'''Kassandra:''' ''Death.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "175",
+            "content": "*'''Sphinx:''' ''Well done, mortal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE9",
+            "global_id": "176",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC39",
+            "global_id": "177",
+            "content": "|-|10=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D87",
+            "global_id": "178",
+            "content": "*'''Sphinx:''' ''I'm alive, but without breath; I'm as cold in life as in death; I'm never thirsty, though I always drink.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS10",
+            "global_id": "179",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC40",
+            "global_id": "180",
+            "content": "A jellyfish.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D88",
+            "global_id": "181",
+            "content": "*'''Kassandra:''' ''You're a jellyfish.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D89",
+            "global_id": "182",
+            "content": "*'''Sphinx:''' ''I see your logic.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD19",
+            "global_id": "183",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC41",
+            "global_id": "184",
+            "content": "A fish.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D90",
+            "global_id": "185",
+            "content": "*'''Kassandra:''' ''You're a fish.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D91",
+            "global_id": "186",
+            "content": "*'''Sphinx:''' ''You're highly perceptive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD20",
+            "global_id": "187",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC42",
+            "global_id": "188",
+            "content": "A crocodile.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D92",
+            "global_id": "189",
+            "content": "*'''Kassandra:''' ''You're a crocodile.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "190",
+            "content": "*'''Sphinx:''' ''Such imagination.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE10",
+            "global_id": "191",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC43",
+            "global_id": "192",
+            "content": "|-|11=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D94",
+            "global_id": "193",
+            "content": "*'''Sphinx:''' ''What is large, yet never grows; has roots that cannot be seen; and is taller than trees?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS11",
+            "global_id": "194",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC44",
+            "global_id": "195",
+            "content": "A city.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D95",
+            "global_id": "196",
+            "content": "*'''Kassandra:''' ''A city.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D96",
+            "global_id": "197",
+            "content": "*'''Sphinx:''' ''You're sharp, for a human.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD21",
+            "global_id": "198",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC45",
+            "global_id": "199",
+            "content": "A mountain.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D97",
+            "global_id": "200",
+            "content": "*'''Kassandra:''' ''A mountain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D98",
+            "global_id": "201",
+            "content": "*'''Sphinx:''' ''How fascinating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD22",
+            "global_id": "202",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC46",
+            "global_id": "203",
+            "content": "A forest.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D99",
+            "global_id": "204",
+            "content": "*'''Kassandra:''' ''A forest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D100",
+            "global_id": "205",
+            "content": "*'''Sphinx:''' ''This is most entertaining.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE11",
+            "global_id": "206",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC47",
+            "global_id": "207",
+            "content": "|-|12=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D101",
+            "global_id": "208",
+            "content": "*'''Sphinx:''' ''At night they come without being fetched, and by day they are lost without being stolen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS12",
+            "global_id": "209",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC48",
+            "global_id": "210",
+            "content": "The sun.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D102",
+            "global_id": "211",
+            "content": "*'''Kassandra:''' ''The sun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D103",
+            "global_id": "212",
+            "content": "*'''Sphinx:''' ''I expected no less.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD23",
+            "global_id": "213",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC49",
+            "global_id": "214",
+            "content": "The moon.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D104",
+            "global_id": "215",
+            "content": "*'''Kassandra:''' ''The moon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D105",
+            "global_id": "216",
+            "content": "*'''Sphinx:''' ''I can see the wisdom in that answer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD24",
+            "global_id": "217",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC50",
+            "global_id": "218",
+            "content": "The stars.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D106",
+            "global_id": "219",
+            "content": "*'''Kassandra:''' ''The stars.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D107",
+            "global_id": "220",
+            "content": "*'''Sphinx:''' ''You're a wise one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE12",
+            "global_id": "221",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "222",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "223",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "224",
+            "content": "(The players can choose any answers and the Sphinx will accept it, only commenting on the choice made. The players must remember the answers they gave, but not necessarily in sequence.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U5",
+            "global_id": "225",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D108",
+            "global_id": "226",
+            "content": "*'''Sphinx:''' ''You'' are ''an interesting one. Now, take what you have learned and touch the symbols that reflect your choices.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "227",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C4",
+            "global_id": "228",
+            "content": "(If players touched the wrong symbols.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D109",
+            "global_id": "229",
+            "content": "*'''Sphinx:''' ''Like those who came before, you have failed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "230",
+            "content": "All the surrounding symbols glowed intensely to power up the Sphinx's plinth. Kassandra tried to flee, but was shot by a beam of light from the plinth, killing her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "231",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C5",
+            "global_id": "232",
+            "content": "(If players touched the correct symbols.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U8",
+            "global_id": "233",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "I2",
+            "global_id": "234",
+            "content": "[[File:ACOD Awaken the Myth 6.png|thumb|250px|Kassandra beside the deceased Sphinx]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "235",
+            "content": "Kassandra walked back to the plinth to see what would happen next but was momentarily blinded by a flash of light. When the light settled, the Sphinx glowed intensely gold all over except for her agonized face. The Sphinx reached for Kassandra but the glow died along with her. Kassandra stood in astonishment for a little while before squatting down and plucking the large golden feather from the Sphinx's head. The feather glowed brightly as it shook violently in her hands, attempting to transmute her. With her eyes closed from the struggle, she was unaware of a ghostly Sphinx reaching its clawed paw towards her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D110",
+            "global_id": "236",
+            "content": "*'''Unknown:''' ''...Outwit our oppressors, hide our truth within lies...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "237",
+            "content": "[[File:ACOD Awaken the Myth 9.png|thumb|250px|Kassandra holding the relic]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N8",
+            "global_id": "238",
+            "content": "Kassandra grit her teeth and continued to struggle against the artifact's power. Thanks to her willpower and the [[Tainted One|unique blood]] within her veins, she managed to resist. Subdued, the artifact ceased its attempt and took its [[Prize of the Sphinx|true shape]] in the form of an [[Apples of Eden|apple]]-like sphere, which glowed with the same light, albeit dimmer. Kassandra exhaled and pocketed the artifact before leaving the ruins, not noticing the desiccated human corpse of the artifact's previous holder behind her.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

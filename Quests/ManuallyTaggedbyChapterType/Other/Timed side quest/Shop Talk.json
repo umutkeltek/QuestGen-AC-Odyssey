@@ -1,0 +1,39 @@
+{
+    "QuestName": "Shop Talk",
+    "QuestID": "223170",
+    "Revision": {
+        "id": "1047561",
+        "parentid": "804255",
+        "timestamp": "2023-06-13T19:32:51Z",
+        "contributor": null,
+        "comment": "updated imageneed template, typo",
+        "origin": "1047561",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "5einpak8cqlb9uoypnirp2bu7siu0jm"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Shop Talk''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After discovering a coded message, one man realized his employer was a spy. Afraid, and understandably so, he asked Kassandra for help.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

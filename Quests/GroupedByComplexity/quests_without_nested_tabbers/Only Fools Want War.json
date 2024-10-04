@@ -1,0 +1,222 @@
+{
+    "Quest_Name": "Only Fools Want War",
+    "Quest_ID": "224056",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Considered ruthless, the much-feared General Lysander was not numb to the horror of war. His desire was to bring it to a quick end while ensuring that he would reap the benefits of victory.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Ambition",
+        "next": "Rise Through the Ranks",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Only Fools Want War''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by [[Lysander]] to recover 3 more seals from [[Athens|Athenian]] ''[[polemarch]]oi''.",
+    "Section_Dialogue": "*'''Lysander:''' ''Time to strike again. Athenian command will be slow to retaliate. Ready to kill more of their fort commanders?''\n(Accept \u2013 )\n*'''Kassandra:''' ''I'll kill the commanders and clear the way for your troops.''\nLysander changed his tone.\n*'''Lysander:''' ''Only fools want war. And so far it seems both sides are made of fools.''\n*'''Kassandra:''' ''Good news, General?''\n*'''Lysander:''' ''Athenian commanders have been dismissed for negligence because of my tactics!''\n*'''Kassandra:''' ''Better unemployed than dead.''\n*'''Lysander:''' ''You're proving a solid ally. There's no time to lose. We need to control the enemy forts..''\n*'''Kassandra:''' ''Let me ask you something first...''\n*'''Lysander:''' ''Waste of time!''\n(If players asked \"What do you think of Spartan generals?\")\n*'''Kassandra:''' ''You don't think much of Spartan leadership.''\n*'''Lysander:''' ''When I rise, they'll bow.''\n(Leave \u2013 )\n*'''Kassandra:''' ''Chaire.''\n*'''Lysander:''' ''Why are you still here? Go kill the enemy command!''\n*'''Kassandra:''' ''Consider it done.''\n\nKassandra returned to the general after finishing her task.\n*'''Kassandra:''' ''The fort commanders are dead. Here are the seals as proof.''\nLysander spread his arms and proudly said:\n*'''Lysander:''' ''Excellent. Our ineffectual leaders will see my value.''\n*'''Kassandra:''' ''I'm sure they will.''\nLysander leans a bit closer.\n*'''Lysander:''' ''My spies tell me Athenians have gained ground. Infiltrate the forts and attack their command. Understand?''\n(Accept \u2013 \"I'll attack the commanders.\")\n*'''Kassandra:''' ''Yes. I'll do as you ask and attack the commanders.''\n*'''Kassandra:''' ''They must be faltering by now.''\n*'''Lysander:''' ''Athenians fail because they fear risk.''\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander collect 3 more ''polemarch'' seals. In return, she obtained Lysander's own personal [[Lysander's Boots|boots]] and another task to retrieve 3 more seals.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lysander",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Lysander:''' ''Time to strike again. Athenian command will be slow to retaliate. Ready to kill more of their fort commanders?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "2",
+            "content": "(Accept \u2013 )",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I'll kill the commanders and clear the way for your troops.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "4",
+            "content": "Lysander changed his tone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Lysander:''' ''Only fools want war. And so far it seems both sides are made of fools.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Good news, General?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Lysander:''' ''Athenian commanders have been dismissed for negligence because of my tactics!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Better unemployed than dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Lysander:''' ''You're proving a solid ally. There's no time to lose. We need to control the enemy forts..''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Let me ask you something first...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Lysander:''' ''Waste of time!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "12",
+            "content": "(If players asked \"What do you think of Spartan generals?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''You don't think much of Spartan leadership.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Lysander:''' ''When I rise, they'll bow.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "15",
+            "content": "(Leave \u2013 )",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Chaire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Lysander:''' ''Why are you still here? Go kill the enemy command!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Consider it done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "20",
+            "content": "Kassandra returned to the general after finishing her task.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''The fort commanders are dead. Here are the seals as proof.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "22",
+            "content": "Lysander spread his arms and proudly said:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Lysander:''' ''Excellent. Our ineffectual leaders will see my value.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'm sure they will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Lysander leans a bit closer.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Lysander:''' ''My spies tell me Athenians have gained ground. Infiltrate the forts and attack their command. Understand?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "27",
+            "content": "(Accept \u2013 \"I'll attack the commanders.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Yes. I'll do as you ask and attack the commanders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''They must be faltering by now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Lysander:''' ''Athenians fail because they fear risk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "31",
+            "content": "(Dialogue continues to start the next quest.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

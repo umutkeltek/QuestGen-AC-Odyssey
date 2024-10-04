@@ -1,0 +1,40 @@
+{
+    "QuestName": "Seeking Answers",
+    "QuestID": "224121",
+    "Revision": {
+        "id": "1047159",
+        "parentid": "931042",
+        "timestamp": "2023-06-13T02:25:28Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047159",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "qcdsww9indktsezshecq4zlaylbswg5"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Realizing she had the information Ardos needed to continue the search for his father, Kassandra knew she'd have to go to him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Blood in the Water (Odyssey)|Blood in the Water<br>Recollections<br>Full Circle",
+        "next": "He Waits",
+        "source": "Kassandra",
+        "location": "Knossos Palace, Messara, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Seeking Answers''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Ardos]], after learning he had information that she need to search for the boy's [[Nikios|father]].",
+    "Section_Dialogue": "Kassandra returned to Ardos at the [[Knossos Palace]] ruins.\n[Collector and/or Swordfish quests complete]\n*'''Kassandra:''' ''You\u2014''\n*'''Ardos:''' ''Whatever it was, I didn't steal it.''\n*'''Kassandra:''' ''The old caretaker said you\u2014''\n*'''Ardos:''' ''Whoa\u2014he told you stuff? Did he tell you anything about my pater?''\n*'''Kassandra:''' ''No he didn't, but\u2014''\n*'''Ardos:''' ''What about the Collector?''\n\n<tabber>\n|-|He said you are like your father.=\n*'''Kassandra:''' ''...He said you're like your pater.''\n*'''Ardos:''' ''Really? That's nice to know.''\n|-|Lie \u2013 He didn't say anything.=\n*'''Kassandra:''' ''He didn't say anything about your pater either.''\n*'''Ardos:''' ''Huh! I could've sworn he knew something!''\n</tabber>\n*'''Kassandra:''' ''Look, the old caretaker said you\u2014''\n*'''Ardos:''' ''Wait, wait, wait! And... ''Swordfish''? What did he say? You found him right?''\n\n<tabber>\n|-|He told me where to place the disk.=\n*'''Kassandra:''' ''He said the key goes in the stele.''\n*'''Ardos:''' ''Oh! I know where the stele is! But wait\u2014''\nHe scratched his jaw.\n*'''Ardos:''' ''What's this key you're talking about?''\n|-|He said you were rude.=\n*'''Kassandra:''' ''He said you were a rude little boy that likes to interrupt\u2014''\n*'''Ardos:''' ''That's not true!''\nKassandra paused and looked at him pointedly.\n*'''Ardos:''' ''Fine. ''Maybe'' I get a little excited sometimes. What were you going to say?''\n</tabber>\n(Full Circle complete, regardless of by itself or with the other quests)\n*'''Kassandra:''' ''The old man said you stole something from him.''\n*'''Ardos:''' ''No, I didn't!<br />Wait.<br />What did he accuse me of stealing?''\n*'''Kassandra:''' ''The [[Phaistos Disk|key]] to the [[Labyrinth of Lost Souls|labyrinth]]. A disk.''\n*'''Ardos:''' ''OH!''\nArdos walked over to his stash of items and took out an item.\n*'''Ardos:''' ''You mean this old thing?''\nArdos presented the disk, emblazoned with the [[Minotaur]]'s symbol.\n*'''Ardos:''' ''I always wondered what it was for.''\nKassandra took the disk.\n:*'''Kassandra:''' ''Swordfish mentioned there was a place to put the disk\u2014in a stele.''\n:*'''Ardos:''' ''Ooh! So what do we do now?''\n*'''Kassandra:''' ''If we put the disk into the stele, the entrance to the labyrinth should open.''\nShe knelt down to look up at Ardos.\n*'''Kassandra:''' ''Then I see about a minotaur.''\n*'''Ardos:''' ''And... and you'll save my ''pater'' too right?''\n\n<tabber>\n|-|Yes, I'll save him.=\n*'''Kassandra:''' ''I promised I'd save your ''pater'', didn't I?''\n*'''Ardos:''' ''You're the best, ''misthios!\n*'''Kassandra:''' ''Your ''pater'' and I will be back before you know it.''\n*'''Ardos:''' ''Let's head to the entrance and try out the disk!''\n|-|Your father is probably dead.=\n*'''Kassandra:''' ''Ardos. I don't\u2014''\nShe stood up.\n*'''Kassandra:''' ''I don't think your pater is still -''\n*'''Ardos:''' ''He's alive! I know it! We just have to hurry!''\n</tabber>\nIn addition, Kassandra received [[Theseus' Gauntlets]].\n*'''Kassandra:''' ''Looks like a piece of Theseus' armor.''",
+    "Section_Outcome": "Kassandra claimed the disc that served as the key to the labyrinth from Ardos, who unknowingly held it the entire time, and the two made their way back to the entrance of the [[Labyrinth of Lost Souls]].",
+    "Section_Trivia": "*While three quests are available under the umbrella of [[Of Minotaurs and Men]], only [[Full Circle]] is actually required to open the labyrinth. 'Of Minotaurs and Men' will automatically complete alongside this quest, but the other two quests will remain available.\n*Dialogue choices made during this quest will affect Ardos' dialogue in the following quest, if he is later told that Nikios is dead.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Recherche de r\u00e9ponses]]"
+}

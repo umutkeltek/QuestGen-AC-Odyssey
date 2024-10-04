@@ -1,0 +1,717 @@
+{
+    "Quest_Name": "Red in the Wreckage",
+    "Quest_ID": "224091",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Red in the Wreckage Memory.png",
+        "description": "'Kassandra learned that a shipment of 'miltos', a substance more precious than gold, had gone missing. She decided it would be best if she found it before anyone else.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Island of Misfortune",
+        "next": "First Do No Harm",
+        "concurrent": "A Chest Full of Drachmae<br>Recruitment Drive<br>We're Not Thieves",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Red in the Wreckage''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "On [[Keos]], Kassandra was told by two [[civilian]]s about a shipment of ''[[miltos]]'' which had gone missing.",
+    "Section_Dialogue": "While in Keos, Kassandra overheard two men talking near the port.\n*'''Civilian 1:''' ''Can you fucking believe it?''\n*'''Civilian 2:''' ''Thought she'd know better by now.''\n*'''Civilian 1:''' ''Well, you know why. Shame though, all that cargo out there on the [[Aegean Sea|ocean]]...''\n*'''Civilian 2:''' ''More like under, knowing [[Gotarzes]]!''\nThe two men laughed. Intrigued, Kassandra approached the men.\n*'''Civilian 1:''' ''I mean how hard is it to take a [[merchant]] [[ship]] and get to [[Thera]] and back?!''\n*'''Civilian 2:''' ''Still, [[Xenia]] could've used that ''miltos''. The [[drachma]]e would have been helpful in her fight against...''\nThe men noticed Kassandra and shut up.\n*'''Civilian 1:''' ''Something we can help you with?''\n*'''Kassandra:''' ''Yeah, you were talking about a shipment.''\n*'''Civilian 2:''' ''We weren't saying nothing... Nothing that concerns you, anyway.''\n<tabber>\n|-|Spit it out.=\n*'''Kassandra:''' ''You were, and I want to know more.''\n*'''Civilian 1:''' ''Yeah, don't really care what you want.''\n{{#tag:tabber|\nYou'd better tell me.=\n*'''Kassandra:''' ''You'd better tell me about that ''miltos'' shipment.''\n*'''Civilian 1:''' ''Don't have to tell you shit.''\n*'''Civilian 2:''' ''Don't even try it. We're under Xenia's protection here, like everyone else.''\n*'''Civilian 1:''' ''Go on, get out of here.''\nKassandra left, only to change her mind and return later to try talking to them again.\n*'''Civilian 2:''' ''Told you, nothing more to say.''\n*'''Civilian 1:''' ''You want that shipment? Lot of water between here and Thera, better get to it.''\nKassandra returned to the ''Adrestia''.\n*'''Kassandra:''' ''If it's worth money, I'll find it. They said the ship was on its way to Thera.''\n{{!}}-{{!}}\nSorry, just inquisitive.=\n*'''Kassandra:''' ''Apologies, I... I've been at sea, and my curiosity got the better of me.''\n*'''Civilian 1:''' ''Huh, no worry about manners here. Cause trouble, though, and you'll answer to Xenia.''\n*'''Civilian 2:''' ''Yeah, we've both been to sea. Boring as fuck, and no one minded their manners on any of the vessels I sailed.''\nThe two men laughed.\n{{#tag:tabber|\nI want to find this shipment.=\n*'''Kassandra:''' ''I'd like to find this ship.''\n*'''Civilian 2:''' ''Well, I'll help you if you can. Then you can bring us a story.''\n(If \"What was the cargo?\" is chosen.)\n*'''Kassandra:''' ''What's ''miltos'', anyway?''\n*'''Civilian 1:''' Miltos'', the next best thing to [[gold]].''\n*'''Civilian 2:''' ''Fucking [[Athens|Athenians]] want it all for themselves, self-important ''mal\u00e1kas''.''\n(If \"Where's the shipment?\" is chosen.)\n*'''Kassandra:''' ''Do you know where I can find the ship?''\n*'''Civilian 1:''' ''Could be anywhere, knowing Gotarzes!''\n*'''Civilian 2:''' ''I heard the plan was to intercept the shipment near [[Lestris]] island, due south of Keos.''\n(If \"Who's Gotarzes?\" is chosen.)\n*'''Kassandra:''' ''Who's this captain you keep mentioning?''\n*'''Civilian 1:''' ''Gotarzes, be thankful you don't know.''\n*'''Civilian 2:''' ''The [[Parthenon]]'s got more chance of staying afloat than him!''\n(Leave \u2013 \"I know what do.\")\n*'''Kassandra:''' ''Thank you.''\n*'''Civilian 1:''' ''If you find that ''miltos'', be sure to come back and share the wealth!''\n*'''Kassandra:''' ''Of course, my friends!''\nKassandra turned and walked away from the laughing men.\n*'''Kassandra:''' ''Mal\u00e1kes.''\nKassandra returned to the ''Adrestia'' and set sail for Lestris.\n*'''Kassandra:''' ''If I can find this shipment of ''miltos''... It's easy money.''\nOn arriving at Lestris, she found the [[shipwreck]] in the nearby [[Wailing Cavern]].\n*'''Kassandra:''' ''There's a shipwreck, and there's the ''miltos.\nKassandra dove underwater and recovered the ''miltos'' from the [[Treasure chest|chests]] beneath the waves.\n{{!}}-{{!}}\nI'll be going.=\n*'''Kassandra:''' ''Sounds like a tale for another day. I'll be seeing you.''\n*'''Civilian 2:''' ''Not if we see you first!''\n*'''Civilian 1:''' ''Ha, good one!''\nKassandra tiredly pinched her nose at their simple humor. She left, only to change her mind and return later.\n*'''Civilian 2:''' ''You again. Thought you'd be sick of ports, or are you looking for work?''\n*'''Kassandra:''' ''Just wanted to ask about that shipment.''\n*'''Civilian 2:''' ''Oh yeah?''\n(Return to previous dialogue choice.)\n}}\n}}\n|-|I like a good story.=\n*'''Kassandra:''' ''I'm always open to a good tale, especially if it ends in misfortune.''\n*'''Civilian 1:''' ''Ha, the ones with Gotarzes always do. He's the worst captain on Keos!''\n{{#tag:tabber|\nI want to find this shipment.=\n*'''Kassandra:''' ''I'd like to find this ship.''\n*'''Civilian 2:''' ''Well, I'll help you if you can. Then you can bring us a story.''\n(If \"What was the cargo?\" is chosen.)\n*'''Kassandra:''' ''What's ''miltos'', anyway?''\n*'''Civilian 1:''' Miltos'', the next best thing to gold.''\n*'''Civilian 2:''' ''Fucking Athenians want it all for themselves, self-important ''mal\u00e1kas''.''\n(If \"Where's the shipment?\" is chosen.)\n*'''Kassandra:''' ''Do you know where I can find the ship?''\n*'''Civilian 1:''' ''Could be anywhere, knowing Gotarzes!''\n*'''Civilian 2:''' ''I heard the plan was to intercept the shipment near Lestris island, due south of Keos.''\n(If \"Who's Gotarzes?\" is chosen.)\n*'''Kassandra:''' ''Who's this captain you keep mentioning?''\n*'''Civilian 1:''' ''Gotarzes, be thankful you don't know.''\n*'''Civilian 2:''' ''The Parthenon's got more chance of staying afloat than him!''\n(Leave \u2013 \"I know what do.\")\n*'''Kassandra:''' ''Thank you.''\n*'''Civilian 1:''' ''If you find that ''miltos'', be sure to come back and share the wealth!''\n*'''Kassandra:''' ''Of course, my friends!''\nKassandra turned and walked away from the laughing men.\n*'''Kassandra:''' Mal\u00e1kes.\nKassandra returned to the ''Adrestia'' and set sail for Lestris.\n*'''Kassandra:''' ''If I can find this shipment of ''miltos''... It's easy money.''\nOn arriving at Lestris, she found the shipwreck in the nearby Wailing Cavern.\n*'''Kassandra:''' ''There's a shipwreck, and there's the ''miltos.\nKassandra dove underwater and recovered the ''miltos'' from the chests beneath the waves.\n{{!}}-{{!}}\nI'll be going.=\n*'''Kassandra:''' ''Sounds like a tale for another day. I'll be seeing you.''\n*'''Civilian 2:''' ''Not if we see you first!''\n*'''Civilian 1:''' ''Ha, good one!''\nKassandra tiredly pinched her nose at their simple humor. She left, only to change her mind and return later.\n*'''Civilian 2:''' ''You again. Thought you'd be sick of ports, or are you looking for work?''\n*'''Kassandra:''' ''Just wanted to ask about that shipment.''\n*'''Civilian 2:''' ''Oh yeah?''\n(Return to previous dialogue choice.)\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra found and recovered the shipment of ''miltos''.",
+    "Section_Behind_the_scenes": "Scanning the pair with [[Ikaros]] reveals the labels of the bigger civilian as \"Brute\" and his partner as \"Wharf Rat\".\n\nThe Brute incorrectly uses the singular ''mal\u00e1kas'' when referring to a group of Athenians instead the plural conjugation of ''mal\u00e1kes''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:\u00c9pave rougie]]",
+    "Chapter_SequenceID": "9.",
+    "Chapter_Name": "Pirate Hospitality",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in Keos, Kassandra overheard two men talking near the port.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian 1:''' ''Can you fucking believe it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian 2:''' ''Thought she'd know better by now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Civilian 1:''' ''Well, you know why. Shame though, all that cargo out there on the [[Aegean Sea|ocean]]...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Civilian 2:''' ''More like under, knowing [[Gotarzes]]!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "The two men laughed. Intrigued, Kassandra approached the men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Civilian 1:''' ''I mean how hard is it to take a [[merchant]] [[ship]] and get to [[Thera]] and back?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Civilian 2:''' ''Still, [[Xenia]] could've used that ''miltos''. The [[drachma]]e would have been helpful in her fight against...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "The men noticed Kassandra and shut up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Civilian 1:''' ''Something we can help you with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Yeah, you were talking about a shipment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Civilian 2:''' ''We weren't saying nothing... Nothing that concerns you, anyway.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|Spit it out.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''You were, and I want to know more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Civilian 1:''' ''Yeah, don't really care what you want.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "17",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "18",
+            "content": "You'd better tell me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''You'd better tell me about that ''miltos'' shipment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Civilian 1:''' ''Don't have to tell you shit.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Civilian 2:''' ''Don't even try it. We're under Xenia's protection here, like everyone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Civilian 1:''' ''Go on, get out of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "23",
+            "content": "Kassandra left, only to change her mind and return later to try talking to them again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Civilian 2:''' ''Told you, nothing more to say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Civilian 1:''' ''You want that shipment? Lot of water between here and Thera, better get to it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "26",
+            "content": "Kassandra returned to the ''Adrestia''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''If it's worth money, I'll find it. They said the ship was on its way to Thera.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "28",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "29",
+            "content": "Sorry, just inquisitive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Apologies, I... I've been at sea, and my curiosity got the better of me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Civilian 1:''' ''Huh, no worry about manners here. Cause trouble, though, and you'll answer to Xenia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Civilian 2:''' ''Yeah, we've both been to sea. Boring as fuck, and no one minded their manners on any of the vessels I sailed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "33",
+            "content": "The two men laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "34",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "35",
+            "content": "I want to find this shipment.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I'd like to find this ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Civilian 2:''' ''Well, I'll help you if you can. Then you can bring us a story.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "38",
+            "content": "(If \"What was the cargo?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''What's ''miltos'', anyway?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Civilian 1:''' Miltos'', the next best thing to [[gold]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Civilian 2:''' ''Fucking [[Athens|Athenians]] want it all for themselves, self-important ''mal\u00e1kas''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "42",
+            "content": "(If \"Where's the shipment?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Do you know where I can find the ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Civilian 1:''' ''Could be anywhere, knowing Gotarzes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Civilian 2:''' ''I heard the plan was to intercept the shipment near [[Lestris]] island, due south of Keos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "46",
+            "content": "(If \"Who's Gotarzes?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Who's this captain you keep mentioning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "48",
+            "content": "*'''Civilian 1:''' ''Gotarzes, be thankful you don't know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "49",
+            "content": "*'''Civilian 2:''' ''The [[Parthenon]]'s got more chance of staying afloat than him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "50",
+            "content": "(Leave \u2013 \"I know what do.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "52",
+            "content": "*'''Civilian 1:''' ''If you find that ''miltos'', be sure to come back and share the wealth!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Of course, my friends!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "54",
+            "content": "Kassandra turned and walked away from the laughing men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Mal\u00e1kes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "56",
+            "content": "Kassandra returned to the ''Adrestia'' and set sail for Lestris.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''If I can find this shipment of ''miltos''... It's easy money.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "58",
+            "content": "On arriving at Lestris, she found the [[shipwreck]] in the nearby [[Wailing Cavern]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''There's a shipwreck, and there's the ''miltos.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "60",
+            "content": "Kassandra dove underwater and recovered the ''miltos'' from the [[Treasure chest|chests]] beneath the waves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "61",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "62",
+            "content": "I'll be going.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Sounds like a tale for another day. I'll be seeing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "64",
+            "content": "*'''Civilian 2:''' ''Not if we see you first!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "65",
+            "content": "*'''Civilian 1:''' ''Ha, good one!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "66",
+            "content": "Kassandra tiredly pinched her nose at their simple humor. She left, only to change her mind and return later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "67",
+            "content": "*'''Civilian 2:''' ''You again. Thought you'd be sick of ports, or are you looking for work?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Just wanted to ask about that shipment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "69",
+            "content": "*'''Civilian 2:''' ''Oh yeah?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "70",
+            "content": "(Return to previous dialogue choice.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "71",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "72",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "73",
+            "content": "|-|I like a good story.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I'm always open to a good tale, especially if it ends in misfortune.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "75",
+            "content": "*'''Civilian 1:''' ''Ha, the ones with Gotarzes always do. He's the worst captain on Keos!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "76",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "77",
+            "content": "I want to find this shipment.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''I'd like to find this ship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "79",
+            "content": "*'''Civilian 2:''' ''Well, I'll help you if you can. Then you can bring us a story.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "80",
+            "content": "(If \"What was the cargo?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D49",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''What's ''miltos'', anyway?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "82",
+            "content": "*'''Civilian 1:''' Miltos'', the next best thing to gold.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "83",
+            "content": "*'''Civilian 2:''' ''Fucking Athenians want it all for themselves, self-important ''mal\u00e1kas''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "84",
+            "content": "(If \"Where's the shipment?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D52",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Do you know where I can find the ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "86",
+            "content": "*'''Civilian 1:''' ''Could be anywhere, knowing Gotarzes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "87",
+            "content": "*'''Civilian 2:''' ''I heard the plan was to intercept the shipment near Lestris island, due south of Keos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "88",
+            "content": "(If \"Who's Gotarzes?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D55",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''Who's this captain you keep mentioning?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "90",
+            "content": "*'''Civilian 1:''' ''Gotarzes, be thankful you don't know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "91",
+            "content": "*'''Civilian 2:''' ''The Parthenon's got more chance of staying afloat than him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "92",
+            "content": "(Leave \u2013 \"I know what do.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "94",
+            "content": "*'''Civilian 1:''' ''If you find that ''miltos'', be sure to come back and share the wealth!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Of course, my friends!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "96",
+            "content": "Kassandra turned and walked away from the laughing men.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' Mal\u00e1kes.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "98",
+            "content": "Kassandra returned to the ''Adrestia'' and set sail for Lestris.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''If I can find this shipment of ''miltos''... It's easy money.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "100",
+            "content": "On arriving at Lestris, she found the shipwreck in the nearby Wailing Cavern.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D63",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''There's a shipwreck, and there's the ''miltos.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "102",
+            "content": "Kassandra dove underwater and recovered the ''miltos'' from the chests beneath the waves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "103",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "104",
+            "content": "I'll be going.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''Sounds like a tale for another day. I'll be seeing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "106",
+            "content": "*'''Civilian 2:''' ''Not if we see you first!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "107",
+            "content": "*'''Civilian 1:''' ''Ha, good one!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "108",
+            "content": "Kassandra tiredly pinched her nose at their simple humor. She left, only to change her mind and return later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D67",
+            "global_id": "109",
+            "content": "*'''Civilian 2:''' ''You again. Thought you'd be sick of ports, or are you looking for work?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''Just wanted to ask about that shipment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "111",
+            "content": "*'''Civilian 2:''' ''Oh yeah?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "112",
+            "content": "(Return to previous dialogue choice.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "113",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE1",
+            "global_id": "114",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

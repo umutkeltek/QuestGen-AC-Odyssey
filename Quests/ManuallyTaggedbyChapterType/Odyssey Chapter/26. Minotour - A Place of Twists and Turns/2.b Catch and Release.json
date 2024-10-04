@@ -1,0 +1,39 @@
+{
+    "QuestName": "Catch and Release",
+    "QuestID": "224083",
+    "Revision": {
+        "id": "1012113",
+        "parentid": "965409",
+        "timestamp": "2022-10-26T21:47:22Z",
+        "contributor": null,
+        "comment": "+fr",
+        "origin": "1012113",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "bpk3umb7s4iu9js2se3dc6wf170kcui"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Catch and Release",
+        "image": "ACOd-C&R-reunited.jpg",
+        "description": "'Fearing her husband had been lost to Piracy|pirates, a woman hired Kassandra to find him.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Heraklion, Messara, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Catch and Release''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "The forlorn cries of a fisherman's wife drew the attention of Kassandra in [[Heraklion]], and she agreed to help her.",
+    "Section_Dialogue": "While near the [[Fisherman's Beachhead]] in Heraklion, Kassandra heard a woman in distress.\n*'''Civilian:''' ''Help! Somebody help me!''\nShe spoke to the woman.\n*'''Kassandra:''' ''What's the problem?''\n*'''Civilian:''' ''My husband is missing. He went out fishing yesterday near [[Anaphi]] and hasn't returned.''\n<tabber>\n|-|He deserves his fate.=\n*'''Kassandra:''' ''Your husband is a poor fisherman if he can't take care of himself at [[Aegean Sea|sea]].''\n*'''Civilian:''' ''He's a great fisherman. It's... it's something else -''\n*'''Kassandra:''' ''What?''\n|-|You're right to worry.=\n*'''Kassandra:''' ''You must miss him.''\n*'''Civilian:''' ''This is more than a wife missing her husband. I truly fear he's in danger.''\n*'''Kassandra:''' ''In danger of what?''\n</tabber>\n*'''Civilian:''' ''[[Piracy|Pirates]]. They were spotted in the area recently. I told him it was too dangerous, but we needed the [[drachma]]e to pay [[Swordfish]].''\n(Swordfish alive only - If players asked \"Who is Swordfish?\")\n*'''Kassandra:''' ''Tell me about Swordfish.''\n*'''Civilian:''' ''My husband knows more about him than I do. Please save him, and he'll tell you anything!''\n(If players asked \"How could your husband survive?\")\n*'''Kassandra:''' ''If pirates got to him, he may already be dead.''\n*'''Civilian:''' ''I can't give up hope. He has a fast ship - if he saw the pirates, he'd head to the nearest shore.''\n(If players chose \"Sounds like you need help.)\n*'''Kassandra:''' ''I could rescue your husband, for a price.''\n*'''Civilian:''' ''Please! I'll find a way to pay. Just get him back.''\n(Accept - \"I'll help you.\")\n*'''Kassandra:''' ''I'll look for your husband. Where should I start?''\n*'''Civilian:''' ''His favorite fishing spot is on the west coast of Anaphi, north of here.''\n*'''Kassandra:''' ''If he's alive, I'll find him.''\n\nKassandra boarded the ''[[Adrestia]]'' and sailed north towards Anaphi. She spotted the [[Anaphi Shipwreck|wreckage]] of the fisherman's vessel off the western coast, and [[Ikaros]] helped her find the man.\n*'''Kassandra:''' ''There he is!''\nHe and his fellows were beset by pirates. Kassandra leapt into the fray and managed to save him from the pirates.\n*'''Kassandra:''' ''Your wife sent me to find you.''\n*'''Civilian:''' ''Praise [[Poseidon]]. The pirates were waiting for high tide to attack.''\n*'''Kassandra:''' ''We need to leave now. I'll escort you back to Heraklion.''\n*'''Civilian:''' ''I'm right behind you.''\n\nKassandra escorted him back to Fisherman's Beachhead and spoke to the reunited couple.\n*'''Civilian:''' ''I owe you beyond measure.<br>How can I repay you?''\n<tabber>\n|-|With lots of drachmae.=\n*'''Kassandra:''' ''My services are expensive.''\n*'''Civilian:''' ''I - of course. You're worth every drachma. There would be more, but Swordfish already took his cut.''\n|-|No reward necessary.=\n*'''Kassandra:''' ''There's enough widows in this world - we didn't need another. I was happy to help.''\n*'''Civilian:''' ''We're behind on our payments to Swordfish, so your kindness is appreciated. But here, take this.''\n</tabber>\n(Swordfish dead)\n*'''Kassandra:''' ''Swordfish? You don't need to worry about him anymore. He's dead.''\n*'''Civilian:''' ''Dead?''\n*'''Civilian:''' ''He may be gone, but there will always be someone who takes advantage of the honest and the weak.''\n*'''Civilian:''' ''Still... Thank you, ''misthios.\n\n(Swordfish under investigation)<br>\nKassandra inquired about Swordfish.\n*'''Kassandra:''' ''Tell me about Swordfish.''\n*'''Civilian:''' ''Swordfish... even his name -<br>I last saw him many years ago, diving for treasure around [[Fisherman's Beacon]]. I haven't seen him since.<br>But his presence is felt everywhere in Heraklion. He's here, somewhere.''\nKassandra took her leave, noting where to find Swordfish.\n*'''Kassandra:''' ''I should check out the waters near the beacon.''",
+    "Section_Outcome": "Kassandra rescued the wayward fisherman and returned him home safely.",
+    "Section_Trivia": "*The hero makes a closing comment to check out the waters near the beacon, which is part of the investigation into Swordfish, even if the investigation is not active at the time this quest is completed.  It does not trigger if Swordfish is already dead, however.\n*Even if the quest is completed prior to activating [[Blood in the Water (Odyssey)|Blood in the Water]], it will automatically increment that quest's investigation bar by one third.  Completing the investigation bar is ultimately not required to locate Swordfish and complete that quest.\n*Although the quest objective states the fisherman is on the player's ship, he is not actually loaded as a passenger. In fact, his actor is immediately moved back to his wife's location, and thus the player needs only fast travel back to complete the quest.\n*The quest rewards the [[Swordfish Spear]] and the same amount of XP regardless of choice, with the \"Lots of drachmae\" option yielding significantly more money than the alternative.\n*Viewing the fisherman with Ikaros during this mission shows he has a unique rare avatar, but he cannot be recruited as a lieutenant for the Adrestia, as no damage is dealt to him if Kassandra attempts to attack him.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOd-C&R-fishermanswifeKass.jpg|Kassandra approaching the fisherman's wife\nACOd-C&R-Piratefight.jpg|The pirates fighting the fisherman and his men\nACOd-C&R-Kasshelp.jpg|Kassandra helping with the pirates\nACOd-C&R-Fisherman.jpg|The fisherman\nACOd-C&R-after.jpg|The couple afterwards\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Prise et reprise]]"
+}

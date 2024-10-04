@@ -1,0 +1,36 @@
+{
+    "QuestName": "The Wise Warrior",
+    "QuestID": "223682",
+    "Revision": {
+        "id": "884372",
+        "parentid": "829802",
+        "timestamp": "2020-07-11T18:40:54Z",
+        "contributor": null,
+        "comment": "/* Dialogue */ Cleanup",
+        "origin": "884372",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "dhshxdvqsb03l4esolmx406qu9m7few"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Wise Warrior.png",
+        "description": "'Long underestimated by his peers, General Demosthenes wished to prove his mettle in the blood of Spartan Polemarchs.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Demosthenes}}",
+        "previous": "Creating Opportunity",
+        "next": "In the Midst of Chaos",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Wise Warrior''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While in [[Athens]], Kassandra met General [[Demosthenes]], who hoped Kassandra would help him ensure Athens would be victorious in the [[Peloponnesian War|war]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''I'll get you your seals.''\n*'''Demosthenes:''' ''The sooner the better.''\n(If \"What do you really think of Spartans?\" is chosen.)\n*'''Kassandra:''' ''What do you think of the [[Sparta]]ns?''\n*'''Demosthenes:''' ''If you were to ask General [[Neon]] that, he'd tell you they were mindless brutes. That's half true. They have a base sort of cunning. It shouldn't be enough to withstand Athenian might. Assuming the other generals make intelligent decisions instead of stalling.''\n*'''Kassandra:''' ''You do know I'm of Spartan birth?''\n*'''Demosthenes:''' ''You're more skilled than the average Spartan. In time, you might even manage Athenian citizenship.''\n*'''Kassandra:''' ''The true pinnacle of success.''\n*'''Demosthenes:''' ''Of course. I wish I had more say over our naval forces. What I could do to the Spartans then...''\n(If \"How long have you been a general?\" is chosen.)\n*'''Kassandra:''' ''Have you held this command for long?''\n*'''Demosthenes:''' ''I've been a general in the army for a long time. I made some mistakes in my early days, but I more than made up for them after. Still, everyone attributes my victories to luck. Never to my own decisions.''\n*'''Kassandra:''' ''I see how that could be frustrating.''\n*'''Demosthenes:''' ''Other men take credit for my victories. Cautious men who cause needless deaths by overlooking opportunities. You know what happens to a General who loses his reputation? Who gets blamed for the loss of Athenian lives?''\n*'''Kassandra:''' ''Nothing good.''\n*'''Demosthenes:''' ''He dies. So I will do everything to preserve Athenian lives. Maybe one day, I'll even get credit for my accomplishments.''\n(If \"Why do you need the seals?\" is chosen.)\n*'''Kassandra:''' ''Why do you need these seals?''\n*'''Demosthenes:''' ''I need those seals to shove in the faces of the assembled generals, to get them to wake up. While they've been debating and stalling, I've been winning the war.''\n(\"Leave \u2013 I have what I need.\")\n*'''Kassandra:''' ''I know what I have to do.''\n(If the seals have already been acquired.)\n*'''Kassandra:''' ''Actually, I already have them. I may have killed a few more Spartan commanders than you'd mentioned.''\n*'''Demosthenes:''' ''An overachiever. Maybe you are as good as they say. Would you be interested in more work?''\nKassandra returned to the general after finishing her task.\n*'''Demosthenes:''' ''Do you have the seals for me?''\n*'''Kassandra:''' ''I do.''\n*'''Demosthenes:''' ''More seals, and more proof what we're doing is working. Thankfully, there are at least some people in power willing to listen to me.''\n*'''Kassandra:''' ''I'll leave the politics to you.''\n*'''Demosthenes:''' ''As it should be. And I have more work for you, assuming you're up for it.''\n<tabber>\n|-|I'm interested.=\n*'''Kassandra:''' ''I'm always interested in more work.''\n|-|Not now.=\n*'''Kassandra:''' ''I have some other jobs I need to do first.''\nKassandra returns.\n(Dialogue returns to ''\"Do you have the seals for me?\"'' then back to dialogue choice one.)\n</tabber>\n*'''Demosthenes:''' ''I was worried about employing a [[mercenary]], but you've been a pleasant surprise.''\n*'''Kassandra:''' ''Yes. That's what they all call me. A pleasant surprise.''\n*'''Demosthenes:''' ''I suspect if they call you anything offensive, they don't live long.''\n*'''Kassandra:''' ''I couldn't say.''\n*'''Demosthenes:''' ''At least I have you working with me, instead of getting in my way.''\n*'''Kassandra:''' ''Other generals giving you trouble?''\n*'''Demosthenes:''' ''They refuse to acknowledge I know what I'm doing. But it doesn't matter. I'll get the job done, and eventually all of Athens will know it. Are you ready for more work?''\n<tabber>\n|-|Yes. I'll get your seals.=\n(Dialogue continues to start the next quest.)\n|-|Maybe another time.=\n*'''Kassandra:''' ''Not now. Maybe later.''\nKassandra returns.\n*'''Demosthenes:''' ''Are you ready to work with me yet?''\n(Back to dialogue choice one.)\n</tabber>",
+    "Section_Outcome": "Kassandra acquired 3 polemarch seals. In return, he gave her his [[Demosthenes' Greaves|greaves]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

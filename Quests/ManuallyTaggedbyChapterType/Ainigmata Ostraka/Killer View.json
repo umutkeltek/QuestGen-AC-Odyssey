@@ -1,0 +1,41 @@
+{
+    "QuestName": "Killer View",
+    "QuestID": "222788",
+    "Revision": {
+        "id": "1050128",
+        "parentid": "998999",
+        "timestamp": "2023-06-22T05:30:19Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1050128",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "mzff4dmyqavz3pqpo6iwkb874a7fxea"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Goat's Gruff",
+        "next": "Backstage Pass",
+        "source": "Kassandra",
+        "location": "Mt. Pentelikos Marble Quarry, Attika",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Killer View'''\u00a0was a virtual representation of one of\u00a0[[Kassandra]]'s\u00a0genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found the riddle at the [[Mt. Pentelikos Marble Quarry]].",
+    "Section_Riddle": "''Trying to get the best view of the [[Akropolis Sanctuary|Akropolis]]? Some think it's better from the [[Temple of Hephaestus|Temple of Hephaistos]], but if you head south from there, you can find me at an [[Areopagus|altar of offerings]] between two columns framing the view perfectly.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

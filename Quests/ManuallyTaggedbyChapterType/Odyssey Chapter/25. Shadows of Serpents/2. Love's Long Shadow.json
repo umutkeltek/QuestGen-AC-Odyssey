@@ -1,0 +1,39 @@
+{
+    "QuestName": "Love's Long Shadow",
+    "QuestID": "225068",
+    "Revision": {
+        "id": "1047162",
+        "parentid": "931410",
+        "timestamp": "2023-06-13T02:26:04Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047162",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "do1ufzjf6lg5ovy797814rutaez2qpf"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Having saved a panic-stricken Bryce from an angry mob, Kassandra unknowingly became part of a tragic tale involving two star-crossed lovers...'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Romancing the Stone Garden",
+        "next": "A Slithery Plea",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Love's Long Shadow''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Bryce]] after defeating the mob who threatened to kill her.",
+    "Section_Dialogue": "Outside the [[Dread Ruins]], Kassandra spoke with Bryce, who reminisced on her use for them.\n*'''Bryce:''' ''This place was ours\u2014Ligeia's and mine. A forbidden place for forbidden love.''\nKassandra commented wryly on the building's dilapidation.\n*'''Kassandra:''' ''Not much of a love nest. I've seen more romantic funerals.''\n*'''Bryce:''' ''I found scraps of her clothes leading to the Writhing Dread's lair. Please, we need to hurry.''\n(Accept \u2013 \"Let's go.\")\n*'''Kassandra:''' ''Time to find Ligeia. You lead the way.''\nKassandra followed Bryce into the valley, where the trees were twisted unnaturally and orange, luminescent ore shone through the thick fog.\n*'''Kassandra:''' ''What happened to these trees? I shouldn't be here.''\nThey made their way further into the valley.\n*'''Kassandra:''' ''...What is this place? It's empty of life.''\n*'''Bryce:''' ''We enter the realm of the Writhing Dread. Listen... It's as if sound itself is afraid of what the fog veils.''\n*'''Kassandra:''' ''It's getting hard to breathe. Even the air is... ''dead.\nKassandra noticed several statues of soldiers, life-sized with fearful expressions.\n*'''Kassandra:''' ''These statues are unnervingly lifelike... and their faces are contorted in fear.''\n*'''Bryce:''' ''It destroys all living things, transforming them to stone and leaving them frozen in fear for all eternity.''\nThe trench opened into a small bog with a ruined stonework.\n*'''Bryce:''' ''If Ligeia\u2014if she's... if she's stone, how will we bury her? She'll never meet [[Charon]].''\nIn the distance, a woman's howl rang out through the fog.\n*'''Bryce:''' ''Ligeia? LIGEIA!''\nBryce sprinted in the direction of the howl.\n*'''Kassandra:''' ''Bryce! Wait\u2014''\n*'''Kassandra:''' Mal\u00e1ka''... better go after her.''\nBefore following her, Kassandra noticed a rag on a nearby stone. It matched the garb of the [[Daughters of Artemis]].\n*'''Kassandra:''' ''A scrap of clothing\u2014my guess Ligeia's. Whatever tore it from her was savage...''\nBefore long, they had both reached the steps of the [[Petrified Temple]]. It loomed menacingly with sleek architecture not of the Greek world's making. At the sealed entrance, they heard the howl once more.\n*'''Bryce:''' ''Ligeia! That's her! Kassandra, she's alive.''\n<tabber>\n|-|(Accept \u2013 \"We need to get inside.\")=\n*'''Kassandra:''' ''We need to get inside, but I see no openings... and the walls are too smooth to climb.''\n*'''Bryce:''' ''She shouldn't be in there. She should be in my arms. Her breath, her smell...''\n|-|Wait.=\n*'''Kassandra:''' ''That scream came from someone in mortal danger. By now - if that was Ligeia, she's beyond my help. I wouldn't hold out much hope for her.'' Chaire.\nKassandra walked away.\n*'''Bryce:''' ''Mal\u00e1kas misthios! You know nothing of love or hope. I will be with Ligeia again, in life or in death!''\n(If players return to her.)\n*'''Bryce:''' ''Ligeia's still trapped and - I-I need your help.''\n(Back to the first choice)\n</tabber>\n\nBryce reminisced.\n*'''Bryce:''' ''Every night we'd meet at the Dread Ruins. I was late, just once. I wanted to find her a rose\u2014something as perfect as she is.''\nShe looked down, blaming herself.\n*'''Bryce:''' ''This is my fault. If I'd gotten there in time\u2014''\n\n<tabber>\n|-|It's your fault.=\n*'''Kassandra:''' ''This ''is'' your fault\u2014what were you thinking meeting in a cursed valley full of fog?''\n*'''Bryce:''' ''We didn't believe the stories\u2014''\n*'''Kassandra:''' ''You invited death. And when it answered, Ligeia faced it alone.''\n*'''Bryce:''' ''But I will make it right.''\n|-|It's not your fault.=\n*'''Kassandra:''' ''Then you'd ''both'' be trapped inside.''\n*'''Bryce:''' ''Together.''\n*'''Kassandra:''' ''You were searching for a rose, a gift. Never regret an act of kindness, Bryce.''\n*'''Bryce:''' ''Thank you.''\nKassandra nodded and turned her head back to the door.\n</tabber>\n*'''Kassandra:''' ''What do you know about this place?''\n*'''Bryce:''' ''Ligeia's a Daughter of Artemis. Her people trained here long ago. A legend tells of an [[Gorgon Disk|ancient artifact]] they recovered in a pit full of snakes. She believed they still had it, hidden in their [[Huntress Village|village]] on [[Chios]].''\n*'''Kassandra:''' ''I'll find it.''\n*'''Bryce:''' ''There's also a [[Zetes the Retired|mercenary]], a man who claims he killed the Creature\u2014''\n*'''Kassandra:''' ''Impossible.''\n*'''Bryce:''' ''But many believe him\u2014he might know something.''\n(If players asked \"Where exactly is the key?\")\n*'''Kassandra:''' ''You said Ligeia knew how to get into the lair\u2014where exactly is the key?''\n*'''Bryce:''' ''The Daughters of Artemis hide their most prized possessions in a cave in their village. It's protected by wild beasts and fierce warriors. The key is shaped like a disk. If they have it, it'll be there.''\n(If players asked \"Where can I find this mercenary?\")\n*'''Kassandra:''' ''This mercenary, the \"Slayer of the Writhing Dread,\" where can I find him?''\n*'''Bryce:''' ''He waits in a temple atop the hill in [[Ancient Pearl]]. Champions from all over seek to challenge him to build their reputations, but there's no way he killed the Creature. If he did, how was Ligeia taken?''\n*'''Kassandra:''' ''Did you see the Creature yourself?''\n*'''Bryce:''' ''No, but only the Writhing Dread would be strong enough to take Ligeia! She's too fierce. ...And too stubborn.''\n(Leave \u2013 \"I'll be back.\")\n*'''Kassandra:''' ''I'll find a way inside, and then I'll kill this Creature.''\n*'''Bryce:''' ''And I'll find Ligeia the rose I should have given her that night.''\nBryce turned towards the steps and recited the work of [[Sappho]].\n*'''Bryce:''' \"Someone, I tell you, in another time will remember us.\"\n*'''Kassandra:''' ''The poet Sappho.''\n*'''Bryce:''' ''Our favorite. Please, Kassandra. Hurry.''\nKassandra took her leave and pondered where she should go.\n*'''Kassandra:''' ''The region of the Ancient Pearl.''",
+    "Section_Outcome": "Kassandra escorted Bryce to the Petrified Temple, then departed to investigate a means to enter and slay the Writhing Dread.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:L'ombre infinie de l'amour]]"
+}

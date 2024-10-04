@@ -1,0 +1,212 @@
+{
+    "Quest_Name": "Ares Isn't Known for Forgiveness",
+    "Quest_ID": "236797",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Ares Isn't Known for Forgiveness",
+        "description": "'The shrines of the Followers of Ares|Followers of Ares were convenient targets for mercenary jobs, although few dared to attack them.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Ares Isn't Known for Forgiveness''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "A [[mercenary]] sought the help of another. Kassandra answered.",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra saw a contract from another mercenary on a [[message board]].\n\n:'''Note:'''<br>''Mercenary seeking backup against the [[Followers of Ares|Followers]] of [[Ares]].''\n\nKassandra accepted the contact and left to find the mercenary, who had pitched camp just outside the city. Kassandra walked up and talked to the woman.\n\n*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Woman:''' ''I'll take almost any job, and gods know I'll fight most men... but these Followers. I don't like the idea of them cursing me from their foul shrine. This contract may not be for me.''\n*'''Kassandra:''' ''You want me to destroy the shrine?''\n*'''Woman:''' ''Exactly. Nothing should be left of it.''\n\n(Accept \u2013 \"I'll destroy it.\")\n\n*'''Kassandra:''' ''I'll help you.''\n*'''Woman:''' ''You've saved me, mercenary.''\n*'''Kassandra:''' ''Leave it to me.''\n\nKassandra left the mercenary and went in search of the site where the Followers of Ares conducted their bloody rituals. She soon found the it some ways into the wilderness and infiltrated it. After eliminating all of the Followers present, she destroyed the shrine and returned to the mercenary.\n\n*'''Woman:''' ''You again. Has it been destroyed,'' misthios''?''\n*'''Kassandra:''' ''It's been smashed to pieces, just like you asked.''\n*'''Woman:''' ''Then I believe this is yours. You have my thanks, friend.''\n<tabber>\n|-|You should join my crew.=\n*'''Kassandra:''' ''I have a good [[Adrestia|crew]], but we're missing someone with your talents. I want you on board with us. What do you say?''\n*'''Woman:''' ''Adventuring with you? I'm in.''\nKassandra recruited the mercenary to the ''Adrestia''{{'}}s crew.\n|-|Thank you=\n*'''Kassandra:''' ''Happy to help.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped her fellow mercenary.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While traveling across [[Greece]], Kassandra saw a contract from another mercenary on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": ":'''Note:'''<br>''Mercenary seeking backup against the [[Followers of Ares|Followers]] of [[Ares]].''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra accepted the contact and left to find the mercenary, who had pitched camp just outside the city. Kassandra walked up and talked to the woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "8",
+            "content": "*'''Woman:''' ''I'll take almost any job, and gods know I'll fight most men... but these Followers. I don't like the idea of them cursing me from their foul shrine. This contract may not be for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''You want me to destroy the shrine?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Woman:''' ''Exactly. Nothing should be left of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Accept \u2013 \"I'll destroy it.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U5",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D5",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'll help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''You've saved me, mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "17",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "Kassandra left the mercenary and went in search of the site where the Followers of Ares conducted their bloody rituals. She soon found the it some ways into the wilderness and infiltrated it. After eliminating all of the Followers present, she destroyed the shrine and returned to the mercenary.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D8",
+            "global_id": "20",
+            "content": "*'''Woman:''' ''You again. Has it been destroyed,'' misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''It's been smashed to pieces, just like you asked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Woman:''' ''Then I believe this is yours. You have my thanks, friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "23",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "24",
+            "content": "|-|You should join my crew.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I have a good [[Adrestia|crew]], but we're missing someone with your talents. I want you on board with us. What do you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "26",
+            "content": "*'''Woman:''' ''Adventuring with you? I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "Kassandra recruited the mercenary to the ''Adrestia''{{'}}s crew.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "28",
+            "content": "|-|Thank you=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

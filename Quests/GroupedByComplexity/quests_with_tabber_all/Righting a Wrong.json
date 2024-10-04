@@ -1,0 +1,399 @@
+{
+    "Quest_Name": "Righting a Wrong",
+    "Quest_ID": "231681",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Discovering that Eagle Bearer (imposter)|someone impersonating her had sent Piracy|pirates sailing to Alponos's shores, Kassandra committed to stopping them and undoing the damage this other \"Eagle Bearer\" had caused.'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Main",
+        "next": "A Town in Need, Indeed",
+        "source": "Kassandra",
+        "location": "Alponos, Lokris, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Righting a Wrong''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Megakles]] to discover [[Eagle Bearer (imposter)|someone]] has been using her name to scam people.",
+    "Section_Dialogue": "Kassandra reached a beacon on the cape jutting out from [[Alponos]] and heard a general shout out to her.\n\n*'''Megakles:''' ''You there! Come here.''\n\nShe approached the general and heard what he had to say.\n\n*'''Kassandra:''' ''What is it?''\n*'''Megakles:''' ''Some ''merc'' calling himself \"The [[Eagle]] Bearer\" came to Alponos offering to help out. Nice kid, and I've heard his name before. I thought to myself, \"Megakles, that's [[drachma]]e well spent.\"''\n<tabber>\n|-|''I'm'' the Eagle Bearer.=\n*'''Kassandra:''' ''Whoever came to Alponos lied to you. ''I'm'' the only Eagle Bearer.''\n*'''Megakles:''' ''You? Impossible.''\n*'''Kassandra:''' ''Well, I have [[Ikaros|an eagle]]. Also, I'm not a man.''\n|-|Tell me who impersonated me.=\n*'''Kassandra:''' ''I don't know who's been using my name, but you're going to tell me ''everything'' you know.''\n*'''Megakles:''' ''What is there to tell? He came in, had some little [[Chikaros|bird]] with him. You know how legends go. One day he gets a bird, next he's called the Child of [[Jupiter|Zeus]].''\n*'''Kassandra:''' She''. And I do have an eagle.''\n</tabber>\n\n*'''Megakles:''' ''I see that now, don't I? But I paid this other Eagle Bearer a small fortune to get the [[Civilian|villagers]] ready for a [[Piracy|pirate]] invasion.''\n*'''Kassandra:''' ''By the look on your face, I'm guessing that didn't work out.''\n*'''Megakles:''' ''It didn't. Then I sent him to bargain peace, but he botched that, too. The pirates are coming, and we don't stand a chance.''\n*'''Kassandra:''' ''Next time, hire the real Eagle Bearer. But I'm listening. Does the village of Alponos have a militia?''\n*'''Megakles:''' ''Not enough. But if you get out there and stop the pirates before they land, I'll give you all that's left in the treasury.''\n\n(Accept \u2013 \"I'll fix this pirate problem.\")\n\n*'''Kassandra:''' ''I'll stop the pirates from reaching your shore. Then you're going to help me find this \"Eagle Bearer\" impostor.''\n*'''Megakles:''' ''I'll help you kill him myself.''\n\n(If \"Where are the pirate [[ship]]s?\" is chosen.)\n\n*'''Kassandra:''' ''Where are the pirates sailing from?''\n*'''Megakles:''' ''We saw the pirate fleet forming north of here.''\n\n(If \"How many pirates are there?\" is chosen.)\n\n*'''Kassandra:''' ''How big is their fleet?''\n*'''Megakles:''' ''Just two ships, but they may have hundreds aboard. They make it to us, we're dead.''\n\n(If \"When did the \"Eagle Bearer\" get here?\" is chosen.)\n\n*'''Kassandra:''' ''I'm going to find the one using my name. When did you last see him?''\n*'''Megakles:''' ''He came in with the last [[merchant]] ships... But I haven't seen him in days. He won't be easy to find, but if you sink the pirates, I'll track him down.''\n\n(Leave \u2013 \"I'll set sail.\")\n\n*'''Kassandra:''' ''Time to show the pirates what the real Eagle Bearer can do.''\n\nKassandra took the ''[[Adrestia]]'' out of port and sailed north outside [[Pandora]]'s [[Pandora's Cove|Cove]], where she spied two ships flying pirate colors.  She engaged the first one and sank it, shouting with glee.\n\n*'''Kassandra:''' ''Hope you can swim, pirate scum! That's how the ''real'' Eagle Bearer deals with pirates!''\n\nThe ''Adrestia'' sank the second one.\n\n*'''Kassandra:''' ''That's the last one, crew! Let's go get paid.''\n\nKassandra returned to Alponos to collect her pay, but Megakles was instead furious.\n*'''Megakles:''' ''What were you thinking?! We're doomed!''\n\nShe approached him.",
+    "Section_Outcome": "Kassandra sank the pirate ships, only for Megakles to inexplicably berate her upon her return to report on her apparent success.",
+    "Section_Behind_the_scenes": "The pirate ships can spawn in the bay even without the quest being accepted. If sunk beforehand, the protagonist may utter their resultant lines while sailing near the coasts of [[Malis]] and [[Makedonia]]. The objective automatically completes as well, allowing the quest to be handed back in to Megakles immediately after accepting.\n\nIf the player is playing as [[Alexios]], the dialogue in which the protagonist corrects Megakles of the real Eagle Bearer's correct gender is omitted.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "One Really, Really Bad Day",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra reached a beacon on the cape jutting out from [[Alponos]] and heard a general shout out to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Megakles:''' ''You there! Come here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "She approached the general and heard what he had to say.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Megakles:''' ''Some ''merc'' calling himself \"The [[Eagle]] Bearer\" came to Alponos offering to help out. Nice kid, and I've heard his name before. I thought to myself, \"Megakles, that's [[drachma]]e well spent.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|''I'm'' the Eagle Bearer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Whoever came to Alponos lied to you. ''I'm'' the only Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Megakles:''' ''You? Impossible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Well, I have [[Ikaros|an eagle]]. Also, I'm not a man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|Tell me who impersonated me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I don't know who's been using my name, but you're going to tell me ''everything'' you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Megakles:''' ''What is there to tell? He came in, had some little [[Chikaros|bird]] with him. You know how legends go. One day he gets a bird, next he's called the Child of [[Jupiter|Zeus]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' She''. And I do have an eagle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Megakles:''' ''I see that now, don't I? But I paid this other Eagle Bearer a small fortune to get the [[Civilian|villagers]] ready for a [[Piracy|pirate]] invasion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''By the look on your face, I'm guessing that didn't work out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Megakles:''' ''It didn't. Then I sent him to bargain peace, but he botched that, too. The pirates are coming, and we don't stand a chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Next time, hire the real Eagle Bearer. But I'm listening. Does the village of Alponos have a militia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Megakles:''' ''Not enough. But if you get out there and stop the pirates before they land, I'll give you all that's left in the treasury.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "26",
+            "content": "(Accept \u2013 \"I'll fix this pirate problem.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U6",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I'll stop the pirates from reaching your shore. Then you're going to help me find this \"Eagle Bearer\" impostor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Megakles:''' ''I'll help you kill him myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "31",
+            "content": "(If \"Where are the pirate [[ship]]s?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U8",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Where are the pirates sailing from?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Megakles:''' ''We saw the pirate fleet forming north of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "36",
+            "content": "(If \"How many pirates are there?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U10",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''How big is their fleet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "39",
+            "content": "*'''Megakles:''' ''Just two ships, but they may have hundreds aboard. They make it to us, we're dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "41",
+            "content": "(If \"When did the \"Eagle Bearer\" get here?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U12",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I'm going to find the one using my name. When did you last see him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Megakles:''' ''He came in with the last [[merchant]] ships... But I haven't seen him in days. He won't be easy to find, but if you sink the pirates, I'll track him down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "46",
+            "content": "(Leave \u2013 \"I'll set sail.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U14",
+            "global_id": "47",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D23",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Time to show the pirates what the real Eagle Bearer can do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "49",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "50",
+            "content": "Kassandra took the ''[[Adrestia]]'' out of port and sailed north outside [[Pandora]]'s [[Pandora's Cove|Cove]], where she spied two ships flying pirate colors.  She engaged the first one and sank it, shouting with glee.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U16",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D24",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Hope you can swim, pirate scum! That's how the ''real'' Eagle Bearer deals with pirates!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "53",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "54",
+            "content": "The ''Adrestia'' sank the second one.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U18",
+            "global_id": "55",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D25",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''That's the last one, crew! Let's go get paid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "57",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "58",
+            "content": "Kassandra returned to Alponos to collect her pay, but Megakles was instead furious.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "59",
+            "content": "*'''Megakles:''' ''What were you thinking?! We're doomed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U20",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "61",
+            "content": "She approached him.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

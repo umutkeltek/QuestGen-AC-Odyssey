@@ -1,0 +1,610 @@
+{
+    "Quest_Name": "A Friend in Need...",
+    "Quest_ID": "223753",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD A Friend in Need.png",
+        "description": "'Kassandra agreed to help her old comrade Heitor return a Heitor's Harpe|special blade that had seen him through many campaigns. A local 'polemarch' had taken it. She would find him and get the sword.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Heitor}}",
+        "next": "Heitor's Gonna Hate",
+        "source": "Kassandra",
+        "location": "Dekelia, Attika, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''A Friend in Need...''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Heitor]], an old friend of Kassandra, asked her to retrieve his [[Heitor's Harpe|beloved]] [[sword]] from the ''[[polemarch]]'' of the nearby [[fort]].",
+    "Section_Dialogue": "While in [[Dekelia]], Kassandra found Heitor, an old friend from [[Kephallonia]], working a small [[blacksmith]] shop.\n*'''Heitor:''' ''Kassandra? By the [[Greek mythology|gods]], is that you?''\nKassandra approached Heitor and shook hands with him.\n*'''Kassandra:''' ''By the gods! Heitor, is that you? You look... you look old, my friend.''\n*'''Heitor:''' ''When was the last time I saw you? Kephallonia! That job for [[Markos]]. Remember, we ended up back to back, surrounded by angry [[Piracy|pirates]]...''\n<tabber>\n|-|That was your fault.=\n*'''Kassandra:''' ''They were only angry because you double-crossed them. Thank the gods we got out alive.''\n*'''Heitor:''' ''Ah! They should've paid better.''\n|-|Those were the days.=\n*'''Kassandra:''' ''Though as I recall, I had your back.''\n*'''Heitor:''' ''Polish your memories like you would your [[armor]], and they'll make much better tales.''\n</tabber>\n*'''Kassandra:''' ''I'd heard rumors you'd settled down in [[Attika]]. Always thought you'd die with a blade in your hand... not open up a shop.''\n*'''Heitor:''' ''The blade I always thought I'd take with me is missing... I could use your help, if you're willing to assist an old friend?''\n*'''Kassandra:''' ''You mean Harpe? You loved that blade...''\n*'''Heitor:''' ''Some'' mal\u00e1kas ''commander come in here demanding I fix his fucking twig. When I couldn't, he said I was obligated to provide a new one\u2014and the one he wanted was hanging on my wall.''\n*'''Kassandra:''' ''I'll get Harpe back for you.''\n*'''Heitor:''' ''Don't do anything stupid. I just want her back.''\n*'''Kassandra:''' ''Hey! You know me.''\n*'''Heitor:''' ''That's why I'm afraid.''\n(If \"Where can I find the commander?\" was chosen.)\n*'''Kassandra:''' ''Tell me where to find the commander.''\n*'''Heitor:''' ''He's here in Attika, at [[Fort Phyle]].''\n(If \"Why is Harpe so special to you?\" was chosen.)\n*'''Kassandra:''' ''Why go so much trouble for an old sword?''\n*'''Heitor:''' ''She's the only thing I loved that never left.''\n*'''Kassandra:''' ''And how will I know her when I see her?''\n*'''Heitor:''' ''How could you forget a hilt of gold with a curling [[snake|serpent]] moving up the blade? Always sharp no matter what, and when you swung her, well... she'd sing a [[siren]] song of death. Kept me alive through many a scrape.''\n*'''Kassandra:''' ''That I do remember.''\n(Accept \u2013 \"I'll get Harpe.\")\n*'''Kassandra:''' ''I should be going.''\n*'''Heitor:''' ''Remember, we don't want trouble. Just sneak in and take it. You're still good at that, right?''\n*'''Kassandra:''' ''I won't lower myself to answer that.''\nKassandra traveled to Fort Phyle.\n*'''Kassandra:''' ''This must be Fort Phyle. If Heitor's right, I'll find the sword inside.''\nShe infiltrated the fort, overhearing a conversation between a few soldiers.\n*'''Athenian Light Soldier 1:''' ''Did you see that new sword the commander just bought?''\n*'''Athenian Light Soldier 2:''' ''As fine a blade as ever I've seen.''\n*'''Athenian Light Soldier 1:''' ''Got it from the new smith, I heard him say.''\n*'''Athenian Light Soldier 2:''' ''Yeah, the smith didn't make it, though. He can knock a dent out all right, but that sword...''\n*'''Athenian Light Soldier 1:''' ''That's real craftsmanship, that is.''\nSneaking into the tent, she recovered the harpe from a [[Treasure chest|chest]].\n*'''Kassandra:''' ''This is Harpe all right. No mistaking this blade.''\nKassandra returned to Heitor with the sword in hand.\n*'''Heitor:''' ''Glad you're back safely. Did you get my Harpe?''\n<tabber>\n|-|I got your sword.=\n*'''Kassandra:''' ''Yes, I found Harpe.''\n*'''Heitor:''' ''Good, good.''\n*'''Heitor:''' ''And what of that ''mal\u00e1kas'' commander?''\n{{#tag:tabber|\nIf players killed the polemarch=\n*'''Kassandra:''' ''He didn't survive our... encounter.''\n*'''Heitor:''' ''You are a true friend.''\n{{!}}-{{!}}\nIf players did not kill the polemarch=\n*'''Kassandra:''' ''And what of him?''\n*'''Heitor:''' ''Oh, no matter\u2014you have my sword. That's what's important.''\n}}\n{{#tag:tabber|\nFess up.=\n*'''Kassandra:''' ''I have a feeling there's more to the story of Harpe's disappearance than you're letting on...''\n*'''Heitor:''' ''What? Come now, you've always had such suspicious mind. Still seeing conspiracies everywhere, are we?''\n*'''Heitor:''' ''You've done me a great favor here\u2014let's not sour the celebration.''\n{{!}}-{{!}}\nYou sold Harpe.=\n*'''Kassandra:''' ''The sword wasn't stolen from you, was it? You used me.''\n*'''Heitor:''' ''Truth be told, I never said it was stolen.''\n*'''Kassandra:''' ''You...''\n*'''Heitor:''' ''Ah, a crime of omission only, my friend. You know how important Harpe is to me. I had no money, couldn't fight anymore. I would have died without a [[drachma]] by the side of the road. Selling Harpe enabled me to start my business. You wouldn't begrudge a man a second chance, would you?''\n*'''Kassandra:''' ''No... but I don't like being lied to.''\n*'''Heitor:''' ''I'm sorry, OK? I'm sorry.''\n}}\n{{#tag:tabber|\nDon't worry about it.=\n*'''Kassandra:''' ''Heitor, you had my back and taught me so much on Kephallonia. Don't worry about the drachmae you promised\u2014consider the favor repaid.''\n*'''Heitor:''' ''You've grown into a fine woman, Kassandra. A better [[mercenary]] with both a strong arm and a kind heart would be hard to find.''\n*'''Kassandra:''' ''Sometimes too kind. Just don't tell anyone. Can't have people thinking I'm weak.''\n*'''Heitor:''' ''No, of course. A ''misthios''{{'}} reputation is everything.''\n{{!}}-{{!}}\nYou still owe me drachmae.=\n*'''Kassandra:''' ''Getting Harpe back wasn't easy. I had to go to a lot of trouble... A little drachmae wouldn't hurt.''\n*'''Heitor:''' ''Ha! You truly are a mercenary, through and through.''\n*'''Kassandra:''' ''I learned from the best, remember?''\n*'''Heitor:''' ''Of course, of course. I'm happy to pay. You did me a great service today, and great work deserves a great reward. Here, take this.''\n}}\n*'''Heitor:''' ''Even if I don't swing her anymore, I'm glad to have Harpe back.''\n*'''Kassandra:''' ''Take care of yourself, Heitor, and try not to ''lose'' anything else.''\n|-|I couldn't find your sword.=\n*'''Kassandra:''' ''I searched every camp, but there was no sign of it.''\n*'''Heitor:''' ''What happened?''\n*'''Kassandra:''' ''Maybe whoever stole it sold it on? It's a valuable and unique weapon.''\n*'''Heitor:''' ''Huh, yes... perhaps. Well, you tried. I can't ask for more than that. At least we can rely on our friends. If not, who could we trust?''\n*'''Kassandra:''' ''Gods be with you, Heitor.''\n</tabber>",
+    "Section_Outcome": "Kassandra accepted Heitor's request to retrieve his treasured Harpe. She could either choose to keep it for herself, or return it to Heitor.",
+    "Section_Trivia": "*Lying to Heitor allows the player to keep Harpe as a weapon, at a reduced XP compared to handing it over. It also remains as a quest item.\n*Handing over Harpe rewards [[Heitor's Breastplate]] instead and rewards more XP. Kassandra also has the option to confront Heitor for lying to her about the nature of the sword's disappearance, which will subsequently affect dialogue in [[Heitor's Gonna Hate]].\n*Killing the polemarch once at any point in the game, even after allowing him to respawn before beginning the quest in earnest and/or looting the sword, triggers the dialogue for killing him when reporting back to Heitor.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Un ami dans le besoin]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Heitor",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in [[Dekelia]], Kassandra found Heitor, an old friend from [[Kephallonia]], working a small [[blacksmith]] shop.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Heitor:''' ''Kassandra? By the [[Greek mythology|gods]], is that you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached Heitor and shook hands with him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''By the gods! Heitor, is that you? You look... you look old, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Heitor:''' ''When was the last time I saw you? Kephallonia! That job for [[Markos]]. Remember, we ended up back to back, surrounded by angry [[Piracy|pirates]]...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|That was your fault.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''They were only angry because you double-crossed them. Thank the gods we got out alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Heitor:''' ''Ah! They should've paid better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Those were the days.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Though as I recall, I had your back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Heitor:''' ''Polish your memories like you would your [[armor]], and they'll make much better tales.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'd heard rumors you'd settled down in [[Attika]]. Always thought you'd die with a blade in your hand... not open up a shop.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Heitor:''' ''The blade I always thought I'd take with me is missing... I could use your help, if you're willing to assist an old friend?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''You mean Harpe? You loved that blade...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Heitor:''' ''Some'' mal\u00e1kas ''commander come in here demanding I fix his fucking twig. When I couldn't, he said I was obligated to provide a new one\u2014and the one he wanted was hanging on my wall.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll get Harpe back for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Heitor:''' ''Don't do anything stupid. I just want her back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Hey! You know me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Heitor:''' ''That's why I'm afraid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "22",
+            "content": "(If \"Where can I find the commander?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Tell me where to find the commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Heitor:''' ''He's here in Attika, at [[Fort Phyle]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "25",
+            "content": "(If \"Why is Harpe so special to you?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Why go so much trouble for an old sword?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "27",
+            "content": "*'''Heitor:''' ''She's the only thing I loved that never left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''And how will I know her when I see her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "29",
+            "content": "*'''Heitor:''' ''How could you forget a hilt of gold with a curling [[snake|serpent]] moving up the blade? Always sharp no matter what, and when you swung her, well... she'd sing a [[siren]] song of death. Kept me alive through many a scrape.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''That I do remember.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "31",
+            "content": "(Accept \u2013 \"I'll get Harpe.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I should be going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "33",
+            "content": "*'''Heitor:''' ''Remember, we don't want trouble. Just sneak in and take it. You're still good at that, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I won't lower myself to answer that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "35",
+            "content": "Kassandra traveled to Fort Phyle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This must be Fort Phyle. If Heitor's right, I'll find the sword inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "37",
+            "content": "She infiltrated the fort, overhearing a conversation between a few soldiers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Athenian Light Soldier 1:''' ''Did you see that new sword the commander just bought?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Athenian Light Soldier 2:''' ''As fine a blade as ever I've seen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Athenian Light Soldier 1:''' ''Got it from the new smith, I heard him say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Athenian Light Soldier 2:''' ''Yeah, the smith didn't make it, though. He can knock a dent out all right, but that sword...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "42",
+            "content": "*'''Athenian Light Soldier 1:''' ''That's real craftsmanship, that is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "43",
+            "content": "Sneaking into the tent, she recovered the harpe from a [[Treasure chest|chest]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''This is Harpe all right. No mistaking this blade.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "45",
+            "content": "Kassandra returned to Heitor with the sword in hand.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "46",
+            "content": "*'''Heitor:''' ''Glad you're back safely. Did you get my Harpe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "48",
+            "content": "|-|I got your sword.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Yes, I found Harpe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "50",
+            "content": "*'''Heitor:''' ''Good, good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "51",
+            "content": "*'''Heitor:''' ''And what of that ''mal\u00e1kas'' commander?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "52",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "53",
+            "content": "If players killed the polemarch=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''He didn't survive our... encounter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "55",
+            "content": "*'''Heitor:''' ''You are a true friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "56",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "57",
+            "content": "If players did not kill the polemarch=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''And what of him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "59",
+            "content": "*'''Heitor:''' ''Oh, no matter\u2014you have my sword. That's what's important.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "60",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "61",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "62",
+            "content": "Fess up.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''I have a feeling there's more to the story of Harpe's disappearance than you're letting on...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "64",
+            "content": "*'''Heitor:''' ''What? Come now, you've always had such suspicious mind. Still seeing conspiracies everywhere, are we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Heitor:''' ''You've done me a great favor here\u2014let's not sour the celebration.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "66",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "67",
+            "content": "You sold Harpe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''The sword wasn't stolen from you, was it? You used me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "69",
+            "content": "*'''Heitor:''' ''Truth be told, I never said it was stolen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''You...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Heitor:''' ''Ah, a crime of omission only, my friend. You know how important Harpe is to me. I had no money, couldn't fight anymore. I would have died without a [[drachma]] by the side of the road. Selling Harpe enabled me to start my business. You wouldn't begrudge a man a second chance, would you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''No... but I don't like being lied to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "73",
+            "content": "*'''Heitor:''' ''I'm sorry, OK? I'm sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "74",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "75",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "76",
+            "content": "Don't worry about it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Heitor, you had my back and taught me so much on Kephallonia. Don't worry about the drachmae you promised\u2014consider the favor repaid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "78",
+            "content": "*'''Heitor:''' ''You've grown into a fine woman, Kassandra. A better [[mercenary]] with both a strong arm and a kind heart would be hard to find.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Sometimes too kind. Just don't tell anyone. Can't have people thinking I'm weak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "80",
+            "content": "*'''Heitor:''' ''No, of course. A ''misthios''{{'}} reputation is everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "81",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "82",
+            "content": "You still owe me drachmae.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''Getting Harpe back wasn't easy. I had to go to a lot of trouble... A little drachmae wouldn't hurt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "84",
+            "content": "*'''Heitor:''' ''Ha! You truly are a mercenary, through and through.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''I learned from the best, remember?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "86",
+            "content": "*'''Heitor:''' ''Of course, of course. I'm happy to pay. You did me a great service today, and great work deserves a great reward. Here, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "87",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D58",
+            "global_id": "88",
+            "content": "*'''Heitor:''' ''Even if I don't swing her anymore, I'm glad to have Harpe back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''Take care of yourself, Heitor, and try not to ''lose'' anything else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "90",
+            "content": "|-|I couldn't find your sword.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D60",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''I searched every camp, but there was no sign of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "92",
+            "content": "*'''Heitor:''' ''What happened?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''Maybe whoever stole it sold it on? It's a valuable and unique weapon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "94",
+            "content": "*'''Heitor:''' ''Huh, yes... perhaps. Well, you tried. I can't ask for more than that. At least we can rely on our friends. If not, who could we trust?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Gods be with you, Heitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "96",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

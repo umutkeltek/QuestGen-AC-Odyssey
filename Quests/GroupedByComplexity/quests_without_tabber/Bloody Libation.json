@@ -1,0 +1,96 @@
+{
+    "Quest_Name": "Bloody Libation",
+    "Quest_ID": "227479",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Mere moments after his grief began, Lykinos asked Kassandra to find and slaughter the smuggling bandits who killed his father, Diokles, to avenge his loss.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece, Support",
+        "previous": "Prodigal Son's Return",
+        "next": "Dressing up for Charon",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Bloody Libation''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Knowing how he felt, Kassandra set off to help Lykinos get his revenge.",
+    "Section_Dialogue": "After killing the bandits.\n\n(If players did this before Dressing up for Charon.)\n\n*'''Kassandra:''' ''Now to pick up the armor for Timotheos.''\n\nKassandra searched the ruins and found a ledger.\n\n* '''Letter to the Smugglers:''' ''[[Diokles (Fisherman)|Diokles]] has taken advantage of my generosity too many times. If he can't pay off his depts in drachmae, get what he owes me in blood. -[[Hypatos (Bandit)|Hypatos]]''\n* '''Kassandra:''' ''A ledger. Lykinos's father owed a lot of drachmae to their leader... A man named Hypatos''",
+    "Section_Outcome": "Kassandra killed all bandits at the [[Ruined Temple of Zeus]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Brother's Seduction",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After killing the bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "3",
+            "content": "(If players did this before Dressing up for Charon.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Now to pick up the armor for Timotheos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "Kassandra searched the ruins and found a ledger.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "9",
+            "content": "* '''Letter to the Smugglers:''' ''[[Diokles (Fisherman)|Diokles]] has taken advantage of my generosity too many times. If he can't pay off his depts in drachmae, get what he owes me in blood. -[[Hypatos (Bandit)|Hypatos]]''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "10",
+            "content": "* '''Kassandra:''' ''A ledger. Lykinos's father owed a lot of drachmae to their leader... A man named Hypatos''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

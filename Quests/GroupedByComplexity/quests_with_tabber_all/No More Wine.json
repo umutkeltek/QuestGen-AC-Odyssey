@@ -1,0 +1,299 @@
+{
+    "Quest_Name": "No More Wine",
+    "Quest_ID": "228315",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD No More Wine Screenshot 1.png",
+        "description": "'Now that everything was in order, Kassandra finally had the time to pay tribute to Natakas.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Bloodline'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''No More Wine''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After [[Amorges]]' defeat, Kassandra returned to [[Natakas]]' memorial in [[Dyme]].",
+    "Section_Dialogue": "Kassandra visited Natakas' memorial.\n*'''Kassandra:''' ''Our [[Elpidios|baby]]'s safe. Your [[Darius|father]] too. It's only you I couldn't... I never got the chance to say goodbye.<br />There are some things I want to get get for you. This time, I'll be back.''\n\nKassandra returned to the cliff northeast of Dyme, where Natakas had dropped his mother's charm into the water. Ikaros spotted it below the waves.\n*'''Kassandra:''' ''This is it.''\nKassandra walked to the edge of the cliff and reminisced.\n*'''Kassandra:''' ''We used to love this place. Now...''\nShe dove into water and recovered the charm.\n<tabber>\n|-|Romance only=\nKassandra returned to the surface and took a deep breath of fresh air.\n*'''Kassandra:''' ''Natakas' charm! To hold it again... It's precious to me.''\n</tabber>\n\nKassandra returned to the island near the [[Shipwreck of Nestor]], south of [[Messenia]]. Ikaros spotted the item she sought.\n*'''Kassandra:''' ''This looks like the place.''\nShe found Elpidios' baby blanket near the cliff where she met with his [[Darius II of Persia|caretaker]].\n*'''Kassandra:''' ''Our baby's blanket. What a relief it was to find him. Now he's gone away as well. But we have this to remind us...''\nShe picked up the blanket.\n*'''Kassandra:''' ''There you are. Still here, just as he left you. But he's gone.''\n(or) (Final item)\n*'''Kassandra:''' ''Now everything's done, I should visit Natakas' grave in [[Achaia]]. It's time to say goodbye.''\n\nKassandra returned to the [[Rock Arch]] in [[Makedonia]]. Ikaros called out the entrance to the former [[Tomb Hideout|hideout]].\n*'''Kassandra:''' ''I'm where I need to be.''\nKassandra set foot inside the entrance, and the memories came rushing to her.\n*'''Kassandra:''' ''This was the beginning. Natakas, how could we have known?''\nKassandra followed the stairs into the main chamber.\n*'''Kassandra:''' ''Darius and Natakas left so much behind.''\nKassandra recovered Natakas' [[Natakas' Hunting Bow|bow]] on the ground.\n*'''Kassandra:''' ''Here's your bow, where you left it. You'll want it back.''\n(or) (Final item)\n*'''Kassandra:''' ''Now everything's done, I should visit Natakas' grave in [[Achaia]]. It's time to say goodbye.''\n\nKassandra returned to Natakas' memorial. She knelt before it.\n<tabber>\n|-|Romance=\n*'''Kassandra:''' ''These are ours. A reminder of our time together.''\nKassandra placed Natakas' charm and the baby blanket on the memorial and fought back her sadness.\n*'''Kassandra:''' ''I miss you. Your laugh and your... infuriating insight. I'll never forget you, Natakas.''\nShe looked up and gazed out at the [[Istion Valley|valley]] the two of them had called home.\n*'''Kassandra:''' ''Trust me.''\n|-|No romance=\nKassandra uttered no words. She simply placed Natakas' charm and the baby blanket on the memorial, then looked out at the valley and smiled.\n</tabber>",
+    "Section_Outcome": "Kassandra gathered keepsakes of Natakas to honor his memory. She also recovered his personal hunting [[Natakas' Hunting Bow|bow]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Bloodline]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra visited Natakas' memorial.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Our [[Elpidios|baby]]'s safe. Your [[Darius|father]] too. It's only you I couldn't... I never got the chance to say goodbye.<br />There are some things I want to get get for you. This time, I'll be back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra returned to the cliff northeast of Dyme, where Natakas had dropped his mother's charm into the water. Ikaros spotted it below the waves.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''This is it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra walked to the edge of the cliff and reminisced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''We used to love this place. Now...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "She dove into water and recovered the charm.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Romance only=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N5",
+            "global_id": "11",
+            "content": "Kassandra returned to the surface and took a deep breath of fresh air.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Natakas' charm! To hold it again... It's precious to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "15",
+            "content": "Kassandra returned to the island near the [[Shipwreck of Nestor]], south of [[Messenia]]. Ikaros spotted the item she sought.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''This looks like the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "17",
+            "content": "She found Elpidios' baby blanket near the cliff where she met with his [[Darius II of Persia|caretaker]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Our baby's blanket. What a relief it was to find him. Now he's gone away as well. But we have this to remind us...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "19",
+            "content": "She picked up the blanket.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''There you are. Still here, just as he left you. But he's gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "21",
+            "content": "(or) (Final item)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Now everything's done, I should visit Natakas' grave in [[Achaia]]. It's time to say goodbye.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "24",
+            "content": "Kassandra returned to the [[Rock Arch]] in [[Makedonia]]. Ikaros called out the entrance to the former [[Tomb Hideout|hideout]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'm where I need to be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "26",
+            "content": "Kassandra set foot inside the entrance, and the memories came rushing to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''This was the beginning. Natakas, how could we have known?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "28",
+            "content": "Kassandra followed the stairs into the main chamber.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Darius and Natakas left so much behind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "30",
+            "content": "Kassandra recovered Natakas' [[Natakas' Hunting Bow|bow]] on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Here's your bow, where you left it. You'll want it back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "32",
+            "content": "(or) (Final item)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Now everything's done, I should visit Natakas' grave in [[Achaia]]. It's time to say goodbye.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "35",
+            "content": "Kassandra returned to Natakas' memorial. She knelt before it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "36",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "37",
+            "content": "|-|Romance=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''These are ours. A reminder of our time together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "39",
+            "content": "Kassandra placed Natakas' charm and the baby blanket on the memorial and fought back her sadness.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I miss you. Your laugh and your... infuriating insight. I'll never forget you, Natakas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "41",
+            "content": "She looked up and gazed out at the [[Istion Valley|valley]] the two of them had called home.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Trust me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "43",
+            "content": "|-|No romance=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N16",
+            "global_id": "44",
+            "content": "Kassandra uttered no words. She simply placed Natakas' charm and the baby blanket on the memorial, then looked out at the valley and smiled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "45",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "QuestName": "A Slithery Plea",
+    "QuestID": "225067",
+    "Revision": {
+        "id": "1047163",
+        "parentid": "961877",
+        "timestamp": "2023-06-13T02:26:12Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047163",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "7m75ekzcdocsqcq2f51k8yr7hk5yqpr"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Kassandra met Bryce at - such was Bryce's claim - the Petrified Temple|lair of the Writhing Dread. Bryce asked Kassandra to aid her in saving her Ligeia|lover.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Love's Long Shadow",
+        "next": "Hard to Artemis<br>Heavy is the Spear",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''A Slithery Plea''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met [[Bryce]] at the entrance to the [[Petrified Temple|lair]] of the [[Writhing Dread]].",
+    "Section_Dialogue": "Kassandra returned to Bryce at the entrance to the [[Petrified Temple]] to ask or revisit questions about where to go.\n\n([[Hard to Artemis]] not yet complete)\n*'''Bryce:''' ''Did Ligeia's people have the key?''\n*'''Kassandra:''' ''I haven't found it yet, but I will.''\n*'''Bryce:''' ''Please hurry, there hasn't been\u2014I can't hear anything inside the lair. It's gone quiet.''\n\n(If players asked \"Where exactly is the key?\")\n*'''Kassandra:''' ''You said Ligeia knew how to get into the lair\u2014where exactly is the key?''\n*'''Bryce:''' ''The Daughters of Artemis hide their most prized possessions in a cave in their village. It's protected by wild beasts and fierce warriors. The key is shaped like a disk. If they have it, it'll be there.''\n(If players asked \"Where can I find this mercenary?\")\n*'''Kassandra:''' ''This mercenary, the \"Slayer of the Writhing Dread,\" where can I find him?''\n*'''Bryce:''' ''He waits in a temple atop the hill in [[Ancient Pearl]]. Champions from all over seek to challenge him to build their reputations, but there's no way he killed the Creature. If he did, how was Ligeia taken?''\n*'''Kassandra:''' ''Did you see the Creature yourself?''\n*'''Bryce:''' ''No, but only the Writhing Dread would be strong enough to take Ligeia! She's too fierce. ...And too stubborn.''\n(Leave \u2013 \"I'll be on my way.\")\n*'''Kassandra:''' ''I'll be back.''\n*'''Bryce:''' ''With answers, not questions, I hope.''",
+    "Section_Outcome": "Kassandra investigated the [[Huntress Village]] on [[Chios]] and the [[Mountain Temple of Poseidon]], in connection with her seeking a way to open the entrance to the Petrified Temple.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Une supplique ondoyante]]"
+}

@@ -1,0 +1,489 @@
+{
+    "Quest_Name": "Down From On High",
+    "Quest_ID": "225602",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'One of the villagers of Linou Farm|Linou who needed Kassandra's help was Heriphile, a shepherdess. When her flock was attacked by Wolf|wolves, she lost her eagle totem. She asked her idol, Kassandra, to recover it.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Bad Weed",
+        "next": "The Wild Hunt",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "431\u2013422 BCE"
+    },
+    "General_Description": "'''Down From On High''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke with [[Heriphile]] at the [[Linou Farm|farm]].",
+    "Section_Dialogue": "Kassandra went over to the shepherdess, who was shocked to see her.\n\n*'''Heriphile:''' ''By... by the gods! It's... it's you!''\n*'''Kassandra:''' ''Yes, well, it certainly is me. You are a shepherdess?''\n*'''Heriphile:''' ''You know me! You know me so well!''\n*'''Kassandra:''' ''Tell me what happened.''\n*'''Heriphile:''' ''I was herding my flock when... it was horrible! Wolves! Blood and screams everywhere!''\n*'''Kassandra:''' ''Did you get hurt?''\n*'''Heriphile:''' ''No... you protected me.''\n*'''Kassandra:''' ''I did?''\n*'''Heriphile:''' ''I carry your totem, to pray to, to watch over me. But... I was so scared I dropped my totem as I ran.''\n*'''Kassandra:''' ''I can look for your totem.''\n*'''Heriphile:''' ''Oh! Thank you! Thank you! Thank you! Thank you!''\n\n(If players choose \"Where did the attack happen?\")\n\n*'''Kassandra:''' ''Where were you attacked?''\n*'''Heriphile:''' ''I was leading my flock to pasture through the forest south of the city. I know others have heard wolves howling there on many nights, but I took a chance.''\n\n(If players choose \"What can you tell me about the totem?\")\n\n*'''Kassandra:''' ''Tell me about this totem.''\n*'''Heriphile:''' ''It's... a simple thing. An eagle of rough wood and crudely fashioned. It does not come close to capturing your divine glory, but still, it has kept me safe until now.''\n*'''Kassandra:''' ''Ah. I, uh, wish it had protected you better.''\n*'''Heriphile:''' ''No! It is I who must apologize to you for losing it. I feared you would be angry with me.''\n*'''Kassandra:''' ''No, no, of course not.''\n\n(If players choose \"I'll look for the totem.\")\n\n*'''Kassandra:''' ''I'll look for your lost totem.''\n\nBefore she left, she talked to her once more.\n\n*'''Heriphile:''' ''Eagle Bearer, have you found my totem yet? The forest has become so dangerous now because of the wolves. I hope you find it.''\n\nReaching the area where Heriphile was attacked, she noticed animal tracks on the ground.\n\n*'''Kassandra:''' ''Wolf spoor. They must den near here.''\n\nThere was discarded basket nearby.\n\n*'''Kassandra:''' ''Heriphile must have dropped this basket when the wolves attacked.''\n\nShe saw a blood trail.\n\n*'''Kassandra:''' ''Blood trail. The pack went this way.''\n\nNear the blood trail was a dead sheep.\n\n*'''Kassandra:''' ''One of Heriphile's flock. Or what's left of him after the wolf's breakfast.''\n\nShe noticed a cave not that far away.\n\n*'''Kassandra:''' ''That must be the den of the wolves that attacked Heriphile's flock. Worth a look.''\n\nShe took care of the wolves, and saw a bag among the carcasses.\n\n*'''Kassandra:''' ''Remarkable that a wolf dragged this bag here. Almost like it was driven. Here is the totem.''\n\nShe returned to Heriphile.\n\n*'''Heriphile:''' ''Invincible Eagle Bearer, the priestess said you battled the wolves as if guided by blood-stained Ares himself.''\n*'''Kassandra:''' ''How did she know that?''\n*'''Heriphile:''' ''She burns offerings of young goats to see signs of your passage! She said you found my totem!''\n\n<Tabber>\n|-|It was just luck.=\n*'''Kassandra:''' ''It was luck that I was able to find it. The wolves had dragged it deep into their den. Here you go.''\n*'''Heriphile:''' ''Gratitude, Eagle Bearer! Would you bless it for me?''\n*'''Kassandra:''' ''You don't need my blessing. Just watch the world around you. And you can call me Kassandra.''\n*'''Heriphile:''' ''Thank you, Eagle... Kassandra.''\n|-|I see many things others cannot.=\n*'''Kassandra:''' ''The world is hard and has shaped me to be able to see things and overcome challenges others cannot.''\n*'''Heriphile:''' ''We owe everything to you, your greatness. We will not let you down.''\n*'''Kassandra:''' ''I know you won't.''\n</Tabber>",
+    "Section_Outcome": "Kassandra helped Heriphile deal with a den of wolves, and found her good luck totem.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Image of Faith",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra went over to the shepherdess, who was shocked to see her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Heriphile:''' ''By... by the gods! It's... it's you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Yes, well, it certainly is me. You are a shepherdess?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Heriphile:''' ''You know me! You know me so well!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Tell me what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Heriphile:''' ''I was herding my flock when... it was horrible! Wolves! Blood and screams everywhere!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Did you get hurt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Heriphile:''' ''No... you protected me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I did?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Heriphile:''' ''I carry your totem, to pray to, to watch over me. But... I was so scared I dropped my totem as I ran.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I can look for your totem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Heriphile:''' ''Oh! Thank you! Thank you! Thank you! Thank you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "15",
+            "content": "(If players choose \"Where did the attack happen?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U3",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Where were you attacked?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Heriphile:''' ''I was leading my flock to pasture through the forest south of the city. I know others have heard wolves howling there on many nights, but I took a chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "20",
+            "content": "(If players choose \"What can you tell me about the totem?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U5",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Tell me about this totem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Heriphile:''' ''It's... a simple thing. An eagle of rough wood and crudely fashioned. It does not come close to capturing your divine glory, but still, it has kept me safe until now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Ah. I, uh, wish it had protected you better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Heriphile:''' ''No! It is I who must apologize to you for losing it. I feared you would be angry with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''No, no, of course not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "28",
+            "content": "(If players choose \"I'll look for the totem.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U7",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''I'll look for your lost totem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "32",
+            "content": "Before she left, she talked to her once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Heriphile:''' ''Eagle Bearer, have you found my totem yet? The forest has become so dangerous now because of the wolves. I hope you find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "36",
+            "content": "Reaching the area where Heriphile was attacked, she noticed animal tracks on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U11",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Wolf spoor. They must den near here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "40",
+            "content": "There was discarded basket nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U13",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D22",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Heriphile must have dropped this basket when the wolves attacked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "44",
+            "content": "She saw a blood trail.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "45",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D23",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Blood trail. The pack went this way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "47",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "48",
+            "content": "Near the blood trail was a dead sheep.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U17",
+            "global_id": "49",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D24",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''One of Heriphile's flock. Or what's left of him after the wolf's breakfast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U18",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "52",
+            "content": "She noticed a cave not that far away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U19",
+            "global_id": "53",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D25",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''That must be the den of the wolves that attacked Heriphile's flock. Worth a look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U20",
+            "global_id": "55",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "56",
+            "content": "She took care of the wolves, and saw a bag among the carcasses.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U21",
+            "global_id": "57",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D26",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''Remarkable that a wolf dragged this bag here. Almost like it was driven. Here is the totem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U22",
+            "global_id": "59",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "60",
+            "content": "She returned to Heriphile.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U23",
+            "global_id": "61",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D27",
+            "global_id": "62",
+            "content": "*'''Heriphile:''' ''Invincible Eagle Bearer, the priestess said you battled the wolves as if guided by blood-stained Ares himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''How did she know that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "64",
+            "content": "*'''Heriphile:''' ''She burns offerings of young goats to see signs of your passage! She said you found my totem!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U24",
+            "global_id": "65",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "66",
+            "content": "<Tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "67",
+            "content": "|-|It was just luck.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''It was luck that I was able to find it. The wolves had dragged it deep into their den. Here you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "69",
+            "content": "*'''Heriphile:''' ''Gratitude, Eagle Bearer! Would you bless it for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''You don't need my blessing. Just watch the world around you. And you can call me Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "71",
+            "content": "*'''Heriphile:''' ''Thank you, Eagle... Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "72",
+            "content": "|-|I see many things others cannot.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''The world is hard and has shaped me to be able to see things and overcome challenges others cannot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "74",
+            "content": "*'''Heriphile:''' ''We owe everything to you, your greatness. We will not let you down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''I know you won't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "76",
+            "content": "</Tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

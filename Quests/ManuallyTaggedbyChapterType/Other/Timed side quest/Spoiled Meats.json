@@ -1,0 +1,40 @@
+{
+    "QuestName": "Spoiled Meats",
+    "QuestID": "236803",
+    "Revision": {
+        "id": "1047562",
+        "parentid": "845156",
+        "timestamp": "2023-06-13T19:33:00Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047562",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "fz0790l01hwqtt8vj5z3k484tyt9qj5"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Spoiled Meats",
+        "image": null,
+        "description": "'Diseased animals spread sickness to many who had no other food. Records survive of a Doctor|healer trying to cull the animals and obtain other food sources.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Spoiled Meats''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[Doctor|physician]] sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Physician in need of someone strong and able. I'll pay well for your help.''\nShe sought out the physician and addressed him.\n*'''Kassandra:''' ''I got your message on the board. What's going on?''\n*'''Man:''' ''If you've been hunting around here, please don't eat the animals you kill.''\n*'''Kassandra:''' ''All right. Why not?''\n*'''Man:''' ''They're diseased. Half of the countryside is sick from eating spoiled meat.''\n*'''Kassandra:''' ''They should know better than to eat it.''\n*'''Man:''' ''Maybe so, but people here don't have anything else. Either someone needs to take them food, or those animals need to go.''\n*'''Kassandra:''' ''Are you asking me to slay all the animals?''\n*'''Man:''' ''Yes, all of them must be gutted. Do you accept?''\n(Accept - I'll kill the beasts.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Man:''' ''My thanks,'' misthios.\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra left the man to hunt the [[Wolf|wolves]]. After killing enough of them, she returned to him.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Good work, ''misthios''. Please, take this.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra helped the physician.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

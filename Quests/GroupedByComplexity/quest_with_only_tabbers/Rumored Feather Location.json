@@ -1,0 +1,245 @@
+{
+    "Quest_Name": "Rumored Feather Location",
+    "Quest_ID": "224485",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Birds of a Feather (Odyssey)|Birds of a Feather",
+        "next": "Sacred Vows",
+        "image": "Salamis-MyceneanTombofAjax.jpg",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support",
+        "source": "Kassandra",
+        "location": "Dioskouroi Peninsula, Lakonia, Greece<br />Isle of Salamis, Attika, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Rumored Feather Location''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "One of the maps given by [[Xenia]] for the Golden Feather leads here.",
+    "Section_Dialogue": "Kassandra reached the location marked on one of the three maps and looted the chest.\n*'''Kassandra:''' ''Hmm. This is very nice... but I don't think it's what Xenia is looking for.''\nShe sailed to another rumored location and looted the area.\n*'''Kassandra:''' ''This doesn't seem to be what Xenia's looking for... but it'll fill my purse nicely.''\nAfter Kassandra arrived and docked on [[Isle of Salamis]] and found the [[Lighthouse of the Father of Ajax]] on the isle's southern tip.\n*'''Kassandra:''' ''Gods be good, I think this is the right spot.''\nKassandra noticed a ''pithos'' beside the beacon and looked inside it.\n*'''Kassandra:''' ''Hmm. Empty. Someone else had the same idea.''\nNearby, she found a forlorn [[lighthouse keeper]].\n*'''Lighthouse Keeper:''' ''The gods will abandon us!''\nAs Kassandra addressed the man, he continued his wailing.\n*'''Lighthouse Keeper:''' ''We are doomed! The gods will curse our names!''\n<tabber>\n|-|Tell me what's wrong.=\n*'''Kassandra:''' ''It can't be that bad.''\n*'''Lighthouse Keeper:''' ''Oh, it's terrible!''\n*'''Kassandra:''' ''Tell me what happened.''\n|-|Stop wailing!=\n*'''Kassandra:''' ''Stop that noise!''\nThe man was startled.\n*'''Lighthouse Keeper:''' ''Ahh!''\n*'''Kassandra:''' ''Better. Now, quietly, tell me what happened here.''\n</tabber>\n*'''Lighthouse Keeper:''' ''The lighthouse was plundered by bandits, the [[Terrors of Kyknos]]! I fear they've gone to the [[Mycenaean Tomb of Ajax]].''\n*'''Kassandra:''' ''I'll deal with them.''\n*'''Lighthouse Keeper:''' ''Oh, no. There are too many of them!''\n\n<tabber>\n|-|I'll try to stop the bandits.=\n*'''Kassandra:''' ''They won't expect anyone to come after them. I'll sneak up and surprise them.''\n|-|I'll crush them like insects.=\n*'''Kassandra:''' ''Ajax is not the only one blessed by the gods. I'll crush these so-called terrors!''\n</tabber>\n\nKassandra sought out the tomb and killed the bandits, finding the feather on the leader's corpse.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra reached the location marked on one of the three maps and looted the chest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Hmm. This is very nice... but I don't think it's what Xenia is looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sailed to another rumored location and looted the area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''This doesn't seem to be what Xenia's looking for... but it'll fill my purse nicely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "After Kassandra arrived and docked on [[Isle of Salamis]] and found the [[Lighthouse of the Father of Ajax]] on the isle's southern tip.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Gods be good, I think this is the right spot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra noticed a ''pithos'' beside the beacon and looked inside it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Hmm. Empty. Someone else had the same idea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "9",
+            "content": "Nearby, she found a forlorn [[lighthouse keeper]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Lighthouse Keeper:''' ''The gods will abandon us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "11",
+            "content": "As Kassandra addressed the man, he continued his wailing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Lighthouse Keeper:''' ''We are doomed! The gods will curse our names!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|Tell me what's wrong.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''It can't be that bad.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Lighthouse Keeper:''' ''Oh, it's terrible!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Tell me what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "18",
+            "content": "|-|Stop wailing!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Stop that noise!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "20",
+            "content": "The man was startled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Lighthouse Keeper:''' ''Ahh!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Better. Now, quietly, tell me what happened here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "23",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Lighthouse Keeper:''' ''The lighthouse was plundered by bandits, the [[Terrors of Kyknos]]! I fear they've gone to the [[Mycenaean Tomb of Ajax]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'll deal with them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Lighthouse Keeper:''' ''Oh, no. There are too many of them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "28",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "29",
+            "content": "|-|I'll try to stop the bandits.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''They won't expect anyone to come after them. I'll sneak up and surprise them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "31",
+            "content": "|-|I'll crush them like insects.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Ajax is not the only one blessed by the gods. I'll crush these so-called terrors!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "33",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "34",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "35",
+            "content": "Kassandra sought out the tomb and killed the bandits, finding the feather on the leader's corpse.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

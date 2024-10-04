@@ -1,0 +1,505 @@
+{
+    "Quest_Name": "For the People",
+    "Quest_ID": "222647",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD For the People Memory Screenshot.png",
+        "description": "'Kleon, a political rival of Perikles, saw the plight of his people in Athens and asked Kassandra to help strike back against the Spartans outside their walls.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "next": "He Who Stops",
+        "source": "Kassandra",
+        "location": "Attika, Greece",
+        "date": "May 431 BCE"
+    },
+    "General_Description": "'''For the People''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra approached [[Kleon]], who requested her to help him with a task.",
+    "Section_Dialogue": "After the debate and meeting with [[Perikles]] at the [[Pnyx]], Kassandra found Kleon calling\u00a0for her.\n*'''Kleon:''' ''You there! [[Mercenary|Misthios]]! I have something you may be interested in.''\nKassandra approached Kleon.\n*'''Kleon:''' ''Chaire, friend. I saw you talking to my associate, Perikles.''\n*'''Kassandra:''' ''From what I saw, you weren't doing much associating.''\n*'''Kleon:''' ''That's hyst politics. Perikles is a good man\u2014a fine man\u2014just not the right man.''\n*'''Kassandra:''' ''That's not what I heard.''\n*'''Kleon:''' ''From whose lips? His?''\n\n<tabber>\n|-|Politicians are liars.=\n*'''Kassandra:''' ''I've heard you both speak\u2014you treat people's lives like it's some sort of game.''\n*'''Kleon:''' ''Politics is a game, and one with high stakes. I play for the people, while Perikles plays for power.''\n{{#tag:tabber|\nPolitics is about power.=\n*'''Kassandra:''' ''We all play for power. It's what we do with it that matters.''\n*'''Kleon:''' ''True, but understand we have a dangerous, weak, leader. The times demand strength''\n\n{{!}}-{{!}}\nPolitics is about people.=\n*'''Kassandra:''' ''Politics should be about the people. Isn't that the heart of [[Athens|Athenian]] democracy?''\n*'''Kleon:''' ''I'm not saying Perikles doesn't care for the people... Just that he doesn't lead them with a firm enough hand.''\n}}\n|-|Perikles was chosen by the people.=\n*'''Kassandra:''' ''He was elected\u2014[[Athens]] is the seal of democracy.''\n*'''Kleon:''' ''Oh, it is. It's just that the wrong man is sitting in that seat.''\n</tabber>\n*'''Kassandra:''' ''Did you actually need something, or did you just want to educate me on the finer points of democracy?''\n*'''Kleon:''' ''Perikles is holding parties for the rich and powerful while we are under siege. What I want is for my people to reclaim control. You could help me.''\n(If players asked \"What's it worth to you?\")\n*'''Kassandra:''' ''My services don't come cheap.''\n*'''Kleon:''' ''I understand the wheels of commerce and the needs of the people. I will pay you handsomely for your services.''\n(If players asked \"Go on.\")\n*'''Kassandra:''' ''And how do you want me to help?''\n*'''Kleon:''' ''Help Athens, not me. The [[Sparta]]ns howl outside our city walls. Create chaos among their ranks\u2014make them suffer as we do. Think about it. Will you take my commission and show the Spartans we are not defeated yet?''\n*'''Kassandra:''' ''I have no problem killing Spartans.''\n*'''Kleon:''' ''Good. Kill their commander [[Nabis]], destroy their supplies and return to me with proof of your exploits. Show them we have teeth, too.''\n*'''Kassandra:''' ''I'll get it done.''\n*'''Kleon:''' ''Trust me. This is a huge opportunity for you.''\nKassandra travelled to the [[Sieged Plains]] to hamper the Spartan forces, namely the [[Acharnai Military Camp]] and [[Odomantian's Spartan Camp]]. She destroyed their camp' supplies, killing the camps' ''[[polemarch]]''\u00a0and then commander Nabis. On his body, she recovered a note.\n*'''Letter from a Spartan Polemarch:'''<br />''The man, [[Heremos]], was caught trying to sneak through our lines. After some persuasion, we discovered he was heading to meet a ship and set sail for [[Mytilene]]. Perhaps you will be able to loosen his tongue further and gain additional information.''\n*'''Kassandra:''' ''Huh, this might interest Kleon, and it'll give him the proof he wants.''\nKassandra returned to Kleon near the [[Odeon of Perikles]].\n*'''Kleon:''' ''You've returned. Did you bring the proof I asked for?''\n*'''Kassandra:''' ''I think this might interest you. I took it from the commander after I killed him.''\nKleon's reaction was too obvious for Kassandra; he knew what the letter meant.\n*'''Kassandra:''' ''You know what it's about?''\n*'''Kleon:''' ''What do you mean?''\n*'''Kassandra:''' ''Your reaction betrayed you.''\n*'''Kleon:''' ''Yes, the man mentioned in this note was on important business for Athens.''\n(If players asked \"What's in Mytilene?\")\n*'''Kassandra:''' ''Why was the messenger trying to get to Mytilene?''\n*'''Kleon:''' ''He was to help distribute supplies to the people there, to help them against their oppressors.''\n(If players asked \"Who's this messenger?\")\n*'''Kassandra:''' ''Who is this man to you? You look concerned.''\n*'''Kleon:''' ''He was only an aide\u2014it was his mission that was important.''\n(Leave \u2013 \"If you're satisfied...\")\n*'''Kassandra:''' ''I hope this proves I can be trusted to get the job done.''\n*'''Kleon:''' ''Proved you're competent, yes. Trusted... You did read the note.''\n*'''Kassandra:''' ''I had to make sure it was proof of what I did\u2014it could have been anything.''\n*'''Kleon:''' ''A good point. And because of this, I have another task for you.''\nKleon issued his new task.\n*'''Kleon:''' ''I need you to find my messenger, Heremos.''\n*'''Kassandra:''' ''This was the messenger from the note.''\n*'''Kleon:''' ''Yes, it's imperative Heremos is freed and reaches the ship I've readied for him.''\n(If players asked \"Where is the ship?\")\n*'''Kassandra:''' ''Where's the ship I need to take him to?''\n*'''Kleon:''' ''For now it's safer you don't know. Once you find him, he will tell you.''\n(If players asked \"Who is Heremos?\")\n*'''Kassandra:''' ''Tell me about this messenger of yours.''\n*'''Kleon:''' ''He is of no significance, but his mission ''is.'' Find him so he can complete it.''\n(If players asked \"What is the mission?\")\n*'''Kassandra:''' ''What mission is your messenger on?''\n*'''Kleon:''' ''The fewer people who know, the better\u2014but understand, it is vital to the future of Athens.''\n(If players chose \"Tell me where to find Heremos.\")\n*'''Kassandra:''' ''Where should I look for Heremos?''\n*'''Kleon:''' ''If the Spartans have him, he'll be in the old quarry. I have it on good authority they're holding all their prisoners there.''\n(Accept \u2013 \"I'll get Heremos.\")\n*'''Kassandra:''' ''Don't worry. I'll get this Heremos of yours to the ship.''",
+    "Section_Outcome": "Kassandra harangued the Spartans besieging the city, discovering information of enough import to Kleon to provide her another job.",
+    "Section_Trivia": "*This quest is no longer available upon completion of all three of [[Ashes to Ashes]], [[Monger Down]], and [[Island of Misfortune]]. This goes for its succeeding quests, [[He Who Stops]] and [[The Liberator]], as well.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Pour le peuple]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kleon",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After the debate and meeting with [[Perikles]] at the [[Pnyx]], Kassandra found Kleon calling\u00a0for her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kleon:''' ''You there! [[Mercenary|Misthios]]! I have something you may be interested in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached Kleon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kleon:''' ''Chaire, friend. I saw you talking to my associate, Perikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''From what I saw, you weren't doing much associating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kleon:''' ''That's hyst politics. Perikles is a good man\u2014a fine man\u2014just not the right man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''That's not what I heard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kleon:''' ''From whose lips? His?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|Politicians are liars.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I've heard you both speak\u2014you treat people's lives like it's some sort of game.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kleon:''' ''Politics is a game, and one with high stakes. I play for the people, while Perikles plays for power.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "14",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "Politics is about power.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''We all play for power. It's what we do with it that matters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kleon:''' ''True, but understand we have a dangerous, weak, leader. The times demand strength''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "19",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "20",
+            "content": "Politics is about people.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Politics should be about the people. Isn't that the heart of [[Athens|Athenian]] democracy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kleon:''' ''I'm not saying Perikles doesn't care for the people... Just that he doesn't lead them with a firm enough hand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "23",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC4",
+            "global_id": "24",
+            "content": "|-|Perikles was chosen by the people.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''He was elected\u2014[[Athens]] is the seal of democracy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kleon:''' ''Oh, it is. It's just that the wrong man is sitting in that seat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Did you actually need something, or did you just want to educate me on the finer points of democracy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kleon:''' ''Perikles is holding parties for the rich and powerful while we are under siege. What I want is for my people to reclaim control. You could help me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "30",
+            "content": "(If players asked \"What's it worth to you?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''My services don't come cheap.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Kleon:''' ''I understand the wheels of commerce and the needs of the people. I will pay you handsomely for your services.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "33",
+            "content": "(If players asked \"Go on.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''And how do you want me to help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Kleon:''' ''Help Athens, not me. The [[Sparta]]ns howl outside our city walls. Create chaos among their ranks\u2014make them suffer as we do. Think about it. Will you take my commission and show the Spartans we are not defeated yet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I have no problem killing Spartans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Kleon:''' ''Good. Kill their commander [[Nabis]], destroy their supplies and return to me with proof of your exploits. Show them we have teeth, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll get it done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kleon:''' ''Trust me. This is a huge opportunity for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "40",
+            "content": "Kassandra travelled to the [[Sieged Plains]] to hamper the Spartan forces, namely the [[Acharnai Military Camp]] and [[Odomantian's Spartan Camp]]. She destroyed their camp' supplies, killing the camps' ''[[polemarch]]''\u00a0and then commander Nabis. On his body, she recovered a note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "41",
+            "content": "*'''Letter from a Spartan Polemarch:'''<br />''The man, [[Heremos]], was caught trying to sneak through our lines. After some persuasion, we discovered he was heading to meet a ship and set sail for [[Mytilene]]. Perhaps you will be able to loosen his tongue further and gain additional information.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Huh, this might interest Kleon, and it'll give him the proof he wants.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "43",
+            "content": "Kassandra returned to Kleon near the [[Odeon of Perikles]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Kleon:''' ''You've returned. Did you bring the proof I asked for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I think this might interest you. I took it from the commander after I killed him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "46",
+            "content": "Kleon's reaction was too obvious for Kassandra; he knew what the letter meant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''You know what it's about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "48",
+            "content": "*'''Kleon:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Your reaction betrayed you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "50",
+            "content": "*'''Kleon:''' ''Yes, the man mentioned in this note was on important business for Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "51",
+            "content": "(If players asked \"What's in Mytilene?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Why was the messenger trying to get to Mytilene?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "53",
+            "content": "*'''Kleon:''' ''He was to help distribute supplies to the people there, to help them against their oppressors.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "54",
+            "content": "(If players asked \"Who's this messenger?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Who is this man to you? You look concerned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "56",
+            "content": "*'''Kleon:''' ''He was only an aide\u2014it was his mission that was important.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "57",
+            "content": "(Leave \u2013 \"If you're satisfied...\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I hope this proves I can be trusted to get the job done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "59",
+            "content": "*'''Kleon:''' ''Proved you're competent, yes. Trusted... You did read the note.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I had to make sure it was proof of what I did\u2014it could have been anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "61",
+            "content": "*'''Kleon:''' ''A good point. And because of this, I have another task for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "62",
+            "content": "Kleon issued his new task.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "63",
+            "content": "*'''Kleon:''' ''I need you to find my messenger, Heremos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''This was the messenger from the note.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Kleon:''' ''Yes, it's imperative Heremos is freed and reaches the ship I've readied for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "66",
+            "content": "(If players asked \"Where is the ship?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D44",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Where's the ship I need to take him to?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "68",
+            "content": "*'''Kleon:''' ''For now it's safer you don't know. Once you find him, he will tell you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "69",
+            "content": "(If players asked \"Who is Heremos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Tell me about this messenger of yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Kleon:''' ''He is of no significance, but his mission ''is.'' Find him so he can complete it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "72",
+            "content": "(If players asked \"What is the mission?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D48",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''What mission is your messenger on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Kleon:''' ''The fewer people who know, the better\u2014but understand, it is vital to the future of Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "75",
+            "content": "(If players chose \"Tell me where to find Heremos.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D50",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''Where should I look for Heremos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "77",
+            "content": "*'''Kleon:''' ''If the Spartans have him, he'll be in the old quarry. I have it on good authority they're holding all their prisoners there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "78",
+            "content": "(Accept \u2013 \"I'll get Heremos.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Don't worry. I'll get this Heremos of yours to the ship.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

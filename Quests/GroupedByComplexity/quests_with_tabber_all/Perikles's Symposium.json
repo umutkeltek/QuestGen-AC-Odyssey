@@ -1,0 +1,2627 @@
+{
+    "Quest_Name": "Perikles's Symposium",
+    "Quest_ID": "223106",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Perikles's Symposium - Assassins Creed Odyssey.png",
+        "description": "'Kassandra was finally given access to Perikles's fabled symposium. She knew the other guests were her best chance for information about her missing Myrrine|mother.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Welcome to Athens",
+        "next": "Island of Misfortune",
+        "concurrent": "Drink Up<br>Oil and Love",
+        "source": "Kassandra",
+        "location": "Athens",
+        "date": "May 431 BCE"
+    },
+    "General_Description": "'''Perikles's Symposium''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra participated in a symposium by [[Perikles]] to find information about her [[Myrrine|mother]]'s whereabouts.",
+    "Section_Dialogue": "After completing the entirety of the tasks laid out by Perikles, Kassandra made her way to [[Perikles' Residence]] to report her success.\n*'''Kassandra:''' ''That's everything Perikles wanted. Time to return to him and find out what these Athenians know about my mother.''\nShe arrived at the gate, guarded by two [[Athens|Athenian]] [[soldier]]s.\n*'''Athenian Light Soldier:''' ''We'll be watching you, ''[[mercenary|misthios]]''.''\n*'''Athenian Marksman:''' ''Ah, at least give them a welcome first.''\n*'''Athenian Light Soldier:''' ''Fine. Perikles welcomes you to his symposium.''\nKassandra entered the residence, where she was greeted by [[Phoibe]].\n[[File:ACOD Perikles's Symposium Memory 01.png|thumb|250px|Kassandra reunited with Phoibe]]\n*'''Phoibe:''' ''Kassandra! It's you!''\n*'''Kassandra:''' ''Phoibe?''\n*'''Phoibe:''' ''You said you weren't coming back to [[Kephallonia]], so I decided to leave too!''\n*'''Kassandra:''' ''I said I wouldn't be coming back, but I don't remember saying you should leave.''\n*'''Phoibe:''' ''Well here I am!''\n(If \"How did you get here?\" was chosen.)\n*'''Kassandra:''' ''How did you even get here, Phoibe?''\n*'''Phoibe:''' ''Well... I did make some [[drachma]]e working for [[Markos]].''\n*'''Kassandra:''' ''So you paid someone to bring you to Athens?''\n*'''Phoibe:''' ''Not exactly.''\n*'''Kassandra:''' ''Phoibe.''\n*'''Phoibe:''' ''I needed the drachmae for when I arrived. I couldn't use it all to leave, and I didn't want to wait any longer, so I sneaked on a ship. Don't worry, nobody saw!''\n*'''Kassandra:''' ''I just can't believe you made it.''\n*'''Phoibe:''' ''I don't remember much of Athens from when I was a baby, but every once in a while, something feels familiar. It's nice.''\n(If \"I never expected to see you here.\" was chosen.)\n*'''Kassandra:''' ''I can't believe you're here.''\n*'''Phoibe:''' ''Me either! I can't believe we both made it to Athens. It's so much different than Kephallonia.''\n*'''Kassandra:''' ''But what are you doing here?''\n*'''Phoibe:''' ''I'm here to get you ready. I have to make sure you leave all your weapons and change into these clothes.''\n*'''Kassandra:''' ''So, you somehow work here... For Perikles.''\n*'''Phoibe:''' ''No. For ''[[Aspasia]]''.''\n(If \"Why do I have to change?\" was chosen.)\n*'''Kassandra:''' ''I don't understand why I have to change.''\n*'''Phoibe:''' ''It's just what you do here. I felt weird at first, but you forget about it pretty fast.''\n*'''Kassandra:''' ''And my weapons?''\n*'''Phoibe:''' ''Don't worry, I'll take care of them! You don't want to scare people in there.''\n*'''Kassandra:''' ''Well...''\n(If \"Why are you working for Aspasia?\" was chosen.)\n*'''Kassandra:''' ''How is it you're working for Aspasia?''\n*'''Phoibe:''' ''Well, I did get into a little bit of trouble after I got to Athens. I may have been the leader of a small group of orphans that tried to cheat Aspasia. We didn't know it was her, though!''\n*'''Kassandra:''' ''And you... convinced her to hire you?''\n*'''Phoibe:''' ''No, she asked me on her own!''\n*'''Kassandra:''' ''That was lucky.''\n(If \"I'm ready to go in.\" was chosen.)\n*'''Kassandra:''' ''I think I'm ready to go in.''\n*'''Phoibe:''' ''You can't! Not like that, anyway. The Athenians like it best when you try to ''fit in''. But don't worry, I have just the outfit for you.''\n<tabber>\n|-|\"I will change my clothes.\"=\n*'''Kassandra:''' ''I'll get changed. Promise you'll take care of my things?''\n*'''Phoibe:''' ''Yep. Leave your weapons in the corner, and I'll come back when you're done.''\nKassandra changed.\n*'''Kassandra:''' ''I feel... uncomfortable in this.''\n*'''Phoibe:''' ''Now you look like everyone else.''\n*'''Kassandra:''' ''You say that like it's a good thing.''\n*'''Phoibe:''' ''It is! If you want them to take you seriously, this is the easiest way. Trust me.''\n|-|\"I won't change my clothes.\"=\n*'''Kassandra:''' ''There's no way I'm wearing that.''\n*'''Phoibe:''' ''But if you don't\u2014''\n*'''Kassandra:''' ''I mean it, Phoibe.''\n*'''Phoibe:''' ''You ''have'' to leave your weapons here, though.''\nKassandra shook her head in disbelief.\n*'''Kassandra:''' ''Fine.''\nKassandra left to remove her weapons and returned.\n*'''Phoibe:''' ''Don't say I didn't warn you.''\n</tabber>\n*'''Kassandra:''' ''Is that everything?''\n*'''Phoibe:''' ''You're all ready to go in! Don't worry, you've done scarier things than this.''\n[[File:ACOD Perikles's Symposium Memory 02.png|thumb|250px|Kassandra dressed in an outfit]]\n*'''Kassandra:''' ''I'm struggling to think of any right now. Are you sure I can't keep just one weapon with me?''\n*'''Phoibe:''' ''No weapons! Now, hurry and go in. Oh, and don't leave without saying bye!''\nBefore leaving, Kassandra spoke to Phoibe once more.\n*'''Phoibe:''' ''You just got here. You can't leave already!''\nSeeing she could not escape, Kassandra entered the Symposium and saw [[Herodotos]] standing at the entry. She passed him and approached [[Metiochos]], who was admiring a painting on the wall near the entry.\n*'''Metiochos:''' ''Thank you for your help, my friend.''\nKassandra left him and walked up to two men talking near a plinth covered in [[grape]]s.\n*'''[[Protagoras]]:''' Chaire''! We were just discussing [[Hermippos]]'s failures in his indictment of Aspasia.''\n*'''Hermippos:''' ''Well, ''you'' were. I was sleeping with my eyes open.''\nIgnored, Kassandra tried talking to [[Sokrates]] and [[Thrasymachos]].\n*'''Thrasymachos:''' ''Yes, ''you'' come and talk to this infuriating air bladder. I've had my fill.''\n*'''Sokrates:''' ''Perhaps later. First, explain to me your point again.''\nKassandra again tried to speak to Sokrates.\n*'''Sokrates:''' ''And so it isn't the rich and powerful, but the ''[[Greek mythology|gods]]'' who are the source of justice?''\n*'''Thrasymachos:''' ''What? No! Have you been listening to nothing I say?''\nKassandra tried once more to speak.\n*'''Sokrates:''' ''Ah, the ''misthios'' from the [[ostracism]]! Let's talk later.''\nHer attempts defeated, Kassandra left the men to their argument and returned to speak with Herodotos.\n*'''Herodotos:''' Chaire'', Kassandra! The mighty mercenary and traveler has finally made her grand entrance. Only slightly late, too.''\n*'''Kassandra:''' ''Herodotos! Athenians have no problem letting me know when I'm not welcome. It's a relief to see your friendly face.''\n*'''Herodotos:''' ''Don't let the company here tonight intimidate you.''\n*'''Kassandra:''' ''I won't.''\n*'''Herodotos:''' ''Perikles is no king. He needs these guests to love him, so that the people love him. And they, in turn, need Perikles. You're no different from any of them.''\n*'''Kassandra:''' ''Do you really think these people will help me?''\n<tabber>\n|-|If Kassandra changed clothes=\n*'''Herodotos:''' ''They will if you get them to trust you. And you've wisely dressed for the occasion. ''Appearing'' trustworthy is the most important part of being trusted, after all. Now then, come let me introduce you to everyone.''\n|-|If Kassandra did not change clothes=\n*'''Herodotos:''' ''Perhaps your... individual fashion sense will get their memories working. Now then, come let me introduce you to everyone.''\n</tabber>\nHerodotos escorted Kassandra to the main court.\n*'''Herodotos:''' ''They may not look it, but this group holds the way to the future on the tip of their opinionated tongues.''\nHerotodos pointed to two individuals amongst the crowd.\n[[File:ACOD Perikles's Symposium Memory 03.png|thumb|250px|The symposium]]\n*'''Herotodos:''' ''Ah, [[Sophokles]] and [[Euripides]], for example. Two of the most celebrated playwrights to date. No one can throw stones as far as they can. They appear to be locked in some kind of intellectual struggle, as is their way.''\n*'''Sophokles:''' ''He's a writer of comedies, of all things! Comedies, Euripides!''\nSophokles left and entered a room, angry. Euripides and another [[Aristophanes|individual]] laughed.\n<tabber>\n|-|I've heard of Sophokles.=\n*'''Kassandra:''' ''I've heard of Sophokles. In my line of work, it pays to know who the richest and most famous men are.''\n|-|That doesn't look very \"intellectual.\"=\n*'''Kassandra:''' ''It looks more like a lover's quarrel to me.''\n</tabber>\nHerodotos pointed to Hermippos.\n*'''Herodotos:''' ''Hermippos has also written his fair share of comedies...''\nHermippos put his hand on Protagoras' shoulder.\n*'''Hermippos:''' ''You should drink more.''\n*'''Herodotos:''' ''Lately his attitudes have garnered him more notice than his works. However, the fellow beside him, Protagoras, is a sophist worthy of as much praise as the great Sokrates himself.''\nThey looked at Sokrates, still arguing with Thrasymachos.\n<tabber>\n|-|I'm surprised Sokrates is here.=\n*'''Kassandra:''' ''Inviting Sokrates seems like a good way to ruin everyone's night. I'm surprised they would let him in the door.''\n|-|Sokrates isn't so \"great.\"=\n*'''Kassandra:''' ''I'm not sure \"great\" is the term I would use...''\n</tabber>\n*'''Herodotos:''' ''Oh, don't let Sokrates get under your skin. At least he wore shoes for the occasion... And the poor thing gesticulating like an ape is Thrasymachos. If you listen closely, you'll notice he and Sokrates are actually arguing the same points. But the wind from his wild gestures deafens him to critique.''\n*'''Thrasymachos:''' ''That isn't at all what I mean!''\nThey walked to the middle of the court.\n*'''Kassandra:''' ''Where is Perikles?''\n*'''Herodotos:''' ''Oh! He never attends his own parties. Which reminds me, there's something I need to get his help with...''\n[[File:ACOD Perikles's Symposium Memory 05.png|thumb|250px|Kassandra meet Alkibiades]]\nA drunken individual behind interrupted them.\n*'''[[Alkibiades]]:''' ''Vile Sokrates! Always appearing where I least expect him. Warrior, protect me from his amorous gaze! ...Oh, Alkibiades. This is not a time for jealousy, but for love!''\nAlkibiades drunkenly staggered off, taking a man and woman through a doorway to another hall. Herodotos awkwardly cleared his throat.\n*'''Herodotos:''' ''Let's not use Alkibiades as an example. Be good, and don't drink too much. So, tell me, what does a ''misthios'' like you think of a party like this?''\n<tabber>\n|-|Alkibiades seems interesting.=\n*'''Kassandra:''' ''This party could be fun. Alkibiades drinks like a [[Sparta]]n. Maybe he fights like one, too.''\n*'''Herodotos:''' ''If I could suggest anything\u2014please don't start a fight. Or end one.''\n|-|Parties aren't my specialty.=\n*'''Kassandra:''' ''This is going to be a long night. Parties should be about vomiting up blood, not vomiting up poetry. These people are so... clean.''\n*'''Herodotos:''' ''If these guests aren't up to your own... unique tastes, then just focus on why you came here in the first place.''\n</tabber>\n*'''Kassandra:''' ''Thank you, Herodotos.''\n*'''Herodotos:''' ''Now, if you'll excuse me. Perikles is here somewhere, and I need to prepare him... If he's alone, I'll tell him what [[Alexios|your brother]] said.''\n<tabber>\n|-|You should get going.=\n*'''Kassandra:''' ''Agreed, Perikles needs to know. I'll stay here and look for clues.''\n*'''Herodotos:''' ''I hope they know something about your mother.''\n*'''Kassandra:''' ''Me too.''\n|-|Don't leave me alone.=\n*'''Kassandra:''' ''Your leaving me alone with these people?''\n*'''Herodotos:''' ''Ha! You'll do fine without me. I promise. Just relax, talk to the others, and focus on finding your mother.''\n</tabber>\nHerodotos took his leave, leaving Kassandra alone to talk to those within the Symposium. She approached Hermippos and Protagoras.\n[[File:ACOD Perikles's Symposium Memory 06.png|thumb|250px|Kassandra with Hermippos and Protagoras]]\n*'''Protagoras:''' ''Of course, I only use terms war, or god, or civility, in context of what can be observed. So, I can observe soldiers fighting, but does that bring me any closer to understand war?''\nHermippos turned to Kassandra.\n*'''Hermippos:''' ''I haven't seen you around before, citizen. Perhaps you'd like to spare me conversing with this man of nonsense?''\n(Leave \u2013 \"I'll pass.\")\n*'''Kassandra:''' ''All you people do is talk. I'd rather not.''\nThe two men let out angry huffs. Kassandra left the pair, only to change her mind and return later.\n*'''Hermippos:''' ''You're back.''\n(Accept \u2013 \"Let's talk.\")\n*'''Kassandra:''' ''Sure, we can talk. What about?''\n*'''Hermippos:''' ''Before Protagoras changed the subject, we were talking about the next greater leader of Athens\u2014[[Kleon]].''\n<tabber>\n|-|Kleon is great.=\n*'''Kassandra:''' ''I saw Kleon speaking at the [[Pnyx]]. He is a real man of the people.''\n*'''Hermippos:''' ''So!  You have a taste for politics. That's certainly better than most of the elitist blowhards in this house.''\n*'''Kassandra:''' ''I take it you and Perikles aren't friends.''\n*'''Protagoras:''' ''Hardly! Hermippos led the charge to have Aspasia ostracized and to see Perikles stripped of power\u2014not that it worked.''\n*'''Hermippos:''' ''Yet. Perikles is the past. He's more worried about losing a few precious statues than he is fighting and winning the war. Kleon will rule this city and return it to greatness\u2014mark my words.''\n(If \"What do you know of my mother?\" is chosen.)\n*'''Kassandra:''' ''I'm looking for clues to help me find a woman. She was Spartan.''\n*'''Protagoras:''' ''Looking and finding are quite different things, wouldn't you say? I could observe a priest offering sacrifice to the gods, but does that mean in so doing that I have, found god? Or...''\n*'''Kassandra:''' ''Oh, forget it.''\n|-|Let's talk about why I'm here.=\n*'''Kassandra:''' ''I'll change the subject again. I'm looking for someone\u2014a [[Sparta]]n woman.''\n*'''Hermippos:''' ''Spartan? Hopefully she's dead in the gutters\u2014it's better than those mongrels deserve.''\n*'''Protagoras:''' ''I wonder... if you found the woman, even if you saw her with your own eyes, would you believe her existence to be true?''\n*'''Kassandra:''' ''This is getting nowhere. Forget it.''\n*'''Protagoras:''' ''If you don't want to discuss that, then what?''\nKassandra turned to Hermippos.\n|-|Kleon is an idiot.=\n*'''Kassandra:''' ''I saw Kleon talk at the Pnyx. Even for a politician, he's scum.''\n*'''Hermippos:''' ''Bah, you sound like every other blowhard in this place. Kleon is a champion of the people, and he's ready to tear down Perikles' elitism.''\n*'''Kassandra:''' ''I take it you and Perikles aren't friends.''\n*'''Protagoras:''' ''Hardly! Hermippos led the charge to have Aspasia ostracized and to see Perikles stripped of power\u2014not that it worked.''\n*'''Hermippos:''' ''Yet. Perikles is the past. He's more worried about losing a few precious statues than he is fighting and winning the war. Kleon will rule this city and return it to greatness\u2014mark my words.''\n(If \"What do you know of my mother?\" is chosen.)\n*'''Kassandra:''' ''I'm looking for clues to help me find a woman. She was Spartan.''\n*'''Protagoras:''' ''Looking and finding are quite different things, wouldn't you say? I could observe a priest offering sacrifice to the gods, but does that mean in so doing that I have, found god? Or...''\n*'''Kassandra:''' ''Oh, forget it.''\n</tabber>\n(If \"Why would Perikles invite you?\" is chosen.)\n*'''Kassandra:''' ''If you're an ally of Kleon, why would Perikles invite you?''\n*'''Hermippos:''' ''You're not from Athens, outsider. Here, we keep our enemies closest of all.''\n(If \"Where's Aspasia?\" is chosen.)\n*'''Kassandra:''' ''Why isn't Aspasia here?''\n*'''Protagoras:''' ''Can you be certain she isn't? To observe her presence is still no guarantee that she is here.''\n*'''Hermippos:''' ''In my opinion, it's just like her to cower in the shadows while we stand out here in the light.''\n(Leave \u2013 \"That's enough talk.\")\n*'''Kassandra:''' ''This has been... useless. ''Chaire''.''\nKassandra sought out Sophokles and Alkibiades to get the information she needed. After [[Drink Up|fulfilling]] their [[Oil and Love|requests]], she returned to the symposium and re-engaged Sokrates in dialogue.\n<tabber>\n|-|Intro 1=\n(If Kassandra told Sokrates her name during \"[[Ostracized]]\", then stated that \"[[Drachma]]e\" is most important)\n*'''Sokrates:''' ''Ah, here comes the one who claims to value drachmae over the noble path that leads to knowledge.''\n*'''Kassandra:''' ''Like I told you, \"knowledge\" can't feed me.''\n*'''Sokrates:''' ''But the mind must be fed as well!''\n|-|Intro 2=\n(If Kassandra told Sokrates her name during \"Ostracized\", then agreed with him that \"Knowledge\" is most important)\n*'''Sokrates:''' ''Ah, if it isn't the one who agrees that knowledge is most important!''\n*'''Kassandra:''' ''I think we agreed our use of that knowledge couldn't be more different.''\n*'''Sokrates:''' ''You remember! Perhaps that conversation can continue.''\n|-|Intro 3=\n(If Kassandra told Sokrates during \"Ostracized\" that she was a mercenary who would do anything for the right price)\n*'''Sokrates:''' ''I admit, I'm surprised to see you here. But, \"everything has a price,\" as you said. I can't help but wonder what price you paid to gain entry to this symposium.''\n*'''Kassandra:''' ''Keep wondering.''\n|-|Intro 4=\n(If Kassandra told Sokrates during \"Ostracized\" that she was a mercenary who had a line she wouldn't cross)\n*'''Sokrates:''' ''Being so new to Athens, and gaining access to this symposium, is no small feat. Though you said there are things you wouldn't do, you gained Perikles's trust so quickly...''\n*'''Kassandra:''' ''I've made my choice.''\n</tabber>\nThrasymachos interjected, accused Sokrates of using her presence as a distraction.\n*'''Thrasymachos:''' ''You really intend to use this young distraction to avoid the point being argued?''\n<tabber>\n|-|It can't be that important.=\n*'''Kassandra:''' ''If you've been arguing this long, and you haven't agreed yet, just give up.''\n|-|I'm intrigued.=\n*'''Kassandra:''' ''You have been arguing a single point all night, and no one has a black eye? You have my attention.''\n</tabber>\n*'''Sokrates:''' ''We're discussing the nature of rulers. Where better to do so than here? I'll ask you the same question I asked Thrasymachos: would you agree that the act of ruling is an art?''\n[[File:ACOD Perikles's Symposium Memory 08.png|thumb|250px|Kassandra with Sokrates and Thrasymachos]]\n*'''Thrasymachos:''' ''It is an art, as all worthy undertakings are. That is not up for argument.''\n*'''Sokrates:''' ''Yet, medicine is for the betterment of the patient, and not the physician. Carpentry improves the building, not the builder. Then\u2014is the art of ruling not for the betterment of the ruled rather than the ruler?''\n*'''Thrasymachos:''' ''Don't be absurd!''\n{{-}}\n<tabber>\n|-|Rulers are unjust.=\n*'''Kassandra:''' ''I have seen enough of the world to know that there are no \"just\" rulers. Even Perikles is self-serving.''\n*'''Sokrates:''' ''Is a Spartan general who brings order to his troops, thereby saving his own life, self-serving? I'm not sure that's the case.''\n*'''Kassandra:''' ''Ruling a city and fighting in battle are different things.''\n*'''Sokrates:''' ''By practicing the art of war, doesn't the general guarantee some of his troops a ferry ride to [[Hades]], when a swift retreat would save all their lives?''\n{{#tag:tabber|\nYou're contradicting yourself.=\n*'''Kassandra:''' ''You just said a general isn't self-serving when he brings order to his troops. Then you said he ''is'' self-serving because retreating would save the lives of his men. What are you trying to say?''\n*'''Sokrates:''' ''I never ''try'' to say anything.''\n*'''Kassandra:''' ''But you ''just'' said those things.''\n*'''Sokrates:''' ''I said the words, but I didn't ''say'' anything at all. I only attempted to gain your view on the matter.''\n*'''Thrasymachos:''' ''You're wasting your time.''\n{{!}}-{{!}}\nI'm done talking about this.=\n*'''Kassandra:''' ''I've already had conversations like this with you, Sokrates. I'm not in the mood to spend the rest of my night standing here.''\n*'''Sokrates:''' ''I'd never ask you to do such a thing! You've said plenty, and I feel I know you even better now.''\n*'''Thrasymachos:''' ''Go while you still can. Perhaps you've loosened his ears to my point.''\n}}\n|-|This is a waste of time.=\n*'''Kassandra:''' ''This argument between you two is pointless.''\n*'''Sokrates:''' ''Perhaps. How do you define art?''\n*'''Kassandra:''' ''I'm not getting dragged into this.''\n*'''Sokrates:''' ''Very well. Answer this: does the artist not give form and symmetry to her subject?''\n*'''Kassandra:''' ''Well, yes.''\n*'''Sokrates:''' ''Laws and justice do much the same for people, do they not? And is there any better way to communicate the story of a people than by revealing its customs and laws? If yes, then ruling, and thus justice, must be an art, as Thrasymachos says.''\n*'''Kassandra:''' ''If you say so.''\n</tabber>\nThrasymachos looked to the entrance and saw Aspasia enter.\n*'''Thrasymachos:''' ''Aspasia.''\nAs the three conversed, Aspasia entered the room with a smile, seizing the attention of the entire symposium. As she walked past, everyone gave a small bow, Kassandra doing so just a little late. Kassandra walked over to where she stood.\n<tabber>\n|-|If Kassandra indulged Sokrates in debate=\n*'''Aspasia:''' ''I couldn't help but notice your talent for debate. Well done.''\n*'''Kassandra:''' ''Sokrates is an... interesting character.''\n|-|If Kassandra said \"This is a waste of time\"=\n*'''Aspasia:''' ''You shouldn't be too hard on Sokrates. He really has a brilliant mind, even if he comes off a little strong.''\n*'''Kassandra:''' ''He isn't always like that, is he?''\n</tabber>\nPhoibe presented herself to Aspasia and Kassandra.\n*'''Aspasia:''' ''Ah, Phoibe. Perikles has retired to the balcony already, has he? His ability to sneak off and sulk is second to none.''\n*'''Phoibe:''' ''I can go get him, and Kassandra can help! Everyone listens when she talks.''\n*'''Aspasia:''' ''That'll be fine. Run along. Kassandra will be right behind you.''\nShe turned to Kassandra.\n*'''Aspasia:''' ''Now, allow me to introduce myself. My name is Aspasia. I had to go to great lengths to cover up your work in [[Megaris]].''\n<tabber>\n|-|That wasn't me.=\n*'''Kassandra:''' ''I have no idea what you're talking about.''\n*'''Aspasia:''' ''Oh now. To convince someone in this house, even your eyes must tell a lie.''\n*'''Kassandra:''' ''Fine, it was me. But my actions were personal, not political.''\n|-|You've been spying on me.=\n*'''Kassandra:''' ''Your spies have been watching me. I knew you people cannot be trusted.''\n|-|I did what was necessary.=\n*'''Kassandra:''' ''I did what I had to do, and I'd do it again. I make no apologies.''\n</tabber>\nAspasia looked at Kassandra's attire.\n<tabber>\n|-|If Kassandra changed clothes.=\n*'''Aspasia:''' ''We do what we must to survive, and there's no shame in that. It's how you got here\u2014how ''I'' got here. The clothes, they fit you well, I trust?''\n{{#tag:tabber|\n\"Yes, thank you.\"=\n*'''Kassandra:''' ''These may be the nicest clothes I've ever worn, but I feel... a bit uncomfortable, to be honest.''\n{{!}}-{{!}}\n\"They'd be fine if I had my weapons.\"=\n*'''Kassandra:''' ''I'd be more comfortable in these clothes if I had a blade in my hand.''\n}}\n|-|If Kassandra did not change clothes.=\n*'''Aspasia:''' ''We do what have to to survive, and there's no shame in that, believe me. You make an interesting choice, Kassandra, in not dressing to fit in.''\n*'''Kassandra:''' ''Fit in? Fancy clothes wouldn't help me fit in. Your Athenian {{Wiki|Chiton (garment)|chiton}}s are strange to me.''\n</tabber>\nRegardless, Aspasia agreed with Kassandra's sentiment.\n*'''Aspasia:''' ''You never really get used to them.''\nAspasia glanced up at the room.\n*'''Aspasia:''' ''It seems we have the attention of the entire room without a single eye being fixed on us. If you'd like to talk, do it now, and do it discreetly.''\n<tabber>\n|-|I'm searching for my mother.=\n*'''Kassandra:''' ''I've been searching for a woman named Myrrine... My mother. I think she may be in danger, and my search brought me here.''\n|-|I'm trailing a woman.=\n*'''Kassandra:''' ''I'm searching for a woman who fled Sparta with her child years ago. I was hoping you might help.''\n</tabber>\nAspasia asked what Kassandra had learned so far.\n*'''Aspasia:''' ''What clues do you have to her whereabouts?''\n*'''Kassandra:''' ''A physician named [[Hippokrates]] may have seen her in [[Argos]].''\n*'''Aspasia:''' ''He's a good man. If you find a woman named [[Agathe]] there, let her know Aspasia sends her regards. What else?''\n*'''Kassandra:''' ''Alkibiades gave me the name of a woman in [[Korinth]].''\n*'''Aspasia:''' ''I'm ''sure'' he did. My dear friend, [[Anthousa]], is the only one I know who's enjoyed a life in Korinth through legitimate means... mostly legitimate, anyway.''\n*'''Kassandra:''' ''That's all I have.''\n*'''Aspasia:''' ''There ''is'' another option. In a former life, when I needed something done, or someone found, I contacted a friend. An admiral, of a sort.''\n*'''Kassandra:''' ''What's his name?''\n*'''Aspasia:''' Her ''name is [[Xenia]]. When we last spoke, she was in [[Keos]]. A word of caution: when you go to her, be on your guard. Sea life makes a monster out of most people.''\n*'''Kassandra:''' ''Thank you, Aspasia.''\n*'''Aspasia:''' ''When you're done, return here. Together, we will find who you're looking for.''\nAspasia began to walk away, asking one last thing of her guest.\n*'''Aspasia:''' ''Now do me a favor and get Perikles to come down here to greet his guests.''\nBefore leaving, Kassandra spoke to Aspasia once more.\n*'''Aspasia:''' ''I'll help you however I can during your travels.''\nKassandra made her way upstairs to the balcony, where Perikles was talking with Herodotos.\n*'''Herodotos:''' ''Kassandra?''\n<tabber>\n|-|If Kassandra changed clothes=\n*'''Perikles:''' ''I didn't send for you. No matter how you've dressed for my party, Phoibe shouldn't have let you in.''\n|-|If Kassandra did not change clothes=\n*'''Perikles:''' ''I don't recall sending for you, ''misthios''. Phoibe shouldn't have let you in here.''\n</tabber>\n<tabber>\n|-|Aspasia sent me.=\n*'''Kassandra:''' ''Aspasia told me to come find you. She wants you to come down to the party.''\n*'''Perikles:''' ''She says I don't interact with our guests enough. But these parties aren't for me.''\n|-|Don't blame Phoibe.=\n*'''Kassandra:''' ''Phoibe did nothing wrong. Aspasia asked her to let me in.''\n*'''Perikles:''' (annoyed grunt)\n|-|Stop hiding from your guests.=\n*'''Kassandra:''' ''You've been hiding from your guests long enough. Aspasia seems to think so, too.''\n*'''Perikles:''' ''She usually does.''\n</tabber>\nPerikles proposed a way out of going downstairs.\n*'''Perikles:''' ''Technically you're a guest. If you join Herodotos and me, that should be enough for her, don't you think?''\n*'''Kassandra:''' ''You really don't want to go downstairs, do you?''\n*'''Perikles:''' ''When your days are spent speaking in front of crowds, you begin to crave these moments of silence.''\n*'''Herodotos:''' ''Or as silent as I let it be, at least.''\nPerikles chuckled.\n[[File:ACOD Perikles's Symposium Memory 10.png|thumb|250px|Kassandra with Herodotos and Perikles]]\n(If \"Why did you want [[Phidias]] to escape?\" was chosen.)\n*'''Kassandra:''' ''Phidias was awaiting trial, but you had me get him out of Athens. I figured you, of all people, would want to follow the law.''\n*'''Perikles:''' ''Phidias is a very dear friend. I didn't want to risk him being found guilty. And, of course, there were other threats.''\n*'''Kassandra:''' ''So you knew.''\n*'''Perikles:''' ''I know he's delusional, but... one day when you have a friend you'd do anything for, you'll understand.''\n(If \"Why did you ostracize your own friend?\" was chosen.)\n*'''Kassandra:''' ''I don't understand why you had [[Anaxagoras]] ostracized. Sokrates said he was your friend.''\n*'''Perikles:''' ''I won't risk the lives of those close to me if there's something I can do about it.''\n*'''Kassandra:''' ''So you did this to protect him?''\n*'''Perikles:''' ''Anaxagoras understood my fears. Ten years may be a long time, but at least he'll be safe.''\n(If \"Why would you send Metiochos somewhere dangerous?\" was chosen.)\n*'''Kassandra:''' ''Why send Metiochos to the fishing district if it's dangerous?''\n*'''Perikles:''' ''I would have never sent him into danger willingly.''\n*'''Kassandra:''' ''It seems you have many loyal friends.''\n*'''Perikles:''' ''My people are important to me.''\n(If \"I have something to tell you.\" was chosen.)\n*'''Kassandra:''' ''Your life is in danger.''\n*'''Perikles:''' ''Yes, yes. Herodotos was saying. This [[Cult of Kosmos|Cult]] doesn't worry me\u2014I have my life threatened by far worse people every day. My true concern is Athens. I fear for her future.''\n<tabber>\n|-|You should take this threat seriously.=\n*'''Kassandra:''' ''The Spartans aren't your real concern, Perikles. The Cult is coming. And they're bringing their strongest weapon.''\n*'''Herodotos:''' ''Listen to her, Perikles.''\n*'''Perikles:''' ''The Spartans are immediate. A Cult's threat is ambiguous.''\n*'''Kassandra:''' ''I'm... related to one of the Cult members. And I believe him when he says they're coming after you.''\n*'''Perikles:''' ''Sound counsel to consider. I'll be sure to let my men know regardless.''\n|-|I'd be worried about Athens, too.=\n*'''Kassandra:''' ''Spartans outside the walls, people crammed inside... I don't envy you.''\n*'''Perikles:''' ''Even so, there isn't another city I'd rather live in.''\n*'''Kassandra:''' ''I can't say I know how that feels.''\n*'''Perikles:''' ''When you find your place, you'll know it.''\n</tabber>\nPhoibe arrived on the balcony.\n*'''Phoibe:''' ''Aspasia sent me to see what's taking you so long.''\n*'''Perikles:''' ''Tell Aspasia I'll be right there. I suppose this is where our conversation ends. Thank you again for helping me. I hope my guests are able to help you in your search.''\n*'''Kassandra:''' ''Time will tell.''\nKassandra left the two on the balcony to continue their discussion. Soon, she ran into Phoibe again.\n*'''Phoibe:''' ''You look tired!''\n*'''Kassandra:''' ''Only of conversation. I think that's the most talking I've ever done.''\n*'''Phoibe:''' ''See, you didn't need a weapon after all! Are you leaving?''\n(\"I'm ready to go.\")\n*'''Kassandra:''' ''I've had enough to Athenian hospitality to last me a lifetime.''\n*'''Phoibe:''' ''You get used to it. It's nice! What are you going to do now?''\n<tabber>\n|-|I'm going to Keos.=\n*'''Kassandra:''' ''There's a woman on the island of Keos that I need to meet. I think I'll head there first.''\n*'''Phoibe:''' ''I've heard there are [[Piracy|pirates]] there!''\n*'''Kassandra:''' ''I'll be sure to be careful.''\n*'''Phoibe:''' ''Good.''\n|-|I'm going to Argolis.=\n*'''Kassandra:''' ''There is a physician in Argolos that may be able to help me.''\n*'''Phoibe:''' ''You're sick? You've never been sick!''\n*'''Kassandra:''' ''No, no, I'm fine. I just need to talk to him.''\n*'''Phoibe:''' ''Okay, good. It would be weird if you were sick.''\n|-|I'm going to Korinthia.=\n*'''Kassandra:''' ''There's a woman in Korinth I'd like to talk to.''\n*'''Phoibe:''' ''I've heard about that place from Alkibiades... he says you don't go there to talk.''\n*'''Kassandra:''' ''Alkibiades says a lot of things.''\n*'''Phoibe:''' ''He sure does! ''\n</tabber>\n<tabber>\n|-|If Kassandra had spared the plague victims=\n*'''Phoibe:''' ''Before you go, I heard something from Aspasia... about Kephallonia.''\n*'''Kassandra:''' ''What is it?''\n*'''Phoibe:''' ''She said there was some sort of plague. You don't think... My [[Kynna|friend]]... The blood fever...''\n*'''Kassandra:''' ''Don't think like that. Whatever happened on Kephallonia isn't our fault. I'll go myself and find out if this plague even happened, OK?''\n*'''Phoibe:''' ''OK... thanks. I knew I could count on you!''\n|-|If Kassandra did not save the plague victims=\n</tabber>\nKassandra re-equipped her gear and walked with Phoibe out of Perikles's home.\n*'''Kassandra:''' ''Not going to beg to come along this time?''\n*'''Phoibe:''' ''Nope! I'm happy here, and this isn't Kephallonia. That means you'll be back!''\n*'''Kassandra:''' ''That's very true.''\n*'''Phoibe:''' ''Plus, I really like working for Aspasia. She says she has a mission for me!''\n*'''Kassandra:''' ''I'll see you soon, Phoibe.''\n*'''Phoibe:''' ''Bye, Kassandra.''",
+    "Section_Outcome": "Kassandra obtained the names of several people who may have encountered Myrrine at some point in the past. She set out from Athens to meet them.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Le banquet de P\u00e9ricl\u00e8s]]",
+    "Chapter_SequenceID": "8.",
+    "Chapter_Name": "The Road to the Symposium",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After completing the entirety of the tasks laid out by Perikles, Kassandra made her way to [[Perikles' Residence]] to report her success.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''That's everything Perikles wanted. Time to return to him and find out what these Athenians know about my mother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She arrived at the gate, guarded by two [[Athens|Athenian]] [[soldier]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Athenian Light Soldier:''' ''We'll be watching you, ''[[mercenary|misthios]]''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Athenian Marksman:''' ''Ah, at least give them a welcome first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Athenian Light Soldier:''' ''Fine. Perikles welcomes you to his symposium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Kassandra entered the residence, where she was greeted by [[Phoibe]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "8",
+            "content": "[[File:ACOD Perikles's Symposium Memory 01.png|thumb|250px|Kassandra reunited with Phoibe]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Phoibe:''' ''Kassandra! It's you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Phoibe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Phoibe:''' ''You said you weren't coming back to [[Kephallonia]], so I decided to leave too!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I said I wouldn't be coming back, but I don't remember saying you should leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Phoibe:''' ''Well here I am!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "14",
+            "content": "(If \"How did you get here?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''How did you even get here, Phoibe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Phoibe:''' ''Well... I did make some [[drachma]]e working for [[Markos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''So you paid someone to bring you to Athens?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Phoibe:''' ''Not exactly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Phoibe:''' ''I needed the drachmae for when I arrived. I couldn't use it all to leave, and I didn't want to wait any longer, so I sneaked on a ship. Don't worry, nobody saw!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I just can't believe you made it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Phoibe:''' ''I don't remember much of Athens from when I was a baby, but every once in a while, something feels familiar. It's nice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "23",
+            "content": "(If \"I never expected to see you here.\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I can't believe you're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "25",
+            "content": "*'''Phoibe:''' ''Me either! I can't believe we both made it to Athens. It's so much different than Kephallonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''But what are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "27",
+            "content": "*'''Phoibe:''' ''I'm here to get you ready. I have to make sure you leave all your weapons and change into these clothes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''So, you somehow work here... For Perikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "29",
+            "content": "*'''Phoibe:''' ''No. For ''[[Aspasia]]''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "30",
+            "content": "(If \"Why do I have to change?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I don't understand why I have to change.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "32",
+            "content": "*'''Phoibe:''' ''It's just what you do here. I felt weird at first, but you forget about it pretty fast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''And my weapons?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "34",
+            "content": "*'''Phoibe:''' ''Don't worry, I'll take care of them! You don't want to scare people in there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Well...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "36",
+            "content": "(If \"Why are you working for Aspasia?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D29",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''How is it you're working for Aspasia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "38",
+            "content": "*'''Phoibe:''' ''Well, I did get into a little bit of trouble after I got to Athens. I may have been the leader of a small group of orphans that tried to cheat Aspasia. We didn't know it was her, though!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''And you... convinced her to hire you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "40",
+            "content": "*'''Phoibe:''' ''No, she asked me on her own!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''That was lucky.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "42",
+            "content": "(If \"I'm ready to go in.\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D34",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I think I'm ready to go in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "44",
+            "content": "*'''Phoibe:''' ''You can't! Not like that, anyway. The Athenians like it best when you try to ''fit in''. But don't worry, I have just the outfit for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "45",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "46",
+            "content": "|-|\"I will change my clothes.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I'll get changed. Promise you'll take care of my things?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "48",
+            "content": "*'''Phoibe:''' ''Yep. Leave your weapons in the corner, and I'll come back when you're done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "49",
+            "content": "Kassandra changed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''I feel... uncomfortable in this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "51",
+            "content": "*'''Phoibe:''' ''Now you look like everyone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''You say that like it's a good thing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "53",
+            "content": "*'''Phoibe:''' ''It is! If you want them to take you seriously, this is the easiest way. Trust me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "54",
+            "content": "|-|\"I won't change my clothes.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''There's no way I'm wearing that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "56",
+            "content": "*'''Phoibe:''' ''But if you don't\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''I mean it, Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "58",
+            "content": "*'''Phoibe:''' ''You ''have'' to leave your weapons here, though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "59",
+            "content": "Kassandra shook her head in disbelief.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D46",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "61",
+            "content": "Kassandra left to remove her weapons and returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D47",
+            "global_id": "62",
+            "content": "*'''Phoibe:''' ''Don't say I didn't warn you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D48",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Is that everything?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "65",
+            "content": "*'''Phoibe:''' ''You're all ready to go in! Don't worry, you've done scarier things than this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "66",
+            "content": "[[File:ACOD Perikles's Symposium Memory 02.png|thumb|250px|Kassandra dressed in an outfit]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D50",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''I'm struggling to think of any right now. Are you sure I can't keep just one weapon with me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "68",
+            "content": "*'''Phoibe:''' ''No weapons! Now, hurry and go in. Oh, and don't leave without saying bye!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "69",
+            "content": "Before leaving, Kassandra spoke to Phoibe once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "70",
+            "content": "*'''Phoibe:''' ''You just got here. You can't leave already!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "71",
+            "content": "Seeing she could not escape, Kassandra entered the Symposium and saw [[Herodotos]] standing at the entry. She passed him and approached [[Metiochos]], who was admiring a painting on the wall near the entry.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "72",
+            "content": "*'''Metiochos:''' ''Thank you for your help, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "73",
+            "content": "Kassandra left him and walked up to two men talking near a plinth covered in [[grape]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "74",
+            "content": "*'''[[Protagoras]]:''' Chaire''! We were just discussing [[Hermippos]]'s failures in his indictment of Aspasia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "75",
+            "content": "*'''Hermippos:''' ''Well, ''you'' were. I was sleeping with my eyes open.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "76",
+            "content": "Ignored, Kassandra tried talking to [[Sokrates]] and [[Thrasymachos]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "77",
+            "content": "*'''Thrasymachos:''' ''Yes, ''you'' come and talk to this infuriating air bladder. I've had my fill.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "78",
+            "content": "*'''Sokrates:''' ''Perhaps later. First, explain to me your point again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "79",
+            "content": "Kassandra again tried to speak to Sokrates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D58",
+            "global_id": "80",
+            "content": "*'''Sokrates:''' ''And so it isn't the rich and powerful, but the ''[[Greek mythology|gods]]'' who are the source of justice?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "81",
+            "content": "*'''Thrasymachos:''' ''What? No! Have you been listening to nothing I say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "82",
+            "content": "Kassandra tried once more to speak.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "83",
+            "content": "*'''Sokrates:''' ''Ah, the ''misthios'' from the [[ostracism]]! Let's talk later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "84",
+            "content": "Her attempts defeated, Kassandra left the men to their argument and returned to speak with Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "85",
+            "content": "*'''Herodotos:''' Chaire'', Kassandra! The mighty mercenary and traveler has finally made her grand entrance. Only slightly late, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Herodotos! Athenians have no problem letting me know when I'm not welcome. It's a relief to see your friendly face.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "87",
+            "content": "*'''Herodotos:''' ''Don't let the company here tonight intimidate you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''I won't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "89",
+            "content": "*'''Herodotos:''' ''Perikles is no king. He needs these guests to love him, so that the people love him. And they, in turn, need Perikles. You're no different from any of them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''Do you really think these people will help me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "91",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "92",
+            "content": "|-|If Kassandra changed clothes=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "93",
+            "content": "*'''Herodotos:''' ''They will if you get them to trust you. And you've wisely dressed for the occasion. ''Appearing'' trustworthy is the most important part of being trusted, after all. Now then, come let me introduce you to everyone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "94",
+            "content": "|-|If Kassandra did not change clothes=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "95",
+            "content": "*'''Herodotos:''' ''Perhaps your... individual fashion sense will get their memories working. Now then, come let me introduce you to everyone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "96",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N14",
+            "global_id": "97",
+            "content": "Herodotos escorted Kassandra to the main court.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D69",
+            "global_id": "98",
+            "content": "*'''Herodotos:''' ''They may not look it, but this group holds the way to the future on the tip of their opinionated tongues.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "99",
+            "content": "Herotodos pointed to two individuals amongst the crowd.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "100",
+            "content": "[[File:ACOD Perikles's Symposium Memory 03.png|thumb|250px|The symposium]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D70",
+            "global_id": "101",
+            "content": "*'''Herotodos:''' ''Ah, [[Sophokles]] and [[Euripides]], for example. Two of the most celebrated playwrights to date. No one can throw stones as far as they can. They appear to be locked in some kind of intellectual struggle, as is their way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "102",
+            "content": "*'''Sophokles:''' ''He's a writer of comedies, of all things! Comedies, Euripides!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "103",
+            "content": "Sophokles left and entered a room, angry. Euripides and another [[Aristophanes|individual]] laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS3",
+            "global_id": "104",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "105",
+            "content": "|-|I've heard of Sophokles.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D72",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''I've heard of Sophokles. In my line of work, it pays to know who the richest and most famous men are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "107",
+            "content": "|-|That doesn't look very \"intellectual.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D73",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''It looks more like a lover's quarrel to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "109",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N17",
+            "global_id": "110",
+            "content": "Herodotos pointed to Hermippos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D74",
+            "global_id": "111",
+            "content": "*'''Herodotos:''' ''Hermippos has also written his fair share of comedies...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "112",
+            "content": "Hermippos put his hand on Protagoras' shoulder.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D75",
+            "global_id": "113",
+            "content": "*'''Hermippos:''' ''You should drink more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "114",
+            "content": "*'''Herodotos:''' ''Lately his attitudes have garnered him more notice than his works. However, the fellow beside him, Protagoras, is a sophist worthy of as much praise as the great Sokrates himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "115",
+            "content": "They looked at Sokrates, still arguing with Thrasymachos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS4",
+            "global_id": "116",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "117",
+            "content": "|-|I'm surprised Sokrates is here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D77",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''Inviting Sokrates seems like a good way to ruin everyone's night. I'm surprised they would let him in the door.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "119",
+            "content": "|-|Sokrates isn't so \"great.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D78",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''I'm not sure \"great\" is the term I would use...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "121",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D79",
+            "global_id": "122",
+            "content": "*'''Herodotos:''' ''Oh, don't let Sokrates get under your skin. At least he wore shoes for the occasion... And the poor thing gesticulating like an ape is Thrasymachos. If you listen closely, you'll notice he and Sokrates are actually arguing the same points. But the wind from his wild gestures deafens him to critique.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "123",
+            "content": "*'''Thrasymachos:''' ''That isn't at all what I mean!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "124",
+            "content": "They walked to the middle of the court.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D81",
+            "global_id": "125",
+            "content": "*'''Kassandra:''' ''Where is Perikles?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "126",
+            "content": "*'''Herodotos:''' ''Oh! He never attends his own parties. Which reminds me, there's something I need to get his help with...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "127",
+            "content": "[[File:ACOD Perikles's Symposium Memory 05.png|thumb|250px|Kassandra meet Alkibiades]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N21",
+            "global_id": "128",
+            "content": "A drunken individual behind interrupted them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D83",
+            "global_id": "129",
+            "content": "*'''[[Alkibiades]]:''' ''Vile Sokrates! Always appearing where I least expect him. Warrior, protect me from his amorous gaze! ...Oh, Alkibiades. This is not a time for jealousy, but for love!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "130",
+            "content": "Alkibiades drunkenly staggered off, taking a man and woman through a doorway to another hall. Herodotos awkwardly cleared his throat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D84",
+            "global_id": "131",
+            "content": "*'''Herodotos:''' ''Let's not use Alkibiades as an example. Be good, and don't drink too much. So, tell me, what does a ''misthios'' like you think of a party like this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "132",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "133",
+            "content": "|-|Alkibiades seems interesting.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D85",
+            "global_id": "134",
+            "content": "*'''Kassandra:''' ''This party could be fun. Alkibiades drinks like a [[Sparta]]n. Maybe he fights like one, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "135",
+            "content": "*'''Herodotos:''' ''If I could suggest anything\u2014please don't start a fight. Or end one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "136",
+            "content": "|-|Parties aren't my specialty.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D87",
+            "global_id": "137",
+            "content": "*'''Kassandra:''' ''This is going to be a long night. Parties should be about vomiting up blood, not vomiting up poetry. These people are so... clean.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "138",
+            "content": "*'''Herodotos:''' ''If these guests aren't up to your own... unique tastes, then just focus on why you came here in the first place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "139",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D89",
+            "global_id": "140",
+            "content": "*'''Kassandra:''' ''Thank you, Herodotos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "141",
+            "content": "*'''Herodotos:''' ''Now, if you'll excuse me. Perikles is here somewhere, and I need to prepare him... If he's alone, I'll tell him what [[Alexios|your brother]] said.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS6",
+            "global_id": "142",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "143",
+            "content": "|-|You should get going.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D91",
+            "global_id": "144",
+            "content": "*'''Kassandra:''' ''Agreed, Perikles needs to know. I'll stay here and look for clues.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "145",
+            "content": "*'''Herodotos:''' ''I hope they know something about your mother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "146",
+            "content": "*'''Kassandra:''' ''Me too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC12",
+            "global_id": "147",
+            "content": "|-|Don't leave me alone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D94",
+            "global_id": "148",
+            "content": "*'''Kassandra:''' ''Your leaving me alone with these people?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "149",
+            "content": "*'''Herodotos:''' ''Ha! You'll do fine without me. I promise. Just relax, talk to the others, and focus on finding your mother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE6",
+            "global_id": "150",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N23",
+            "global_id": "151",
+            "content": "Herodotos took his leave, leaving Kassandra alone to talk to those within the Symposium. She approached Hermippos and Protagoras.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I5",
+            "global_id": "152",
+            "content": "[[File:ACOD Perikles's Symposium Memory 06.png|thumb|250px|Kassandra with Hermippos and Protagoras]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D96",
+            "global_id": "153",
+            "content": "*'''Protagoras:''' ''Of course, I only use terms war, or god, or civility, in context of what can be observed. So, I can observe soldiers fighting, but does that bring me any closer to understand war?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "154",
+            "content": "Hermippos turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D97",
+            "global_id": "155",
+            "content": "*'''Hermippos:''' ''I haven't seen you around before, citizen. Perhaps you'd like to spare me conversing with this man of nonsense?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "156",
+            "content": "(Leave \u2013 \"I'll pass.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D98",
+            "global_id": "157",
+            "content": "*'''Kassandra:''' ''All you people do is talk. I'd rather not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "158",
+            "content": "The two men let out angry huffs. Kassandra left the pair, only to change her mind and return later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D99",
+            "global_id": "159",
+            "content": "*'''Hermippos:''' ''You're back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "160",
+            "content": "(Accept \u2013 \"Let's talk.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D100",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''Sure, we can talk. What about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "162",
+            "content": "*'''Hermippos:''' ''Before Protagoras changed the subject, we were talking about the next greater leader of Athens\u2014[[Kleon]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS7",
+            "global_id": "163",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "164",
+            "content": "|-|Kleon is great.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D102",
+            "global_id": "165",
+            "content": "*'''Kassandra:''' ''I saw Kleon speaking at the [[Pnyx]]. He is a real man of the people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D103",
+            "global_id": "166",
+            "content": "*'''Hermippos:''' ''So!  You have a taste for politics. That's certainly better than most of the elitist blowhards in this house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D104",
+            "global_id": "167",
+            "content": "*'''Kassandra:''' ''I take it you and Perikles aren't friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D105",
+            "global_id": "168",
+            "content": "*'''Protagoras:''' ''Hardly! Hermippos led the charge to have Aspasia ostracized and to see Perikles stripped of power\u2014not that it worked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D106",
+            "global_id": "169",
+            "content": "*'''Hermippos:''' ''Yet. Perikles is the past. He's more worried about losing a few precious statues than he is fighting and winning the war. Kleon will rule this city and return it to greatness\u2014mark my words.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "170",
+            "content": "(If \"What do you know of my mother?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D107",
+            "global_id": "171",
+            "content": "*'''Kassandra:''' ''I'm looking for clues to help me find a woman. She was Spartan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D108",
+            "global_id": "172",
+            "content": "*'''Protagoras:''' ''Looking and finding are quite different things, wouldn't you say? I could observe a priest offering sacrifice to the gods, but does that mean in so doing that I have, found god? Or...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D109",
+            "global_id": "173",
+            "content": "*'''Kassandra:''' ''Oh, forget it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC14",
+            "global_id": "174",
+            "content": "|-|Let's talk about why I'm here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D110",
+            "global_id": "175",
+            "content": "*'''Kassandra:''' ''I'll change the subject again. I'm looking for someone\u2014a [[Sparta]]n woman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D111",
+            "global_id": "176",
+            "content": "*'''Hermippos:''' ''Spartan? Hopefully she's dead in the gutters\u2014it's better than those mongrels deserve.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D112",
+            "global_id": "177",
+            "content": "*'''Protagoras:''' ''I wonder... if you found the woman, even if you saw her with your own eyes, would you believe her existence to be true?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D113",
+            "global_id": "178",
+            "content": "*'''Kassandra:''' ''This is getting nowhere. Forget it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D114",
+            "global_id": "179",
+            "content": "*'''Protagoras:''' ''If you don't want to discuss that, then what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "180",
+            "content": "Kassandra turned to Hermippos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC15",
+            "global_id": "181",
+            "content": "|-|Kleon is an idiot.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D115",
+            "global_id": "182",
+            "content": "*'''Kassandra:''' ''I saw Kleon talk at the Pnyx. Even for a politician, he's scum.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D116",
+            "global_id": "183",
+            "content": "*'''Hermippos:''' ''Bah, you sound like every other blowhard in this place. Kleon is a champion of the people, and he's ready to tear down Perikles' elitism.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D117",
+            "global_id": "184",
+            "content": "*'''Kassandra:''' ''I take it you and Perikles aren't friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D118",
+            "global_id": "185",
+            "content": "*'''Protagoras:''' ''Hardly! Hermippos led the charge to have Aspasia ostracized and to see Perikles stripped of power\u2014not that it worked.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D119",
+            "global_id": "186",
+            "content": "*'''Hermippos:''' ''Yet. Perikles is the past. He's more worried about losing a few precious statues than he is fighting and winning the war. Kleon will rule this city and return it to greatness\u2014mark my words.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "187",
+            "content": "(If \"What do you know of my mother?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D120",
+            "global_id": "188",
+            "content": "*'''Kassandra:''' ''I'm looking for clues to help me find a woman. She was Spartan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D121",
+            "global_id": "189",
+            "content": "*'''Protagoras:''' ''Looking and finding are quite different things, wouldn't you say? I could observe a priest offering sacrifice to the gods, but does that mean in so doing that I have, found god? Or...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D122",
+            "global_id": "190",
+            "content": "*'''Kassandra:''' ''Oh, forget it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE7",
+            "global_id": "191",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C8",
+            "global_id": "192",
+            "content": "(If \"Why would Perikles invite you?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D123",
+            "global_id": "193",
+            "content": "*'''Kassandra:''' ''If you're an ally of Kleon, why would Perikles invite you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D124",
+            "global_id": "194",
+            "content": "*'''Hermippos:''' ''You're not from Athens, outsider. Here, we keep our enemies closest of all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C9",
+            "global_id": "195",
+            "content": "(If \"Where's Aspasia?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D125",
+            "global_id": "196",
+            "content": "*'''Kassandra:''' ''Why isn't Aspasia here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D126",
+            "global_id": "197",
+            "content": "*'''Protagoras:''' ''Can you be certain she isn't? To observe her presence is still no guarantee that she is here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D127",
+            "global_id": "198",
+            "content": "*'''Hermippos:''' ''In my opinion, it's just like her to cower in the shadows while we stand out here in the light.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "199",
+            "content": "(Leave \u2013 \"That's enough talk.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D128",
+            "global_id": "200",
+            "content": "*'''Kassandra:''' ''This has been... useless. ''Chaire''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N27",
+            "global_id": "201",
+            "content": "Kassandra sought out Sophokles and Alkibiades to get the information she needed. After [[Drink Up|fulfilling]] their [[Oil and Love|requests]], she returned to the symposium and re-engaged Sokrates in dialogue.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS8",
+            "global_id": "202",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "203",
+            "content": "|-|Intro 1=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O4",
+            "global_id": "204",
+            "content": "(If Kassandra told Sokrates her name during \"[[Ostracized]]\", then stated that \"[[Drachma]]e\" is most important)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D129",
+            "global_id": "205",
+            "content": "*'''Sokrates:''' ''Ah, here comes the one who claims to value drachmae over the noble path that leads to knowledge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D130",
+            "global_id": "206",
+            "content": "*'''Kassandra:''' ''Like I told you, \"knowledge\" can't feed me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D131",
+            "global_id": "207",
+            "content": "*'''Sokrates:''' ''But the mind must be fed as well!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC17",
+            "global_id": "208",
+            "content": "|-|Intro 2=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O5",
+            "global_id": "209",
+            "content": "(If Kassandra told Sokrates her name during \"Ostracized\", then agreed with him that \"Knowledge\" is most important)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D132",
+            "global_id": "210",
+            "content": "*'''Sokrates:''' ''Ah, if it isn't the one who agrees that knowledge is most important!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D133",
+            "global_id": "211",
+            "content": "*'''Kassandra:''' ''I think we agreed our use of that knowledge couldn't be more different.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D134",
+            "global_id": "212",
+            "content": "*'''Sokrates:''' ''You remember! Perhaps that conversation can continue.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC18",
+            "global_id": "213",
+            "content": "|-|Intro 3=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O6",
+            "global_id": "214",
+            "content": "(If Kassandra told Sokrates during \"Ostracized\" that she was a mercenary who would do anything for the right price)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D135",
+            "global_id": "215",
+            "content": "*'''Sokrates:''' ''I admit, I'm surprised to see you here. But, \"everything has a price,\" as you said. I can't help but wonder what price you paid to gain entry to this symposium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D136",
+            "global_id": "216",
+            "content": "*'''Kassandra:''' ''Keep wondering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC19",
+            "global_id": "217",
+            "content": "|-|Intro 4=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O7",
+            "global_id": "218",
+            "content": "(If Kassandra told Sokrates during \"Ostracized\" that she was a mercenary who had a line she wouldn't cross)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D137",
+            "global_id": "219",
+            "content": "*'''Sokrates:''' ''Being so new to Athens, and gaining access to this symposium, is no small feat. Though you said there are things you wouldn't do, you gained Perikles's trust so quickly...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D138",
+            "global_id": "220",
+            "content": "*'''Kassandra:''' ''I've made my choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE8",
+            "global_id": "221",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N28",
+            "global_id": "222",
+            "content": "Thrasymachos interjected, accused Sokrates of using her presence as a distraction.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D139",
+            "global_id": "223",
+            "content": "*'''Thrasymachos:''' ''You really intend to use this young distraction to avoid the point being argued?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS9",
+            "global_id": "224",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC20",
+            "global_id": "225",
+            "content": "|-|It can't be that important.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D140",
+            "global_id": "226",
+            "content": "*'''Kassandra:''' ''If you've been arguing this long, and you haven't agreed yet, just give up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC21",
+            "global_id": "227",
+            "content": "|-|I'm intrigued.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D141",
+            "global_id": "228",
+            "content": "*'''Kassandra:''' ''You have been arguing a single point all night, and no one has a black eye? You have my attention.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE9",
+            "global_id": "229",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D142",
+            "global_id": "230",
+            "content": "*'''Sokrates:''' ''We're discussing the nature of rulers. Where better to do so than here? I'll ask you the same question I asked Thrasymachos: would you agree that the act of ruling is an art?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I6",
+            "global_id": "231",
+            "content": "[[File:ACOD Perikles's Symposium Memory 08.png|thumb|250px|Kassandra with Sokrates and Thrasymachos]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D143",
+            "global_id": "232",
+            "content": "*'''Thrasymachos:''' ''It is an art, as all worthy undertakings are. That is not up for argument.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D144",
+            "global_id": "233",
+            "content": "*'''Sokrates:''' ''Yet, medicine is for the betterment of the patient, and not the physician. Carpentry improves the building, not the builder. Then\u2014is the art of ruling not for the betterment of the ruled rather than the ruler?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D145",
+            "global_id": "234",
+            "content": "*'''Thrasymachos:''' ''Don't be absurd!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "235",
+            "content": "{{-}}",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS10",
+            "global_id": "236",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC22",
+            "global_id": "237",
+            "content": "|-|Rulers are unjust.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D146",
+            "global_id": "238",
+            "content": "*'''Kassandra:''' ''I have seen enough of the world to know that there are no \"just\" rulers. Even Perikles is self-serving.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D147",
+            "global_id": "239",
+            "content": "*'''Sokrates:''' ''Is a Spartan general who brings order to his troops, thereby saving his own life, self-serving? I'm not sure that's the case.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D148",
+            "global_id": "240",
+            "content": "*'''Kassandra:''' ''Ruling a city and fighting in battle are different things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D149",
+            "global_id": "241",
+            "content": "*'''Sokrates:''' ''By practicing the art of war, doesn't the general guarantee some of his troops a ferry ride to [[Hades]], when a swift retreat would save all their lives?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "242",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC23",
+            "global_id": "243",
+            "content": "You're contradicting yourself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D150",
+            "global_id": "244",
+            "content": "*'''Kassandra:''' ''You just said a general isn't self-serving when he brings order to his troops. Then you said he ''is'' self-serving because retreating would save the lives of his men. What are you trying to say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D151",
+            "global_id": "245",
+            "content": "*'''Sokrates:''' ''I never ''try'' to say anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D152",
+            "global_id": "246",
+            "content": "*'''Kassandra:''' ''But you ''just'' said those things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D153",
+            "global_id": "247",
+            "content": "*'''Sokrates:''' ''I said the words, but I didn't ''say'' anything at all. I only attempted to gain your view on the matter.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D154",
+            "global_id": "248",
+            "content": "*'''Thrasymachos:''' ''You're wasting your time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "249",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC24",
+            "global_id": "250",
+            "content": "I'm done talking about this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D155",
+            "global_id": "251",
+            "content": "*'''Kassandra:''' ''I've already had conversations like this with you, Sokrates. I'm not in the mood to spend the rest of my night standing here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D156",
+            "global_id": "252",
+            "content": "*'''Sokrates:''' ''I'd never ask you to do such a thing! You've said plenty, and I feel I know you even better now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D157",
+            "global_id": "253",
+            "content": "*'''Thrasymachos:''' ''Go while you still can. Perhaps you've loosened his ears to my point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "254",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC25",
+            "global_id": "255",
+            "content": "|-|This is a waste of time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D158",
+            "global_id": "256",
+            "content": "*'''Kassandra:''' ''This argument between you two is pointless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D159",
+            "global_id": "257",
+            "content": "*'''Sokrates:''' ''Perhaps. How do you define art?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D160",
+            "global_id": "258",
+            "content": "*'''Kassandra:''' ''I'm not getting dragged into this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D161",
+            "global_id": "259",
+            "content": "*'''Sokrates:''' ''Very well. Answer this: does the artist not give form and symmetry to her subject?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D162",
+            "global_id": "260",
+            "content": "*'''Kassandra:''' ''Well, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D163",
+            "global_id": "261",
+            "content": "*'''Sokrates:''' ''Laws and justice do much the same for people, do they not? And is there any better way to communicate the story of a people than by revealing its customs and laws? If yes, then ruling, and thus justice, must be an art, as Thrasymachos says.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D164",
+            "global_id": "262",
+            "content": "*'''Kassandra:''' ''If you say so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE10",
+            "global_id": "263",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N29",
+            "global_id": "264",
+            "content": "Thrasymachos looked to the entrance and saw Aspasia enter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D165",
+            "global_id": "265",
+            "content": "*'''Thrasymachos:''' ''Aspasia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N30",
+            "global_id": "266",
+            "content": "As the three conversed, Aspasia entered the room with a smile, seizing the attention of the entire symposium. As she walked past, everyone gave a small bow, Kassandra doing so just a little late. Kassandra walked over to where she stood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS11",
+            "global_id": "267",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC26",
+            "global_id": "268",
+            "content": "|-|If Kassandra indulged Sokrates in debate=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D166",
+            "global_id": "269",
+            "content": "*'''Aspasia:''' ''I couldn't help but notice your talent for debate. Well done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D167",
+            "global_id": "270",
+            "content": "*'''Kassandra:''' ''Sokrates is an... interesting character.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC27",
+            "global_id": "271",
+            "content": "|-|If Kassandra said \"This is a waste of time\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D168",
+            "global_id": "272",
+            "content": "*'''Aspasia:''' ''You shouldn't be too hard on Sokrates. He really has a brilliant mind, even if he comes off a little strong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D169",
+            "global_id": "273",
+            "content": "*'''Kassandra:''' ''He isn't always like that, is he?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE11",
+            "global_id": "274",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N31",
+            "global_id": "275",
+            "content": "Phoibe presented herself to Aspasia and Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D170",
+            "global_id": "276",
+            "content": "*'''Aspasia:''' ''Ah, Phoibe. Perikles has retired to the balcony already, has he? His ability to sneak off and sulk is second to none.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D171",
+            "global_id": "277",
+            "content": "*'''Phoibe:''' ''I can go get him, and Kassandra can help! Everyone listens when she talks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D172",
+            "global_id": "278",
+            "content": "*'''Aspasia:''' ''That'll be fine. Run along. Kassandra will be right behind you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N32",
+            "global_id": "279",
+            "content": "She turned to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D173",
+            "global_id": "280",
+            "content": "*'''Aspasia:''' ''Now, allow me to introduce myself. My name is Aspasia. I had to go to great lengths to cover up your work in [[Megaris]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS12",
+            "global_id": "281",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC28",
+            "global_id": "282",
+            "content": "|-|That wasn't me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D174",
+            "global_id": "283",
+            "content": "*'''Kassandra:''' ''I have no idea what you're talking about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D175",
+            "global_id": "284",
+            "content": "*'''Aspasia:''' ''Oh now. To convince someone in this house, even your eyes must tell a lie.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D176",
+            "global_id": "285",
+            "content": "*'''Kassandra:''' ''Fine, it was me. But my actions were personal, not political.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC29",
+            "global_id": "286",
+            "content": "|-|You've been spying on me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D177",
+            "global_id": "287",
+            "content": "*'''Kassandra:''' ''Your spies have been watching me. I knew you people cannot be trusted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC30",
+            "global_id": "288",
+            "content": "|-|I did what was necessary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D178",
+            "global_id": "289",
+            "content": "*'''Kassandra:''' ''I did what I had to do, and I'd do it again. I make no apologies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE12",
+            "global_id": "290",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N33",
+            "global_id": "291",
+            "content": "Aspasia looked at Kassandra's attire.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS13",
+            "global_id": "292",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC31",
+            "global_id": "293",
+            "content": "|-|If Kassandra changed clothes.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D179",
+            "global_id": "294",
+            "content": "*'''Aspasia:''' ''We do what we must to survive, and there's no shame in that. It's how you got here\u2014how ''I'' got here. The clothes, they fit you well, I trust?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "295",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC32",
+            "global_id": "296",
+            "content": "\"Yes, thank you.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D180",
+            "global_id": "297",
+            "content": "*'''Kassandra:''' ''These may be the nicest clothes I've ever worn, but I feel... a bit uncomfortable, to be honest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "298",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC33",
+            "global_id": "299",
+            "content": "\"They'd be fine if I had my weapons.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D181",
+            "global_id": "300",
+            "content": "*'''Kassandra:''' ''I'd be more comfortable in these clothes if I had a blade in my hand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "301",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC34",
+            "global_id": "302",
+            "content": "|-|If Kassandra did not change clothes.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D182",
+            "global_id": "303",
+            "content": "*'''Aspasia:''' ''We do what have to to survive, and there's no shame in that, believe me. You make an interesting choice, Kassandra, in not dressing to fit in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D183",
+            "global_id": "304",
+            "content": "*'''Kassandra:''' ''Fit in? Fancy clothes wouldn't help me fit in. Your Athenian {{Wiki|Chiton (garment)|chiton}}s are strange to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE13",
+            "global_id": "305",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N34",
+            "global_id": "306",
+            "content": "Regardless, Aspasia agreed with Kassandra's sentiment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D184",
+            "global_id": "307",
+            "content": "*'''Aspasia:''' ''You never really get used to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N35",
+            "global_id": "308",
+            "content": "Aspasia glanced up at the room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D185",
+            "global_id": "309",
+            "content": "*'''Aspasia:''' ''It seems we have the attention of the entire room without a single eye being fixed on us. If you'd like to talk, do it now, and do it discreetly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS14",
+            "global_id": "310",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC35",
+            "global_id": "311",
+            "content": "|-|I'm searching for my mother.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D186",
+            "global_id": "312",
+            "content": "*'''Kassandra:''' ''I've been searching for a woman named Myrrine... My mother. I think she may be in danger, and my search brought me here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC36",
+            "global_id": "313",
+            "content": "|-|I'm trailing a woman.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D187",
+            "global_id": "314",
+            "content": "*'''Kassandra:''' ''I'm searching for a woman who fled Sparta with her child years ago. I was hoping you might help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE14",
+            "global_id": "315",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N36",
+            "global_id": "316",
+            "content": "Aspasia asked what Kassandra had learned so far.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D188",
+            "global_id": "317",
+            "content": "*'''Aspasia:''' ''What clues do you have to her whereabouts?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D189",
+            "global_id": "318",
+            "content": "*'''Kassandra:''' ''A physician named [[Hippokrates]] may have seen her in [[Argos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D190",
+            "global_id": "319",
+            "content": "*'''Aspasia:''' ''He's a good man. If you find a woman named [[Agathe]] there, let her know Aspasia sends her regards. What else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D191",
+            "global_id": "320",
+            "content": "*'''Kassandra:''' ''Alkibiades gave me the name of a woman in [[Korinth]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D192",
+            "global_id": "321",
+            "content": "*'''Aspasia:''' ''I'm ''sure'' he did. My dear friend, [[Anthousa]], is the only one I know who's enjoyed a life in Korinth through legitimate means... mostly legitimate, anyway.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D193",
+            "global_id": "322",
+            "content": "*'''Kassandra:''' ''That's all I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D194",
+            "global_id": "323",
+            "content": "*'''Aspasia:''' ''There ''is'' another option. In a former life, when I needed something done, or someone found, I contacted a friend. An admiral, of a sort.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D195",
+            "global_id": "324",
+            "content": "*'''Kassandra:''' ''What's his name?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D196",
+            "global_id": "325",
+            "content": "*'''Aspasia:''' Her ''name is [[Xenia]]. When we last spoke, she was in [[Keos]]. A word of caution: when you go to her, be on your guard. Sea life makes a monster out of most people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D197",
+            "global_id": "326",
+            "content": "*'''Kassandra:''' ''Thank you, Aspasia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D198",
+            "global_id": "327",
+            "content": "*'''Aspasia:''' ''When you're done, return here. Together, we will find who you're looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N37",
+            "global_id": "328",
+            "content": "Aspasia began to walk away, asking one last thing of her guest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D199",
+            "global_id": "329",
+            "content": "*'''Aspasia:''' ''Now do me a favor and get Perikles to come down here to greet his guests.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N38",
+            "global_id": "330",
+            "content": "Before leaving, Kassandra spoke to Aspasia once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D200",
+            "global_id": "331",
+            "content": "*'''Aspasia:''' ''I'll help you however I can during your travels.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N39",
+            "global_id": "332",
+            "content": "Kassandra made her way upstairs to the balcony, where Perikles was talking with Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D201",
+            "global_id": "333",
+            "content": "*'''Herodotos:''' ''Kassandra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS15",
+            "global_id": "334",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC37",
+            "global_id": "335",
+            "content": "|-|If Kassandra changed clothes=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D202",
+            "global_id": "336",
+            "content": "*'''Perikles:''' ''I didn't send for you. No matter how you've dressed for my party, Phoibe shouldn't have let you in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC38",
+            "global_id": "337",
+            "content": "|-|If Kassandra did not change clothes=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D203",
+            "global_id": "338",
+            "content": "*'''Perikles:''' ''I don't recall sending for you, ''misthios''. Phoibe shouldn't have let you in here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE15",
+            "global_id": "339",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS16",
+            "global_id": "340",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC39",
+            "global_id": "341",
+            "content": "|-|Aspasia sent me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D204",
+            "global_id": "342",
+            "content": "*'''Kassandra:''' ''Aspasia told me to come find you. She wants you to come down to the party.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D205",
+            "global_id": "343",
+            "content": "*'''Perikles:''' ''She says I don't interact with our guests enough. But these parties aren't for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC40",
+            "global_id": "344",
+            "content": "|-|Don't blame Phoibe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D206",
+            "global_id": "345",
+            "content": "*'''Kassandra:''' ''Phoibe did nothing wrong. Aspasia asked her to let me in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D207",
+            "global_id": "346",
+            "content": "*'''Perikles:''' (annoyed grunt)",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC41",
+            "global_id": "347",
+            "content": "|-|Stop hiding from your guests.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D208",
+            "global_id": "348",
+            "content": "*'''Kassandra:''' ''You've been hiding from your guests long enough. Aspasia seems to think so, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D209",
+            "global_id": "349",
+            "content": "*'''Perikles:''' ''She usually does.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE16",
+            "global_id": "350",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N40",
+            "global_id": "351",
+            "content": "Perikles proposed a way out of going downstairs.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D210",
+            "global_id": "352",
+            "content": "*'''Perikles:''' ''Technically you're a guest. If you join Herodotos and me, that should be enough for her, don't you think?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D211",
+            "global_id": "353",
+            "content": "*'''Kassandra:''' ''You really don't want to go downstairs, do you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D212",
+            "global_id": "354",
+            "content": "*'''Perikles:''' ''When your days are spent speaking in front of crowds, you begin to crave these moments of silence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D213",
+            "global_id": "355",
+            "content": "*'''Herodotos:''' ''Or as silent as I let it be, at least.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N41",
+            "global_id": "356",
+            "content": "Perikles chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I7",
+            "global_id": "357",
+            "content": "[[File:ACOD Perikles's Symposium Memory 10.png|thumb|250px|Kassandra with Herodotos and Perikles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C10",
+            "global_id": "358",
+            "content": "(If \"Why did you want [[Phidias]] to escape?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D214",
+            "global_id": "359",
+            "content": "*'''Kassandra:''' ''Phidias was awaiting trial, but you had me get him out of Athens. I figured you, of all people, would want to follow the law.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D215",
+            "global_id": "360",
+            "content": "*'''Perikles:''' ''Phidias is a very dear friend. I didn't want to risk him being found guilty. And, of course, there were other threats.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D216",
+            "global_id": "361",
+            "content": "*'''Kassandra:''' ''So you knew.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D217",
+            "global_id": "362",
+            "content": "*'''Perikles:''' ''I know he's delusional, but... one day when you have a friend you'd do anything for, you'll understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C11",
+            "global_id": "363",
+            "content": "(If \"Why did you ostracize your own friend?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D218",
+            "global_id": "364",
+            "content": "*'''Kassandra:''' ''I don't understand why you had [[Anaxagoras]] ostracized. Sokrates said he was your friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D219",
+            "global_id": "365",
+            "content": "*'''Perikles:''' ''I won't risk the lives of those close to me if there's something I can do about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D220",
+            "global_id": "366",
+            "content": "*'''Kassandra:''' ''So you did this to protect him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D221",
+            "global_id": "367",
+            "content": "*'''Perikles:''' ''Anaxagoras understood my fears. Ten years may be a long time, but at least he'll be safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C12",
+            "global_id": "368",
+            "content": "(If \"Why would you send Metiochos somewhere dangerous?\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D222",
+            "global_id": "369",
+            "content": "*'''Kassandra:''' ''Why send Metiochos to the fishing district if it's dangerous?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D223",
+            "global_id": "370",
+            "content": "*'''Perikles:''' ''I would have never sent him into danger willingly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D224",
+            "global_id": "371",
+            "content": "*'''Kassandra:''' ''It seems you have many loyal friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D225",
+            "global_id": "372",
+            "content": "*'''Perikles:''' ''My people are important to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C13",
+            "global_id": "373",
+            "content": "(If \"I have something to tell you.\" was chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D226",
+            "global_id": "374",
+            "content": "*'''Kassandra:''' ''Your life is in danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D227",
+            "global_id": "375",
+            "content": "*'''Perikles:''' ''Yes, yes. Herodotos was saying. This [[Cult of Kosmos|Cult]] doesn't worry me\u2014I have my life threatened by far worse people every day. My true concern is Athens. I fear for her future.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS17",
+            "global_id": "376",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC42",
+            "global_id": "377",
+            "content": "|-|You should take this threat seriously.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D228",
+            "global_id": "378",
+            "content": "*'''Kassandra:''' ''The Spartans aren't your real concern, Perikles. The Cult is coming. And they're bringing their strongest weapon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D229",
+            "global_id": "379",
+            "content": "*'''Herodotos:''' ''Listen to her, Perikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D230",
+            "global_id": "380",
+            "content": "*'''Perikles:''' ''The Spartans are immediate. A Cult's threat is ambiguous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D231",
+            "global_id": "381",
+            "content": "*'''Kassandra:''' ''I'm... related to one of the Cult members. And I believe him when he says they're coming after you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D232",
+            "global_id": "382",
+            "content": "*'''Perikles:''' ''Sound counsel to consider. I'll be sure to let my men know regardless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC43",
+            "global_id": "383",
+            "content": "|-|I'd be worried about Athens, too.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D233",
+            "global_id": "384",
+            "content": "*'''Kassandra:''' ''Spartans outside the walls, people crammed inside... I don't envy you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D234",
+            "global_id": "385",
+            "content": "*'''Perikles:''' ''Even so, there isn't another city I'd rather live in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D235",
+            "global_id": "386",
+            "content": "*'''Kassandra:''' ''I can't say I know how that feels.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D236",
+            "global_id": "387",
+            "content": "*'''Perikles:''' ''When you find your place, you'll know it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE17",
+            "global_id": "388",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N42",
+            "global_id": "389",
+            "content": "Phoibe arrived on the balcony.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D237",
+            "global_id": "390",
+            "content": "*'''Phoibe:''' ''Aspasia sent me to see what's taking you so long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D238",
+            "global_id": "391",
+            "content": "*'''Perikles:''' ''Tell Aspasia I'll be right there. I suppose this is where our conversation ends. Thank you again for helping me. I hope my guests are able to help you in your search.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D239",
+            "global_id": "392",
+            "content": "*'''Kassandra:''' ''Time will tell.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N43",
+            "global_id": "393",
+            "content": "Kassandra left the two on the balcony to continue their discussion. Soon, she ran into Phoibe again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D240",
+            "global_id": "394",
+            "content": "*'''Phoibe:''' ''You look tired!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D241",
+            "global_id": "395",
+            "content": "*'''Kassandra:''' ''Only of conversation. I think that's the most talking I've ever done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D242",
+            "global_id": "396",
+            "content": "*'''Phoibe:''' ''See, you didn't need a weapon after all! Are you leaving?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O8",
+            "global_id": "397",
+            "content": "(\"I'm ready to go.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D243",
+            "global_id": "398",
+            "content": "*'''Kassandra:''' ''I've had enough to Athenian hospitality to last me a lifetime.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D244",
+            "global_id": "399",
+            "content": "*'''Phoibe:''' ''You get used to it. It's nice! What are you going to do now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS18",
+            "global_id": "400",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC44",
+            "global_id": "401",
+            "content": "|-|I'm going to Keos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D245",
+            "global_id": "402",
+            "content": "*'''Kassandra:''' ''There's a woman on the island of Keos that I need to meet. I think I'll head there first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D246",
+            "global_id": "403",
+            "content": "*'''Phoibe:''' ''I've heard there are [[Piracy|pirates]] there!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D247",
+            "global_id": "404",
+            "content": "*'''Kassandra:''' ''I'll be sure to be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D248",
+            "global_id": "405",
+            "content": "*'''Phoibe:''' ''Good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC45",
+            "global_id": "406",
+            "content": "|-|I'm going to Argolis.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D249",
+            "global_id": "407",
+            "content": "*'''Kassandra:''' ''There is a physician in Argolos that may be able to help me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D250",
+            "global_id": "408",
+            "content": "*'''Phoibe:''' ''You're sick? You've never been sick!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D251",
+            "global_id": "409",
+            "content": "*'''Kassandra:''' ''No, no, I'm fine. I just need to talk to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D252",
+            "global_id": "410",
+            "content": "*'''Phoibe:''' ''Okay, good. It would be weird if you were sick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC46",
+            "global_id": "411",
+            "content": "|-|I'm going to Korinthia.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D253",
+            "global_id": "412",
+            "content": "*'''Kassandra:''' ''There's a woman in Korinth I'd like to talk to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D254",
+            "global_id": "413",
+            "content": "*'''Phoibe:''' ''I've heard about that place from Alkibiades... he says you don't go there to talk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D255",
+            "global_id": "414",
+            "content": "*'''Kassandra:''' ''Alkibiades says a lot of things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D256",
+            "global_id": "415",
+            "content": "*'''Phoibe:''' ''He sure does! ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE18",
+            "global_id": "416",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "TS19",
+            "global_id": "417",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC47",
+            "global_id": "418",
+            "content": "|-|If Kassandra had spared the plague victims=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D257",
+            "global_id": "419",
+            "content": "*'''Phoibe:''' ''Before you go, I heard something from Aspasia... about Kephallonia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D258",
+            "global_id": "420",
+            "content": "*'''Kassandra:''' ''What is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D259",
+            "global_id": "421",
+            "content": "*'''Phoibe:''' ''She said there was some sort of plague. You don't think... My [[Kynna|friend]]... The blood fever...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D260",
+            "global_id": "422",
+            "content": "*'''Kassandra:''' ''Don't think like that. Whatever happened on Kephallonia isn't our fault. I'll go myself and find out if this plague even happened, OK?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D261",
+            "global_id": "423",
+            "content": "*'''Phoibe:''' ''OK... thanks. I knew I could count on you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC48",
+            "global_id": "424",
+            "content": "|-|If Kassandra did not save the plague victims=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE19",
+            "global_id": "425",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N44",
+            "global_id": "426",
+            "content": "Kassandra re-equipped her gear and walked with Phoibe out of Perikles's home.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D262",
+            "global_id": "427",
+            "content": "*'''Kassandra:''' ''Not going to beg to come along this time?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D263",
+            "global_id": "428",
+            "content": "*'''Phoibe:''' ''Nope! I'm happy here, and this isn't Kephallonia. That means you'll be back!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D264",
+            "global_id": "429",
+            "content": "*'''Kassandra:''' ''That's very true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D265",
+            "global_id": "430",
+            "content": "*'''Phoibe:''' ''Plus, I really like working for Aspasia. She says she has a mission for me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D266",
+            "global_id": "431",
+            "content": "*'''Kassandra:''' ''I'll see you soon, Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D267",
+            "global_id": "432",
+            "content": "*'''Phoibe:''' ''Bye, Kassandra.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "QuestName": "Breaking Bread",
+    "QuestID": "224444",
+    "Revision": {
+        "id": "928781",
+        "parentid": "851806",
+        "timestamp": "2021-03-07T21:56:22Z",
+        "contributor": null,
+        "comment": "fr",
+        "origin": "928781",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "nqaz1jq9agrfdxgsmcu6viw5j4k02fp"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Kassandra,_Kepheus_camp,_and_Fort_of_Arkas.png",
+        "description": "'Arkadia was Sparta's breadbasket, which Lagos kept full. Protecting him was Spartan duty, with its warriors as his armor. Myrrine knew the only way to pierce Lagos' throat was to shatter that armor.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "previous": "Judge, Jury, Executioner (Odyssey)|Judge, Jury, Executioner",
+        "next": "Fourth-Degree Burns",
+        "source": "Kassandra",
+        "location": "Arkadia, Greece",
+        "date": "c. 428 BCE"
+    },
+    "General_Description": "'''Breaking Bread''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Myrrine]] tasked Kassandra with eliminating [[Lagos]]' men.",
+    "Section_Dialogue": "Kassandra made her way to the camp.\n*'''Kassandra:''' ''This looks like the camp. Time to send some guards to [[Hades]].''\nKassandra made her way to the [[Fort of Arkas]].\n*'''Kassandra:''' ''The fort at last. Should find a quiet way in.''\nKassandra made her way to the [[Tegea Barracks]].\n*'''Kassandra:''' ''Ah. These must be the barracks ''[[Myrrine|mater]]'' spoke of.''\nDepending on the order she cleared the locations, Kassandra remarked on her progress.<br />\n(If the camp is cleared first.)\n*'''Kassandra:''' ''The camp is clear. I still have to find the barracks and the fort. The fort is also in Smuggler's Forest\u2014I should start there.''\n*(If the fort is cleared next.)\n**'''Kassandra:''' ''Now that the fort and camp have been cleared, I should head to the barracks.''\n*(If the barracks are cleared next.)\n**'''Kassandra:''' ''That takes care of the barracks and the camp. Now I need to clear the fort.''\n(If the barracks are cleared first.)\n*'''Kassandra:''' ''The barracks are clear. But Lagos still has guards at the camp and the fort. Both are in Smuggler's Forest.''\n*(If the camp is cleared next.)\n**'''Kassandra:''' ''That takes care of the camp and the barracks. My last target [is] the fort, which is also in Smuggler's Forest.''\n*(If the fort is cleared next.)\n**'''Kassandra:''' ''That takes care of the fort and the barracks. Time to deal with Lagos's guards at the camp.''\n(If the fort is cleared first.)\n*'''Kassandra:''' ''The camp should be nearby, I'll head there first. Then on to the barracks.''\n*(If the camp is cleared next.)\n**'''Kassandra:''' ''Two strongholds down. Now I just need to find these barracks'' mater ''spoke of. She said they were in [[Tegea]].''\n*(If the barracks are cleared next.)\n**'''Kassandra:''' ''The barracks and the fort are clear. Time to find the camp.''\n(After all three locations are cleared.)\n*'''Kassandra:''' Mater'' said [[Lagos]] is hiding in [[Fort Samikon]]. Time to go pay him a little visit.''",
+    "Section_Outcome": "Kassandra crippled Lagos' forces by striking at them in their most critical assembly areas.",
+    "Section_Trivia": "*Completing the quest reduces Lagos' persistent bounty, as the quest sends his forces scrambling. Together with [[Gluten Free]] and [[Fourth-Degree Burns]], this can remove up to two of the three helmets before dealing with Lagos and lifting the bounty altogether.\n*The quest's name is contradictory to the metaphor of the same name, as the latter pertains to making peace or compromise with an enemy.",
+    "Section_Gallery": "<gallery widths=\"180\" spacing=\"small\" position=\"center\" captionalign=\"center\">\nArkadia-KepheusCamp.jpg|Kepheus military camp at Smuggler's Forest.\nArkadia-FortofArkas.jpg|Fort of Arkas at Smuggler's Forest near the border of Argolis.\nArkadia-TegeaBarracks.jpg|Tegea Barracks in the capital of Arkadia.\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:De mal en \u00e9pi]]"
+}

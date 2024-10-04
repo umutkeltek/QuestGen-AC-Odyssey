@@ -1,0 +1,962 @@
+{
+    "Quest_Name": "\"M\" for Murder",
+    "Quest_ID": "223876",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD M for Murder 7.png",
+        "description": "'A Otonia|mysterious beggar sent Kassandra to an old Abandoned House, Mykonos|abandoned house to uncover the truth about Kyra, the fearless rebel leader everyone thought they knew.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Silver Islands}}",
+        "previous": "Trouble in Paradise",
+        "next": "Hades, Meet Podarkes<br>A Night to Remember (Odyssey)|A Night to Remember",
+        "source": "Kassandra",
+        "location": "Mykonos City, Mykonos, Greece",
+        "date": "426 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''\"M\" for Murder''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across the mysterious beggar [[Otonia]] in [[Mykonos]].",
+    "Section_Dialogue": "[[File:ACOD M for Murder 1.png|thumb|250px|The beggar talking to Kassandra]]\nKassandra walked through [[Mykonos City]] when a beggar called out to her in a whisper.\n*'''Beggar:''' ''Psst. ''Misthios''! You, with the eagle. Over here.''\nShe stopped to speak to the beggar.\n*'''Kassandra:''' ''What's with all the whispering?''\n*'''Beggar:''' ''Shh! If the [[soldier]]s hear us, they'll kill me. You're the ''misthios'' working for [[Kyra]] and the rebels, yes?''\n{{-}}\n<tabber>\n|-|I am working with the rebels.=\n*'''Kassandra:''' ''I am.''\n*'''Beggar:''' ''Yes, you are. Many whispers of your deeds, ''misthios''. Many whispers. Many secrets, too... about the rebel girl.''\n|-|None of you [sic] business.=\n*'''Kassandra:''' ''Who I work for is none of your business, stranger.''\n*'''Beggar:''' ''Secrets are being kept from you, ''misthios''. Maybe you don't know who you ''really'' work for.''\n|-|\u2696\ufe0fI'm not working with the rebels.=\n*'''Kassandra:''' ''Who's Kyra?''\n</tabber>\n*'''Kassandra:''' ''If you know something, spit it out.''\n*'''Beggar:''' ''If the soldiers see me, they'll kill me. [[Apollo]] knows they already tried. There's a house near the market, been boarded up for ages. Sneaky sneak your way in. We'll talk later.''\nThe beggar ran off.\n*'''Kassandra:''' ''Strange. I should find the house, see what this beggar has to say.''\nKassandra made her way down to the market. She found a boarded up house.\n[[File:ACOD M for Murder 2.png|thumb|250px|Kassandra outside the sealed up house]]\n*'''Kassandra:''' ''House is boarded up. Must be the place.''\nShe entered the house from the lower levels and began to investigate, starting with the bloody footprints.\n*'''Kassandra:''' ''Bloody footprints. A child's... Must have been hiding in that chest.''\nShe inspected the skeleton the footprints led away from.\n*'''Kassandra:''' ''This woman was killed. Left in the open without dignity. An [[Athenian military|Athenian]] [[spear]] tip broke off in her ribs.''\nShe checked the papyrus on the table.\n{{IUNote\n|Title=A Papyrus from Podarkes\n|Text=[[Dianthe]], I pay you very well to shut your mouth and stay away. visit my house again, and I will send you both to [[Hades]]. \u2013 [[Podarkes]]\n}}\n*'''Kassandra:''' ''A note was left behind. A warning from [[Podarkes]]. He was paying this woman to keep quiet. About what?''\nFinally, she went upstairs and inspected a set of [[wood]]en dolls.\n[[File:ACOD M for Murder 5.png|thumb|250px|Kassandra inspecting the wooden dolls]]\n*'''Kassandra:''' ''Wooden dolls\u2014a mother and child. One engraved with the letter \"M,\" and the other, \"K.\"''\nShe pondered the clues she had collected.\n*'''Kassandra:''' ''Nothing else to find here. I need to speak with that strange woman.''\nHaving completed the investigation, Kassandra left the abandoned home and returned to the beggar.\n*'''Beggar:''' ''And what did the ''misthios'' find?''\n*'''Kassandra:''' ''A body... a woman. She was killed by an Athenian spear.''\n*'''Beggar:''' ''This is all?''\n[[File:ACOD M for Murder 6.png|thumb|250px|Kassandra discussing her findings with the beggar]]\n*'''Kassandra:''' ''There was a letter from Podarkes\u2014said he'd kill them both if she broke her silence. Both. Why kill a child? Unless... it was his.''\n*'''Beggar:''' ''Shh! They could be listening. Now, tell me, quietly, what else did you find?''\n*'''Kassandra:''' ''The dolls. Engraved with the letter \"K\" and \"M.\" \"M\" is for ''mater''. You asked who I worked for. The little doll with the \"K\"... The child was ''Kyra''.''\n*'''Beggar:''' ''Yes, yes. Which means...''\n<tabber>\n|-|Kyra loved carving dolls.=\n*'''Kassandra:''' ''Kyra's skills with the blade started young.''\n*'''Beggar:''' ''And ''you're'' Kyra's hope for the rebellion? [[Greek mythology|Gods]] help us all!''\n*'''Kassandra:''' ''What?''\n*'''Beggar:''' ''Unbelievable! If the child belonged to Podarkes, and the child is Kyra, then that would make...''\n*'''Kassandra:''' ''By [[Jupiter|Zeus]]! Podarkes is Kyra's ''pater''!''\nThe beggar clapped sarcastically.\n*'''Beggar:''' ''Very wise, ''misthios''. Very wise indeed.''\n|-|Podarkes is Kyra's father.=\n*'''Kassandra:''' ''By the gods! Podarkes is Kyra's ''pater''!''\n*'''Beggar:''' ''Very wise, ''misthios''. Very wise indeed!''\n|-|I give up, just tell me.=\n*'''Kassandra:''' ''The dust in there gave me a headache. Just tell me.''\n*'''Beggar:''' ''And you're Kyra's hope for the rebellion? Gods help us all! If the child belonged to Podarkes, and the child is Kyra, then that would make...''\nKassandra thought some more but still drew a blank.\n*'''Beggar:''' ''Unbelievable! Podarkes is Kyra's ''pater, misthios!'' Her ''pater''!''\n*'''Kassandra:''' ''Of course!''\n*'''Beggar:''' ''Not very wise, are you, ''misthios''?''\n</tabber>\n*'''Kassandra:''' ''Kyra needs to know.''\n*'''Beggar:''' ''She'll never believe you. Never. Her whole life, she hunts the man who sent Athenians to kill her ''mater'' in front of her terrified eyes. But the gods spared little Kyra. She escaped.''\n(If \"How do you know so much?\" is chosen)\n*'''Kassandra:''' ''How do you know so much?''\n*'''Beggar:''' ''I was there, ''misthios''. I protected the little one. The Athenians were so busy trying to kill me, Kyra slipped right past their blades.''\n(If \"Why were you there?\" is chosen)\n*'''Kassandra:''' ''You were involved in this...''\n*'''Beggar:''' ''My name was [[Otonia]]. I was a servant for Podarkes.''\n*'''Kassandra:''' ''What?''\n*'''Beggar:''' ''Night after night, Kyra's ''mater'' came to the house\u2014little one wanted to meet her ''pater''. Podarkes made me send her away. But she kept coming. So Podarkes sent me to her house with a note.''\n*'''Kassandra:''' ''The warning.''\n*'''Beggar:''' ''She didn't listen. Podarkes sent me back to her house, this time with Athenian soldiers.''\n(Leave \u2013 \"I must find proof.\")\n*'''Kassandra:''' ''Kyra needs to know Podarkes is her father. But I won't confront her until I have proof.''\n*'''Beggar:''' ''The woman came to Podarkes's house one night, begged me to give him the doll Kyra made for him.''\n*'''Kassandra:''' ''If Podarkes had it, he might have kept it somewhere.''\n*'''Beggar:''' ''Only the gods would know.''\n*'''Kassandra:''' ''I will find this doll.''\nThe beggar woman took her leave.\n*'''Beggar:''' ''Now the ''misthios'' knows who she works for. The rebels should know too.''\nKassandra thought about where the doll could be.\n*'''Kassandra:''' ''If Podarkes hid that doll somewhere in his house, I'm going to find it.''\nShe proceeded to the house and briefly assessed the security.\n*'''Kassandra:''' ''This place is well guarded. Need to be careful.''\nWith [[Ikaros]]' help, she determined the doll was in the upper bedchamber.\n*'''Kassandra:''' ''There's the doll.''\n[[File:ACOD M for Murder 8.png|thumb|250px|Kassandra finding the doll of Podarkes]]\nKassandra infiltrated the house and claimed the wooden doll from a discreet corner of Podarkes's bedchamber.\n*'''Kassandra:''' ''Podarkes kept the doll Kyra made for him. She engraved it with the letter \"P\"... for ''pater''.''\nKassandra exited the house before anyone spotted her.\n*'''Kassandra:''' ''Could Kyra have known all along? The rebels deserve the truth as well. But blood is everything to some people. They could abandon her if they knew Podarkes was her father.''\nKassandra made her way back to the [[Porphyrion Cave]] to confront Kyra with the truth. Seeing she was not present, she asked a rebel where she was.\n[[File:ACOD M for Murder 10.png|thumb|250px|Kassandra talking to Kyra and the rebels]]\n*'''Kassandra:''' ''Where's Kyra?''\n*'''Damasos''' ''She's\u2014''\nKyra appeared from behind her.\n*'''Kyra:''' ''Miss me already, ''misthios''?''\n*'''Kassandra:''' ''Kyra, there's something I need to tell you.''\n*'''Kyra:''' ''That look on your face. So serious. Sit, relax, drink some [[wine]].''\n<tabber>\n|-|I should tell you in private.=\n*'''Kassandra:''' ''What I'm about to say is for you alone.''\n*'''Kyra:''' ''Follow me.''\nKyra took her to her makeshift office in the back of the cave. The rebels exchanged glances but shrugged it off.\n*'''Kyra:''' ''Now that you have me all alone, what is it you want to tell me?''\n*'''Kassandra:''' ''There's no other way to say this... Podarkes is your father.''\nKyra laughed.\n*'''Kyra:''' ''What sort of joke is this?''\n*'''Kassandra:''' ''This isn't a joke.''\n[[File:ACOD M for Murder 12.png|thumb|250px|Kassandra showing Kyra the doll]]\nKassandra presented the doll, and Kyra recognized it in an instant. She took an emotional swing at Kassandra and missed.\n*'''Kyra:''' ''I will kill you where you stand. This can't be.''\n*'''Kassandra:''' ''Kyra, I'm sorry.''\nKyra walked over to a bench before sitting down.\n*'''Kyra:''' ''He took everything from me. How did you find this?''\n{{#tag:tabber|\nI've been to your house.=\n*'''Kassandra:''' ''I found your old house. I know about your ''mater''.''\n*'''Kyra:''' ''I can still hear her screams. A storm of blue armor and red blades tore through our home. I had to run through ''mater''{{'}}s blood to escape. I never returned to that place.''\n*'''Kassandra:''' ''It was best you didn't.''\n{{!}}-{{!}}\nIt doesn't matter.=\n*'''Kassandra:''' ''How I found it isn't important. What's important is that you know.''\n}}\n[[File:ACOD M for Murder 13.png|thumb|250px|Kyra thanking Kassandra for telling her about the doll in private]]\n*'''Kyra:''' ''It's good you told me in private. The men don't need to know this, not yet. But please, leave me for a while. I... need to be alone.''\nKassandra put the doll on a table before walking off, leaving Kyra to gaze at her doll with a solemn expression.\n{{-}}\n|-|Everyone should hear this.=\n*'''Kassandra:''' '' I didn't come to drink wine. I came to tell you and your men\u2014Podarkes is your father.''\nThe rebels immediately reacted negatively.\n*'''Laphanes:''' ''What?''\n*'''Kritias:''' ''Her father?''\n*'''Gurgos:''' ''That's a lie!''\n*'''Kyra:''' ''This had better be some joke,'' misthios''.''\nKassandra presented the doll, and Kyra's expression shifted from anger to horror.\n*'''Kyra:''' ''Impossible.''\nThe rebels shifted their anger from Kassandra to Kyra.\n*'''Laphanes:''' ''Is it true?''\n*'''Kritias:''' ''The daughter of Podarkes?!''\n*'''Gurgos:''' ''We trusted you!''\nThe rebels storm off, to Kyra's dismay.\n*'''Kyra:''' ''I trusted you, Kassandra. And you disgraced me in front of my troops. Leave! I can't look at you right now.''\nKassandra frowned and lowered her head as Kyra turned her back.\n*'''Kyra:''' ''I can't even look at myself.''\nKyra walked off, leaving Kassandra scratching the back of her neck.\n</tabber>",
+    "Section_Outcome": "Kassandra learned the truth about Kyra's familial ties to Podarkes. She either revealed this information to Kyra alone and protected her secret, or outed her before the rebels and undermined their trust in her.",
+    "Section_Behind_the_scenes": "The named of this memory is a reference to {{Wiki|Alfred Hitchcock}}'s 1954 crime thriller film ''{{Wiki|Dial M for Murder}}''.\n\nThis quest is required to advance to \"[[A Night to Remember (Odyssey)|A Night to Remember]]\", the final quest of the Mykonos campaign. The other two are \"[[Call to Arms (Mykonos)|Call to Arms]]\", which removes Athenian control of the islands, and \"[[Hades, Meet Podarkes]]\", which results in the tyrant's death. This quest affects the final exchange between Kassandra and Podarkes, though it has no effect on most of Kyra's dialogue with the player in other quests on her path, with the exception of the first dialogue of \"[[Kyra with a Cause]]\". However, the final choice is mentioned on several occasions during \"A Night to Remember\". It is also mentioned during \"[[Goddess of the Hunt]]\" if the player revealed her secret, and thus will cut off any attempt to romance Kyra during that quest.\n\nEven if the Athenians have already been deposed as a result of \"Call to Arms\", the Leader House is still a restricted zone, and as such, the Spartan replacement soldiers will attack the player on sight.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[ru:\"\u0423\" \u2014 \u0437\u043d\u0430\u0447\u0438\u0442 \"\u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043e\"]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Mykonos",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "I1",
+            "global_id": "1",
+            "content": "[[File:ACOD M for Murder 1.png|thumb|250px|The beggar talking to Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Kassandra walked through [[Mykonos City]] when a beggar called out to her in a whisper.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Beggar:''' ''Psst. ''Misthios''! You, with the eagle. Over here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "She stopped to speak to the beggar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''What's with all the whispering?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Beggar:''' ''Shh! If the [[soldier]]s hear us, they'll kill me. You're the ''misthios'' working for [[Kyra]] and the rebels, yes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "{{-}}",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|I am working with the rebels.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Beggar:''' ''Yes, you are. Many whispers of your deeds, ''misthios''. Many whispers. Many secrets, too... about the rebel girl.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|None of you [sic] business.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Who I work for is none of your business, stranger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Beggar:''' ''Secrets are being kept from you, ''misthios''. Maybe you don't know who you ''really'' work for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "15",
+            "content": "|-|\u2696\ufe0fI'm not working with the rebels.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Who's Kyra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''If you know something, spit it out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Beggar:''' ''If the soldiers see me, they'll kill me. [[Apollo]] knows they already tried. There's a house near the market, been boarded up for ages. Sneaky sneak your way in. We'll talk later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "20",
+            "content": "The beggar ran off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Strange. I should find the house, see what this beggar has to say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "22",
+            "content": "Kassandra made her way down to the market. She found a boarded up house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "23",
+            "content": "[[File:ACOD M for Murder 2.png|thumb|250px|Kassandra outside the sealed up house]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''House is boarded up. Must be the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "25",
+            "content": "She entered the house from the lower levels and began to investigate, starting with the bloody footprints.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Bloody footprints. A child's... Must have been hiding in that chest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "27",
+            "content": "She inspected the skeleton the footprints led away from.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''This woman was killed. Left in the open without dignity. An [[Athenian military|Athenian]] [[spear]] tip broke off in her ribs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "29",
+            "content": "She checked the papyrus on the table.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "30",
+            "content": "{{IUNote",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "31",
+            "content": "|Title=A Papyrus from Podarkes",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC5",
+            "global_id": "32",
+            "content": "|Text=[[Dianthe]], I pay you very well to shut your mouth and stay away. visit my house again, and I will send you both to [[Hades]]. \u2013 [[Podarkes]]",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "33",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D15",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''A note was left behind. A warning from [[Podarkes]]. He was paying this woman to keep quiet. About what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "35",
+            "content": "Finally, she went upstairs and inspected a set of [[wood]]en dolls.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I3",
+            "global_id": "36",
+            "content": "[[File:ACOD M for Murder 5.png|thumb|250px|Kassandra inspecting the wooden dolls]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D16",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Wooden dolls\u2014a mother and child. One engraved with the letter \"M,\" and the other, \"K.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "38",
+            "content": "She pondered the clues she had collected.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''Nothing else to find here. I need to speak with that strange woman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "40",
+            "content": "Having completed the investigation, Kassandra left the abandoned home and returned to the beggar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "41",
+            "content": "*'''Beggar:''' ''And what did the ''misthios'' find?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''A body... a woman. She was killed by an Athenian spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "43",
+            "content": "*'''Beggar:''' ''This is all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "44",
+            "content": "[[File:ACOD M for Murder 6.png|thumb|250px|Kassandra discussing her findings with the beggar]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D21",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''There was a letter from Podarkes\u2014said he'd kill them both if she broke her silence. Both. Why kill a child? Unless... it was his.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "46",
+            "content": "*'''Beggar:''' ''Shh! They could be listening. Now, tell me, quietly, what else did you find?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''The dolls. Engraved with the letter \"K\" and \"M.\" \"M\" is for ''mater''. You asked who I worked for. The little doll with the \"K\"... The child was ''Kyra''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "48",
+            "content": "*'''Beggar:''' ''Yes, yes. Which means...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "50",
+            "content": "|-|Kyra loved carving dolls.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Kyra's skills with the blade started young.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "52",
+            "content": "*'''Beggar:''' ''And ''you're'' Kyra's hope for the rebellion? [[Greek mythology|Gods]] help us all!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "54",
+            "content": "*'''Beggar:''' ''Unbelievable! If the child belonged to Podarkes, and the child is Kyra, then that would make...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''By [[Jupiter|Zeus]]! Podarkes is Kyra's ''pater''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "56",
+            "content": "The beggar clapped sarcastically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "57",
+            "content": "*'''Beggar:''' ''Very wise, ''misthios''. Very wise indeed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "58",
+            "content": "|-|Podarkes is Kyra's father.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''By the gods! Podarkes is Kyra's ''pater''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "60",
+            "content": "*'''Beggar:''' ''Very wise, ''misthios''. Very wise indeed!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "61",
+            "content": "|-|I give up, just tell me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''The dust in there gave me a headache. Just tell me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "63",
+            "content": "*'''Beggar:''' ''And you're Kyra's hope for the rebellion? Gods help us all! If the child belonged to Podarkes, and the child is Kyra, then that would make...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "64",
+            "content": "Kassandra thought some more but still drew a blank.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "65",
+            "content": "*'''Beggar:''' ''Unbelievable! Podarkes is Kyra's ''pater, misthios!'' Her ''pater''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Of course!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "67",
+            "content": "*'''Beggar:''' ''Not very wise, are you, ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "68",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D38",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Kyra needs to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "70",
+            "content": "*'''Beggar:''' ''She'll never believe you. Never. Her whole life, she hunts the man who sent Athenians to kill her ''mater'' in front of her terrified eyes. But the gods spared little Kyra. She escaped.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "71",
+            "content": "(If \"How do you know so much?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D40",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''How do you know so much?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "73",
+            "content": "*'''Beggar:''' ''I was there, ''misthios''. I protected the little one. The Athenians were so busy trying to kill me, Kyra slipped right past their blades.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "74",
+            "content": "(If \"Why were you there?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D42",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''You were involved in this...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "76",
+            "content": "*'''Beggar:''' ''My name was [[Otonia]]. I was a servant for Podarkes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "78",
+            "content": "*'''Beggar:''' ''Night after night, Kyra's ''mater'' came to the house\u2014little one wanted to meet her ''pater''. Podarkes made me send her away. But she kept coming. So Podarkes sent me to her house with a note.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''The warning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "80",
+            "content": "*'''Beggar:''' ''She didn't listen. Podarkes sent me back to her house, this time with Athenian soldiers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "81",
+            "content": "(Leave \u2013 \"I must find proof.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''Kyra needs to know Podarkes is her father. But I won't confront her until I have proof.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "83",
+            "content": "*'''Beggar:''' ''The woman came to Podarkes's house one night, begged me to give him the doll Kyra made for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''If Podarkes had it, he might have kept it somewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "85",
+            "content": "*'''Beggar:''' ''Only the gods would know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''I will find this doll.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "87",
+            "content": "The beggar woman took her leave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D53",
+            "global_id": "88",
+            "content": "*'''Beggar:''' ''Now the ''misthios'' knows who she works for. The rebels should know too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "89",
+            "content": "Kassandra thought about where the doll could be.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''If Podarkes hid that doll somewhere in his house, I'm going to find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "91",
+            "content": "She proceeded to the house and briefly assessed the security.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''This place is well guarded. Need to be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "93",
+            "content": "With [[Ikaros]]' help, she determined the doll was in the upper bedchamber.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''There's the doll.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "95",
+            "content": "[[File:ACOD M for Murder 8.png|thumb|250px|Kassandra finding the doll of Podarkes]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N17",
+            "global_id": "96",
+            "content": "Kassandra infiltrated the house and claimed the wooden doll from a discreet corner of Podarkes's bedchamber.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D57",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''Podarkes kept the doll Kyra made for him. She engraved it with the letter \"P\"... for ''pater''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "98",
+            "content": "Kassandra exited the house before anyone spotted her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D58",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''Could Kyra have known all along? The rebels deserve the truth as well. But blood is everything to some people. They could abandon her if they knew Podarkes was her father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "100",
+            "content": "Kassandra made her way back to the [[Porphyrion Cave]] to confront Kyra with the truth. Seeing she was not present, she asked a rebel where she was.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I6",
+            "global_id": "101",
+            "content": "[[File:ACOD M for Murder 10.png|thumb|250px|Kassandra talking to Kyra and the rebels]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D59",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''Where's Kyra?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "103",
+            "content": "*'''Damasos''' ''She's\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "104",
+            "content": "Kyra appeared from behind her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "105",
+            "content": "*'''Kyra:''' ''Miss me already, ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''Kyra, there's something I need to tell you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "107",
+            "content": "*'''Kyra:''' ''That look on your face. So serious. Sit, relax, drink some [[wine]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "108",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "109",
+            "content": "|-|I should tell you in private.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''What I'm about to say is for you alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "111",
+            "content": "*'''Kyra:''' ''Follow me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "112",
+            "content": "Kyra took her to her makeshift office in the back of the cave. The rebels exchanged glances but shrugged it off.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D66",
+            "global_id": "113",
+            "content": "*'''Kyra:''' ''Now that you have me all alone, what is it you want to tell me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''There's no other way to say this... Podarkes is your father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "115",
+            "content": "Kyra laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D68",
+            "global_id": "116",
+            "content": "*'''Kyra:''' ''What sort of joke is this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''This isn't a joke.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I7",
+            "global_id": "118",
+            "content": "[[File:ACOD M for Murder 12.png|thumb|250px|Kassandra showing Kyra the doll]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N23",
+            "global_id": "119",
+            "content": "Kassandra presented the doll, and Kyra recognized it in an instant. She took an emotional swing at Kassandra and missed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "120",
+            "content": "*'''Kyra:''' ''I will kill you where you stand. This can't be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''Kyra, I'm sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "122",
+            "content": "Kyra walked over to a bench before sitting down.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D72",
+            "global_id": "123",
+            "content": "*'''Kyra:''' ''He took everything from me. How did you find this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "124",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "125",
+            "content": "I've been to your house.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D73",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''I found your old house. I know about your ''mater''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "127",
+            "content": "*'''Kyra:''' ''I can still hear her screams. A storm of blue armor and red blades tore through our home. I had to run through ''mater''{{'}}s blood to escape. I never returned to that place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''It was best you didn't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "129",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC11",
+            "global_id": "130",
+            "content": "It doesn't matter.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D76",
+            "global_id": "131",
+            "content": "*'''Kassandra:''' ''How I found it isn't important. What's important is that you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "132",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "I8",
+            "global_id": "133",
+            "content": "[[File:ACOD M for Murder 13.png|thumb|250px|Kyra thanking Kassandra for telling her about the doll in private]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D77",
+            "global_id": "134",
+            "content": "*'''Kyra:''' ''It's good you told me in private. The men don't need to know this, not yet. But please, leave me for a while. I... need to be alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "135",
+            "content": "Kassandra put the doll on a table before walking off, leaving Kyra to gaze at her doll with a solemn expression.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "136",
+            "content": "{{-}}",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC12",
+            "global_id": "137",
+            "content": "|-|Everyone should hear this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D78",
+            "global_id": "138",
+            "content": "*'''Kassandra:''' '' I didn't come to drink wine. I came to tell you and your men\u2014Podarkes is your father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N26",
+            "global_id": "139",
+            "content": "The rebels immediately reacted negatively.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D79",
+            "global_id": "140",
+            "content": "*'''Laphanes:''' ''What?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "141",
+            "content": "*'''Kritias:''' ''Her father?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "142",
+            "content": "*'''Gurgos:''' ''That's a lie!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "143",
+            "content": "*'''Kyra:''' ''This had better be some joke,'' misthios''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N27",
+            "global_id": "144",
+            "content": "Kassandra presented the doll, and Kyra's expression shifted from anger to horror.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D83",
+            "global_id": "145",
+            "content": "*'''Kyra:''' ''Impossible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N28",
+            "global_id": "146",
+            "content": "The rebels shifted their anger from Kassandra to Kyra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D84",
+            "global_id": "147",
+            "content": "*'''Laphanes:''' ''Is it true?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "148",
+            "content": "*'''Kritias:''' ''The daughter of Podarkes?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "149",
+            "content": "*'''Gurgos:''' ''We trusted you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N29",
+            "global_id": "150",
+            "content": "The rebels storm off, to Kyra's dismay.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D87",
+            "global_id": "151",
+            "content": "*'''Kyra:''' ''I trusted you, Kassandra. And you disgraced me in front of my troops. Leave! I can't look at you right now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N30",
+            "global_id": "152",
+            "content": "Kassandra frowned and lowered her head as Kyra turned her back.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D88",
+            "global_id": "153",
+            "content": "*'''Kyra:''' ''I can't even look at myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N31",
+            "global_id": "154",
+            "content": "Kyra walked off, leaving Kassandra scratching the back of her neck.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "155",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

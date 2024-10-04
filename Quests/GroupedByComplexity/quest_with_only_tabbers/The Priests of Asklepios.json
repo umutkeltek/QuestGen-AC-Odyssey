@@ -1,0 +1,585 @@
+{
+    "Quest_Name": "The Priests of Asklepios",
+    "Quest_ID": "223419",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "The_Priests_of_Asklepios_-_Assassin's_Creed_Odyssey.png",
+        "description": "'To help find Kassandra's Myrrine|mother, Hippokrates directed her towards the Sanctuary of Asklepios, where the priests would know more about the Spartan woman who passed through so long ago.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "First Do No Harm",
+        "next": "Speak No Evil",
+        "source": "Kassandra",
+        "location": "Sanctuary of Asklepios, Argolis, Greece",
+        "date": "431 BCE\u2013429 BCE",
+        "concurrent": "The Doctor Will See You Now<br>Enough is Enough<br>Written in Stone<br>A Heart for a Head"
+    },
+    "General_Description": "'''The Priests of Asklepios''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following [[Hippokrates]]' advice, Kassandra travelled to the [[Sanctuary of Asklepios]] to seek the priests who would know more her [[Myrrine|mother]] who passed by a long time ago.",
+    "Section_Dialogue": "Kassandra left [[Hippokrates]] to tend to his patients, making her way to the Sanctuary of [[Asklepios]] in the [[Valley of Dreams]]. She passed by a bathhouse, speaking to a [[Pylenor|priest]].\n*'''Priest:''' ''If you're here for your purification bath, you'll have to come back another time.''\n*'''Kassandra:''' ''I'm here for information.''\n*'''Priest:''' ''In that case you can go straight to [[Hades]].''\n*'''Kassandra:''' ''I need to know about a [[Sparta]]n woman who came through here many years ago.''\n*'''Priest:''' ''Did [[Ikaros|that eagle of yours]] shit in your ears? I'm under strict orders not to talk to any [[Mercenary|mercenaries]]. Especially not about Spartan women or injured babies.''\n<tabber>\n|-|Threaten\u2014Watch your tongue.=\n*'''Kassandra:''' ''My eagle will tear out your tongue, priest!''\n*'''Priest:''' ''Forgive me! Not the tongue! Not like [[Mydon]]! [[Chrysis]] threatened anyone who speaks to the Eagle Bearer.''\n*'''Kassandra:''' ''Did she? Tell me about the woman and her [[Alexios|baby]], and I won't drown you in your bathhouse. How's that for a threat?''\n*'''Priest:''' ''Please no! There's already a corpse in there!''\n*'''Kassandra:''' ''What are you talking about?''\n|-|You know something.=\n*'''Kassandra:''' ''I never mentioned a baby.''\n*'''Priest:''' ''Think you're so smart. Many women pass through with babies. Now leave me. I have my own problems to deal with.''\n*'''Kassandra:''' ''Maybe I can help you.''\n</tabber>\n*'''Priest:''' ''[[Snake]]s!''\n*'''Kassandra:''' ''Snakes.''\n*'''Priest:''' ''They're everywhere! Must have escaped from the tholos. We keep them for treatments, but they invaded the bathhouse.''\n*'''Kassandra:''' ''The snakes killed someone?''\n*'''Priest:''' ''A patient was purifying himself when they slithered in. Turns out he's terrified of snakes. Fell over dead. Now the snakes have made him their home.''\n*'''Kassandra:''' ''What if I took care of your snake problem... Would you talk to me then?''\n*'''Priest:''' ''Oh most definitely. The purification bath is crucial in the path towards healing.''\n[[File:ACOD_The_Priests_of_Asklepios_-_Kassandra_And_Pylenor.png|thumb|250px|Kassandra with Pylenor]]\n(If players choose \"What about the bath house?\")\n*'''Kassandra:''' ''What does taking a bath have to do with healing the sick?''\n*'''Priest:''' ''Asklepios only visits the dreams of the pure. When the sick arrive, they offer sacrifice, cleanse their bodies in the bathhouse. Only then do we let them rest in the [[abaton]], where Asklepios appears and heals them.''\n(If players choose \"What about the snakes?\")\n*'''Kassandra:''' ''How did all these snakes get loose? And why are there so many at the sanctuary?''\n*'''Priest:''' ''Blame [[Doreios]]. He's supposed to keep them in the ''tholos''. Patients with afflictions of the mind are healed by the snakes. Their tongues are like kisses from the gods.''\n(If players choose \"How should I get rid of them?\")\n*'''Kassandra:''' ''I'll clear out these snakes in no time. Ikaros could use a good feast.''\n*'''Priest:''' ''Try not to kill them. Doreios will be furious if his sacred snakes get chopped to bits.''\n*'''Kassandra:''' ''Then how am I supposed to deal with them?''\n*'''Priest:''' ''Snakes are drawn to the bath's heat. Flood them with cold water, and they'll slither back to their hole. There's an underground pipe that may help you.''\n(If players choose \"I'll deal with the snakes.\")\n*'''Kassandra:''' ''I'll take care of your snake problem. Then you'll tell me what I need to know.''\n[[File:ACOD Written in Stone.png|thumb|250px|Kassandra encountering Timoxenos]]\nDespite dealing with his [[Enough is Enough|snake problem]], Kassandra discovered the priest knew nothing but a name: [[Mydon]]. She found another priest to talk with, [[Timoxenos]], working nearby.\n*'''Timoxenos:''' ''Greeting young one. Come to offer Asklepios a sacrifice?''\n*'''Kassandra:''' ''No, but I'm searching for a Spartan mother who may have.''\n*'''Timoxenos:''' ''The great goddess [[Hera]] guides many mothers to this sacred place. Surely I'm too feeble to remember them all.''\n*'''Kassandra:''' ''What are these stone slabs for?''\n*'''Timoxenos:''' ''These are records. We document all who pass through\u2014their illnesses, treatments\u2014so that the glory of Asklepios can be celebrated.''\n*'''Kassandra:''' ''Then I don't need your memory. I just need to find the right stone.''\n*'''Timoxenos:''' ''Um, yes, of course. That's very wise, indeed. If only I had the time to help you...''\n<tabber>\n|-|I won't hurt you.=\n*'''Kassandra:''' ''Listen, I'm not here to hurt you. I'm just looking for my ''mater''.''\n*'''Timoxenos:''' ''It's Chrysis. She's got every priest in the sanctuary under her thumb, and she'll squash anyone who feeds information to the Eagle Bearer.''\n*'''Kassandra:''' ''Then don't tell me anything\u2014just bring me to the stone that can.''\n|-|Threaten\u2014I will hurt you.=\n*'''Kassandra:''' ''My mother came through here, and unless you want me to paint these stones with your blood, you'll tell me what you know.''\n*'''Timoxenos:''' ''Please... It's Chrysis. She said that anyone who talks to the Eagle Bearer will be paying a visit to Hades.''\n*'''Kassandra:''' ''Then don't talk. Just bring me to the stone that can.''\n</tabber>\n*'''Timoxenos:''' ''Follow me, then. Quickly, we must be discreet.''\n*'''Kassandra:''' ''Lead the way.''\n[[File:ACOD_The_Priests_of_Asklepios_-_Kassandra_with_priest_and_a_sick_child.png|thumb|250px|Kassandra with the priest and a sick child]]\nKassandra [[Written in Stone|followed Timoxenos]]. After gaining what information she could, she sought out another priest to ask information from. This man stood over the body of a young girl.\n*'''Priest:''' ''May Asklepios spare her from suffering.''\n*'''Kassandra:''' ''Will she live?''\n*'''Priest:''' ''Not unless the gods hear our prayers. Many sick Athenians have arrived in Argolis recently, and very few have left. This poor girl has the same sickness.''\n<tabber>\n|-|I want to help.=\n*'''Kassandra:''' ''Is there anything I can do to help?''\n*'''Priest:''' ''I was warned of the Eagle Bearer. \"Wants nothing but drachmae for blood,\" I was told.''\n*'''Kassandra:''' ''We're wasting time, priest. We can discuss what I want when this sick girl's needs are taken care of.''\n|-|I want information.=\n*'''Kassandra:''' ''I'm looking for information about a Spartan woman who came through here.''\n*'''Priest:''' ''I was warned about the Eagle Bearer. \"A ruthless killer,\" she was called.''\n*'''Kassandra:''' ''Do you think it's wise to deny a \"ruthless killer\" the information she desires?''\n*'''Priest:''' ''Healing the sick is my path. Help me get the attention of the gods, and I'll tell you what I can.''\n*'''Kassandra:''' ''What are you asking exactly?''\n</tabber>\n*'''Priest:''' ''Her illness seems to have no cure, and it's spreading. Our sacrifices have done little to draw the attention of the gods. Pigs, goats\u2014all have fallen on deaf ears. We need a beast whose blood will ignite these flames for Asklepios to see.''\n*'''Kassandra:''' ''What did you have in mind?''\n*'''Priest:''' ''There is a [[Cattle|bull]] with skin as white as snow roaming the sanctuary outskirts. Head west of here towards the coast. Bring it to me alive, and we'll offer a sacrifice the gods cannot ignore. I'm touched you would help these people. But I know why you're really here. Chrysis made all priests swear oaths to seal our lips in the face of the eagle-bearing ''misthios'', or forfeit our lives. But I serve the gods and the sick. My oaths are to them.''\n(If players choose \"Where exactly is the sacred bull?\")\n*'''Kassandra:''' ''The outskirts are vast. Could you be more specific about the location of the bull?''\n*'''Priest:''' ''Last I heard it was grazing on [[Mount Koryphum]], near the [[Asine Ruins]].''\n(If players choose \"Why do you need it alive?\")\n*'''Kassandra:''' ''If you're just going to slit its throat, why do you need the bull alive?''\n*'''Priest:''' ''But we're not just going to slit its throat. First, we pour water on its head. If it nods, we may proceed. Gods, mortals, and animals\u2014all must be willing participants in a sacrifice, or it is impure. To save this many people, we will need the beast's blood, bones, and fat.''\n(If players choose \"What can you tell me about Chrysis?\")\n*'''Kassandra:''' ''Tell me about Chrysis. She has everyone terrified.''\n*'''Priest:''' ''We taught her everything we knew about healing, about the gods. Then she found new teachers. [[Cult of Kosmos|People in masks]]. They changed her. Turned her heart black. They became her gods.''\n(If players choose \"I'm going now.\")\n*'''Kassandra:''' ''I'll find this bull for you.''\nKassandra left the sanctuary and headed to the place the priest mentioned near the Asine Ruins to [[A Heart for a Head|search for the bull]].",
+    "Section_Outcome": "Kassandra followed Hippokrates' advice and visited the Sanctuary of Asklepios for information. She was able to uncover information of her mother's visit as well as a priest by the name of Mydon, whose tongue was cut out to prevent him from speaking.",
+    "Section_Trivia": "*If this quest is completed ''before'' [[The Doctor Will See You Now]], [[Hippokrates]]' patient will die because Kassandra took too long.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Les pr\u00eatres d'Ascl\u00e9pios]]",
+    "Chapter_SequenceID": "10.",
+    "Chapter_Name": "A Prescription for Discovery",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra left [[Hippokrates]] to tend to his patients, making her way to the Sanctuary of [[Asklepios]] in the [[Valley of Dreams]]. She passed by a bathhouse, speaking to a [[Pylenor|priest]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Priest:''' ''If you're here for your purification bath, you'll have to come back another time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I'm here for information.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Priest:''' ''In that case you can go straight to [[Hades]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I need to know about a [[Sparta]]n woman who came through here many years ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Priest:''' ''Did [[Ikaros|that eagle of yours]] shit in your ears? I'm under strict orders not to talk to any [[Mercenary|mercenaries]]. Especially not about Spartan women or injured babies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|Threaten\u2014Watch your tongue.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''My eagle will tear out your tongue, priest!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Priest:''' ''Forgive me! Not the tongue! Not like [[Mydon]]! [[Chrysis]] threatened anyone who speaks to the Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Did she? Tell me about the woman and her [[Alexios|baby]], and I won't drown you in your bathhouse. How's that for a threat?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Priest:''' ''Please no! There's already a corpse in there!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''What are you talking about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|You know something.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I never mentioned a baby.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Priest:''' ''Think you're so smart. Many women pass through with babies. Now leave me. I have my own problems to deal with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Maybe I can help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D14",
+            "global_id": "19",
+            "content": "*'''Priest:''' ''[[Snake]]s!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Snakes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "21",
+            "content": "*'''Priest:''' ''They're everywhere! Must have escaped from the tholos. We keep them for treatments, but they invaded the bathhouse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''The snakes killed someone?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Priest:''' ''A patient was purifying himself when they slithered in. Turns out he's terrified of snakes. Fell over dead. Now the snakes have made him their home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''What if I took care of your snake problem... Would you talk to me then?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "25",
+            "content": "*'''Priest:''' ''Oh most definitely. The purification bath is crucial in the path towards healing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "26",
+            "content": "[[File:ACOD_The_Priests_of_Asklepios_-_Kassandra_And_Pylenor.png|thumb|250px|Kassandra with Pylenor]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "27",
+            "content": "(If players choose \"What about the bath house?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''What does taking a bath have to do with healing the sick?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "29",
+            "content": "*'''Priest:''' ''Asklepios only visits the dreams of the pure. When the sick arrive, they offer sacrifice, cleanse their bodies in the bathhouse. Only then do we let them rest in the [[abaton]], where Asklepios appears and heals them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "30",
+            "content": "(If players choose \"What about the snakes?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''How did all these snakes get loose? And why are there so many at the sanctuary?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "32",
+            "content": "*'''Priest:''' ''Blame [[Doreios]]. He's supposed to keep them in the ''tholos''. Patients with afflictions of the mind are healed by the snakes. Their tongues are like kisses from the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "33",
+            "content": "(If players choose \"How should I get rid of them?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D25",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'll clear out these snakes in no time. Ikaros could use a good feast.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "35",
+            "content": "*'''Priest:''' ''Try not to kill them. Doreios will be furious if his sacred snakes get chopped to bits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Then how am I supposed to deal with them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "37",
+            "content": "*'''Priest:''' ''Snakes are drawn to the bath's heat. Flood them with cold water, and they'll slither back to their hole. There's an underground pipe that may help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "38",
+            "content": "(If players choose \"I'll deal with the snakes.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D29",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''I'll take care of your snake problem. Then you'll tell me what I need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "40",
+            "content": "[[File:ACOD Written in Stone.png|thumb|250px|Kassandra encountering Timoxenos]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "41",
+            "content": "Despite dealing with his [[Enough is Enough|snake problem]], Kassandra discovered the priest knew nothing but a name: [[Mydon]]. She found another priest to talk with, [[Timoxenos]], working nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "42",
+            "content": "*'''Timoxenos:''' ''Greeting young one. Come to offer Asklepios a sacrifice?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''No, but I'm searching for a Spartan mother who may have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Timoxenos:''' ''The great goddess [[Hera]] guides many mothers to this sacred place. Surely I'm too feeble to remember them all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''What are these stone slabs for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "46",
+            "content": "*'''Timoxenos:''' ''These are records. We document all who pass through\u2014their illnesses, treatments\u2014so that the glory of Asklepios can be celebrated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Then I don't need your memory. I just need to find the right stone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "48",
+            "content": "*'''Timoxenos:''' ''Um, yes, of course. That's very wise, indeed. If only I had the time to help you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "49",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "50",
+            "content": "|-|I won't hurt you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Listen, I'm not here to hurt you. I'm just looking for my ''mater''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "52",
+            "content": "*'''Timoxenos:''' ''It's Chrysis. She's got every priest in the sanctuary under her thumb, and she'll squash anyone who feeds information to the Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''Then don't tell me anything\u2014just bring me to the stone that can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "54",
+            "content": "|-|Threaten\u2014I will hurt you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''My mother came through here, and unless you want me to paint these stones with your blood, you'll tell me what you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "56",
+            "content": "*'''Timoxenos:''' ''Please... It's Chrysis. She said that anyone who talks to the Eagle Bearer will be paying a visit to Hades.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Then don't talk. Just bring me to the stone that can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "58",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D43",
+            "global_id": "59",
+            "content": "*'''Timoxenos:''' ''Follow me, then. Quickly, we must be discreet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Lead the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "61",
+            "content": "[[File:ACOD_The_Priests_of_Asklepios_-_Kassandra_with_priest_and_a_sick_child.png|thumb|250px|Kassandra with the priest and a sick child]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "62",
+            "content": "Kassandra [[Written in Stone|followed Timoxenos]]. After gaining what information she could, she sought out another priest to ask information from. This man stood over the body of a young girl.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "63",
+            "content": "*'''Priest:''' ''May Asklepios spare her from suffering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Will she live?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "65",
+            "content": "*'''Priest:''' ''Not unless the gods hear our prayers. Many sick Athenians have arrived in Argolis recently, and very few have left. This poor girl has the same sickness.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "66",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "67",
+            "content": "|-|I want to help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Is there anything I can do to help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "69",
+            "content": "*'''Priest:''' ''I was warned of the Eagle Bearer. \"Wants nothing but drachmae for blood,\" I was told.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''We're wasting time, priest. We can discuss what I want when this sick girl's needs are taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "71",
+            "content": "|-|I want information.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D51",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I'm looking for information about a Spartan woman who came through here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "73",
+            "content": "*'''Priest:''' ''I was warned about the Eagle Bearer. \"A ruthless killer,\" she was called.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Do you think it's wise to deny a \"ruthless killer\" the information she desires?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "75",
+            "content": "*'''Priest:''' ''Healing the sick is my path. Help me get the attention of the gods, and I'll tell you what I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''What are you asking exactly?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "77",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D56",
+            "global_id": "78",
+            "content": "*'''Priest:''' ''Her illness seems to have no cure, and it's spreading. Our sacrifices have done little to draw the attention of the gods. Pigs, goats\u2014all have fallen on deaf ears. We need a beast whose blood will ignite these flames for Asklepios to see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''What did you have in mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "80",
+            "content": "*'''Priest:''' ''There is a [[Cattle|bull]] with skin as white as snow roaming the sanctuary outskirts. Head west of here towards the coast. Bring it to me alive, and we'll offer a sacrifice the gods cannot ignore. I'm touched you would help these people. But I know why you're really here. Chrysis made all priests swear oaths to seal our lips in the face of the eagle-bearing ''misthios'', or forfeit our lives. But I serve the gods and the sick. My oaths are to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "81",
+            "content": "(If players choose \"Where exactly is the sacred bull?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D59",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''The outskirts are vast. Could you be more specific about the location of the bull?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "83",
+            "content": "*'''Priest:''' ''Last I heard it was grazing on [[Mount Koryphum]], near the [[Asine Ruins]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "84",
+            "content": "(If players choose \"Why do you need it alive?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D61",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''If you're just going to slit its throat, why do you need the bull alive?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "86",
+            "content": "*'''Priest:''' ''But we're not just going to slit its throat. First, we pour water on its head. If it nods, we may proceed. Gods, mortals, and animals\u2014all must be willing participants in a sacrifice, or it is impure. To save this many people, we will need the beast's blood, bones, and fat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "87",
+            "content": "(If players choose \"What can you tell me about Chrysis?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D63",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Tell me about Chrysis. She has everyone terrified.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "89",
+            "content": "*'''Priest:''' ''We taught her everything we knew about healing, about the gods. Then she found new teachers. [[Cult of Kosmos|People in masks]]. They changed her. Turned her heart black. They became her gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "90",
+            "content": "(If players choose \"I'm going now.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D65",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''I'll find this bull for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "92",
+            "content": "Kassandra left the sanctuary and headed to the place the priest mentioned near the Asine Ruins to [[A Heart for a Head|search for the bull]].",
+            "segment_type": "Narrative"
+        }
+    ]
+}

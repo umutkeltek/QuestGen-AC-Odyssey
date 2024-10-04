@@ -1,0 +1,217 @@
+{
+    "Quest_Name": "There Goes the Neighborhood",
+    "Quest_ID": "228898",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD-ThereGoesTheNeighborhood-02.jpg",
+        "description": "'The Pythia (431 BCE)|Oracle, after fleeing the the Cult of Kosmos, was recognized by a neighbor and blackmailed. The Oracle's cousin wanted the blackmailer dealt with.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact Side Quest",
+        "previous": "The Truth Will Out",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''There Goes the Neighborhood''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met the cousin of the [[Pythia (431 BCE)|Pythia]], whom she had confronted earlier at the [[Chora of Delphi]].",
+    "Section_Dialogue": "While traveling across [[Greece]], Kassandra saw a contract from a philosopher on a [[message board]].\n: '''Note:''<br>'''<nowiki/>''Dear [[Eagle]] Bearer, may you read this message! Come see me. I owe you thanks.''\nKassandra accepted the contact and left to find the philosopher, who was pacing outside his house.\n*'''Kassandra:''' ''I got your message on the board. What's going on?''\n*'''Man:''' ''I know who you are, and I wanted to thank you, Eagle Bearer.''\n*'''Kassandra:''' ''For what?''\n*'''Man:''' ''You remember the oracle you talked to at [[Delphi]]? She's my cousin. You helped her realize the error of her ways, and she ran away from the [[Cult of Kosmos|Cult]]. She told me everything.''\n<tabber>\n|-|I'm glad the oracle is alive.=\n*'''Kassandra:''' ''I wasn't sure what happened to her when I left Delphi. I'm glad to knows she's all right.''\n*'''Man:''' ''As am I. But the Cult of Kosmos is searching everywhere for her. I need your help.''\n|-|The oracle is a bad person.=\n*'''Kassandra:''' ''The oracle was working for some horrible people. She should be ashamed of what she did for them.''\n*'''Man:''' ''She is! She's trying to make up for what she did. Please though, they're searching for her everywhere, and we need to get the Cult of Kosmos off her scent.''\n</tabber>\n*'''Kassandra:''' ''What do you have in mind?''\n*'''Man:''' ''My neighbor recognized her and is blackmailing us, saying if I don't give him all my earnings, he'll claim the reward on her head. But with my neighbor gone, our troubles would be over.''\n*'''Kassandra:''' ''Let me guess. You want me to kill him.''\n*'''Man:''' ''His death is the only solution.''\n(Accept \u2013 \"I'll handle it.\")\n[[File:ACOD-ThereGoesTheNeighborhood-04.jpg|thumb|250px|Kassandra aiming her bow at the archer.]]\n*'''Kassandra:''' ''I'll handle this.''\n*'''Man:''' ''You'll be just what I need.''\n*'''Kassandra:''' Chaire.\nKassandra tracked down the man, an [[archer]] employed by the local garrison, and killed him.\n*'''Kasssandra:''' ''Time to get my reward.''\nKassandra returned to the Pythia's cousin.\n*'''Man:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Man:''' ''Nicely done, my friend. Please take this as thanks.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra found and assassinated the blackmailer.",
+    "Section_Trivia": "*The location and character model for the quest giver is randomized.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Souci de voisinage]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While traveling across [[Greece]], Kassandra saw a contract from a philosopher on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N2",
+            "global_id": "2",
+            "content": ": '''Note:''<br>'''<nowiki/>''Dear [[Eagle]] Bearer, may you read this message! Come see me. I owe you thanks.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "3",
+            "content": "Kassandra accepted the contact and left to find the philosopher, who was pacing outside his house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I got your message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Man:''' ''I know who you are, and I wanted to thank you, Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''For what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Man:''' ''You remember the oracle you talked to at [[Delphi]]? She's my cousin. You helped her realize the error of her ways, and she ran away from the [[Cult of Kosmos|Cult]]. She told me everything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|I'm glad the oracle is alive.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I wasn't sure what happened to her when I left Delphi. I'm glad to knows she's all right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Man:''' ''As am I. But the Cult of Kosmos is searching everywhere for her. I need your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|The oracle is a bad person.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''The oracle was working for some horrible people. She should be ashamed of what she did for them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Man:''' ''She is! She's trying to make up for what she did. Please though, they're searching for her everywhere, and we need to get the Cult of Kosmos off her scent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''What do you have in mind?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Man:''' ''My neighbor recognized her and is blackmailing us, saying if I don't give him all my earnings, he'll claim the reward on her head. But with my neighbor gone, our troubles would be over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Let me guess. You want me to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Man:''' ''His death is the only solution.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "20",
+            "content": "(Accept \u2013 \"I'll handle it.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "I1",
+            "global_id": "21",
+            "content": "[[File:ACOD-ThereGoesTheNeighborhood-04.jpg|thumb|250px|Kassandra aiming her bow at the archer.]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Man:''' ''You'll be just what I need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Kassandra tracked down the man, an [[archer]] employed by the local garrison, and killed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kasssandra:''' ''Time to get my reward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "Kassandra returned to the Pythia's cousin.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Man:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Man:''' ''Nicely done, my friend. Please take this as thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

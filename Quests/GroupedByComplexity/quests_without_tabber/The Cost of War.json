@@ -1,0 +1,117 @@
+{
+    "Quest_Name": "The Cost of War",
+    "Quest_ID": "224627",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Lysander's ruthless disregard for enemies was more than tactics. It was a restless beast within him. The General only needed to hitch the demons to his chariot.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Rise Through the Ranks",
+        "next": "Know Your Enemy",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''The Cost of War''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After collecting three ''[[polemarch]]'' seals, Kassandra returned to [[Lysander]] in [[Sparta]].",
+    "Section_Dialogue": "*'''Kassandra:\u00a0'''''I'll kill the fort commanders if it's what must be done.''\nLysander growls disappointingly.\n*'''Lysander:\u00a0'''''We've lost ground.''\n*'''Kassandra:\u00a0'''''You'll gain it back.''\n*'''Lysander:\u00a0'''''I'm the only one of our generals who can. The wealthy don't understand the ugly things desperation makes people do.''\n*'''Kassandra:\u00a0'''''I'll take care of the fort commanders. That should help you regain a foothold.''\n*'''Lysander:\u00a0'''''Go! Don't return until they've been disposed of.''\n*'''Kassandra:\u00a0'''''Understood.''\nKassandra approached Lysander.\n*'''Kassandra:''' ''I have more of the enemy seals.''\n*'''Lysander:''' ''Good enough.''\n*'''Kassandra:''' ''Better than that.''\n*'''Lysander:''' ''None of our own generals could win this without me.''\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander eliminate three Athenian ''polemarchs'' and recover their seals. She was again tasked to retrieve more.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lysander",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:\u00a0'''''I'll kill the fort commanders if it's what must be done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Lysander growls disappointingly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Lysander:\u00a0'''''We've lost ground.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:\u00a0'''''You'll gain it back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Lysander:\u00a0'''''I'm the only one of our generals who can. The wealthy don't understand the ugly things desperation makes people do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:\u00a0'''''I'll take care of the fort commanders. That should help you regain a foothold.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Lysander:\u00a0'''''Go! Don't return until they've been disposed of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:\u00a0'''''Understood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "9",
+            "content": "Kassandra approached Lysander.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I have more of the enemy seals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Lysander:''' ''Good enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Better than that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Lysander:''' ''None of our own generals could win this without me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Dialogue continues to start the next quest.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

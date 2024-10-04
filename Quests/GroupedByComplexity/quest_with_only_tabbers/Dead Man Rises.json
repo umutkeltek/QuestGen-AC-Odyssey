@@ -1,0 +1,347 @@
+{
+    "Quest_Name": "Dead Man Rises",
+    "Quest_ID": "225284",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Dead Man Rises 1.png",
+        "description": "'A surviving villager became obsessed with joining the Order of the Ancients so as to take vengeance against the Magistrate of Potidaia, who left him for dead. Kassandra followed his twisted trail.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Makedonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Dead Man Rises''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across the trail of a man who could lead her to the whereabouts of an [[Order of the Ancients]] member.",
+    "Section_Dialogue": "In the shadow of the hunting grounds south of the [[Rock Arch]], Kassandra found a mass grave, along with signs of disturbed soil.  A note was pinned to the cart with the other bodies, indicating that the [[Hylas|hapless soul]] had clawed his way out of his grave by sheer force of will.  Kassandra inspected the note.\n*'''Hylas' Note''' ''Fellow villagers of Potidaia! If you've found this, you too have survived the Magistrate's treachery.<br><br>I've clawed my way out with one notion in mind: REVENGE!<br><br>A man who calls himself the [[Echion|Watcher]] showed me a new purpose in life. From the chaos, we shall bring [[Order of the Ancients|Order]] to the world!<br><br>Join our Order! Go to the military camp in the [[Swamps of Thermes|Swamp of Thermes]]. Take the Order Relic and read the note that comes with it. They will guide you to our cause. Only the bravest can face the beast!<br><br>\u2013Hylas''\n*'''Kassandra:''' ''This man is tough to have survived being buried alive like this.''\nKassandra headed for the [[Aristeas Military Camp|camp]] to retrieve the note and the relic.  [[Ikaros]] helped her determine where it was located.\n*'''Kassandra:''' ''There it is!''\nKassandra infiltrated the camp and retrieved the relic and note.\n*'''Hylas' Second Note:'''<br>''Brothers and sisters, we are given a second chance at life. From the chaos, we shall bring Order!<br><br>The [[Echion|Watcher]] will be pleased another shall join our ranks. He says we must exercise caution\u2014the [[Tainted Ones]] are cunning ''mal\u00e1kes'' that will ruin our plans.<br><br>The blacksmith's assistant is our eyes and ears in [[Amphipolis]] city. Bring him enough bear furs to prove you are one of us. Beware, the bears north of [[Unexplored Mount Pangeon]] are known to be extremely ferocious.<br><br>Hylas''\nKassandra scoffed at the idea of her signing up with the Order of Ancients.\n*'''Kassandra:''' ''Joining the Order... What could go wrong?''\nKassandra exited the camp and began hunting bears around Makedonia. Eventually, she acquired five pelts and remarked on the foolishness of such an \"initiation.\" \n*'''Kassandra:''' ''Revenge can drive people to do foolish things.''\n[[File:ACOD Dead Man Rises 3.png|thumb|250px|Kassandra speaking to the assistant]]\nWith five pelts in hand, she made her way to [[Amphipolis]] to talk to the blacksmith's assistant.\n*'''Blacksmith Assistant:''' ''Need anything, misthios?''\n*'''Kassandra:''' ''I heard you're the person to talk to around here if I have... \"bear pelts\" to sell?''\n*'''Blacksmith Assistant:''' ''You're in the right place if you want to give me... \"bear pelts.\"''\n<tabber>\n|-|You can have the \"bear pelts.\"=\n*'''Kassandra:''' ''Here are the... \"bear pelts.\"''\nThe assistant took the pelts, then looked around shiftily before beckoning Kassandra to follow.\n*'''Blacksmith Assistant:''' ''Over here.''\n*'''Kassandra:''' ''OK...''\n|-|I'm keeping my \"bear pelts.\"=\n*'''Kassandra:''' ''I'm not going to hand over my \"bear pelts\" to just anyone.''\n*'''Blacksmith Assistant:''' ''Oh. OK.''\nIn the end, Kassandra had to return and give him the pelts to continue her hunt for the Watcher.\n</tabber>\nAway from prying eyes, the assistant handed Kassandra a letter. She unfurled and inspected the letter, and the assistant remembered to ask for the code after the fact.\n*'''Blacksmith Assistant:''' ''Oh, wait! I forgot the code. Hold on! I always do that! In the beginning there was chaos...''\n<tabber>\n|-|...And its power is ancient.=\n*'''Kassandra:''' '' ...And it's power is ancient.''\n*'''Blacksmith Assistant:''' ''Uh... That's not the right answer!''\nThe assistant then attacked Kassandra.\n|-|What are you talking about?=\n*'''Kassandra:''' ''What is this about chaos?''\n*'''Blacksmith Assistant''' ''Umm... the code. You know the code, right?''\nKassandra, not knowing what the man was referring to, shrugged.\n*'''Blacksmith Assistant:''' ''Uh... That's not the right answer!''\nThe assistant then attacked Kassandra.\n|-|...And we are the Order.=\n*'''Kassandra:''' ''...And we are the Order.''\n*'''Blacksmith Assistant:''' ''By Zeus! You're good! Good thing you knew the code. I would have needed that note back, otherwise.''\n*'''Kassandra:''' ''Right...''\nThe assistant walked away none the wiser.\n</tabber>\nRegardless of Kassandra's answer, the identity of the Watcher, Echion, was revealed. Kassandra read his missive and remarked on his lot in life.\n*'''Kassandra:''' ''This man's life was a tragedy.''\nKassandra tracked him down in Amphipolis and ambushed him.\n*'''Echion:''' ''Now we see if the rumors about your strength are true, Eagle Bearer.''\nHe got in one good hit.\n*'''Echion:''' ''You're not what we thought. Not exceptional at all.''\nKassandra eventually delivered a fatal blow.  She confirmed Echion's death and completed her hunt.",
+    "Section_Outcome": "Kassandra managed to reveal the identity of another member of the Order of Hunters, [[Echion]], and hunt him down.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "In the shadow of the hunting grounds south of the [[Rock Arch]], Kassandra found a mass grave, along with signs of disturbed soil.  A note was pinned to the cart with the other bodies, indicating that the [[Hylas|hapless soul]] had clawed his way out of his grave by sheer force of will.  Kassandra inspected the note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Hylas' Note''' ''Fellow villagers of Potidaia! If you've found this, you too have survived the Magistrate's treachery.<br><br>I've clawed my way out with one notion in mind: REVENGE!<br><br>A man who calls himself the [[Echion|Watcher]] showed me a new purpose in life. From the chaos, we shall bring [[Order of the Ancients|Order]] to the world!<br><br>Join our Order! Go to the military camp in the [[Swamps of Thermes|Swamp of Thermes]]. Take the Order Relic and read the note that comes with it. They will guide you to our cause. Only the bravest can face the beast!<br><br>\u2013Hylas''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''This man is tough to have survived being buried alive like this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra headed for the [[Aristeas Military Camp|camp]] to retrieve the note and the relic.  [[Ikaros]] helped her determine where it was located.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''There it is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "Kassandra infiltrated the camp and retrieved the relic and note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Hylas' Second Note:'''<br>''Brothers and sisters, we are given a second chance at life. From the chaos, we shall bring Order!<br><br>The [[Echion|Watcher]] will be pleased another shall join our ranks. He says we must exercise caution\u2014the [[Tainted Ones]] are cunning ''mal\u00e1kes'' that will ruin our plans.<br><br>The blacksmith's assistant is our eyes and ears in [[Amphipolis]] city. Bring him enough bear furs to prove you are one of us. Beware, the bears north of [[Unexplored Mount Pangeon]] are known to be extremely ferocious.<br><br>Hylas''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "Kassandra scoffed at the idea of her signing up with the Order of Ancients.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Joining the Order... What could go wrong?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "10",
+            "content": "Kassandra exited the camp and began hunting bears around Makedonia. Eventually, she acquired five pelts and remarked on the foolishness of such an \"initiation.\"",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Revenge can drive people to do foolish things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "12",
+            "content": "[[File:ACOD Dead Man Rises 3.png|thumb|250px|Kassandra speaking to the assistant]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "13",
+            "content": "With five pelts in hand, she made her way to [[Amphipolis]] to talk to the blacksmith's assistant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Blacksmith Assistant:''' ''Need anything, misthios?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I heard you're the person to talk to around here if I have... \"bear pelts\" to sell?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Blacksmith Assistant:''' ''You're in the right place if you want to give me... \"bear pelts.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|You can have the \"bear pelts.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Here are the... \"bear pelts.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "20",
+            "content": "The assistant took the pelts, then looked around shiftily before beckoning Kassandra to follow.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Blacksmith Assistant:''' ''Over here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''OK...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "|-|I'm keeping my \"bear pelts.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'm not going to hand over my \"bear pelts\" to just anyone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Blacksmith Assistant:''' ''Oh. OK.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "26",
+            "content": "In the end, Kassandra had to return and give him the pelts to continue her hunt for the Watcher.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N9",
+            "global_id": "28",
+            "content": "Away from prying eyes, the assistant handed Kassandra a letter. She unfurled and inspected the letter, and the assistant remembered to ask for the code after the fact.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Blacksmith Assistant:''' ''Oh, wait! I forgot the code. Hold on! I always do that! In the beginning there was chaos...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "30",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "31",
+            "content": "|-|...And its power is ancient.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' '' ...And it's power is ancient.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Blacksmith Assistant:''' ''Uh... That's not the right answer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "34",
+            "content": "The assistant then attacked Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "35",
+            "content": "|-|What are you talking about?=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''What is this about chaos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "37",
+            "content": "*'''Blacksmith Assistant''' ''Umm... the code. You know the code, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "38",
+            "content": "Kassandra, not knowing what the man was referring to, shrugged.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "39",
+            "content": "*'''Blacksmith Assistant:''' ''Uh... That's not the right answer!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "40",
+            "content": "The assistant then attacked Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC5",
+            "global_id": "41",
+            "content": "|-|...And we are the Order.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''...And we are the Order.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "43",
+            "content": "*'''Blacksmith Assistant:''' ''By Zeus! You're good! Good thing you knew the code. I would have needed that note back, otherwise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Right...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "45",
+            "content": "The assistant walked away none the wiser.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE2",
+            "global_id": "46",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N14",
+            "global_id": "47",
+            "content": "Regardless of Kassandra's answer, the identity of the Watcher, Echion, was revealed. Kassandra read his missive and remarked on his lot in life.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''This man's life was a tragedy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "49",
+            "content": "Kassandra tracked him down in Amphipolis and ambushed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "50",
+            "content": "*'''Echion:''' ''Now we see if the rumors about your strength are true, Eagle Bearer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "51",
+            "content": "He got in one good hit.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "52",
+            "content": "*'''Echion:''' ''You're not what we thought. Not exceptional at all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "53",
+            "content": "Kassandra eventually delivered a fatal blow.  She confirmed Echion's death and completed her hunt.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

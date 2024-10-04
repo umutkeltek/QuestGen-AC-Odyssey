@@ -1,0 +1,110 @@
+{
+    "Quest_Name": "Rightfully Yours",
+    "Quest_ID": "233432",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'It was said a special Armor of the Dikastes|set of armor meant only for the 'Dikastes' was kept in Atlantis. Its legendary pieces were held by Atlantean Polemarchs who kept them in the:\n- Fortified Doma of Mestor|Doma of Mestor (Isu)|Mestor<br />\n- Doma of Elasippos|Doma of Elasippos<br />\n- Doma of Azaes|Doma of Azaes<br />\n- Fortified Doma of Mneseas|Fortified Doma of Mneseas<br />\n- Fortified Doma of Autochthonos|Fortified Doma of Autochthonos'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Fate of Atlantis: Judgment of Atlantis'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Atlantis",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Rightfully Yours''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra sought to recover the [[Armor of the Dikastes|set]] of [[armor]] that was rightfully hers.",
+    "Section_Dialogue": "While near the [[Doma of Atlas|Doma]] of [[Atlas (Isu)|Atlas]], Kassandra came across the scene of a deceased [[Soldier|guard]]. She approached the body and recovered a note.\n*'''Kassandra:''' ''What's this? A message.''\n:'''Protect Yourselves'''<br />''The armor that's come into your possession represents protection not meant for us. It was forged for the ''[[Dikastes]]'', but who's to say they deserve all the power in [[Atlantis]]? In this realm of [[Isu]] vs [[human]], a just ''Dikastes'' will let us, the [[Atlantis|Atlantean]] [[Atlantean Polemarch|Polemarch]]s, keep it for ourselves. Until we are found out, the pieces are spread amongst you in the [[Fortified Doma of Mestor|Doma of Mestor]], [[Doma of Elasippos|Elasippos]], [[Fortified Doma of Mneseas|Mneseas]], [[Doma of Azaes|Azaes]], and [[Fortified Doma of Autochthonos|Autochthonos]]. Keep them safe.<br /><br />\u2013 B.''\n\nKassandra first travelled to the Fortified Doma of [[Mestor (Isu)|Mestor]], finding the Atlantean [[Polemarch]] [[Helmetos]]. After eliminating him, she recovered the [[Dikastes' Helmet|helmet]] piece from his body.\n\nKassandra then travelled to the Doma of [[Elasippos]], eliminating the Atlantean Polemarch [[Chestor]]. After doing so, she recovered a [[Dikastes' Breastplate|breastplate]] from his body.\n\nKassandra then travelled to the Doma of [[Azaes]], where the Atlantean Polemarch [[Legoras]] was at. After eliminating him, she recovered a [[Dikastes' Greaves|pair]] of [[greaves]] from his body. \n\nKassandra next travelled to the Fortified Doma of [[Mneseas]], finding the Atlantean Polemarch [[Bracerdas]]. After eliminating him, she recovered a [[Dikastes' Bracers|pair]] of [[bracer]]s from his body.\n\nFinally, Kassandra travelled to the Fortified Doma of [[Autochthonos]] to hunt down her final target, [[Skirtis]]. By eliminating him, she recovered the final piece of the armor, the [[Dikastes' Belt|belt]].",
+    "Section_Outcome": "Kassandra recovered all five pieces of the Armor of the Dikastes from Atlantean Polemarchs.",
+    "Section_Trivia": "*The name of each polemarch reflects the armor piece they possess or the body part it part it protects. '''Helmet'''os holds a [[helmet]], '''Chest'''or holds a [[breastplate]], '''Skirt'''is holds a [[belt]], etc.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Judgment of Atlantis]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While near the [[Doma of Atlas|Doma]] of [[Atlas (Isu)|Atlas]], Kassandra came across the scene of a deceased [[Soldier|guard]]. She approached the body and recovered a note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''What's this? A message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": ":'''Protect Yourselves'''<br />''The armor that's come into your possession represents protection not meant for us. It was forged for the ''[[Dikastes]]'', but who's to say they deserve all the power in [[Atlantis]]? In this realm of [[Isu]] vs [[human]], a just ''Dikastes'' will let us, the [[Atlantis|Atlantean]] [[Atlantean Polemarch|Polemarch]]s, keep it for ourselves. Until we are found out, the pieces are spread amongst you in the [[Fortified Doma of Mestor|Doma of Mestor]], [[Doma of Elasippos|Elasippos]], [[Fortified Doma of Mneseas|Mneseas]], [[Doma of Azaes|Azaes]], and [[Fortified Doma of Autochthonos|Autochthonos]]. Keep them safe.<br /><br />\u2013 B.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra first travelled to the Fortified Doma of [[Mestor (Isu)|Mestor]], finding the Atlantean [[Polemarch]] [[Helmetos]]. After eliminating him, she recovered the [[Dikastes' Helmet|helmet]] piece from his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra then travelled to the Doma of [[Elasippos]], eliminating the Atlantean Polemarch [[Chestor]]. After doing so, she recovered a [[Dikastes' Breastplate|breastplate]] from his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "9",
+            "content": "Kassandra then travelled to the Doma of [[Azaes]], where the Atlantean Polemarch [[Legoras]] was at. After eliminating him, she recovered a [[Dikastes' Greaves|pair]] of [[greaves]] from his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "11",
+            "content": "Kassandra next travelled to the Fortified Doma of [[Mneseas]], finding the Atlantean Polemarch [[Bracerdas]]. After eliminating him, she recovered a [[Dikastes' Bracers|pair]] of [[bracer]]s from his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "13",
+            "content": "Finally, Kassandra travelled to the Fortified Doma of [[Autochthonos]] to hunt down her final target, [[Skirtis]]. By eliminating him, she recovered the final piece of the armor, the [[Dikastes' Belt|belt]].",
+            "segment_type": "Narrative"
+        }
+    ]
+}

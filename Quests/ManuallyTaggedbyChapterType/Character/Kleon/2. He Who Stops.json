@@ -1,0 +1,40 @@
+{
+    "QuestName": "He Who Stops",
+    "QuestID": "223654",
+    "Revision": {
+        "id": "1047453",
+        "parentid": "922396",
+        "timestamp": "2023-06-13T19:07:54Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047453",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ojh62dv9zlfob5qgx8zxtxkl4pfvrvj"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Heremos.jpg",
+        "description": "'One of Kleon's Heremos|agents was captured by the Spartans. Kassandra agreed to free him and escort him to his destination, a ship waiting off the coast of Attika.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "For the People",
+        "next": "The Liberator",
+        "source": "Kassandra",
+        "location": "Attika, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''He Who Stops''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra agreed to [[Kleon]]'s request to free his informant [[Heremos]].",
+    "Section_Dialogue": "Kassandra made her way northeast of Athens to [[Mt. Pentelikos Village]], then scanned the nearby [[Mt. Pentelikos Marble Quarry|quarry]]-turned-prison camp for Heremos with the help of [[Ikaros]].\n*'''Kassandra:''' ''The messenger\u2014he's being held in that prison camp.''\nKassandra infiltrated the camp and made her way to the central watchtower from which Heremos was apparently hanging. She climbed the watchtower and confirmed that he was dead.\n*'''Kassandra:''' ''Looks like I was too late for Heremos.''\nShe looked down at the cages and noticed some prisoners.\n*'''Kassandra:''' ''Huh, seems Kleon's messenger wasn't the only one captured. Maybe I can help them, too.''",
+    "Section_Outcome": "Heremos was dead long before Kassandra could rescue him, but she noticed other prisoners she could save.",
+    "Section_Trivia": "*Heremos's hanged body is loaded in the Pentelikos quarry even before the quest is begun, as early as the first time the player sets foot in Attika. The ship captain, however, is not loaded until this quest has begun, and while he can be carried out, he cannot be interacted with until this quest is completed.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

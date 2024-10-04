@@ -1,0 +1,585 @@
+{
+    "Quest_Name": "Test of Character",
+    "Quest_ID": "229549",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'The challenges of being a Piracy|pirate are substantial in both number and danger. Kassandra would have to pick her battles to help a captain in need.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "'The Lost Tales of Greece'",
+        "previous": "Test of Judgment",
+        "next": "Test of Adaptability",
+        "source": "Kassandra",
+        "location": "Ariabignes Shipwreck, Attika, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Test of Character''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was asked for help by the shipbuilder of a [[Piracy|pirate]] village, which was threatened by soldiers.",
+    "Section_Dialogue": "*'''Captain:''' [[Mercenary|Misthios]]''! I prayed to [[Poseidon]] that one as mighty as you would come to aid us. I'd nearly lost hope, but here you are.''\n*'''Kassandra:''' ''I was told your village was in danger.''\n*'''Captain:''' ''Yes. My brother sailed out to take on the [[soldier]]s threatening to burn us out. They take a dim view of piracy, you know. But they ambushed his ship and, well... My brother never saw home again.''\n*'''Kassandra:''' ''[[Shark]]s are merciless.''\n*'''Captain:'''\u00a0''How did you know he was killed by sharks?''\n\n<tabber>\nI visited your brothers tomb.=\n*'''Kassandra:''' ''I visited your brothers tomb. I'm sorry for your loss.''\n*''''Captain:''' ''Thanks. That's kind of you to say.''\n|-|\nI know many things.=\n*'''Kassandra:''' ''I have ways of finding things out.''\n*'''Captain:''' ''I suppose I won't ask then.''\n</tabber>\n*'''Kassandra:''' ''So, are those soldiers still threatening you?''\n*'''Captain:''' ''Yes, but I have a plan. I'm going to build a warship, one they won't be able to sink. My village will survive.\u00a0''\n*'''Kassandra:''' ''You seem determined. What do you have left to do?''\n*'''Captain:''' ''Too much. There's a detachment keeping the pressure on us, not far from here. It's hard to gather building supplies while they're around.''\n*'''Kassandra:'''\u00a0''So you need supplies... or you need\u00a0that detachment taken care of.''\n*'''Captain:''' ''Well aren't you as clever as [[Minerva|Athena]] herself! What would you be willing to do for us?''\n\n<tabber>\nI'll go fight the soldiers.=\n*'''Kassandra:'''\u00a0''I'll make those soldiers regret taking up arms against you.''\n*'''Captain:'''\u00a0''Many thanks, ''misthios''! I've heard rumors they are stationed west of the [[Ruined Sanctuary\u00a0of Ajax]].''\n*'''Kassandra:''' ''Then that's where I'll go.''\nKassandra traveled to the island of [[Salamis]] and killed the soldiers. Finding a prisoner in the camp, she freed him before returning to the captain.\n*'''Kassandra:''' ''No one will hear from those soldiers again.''\n*'''Captain:''' ''Then I'm safe to build my ship and what's more, my brother is avenged. You have my thanks.''\n*'''Kassandra:''' ''I also rescued a prisoner. He should be on his way over.''\n*'''Captain:''' ''Thank the gods. You've done us a great favor.''\n*'''Kassandra:''' ''May your new ship bring you victory.''\n|-|\nI'll find the\u00a0supplies you need=\n*'''Kassandra:''' ''I'll find the supplies you need and leave the fighting to you.''\n*'''Captain:''' ''Fair enough. Though I might need you to take up arms against dryads. I need plenty of [[olive]] wood to make sure this ship is solid.''\n*'''Kassandra:''' ''I'll get right to it.''\nAlready having some wood on hand, Kassandra gave it to the captain.\n*'''Kassandra:''' ''This should be all of it.''\n*'''Captain:''' ''Thank you! Now there's just one last thing we need\u2014an eye of protection.''\n*'''Kassandra:''' ''For the bow of the ship you mean?''\n*'''Captain:''' ''Exactly! There's probably one in the\u00a0[[Ariabignes Shipwreck]]. At least if Poseidon hasn't claimed it for himself.''\n*'''Kassandra:''' ''If it's there I'll find it.''\nKassandra traveled to the shipwreck east of the isle of Salamis. Braving some sharks, she found the Eye in the broken remains of the ship.\n*'''Kassandra:''' ''Here, will this eye do?''\n*'''Captain:''' ''Yes... I suppose it will.''\n*'''Kassandra:''' ''Is something wrong?''\n*'''Captain:''' ''I remember this eye staring at me as the ship went down. So many sailors died that day...''\n*'''Kassandra:''' ''You know, there's more you can do with a new ship than just pirating.''\n*'''Captain:''' ''I believe you are right, ''misthios''. Perhaps you have come to show me wisdom after all. Here, take this. It'll be the last of our spoils.''\n*'''Kassandra:''' ''Thank you. May you find a more peaceful path in the future.''\n</tabber>\n*'''Kassandra:''' ''I should get back to that [[Athena (imposter)|strange woman]] and let her know what happened.''\nKassandra returned to the mysterious woman.\n*'''Kassandra:\u00a0'''''I met the dead man's brother.''\n*'''Mysterious Woman:''' ''Ah? So, why did such a man go sailing in shark-filled\u00a0waters?''\n*'''Kassandra:''' ''He was a pirate and set out to fight the soldiers who threatened his family. They sank his ship, leaving him to the sharks.''\n*'''Mysterious Woman:''' ''That's nearly tragic. So, how did you resolve the matter? That is what you do as a ''misthios'', resolve matters, right?''\n\n<tabber>\nIf the soldiers were killed=\n{{#tag:tabber|\nI killed soldiers to help the pirates.=\n*'''Kassandra:''' ''The pirates brother asked for my help, so I eliminated some soldiers who attacked his village. He will be able to defend himself next time.''\n{{!}}-{{!}}\nI killed soldiers because it was right.=\n*'''Kassandra:''' ''The soldiers had already attacked the pirates. For the sake of justice I returned that attack.''\n}}\n|-|\nIf supplies and the ship eye were gathered=\n{{#tag:tabber|\nI found materials to build a better ship.=\n*'''Kassandra:''' ''I gave the shipbuilding\u00a0materials to the pirate's brother to help him build a sturdier vessel. I think I set an example for him. He's decided to quit piracy and start a new life.''\n{{!}}-{{!}}\nI retrieved the ship's holy eye.=\n*'''Kassandra:''' ''I dove deep to retrieve the protective eye the new ship needed. Poseidon must have smiled on that, because he enlightened the pirate's brother and set him on a more peaceful path.''\n}}\n</tabber>\n*'''Mysterious Woman:''' ''I see. That answer is quite revealing of your character.''\n*'''Kassandra:''' ''Why are you concerned about my character?''\n*'''Mysterious Woman:''' ''Something will come of it. Very soon I suspect. But here, take this for now.''\n*'''Kassandra:''' ''Thank you... Though it seems like you have more plans for me.''\n*'''Mysterious Woman:''' ''Perhaps. You have proven you could survive the dangers of the ocean. But what about an [[Foundry of Hephaistos|island of fire and smoke]]?''\n(Accept \u2013 Yes, I'll explore the island.)\n*'''Kassandra:''' ''I'd like to explore this strange island.''\n*'''Mysterious Woman:''' ''Good. You're very nearly impressing me.''\n*'''Kassandra:''' ''Oh really? ''I'' should be impressed.''\n*'''Mysterious Woman:''' ''I would like to send you to this island of smoke and flame, but an associate of mine still has my key to the vault within. Without it, your trip would be in vain.''\n*'''Kassandra:''' ''Are they as strange as you?''\n*'''Mysterious Woman:''' ''That's nearly amusing. My associate lives in the graveyard you visited earlier. He lives as a hermit. He'll have time to talk, even to you.''\n*'''Kassandra:''' ''I'll go reclaim your key.''",
+    "Section_Outcome": "Kassandra either killed a number of soldiers or\u00a0convinced the pirate captain to abandon his violent ways after gathering\u00a0wood and\u00a0a protective\u00a0eye\u00a0from the Ariabignes Shipwreck.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:\u00c9preuve de caract\u00e8re]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Divine Intervention",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Captain:''' [[Mercenary|Misthios]]''! I prayed to [[Poseidon]] that one as mighty as you would come to aid us. I'd nearly lost hope, but here you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I was told your village was in danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Captain:''' ''Yes. My brother sailed out to take on the [[soldier]]s threatening to burn us out. They take a dim view of piracy, you know. But they ambushed his ship and, well... My brother never saw home again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''[[Shark]]s are merciless.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Captain:'''\u00a0''How did you know he was killed by sharks?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "I visited your brothers tomb.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I visited your brothers tomb. I'm sorry for your loss.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*''''Captain:''' ''Thanks. That's kind of you to say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC3",
+            "global_id": "12",
+            "content": "I know many things.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I have ways of finding things out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Captain:''' ''I suppose I won't ask then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''So, are those soldiers still threatening you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Captain:''' ''Yes, but I have a plan. I'm going to build a warship, one they won't be able to sink. My village will survive.\u00a0''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''You seem determined. What do you have left to do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Captain:''' ''Too much. There's a detachment keeping the pressure on us, not far from here. It's hard to gather building supplies while they're around.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:'''\u00a0''So you need supplies... or you need\u00a0that detachment taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Captain:''' ''Well aren't you as clever as [[Minerva|Athena]] herself! What would you be willing to do for us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "23",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "24",
+            "content": "I'll go fight the soldiers.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:'''\u00a0''I'll make those soldiers regret taking up arms against you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Captain:'''\u00a0''Many thanks, ''misthios''! I've heard rumors they are stationed west of the [[Ruined Sanctuary\u00a0of Ajax]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Then that's where I'll go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "28",
+            "content": "Kassandra traveled to the island of [[Salamis]] and killed the soldiers. Finding a prisoner in the camp, she freed him before returning to the captain.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''No one will hear from those soldiers again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Captain:''' ''Then I'm safe to build my ship and what's more, my brother is avenged. You have my thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I also rescued a prisoner. He should be on his way over.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "32",
+            "content": "*'''Captain:''' ''Thank the gods. You've done us a great favor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''May your new ship bring you victory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "34",
+            "content": "|-|",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC6",
+            "global_id": "35",
+            "content": "I'll find the\u00a0supplies you need=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I'll find the supplies you need and leave the fighting to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "37",
+            "content": "*'''Captain:''' ''Fair enough. Though I might need you to take up arms against dryads. I need plenty of [[olive]] wood to make sure this ship is solid.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll get right to it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "39",
+            "content": "Already having some wood on hand, Kassandra gave it to the captain.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''This should be all of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Captain:''' ''Thank you! Now there's just one last thing we need\u2014an eye of protection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''For the bow of the ship you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "43",
+            "content": "*'''Captain:''' ''Exactly! There's probably one in the\u00a0[[Ariabignes Shipwreck]]. At least if Poseidon hasn't claimed it for himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''If it's there I'll find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "45",
+            "content": "Kassandra traveled to the shipwreck east of the isle of Salamis. Braving some sharks, she found the Eye in the broken remains of the ship.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Here, will this eye do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "47",
+            "content": "*'''Captain:''' ''Yes... I suppose it will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Is something wrong?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "49",
+            "content": "*'''Captain:''' ''I remember this eye staring at me as the ship went down. So many sailors died that day...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''You know, there's more you can do with a new ship than just pirating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "51",
+            "content": "*'''Captain:''' ''I believe you are right, ''misthios''. Perhaps you have come to show me wisdom after all. Here, take this. It'll be the last of our spoils.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Thank you. May you find a more peaceful path in the future.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "53",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D39",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I should get back to that [[Athena (imposter)|strange woman]] and let her know what happened.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "55",
+            "content": "Kassandra returned to the mysterious woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "56",
+            "content": "*'''Kassandra:\u00a0'''''I met the dead man's brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "57",
+            "content": "*'''Mysterious Woman:''' ''Ah? So, why did such a man go sailing in shark-filled\u00a0waters?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''He was a pirate and set out to fight the soldiers who threatened his family. They sank his ship, leaving him to the sharks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "59",
+            "content": "*'''Mysterious Woman:''' ''That's nearly tragic. So, how did you resolve the matter? That is what you do as a ''misthios'', resolve matters, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "62",
+            "content": "If the soldiers were killed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "63",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "64",
+            "content": "I killed soldiers to help the pirates.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''The pirates brother asked for my help, so I eliminated some soldiers who attacked his village. He will be able to defend himself next time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "66",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "67",
+            "content": "I killed soldiers because it was right.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''The soldiers had already attacked the pirates. For the sake of justice I returned that attack.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "69",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC10",
+            "global_id": "70",
+            "content": "|-|",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC11",
+            "global_id": "71",
+            "content": "If supplies and the ship eye were gathered=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "72",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC12",
+            "global_id": "73",
+            "content": "I found materials to build a better ship.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''I gave the shipbuilding\u00a0materials to the pirate's brother to help him build a sturdier vessel. I think I set an example for him. He's decided to quit piracy and start a new life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "75",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC13",
+            "global_id": "76",
+            "content": "I retrieved the ship's holy eye.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''I dove deep to retrieve the protective eye the new ship needed. Poseidon must have smiled on that, because he enlightened the pirate's brother and set him on a more peaceful path.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "78",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE3",
+            "global_id": "79",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D48",
+            "global_id": "80",
+            "content": "*'''Mysterious Woman:''' ''I see. That answer is quite revealing of your character.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Why are you concerned about my character?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "82",
+            "content": "*'''Mysterious Woman:''' ''Something will come of it. Very soon I suspect. But here, take this for now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "83",
+            "content": "*'''Kassandra:''' ''Thank you... Though it seems like you have more plans for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "84",
+            "content": "*'''Mysterious Woman:''' ''Perhaps. You have proven you could survive the dangers of the ocean. But what about an [[Foundry of Hephaistos|island of fire and smoke]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "85",
+            "content": "(Accept \u2013 Yes, I'll explore the island.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''I'd like to explore this strange island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "87",
+            "content": "*'''Mysterious Woman:''' ''Good. You're very nearly impressing me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Oh really? ''I'' should be impressed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "89",
+            "content": "*'''Mysterious Woman:''' ''I would like to send you to this island of smoke and flame, but an associate of mine still has my key to the vault within. Without it, your trip would be in vain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''Are they as strange as you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "91",
+            "content": "*'''Mysterious Woman:''' ''That's nearly amusing. My associate lives in the graveyard you visited earlier. He lives as a hermit. He'll have time to talk, even to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''I'll go reclaim your key.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

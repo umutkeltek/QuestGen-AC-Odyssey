@@ -1,0 +1,146 @@
+{
+    "Quest_Name": "One Bad Spartan Spoils the Bunch",
+    "Quest_ID": "224247",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Lakonia-GoraniMarbleQuarry.jpg",
+        "description": "'Spartan traitors were fueling a rebellion by arming 'helots' with weapons. Brasidas sent Kassandra to deal with these traitorous Polemarchs to gain favor with the Spartan King, Archidamos of Sparta|Archidamos.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Kings of Sparta",
+        "next": "Kings of Sparta",
+        "source": "Kassandra",
+        "location": "Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''One Bad Spartan Spoils the Bunch''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "As suggested by [[Brasidas]], Kassandra sought to appeal to King [[Archidamos of Sparta|Archidamos]] by ending the traitorous operation of arming the [[Slavery|enslaved]] ''[[helot]]s''.",
+    "Section_Dialogue": "Kassandra made her way southwest uphill from [[Mesoa]] village. [[Ikaros]] helped her find and scan the [[Gorani Marble Quarry|quarry]] from the crossroad.\n*'''Kassandra:''' ''Found them!''\nIkaros spotted leader of the traitors.\n*'''Kassandra:''' ''Found him!''\nShe reached the entrance.\n*'''Kassandra:''' ''This is the marble quarry Brasidas mentioned.''\nShe infiltrated through an opening on the palisade along the entrance, then made her way through the bushes.\n*'''Kassandra:''' ''The weapons have to be here somewhere.''\nShe spied a weapon rack inside a dark-colored tent guarded by soldiers. Before she dispatched them, she reminded herself to be discreet.\n*'''Kassandra:''' ''There's only one Spartan here that I need to kill. It'll be easier if I don't alert the others.''\nNevertheless, she destroyed the weapon rack.\n*'''Kassandra:''' ''One down, four to go.''\nKassandra moved further inside, being careful not to get detected. She spotted another one behind a {{Wiki|treadwheel crane|crane}} north of the quarry and dismantled it.\n*'''Kassandra:''' ''That's two. Time to find the others.''\nShe moved up a wooden ramp west, into a chamber with ladders and a hole above. She found a rack below a tower-like structure and broke it.\n*'''Kassandra:''' ''Three weapon racks destroyed. Won't take much longer.''\nShe moved back out and down to a longer chamber southeast of the quarry. Kassandra moved in and quickly destroyed the fourth weapon rack.\n*'''Kassandra:''' ''Only one more to go.''\nKassandra caught glimpse of the leader wearing heavy soldier armor and assassinated him. She used a nearby pulley to lift herself up to the final rack. She destroyed it and escaped the quarry.",
+    "Section_Outcome": "Kassandra assassinated the leader of the treasonous band of Spartans, and destroyed the weapon racks they were going to give to the ''helots''.",
+    "Section_Trivia": "*This quest is missable. It is possible to go and meet the kings straightaway; doing this locks out One Bad Spartan Spoils the Bunch as well as [[Bully the Bullies]] quests, and grants instead [[A Legendary Hunt]] quest.\n*The name of this quest is a reference to the proverb \"one bad apple spoils the bunch\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Pas de fruit g\u00e2t\u00e9 \u00e0 Sparte]]",
+    "Chapter_SequenceID": "15.",
+    "Chapter_Name": "Home is Where My Mother Is",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way southwest uphill from [[Mesoa]] village. [[Ikaros]] helped her find and scan the [[Gorani Marble Quarry|quarry]] from the crossroad.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Found them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Ikaros spotted leader of the traitors.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Found him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She reached the entrance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''This is the marble quarry Brasidas mentioned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "She infiltrated through an opening on the palisade along the entrance, then made her way through the bushes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The weapons have to be here somewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "9",
+            "content": "She spied a weapon rack inside a dark-colored tent guarded by soldiers. Before she dispatched them, she reminded herself to be discreet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''There's only one Spartan here that I need to kill. It'll be easier if I don't alert the others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "11",
+            "content": "Nevertheless, she destroyed the weapon rack.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''One down, four to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "13",
+            "content": "Kassandra moved further inside, being careful not to get detected. She spotted another one behind a {{Wiki|treadwheel crane|crane}} north of the quarry and dismantled it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''That's two. Time to find the others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "15",
+            "content": "She moved up a wooden ramp west, into a chamber with ladders and a hole above. She found a rack below a tower-like structure and broke it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Three weapon racks destroyed. Won't take much longer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "17",
+            "content": "She moved back out and down to a longer chamber southeast of the quarry. Kassandra moved in and quickly destroyed the fourth weapon rack.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Only one more to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "19",
+            "content": "Kassandra caught glimpse of the leader wearing heavy soldier armor and assassinated him. She used a nearby pulley to lift herself up to the final rack. She destroyed it and escaped the quarry.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

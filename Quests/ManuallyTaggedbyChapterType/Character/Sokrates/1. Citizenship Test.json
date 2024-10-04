@@ -1,0 +1,36 @@
+{
+    "QuestName": "Citizenship Test",
+    "QuestID": "223773",
+    "Revision": {
+        "id": "973449",
+        "parentid": "967255",
+        "timestamp": "2021-10-30T21:58:45Z",
+        "contributor": null,
+        "comment": "Corrected a typo in Sokrates' name",
+        "origin": "973449",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "346h1yfntch3gr16874x6ig521ds6g2"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Citizenship Test Memory.png",
+        "description": "'Kassandra found Alkibiades speaking with Sokrates. Apparently, a man named Sophanes wanted to become an Athens|Athenian citizen, but needed Kassandra's help in doing so.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Sokrates}}",
+        "previous": null,
+        "next": "Witness Him",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "c. 431 BCE"
+    },
+    "General_Description": "'''Citizenship Test''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra found [[Alkibiades]], who need her help with a citizenship issue.",
+    "Section_Dialogue": "Kassandra found Alkibiades and [[Sokrates]] in the [[Garden of Hephaistos|garden]] outside the [[Temple of Hephaistos, Athens|Temple]] of [[Hephaistos]].\n*'''Alkibiades:''' ''Talking in circles may work on others, Sokrates, but not on me.''\n*'''Sokrates:''' ''I don't speak in circles, or any other shape. You answered one of my questions, and that brought another to mind.''\n*'''Alkibiades:''' ''And another... And another...''\nKassandra approached Alkibiades and Sokrates.\n<tabber>\n|-|If Kassandra slept with Alkibiades=\n*'''Alkibiades:''' ''Kassandra! I knew you'd be back for more. I can't say it hasn't been on my mind... But, alas, we must save it for another time.''\n|-|If Kassanda denied Alkibiades' advances=\n*'''Alikibiades:''' ''Kassandra! I knew you'd change your mind after turning me down. Unfortunately, love must wait a little longer.''\n</tabber>\n\n*'''Kassandra:''' ''Whatever you say.''\n*'''Alkibiades:''' ''I hate to cut our conversation short, Sokrates, but I believe you've talked enough for the both of us. We must find another use for that mouth of yours.''\n*'''Sokrates:''' ''Speak to him long enough, and you may find the smallest hint of knowledge veiled deep behind his... enthusiastic advances.''\n\nSokrates left.\n\n*'''Alkibiades:''' ''A compliment and an insult in the same sentence. He truly is gifted. You've arrived at the perfect time. I have a friend named [[Sophanes]] who wants to become an Athenian citizen, but he needs a bit of help. Your help.''\n*'''Kassandra:''' ''I can't wait to hear why it's my help he needs.''\n*'''Alkibiades:''' ''Any ''[[Mercenary|misthios]]'' would do, really, but you're my favorite. All you need to do is sign my friend's name on a little list.''\n\n(If \"Why can't Sophanes sign for himself?\" is chosen.)\n\n*'''Kassandra:''' ''There has to be a reason Sophanes can't sign the list himself.''\n*'''Alkibiades:''' ''Well, he would, but he isn't nearly as... able as you are.''\n*'''Kassandra:''' ''Meaning?''\n*'''Alkibiades:''' ''Meaning you have skills he doesn't possess. He'd fail if he tried on his own.''\n\n(If \"Why does Sophanes want to be a citizen?\" is chosen.)\n\n*'''Kassandra:''' ''Why Athens? Surely he is a citizen somewhere else already.''\n*'''Alkibiades:''' ''Everyone wants to be an Athenian citizen, even if they don't say so. Sophanes has a mind for politics, but can only participate as a citizen.''\n\n(If \"Why am I your favourite ''misthios''?\" is chosen.)\n\n*'''Kassandra:''' ''I didn't realize you had a list of mercenaries you favor... And I'm at the top?''\n*'''Alkibiades:''' ''Of course you are. Although, if you ask nicely, I would happily let you be on the bottom.''\n\n(If \"This sounds too easy.\" is chosen.)\n\n*'''Kassandra:''' ''This sounds simple. Now tell me why it isn't.''\n*'''Alkibiades:''' ''There's the small matter that you'll have to enter the [[Stoa of Zeus|Metroon]], where you're not allowed... And forge his name well enough, of course.''\n*'''Kassandra:''' ''So he's trying to become a citizen illegally. You should have led with that.''\n*'''Alkibiades:''' ''I'll try to remember that next time. The building you're looking for is near the [[Agora of Athens|agora]]. Be safe.''\n\nBefore leaving, Kassandra spoke to Alkibiades once more.\n\n*'''Alkibiades:''' ''Did you forget what you're supposed to do, or did you just miss me?''\n\nSeeing she would get no further information, Kassandra travelled to the agora and infiltrated the building. She found the book and forged Sophane's name on it.\n\n*'''Kassandra:''' ''There, his name's been signed. Time to get back to Alkibiades.''\n\nKassandra returned to Alkibiades.\n\n*'''Alkibiades:''' ''My favorite ''misthios'' returns.''\n<tabber>\n|-|If Kassanda killed any guards=\n*'''Kassandra:''' ''Sophanes's name is on the list, but it came at a price.''\n*'''Alkibiades:''' ''I see. Sometimes blood must be shed... You were the right ''misthios'' for the job.''\n|-|If Kassandra avoided killing any guards=\n*'''Kassandra:''' ''And with good news, too.''\n*'''Alkibiades:''' ''My favorite kind. You did it then?''\n*'''Kassandra:''' ''Of course I did. Sophanes's name is now on the citizen list.''\n*'''Alkibiades:''' ''Perfect! I knew you were the right ''misthios'' for the job.''\n</tabber>",
+    "Section_Outcome": "Kassandra fulfilled Alkibiades' request to forge Sophanes' name on the citizen list.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Examen de citoyennet\u00e9]]"
+}

@@ -1,0 +1,467 @@
+{
+    "Quest_Name": "Call to Arms (Melos)",
+    "Quest_ID": "223732",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the memory of Kassandra in Melos | another [[Call to Arms (Mykonos) | memory]] of Kassandra in Mykonos"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-CalltoArms-Drakioscrowd.jpg",
+        "description": "'When Kassandra met Drakios, the man behind the great Battle of One Hundred Hands, she would have to prove her strength before competing.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Foot Race",
+        "next": "The Great Contender",
+        "source": "Kassandra",
+        "location": "Melos, Obsidian Islands, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Call to Arms''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Drakios]] to take part in the [[Battle of One Hundred Hands]].",
+    "Section_Dialogue": "Kassandra approached Drakios as he spoke to a crowd of people.\n*'''Drakios:''' ''Warriors! Heroes! Mercenaries of all types.\u00a0Sign up here for the Battle of One Hundred Hands.<br>Would you like to be rich? Are you the next Champion? You, ''[[Mercenary|misthios]]''. You look like a true contender.''\nKassandra engaged Drakios in conversation.\n<tabber>\n|-|If Roxana already met.=\n*'''Kassandra:''' ''I met Roxana on [[Hydrea]]. She says you're the one to talk to about entering the battle on [[Melos]].''\n*'''Drakios:''' ''Indeed I am. My name's Drakios.''\n*'''Kassandra:''' ''Kassandra. I'm interested in competing in this... What did you call it?''\n|-|If Roxana not met.=\n*'''Kassandra:''' ''What's this battle you're calling out about?''\n*'''Drakios:''' ''My name's Drakios. It's a pleasure to meet you...''\n*'''Kassandra:''' ''Kassandra. Tell me about the Battle.''\n</tabber>\n*'''Drakios:''' ''The Battle of One Hundred Hands draws warriors from all corners of the [[Greece|Greek]] world to compete for a large purse. But as competitions go, it's also very deadly\u2014a last person standing type of affair.''\n<tabber>\n|-|I'm good at deadly.=\n*'''Kassandra:''' ''Killing is how I make my [[drachma]]e. This battle will be no different.''\n*'''Drakios:''' ''It's true. You have the look of a mythical hero about you...''\n*'''Kassandra:''' ''I expect future generations to sing songs in my honor.''\n|-|I'm a simple misthios.=\n*'''Kassandra:''' ''I do my best work in the shadows. Not sure how I'd fare on an open battlefield...''\n*'''Drakios:''' ''It's true that only the best-trained have a hope of glory in the Battle of One Hundred Hands.''\n*'''Kassandra:''' ''I make no promises.''\n</tabber>\n*'''Drakios:''' ''If you join the Battle, you'll have the chance to prove your mettle against the best. And because the Battle is backed by the most powerful and influential people in the Greek world, the purse is always growing.''\n*'''Kassandra:''' ''If you mean the people I think you mean, then I would like to meet them and... have a few ''words.\n*'''Drakios:''' ''Indeed. They are the kind of people I would never speak about openly.<br>You know, you do look like someone I've met before, another fierce warrior. Family resemblance, perhaps?''\n*'''Kassandra:''' ''You mean [[Deimos]]? Then this Battle is backed by the [[Cult of Kosmos|Cult]].''\n*'''Drakios:''' ''Of course I can't talk about that. Not with any old challenger. But become the Champion of the Battle of One Hundred Hands, and I'll tell you all I know.''\n(Accept \u2013 I'll take part in the Battle.)\n*'''Kassandra:''' ''I want to fight in the Battle.''\n*'''Drakios:''' ''I thought you might. The only rule is that every competitor must train with another competitor, and they must vouch for each other.''\n<tabber>\n|-|If Roxana met.=\n*'''Kassandra:''' ''I've already met Roxana on Hydrea.''\n*'''Drakios:''' ''So I've heard. She was going to be my top recommendation as she's amongst our highest-ranked contenders. If you can train with her, then there is certainly a place for you in the Battle.''\n|-|If Roxana not met.=\n*'''Kassandra:''' ''And you can direct me to a worthy training partner.''\n*'''Drakios:''' ''Indeed, indeed. One of our top-ranked competitors is looking for a training companion. Roxana. She spars on [[Hydrea]], the island just north of here.''\n</tabber>\n(If players choose \"How did this tradition begin?\")\n*'''Kassandra:''' ''What started the tradition of a free-for-all battle on Melos?''\n*'''Drakios:''' ''I started it with some financial support from the powerful people I mentioned. The metaphor is that each combatant is battling a'' [[Hekatonchires|Hecatoncheir]].\n*'''Kassandra:''' ''The creature with fifty heads and one hundred hands.''\n*'''Drakios:''' ''Indeed. By defeating all the competitors, it's as if the Champion has slain the creature itself - quite an achievement. Not something to be attempted by the weak.''\n*'''Kassandra:''' ''Indeed.''\n(If players choose \"What can you tell me about Roxana?\")\n*'''Kassandra:''' ''What do you know about Roxana?''\n*'''Drakios:''' ''She's from a long line of aspiring champions. Indeed, virtually her entire family has tried to win the Battle of One Hundred Hands.''\n*'''Kassandra:''' Aspiring ''champions.''\n*'''Drakios:''' ''None of them were as skilled as Roxana, it must be said.''\n(If players choose \"How did you get involved in the Battle?\")\n*'''Kassandra:''' ''How did you become the person who organizes the Battle?''\n*'''Drakios:''' ''I was an up-and-coming [[merchant]] in these parts... Down on my luck, it turned out. Owed a few favors, then some powerful people called in those favors. Turned out to be good for me. Blood sports are big business on Melos.''\n*'''Kassandra:''' ''These powerful people you mentioned. They're the Cult of Kosmos, aren't they?''\n*'''Drakios:''' ''The mysterious ones. You want to meet them. I know, but it will have to wait.''\n*'''Kassandra:''' ''How long?''\n*'''Drakios:''' ''I stay close with all of my champions. If you win the Battle, it's something we can discuss over victory wine.''\n(Accept \u2013 I'm ready to battle.)\n*'''Kassandra:''' ''I'm ready to compete.''\n<tabber>\n|-|Roxana-questchain complete.=\n*'''Drakios:''' ''Indeed. Roxana tells me your training went well. Meet me inside the city gates. The Battle will begin soon.''\n|-|(Roxana-questchain incomplete.=\n*'''Drakios:''' ''You haven't yet finished your training.<br>You ''do'' seem capable enough. If you gave me a heavy bag of drachmae, however, I might be able to waive that requirement.''\n(I'll pay. [4000])\n*'''Kassandra:''' ''I'd rather not bother with the training.''\n*'''Drakios:''' ''The winner's purse will reflect your contribution, ''misthios''. The Battle will commence soon. Meet me inside the city gates when you're ready.''\n(Lie - I'm done training.)\n*'''Kassandra:''' ''I already finished my training with Roxana.''\n*'''Drakios:''' ''Ha! Indeed, show me a ''misthios'', and I'll show you a liar. Nice try.''\n</tabber>",
+    "Section_Outcome": "Kassandra was permitted to enter the Battle of One Hundred Hands.",
+    "Section_Trivia": "*It is entirely possible for the player to start this quest before meeting Roxana on Hydrea. While Drakios will encourage the player to meet up with her, the player can gain access to the Battle of One Hundred Hands by paying him 4500 drachmae, thus skipping the [[Sparring with Roxana]], [[Archery Practice]] and [[Foot Race]] quests, which will affect the final confrontation in [[Legend No More]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Drakios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Drakios as he spoke to a crowd of people.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Drakios:''' ''Warriors! Heroes! Mercenaries of all types.\u00a0Sign up here for the Battle of One Hundred Hands.<br>Would you like to be rich? Are you the next Champion? You, ''[[Mercenary|misthios]]''. You look like a true contender.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra engaged Drakios in conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|If Roxana already met.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I met Roxana on [[Hydrea]]. She says you're the one to talk to about entering the battle on [[Melos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Drakios:''' ''Indeed I am. My name's Drakios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Kassandra. I'm interested in competing in this... What did you call it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|If Roxana not met.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''What's this battle you're calling out about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Drakios:''' ''My name's Drakios. It's a pleasure to meet you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Kassandra. Tell me about the Battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Drakios:''' ''The Battle of One Hundred Hands draws warriors from all corners of the [[Greece|Greek]] world to compete for a large purse. But as competitions go, it's also very deadly\u2014a last person standing type of affair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "15",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "16",
+            "content": "|-|I'm good at deadly.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Killing is how I make my [[drachma]]e. This battle will be no different.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Drakios:''' ''It's true. You have the look of a mythical hero about you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I expect future generations to sing songs in my honor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "20",
+            "content": "|-|I'm a simple misthios.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I do my best work in the shadows. Not sure how I'd fare on an open battlefield...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Drakios:''' ''It's true that only the best-trained have a hope of glory in the Battle of One Hundred Hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I make no promises.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Drakios:''' ''If you join the Battle, you'll have the chance to prove your mettle against the best. And because the Battle is backed by the most powerful and influential people in the Greek world, the purse is always growing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''If you mean the people I think you mean, then I would like to meet them and... have a few ''words.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Drakios:''' ''Indeed. They are the kind of people I would never speak about openly.<br>You know, you do look like someone I've met before, another fierce warrior. Family resemblance, perhaps?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''You mean [[Deimos]]? Then this Battle is backed by the [[Cult of Kosmos|Cult]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Drakios:''' ''Of course I can't talk about that. Not with any old challenger. But become the Champion of the Battle of One Hundred Hands, and I'll tell you all I know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "30",
+            "content": "(Accept \u2013 I'll take part in the Battle.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I want to fight in the Battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "32",
+            "content": "*'''Drakios:''' ''I thought you might. The only rule is that every competitor must train with another competitor, and they must vouch for each other.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "33",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "34",
+            "content": "|-|If Roxana met.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I've already met Roxana on Hydrea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Drakios:''' ''So I've heard. She was going to be my top recommendation as she's amongst our highest-ranked contenders. If you can train with her, then there is certainly a place for you in the Battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "37",
+            "content": "|-|If Roxana not met.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''And you can direct me to a worthy training partner.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "39",
+            "content": "*'''Drakios:''' ''Indeed, indeed. One of our top-ranked competitors is looking for a training companion. Roxana. She spars on [[Hydrea]], the island just north of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "40",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "41",
+            "content": "(If players choose \"How did this tradition begin?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''What started the tradition of a free-for-all battle on Melos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Drakios:''' ''I started it with some financial support from the powerful people I mentioned. The metaphor is that each combatant is battling a'' [[Hekatonchires|Hecatoncheir]].",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''The creature with fifty heads and one hundred hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "45",
+            "content": "*'''Drakios:''' ''Indeed. By defeating all the competitors, it's as if the Champion has slain the creature itself - quite an achievement. Not something to be attempted by the weak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Indeed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "47",
+            "content": "(If players choose \"What can you tell me about Roxana?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D31",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''What do you know about Roxana?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "49",
+            "content": "*'''Drakios:''' ''She's from a long line of aspiring champions. Indeed, virtually her entire family has tried to win the Battle of One Hundred Hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' Aspiring ''champions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Drakios:''' ''None of them were as skilled as Roxana, it must be said.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "52",
+            "content": "(If players choose \"How did you get involved in the Battle?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''How did you become the person who organizes the Battle?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Drakios:''' ''I was an up-and-coming [[merchant]] in these parts... Down on my luck, it turned out. Owed a few favors, then some powerful people called in those favors. Turned out to be good for me. Blood sports are big business on Melos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''These powerful people you mentioned. They're the Cult of Kosmos, aren't they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "56",
+            "content": "*'''Drakios:''' ''The mysterious ones. You want to meet them. I know, but it will have to wait.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''How long?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "58",
+            "content": "*'''Drakios:''' ''I stay close with all of my champions. If you win the Battle, it's something we can discuss over victory wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "59",
+            "content": "(Accept \u2013 I'm ready to battle.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I'm ready to compete.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "62",
+            "content": "|-|Roxana-questchain complete.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "63",
+            "content": "*'''Drakios:''' ''Indeed. Roxana tells me your training went well. Meet me inside the city gates. The Battle will begin soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "64",
+            "content": "|-|(Roxana-questchain incomplete.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "65",
+            "content": "*'''Drakios:''' ''You haven't yet finished your training.<br>You ''do'' seem capable enough. If you gave me a heavy bag of drachmae, however, I might be able to waive that requirement.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "66",
+            "content": "(I'll pay. [4000])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''I'd rather not bother with the training.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "68",
+            "content": "*'''Drakios:''' ''The winner's purse will reflect your contribution, ''misthios''. The Battle will commence soon. Meet me inside the city gates when you're ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O4",
+            "global_id": "69",
+            "content": "(Lie - I'm done training.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''I already finished my training with Roxana.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Drakios:''' ''Ha! Indeed, show me a ''misthios'', and I'll show you a liar. Nice try.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "72",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

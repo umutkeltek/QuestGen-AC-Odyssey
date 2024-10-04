@@ -1,0 +1,39 @@
+{
+    "QuestName": "The Hunter Remains",
+    "QuestID": "236200",
+    "Revision": {
+        "id": "1047538",
+        "parentid": "941735",
+        "timestamp": "2023-06-13T19:29:03Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047538",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "i6qzbp8hlc98p7cwfb47nvh5vl2yhjr"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Great slaughter and fire drove most creatures and people from the woods. A hunter who remained behind was troubled by Wolf|wolves come to feed on the dead.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Hunter Remains''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In a camp in the woods, Kassandra met a hunter with problems.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Need something?''\n*'''Hunter:''' ''I've hunted in this forest for years. I will not abandon it. I will be here as it heals.''\n*'''Kassandra:''' ''Is there enough game left for you to hunt?''\n*'''Hunter:''' ''Game remains and more will return. But I must protect myself. Carcasses are drawing out [[Wolf|wolves]] in droves. Not to mention the bandits who comb the woods looking for easy victims.''\n*'''Kassandra:''' ''And of course, you want me to kill them all.''\n*'''Hunter:''' ''No bandit should be left standing.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Hunter:''' ''Good. Get it done soon.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra sought out the bandits and killed them. Afterwards, she returned to the hunter.\n*'''Hunter:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Hunter:''' ''Take this as thanks, [[mercenary]]. You did good work.''\n*'''Kassandra:''' ''I always finish what I've started.''\nThe hunter rewarded Kassandra.",
+    "Section_Outcome": "At the request of the hunter, Kassandra sought out and killed the bandits.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

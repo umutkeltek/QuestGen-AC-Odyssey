@@ -1,0 +1,862 @@
+{
+    "Quest_Name": "Lyre Lyre",
+    "Quest_ID": "226822",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Praxilla's lyre was missing and presumed stolen by Orchimedes. Kassandra had to rescue the instrument, lest Praxilla be unable to perform.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Praxilla's Admirer",
+        "next": "Repairing the Lyre",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Lyre Lyre''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Praxilla]] about recovering her beloved lyre.",
+    "Section_Dialogue": "Kassandra approaches the young woman talking with Alkibiades.\n\n*'''Kassandra:''' ''Praxilla? I have flowers for you from Orchimedes of... somewhere.''\n*'''Praxilla:''' ''Did I not tell you to get the wine five minutes ago?''\n*'''Alkibiades:''' ''Kassandra of Agiad. May I introduce to you my dear friend, Praxilla. Apollo's muse, and mistress of the golden strings.''\n*'''Kassandra:''' You're ''Praxilla?''\n*'''Praxilla:''' ''Didn't expect an aged bard, Mercenary of Agiad?''\n\n<tabber>\n|-|Age doesn't concern me, only drachmae.=\n*'''Kassandra:''' ''People your age tend to have more wealth, so if anything this is better for me.''\n|-|Mastery takes time.=\n*'''Kassandra:''' ''It would be foolish of me to assume a master of the craft would be young.''\n</tabber>\n\n*'''Alkibiades:''' ''Praxilla, this is Kassandra of Agiad. Eagle Bearer, Messenger of Zeus, launcher of a thousand -''\n*'''Praxilla:''' ''Kassandra. Ka. Ka? Casts stone and light alike. Leaves ladies and lads alight, alive? Ailing women and awestruck men cling to her side.''\n*'''Alkibiades:''' ''Ah, a true genius.''\n*'''Praxilla:''' ''Look at those shoulders. A soldier. A Spartan? A thorn in the side of tyrants. She who dares challenge Poseidon. Alkibiades, this one I'm keeping my eyes on.''\n*'''Alkibiades:''' ''The poems she writes about'' me ''are never so kind.''\n*'''Kassandra:''' ''I have flowers for you. They're not from me. They're from Orchimedes. He's right over...''\nTurn to see Orchimedes fleeing the area.\n*'''Kassandra:''' ''Well he was over there.''\n*'''Praxilla:''' ''A Coral Rose? I'll have to get my servant to add these to the pile.''\n\n<tabber>\n|-|You should be more grateful.=\n*'''Kassandra:''' ''It's a gift. Show some gratitude.''\n|-|Flattery doesn't go far with me either.=\n*'''Kassandra:''' ''I also prefer actions to easy gestures.''\n</tabber>\n\n*'''Praxilla:''' ''Where is that servant girl? I swear, her head must be rattling with rocks.''\n*'''Alkibiades:''' ''I wish she'd rattle'' my ''rocks.''\n*'''Praxilla:''' ''Achaikos is missing! That idiot must've taken it with her and run off!''\n*'''Kassandra:''' ''Achaikos?''\n*'''Alkibiades:''' ''Achaikos is Praxilla's legendary lyre.''\n*'''Praxilla:''' ''I set it down after tuning moments before you arrived. I can't go on stage without Achaikos.''\n*'''Kassandra:''' ''I did see Orchimedes leaving in quite a hurry. ''\n*'''Alkibiades:''' ''We need to get that lyre back. Please, without Praxilla getting everyone's juices flowing, this festival is just a bunch of young men measuring the size of their verse.''\n\n(If \"Why is the lyre special?\" is chosen.)\n*'''Kassandra:''' ''This lyre was special? Can you play another for your recital?''\n*'''Praxilla:''' ''Perseus without winged sandals or a mirrored shield was just a man. Would he have the same legends, the same mystery, if he performed each task without a legendary weapon?''\n*'''Alkibiades:''' ''It's very valuable both in significance and in drachmae.''\n\n(If \"Who do you think is behind this?\" is chosen.)\n*'''Kassandra:''' ''Orchimedes and the missing servant both disappeared as the lyre was stolen. They could be working together.''\n*'''Alkibiades:''' ''And he seemed like such a'' nice ''boy.''\n*'''Praxilla:''' ''Alkibiades invited a viper into my tent.''\n*'''Kassandra:''' ''Is there somewhere they could have taken it?''\n*'''Praxilla:''' ''It's a poetry festival. There is no better hub for shady trade.''\n\n(Leave - I'll go find the lyre.)\n*'''Kassandra:''' ''I'll find the thief and return the lyre.''\nThere are four people in the area you can talk to about the missing lyre or Orchimedes whereabouts: [[Phaenna]], [[Laches]], Drymon and [[Krantor]].\n\n(If Kassandra talked to Phaenna.)\n*'''Kassandra: '''''Praxilla's lyre has gone missing. Have you seen it?''\n*'''Phaenna: '''''Praxilla's lyre is missing? That's terrible news. First no Euripedes, and now this? Kreusis really has gone to the dogs.''\n\n(If Kassandra talked to Laches.)\n*'''Kassandra: '''''I am looking for a man named Orchimedes.''\n*'''Laches: '''''I know an Archimedes. Otherwise, no.''\n*'''Kassandra: '''''He might have been holding a lyre.''\n*'''Laches: '''''There are as many men holding lyres here as there are blades of grass on a field.''\n\n(If Kassandra talked to Drymon.)\n*'''Kassandra: '''''I'm looking for a missing lyre.''\n*'''Drymon: '''''Aren't we all?''\n*'''Kassandra: '''''Are we?''\n\nKassandra approached Krantor, who provided her with the information she needed.\n*'''Kassandra: '''''Do you know a man named Orchimedes?''\n*'''Krantor: '''''Orchimedes? Orchimedes. That's the kid who hands out around the [[Vipers]]. Yeah, I know him. He's been coming to the festival for three or four years, maybe?''\n*'''Kassandra:''' ''The Vipers? Who are they?''\n*'''Krantor: '''''You know how it is. People feel small, so they band together to make the rest of us feel smaller. They took over the [[Temple of Athena Itonia]] awhile back. Now it's hard to take the road without being held at knifepoint.''\n*'''Kassandra:''' ''Do you think that's where Orchimedes would take a lyre?''\n*'''Krantor:''' ''Hope not, for his sake. The Vipers are dangerous. If he did have the lyre on him, they'd probably rough him up for it. He's one of those kids they've been keeping around for fodder, if you get me.''\n(If \"Was Orchimedes carrying a lyre?\" is chosen.)\n*'''Kassandra: '''''Did he have a lyre on him?''\n*'''Krantor: '''''I didn't see him with one. I saw him talking to you, then walking towards Praxilla's tent. He and Praxilla's pretty helot have been sneaking around lots. Just assumed they were, you know, planting a garden.''\n(If \"Why the Temple of Athena?\" is chosen.)\n*'''Kassandra: '''''Is the Temple of Athena the best place to sell a stolen lyre?''\n*'''Krantor: '''''You can buy and sell anything here, unfortunately, but going to the Vipers guarantees the person you stole from won't follow you in. Shame, it was such a beautiful temple.''\n(Leave - Thanks for you help)\n*'''Kassandra: '''''Thank you for your help.''\n*'''Krantor: '''''Hope you find the lyre. Watch out for the Vipers at the Temple of Athena Itonia!''\n\nKassandra leaves and heads towards the Temple of Athena Itonia. On her way she finds \"Praxilla's pretty helot\", [[Ismene]], who is desperate for aid and talks to her.\n*'''Ismene: '''''Someone, please help!''\n*'''Kassandra: '''''You're that servant. The one who disappeared at the same time as the lyre.''\n*'''Ismene: '''''I can explain. Orchimedes talked me into it and said he'd use the drachmae to buy my freedom. When we escaped, he said he wanted to bring the lyre to the Vipers. I said no. The Vipers said yes.''\n*'''Kassandra: '''''So, the Vipers have Orchimedes ''and ''the lyre now. As for you, you can go back to Praxilla and apologize if you really want help. ''\n\nKassandra heads to the Temple of Athena Itonia and rescues Orchimedes from the Vipers. \n\nEscorting him out of the ruined Temple:\n*'''Orchimedes''': ''Oh, thank the gods, I'm saved. These horrible thugs blackmailed me into stealing the lyre.''\n*'''Kassandra:''' ''I doubt that.''\n*'''Orchimedes:''' ''They took it from me when I was captured.''\nKassandra followed Orchimedes until he stopped at a fork in the road, and talked with him.\n*'''Orchimedes:''' Mal\u00e1ka. ''Got what they deserved.''\n*'''Kassandra:''' ''Did they force you to steal Praxilla's lyre?''\n*'''Orchimedes:''' ''No. They gave me the confidence I was lacking. We would drink and complain about poetry at the festival, and I let slip that Praxilla's my mother.''\n*'''Kassandra:''' ''What? Praxilla's your mother?''\n*'''Orchimedes:''' ''She is. She abandoned me and my father when I was a child. Something about following her destiny to be a wandering poet. My father, Achaikos, built that lyre for her as a wedding present. She loved it more than us. I just... I wanted her to feel the way we did when she left.'' \n\n<tabber>\n|-|Praxilla got what she deserved for leaving you=\n*'''Kassandra:''' ''Praxilla got what she deserved for leaving her family.''\n*'''Orchimedes:''' ''I just wanted her to feel some of the pain I've felt. Why don't I feel better?''\n*'''Kassandra:''' ''Orchimedes, I know you still have the lyre. Give it to me.''\n*'''Orchimedes:''' ''It got broken in the struggle.''\n*'''Kassandra:''' Mal\u00e1ka.\n\n|-|Praxilla had the right to walk her own path=\n*'''Kassandra:''' ''Praxilla was born with a calling for the arts. It was her right to follow it.''\n*'''Orchimedes:''' ''She should have thought of that before she decided to have a family. I wish my father had never made her that lyre.''\n*'''Kassandra:''' ''Speaking of the lyre, I know you have it.''\n*'''Orchimedes:''' Mal\u00e1ka. ''I do, but it was damaged in the struggle.''\n</tabber>\n\n*'''Orchimedes:''' ''Wait, before you leave... I need some advice. Should I talk to Praxilla? I don't know what to do!''\n\n<tabber>\n|-|Try talking to Praxilla=\n*'''Kassandra:''' ''Approach Praxilla as yourself and talk to her. Maybe she missed you and didn't know how to come home.''\n|-|Leave. It's not worth it.=\n*'''Kassandra:''' ''I know what it's like to be angry at a parent and want retribution. It brought me no peace. Go, be with your father. You are worth more than a lyre to him.'' \n</tabber>\n\n*'''Orchimedes:''' ''I need time to think about everything. My father, my mother, my friends. Please don't tell Praxilla who I am.''\n\nReturn to Praxilla with the broken lyre.\n\n*'''Kassandra:''' ''I was able to get the lyre, but not in one piece.''\n*'''Praxilla:''' ''Thank you. Oh Achaikos, what mischief did you get yourself into?''",
+    "Section_Outcome": "Kassandra recovered Praxilla's lyre from Orchimedes, who revealed himself as Praxilla's son.",
+    "Section_Behind_the_scenes": "The name of this memory is a play on the start of the saying: ''liar, liar, pants on fire'', used to call out someone as lying.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Lyre]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Poet's Legacy",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approaches the young woman talking with Alkibiades.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Praxilla? I have flowers for you from Orchimedes of... somewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Praxilla:''' ''Did I not tell you to get the wine five minutes ago?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Alkibiades:''' ''Kassandra of Agiad. May I introduce to you my dear friend, Praxilla. Apollo's muse, and mistress of the golden strings.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' You're ''Praxilla?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Praxilla:''' ''Didn't expect an aged bard, Mercenary of Agiad?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|Age doesn't concern me, only drachmae.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''People your age tend to have more wealth, so if anything this is better for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|Mastery takes time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''It would be foolish of me to assume a master of the craft would be young.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Alkibiades:''' ''Praxilla, this is Kassandra of Agiad. Eagle Bearer, Messenger of Zeus, launcher of a thousand -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Praxilla:''' ''Kassandra. Ka. Ka? Casts stone and light alike. Leaves ladies and lads alight, alive? Ailing women and awestruck men cling to her side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Alkibiades:''' ''Ah, a true genius.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Praxilla:''' ''Look at those shoulders. A soldier. A Spartan? A thorn in the side of tyrants. She who dares challenge Poseidon. Alkibiades, this one I'm keeping my eyes on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Alkibiades:''' ''The poems she writes about'' me ''are never so kind.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I have flowers for you. They're not from me. They're from Orchimedes. He's right over...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "22",
+            "content": "Turn to see Orchimedes fleeing the area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Well he was over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Praxilla:''' ''A Coral Rose? I'll have to get my servant to add these to the pile.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "26",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "27",
+            "content": "|-|You should be more grateful.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''It's a gift. Show some gratitude.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "29",
+            "content": "|-|Flattery doesn't go far with me either.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''I also prefer actions to easy gestures.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "31",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U5",
+            "global_id": "32",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Praxilla:''' ''Where is that servant girl? I swear, her head must be rattling with rocks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Alkibiades:''' ''I wish she'd rattle'' my ''rocks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Praxilla:''' ''Achaikos is missing! That idiot must've taken it with her and run off!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Achaikos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Alkibiades:''' ''Achaikos is Praxilla's legendary lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Praxilla:''' ''I set it down after tuning moments before you arrived. I can't go on stage without Achaikos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''I did see Orchimedes leaving in quite a hurry. ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Alkibiades:''' ''We need to get that lyre back. Please, without Praxilla getting everyone's juices flowing, this festival is just a bunch of young men measuring the size of their verse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "42",
+            "content": "(If \"Why is the lyre special?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''This lyre was special? Can you play another for your recital?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Praxilla:''' ''Perseus without winged sandals or a mirrored shield was just a man. Would he have the same legends, the same mystery, if he performed each task without a legendary weapon?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Alkibiades:''' ''It's very valuable both in significance and in drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "47",
+            "content": "(If \"Who do you think is behind this?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Orchimedes and the missing servant both disappeared as the lyre was stolen. They could be working together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Alkibiades:''' ''And he seemed like such a'' nice ''boy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Praxilla:''' ''Alkibiades invited a viper into my tent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Is there somewhere they could have taken it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "52",
+            "content": "*'''Praxilla:''' ''It's a poetry festival. There is no better hub for shady trade.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "53",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "54",
+            "content": "(Leave - I'll go find the lyre.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I'll find the thief and return the lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "56",
+            "content": "There are four people in the area you can talk to about the missing lyre or Orchimedes whereabouts: [[Phaenna]], [[Laches]], Drymon and [[Krantor]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "57",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "58",
+            "content": "(If Kassandra talked to Phaenna.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D35",
+            "global_id": "59",
+            "content": "*'''Kassandra: '''''Praxilla's lyre has gone missing. Have you seen it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "60",
+            "content": "*'''Phaenna: '''''Praxilla's lyre is missing? That's terrible news. First no Euripedes, and now this? Kreusis really has gone to the dogs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "61",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "62",
+            "content": "(If Kassandra talked to Laches.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "63",
+            "content": "*'''Kassandra: '''''I am looking for a man named Orchimedes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "64",
+            "content": "*'''Laches: '''''I know an Archimedes. Otherwise, no.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "65",
+            "content": "*'''Kassandra: '''''He might have been holding a lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "66",
+            "content": "*'''Laches: '''''There are as many men holding lyres here as there are blades of grass on a field.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "67",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "68",
+            "content": "(If Kassandra talked to Drymon.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "69",
+            "content": "*'''Kassandra: '''''I'm looking for a missing lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "70",
+            "content": "*'''Drymon: '''''Aren't we all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "71",
+            "content": "*'''Kassandra: '''''Are we?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "73",
+            "content": "Kassandra approached Krantor, who provided her with the information she needed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "74",
+            "content": "*'''Kassandra: '''''Do you know a man named Orchimedes?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Krantor: '''''Orchimedes? Orchimedes. That's the kid who hands out around the [[Vipers]]. Yeah, I know him. He's been coming to the festival for three or four years, maybe?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''The Vipers? Who are they?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "77",
+            "content": "*'''Krantor: '''''You know how it is. People feel small, so they band together to make the rest of us feel smaller. They took over the [[Temple of Athena Itonia]] awhile back. Now it's hard to take the road without being held at knifepoint.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''Do you think that's where Orchimedes would take a lyre?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "79",
+            "content": "*'''Krantor:''' ''Hope not, for his sake. The Vipers are dangerous. If he did have the lyre on him, they'd probably rough him up for it. He's one of those kids they've been keeping around for fodder, if you get me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "80",
+            "content": "(If \"Was Orchimedes carrying a lyre?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D50",
+            "global_id": "81",
+            "content": "*'''Kassandra: '''''Did he have a lyre on him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "82",
+            "content": "*'''Krantor: '''''I didn't see him with one. I saw him talking to you, then walking towards Praxilla's tent. He and Praxilla's pretty helot have been sneaking around lots. Just assumed they were, you know, planting a garden.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "83",
+            "content": "(If \"Why the Temple of Athena?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D52",
+            "global_id": "84",
+            "content": "*'''Kassandra: '''''Is the Temple of Athena the best place to sell a stolen lyre?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "85",
+            "content": "*'''Krantor: '''''You can buy and sell anything here, unfortunately, but going to the Vipers guarantees the person you stole from won't follow you in. Shame, it was such a beautiful temple.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O5",
+            "global_id": "86",
+            "content": "(Leave - Thanks for you help)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "87",
+            "content": "*'''Kassandra: '''''Thank you for your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "88",
+            "content": "*'''Krantor: '''''Hope you find the lyre. Watch out for the Vipers at the Temple of Athena Itonia!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "89",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "90",
+            "content": "Kassandra leaves and heads towards the Temple of Athena Itonia. On her way she finds \"Praxilla's pretty helot\", [[Ismene]], who is desperate for aid and talks to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D56",
+            "global_id": "91",
+            "content": "*'''Ismene: '''''Someone, please help!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "92",
+            "content": "*'''Kassandra: '''''You're that servant. The one who disappeared at the same time as the lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "93",
+            "content": "*'''Ismene: '''''I can explain. Orchimedes talked me into it and said he'd use the drachmae to buy my freedom. When we escaped, he said he wanted to bring the lyre to the Vipers. I said no. The Vipers said yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "94",
+            "content": "*'''Kassandra: '''''So, the Vipers have Orchimedes ''and ''the lyre now. As for you, you can go back to Praxilla and apologize if you really want help. ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "95",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "96",
+            "content": "Kassandra heads to the Temple of Athena Itonia and rescues Orchimedes from the Vipers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "97",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "98",
+            "content": "Escorting him out of the ruined Temple:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "99",
+            "content": "*'''Orchimedes''': ''Oh, thank the gods, I'm saved. These horrible thugs blackmailed me into stealing the lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''I doubt that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "101",
+            "content": "*'''Orchimedes:''' ''They took it from me when I was captured.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "102",
+            "content": "Kassandra followed Orchimedes until he stopped at a fork in the road, and talked with him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D63",
+            "global_id": "103",
+            "content": "*'''Orchimedes:''' Mal\u00e1ka. ''Got what they deserved.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''Did they force you to steal Praxilla's lyre?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "105",
+            "content": "*'''Orchimedes:''' ''No. They gave me the confidence I was lacking. We would drink and complain about poetry at the festival, and I let slip that Praxilla's my mother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''What? Praxilla's your mother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "107",
+            "content": "*'''Orchimedes:''' ''She is. She abandoned me and my father when I was a child. Something about following her destiny to be a wandering poet. My father, Achaikos, built that lyre for her as a wedding present. She loved it more than us. I just... I wanted her to feel the way we did when she left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "108",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "109",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "110",
+            "content": "|-|Praxilla got what she deserved for leaving you=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''Praxilla got what she deserved for leaving her family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "112",
+            "content": "*'''Orchimedes:''' ''I just wanted her to feel some of the pain I've felt. Why don't I feel better?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Orchimedes, I know you still have the lyre. Give it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "114",
+            "content": "*'''Orchimedes:''' ''It got broken in the struggle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' Mal\u00e1ka.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "116",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC6",
+            "global_id": "117",
+            "content": "|-|Praxilla had the right to walk her own path=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D73",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''Praxilla was born with a calling for the arts. It was her right to follow it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "119",
+            "content": "*'''Orchimedes:''' ''She should have thought of that before she decided to have a family. I wish my father had never made her that lyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "120",
+            "content": "*'''Kassandra:''' ''Speaking of the lyre, I know you have it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "121",
+            "content": "*'''Orchimedes:''' Mal\u00e1ka. ''I do, but it was damaged in the struggle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "122",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U18",
+            "global_id": "123",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D77",
+            "global_id": "124",
+            "content": "*'''Orchimedes:''' ''Wait, before you leave... I need some advice. Should I talk to Praxilla? I don't know what to do!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "125",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "126",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "127",
+            "content": "|-|Try talking to Praxilla=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D78",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''Approach Praxilla as yourself and talk to her. Maybe she missed you and didn't know how to come home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC8",
+            "global_id": "129",
+            "content": "|-|Leave. It's not worth it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D79",
+            "global_id": "130",
+            "content": "*'''Kassandra:''' ''I know what it's like to be angry at a parent and want retribution. It brought me no peace. Go, be with your father. You are worth more than a lyre to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "131",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U20",
+            "global_id": "132",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D80",
+            "global_id": "133",
+            "content": "*'''Orchimedes:''' ''I need time to think about everything. My father, my mother, my friends. Please don't tell Praxilla who I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "134",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "135",
+            "content": "Return to Praxilla with the broken lyre.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "136",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D81",
+            "global_id": "137",
+            "content": "*'''Kassandra:''' ''I was able to get the lyre, but not in one piece.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "138",
+            "content": "*'''Praxilla:''' ''Thank you. Oh Achaikos, what mischief did you get yourself into?''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

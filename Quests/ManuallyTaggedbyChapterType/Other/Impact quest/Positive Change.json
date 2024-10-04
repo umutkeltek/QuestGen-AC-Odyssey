@@ -1,0 +1,44 @@
+{
+    "QuestName": "Positive Change",
+    "QuestID": "236758",
+    "Revision": {
+        "id": "1047494",
+        "parentid": "844920",
+        "timestamp": "2023-06-13T19:19:02Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047494",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "dhorpg06kre8bvnjb16qf6bb97g8bm2"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Positive Change",
+        "image": null,
+        "description": "'After Kassandra spared the life of a Pratinos|fisherman, his wife hoped that the 'misthios' would be kind enough to help their district again by making a delivery.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact quest",
+        "previous": "A Venomous Encounter",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "430s - 420s BCE"
+    },
+    "General_Description": "'''Positive Change''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": null,
+    "Section_Dialogue": "*'''Kassandra:''' ''Can I help you, [[merchant]]?''\n*'''Woman:''' ''You! Oh, my [[Pratinos|husband]] told me about how you spared his life in the [[Fishing District|fishing district]].''\n<tabber>\n|-|Your husband meant well.=\n*'''Kassandra:''' ''Well, your husband could have been in a lot of trouble threatening a man like the politician [[Metiochos]], but I know he and his friends meant well.''\n|-|He should be careful.=\n*'''Kassandra:''' ''Your husband should be more careful. He and his friends could have gotten in a lot of trouble threatening the politician Metiochos.''\n</tabber>\n*'''Woman:''' ''Of course, you're right. But he took your advice, and a bunch of us [[Athens|Athenians]] have gotten together to help the fishing district... and now we need your help again, too.''\n*'''Kassandra:''' ''I'm listening.''\n*'''Woman:''' ''I'm too busy tending my stall, but I need to deliver these new sandals made for a local beggar. We have a clothing drive here now. See? I told you we're turning things around. All thanks to you.''\n*'''Kassandra:''' ''And you want me to deliver it to him.''\n*'''Woman:''' ''Yes, simple enough. It needs to arrive in one piece.''\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''You're a gods-send.''\n*'''Kassandra:''' ''We're done here.''\nKassandra left the woman and sought out the beggar.\n*'''Kassandra:''' ''A merchant told me you'd want this.''\n*'''Man:''' ''Perfect timing, ''misthios''. Let me repay you.''",
+    "Section_Outcome": "Kassandra helped the merchant deliver the sandals, and was rewarded for this.",
+    "Section_Trivia": "*The quest is triggered by dealing peacefully with the fishermen in [[A Venomous Encounter]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

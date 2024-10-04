@@ -1,0 +1,207 @@
+{
+    "Quest_Name": "The Isu Beckon",
+    "Quest_ID": "230816",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Mysterious as ever, Aletheia told a curious Kassandra that their journey together was nowhere near over. The one way to move forward was to return to Atlantis.'",
+        "appearance": "'Assassin's Creed: Odyssey' - 'The Fate of Atlantis: Fields of Elysium'",
+        "type": "Main",
+        "next": "Trials of the Keeper",
+        "source": "Kassandra",
+        "location": "Gateway to the Lost City, Thera, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''The Isu Beckon''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Aletheia]] and got informed about what she was about to do as Keeper.",
+    "Section_Dialogue": "While traveling Greece, Kassandra heard a voice.\n*'''Aletheia:''' ''Keeper... Return to me.''\n*'''Kassandra:''' ''Aletheia? She must need me. I should find her.''\nKassandra returned to the entrance of Atlantis and found Aletheia.\n*'''Aletheia:''' ''It's time, Keeper, to fulfill the most important part of your task as the one who holds the [[Staff of Hermes Trismegistus|Staff]]. Are you ready to begin?''\n(Accept \u2013 \"I'm ready to go.\")\n*'''Kassandra:''' ''Whatever it is you have planned, I'm ready.''\nKassandra's memories aided the [[Layla Hassan|Heir]] in opening the throne room.<br>\nKassandra sliced open her left hand and wiped her blood onto the door, unlocking it.\n*'''Aletheia:''' ''The Keeper shares blood with Those Who Came Before and is connected to the [[Isu]]...''\nThe great door slid open before Kassandra, and she strode into the throne room of Atlantis, standing before the projection of Aletheia.\n*'''Aletheia:''' ''The blood that is shared must be offered... And the Great Seal will open for us.''\n*'''Kassandra:''' ''If you say so.''\n*'''Aletheia:''' ''Welcome, Keeper. You've entered the great Throne Room of Atlantis. What lies in this room are remnants of Isu tech I've adapted in order for you to begin your journey. I'm sure you have questions.''\n(Asked \"What is this place?\")\n*'''Kassandra:''' ''This place... Did [[Pythagoras]] know it existed?''\n*'''Aletheia:''' ''No. I wouldn't show it to him. This room was built by the Isu to house something else\u2014these thrones were once just thrones. Now they contain my simulations. Don't worry, I'll show you.''\n(Asked \"Why was I allowed in?\")\n*'''Kassandra:''' ''You told me this room was meant for the Heir of Memories, but I got in so easily.''\n*'''Aletheia:''' ''You paid for it in blood\u2014blood that looks quite like ours when you look closely enough.''\n*'''Kassandra:''' [[Myrrine|Mater]]'' always told me there was power in our blood. I guess she was right.''\n(Chose \"You brought me here for a reason.\")\n*'''Kassandra:''' ''There's more I have to do.''\n*'''Aletheia:''' ''Always, Keeper. When the Staff belonged to Pythagoras, he used it selfishly for knowledge. He was weak where you aren't. You will endure lifetimes until the Heir of Memories takes this burden. The only way to carry the Staff's weight is to find the strength to wield it. You'll find that strength in [[Elysium]]. The [[underworld]] awaits, Keeper.''\n*'''Kassandra:''' ''The\u2014what? I'm alive. If I'm alive, how can I come back from the underworld?''\n*'''Aletheia:''' ''These portals are simulations. They were made by me for you. In Elysium you'll find power sources known as [[Keeper's Insight]]s. These will effect both the Keeper and the Heir of Memories. Moving forward in the underworld will be essential to finding all the sources of power.''\n*'''Kassandra:''' ''You're asking for blind trust, Aletheia.''\n*'''Aletheia:''' ''You pledged yourself to me and our common cause, Keeper. Never forget that I'm on your side. I won't let The Ones That Came Before control your fate. Find the strength within you and show the Staff your worth. Approach the first portal when you're ready.''\nKassandra took her leave and approached the portal to the Elysium simulation.",
+    "Section_Outcome": "Kassandra met with Aletheia for the first of her trials to control the Staff. Aletheia explained her simulations and pointed Kassandra to the simulation of Elysium.",
+    "Section_Trivia": "*If [[The Fate of Atlantis: Fields of Elysium|Episode 1]] is installed prior to completing the third of the [[Three Symbols Entombed]] quests, this quest will automatically begin from the scene where Kassandra opens the door to the throne room.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' - ''[[The Fate of Atlantis: Fields of Elysium]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While traveling Greece, Kassandra heard a voice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Aletheia:''' ''Keeper... Return to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Aletheia? She must need me. I should find her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra returned to the entrance of Atlantis and found Aletheia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Aletheia:''' ''It's time, Keeper, to fulfill the most important part of your task as the one who holds the [[Staff of Hermes Trismegistus|Staff]]. Are you ready to begin?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "6",
+            "content": "(Accept \u2013 \"I'm ready to go.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Whatever it is you have planned, I'm ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "Kassandra's memories aided the [[Layla Hassan|Heir]] in opening the throne room.<br>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra sliced open her left hand and wiped her blood onto the door, unlocking it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Aletheia:''' ''The Keeper shares blood with Those Who Came Before and is connected to the [[Isu]]...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "11",
+            "content": "The great door slid open before Kassandra, and she strode into the throne room of Atlantis, standing before the projection of Aletheia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Aletheia:''' ''The blood that is shared must be offered... And the Great Seal will open for us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''If you say so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Aletheia:''' ''Welcome, Keeper. You've entered the great Throne Room of Atlantis. What lies in this room are remnants of Isu tech I've adapted in order for you to begin your journey. I'm sure you have questions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "15",
+            "content": "(Asked \"What is this place?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''This place... Did [[Pythagoras]] know it existed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Aletheia:''' ''No. I wouldn't show it to him. This room was built by the Isu to house something else\u2014these thrones were once just thrones. Now they contain my simulations. Don't worry, I'll show you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "18",
+            "content": "(Asked \"Why was I allowed in?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''You told me this room was meant for the Heir of Memories, but I got in so easily.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Aletheia:''' ''You paid for it in blood\u2014blood that looks quite like ours when you look closely enough.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' [[Myrrine|Mater]]'' always told me there was power in our blood. I guess she was right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "22",
+            "content": "(Chose \"You brought me here for a reason.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''There's more I have to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Aletheia:''' ''Always, Keeper. When the Staff belonged to Pythagoras, he used it selfishly for knowledge. He was weak where you aren't. You will endure lifetimes until the Heir of Memories takes this burden. The only way to carry the Staff's weight is to find the strength to wield it. You'll find that strength in [[Elysium]]. The [[underworld]] awaits, Keeper.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''The\u2014what? I'm alive. If I'm alive, how can I come back from the underworld?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Aletheia:''' ''These portals are simulations. They were made by me for you. In Elysium you'll find power sources known as [[Keeper's Insight]]s. These will effect both the Keeper and the Heir of Memories. Moving forward in the underworld will be essential to finding all the sources of power.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''You're asking for blind trust, Aletheia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Aletheia:''' ''You pledged yourself to me and our common cause, Keeper. Never forget that I'm on your side. I won't let The Ones That Came Before control your fate. Find the strength within you and show the Staff your worth. Approach the first portal when you're ready.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "29",
+            "content": "Kassandra took her leave and approached the portal to the Elysium simulation.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

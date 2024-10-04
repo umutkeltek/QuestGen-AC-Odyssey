@@ -1,0 +1,43 @@
+{
+    "QuestName": "Heavy is the Spear",
+    "QuestID": "225065",
+    "Revision": {
+        "id": "1047165",
+        "parentid": "982390",
+        "timestamp": "2023-06-13T02:26:32Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047165",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "2jx9b225241m5qw95f227sl4kpin3xw"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Kassandra had many questions for the mercenary who claimed to have slain the Writhing Dread.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "A Slithery Plea",
+        "next": "Hard to Artemis<br>Keys to Happiness?",
+        "source": "Kassandra",
+        "location": "Ancient Pearl, Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Heavy is the Spear''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to the [[mercenary]] who claimed to have killed the [[Writhing Dread]].",
+    "Section_Dialogue": "Kassandra traveled to the tallest peak in the [[Ancient Pearl]] region of [[Lesbos]]. [[Ikaros]] spotted the [[Mountain Temple of Poseidon|temple]] where the mercenary [[Zetes the Retired]] had taken up residence.\n*'''Kassandra:''' ''There's the temple on the hill.''\nKassandra strode onto the temple grounds and overheard the mercenary talking.\n*'''Mercenary:''' ''Our lives are like the rising and setting of the sun.''\nKassandra approached him.\n*'''Kassandra:''' ''Excuse me?''\n*'''Mercenary:''' ''We're born into darkness and rise up to the greatest peaks... before descending into darkness once more.''\n*'''Kassandra:''' ''A warrior ''and'' a sophist. This is a first.''\n*'''Mercenary:''' ''It's not philosophy... it's truth. Learned through violence, fate, and seeing evil... true evil.''\n*'''Kassandra:''' ''You're talking about the [[Writhing Dread]]?''\n*'''Mercenary:''' ''The Creature.''\nZetes recounted what happened.\n*'''Mercenary:''' ''When it ambushed us outside, we thought only of survival. My spear allowed me to stay out of its gaze. I was lucky. My friends weren't.''\n(If \"How did you defeat the Creature?\" is chosen.)\n*'''Kassandra:''' ''Tell me how you were able to defeat the Creature.''\n*'''Mercenary:''' ''It all happened so fast. We had a plan to break into the temple and corner it, but it ambushed us before we got inside. There was no time for strategy after that.''\n(If \"Why were you there?\" is chosen.)\n*'''Kassandra:''' ''Why go after the Creature in the first place?''\n*'''Mercenary:''' ''We were hired to steal an ancient item from within its lair by [[Cult of Kosmos|masked soldiers]].''\n(If \"What do you know about this item?\" is chosen.)\n*'''Kassandra:''' ''Tell me about the item they wanted you to steal.''\n*'''Mercenary:''' ''Truth is, I don't even think they knew exactly what it was. After I killed the Creature I went to search the lair, but it was sealed.''\n(Leave \u2013 \"We're done here.\")\n*'''Kassandra:''' ''I'll leave you with your heavy thoughts.''\n*'''Mercenary:''' ''When fighting your own battles is all that's left, you are already lost.''\n*'''Kassandra:''' ''You're fighting the ghosts of your friends.''\nKassandra returned later.\n*'''Mercenary:''' ''Are you ready to face your destiny?''\n(Accept \u2013 \"Give me the spear.\")\n*'''Kassandra:''' ''Give me that spear.''\n*'''Mercenary:''' ''We're warriors\u2014to let it go without a fight would be to dishonor my fallen friends.''\nThe mercenary drew his weapons and attacked. Kassandra indulged him and put an end to him in order to claim the spear.\n*'''Kassandra:''' ''Nothing special about this spear.''\nThe mercenary also carried a note.\n:'''The Immortal Coil:'''<br>''I couldn't save my friends. I couldn't save the woman. She leapt with the grace of Artemis toward the creature, striking a final blow. She killed it. The creature dropped something. An [[Prize of the Medusa|Artifact]]. A curse. I tried to stop her before she touched it. The curse gripped her instead, slithering around her arm and encircling her neck. In her, the creature rose again. She is the Writhing Dread. It's a cycle. Kill the creature, become the creature.''",
+    "Section_Outcome": "Kassandra questioned the mercenary Zetes the Retired in connection with the fate of the [[Writhing Dread]].",
+    "Section_Behind_the_scenes": "The quest is truly completed when Zetes is slain. Refusing to complete it results in a different dialogue with Bryce during [[Keys to Happiness?]] but leaves the quest available for later.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Lourde est la lance]]"
+}

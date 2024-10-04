@@ -1,0 +1,381 @@
+{
+    "Quest_Name": "Test of Courage",
+    "Quest_ID": "224723",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Fetching a helmet seemed simple, until Kassandra learned it was from the Foundry of Hephaistos|foundry of Hephaistos himself. But would he be the only deity involved in her quest?'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Test of Adaptability",
+        "source": "Kassandra",
+        "location": "Port of Kechries, Korinthia, Greece<br />Foundry of Hephaistos|Foundry of Hephaistos, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Test of Courage''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "The [[Athena (imposter)|mysterious woman]] tasked Kassandra to travel to the [[Foundry of Hephaistos|Foundry]] of [[Hephaistos]] to fetch a [[helmet]].",
+    "Section_Dialogue": "As she reached the volcano, she performed a [[Leap of Faith]] and entered into the Forge. Exploring further in, she found a door. Unlocking the door, she bravely entered the tomb. Near the entrance, she found a tablet.\n*'''Kassandra:''' ''\"Gorgophone  was an extraordinary woman born of [[Andromeda]] , daughter of the proud queen and king of [[Ethiopia]], and [[Perseus]] , the [[Gorgon]]-[[Medusa|slayer]] after whome she is named.''\nShe found a tablet near a statue.\n*'''Kassandra:''' ''\"It has long been tradition that women should marry but once, as virgins. If their husbands died before them, they were to live out their lives as widows. Gorgophone defied this tradition to become the greatest grandmother of ''[[Greece|Hellas]]''.\"''\nFurther down, she found another one.\n*'''Kassandra:''' ''\"It is said that a warrior woman of advanced age brought so much chaos to the people of Lake Tritonis that Perseus himself arrived to take her life. And some wise people say that was Gorgophone, enjoying her last act of rebellion.\"''\nKassandra found another tablet.\n*'''Kassandra:''' ''\"Gorgophone's first husband was [[Perieres of Messenia|Perieres]], King of [[Messene]] and [[Sparta]]. Their sons grew up to be bold princes and kings of Sparta themselves.\"''\nKassandra found one last tablet.\n*'''Kassandra:''' ''\"But Gorgophone had a second husband, King Oibalos of Sparta, who would bring her even greater children and grandchildren.\u00a0[[Helen of Troy]], [[Kastor and Polydeukes]], [[Klytaimnestra|Klytemnestra]] , and many more were her descendants.\"''\nShe found the [[Helmet of Gorgophone]] inside a [[Treasure chest|chest]].\n*'''Kassandra:''' ''This helmet seems common, but it's been carefully hidden... I should get it back to that woman.''\nShe returned to the mysterious woman.\n*'''Kassandra:''' ''That burning island and trapped tomb... You could say they were nearly a challenge.''\n*'''Mysterious Woman:''' ''Even for you? You exaggerate, [[Eagle]] Bearer. But did you find the helmet?''\n*'''Kassandra:''' ''Of course I did. But how could you have known about such a terrible place? And who are you to send me there?''\n*'''Mysterious Woman:'''\u00a0'' Who do you think I am, Kassandra? Some say I show great wisdom, others say I am Wisdom herself. Tell me, who do you think I am?''\n*'''Kassandra:''' ''You sent me to a graveyard, where I met a desperate man who said [[Athena]] herself had sent me to kill him. But I suppose that could mean he only thought you were Athena.''\n*'''Mysterious Woman:'''\u00a0''It's unwise to give too much credit to the rantings of a madman.''\n<tabber>\n|-|If Kassandra completed the Test of Character=\n*'''Kassandra:''' ''Then you sent me to a [[Piracy|pirate]] in need who asked me to help him as he saw fit. Was that a divine test of wisdom, or just practicality?''\n*'''Mysterious Woman:'''\u00a0''You sent yourself to a pirate. I merely provided the chance.''\n|-|If Kassandra completed the Test of Faith=\n*'''Kassandra:''' ''Then you sent me to [[Epidaurus|a village]] threatened by [[lion]]s, with a strange wild man at the center of it all. Was it a divine test of wisdom, or just a coincidence?''\n*'''Mysterious Woman:''' ''You sent yourself to the village. I only provided the opportunity.''\n</tabber>\n*'''Kassandra:''' ''Finally, that strange hermit with the key... He was even under a statue of Athena's Icon, the [[owl]]. Did you set that all up as a joke, or is there truth in his beliefs?''\n*'''Mysterious Woman:''' ''So many thoughts in that head of yours. It's nearly too much to contemplate. Make your decision, Kassandra.''\n<tabber>\n|-|You want me to believe you're Athena.=\n*'''Kassandra:''' ''It seems you want me to believe you're Athena. Mysterious riddles, a helmet of all things to find. It's clever, but obvious.''\n*'''Mysterious Woman:''' ''If this is the case, it is I who should congratulate you on your cleverness. Here show me the helmet.''\n*'''Kassandra:''' ''I hope this was worth it.''\n{{#tag:tabber|\nIf Kassandra completed the Test of Faith=\n*'''Mysterious Woman:''' ''You have great faith in humanity. I hope you see it for both its potential and its failings. I'll make an adjustment and... Yes. I think this will be best suited for you.''\n{{!}}-{{!}}\nIf Kassandra completed the Test of Character=\n*'''Mysterious Woman:''' ''You aren't very principled, are you? One who stands for nothing falls for everything... I've seen all I need to. Here you go.''\n}}\n|-|You're Athena in human form.=\n*'''Kassandra:''' ''As the granddaughter of [[Leonidas I of Sparta|Leonidas]], bearer of the bloodline, I must recognize you as Athena. This helmet you have asked me to return bears your own blessing.''\n*'''Mysterious Woman:''' ''If this is true, I should accept your recognizance. But for now, let me see that helmet.''\n*'''Kassandra:''' ''I hope this was worth it.''\n{{#tag:tabber|\nIf Kassandra completed the Test of Faith=\n*'''Mysterious Woman:''' ''You have great faith in humanity. I hope you see it for both its potential and its failings. I'll make an adjustment and... Yes. I think this will be best suited for you.''\n{{!}}-{{!}}\nIf Kassandra completed the Test of Character=\n*'''Mysterious Woman:''' ''You aren't very principled, are you? One who stands for nothing falls for everything... I've seen all I need to. Here you go.''\n}}\n</tabber>\n*'''Kassandra:''' ''Thank you.''\n*'''Mysterious Woman:''' ''I hope you've gained some wisdom from this journey.''\n*'''Kassandra:''' ''Yes, I've learned that profit can come from the strangest sources.''\nBefore leaving, Kassandra spoke to the mysterious woman once more.\n*'''Mysterious Woman:''' ''You have earned my respect, Kassandra.''",
+    "Section_Outcome": "Kassandra found pieces of tablets detailing the life and legacy of Gorgophone, and then recovered the queen's helmet in a treasure chest. On returning to the mysterious woman, Kassandra told what she thought of the woman's claim to be Athena, and was gifted the helmet as thanks for completing the various tasks.",
+    "Section_Behind_the_scenes": "If Kassandra states that the woman is in fact Athena incarnate, the woman will also drop an [[owl]] feather which can be [[Trade Goods|collected]].",
+    "Section_References": "''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:\u00c9preuve de courage]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Divine Intervention",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As she reached the volcano, she performed a [[Leap of Faith]] and entered into the Forge. Exploring further in, she found a door. Unlocking the door, she bravely entered the tomb. Near the entrance, she found a tablet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''\"Gorgophone  was an extraordinary woman born of [[Andromeda]] , daughter of the proud queen and king of [[Ethiopia]], and [[Perseus]] , the [[Gorgon]]-[[Medusa|slayer]] after whome she is named.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She found a tablet near a statue.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''\"It has long been tradition that women should marry but once, as virgins. If their husbands died before them, they were to live out their lives as widows. Gorgophone defied this tradition to become the greatest grandmother of ''[[Greece|Hellas]]''.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Further down, she found another one.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''\"It is said that a warrior woman of advanced age brought so much chaos to the people of Lake Tritonis that Perseus himself arrived to take her life. And some wise people say that was Gorgophone, enjoying her last act of rebellion.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra found another tablet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''\"Gorgophone's first husband was [[Perieres of Messenia|Perieres]], King of [[Messene]] and [[Sparta]]. Their sons grew up to be bold princes and kings of Sparta themselves.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "9",
+            "content": "Kassandra found one last tablet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''\"But Gorgophone had a second husband, King Oibalos of Sparta, who would bring her even greater children and grandchildren.\u00a0[[Helen of Troy]], [[Kastor and Polydeukes]], [[Klytaimnestra|Klytemnestra]] , and many more were her descendants.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "11",
+            "content": "She found the [[Helmet of Gorgophone]] inside a [[Treasure chest|chest]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''This helmet seems common, but it's been carefully hidden... I should get it back to that woman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "13",
+            "content": "She returned to the mysterious woman.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''That burning island and trapped tomb... You could say they were nearly a challenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Mysterious Woman:''' ''Even for you? You exaggerate, [[Eagle]] Bearer. But did you find the helmet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Of course I did. But how could you have known about such a terrible place? And who are you to send me there?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Mysterious Woman:'''\u00a0'' Who do you think I am, Kassandra? Some say I show great wisdom, others say I am Wisdom herself. Tell me, who do you think I am?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''You sent me to a graveyard, where I met a desperate man who said [[Athena]] herself had sent me to kill him. But I suppose that could mean he only thought you were Athena.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Mysterious Woman:'''\u00a0''It's unwise to give too much credit to the rantings of a madman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "20",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "21",
+            "content": "|-|If Kassandra completed the Test of Character=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Then you sent me to a [[Piracy|pirate]] in need who asked me to help him as he saw fit. Was that a divine test of wisdom, or just practicality?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Mysterious Woman:'''\u00a0''You sent yourself to a pirate. I merely provided the chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "24",
+            "content": "|-|If Kassandra completed the Test of Faith=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Then you sent me to [[Epidaurus|a village]] threatened by [[lion]]s, with a strange wild man at the center of it all. Was it a divine test of wisdom, or just a coincidence?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Mysterious Woman:''' ''You sent yourself to the village. I only provided the opportunity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Finally, that strange hermit with the key... He was even under a statue of Athena's Icon, the [[owl]]. Did you set that all up as a joke, or is there truth in his beliefs?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Mysterious Woman:''' ''So many thoughts in that head of yours. It's nearly too much to contemplate. Make your decision, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "30",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "31",
+            "content": "|-|You want me to believe you're Athena.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''It seems you want me to believe you're Athena. Mysterious riddles, a helmet of all things to find. It's clever, but obvious.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Mysterious Woman:''' ''If this is the case, it is I who should congratulate you on your cleverness. Here show me the helmet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I hope this was worth it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "35",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "36",
+            "content": "If Kassandra completed the Test of Faith=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Mysterious Woman:''' ''You have great faith in humanity. I hope you see it for both its potential and its failings. I'll make an adjustment and... Yes. I think this will be best suited for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "38",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "39",
+            "content": "If Kassandra completed the Test of Character=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Mysterious Woman:''' ''You aren't very principled, are you? One who stands for nothing falls for everything... I've seen all I need to. Here you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "41",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "42",
+            "content": "|-|You're Athena in human form.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''As the granddaughter of [[Leonidas I of Sparta|Leonidas]], bearer of the bloodline, I must recognize you as Athena. This helmet you have asked me to return bears your own blessing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Mysterious Woman:''' ''If this is true, I should accept your recognizance. But for now, let me see that helmet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I hope this was worth it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "46",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "47",
+            "content": "If Kassandra completed the Test of Faith=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Mysterious Woman:''' ''You have great faith in humanity. I hope you see it for both its potential and its failings. I'll make an adjustment and... Yes. I think this will be best suited for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "49",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "50",
+            "content": "If Kassandra completed the Test of Character=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "51",
+            "content": "*'''Mysterious Woman:''' ''You aren't very principled, are you? One who stands for nothing falls for everything... I've seen all I need to. Here you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "52",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "53",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D29",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "55",
+            "content": "*'''Mysterious Woman:''' ''I hope you've gained some wisdom from this journey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Yes, I've learned that profit can come from the strangest sources.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "57",
+            "content": "Before leaving, Kassandra spoke to the mysterious woman once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "58",
+            "content": "*'''Mysterious Woman:''' ''You have earned my respect, Kassandra.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

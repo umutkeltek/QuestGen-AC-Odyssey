@@ -1,0 +1,226 @@
+{
+    "Quest_Name": "Defense of Samos",
+    "Quest_ID": "233150",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'With Mestor (Samian)|Mestor's plan uncovered and the Persian ships on their way, Herodotos and Kassandra set out to defend Samos before it was too late.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Family Values (Samos)|Family Values",
+        "next": "Moving Forward",
+        "source": "Kassandra",
+        "location": "Aegean Sea near Samos, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Defense of Samos''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "Kassandra and [[Herodotos]] saw the [[Persia]]n fleet arriving at [[Samos]].",
+    "Section_Dialogue": "Kassandra boarded the [[Adrestia]] and approached the fleet.\n\n*'''Herodotos:''' ''We can't let them reach Samos. It's up to us.''\n*'''Herodotos:''' ''There they are! Persian ships!''\n\nWith two destroyed.\n\n*'''Herodotos:''' ''Destroy them all!''\n\nWith all the ships destroyed, she spoke with Herodotos.\n\n*'''Herodotos:'''\u00a0''Samos is safe.''\n*'''Kassandra:'''''\u00a0What about [[Mestor]]?''\n*'''Herodotos:'''\u00a0''After his faulure, he won't get a second chance. Plus, there's no way he'd stay on Samos now.''\n\n<tabber>\n|-|(If Theodoros was accused)=\n*'''Kassandra:''' ''About [[Theodoros]]... It was my fault you accused him.''\n*'''Herodotos:''' ''But only because I didn't trust myself enough to do so.''\n*'''Kassandra:''' ''But you trusted me.''\n*'''Herodotos:''' ''My trust in you was sound. It was still ''my'' choice to accuse him, not yours.''\n\n|-|(If Mestor was accused)=\n*'''Kassandra:''' ''Theodoros has changed.''\n*'''Herodotos:''' ''He's the Theodoros I remembered. He was always willing to admit fault. It's a trait too few people share.''\n*'''Kassandra:''' ''Then you believe things will be OK? Even if you leave Samos again?''\n*'''Herodotos:''' ''Of course. Theodoros has work to do here, and he understands mine is elsewhere.''\n*'''Kassandra:''' ''Good.''\n\n</tabber>\n\n*'''Herodotos:''' ''Thank you for everything, Kassandra. Without you, I couldn't have gotten through this.''",
+    "Section_Outcome": "Kassandra defeated the four Persian ships with the [[Adrestia]].",
+    "Section_Trivia": "Even though they are Persian ships, they are listed as Pirate vessels.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Every Story Has an Ending",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "5.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra boarded the [[Adrestia]] and approached the fleet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Herodotos:''' ''We can't let them reach Samos. It's up to us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Herodotos:''' ''There they are! Persian ships!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "5",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "With two destroyed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Herodotos:''' ''Destroy them all!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "10",
+            "content": "With all the ships destroyed, she spoke with Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U5",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D4",
+            "global_id": "12",
+            "content": "*'''Herodotos:'''\u00a0''Samos is safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:'''''\u00a0What about [[Mestor]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Herodotos:'''\u00a0''After his faulure, he won't get a second chance. Plus, there's no way he'd stay on Samos now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "17",
+            "content": "|-|(If Theodoros was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''About [[Theodoros]]... It was my fault you accused him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "19",
+            "content": "*'''Herodotos:''' ''But only because I didn't trust myself enough to do so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''But you trusted me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Herodotos:''' ''My trust in you was sound. It was still ''my'' choice to accuse him, not yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "|-|(If Mestor was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Theodoros has changed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Herodotos:''' ''He's the Theodoros I remembered. He was always willing to admit fault. It's a trait too few people share.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Then you believe things will be OK? Even if you leave Samos again?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Herodotos:''' ''Of course. Theodoros has work to do here, and he understands mine is elsewhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "30",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U9",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Herodotos:''' ''Thank you for everything, Kassandra. Without you, I couldn't have gotten through this.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

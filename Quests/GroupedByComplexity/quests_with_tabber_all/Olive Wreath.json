@@ -1,0 +1,281 @@
+{
+    "Quest_Name": "Olive Wreath",
+    "Quest_ID": "235906",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Olive_Wreath.png",
+        "description": "'An olive wreath was placed on doors to signal the birth of a son. Then, the midwife would ask a message taken to the father and for a sacrifice to be made.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s\u2013420s BCE"
+    },
+    "General_Description": "'''Olive Wreath''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra approached a midwife in need of help.",
+    "Section_Dialogue": "On the [[message board]], Kassandra noticed a call for help, posted by a midwife.\n*'''Note:'''<br />''If you are quick, I need help with several urgent tasks. I have [[drachma]]e.''\nShe sought out the midwife and spoke to her.\n*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''\n*'''Woman:''' ''I must arrange for an [[olive]] wreath to be placed on her door. The woman I attended has given birth to a son.''\n\n<tabber>\n|-|That's great.=\n*'''Kassandra:''' ''That's wonderful, midwife. And he is healthy? How is the mother?''\n|-|This better be worth my time.=\n*'''Kassandra:''' ''How do I make drachmae from this news, midwife?''\n</tabber>\n*'''Woman:''' ''The mother and son are strong, so there is work to be done. The father is a commander \u2013 a message must be delivered to him.<br />And a sacrifice of [[goat]]s must be made to thank the gods.''\n\n<tabber>\n|-|Kill goats.=\n*'''Kassandra:''' ''Are you asking me to kill goats?''\n*'''Woman:''' ''That's exactly it. Will you do it for me?''\n\n([ACCEPT] \"I'll kill the beasts\")\n*'''Kassandra:''' ''I'll handle this.''\n*'''Woman:''' ''I can rest my mind, then.''\n*'''Kassandra:''' ''I'll be back when everything's been taken care of.''\n([LEAVE] \"This isn't my concern\")\n:Back to dialogue options.\nKassandra went out and killed goats and returned.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''I owe more than words can say. But please, take this.''\n*'''Kassandra:''' ''Happy to help.''\n\n|-|Deliver a message.=\n*'''Kassandra:''' ''You want me to deliver it to the Athenian commander.''\n*'''Woman:''' ''Exactly. It must arrive without a scratch.''\n(Accept \u2013 I'll handle it.)\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Woman:''' ''I'm in your debt.\n*'''Kassandra:''' ''I should get going.''\nKassandra left the midwife and found the Athenian commander.\n*'''Kassandra:''' ''A midwife wanted you to have this.''\n*'''Man:''' ''Thank you,'' misthios''! Here, this is for you.\n</tabber>",
+    "Section_Outcome": "Kassandra helped the midwife as requested and received her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "On the [[message board]], Kassandra noticed a call for help, posted by a midwife.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br />''If you are quick, I need help with several urgent tasks. I have [[drachma]]e.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the midwife and spoke to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''I must arrange for an [[olive]] wreath to be placed on her door. The woman I attended has given birth to a son.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|That's great.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''That's wonderful, midwife. And he is healthy? How is the mother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|This better be worth my time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''How do I make drachmae from this news, midwife?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Woman:''' ''The mother and son are strong, so there is work to be done. The father is a commander \u2013 a message must be delivered to him.<br />And a sacrifice of [[goat]]s must be made to thank the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "14",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "15",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "16",
+            "content": "|-|Kill goats.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Are you asking me to kill goats?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Woman:''' ''That's exactly it. Will you do it for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "20",
+            "content": "([ACCEPT] \"I'll kill the beasts\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Woman:''' ''I can rest my mind, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's been taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "24",
+            "content": "([LEAVE] \"This isn't my concern\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N3",
+            "global_id": "25",
+            "content": ":Back to dialogue options.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "26",
+            "content": "Kassandra went out and killed goats and returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "27",
+            "content": "*'''Woman:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "29",
+            "content": "*'''Woman:''' ''I owe more than words can say. But please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "32",
+            "content": "|-|Deliver a message.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''You want me to deliver it to the Athenian commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "34",
+            "content": "*'''Woman:''' ''Exactly. It must arrive without a scratch.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "35",
+            "content": "(Accept \u2013 I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I'm the one for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "37",
+            "content": "*'''Woman:''' ''I'm in your debt.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I should get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "39",
+            "content": "Kassandra left the midwife and found the Athenian commander.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''A midwife wanted you to have this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Man:''' ''Thank you,'' misthios''! Here, this is for you.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "42",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

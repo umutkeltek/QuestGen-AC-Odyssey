@@ -1,0 +1,209 @@
+{
+    "Quest_Name": "The Real Killer",
+    "Quest_ID": "233394",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After Kassandra killed the Spartan general Stentor, an angry Spartan spy vowed to discover the killer and take revenge.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''The Real Killer''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In the wilderness, Kassandra came face to face following the fallout of [[Stentor]]'s demise.",
+    "Section_Dialogue": "Kassandra found a couple of [[Sparta]]ns camping out in the wilderness, and approached them benignly.\n*'''Kassandra:''' ''Spying on those [[Athens|Athenians]] is no easy task, Spartan. Anything I can do to help?''\n*'''Man:''' ''You, traitor! You deserved to be killed for killing our general, Stentor of Sparta.''\n<tabber>\n|-|You're right.=\n*'''Kassandra:''' ''I did kill Stentor. He left me no choice.''\n*'''Man:''' ''I knew it was you! I'll do what the Spartan soldiers should have done at camp!''\n(fight ensues, quest fails.)\n|-|Stentor was my brother.=\n*'''Kassandra:''' ''The man you speak of was my brother.''\n*'''Man:''' ''Oh, I had no idea. My condolences, ''[[Mercenary|misthios]]''. Maybe I confused you with someone else.''\n*'''Kassandra:''' ''Maybe you did.''\n|-|Lie - You must have the wrong person.=\n*'''Kassandra:''' ''I don't know anyone named Stentor. You must be thinking of someone else.''\n*'''Man:''' ''I thought I heard that the ''[[Mercenary|misthios]]'' that killed him had an [[eagle]] or something... Maybe I was wrong.''\n*'''Kassandra:''' ''Maybe you were.''\n</tabber>\n*'''Man:''' ''Come to think of it... I did hear of another strange [[mercenary]] who arrived here recently. He must be the real traitor!''\n*'''Kassandra:''' ''And you want me to kill this mercenary.''\n*'''Man:''' ''His blood must be spilled.''\n(Accept - I'll kill the mercenary.)\n*'''Kassandra:''' ''I'll handle this.''\n*'''Man:''' ''Good. Please be quick.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra left the soldier and hunted down the mercenary. Afterwards, she returned to the soldier.\n*'''Man:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Man:''' ''Thank you, mercenary. Now, your reward.''\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra defeated the mercenary, and was rewarded for this.",
+    "Section_Trivia": "*This memory seems to be triggered by the death of Stentor during [[The Conqueror]]. However, it may also be available even though Stentor is alive and well and aboard the ''[[Adrestia]]''.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra found a couple of [[Sparta]]ns camping out in the wilderness, and approached them benignly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Spying on those [[Athens|Athenians]] is no easy task, Spartan. Anything I can do to help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''You, traitor! You deserved to be killed for killing our general, Stentor of Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|You're right.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I did kill Stentor. He left me no choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Man:''' ''I knew it was you! I'll do what the Spartan soldiers should have done at camp!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(fight ensues, quest fails.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Stentor was my brother.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''The man you speak of was my brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Man:''' ''Oh, I had no idea. My condolences, ''[[Mercenary|misthios]]''. Maybe I confused you with someone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Maybe you did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "13",
+            "content": "|-|Lie - You must have the wrong person.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I don't know anyone named Stentor. You must be thinking of someone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Man:''' ''I thought I heard that the ''[[Mercenary|misthios]]'' that killed him had an [[eagle]] or something... Maybe I was wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Maybe you were.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Man:''' ''Come to think of it... I did hear of another strange [[mercenary]] who arrived here recently. He must be the real traitor!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''And you want me to kill this mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Man:''' ''His blood must be spilled.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "21",
+            "content": "(Accept - I'll kill the mercenary.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Man:''' ''Good. Please be quick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'll come back when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "25",
+            "content": "Kassandra left the soldier and hunted down the mercenary. Afterwards, she returned to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Man:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Man:''' ''Thank you, mercenary. Now, your reward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

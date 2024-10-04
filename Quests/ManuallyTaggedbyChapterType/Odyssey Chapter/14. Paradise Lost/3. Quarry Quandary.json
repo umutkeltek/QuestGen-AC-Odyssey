@@ -1,0 +1,38 @@
+{
+    "QuestName": "Quarry Quandary",
+    "QuestID": "224188",
+    "Revision": {
+        "id": "921514",
+        "parentid": "841292",
+        "timestamp": "2021-02-04T18:51:30Z",
+        "contributor": null,
+        "comment": "fr",
+        "origin": "921514",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "muswx6l8e2pr7r7tvnrh8esagnzu2zm"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Going Down",
+        "next": "The Paros Blockade",
+        "image": "ACOd-QuarryQuandary-Euneas.jpg",
+        "description": "'Euneas, the admiral of Myrrine's fleet, didn't return from a mission to Paros Island|Paros island, causing anxiety among the ranks. Fearing the worst, Myrrine asked Kassandra to find him and bring him home.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "source": "Kassandra",
+        "location": "Paros Island, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Quarry Quandary''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of her mother [[Myrrine]], [[Kassandra]] travelled to [[Paros Island]] to find out what had happened to her missing admiral [[Euneas]].",
+    "Section_Dialogue": "Kassandra returned to the ''[[Adrestia]]'' to set sail for Paros Island, in order to find Euneas. [[Barnabas]] asked her how her reunion went.\n*'''Barnabas:''' ''And? What happened on [[Naxos]]? Did you find your mother?''\n*'''Kassandra:''' ''I found her, Barnabas.''\n*'''Barnabas:''' ''Wonderful! Maybe now we can kick back and relax\u2014''\n*'''Kassandra:''' ''But I have bad news. We know the [[Cult of Kosmos]] poisons everything they touch, but now even [[Sparta]] is in their grasp.''\n*'''Kassandra:''' ''They'll have everyone fighting like [[dog]]s until the world is back to the dark ages. I have to stop them.''\n*'''Barnabas:''' ''Then that's where we'll sail to next!''\n*'''Kassandra:''' ''I'm glad you're with me.''\n[[File:ACOD_Quarry_Quandary_-_Kassandra_Finding_Soldier.png|thumb|250px|Kassandra finding an injured Naxian soldier]]\nDocking on the east shore of Paros island, Kassandra saw the shattered remains of Euneas' ship beached nearby. A single Spartan soldier barely clung to life.\n*'''Kassandra:''' ''You're the only survivor?''\n*'''Soldier:''' ''They took prisoners. I was too far gone to carry back to Paros.''\n*'''Kassandra:''' ''What happened?''\n*'''Soldier:''' ''We came to talk peace with Paros... They ambushed us.''\n*'''Kassandra:''' ''What of your captain, Euneas?''\n*'''Soldier:''' ''...Took him.''\n(If players asked \"Where is he?\")\n*'''Kassandra:''' ''If Paros has him, where would he be?''\n*'''Soldier:''' ''They joked about tying him up atop the [[Fortified Marble Quarry|quarry]] and letting the [[sun]] soften him up.''\n(If players asked \"Why not just kill him?\")\n*'''Kassandra:''' ''Why keep him alive?''\n*'''Soldier:''' ''Leverage... They know he's important to Phoenix.''\n(Leave \u2013 \"I'll go now.\")\n*'''Kassandra:''' ''I'll get him.''\n*'''Soldier:''' ''Make them pay.''\n[[File:ACOD_Quarry_Quandary_-_Soldier's_Death.png|thumb|250px|The soldier's death]]\nThe soldier breathed his last. Kassandra gave him a moment of silence, then proceeded to the quarry at the heart of the island. With the help of [[Ikaros]], she found Euneas.\n*'''Kassandra:''' ''There's Euneas. He's in bad shape.''\nShe infiltrated the quarry and overheard two [[guard]]s talking about the admiral.\n*'''Thug 1:''' ''Have they finished with Euneas yet?''\n*'''Thug 2:''' ''No, the old dog is still breathing.''\n*'''Thug 1:''' ''Only a matter of time until the boss or the heat breaks him.''\n*'''Thug 2:''' ''He'll never betray Naxos. The boss is wasting his time.''\nKassandra reached the top of the quarry and released Euneas from his cage.\n*'''Kassandra:''' ''You're a hard man to kill.''\n*'''Euneas:''' ''I ''knew'' she wouldn't abandon me. Quick, let's get out of here.''\n[[File:ACOD_Quarry_Quandary_-_Euneas_Speaking_To_Kassandra.png|thumb|250px|Euneas speaking to Kassandra]]\nKassandra escorted Euneas out of the quarry to the safety of the eastern woods.\n*'''Euneas:''' ''Thank you, ''misthios.'' I hope Phoenix pays you well for this.''\n*'''Kassandra:''' ''Remind her for me.''\n*'''Euneas:''' ''Something's wrong with Paros\u2014more than usual. Strange things are afoot.''\n<tabber>\n|-|Tell me what you've seen.=\n*'''Kassandra:''' ''What did you see?''\n*'''Euneas:''' ''There were others\u2014not the Paros type. [[Silanos|One]] had a [[Cult of Kosmos|mask]]\u2014never seen that before.''\n*'''Kassandra:''' ''A mask? Hm.''\n*'''Euneas:''' ''I couldn't tell who he was.''\n|-|You're safe now.=\n*'''Kassandra:''' ''You're alive. You dealt with them just fine.''\n*'''Euneas:''' ''I'll strategize from Naxos starting now.''\n*'''Kassandra:''' ''Good idea.''\n</tabber>\n*'''Euneas:''' ''Time to get off this gods-forsaken island. I know my way back.''\n*'''Kassandra:''' ''You should tell Phoenix what you saw.''\n*'''Euneas:''' ''I'll report to her at once.''\nEuneas took his leave and made his own way back to Naxos.",
+    "Section_Outcome": "Kassandra rescued Euneas. Afterwards, the admiral returned to Naxos to inform Myrrine what he had found.",
+    "Section_Trivia": "*Euneas can be killed by the Athenian guards, thus failing the quest.\n*Euneas is a much better free-runner than most 'following' NPCs, but there are still limits to what he can climb and how high he can jump down from.\n**If trying to jump across the wooden posts lining the middle level of the quarry, he may try to follow but become stuck on a small outcropping just below the posts where the rock wall bends west, with no way to become dislodged or climb off. If the player saves and reloads outside the quarry, this should reset his position and allow him to follow once again.",
+    "Section_Gallery": "<gallery widths=\"180\" position=\"center\" captionalign=\"center\">\nParos-FortifiedMarbleQuarry.jpg|The fortified quarry where the admiral is held prisoner. \nACOd-Euneasbody.jpg|Euneas free\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Dilemme de carri\u00e8re]]"
+}

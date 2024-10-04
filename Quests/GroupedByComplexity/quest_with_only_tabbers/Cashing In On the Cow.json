@@ -1,0 +1,172 @@
+{
+    "Quest_Name": "Cashing In On the Cow",
+    "Quest_ID": "223994",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After Kassandra had collected all of Leiandros' \"Pre-Trial\" tokens, she was determined to return and fight the Minotaur to win the Prize of Pephka.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Leiandros}}",
+        "previous": "Minotour De Force",
+        "next": "What Lies Below the Surface",
+        "source": "Kassandra",
+        "location": "Pephka, Krete, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Cashing In On the Cow''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Leiandros]] after completing the \"Pre-Trials\" and gaining the tokens associated.",
+    "Section_Dialogue": "Kassandra made her way to Leiandros in [[Warrior's Rest]] to turn in the Pre-Trial Tokens.\n*'''Kassandra:''' ''I have your ''mal\u00e1kes'' Tokens. No more games, no more schemes to rob me of my [[drachma]]e\u2014<br>''It's time to slay a Minotaur!\n*'''Leiandros:''' ''Absolutely, ''[[Mercenary|misthios]]''! No problem!<br>But ''first!<br>'' Perhaps you'd like to ''buy back'' your exquisite, finely-crafted Trial Tokens? This offer will expire in\u2014''\n*'''Kassandra:''' ''BY THE GODS!''\n*'''Leiandros:''' ''They, uh make for fantastic gifts!''\n<tabber>\n|-|I ''will'' buy them back. [1200]=\n*'''Kassandra:''' ''It's strange... but I would like something to remember [[Pephka]] by.''\nKassandra gave Leiandros the drachmae and received the Tokens.\n|-|Keep them.=\n*'''Kassandra:''' ''Not. Another. Drachma.''\n*'''Leiandros:''' ''Oh but champion, surely you want something to help you remember the [[Pephka]] Pre-Trials?!''\nKassandra lunged at him.\n*'''Leiandros:''' ''I\u2014sorry. Sorry sorry sorry.''\n</tabber>\n*'''Leiandros:''' ''Then all that's left is facing our star attraction himself\u2014THE MINOTAUR! Are you ready to meet your doom?''\n(Accept \u2013 \"Bring on the Minotaur.\")\n*'''Kassandra:''' ''If your \"Pre-Trials\" are anything to go by, yes. Yes I am.''\n*'''Leiandros:''' ''Well, good! GREAT! I WANT you to fight the Minotaur!<br>You'll find the beast in the depths of the [[Cave of the Brave]] on the [[Dikte Plateau]]. Two other warriors have just completed their Pre-Trials\u2014you can speak to them for more information.<br>They'll join you when you're ready to, you know, die horrifically.''\n*'''Kassandra:''' ''You've come all this way\u2014join us.''\nLeiandros chuckled nervously.\n*'''Leiandros:''' ''No, no, no, no. I have a very important... pottery lesson to attend! So...''\nLeiandros took off.",
+    "Section_Outcome": "Kassandra reported her completion of the trials to Leiandros. She was then asked by him to join the other warriors ready to face the Minotaur.",
+    "Section_Trivia": "*The name of this quest is a play on the marketing term \"Cash Cow\" meaning a company that has a high market share in a slow-growing industry, often resulting in major cashflows with little effort.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Leiandros",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to Leiandros in [[Warrior's Rest]] to turn in the Pre-Trial Tokens.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I have your ''mal\u00e1kes'' Tokens. No more games, no more schemes to rob me of my [[drachma]]e\u2014<br>''It's time to slay a Minotaur!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Leiandros:''' ''Absolutely, ''[[Mercenary|misthios]]''! No problem!<br>But ''first!<br>'' Perhaps you'd like to ''buy back'' your exquisite, finely-crafted Trial Tokens? This offer will expire in\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''BY THE GODS!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Leiandros:''' ''They, uh make for fantastic gifts!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|I ''will'' buy them back. [1200]=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''It's strange... but I would like something to remember [[Pephka]] by.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "9",
+            "content": "Kassandra gave Leiandros the drachmae and received the Tokens.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Keep them.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Not. Another. Drachma.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Leiandros:''' ''Oh but champion, surely you want something to help you remember the [[Pephka]] Pre-Trials?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "Kassandra lunged at him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Leiandros:''' ''I\u2014sorry. Sorry sorry sorry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Leiandros:''' ''Then all that's left is facing our star attraction himself\u2014THE MINOTAUR! Are you ready to meet your doom?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Accept \u2013 \"Bring on the Minotaur.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''If your \"Pre-Trials\" are anything to go by, yes. Yes I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Leiandros:''' ''Well, good! GREAT! I WANT you to fight the Minotaur!<br>You'll find the beast in the depths of the [[Cave of the Brave]] on the [[Dikte Plateau]]. Two other warriors have just completed their Pre-Trials\u2014you can speak to them for more information.<br>They'll join you when you're ready to, you know, die horrifically.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''You've come all this way\u2014join us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "21",
+            "content": "Leiandros chuckled nervously.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Leiandros:''' ''No, no, no, no. I have a very important... pottery lesson to attend! So...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "23",
+            "content": "Leiandros took off.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

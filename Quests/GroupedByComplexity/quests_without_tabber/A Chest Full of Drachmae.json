@@ -1,0 +1,50 @@
+{
+    "Quest_Name": "A Chest Full of Drachmae",
+    "Quest_ID": "224090",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Koressia Fort.jpg",
+        "description": "'Koressia Fort contained a large stockpile of drachmae that Xenia needed stolen. The loss of the coffers would weaken the leader of Keos significantly.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "Island of Misfortune",
+        "next": "First Do No Harm",
+        "concurrent": "Recruitment Drive<br>Red in the Wreckage<br>We're Not Thieves",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "431 \u2013 429 BCE"
+    },
+    "General_Description": "'''A Chest Full of Drachmae''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra accepted [[Xenia]]'s request to collect the stockpile of [[drachma]]e contained in [[Koressia Fort]].",
+    "Section_Dialogue": "Kassandra travelled to Koressia Fort, finding it heavily occupied.\n*'''Kassandra:''' ''Interesting... it seems Xenia doesn't control the entire island.''\nKassandra sneaked into the fort and looted the nation chest.",
+    "Section_Outcome": "Kassandra looted the fort's nation chest, greatly weakening the leader of Keos.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "9.",
+    "Chapter_Name": "Pirate Hospitality",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to Koressia Fort, finding it heavily occupied.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Interesting... it seems Xenia doesn't control the entire island.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra sneaked into the fort and looted the nation chest.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

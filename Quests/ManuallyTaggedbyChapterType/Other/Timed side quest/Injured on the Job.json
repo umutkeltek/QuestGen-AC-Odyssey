@@ -1,0 +1,35 @@
+{
+    "QuestName": "Injured on the Job",
+    "QuestID": "235037",
+    "Revision": {
+        "id": "835484",
+        "timestamp": "2019-09-16T11:06:36Z",
+        "contributor": null,
+        "comment": "Created page with \"{{Era|Memories|ACOD}} {{Memory Infobox | image = ACOD_-_Injured_on_the_Job_1.png | appearance = ''[[Assassin's Creed: Odyssey]]'' | type = Timed side quest | previous =  | nex...\"",
+        "origin": "835484",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "r19h76zfy46q3l8yvk16k3uvjfhgmyn"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Injured_on_the_Job_1.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Injured on the Job''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a man who claimed to have sailed with [[Barnabas]].",
+    "Section_Dialogue": "[[File:ACOD_-_Injured_on_the_Job_2.png|thumb|240px]]\nKassandra found the man wandering.\n*'''Kassandra:''' Chaire. ''Anything you need a mercenary's help with?''\n*'''Man:''' ''You! You sail aboard the [[Adrestia]] with Barnabas!''\n*'''Kassandra:''' ''How do you know this, stranger?''\n*'''Man:''' ''I once stood alongside him, until a filthy pirate ran his blade through my back. Now I can barely stand straight. I was replaced by you.''\n<tabber>\n|-|Sorry to hear that.=\n*'''Kassandra:''' ''I'm sorry to hear of your injury. I had no idea I was taking anyone's place.''\n|-|Not my problem.=\n*'''Kassandra:''' ''I had nothing to do with your back or Barnabas' decision.''\n*'''Man:''' ''Now I'll never get to sail with my son. You took everything from me. Now I'll take everything from you!''\nThe man started attacking Kassandra\n<br/>\n(Quest Failed)\n</tabber>\n*'''Man:''' ''The worst part is I always dreamed of sailing with my son. But with my back, I can't even collect enough wood to build a [[felucca|felluca]] for him.''\n*'''Kassandra:''' ''So you want me to give you some drachmae?''\n*'''Man:''' ''Yes. Any drachmae you can give helps.''\n(\"Take this.\" [50 Drachmae])\n*'''Kassandra:''' ''All right. Here it is.''",
+    "Section_Outcome": "Kassandra gave the man fifty drachmae to him buy a ''felluca'' for his son.",
+    "Section_Gallery": "<gallery>\nACOD_-_Injured_on_the_Job_3.png|The man talking to Kassandra\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

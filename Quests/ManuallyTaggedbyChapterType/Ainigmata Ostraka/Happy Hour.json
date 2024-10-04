@@ -1,0 +1,40 @@
+{
+    "QuestName": "Happy Hour",
+    "QuestID": "222852",
+    "Revision": {
+        "id": "1050121",
+        "parentid": "998989",
+        "timestamp": "2023-06-22T05:27:31Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1050121",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ed9b06ofhu5ki0bqmzfhdywtnxbzq7h"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Record Sunshine",
+        "next": "Pressed for Time",
+        "source": "Kassandra",
+        "location": "Battlefield Cave, Megaris",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Happy Hour''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''It's dangerous outside, so I'm waiting out the [[Peloponnesian War|war]]. The only time I go outside this [[Battlefield Cave|cave]] is to replenish my cup. Once I leave, I travel northwest from the battlefield in the [[Occupied Forest of Tripodiskos]]. Find me at the [[Pillar of Dionysos|altar]] of offerings at the feet of [[Dionysus|the wine god]] himself!''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

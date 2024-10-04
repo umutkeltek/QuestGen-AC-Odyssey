@@ -1,0 +1,40 @@
+{
+    "QuestName": "A Horse, of Course",
+    "QuestID": "231683",
+    "Revision": {
+        "id": "1047381",
+        "parentid": "980131",
+        "timestamp": "2023-06-13T18:12:09Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047381",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "pnde94zz3vyig0jsyqpgff8zu2rq4dk"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'For salt miners, the people of Alponos were incredible horse riders. Kassandra had a plan: with mounts, they could outride the Piracy|pirate invasion, if not stand and fight.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "A Town in Need, Indeed",
+        "next": "Ajax on Fire<br />The Blind Blacksmith<br />A Town in Need, Indeed",
+        "source": "Kassandra",
+        "location": "Lokris, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''A Horse, of Course''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "Kassandra met with the [[horse]] breeder [[Nikaia]] to secure horses for the villagers.",
+    "Section_Dialogue": "Kassandra speaks to Nikaia.\n\n*'''Nikaia:''' ''If it isn't the ''new'' Eagle Bearer.''\n*'''Kassandra:''' ''Trust me. I'm a lot better than the last one.''\n*'''Nikaia:''' ''Look, you want to be useful, ''new'' Eagle Bearer? Get back the stallion the other one of you lost to the pirates.''\n\n(I'll get the stallion.)\n*'''Kassandra:''' ''I can get your stallion back, but we're going to need a lot more than one horse.''\n*'''Nikaia:''' ''What for?''\n*'''Kassandra:''' ''The pirates are coming, and at least with mounts, the villagers have a fighting chance.''\n*'''Nikaia:''' ''Sure enough, but I bred this one just for Megakles himself. Without his stallion, he isn't riding into battle. You've ever seen a general ''strutting'' into battle?''\n*'''Kassandra:''' ''Not a good one.''\n*'''Nikaia:''' ''Exactly.''\n\n(If players choose, \"Where is the stallion?\")\n*'''Kassandra:''' ''Where did the stallion go?''\n*'''Nikaia:''' ''That other Eagle Bearer rode him east past the Salts. Came back and said some bandits stole him in the night. Imagine that.''\n\n(If players choose, \"What do you know about the other Eagle Bearer?\")\n*'''Kassandra:''' ''I need to find this other Eagle Bearer.''\n*'''Nikaia:''' ''Wouldn't mind giving him a piece of my mind, too. If you find him, punch his bird right in the beak for me.''\n*'''Kassandra:''' ''His eagle?''\n*'''Nikaia:''' ''Ha! It was barely a chicken.''\n\n(I'll be back with the stallion.)\n*'''Kassandra:''' ''I'll get back Megakles's stallion, then you and I are going to talk about getting horses for everyone in Alponos.''\n\nKassandra leaves and heads out to the nearby Salty Bandits camp to rescue the stolen horse.\n*'''Kassandra:''' ''OK. Hopefully this goes better than last time.''\n\nKassandra returns the horse to Nikaia at the top of a cliff.\n*'''Nikaia:''' ''Princess Purple Pie. You're back safe.''\n\nKassandra speaks to Nikaia.\n*'''Kassandra:''' ''Here you go. When the real Eagle Bearer says she's going to do something, she does it.''\n*'''Nikaia:''' ''There, there, Princess Purple Pie. Eat up. Let it flow through you.''\n*'''Kassandra:''' ''What are you doing?''\n*'''Nikaia:''' ''The first of you Eagle Bearers rode east to find this fruit. Said any horse that eats it turns into Pegasos. Leave it to the gods to hide it in plain sight!''\n\n<tabber>\n|-|You've been tricked.=\n*'''Kassandra:''' ''The \"Eagle Bearer\" obviously lied to you.''\n|-|You should eat the fruit, too.=\n*'''Kassandra:''' ''Why not take a bite yourself? Maybe it'll turn you into a Pegasos, too.''\n|-|Sounds right to me.=\n*'''Kassandra:''' ''I've heard of magic fruit left by Dionysos, but it just gets you drunk.''\n</tabber>\n\n*'''Nikaia:''' ''Don't believe me? For how much I paid, this fruit ''has'' to be real. Here, watch this.''\n\nNikaia climbs onto Pegasos.\n*'''Kassandra:''' ''Wait!''\n*'''Nikaia:''' ''Fly, Pegasos! Fly!''\n\nNikaia rides off the cliff with her horse and plummets to her death while Kassandra runs after her, but fails to stop here in time.\n*'''Kassandra:''' ''These people are cursed.'' / ''This has been a long, long day.''",
+    "Section_Outcome": "Kassandra recovered [[Princess Purple Pie]] from the bandits at [[Salty Bandits]]. Nikaia then jumped off a cliff together with the horse, being tricked by the imposter [[Eagle Bearer (imposter)|Eagle Bearer]] into thinking her horse would become [[Pegasos]] after eating a certain berry.",
+    "Section_Trivia": "* Once this quest has been completed, the player can drop down to loot Nikaia's corpse for a Legendary Half-Eaten Apple. Selling it gives 1980 drachmae.\n*This quest can fail if the horse takes any damage.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

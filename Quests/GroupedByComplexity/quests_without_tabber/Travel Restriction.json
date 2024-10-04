@@ -1,0 +1,139 @@
+{
+    "Quest_Name": "Travel Restriction",
+    "Quest_ID": "236798",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Travel Restriction",
+        "description": "'A midwife prevented from traveling to pregnant women by soldiers asked for help.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Travel Restriction''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A midwife sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''I have [[drachma]]e for anyone who can help me deal with a camp of soldiers. Come speak with me to learn more.''\nShe sought out the midwife and addressed her.\n*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''\n*'''Woman:''' ''The soldiers and their commander who have set up camp near the village are tyrants. They control our movements and won't let us leave.''\n*'''Kassandra:''' ''Why do you want to leave? Are you fleeing?''\n*'''Woman:''' ''No, but there are several pregnant women who live outside the village. If the soldiers keep me from helping them, they and their babies will likely die.''\n*'''Kassandra:''' ''Let me guess. You want me to kill him.''\n*'''Woman:''' ''It's not an easy task, but yes, the Spartan must be killed./Yes, the Athenian commander must fall.''\n(Accept - The commander's head is mine.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Woman:''' ''I'm in your debt.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra sought out the commander and killed him before returning to the midwife.\n*'''Woman:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Woman:''' ''You do good work, ''misthios''. Take this for your trouble.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the midwife.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''I have [[drachma]]e for anyone who can help me deal with a camp of soldiers. Come speak with me to learn more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the midwife and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''The soldiers and their commander who have set up camp near the village are tyrants. They control our movements and won't let us leave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Why do you want to leave? Are you fleeing?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''No, but there are several pregnant women who live outside the village. If the soldiers keep me from helping them, they and their babies will likely die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Let me guess. You want me to kill him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''It's not an easy task, but yes, the Spartan must be killed./Yes, the Athenian commander must fall.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - The commander's head is mine.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'll help you. You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Woman:''' ''I'm in your debt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll come back when I'm done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra sought out the commander and killed him before returning to the midwife.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Woman:''' ''You again. Have you killed him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Your man is dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Woman:''' ''You do good work, ''misthios''. Take this for your trouble.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

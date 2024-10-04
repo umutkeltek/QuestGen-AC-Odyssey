@@ -1,0 +1,941 @@
+{
+    "Quest_Name": "Dagger to the Heart",
+    "Quest_ID": "223517",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Agapios sent Kassandra to the Amphitheater, Chalkis City|theater in Chalkis City|Chalkis to search for leads on The Dagger.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support {{c|Agapios}}",
+        "previous": "The Taxman Cometh",
+        "concurrent": "Freedom Isn't Free<br>Blood and Water<br>Wasn't Born the Kingfisher",
+        "next": "The Kingfisher and the Robin",
+        "source": "Kassandra",
+        "location": "Chalkis City, Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Dagger to the Heart''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra investigated the [[Amphitheater, Chalkis City|theater]] in [[Chalkis City]] on [[Agapios]]'s request.",
+    "Section_Dialogue": "As Kassandra approached the theater, she overheard a couple arguing.\n*'''[[Idyia]]:''' ''I won\u2019t let you do something this stupid!''\n*'''[[Prexileos]]:''' ''That [[The Dagger|Dagger]] sympathizer has to die! He'll keep making us do his dirty work if I don't stop him.''\n*'''Idyia:''' ''They'll just do it all the same!''\nKassandra approached the couple.\n*'''Idyia:''' ''Killing him won't solve anything, Prexileos!''\n*'''Prexileos:''' ''But we can't just sit here and let him do this to us, Idyia! To the children!''\n*'''Idyia:''' ''You think I don't have their wellbeing in mind?!''\n*'''Prexileos:''' ''Well, you certainly aren't'' acting'' like it.''\n*'''Idyia:''' ''How dare you!''\n\n<tabber>\n|-|Stop this! Both of you.=\n*'''Kassandra:''' ''Enough, you two!''\n|-|Try speaking calmly.=\n*'''Kassandra:''' ''Calm down and listen to yourselves. The kids are scared.''\n</tabber>\n*'''Idyia:''' ''Who do you think you are?''\n*'''Prexileos:''' ''The ''misthios'' is right, calm down. It's bad for the\u2014''\n*'''Idyia:''' ''Speak up, stranger!''\n*'''Kassandra:''' ''Agapios sent me. He wants to prove his [[Neritos|brother]]'s innocence and destroy The Dagger.''\n*'''Idyia:''' ''His brother? Neritos? Didn't he die on S\u2014''\n*'''Prexileos:''' ''Stop, Idyia! We\u2019re in enough trouble as it is.''\n*'''Kassandra:''' ''Tell me what you know.''\n*'''Prexileos:''' ''Let's make a deal. Kill a man for me, ''misthios''. Help me, and I'll tell you about The Dagger\u2019s base of operations.''\n*'''Idyia:''' ''We've been through this. No killing! Talk to the man instead! Make him honor his word to pay us.''\n(Accept \u2013 I'll help you.)\n*'''Kassandra:''' ''Deal. I will take care of your problem.''\n*'''Prexileos:''' ''There's a man from The Dagger. He approached us one day to help them spread their agenda. We don't care about The Dagger, but we needed the extra income.''\n*'''Idyia:''' ''He wanted us and the children to spread the message of The Dagger in the theater and on the streets.''\n\n<tabber>\n|-|That sounds fair.=\n*'''Kassandra:''' ''Sounds like a fair trade.''\n|-|He's exploiting you.=\n*'''Kassandra:''' ''He's just using you! Exploiting your children for sympathy.''\n</tabber>\n*'''Idyia:''' ''And now he intends to do it for free. He stopped paying us and threatened to come after our children if we didn't continue.''\n*'''Prexileos:''' ''I was going to kil him myself, but Idyia\u2014''\n*'''Idyia:''' ''We can't just take a life like that, Prexileos! That's not us.''\n*'''Prexileos:''' ''He lives in the large house in the middle of the city. Kill him, and we'll have [[drachma]]e for you.''\n*'''Idyia:''' ''Listen to yourself! Talk to the man and posture if you must. But we aren't savages. I don't want to set a horrible example for the children.''\n(Accept \u2013 I'll deal with him.)\n*'''Kassandra:''' ''I'll deal with the man. Just make sure you pay up.''\n*'''Prexileos:''' ''If you need anything else or forget where to find the Dagger man, speak to us again.''\n(If player choose \"How will I get to this man?\")\n*'''Kassandra:''' ''This Dagger man, where will I find him?''\n*'''Prexileos:''' ''He lives in the biggest house in town. There are many [[guard]]s there, so be careful.''\n(If player choose \"How many children do you have?\")\n*'''Kassandra:''' ''You are... prolific creatures. [[Eros]] would be proud.''\n*'''Idyia:''' ''W-what are you saying?!''\n*'''Prexileos:''' ''These kids aren't ''really'' ours. They're orphans.''\n*'''Idyia:''' ''We just started taking them in one at a time. And\u2014''\n*'''Prexileos:''' ''Look at us now, one big happy family. And... I can't wait for it to expand again.''\n*'''Idyia:''' ''Idiot. Don't make it sound weird.''\n(If player choose \"Leave \u2013 That's all.\")\n*'''Kassandra:''' ''I've got all I need. I'll deal with the man.''\n*'''Idyia:''' ''Remember\u2014no killing. No blood.''\n*'''Prexileos:''' ''Go now, ''misthios'', do what you must. Thank you.''\nKassandra left the theater and located the man. As she approached him, she could hear him talk to himself.\n*'''The Smuggler:''' ''I can't keep doing this... But I have to! I have to do this. For family. Yes, that's right. ''For family.\nHe noticed her.\n\n<tabber>\n|-|If Kassandra chose to kill=\nKassandra eliminated killed the man.\n*'''Kassandra:''' ''He didn't look too dangerous...''\n|-|If Kassandra chose to talk=\n*'''The Smuggler:''' ''A ''misthios''? What do you want?''\n{{#tag:tabber|\nYour head.=\n*'''Kassandra:''' ''Your head off your shoulders.''\n*'''The Smuggler:''' ''Guards! To me, at once!''\n{{!}}-{{!}}\nTo talk.=\n*'''Kassandra:''' ''I'm just here to talk.''\n*'''The Smuggler:''' ''Did the theater couple send you? I already told them to leave me alone. Or else\u2014''\n*'''Kassandra:''' ''Or else ''what''? You'd hurt the children that live there?''\n*'''The Smuggler:''' ''As unfortunate as that is, I would. For my family, I'd do anything! Guards! We've an intruder!''\nFight ensued. Kassandra killed the Smuggler. A child's voice rang out as they ran into the scene.\n*'''Child:''' Pater,'' we're home! ''Pater''? ''Pater! Mater'', come quick!''\n*'''Woman:''' ''My love? No!''\nKassandra left the premises.\n*'''Kassandra:''' ''He was just another man doing right by his family. Too bad he mixed with the wrong people.''\n}}\n</tabber>\n\n* \n\nKassandra returned to the theater to find The Dagger's thugs threatening Idyia and Prexileos.\n\n*'''Thug:''' ''You think you can take The Dagger on, theatre man?''\n*'''Idyia:''' ''No! Stop hitting him!''\n*'''Thug:''' ''I'll hit him as much as I like! You sent a ''misthios'' after one of ours? Mess with The Dagger and get ''stabbed.\n*'''Prexileos:''' ''Stop... Please.''\n*'''Thug:''' ''You'll entertain me till the ''misthios'' returns, my friend. You best hope she gets here soon.''\n\nKassandra approached them.\n*'''Prexileos:''' ''Misthios! I've sent the children away. Make sure this Dagger malaka doesn't get to\u2014''\nPrexileos was interrupted with a kick from the back by a Dagger thug.\n*'''Thug:''' ''Shut up! We'll find every last one of your precious kids. They'll fetch a good price.''\nThe thug let out a laugh.\n\n<tabber>\n|-|Let them go, now.=\n*'''Kassandra:''' ''Release them this instant.''\n*'''Thug:''' ''I'll let them go\u2014After I've made a few cuts.''\n*'''Kassandra:''' ''Malaka.''\n|-|Let's talk this over.=\n\n</tabber>\n*'''Thug:''' ''The Dagger doesn't appreciate your... intrusions into our affairs.''\n*'''Kassandra:''' ''Then you malakes should get out of my way.''\n*'''Thug:''' ''Oh! How tough! How brave.''\n*'''Thug:''' ''Brave like when you freed that slave! Remember her? The little spy girl?''\nThe thug laughed once again.\n*'''Kassandra:''' ''If you laid a finger on her\u2014''\nThe thug ignored and continued laughing.\n*'''Kassandra:''' ''Curse you.''\n*'''Thug:''' ''I'm a man that likes a little drama. So let's make this interesting. You, misthios, seem to have a flair for the dramatic, and we are in a theater after all. So let's have you decide how this play will.. play out.''\n*'''Kassandra:''' ''Get to the point.''\n*'''Thug:''' ''Someone's got to die here today.''\n\n<tabber>\n|-|That person is you.=\n*'''Kassandra:''' ''Easy, that's you.''\n*'''Thug:''' ''Try, and these two will have their throats slit before you even reach me.''\n*'''Prexileos:''' ''Don't do anything rash, misthios!''\n|-|No one will die today.=\n\n</tabber>\n*'''Thug:''' ''But, like I was saying. Someone's got to die. But just one! It's always more fun when one lover is alive to watch the other bleed. So, meddling misthios. Tell us, who should live?''\n*'''Prexileos:''' ''Save Idyia, misthios.''\n*'''Idyia:''' ''Wha\u2014no! Save Prexileos, misthios. The kids can't do without him.''\n*'''Prexileos:''' ''No, save Idyia! Please! You'll be saving more than\u2014''\n*'''Thug:''' ''All right, time's up. Pick an ending to our little play.''\n\n<tabber>\n|-|Spare Idyia.=\n\n|-|Attack \u2013 Die, Dagger filth.=\n*'''Kassandra:''' ''I'll save them both! But you will die, Dagger scum.''\n*'''Thug:''' ''Wrong answer.''\n*'''Prexileos:''' ''[[Skyros]]! Misthios, get to Skyros! Tell Agapios!''\n*'''Idyia:''' ''That's where they control [[Euboea]] from! Stop them!''\n*'''Thug:''' ''You little\u2014''\nBoth Prexileos and Idyia were slain. Kassandra drew her weapons and eliminated the remaining Dagger members.\n*'''Kassandra:''' ''I won't let your dying words go to waste. Agapios will know about Skyros, and I will avenge the both of you.''\n|-|Spare Prexileos.=\n\n</tabber>",
+    "Section_Outcome": "Kassandra learned the Dagger operated out of Skyros, narrowing down the location of their leader.",
+    "Section_Trivia": "*Idyia's dialogue changes slightly depending on whether or not Prexileos is saved. To save both of them, players can circle around the back of the theater and ambush the enemy, bypassing the dialogue choice to kill one parent and spare the other. Saving both of them in this scenario is entirely dependent on gameplay, and thus difficulty settings may work against the player and affect the outcome.\n**Even on Nightmare difficulty with Heavy level scaling, however, attacks that affect multiple targets (e.g. Rush Assassination) will be very useful. An Overpower Bow-Strike can potentially kill all the enemies before they have a chance to act.\n**Enemy rank is randomly determined with each loading of the game, so if any enemies are loaded as Elites, reloading the save should work to reduce their ranks.\n**In this counter-ambush scenario, Idyia cannot be killed, so prioritizing the guard(s) attacking Prexileos should also help keep them both alive.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:Dague au c\u0153ur]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Agapios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As Kassandra approached the theater, she overheard a couple arguing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''[[Idyia]]:''' ''I won\u2019t let you do something this stupid!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''[[Prexileos]]:''' ''That [[The Dagger|Dagger]] sympathizer has to die! He'll keep making us do his dirty work if I don't stop him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Idyia:''' ''They'll just do it all the same!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra approached the couple.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Idyia:''' ''Killing him won't solve anything, Prexileos!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Prexileos:''' ''But we can't just sit here and let him do this to us, Idyia! To the children!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Idyia:''' ''You think I don't have their wellbeing in mind?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Prexileos:''' ''Well, you certainly aren't'' acting'' like it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Idyia:''' ''How dare you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "11",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "12",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "13",
+            "content": "|-|Stop this! Both of you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Enough, you two!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Try speaking calmly.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Calm down and listen to yourselves. The kids are scared.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Idyia:''' ''Who do you think you are?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Prexileos:''' ''The ''misthios'' is right, calm down. It's bad for the\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Idyia:''' ''Speak up, stranger!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Agapios sent me. He wants to prove his [[Neritos|brother]]'s innocence and destroy The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Idyia:''' ''His brother? Neritos? Didn't he die on S\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Prexileos:''' ''Stop, Idyia! We\u2019re in enough trouble as it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Tell me what you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Prexileos:''' ''Let's make a deal. Kill a man for me, ''misthios''. Help me, and I'll tell you about The Dagger\u2019s base of operations.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "26",
+            "content": "*'''Idyia:''' ''We've been through this. No killing! Talk to the man instead! Make him honor his word to pay us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "27",
+            "content": "(Accept \u2013 I'll help you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Deal. I will take care of your problem.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "29",
+            "content": "*'''Prexileos:''' ''There's a man from The Dagger. He approached us one day to help them spread their agenda. We don't care about The Dagger, but we needed the extra income.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Idyia:''' ''He wanted us and the children to spread the message of The Dagger in the theater and on the streets.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "32",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "33",
+            "content": "|-|That sounds fair.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Sounds like a fair trade.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "35",
+            "content": "|-|He's exploiting you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''He's just using you! Exploiting your children for sympathy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "37",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D25",
+            "global_id": "38",
+            "content": "*'''Idyia:''' ''And now he intends to do it for free. He stopped paying us and threatened to come after our children if we didn't continue.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Prexileos:''' ''I was going to kil him myself, but Idyia\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Idyia:''' ''We can't just take a life like that, Prexileos! That's not us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Prexileos:''' ''He lives in the large house in the middle of the city. Kill him, and we'll have [[drachma]]e for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Idyia:''' ''Listen to yourself! Talk to the man and posture if you must. But we aren't savages. I don't want to set a horrible example for the children.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "43",
+            "content": "(Accept \u2013 I'll deal with him.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I'll deal with the man. Just make sure you pay up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "45",
+            "content": "*'''Prexileos:''' ''If you need anything else or forget where to find the Dagger man, speak to us again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "46",
+            "content": "(If player choose \"How will I get to this man?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''This Dagger man, where will I find him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "48",
+            "content": "*'''Prexileos:''' ''He lives in the biggest house in town. There are many [[guard]]s there, so be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "49",
+            "content": "(If player choose \"How many children do you have?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''You are... prolific creatures. [[Eros]] would be proud.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Idyia:''' ''W-what are you saying?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "52",
+            "content": "*'''Prexileos:''' ''These kids aren't ''really'' ours. They're orphans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "53",
+            "content": "*'''Idyia:''' ''We just started taking them in one at a time. And\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "54",
+            "content": "*'''Prexileos:''' ''Look at us now, one big happy family. And... I can't wait for it to expand again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "55",
+            "content": "*'''Idyia:''' ''Idiot. Don't make it sound weird.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "56",
+            "content": "(If player choose \"Leave \u2013 That's all.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D40",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''I've got all I need. I'll deal with the man.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "58",
+            "content": "*'''Idyia:''' ''Remember\u2014no killing. No blood.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "59",
+            "content": "*'''Prexileos:''' ''Go now, ''misthios'', do what you must. Thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "60",
+            "content": "Kassandra left the theater and located the man. As she approached him, she could hear him talk to himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "61",
+            "content": "*'''The Smuggler:''' ''I can't keep doing this... But I have to! I have to do this. For family. Yes, that's right. ''For family.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "62",
+            "content": "He noticed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "63",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "64",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "65",
+            "content": "|-|If Kassandra chose to kill=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N5",
+            "global_id": "66",
+            "content": "Kassandra eliminated killed the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''He didn't look too dangerous...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "68",
+            "content": "|-|If Kassandra chose to talk=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "69",
+            "content": "*'''The Smuggler:''' ''A ''misthios''? What do you want?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "70",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "71",
+            "content": "Your head.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Your head off your shoulders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "73",
+            "content": "*'''The Smuggler:''' ''Guards! To me, at once!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "74",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC8",
+            "global_id": "75",
+            "content": "To talk.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''I'm just here to talk.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "77",
+            "content": "*'''The Smuggler:''' ''Did the theater couple send you? I already told them to leave me alone. Or else\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''Or else ''what''? You'd hurt the children that live there?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "79",
+            "content": "*'''The Smuggler:''' ''As unfortunate as that is, I would. For my family, I'd do anything! Guards! We've an intruder!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "80",
+            "content": "Fight ensued. Kassandra killed the Smuggler. A child's voice rang out as they ran into the scene.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "81",
+            "content": "*'''Child:''' Pater,'' we're home! ''Pater''? ''Pater! Mater'', come quick!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "82",
+            "content": "*'''Woman:''' ''My love? No!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "83",
+            "content": "Kassandra left the premises.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''He was just another man doing right by his family. Too bad he mixed with the wrong people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "85",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE3",
+            "global_id": "86",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "87",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U5",
+            "global_id": "88",
+            "content": "*",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U6",
+            "global_id": "89",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "90",
+            "content": "Kassandra returned to the theater to find The Dagger's thugs threatening Idyia and Prexileos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "91",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D55",
+            "global_id": "92",
+            "content": "*'''Thug:''' ''You think you can take The Dagger on, theatre man?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "93",
+            "content": "*'''Idyia:''' ''No! Stop hitting him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "94",
+            "content": "*'''Thug:''' ''I'll hit him as much as I like! You sent a ''misthios'' after one of ours? Mess with The Dagger and get ''stabbed.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "95",
+            "content": "*'''Prexileos:''' ''Stop... Please.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "96",
+            "content": "*'''Thug:''' ''You'll entertain me till the ''misthios'' returns, my friend. You best hope she gets here soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U8",
+            "global_id": "97",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "98",
+            "content": "Kassandra approached them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "99",
+            "content": "*'''Prexileos:''' ''Misthios! I've sent the children away. Make sure this Dagger malaka doesn't get to\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "100",
+            "content": "Prexileos was interrupted with a kick from the back by a Dagger thug.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "101",
+            "content": "*'''Thug:''' ''Shut up! We'll find every last one of your precious kids. They'll fetch a good price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "102",
+            "content": "The thug let out a laugh.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U9",
+            "global_id": "103",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "104",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "105",
+            "content": "|-|Let them go, now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''Release them this instant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "107",
+            "content": "*'''Thug:''' ''I'll let them go\u2014After I've made a few cuts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "108",
+            "content": "*'''Kassandra:''' ''Malaka.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "109",
+            "content": "|-|Let's talk this over.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U10",
+            "global_id": "110",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE4",
+            "global_id": "111",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D65",
+            "global_id": "112",
+            "content": "*'''Thug:''' ''The Dagger doesn't appreciate your... intrusions into our affairs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Then you malakes should get out of my way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "114",
+            "content": "*'''Thug:''' ''Oh! How tough! How brave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "115",
+            "content": "*'''Thug:''' ''Brave like when you freed that slave! Remember her? The little spy girl?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "116",
+            "content": "The thug laughed once again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D69",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''If you laid a finger on her\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "118",
+            "content": "The thug ignored and continued laughing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D70",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''Curse you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "120",
+            "content": "*'''Thug:''' ''I'm a man that likes a little drama. So let's make this interesting. You, misthios, seem to have a flair for the dramatic, and we are in a theater after all. So let's have you decide how this play will.. play out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''Get to the point.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "122",
+            "content": "*'''Thug:''' ''Someone's got to die here today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "123",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS5",
+            "global_id": "124",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "125",
+            "content": "|-|That person is you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D74",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''Easy, that's you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "127",
+            "content": "*'''Thug:''' ''Try, and these two will have their throats slit before you even reach me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "128",
+            "content": "*'''Prexileos:''' ''Don't do anything rash, misthios!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC12",
+            "global_id": "129",
+            "content": "|-|No one will die today.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U12",
+            "global_id": "130",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE5",
+            "global_id": "131",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D77",
+            "global_id": "132",
+            "content": "*'''Thug:''' ''But, like I was saying. Someone's got to die. But just one! It's always more fun when one lover is alive to watch the other bleed. So, meddling misthios. Tell us, who should live?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "133",
+            "content": "*'''Prexileos:''' ''Save Idyia, misthios.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "134",
+            "content": "*'''Idyia:''' ''Wha\u2014no! Save Prexileos, misthios. The kids can't do without him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "135",
+            "content": "*'''Prexileos:''' ''No, save Idyia! Please! You'll be saving more than\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "136",
+            "content": "*'''Thug:''' ''All right, time's up. Pick an ending to our little play.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "137",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS6",
+            "global_id": "138",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "139",
+            "content": "|-|Spare Idyia.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U14",
+            "global_id": "140",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC14",
+            "global_id": "141",
+            "content": "|-|Attack \u2013 Die, Dagger filth.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D82",
+            "global_id": "142",
+            "content": "*'''Kassandra:''' ''I'll save them both! But you will die, Dagger scum.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "143",
+            "content": "*'''Thug:''' ''Wrong answer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "144",
+            "content": "*'''Prexileos:''' ''[[Skyros]]! Misthios, get to Skyros! Tell Agapios!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "145",
+            "content": "*'''Idyia:''' ''That's where they control [[Euboea]] from! Stop them!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "146",
+            "content": "*'''Thug:''' ''You little\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "147",
+            "content": "Both Prexileos and Idyia were slain. Kassandra drew her weapons and eliminated the remaining Dagger members.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D87",
+            "global_id": "148",
+            "content": "*'''Kassandra:''' ''I won't let your dying words go to waste. Agapios will know about Skyros, and I will avenge the both of you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC15",
+            "global_id": "149",
+            "content": "|-|Spare Prexileos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U15",
+            "global_id": "150",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE6",
+            "global_id": "151",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

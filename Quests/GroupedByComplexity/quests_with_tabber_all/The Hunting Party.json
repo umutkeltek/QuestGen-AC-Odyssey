@@ -1,0 +1,337 @@
+{
+    "Quest_Name": "The Hunting Party",
+    "Quest_ID": "224049",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-Galeosbears.jpg",
+        "description": "'Hippokrates heard rumours of a hunting party was attacked by an animal and badly injured. The Doctor|physician asked Kassandra to look for survivors.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Hippokrates}}",
+        "next": "Let My Patients Go",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''The Hunting Party''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of [[Hippokrates]], Kassandra investigated rumors of a hunting party becoming prey instead.",
+    "Section_Dialogue": "Kassandra traveled through the city of [[Thebes, Greece|Thebes]] and overheard Hippokrates talking to a man north of the [[Akropolis of Thebes]], while a line of patients awaited treatment. The man bore grave news.\n*'''Hippokrates:''' ''What?! When did this happen?''\n*'''Civilian:''' ''Earlier today. I was taking my boy fishing when we heard the screams.''\n*'''Hippokrates:''' ''What were they doing out there?''\n*'''Civilian:''' ''Hunting party, I think.''\n*'''Hippokrates:''' ''We must send aid at once.''\nKassandra approached him.\n*'''Hippokrates:''' ''Thank the [[Twelve Gods|gods]] you're here. A hunting party has been attacked outside the city, near the [[Cursed Land of Oedipous]].''\n*'''Kassandra:''' ''Any survivors?''\n*'''Hippokrates:''' ''This man saw dead bodies, but he could still hear screaming.''\n<tabber>\nThey must be saved.=\n*'''Kassandra:''' ''There are many dangerous beasts out in the wild. If someone is injured, they won't last long.''\n|-|They should be better hunters.=\n*'''Kassandra:''' ''If they weren't ready to face the beasts out in the wild, they shouldn't have gone hunting. Nature is not kind to those who underestimate her.''\n</tabber>\n*'''Hippokrates:''' ''I need you to go and rescue whoever is still alive, and put an end to the dangerous beast that attacked them.''\n<tabber>\nAccept - I'll save the survivors.=\n*'''Kassandra:''' ''All right, I'll destroy the beast and [sic] if anyone's still in one piece.''\n*'''Hippokrates:''' ''If they are, bring them back to me, and I'll do what I can to save them.''\n|-|Leave - I don't think so.=\n*'''Kassandra:''' ''I'm not interested in saving foolish hunters right now.''\nKassandra returns.\n*'''Hippokrates:''' ''There's no time to waste. We must help those in danger.''\n(Back to dialogue choice one.)\n</tabber>\n(If players asked \"Where did the attack happen?\")\n*'''Kassandra:''' ''There are a lot of hunting grounds nearby. Where should I look?''\n*'''Hippokrates:''' ''They were sighted following animal tracks around [[Snake Head Rock]].''\n(If players asked \"What kind of creature was it?\")\n*'''Kassandra:''' ''Do you know what attacked them?''\n*'''Hippokrates:''' ''Not for certain. The roar could have been from any number of beasts... Many predators call the wilds of Boeotia their home.''\n(If players asked \"How many survivors are there?\")\n*'''Kassandra:''' ''How many people will I find out there?''\n*'''Hippokrates:''' ''It sounded like only one hunter was alive, but hunting parties usually contain three or four people.''\n(Leave \u2013 \"I'll find the wounded.\")\n*'''Kassandra:''' ''I'll go and find the trail.''\nKassandra travelled to the road below Snake Head Rock. [[Ikaros]] helped her find its adjacent cave, where the bodies of the hunting party could be seen, as well as a lone man being mauled by a brown bear and a large albino bear.\n*'''Kassandra:''' ''Must be what's left of the hunting party.''\nKassandra drew closer as the man, [[Galeos]], begged for salvation from his predators.\n*'''Galeos:''' ''Please, by all the gods, save me.''\nKassandra leapt into the fray and attacked the bears.\n*'''Galeos:''' ''Quickly! Kill that beast before it finishes me off.''\nKassandra managed to eliminate the bears. Galeos was severely injured, so she carried him and rested him on the saddle of [[Phobos (horse)|Phobos]].\n*'''Galeos:''' ''Thank you. Thank you. I owe you my life, brave hero.''\nShe rode Phobos back to Thebes with Galeos losing blood.\n*'''Galeos:''' ''I feel faint. I'm getting dizzy.''\nKassandra mused on his condition.\n*'''Kassandra:''' ''I need to get him back to Hippokrates before he bleeds out all over me.''\nDespite his condition, Kassandra successfully delivered him to Hippokrates' clinic, where she laid him down in a wooden bed on the ground to receive treatment.",
+    "Section_Outcome": "Kassandra saved a man in the brink of death from a huge albino bear and a brown bear, and delivered him to Hippokrates' clinic in Thebes.",
+    "Section_Trivia": "*The alpha bear can be knocked out instead and tamed.\n*Galeos can be encountered fighting the bears before talking to Hippokrates.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Hippokrates",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled through the city of [[Thebes, Greece|Thebes]] and overheard Hippokrates talking to a man north of the [[Akropolis of Thebes]], while a line of patients awaited treatment. The man bore grave news.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Hippokrates:''' ''What?! When did this happen?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Civilian:''' ''Earlier today. I was taking my boy fishing when we heard the screams.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Hippokrates:''' ''What were they doing out there?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Civilian:''' ''Hunting party, I think.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Hippokrates:''' ''We must send aid at once.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Hippokrates:''' ''Thank the [[Twelve Gods|gods]] you're here. A hunting party has been attacked outside the city, near the [[Cursed Land of Oedipous]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Any survivors?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Hippokrates:''' ''This man saw dead bodies, but he could still hear screaming.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "They must be saved.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''There are many dangerous beasts out in the wild. If someone is injured, they won't last long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "14",
+            "content": "|-|They should be better hunters.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''If they weren't ready to face the beasts out in the wild, they shouldn't have gone hunting. Nature is not kind to those who underestimate her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "16",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Hippokrates:''' ''I need you to go and rescue whoever is still alive, and put an end to the dangerous beast that attacked them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "18",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "19",
+            "content": "Accept - I'll save the survivors.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''All right, I'll destroy the beast and [sic] if anyone's still in one piece.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Hippokrates:''' ''If they are, bring them back to me, and I'll do what I can to save them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "22",
+            "content": "|-|Leave - I don't think so.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I'm not interested in saving foolish hunters right now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Hippokrates:''' ''There's no time to waste. We must help those in danger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "26",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "28",
+            "content": "(If players asked \"Where did the attack happen?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''There are a lot of hunting grounds nearby. Where should I look?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Hippokrates:''' ''They were sighted following animal tracks around [[Snake Head Rock]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "31",
+            "content": "(If players asked \"What kind of creature was it?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Do you know what attacked them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Hippokrates:''' ''Not for certain. The roar could have been from any number of beasts... Many predators call the wilds of Boeotia their home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "34",
+            "content": "(If players asked \"How many survivors are there?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''How many people will I find out there?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Hippokrates:''' ''It sounded like only one hunter was alive, but hunting parties usually contain three or four people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "37",
+            "content": "(Leave \u2013 \"I'll find the wounded.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll go and find the trail.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "39",
+            "content": "Kassandra travelled to the road below Snake Head Rock. [[Ikaros]] helped her find its adjacent cave, where the bodies of the hunting party could be seen, as well as a lone man being mauled by a brown bear and a large albino bear.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Must be what's left of the hunting party.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "41",
+            "content": "Kassandra drew closer as the man, [[Galeos]], begged for salvation from his predators.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Galeos:''' ''Please, by all the gods, save me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "43",
+            "content": "Kassandra leapt into the fray and attacked the bears.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Galeos:''' ''Quickly! Kill that beast before it finishes me off.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "Kassandra managed to eliminate the bears. Galeos was severely injured, so she carried him and rested him on the saddle of [[Phobos (horse)|Phobos]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "46",
+            "content": "*'''Galeos:''' ''Thank you. Thank you. I owe you my life, brave hero.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "47",
+            "content": "She rode Phobos back to Thebes with Galeos losing blood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "48",
+            "content": "*'''Galeos:''' ''I feel faint. I'm getting dizzy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "49",
+            "content": "Kassandra mused on his condition.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''I need to get him back to Hippokrates before he bleeds out all over me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "51",
+            "content": "Despite his condition, Kassandra successfully delivered him to Hippokrates' clinic, where she laid him down in a wooden bed on the ground to receive treatment.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

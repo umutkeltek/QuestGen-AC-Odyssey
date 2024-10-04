@@ -1,0 +1,101 @@
+{
+    "Quest_Name": "Family Trinkets",
+    "Quest_ID": "223198",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Courtesan|Hetaerae, with their relative independence and wealth compared to many women in the cities, sometimes became the targets of Thief|thieves and bandits on the roads.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Family Trinkets''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked with delivering a good luck trinket.",
+    "Section_Dialogue": "Kassandra talked to an ''[[Courtesan|hetaerae]]''.\n*'''Kassandra:''' ''Anything a ''[[Mercenary|misthios]]'' can help you with?''\n*'''Woman:''' ''I have a small trinket to send to my brother, to wish him strength in battle. But [[Thief|thieves]] have been targeting ''hetaerae'' in the city and I worry what may happen to me on the journey there.''\n*'''Kassandra:''' ''So you need me to deliver it?''\n*'''Woman:''' ''Right. He'll be waiting for it.''\n(Accept \u2013 I'll handle it)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Oh, thank you.''\n*'''Kassandra:''' Chaire'', stranger.''\nKassandra left the woman and soon found the [[soldier]].\n*'''Kassandra:''' ''Delivery for you. from a ''hetaera''.''\n*'''Man:''' ''Oh! Just what I needed. Take this for your trouble, ''misthios''.''",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra talked to an ''[[Courtesan|hetaerae]]''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Anything a ''[[Mercenary|misthios]]'' can help you with?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Woman:''' ''I have a small trinket to send to my brother, to wish him strength in battle. But [[Thief|thieves]] have been targeting ''hetaerae'' in the city and I worry what may happen to me on the journey there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''So you need me to deliver it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''Right. He'll be waiting for it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "6",
+            "content": "(Accept \u2013 I'll handle it)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Woman:''' ''Oh, thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' Chaire'', stranger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "10",
+            "content": "Kassandra left the woman and soon found the [[soldier]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Delivery for you. from a ''hetaera''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Man:''' ''Oh! Just what I needed. Take this for your trouble, ''misthios''.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

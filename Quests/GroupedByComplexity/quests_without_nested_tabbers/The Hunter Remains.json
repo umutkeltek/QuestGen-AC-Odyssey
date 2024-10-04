@@ -1,0 +1,126 @@
+{
+    "Quest_Name": "The Hunter Remains",
+    "Quest_ID": "236200",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Great slaughter and fire drove most creatures and people from the woods. A hunter who remained behind was troubled by Wolf|wolves come to feed on the dead.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Hunter Remains''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In a camp in the woods, Kassandra met a hunter with problems.",
+    "Section_Dialogue": "*'''Kassandra:''' ''Need something?''\n*'''Hunter:''' ''I've hunted in this forest for years. I will not abandon it. I will be here as it heals.''\n*'''Kassandra:''' ''Is there enough game left for you to hunt?''\n*'''Hunter:''' ''Game remains and more will return. But I must protect myself. Carcasses are drawing out [[Wolf|wolves]] in droves. Not to mention the bandits who comb the woods looking for easy victims.''\n*'''Kassandra:''' ''And of course, you want me to kill them all.''\n*'''Hunter:''' ''No bandit should be left standing.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Hunter:''' ''Good. Get it done soon.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra sought out the bandits and killed them. Afterwards, she returned to the hunter.\n*'''Hunter:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Hunter:''' ''Take this as thanks, [[mercenary]]. You did good work.''\n*'''Kassandra:''' ''I always finish what I've started.''\nThe hunter rewarded Kassandra.",
+    "Section_Outcome": "At the request of the hunter, Kassandra sought out and killed the bandits.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''Need something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Hunter:''' ''I've hunted in this forest for years. I will not abandon it. I will be here as it heals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Is there enough game left for you to hunt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "4",
+            "content": "*'''Hunter:''' ''Game remains and more will return. But I must protect myself. Carcasses are drawing out [[Wolf|wolves]] in droves. Not to mention the bandits who comb the woods looking for easy victims.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''And of course, you want me to kill them all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "6",
+            "content": "*'''Hunter:''' ''No bandit should be left standing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(Accept - I'll hunt the outlaws.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Hunter:''' ''Good. Get it done soon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You can leave everything to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "11",
+            "content": "Kassandra sought out the bandits and killed them. Afterwards, she returned to the hunter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Hunter:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Hunter:''' ''Take this as thanks, [[mercenary]]. You did good work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I always finish what I've started.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "16",
+            "content": "The hunter rewarded Kassandra.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

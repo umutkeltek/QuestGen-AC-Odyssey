@@ -1,0 +1,260 @@
+{
+    "Quest_Name": "Lore of the Sphinx",
+    "Quest_ID": "224241",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-LotS-GorgiasSphinx.jpg",
+        "description": "'With her clue from Pythagoras, Kassandra journeyed to Boeotia to uncover the Prize of the Sphinx|Artifact supposedly hidden by the legendary Sphinx.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Gates of Atlantis",
+        "next": "Awaken the Myth",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Lore of the Sphinx''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following [[Pythagoras]]' suggestion, Kassandra made her way to curious [[Lair of the Sphinx|ruins]] south of [[Lake Kopais]] in [[Boeotia]].",
+    "Section_Dialogue": "Kassandra travelled to the forest hill north of the [[Scorched Rolling Plains]], arriving to a camp at the ruins situated on a cliff near the lake.\n*'''Kassandra:''' ''A camp. [[Gorgias (historian)|Gorgias]] must be nearby.''\nShe went past the camp to the stairs of the strange ruins, and saw a man taking notes while observing a statue of the Sphinx.\n*'''Kassandra:''' ''He must be the one Pythagoras mentioned. I need to talk to him.''\nAs she approached him, she noticed the statue and its surroundings.\n[[File:ACOD_Lore_of_the_Sphinx_-_Kassandra_Meeting_Gorgias.png|thumb|250px|Kassandra meeting Gorgias]]\n*'''Kassandra:''' ''The Lair of the Sphinx. Impressive.''\n*'''Gorgias:''' ''Oh my, a'' [[Mercenary#5th century BCE|misthios]].\n*'''Kassandra:''' ''What are you doing here?''\n*'''Gorgias:''' ''My name is Gorgias, and I have spent my life researching the past of Boeotia and the [[Peloponnese]].''\n*'''Kassandra:''' ''I'm looking for the other half of this [[Sphinx Medallion|amulet]].''\nKassandra showed him the broken half of an amulet that her father had given her.\n*'''Gorgias:''' ''Ah yes, I know of items like this. I was seeking a piece similar in size.''\n*'''Kassandra:''' ''Where is it?''\n*'''Gorgias:''' ''Unfortunately my [[Pibos|apprentice]] was the one tracking down its final location in [[Lokris]]. He went to retrieve it, but never returned.''\n\n<tabber>\n|-|Sounds like an easy job.=\n*'''Kassandra:''' ''I'll find your apprentice and recover the amulet piece without any trouble at all.''\n*'''Gorgias:''' ''Thank you. The [[Twelve Gods|gods]] have truly blessed me by sending you to help find Pibos.''\n|-|Maybe I can help.=\n*'''Kassandra:''' ''I will do everything I can to find your missing apprentice.''\n*'''Gorgias:''' ''I appreciate the help,'' misthios. ''I'm very worried about my Pibos.''\n</tabber>\n(If players choose \"Where was Pibos going?\")\n*'''Kassandra:''' ''Where was your apprentice heading?''\n*'''Gorgias:''' ''We heard rumors of a sighting near the [[Tomb of Menoikeus]], in Boeotia.''\n(If players choose \"What was Pibos investigating?\")\n*'''Kassandra:''' ''What was Pibos looking for?''\n*'''Gorgias:''' ''There was a cave discovered that might contain items of great significance. I sent him to validate the claims before I made the journey myself.''\n(Leave \u2013 \"That's all I need.\")\n*'''Kassandra:''' ''Don't worry, I'll find out what happened to Pibos.''\nKassandra rode southeast towards a [[Herbalist's Farm|farm]]. She scouted with [[Ikaros]] to find the tomb and the apprentice.\n*'''Kassandra:''' ''He's over there.''\nShe climbed the hill and examined Pibos' remains.\n*'''Kassandra:''' ''The creature that killed Pibos must have eaten the amulet.''\nNearby, at the foot of the hill, she found a [[lion]]'s den. The lion attacked her, but Kassandra defended herself, killing the lion. In the guts of the feline, she found the other half of the broken amulet, and fit the two pieces together.\n*'''Kassandra:''' ''These pieces fit together perfectly. This must be the key.''",
+    "Section_Outcome": "Kassandra located the second half of the medallion and completed it.",
+    "Section_Trivia": "* Under certain conditions, returning to the tomb after the lions respawn and killing them again can net you an additional Sphinx Medallion Fragment.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Last Riddle",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to the forest hill north of the [[Scorched Rolling Plains]], arriving to a camp at the ruins situated on a cliff near the lake.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''A camp. [[Gorgias (historian)|Gorgias]] must be nearby.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She went past the camp to the stairs of the strange ruins, and saw a man taking notes while observing a statue of the Sphinx.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''He must be the one Pythagoras mentioned. I need to talk to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "As she approached him, she noticed the statue and its surroundings.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "6",
+            "content": "[[File:ACOD_Lore_of_the_Sphinx_-_Kassandra_Meeting_Gorgias.png|thumb|250px|Kassandra meeting Gorgias]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''The Lair of the Sphinx. Impressive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Gorgias:''' ''Oh my, a'' [[Mercenary#5th century BCE|misthios]].",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Gorgias:''' ''My name is Gorgias, and I have spent my life researching the past of Boeotia and the [[Peloponnese]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm looking for the other half of this [[Sphinx Medallion|amulet]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "12",
+            "content": "Kassandra showed him the broken half of an amulet that her father had given her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Gorgias:''' ''Ah yes, I know of items like this. I was seeking a piece similar in size.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Where is it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Gorgias:''' ''Unfortunately my [[Pibos|apprentice]] was the one tracking down its final location in [[Lokris]]. He went to retrieve it, but never returned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|Sounds like an easy job.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I'll find your apprentice and recover the amulet piece without any trouble at all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Gorgias:''' ''Thank you. The [[Twelve Gods|gods]] have truly blessed me by sending you to help find Pibos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "21",
+            "content": "|-|Maybe I can help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I will do everything I can to find your missing apprentice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Gorgias:''' ''I appreciate the help,'' misthios. ''I'm very worried about my Pibos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "25",
+            "content": "(If players choose \"Where was Pibos going?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Where was your apprentice heading?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Gorgias:''' ''We heard rumors of a sighting near the [[Tomb of Menoikeus]], in Boeotia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "28",
+            "content": "(If players choose \"What was Pibos investigating?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''What was Pibos looking for?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Gorgias:''' ''There was a cave discovered that might contain items of great significance. I sent him to validate the claims before I made the journey myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "31",
+            "content": "(Leave \u2013 \"That's all I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Don't worry, I'll find out what happened to Pibos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "33",
+            "content": "Kassandra rode southeast towards a [[Herbalist's Farm|farm]]. She scouted with [[Ikaros]] to find the tomb and the apprentice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''He's over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "35",
+            "content": "She climbed the hill and examined Pibos' remains.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''The creature that killed Pibos must have eaten the amulet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "37",
+            "content": "Nearby, at the foot of the hill, she found a [[lion]]'s den. The lion attacked her, but Kassandra defended herself, killing the lion. In the guts of the feline, she found the other half of the broken amulet, and fit the two pieces together.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''These pieces fit together perfectly. This must be the key.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

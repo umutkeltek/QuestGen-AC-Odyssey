@@ -1,0 +1,151 @@
+{
+    "Quest_Name": "Spoiled Meats",
+    "Quest_ID": "236803",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Spoiled Meats",
+        "description": "'Diseased animals spread sickness to many who had no other food. Records survive of a Doctor|healer trying to cull the animals and obtain other food sources.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Spoiled Meats''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[Doctor|physician]] sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Physician in need of someone strong and able. I'll pay well for your help.''\nShe sought out the physician and addressed him.\n*'''Kassandra:''' ''I got your message on the board. What's going on?''\n*'''Man:''' ''If you've been hunting around here, please don't eat the animals you kill.''\n*'''Kassandra:''' ''All right. Why not?''\n*'''Man:''' ''They're diseased. Half of the countryside is sick from eating spoiled meat.''\n*'''Kassandra:''' ''They should know better than to eat it.''\n*'''Man:''' ''Maybe so, but people here don't have anything else. Either someone needs to take them food, or those animals need to go.''\n*'''Kassandra:''' ''Are you asking me to slay all the animals?''\n*'''Man:''' ''Yes, all of them must be gutted. Do you accept?''\n(Accept - I'll kill the beasts.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Man:''' ''My thanks,'' misthios.\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra left the man to hunt the [[Wolf|wolves]]. After killing enough of them, she returned to him.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Good work, ''misthios''. Please, take this.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra helped the physician.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Physician in need of someone strong and able. I'll pay well for your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the physician and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I got your message on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''If you've been hunting around here, please don't eat the animals you kill.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''All right. Why not?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Man:''' ''They're diseased. Half of the countryside is sick from eating spoiled meat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''They should know better than to eat it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Man:''' ''Maybe so, but people here don't have anything else. Either someone needs to take them food, or those animals need to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Are you asking me to slay all the animals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Man:''' ''Yes, all of them must be gutted. Do you accept?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "12",
+            "content": "(Accept - I'll kill the beasts.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Man:''' ''My thanks,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''You can leave everything to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "16",
+            "content": "Kassandra left the man to hunt the [[Wolf|wolves]]. After killing enough of them, she returned to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Man:''' ''Good work, ''misthios''. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

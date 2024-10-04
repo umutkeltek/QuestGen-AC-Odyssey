@@ -1,0 +1,182 @@
+{
+    "Quest_Name": "Kallisto the Bear (memory)",
+    "Quest_ID": "223188",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Kallisto the Bear | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-KallistoTheBear.jpg",
+        "description": "'The wild expanses of Arkadia were home to Kallisto the Bear, a creature of rare beauty and unmatched ferocity. Kassandra was given the task of claiming its pelt.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "next": "The Erymanthian Boar",
+        "source": "Kassandra",
+        "location": "Arcadia, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Kallisto the Bear''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Daphnae]], the leader of the [[Daughters of Artemis]], charged Kassandra to hunt down the legendary [[bear]] known as [[Kallisto the Bear|Kallisto]].",
+    "Section_Dialogue": "Kassandra traveled to the hills of [[Arkadia]] and found the massive bear in her den.\n*'''Kassandra:''' ''So, this is Kallisto the Bear!''\nShe approached the bear and engaged it in combat. Its lumbering size concealed its ability to strike out swiftly with its claws, but Kassandra eventually wore it down and defeated it, adding its pelt to her collection.\n\nKassandra returned to Daphnae to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n<tabber>\n|-|I have Kallisto the Bear's pelt.=\n*'''Kassandra:''' ''The pelt from Kallisto the Bear.''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''I wish I'd had the chance to see this creature in the wild. It must have been stunning.''\n{{#tag:tabber|\nFlirt \u2013 Not as stunning as you.=\n*'''Kassandra:''' ''It was, but there are other things on this earth far more beautiful.''\n*'''Daphnae:''' ''And wild?''\n*'''Kassandra:''' ''If not, then where would the challenge be in pursuing it?''\nKassandra drew closer to Daphnae and the two shared an intimate moment.\n{{!}}-{{!}}\nIt tried to do more than stun me.=\n*'''Kassandra:''' ''I was too busy trying to survive to wonder at the majesty of nature.''\n*'''Daphnae:''' ''A pity...''\n}}\n|-|I'll return soon.=\n*'''Kassandra:''' ''I'll return when I have more pelts.''\n</tabber>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to the hills of [[Arkadia]] and found the massive bear in her den.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''So, this is Kallisto the Bear!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She approached the bear and engaged it in combat. Its lumbering size concealed its ability to strike out swiftly with its claws, but Kassandra eventually wore it down and defeated it, adding its pelt to her collection.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to Daphnae to deliver the pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|I have Kallisto the Bear's pelt.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''The pelt from Kallisto the Bear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "Kassandra handed the pelt over to Daphnae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "11",
+            "content": "*'''Daphnae:''' ''I wish I'd had the chance to see this creature in the wild. It must have been stunning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "12",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "Flirt \u2013 Not as stunning as you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''It was, but there are other things on this earth far more beautiful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "15",
+            "content": "*'''Daphnae:''' ''And wild?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''If not, then where would the challenge be in pursuing it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "17",
+            "content": "Kassandra drew closer to Daphnae and the two shared an intimate moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "18",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "19",
+            "content": "It tried to do more than stun me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I was too busy trying to survive to wonder at the majesty of nature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "21",
+            "content": "*'''Daphnae:''' ''A pity...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "22",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC4",
+            "global_id": "23",
+            "content": "|-|I'll return soon.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "25",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

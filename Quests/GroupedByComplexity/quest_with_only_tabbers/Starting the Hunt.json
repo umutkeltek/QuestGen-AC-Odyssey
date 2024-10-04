@@ -1,0 +1,271 @@
+{
+    "Quest_Name": "Starting the Hunt",
+    "Quest_ID": "225287",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD LotFBH Starting the Hunt - Natakas and Kassandra.png",
+        "description": "'Concerned about his Darius|father, Natakas had his own plan to deal with the looming threat.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'Legacy of the First Blade: Hunted'",
+        "type": "Main, Support",
+        "previous": "Hunting the Huntsman",
+        "next": "Mysterious Malady<br>Whimpers Through the Fog<br>Revealing the Recruiter",
+        "source": "Kassandra",
+        "location": "Makedonia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Starting the Hunt''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Natakas]] at the [[Rock Arch]] hideout, and they discussed the activities of the [[Order of Hunters]] in [[Makedonia]].",
+    "Section_Dialogue": "Kassandra spoke to [[Natakas]], who was concerned about his father's plan to deal with the [[Order of Hunters]].\n*'''Natakas:''' ''That stubborn [[Darius|old man]]. He left to look for the [[Pactyas (Ancients)|Huntsman]] on his own. What's he thinking? He keeps saying \"I work alone,\" but if he keeps this up, he'll die alone too. He needs my help, our help.''\n\n<tabber>\n|-|Darius will be fine by himself.=\n*'''Kassandra:''' ''Fathers always think they know best.''\n*'''Natakas:''' ''You've seen his scars. They come faster as he gets older. We've got to help him look for the Huntsman.''\n|-|Darius will be in danger working alone.=\n*'''Kassandra:''' ''The Order are dangerous. We both know he'll be in trouble alone.''\n*'''Natakas:''' ''If this was twenty years ago, I wouldn't have to worry. But you've seen his scars. He's all I have left.''\nNatakas briefly gazed into the distance.\n*'''Natakas:''' ''He needs our help to stop the Huntsman.''\n</tabber>\n*'''Kassandra:''' ''So what's next?''\n*'''Natakas:''' ''My father is following up on his leads, but I have leads of my own. The Huntsman has lieutenants doing his will while he remains hidden. We have to find them and get them to reveal his whereabouts.''\n\n<tabber>\n|-|I'll make the Huntsman's lieutenants talk.=\n*'''Kassandra:''' ''Point my spear in the right direction and I'll make them squeal.''\n|-|We'll find the Huntsman together.=\n*'''Kassandra:''' ''I'm sure we'll find a way to figure out where the Huntsman is.''\n</tabber>\n*'''Natakas:''' ''One of the Huntsman's lieutenants is a recruiter. He rallies locals to his death squad to hunt you down. You should know, I shared this lead with my father.''\nKassandra nodded in affirmation.\n*'''Natakas:''' ''I also have a contact who was supposed to spy on [[Order of the Ancients|Order]] activity, but she was last seen in the wetlands.''\n*'''Kassandra:''' ''I'll look for her there.''\n*'''Natakas:''' ''Lastly, people are falling violently ill in [[Potidaia]] village. I suspect the Order.''\n(Asked \"What is happening in the wetlands?\")\n*'''Kassandra:''' ''Your contact in the wetlands. Any idea what happened to her?''\n*'''Natakas:''' ''I sent her to spy on an Order lieutenant there. He commands the local [[Sparta]]n troops in the area. I fear what he might have done to her. We need to save her and see if we can get more information on the Huntsman.''\n(Asked \"What more can you tell me about the village?\")\n*'''Kassandra:''' ''I need to know more about the situation in the village.''\n*'''Natakas:''' ''The locals are very ill, and the Order must be behind it. The Magistrate is taking charge of the situation, but I'm doubtful of his intentions.''\n(Asked \"Where can I find Darius?\")\n*'''Kassandra:''' ''You told Darius about an Order recruiter. Where can I find your father? He might have learned something new.''\n*'''Natakas:''' ''The Recruiter has been holding meetings around the farms in Makedonia. There's one near the hideout.''\n(Leave \u2013 \"I have enough to go on.\")\n*'''Kassandra:''' ''I'll investigate these leads so that we can find the Huntsman. ''Chaire,'' Natakas.''\nAs Kassandra traveled away from the Rock Arch, she pondered their latest endeavor.\n*'''Kassandra:''' ''Finding information on the Huntsman. How hard could this be?''",
+    "Section_Outcome": "Kassandra was given a number of clues by Natakas to start her hunt for the Order of Hunters.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[Legacy of the First Blade: Hunted]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Legacy of the First Blade",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra spoke to [[Natakas]], who was concerned about his father's plan to deal with the [[Order of Hunters]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Natakas:''' ''That stubborn [[Darius|old man]]. He left to look for the [[Pactyas (Ancients)|Huntsman]] on his own. What's he thinking? He keeps saying \"I work alone,\" but if he keeps this up, he'll die alone too. He needs my help, our help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|Darius will be fine by himself.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Fathers always think they know best.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Natakas:''' ''You've seen his scars. They come faster as he gets older. We've got to help him look for the Huntsman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|Darius will be in danger working alone.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''The Order are dangerous. We both know he'll be in trouble alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Natakas:''' ''If this was twenty years ago, I wouldn't have to worry. But you've seen his scars. He's all I have left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "11",
+            "content": "Natakas briefly gazed into the distance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Natakas:''' ''He needs our help to stop the Huntsman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''So what's next?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Natakas:''' ''My father is following up on his leads, but I have leads of my own. The Huntsman has lieutenants doing his will while he remains hidden. We have to find them and get them to reveal his whereabouts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "18",
+            "content": "|-|I'll make the Huntsman's lieutenants talk.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Point my spear in the right direction and I'll make them squeal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "20",
+            "content": "|-|We'll find the Huntsman together.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'm sure we'll find a way to figure out where the Huntsman is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "22",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Natakas:''' ''One of the Huntsman's lieutenants is a recruiter. He rallies locals to his death squad to hunt you down. You should know, I shared this lead with my father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra nodded in affirmation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Natakas:''' ''I also have a contact who was supposed to spy on [[Order of the Ancients|Order]] activity, but she was last seen in the wetlands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I'll look for her there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Natakas:''' ''Lastly, people are falling violently ill in [[Potidaia]] village. I suspect the Order.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "28",
+            "content": "(Asked \"What is happening in the wetlands?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Your contact in the wetlands. Any idea what happened to her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Natakas:''' ''I sent her to spy on an Order lieutenant there. He commands the local [[Sparta]]n troops in the area. I fear what he might have done to her. We need to save her and see if we can get more information on the Huntsman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "31",
+            "content": "(Asked \"What more can you tell me about the village?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''I need to know more about the situation in the village.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Natakas:''' ''The locals are very ill, and the Order must be behind it. The Magistrate is taking charge of the situation, but I'm doubtful of his intentions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "34",
+            "content": "(Asked \"Where can I find Darius?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''You told Darius about an Order recruiter. Where can I find your father? He might have learned something new.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Natakas:''' ''The Recruiter has been holding meetings around the farms in Makedonia. There's one near the hideout.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "37",
+            "content": "(Leave \u2013 \"I have enough to go on.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I'll investigate these leads so that we can find the Huntsman. ''Chaire,'' Natakas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "39",
+            "content": "As Kassandra traveled away from the Rock Arch, she pondered their latest endeavor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Finding information on the Huntsman. How hard could this be?''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

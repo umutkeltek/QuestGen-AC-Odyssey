@@ -1,0 +1,859 @@
+{
+    "Quest_Name": "Family Values (Samos)",
+    "Quest_ID": "233149",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory of Kassandra on Samos | the [[Family Values (Lokris) | genetic memory]] of Kassandra in Lokris"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Herodotos knew it was either Theodoros (Samian)|Theodoros or Mestor (Samian)|Mestor who was responsible for the Followers of Ares and the death of his parents. With Kassandra's input, it was time to accuse the culprit.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Followers of Truth",
+        "next": "Defense of Samos",
+        "source": "Kassandra",
+        "location": "Samos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Family Values''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]] and a memory of Layla herself.",
+    "Section_Description": "[[Herodotos]] and Kassandra hurried to either confront [[Theodoros (Samian)|Theodoros]] or warn him about [[Mestor (Samian)|Mestor]]'s betrayal.",
+    "Section_Dialogue": "Kassandra and Herodotos exit the [[Akousmatikoi Cave|cave]] in order to talk to Theodoros.\n\n*'''Herodotos:''' ''I don't understand why he'd do this.''\n*'''Kassandra:''' ''Drachmae can be a powerful motivator. As can the promise of power.''\n*'''Herodotos:''' ''But... he already had both of those.''\n*'''Kassandra:''' ''I know you want to understand it all, but we don't always get the answers we seek.''\n\nOnce they reached Theodoros' house, they found him writing a poem.\n\n<tabber>\n|-|(If Theodoros was accused)=\n*'''Theodoros:''' ''It's as if you've forgotten that you no longer live here, Herodotos.''\n*'''Herodotos:''' ''We know what you did!''\n*'''Kassandra:''' ''We found the cave where the [[Followers of Ares]] were hiding.''\n*'''Herodotos:''' ''Why are you working for the Persians? The people of [[Samos]] don't deserve to be subjected to the same things we were. Or do you not remember why we left in the first place?''\n*'''Theodoros:''' ''How dare you! Everything I've done has been for the good of Samos! I wished to free Samos from this [[Peloponnesian War|war]], but for you to accuse me of handing it to the Persians...''\n*'''Herodotos:''' ''Did you order them to kill our parents, or was it a mistake on their part?''\n*'''Theodoros:''' ''I... You should have never come back here!''\n\n|-|(If Mestor was accused)=\n*'''Theodoros:''' ''Why have you not left already?''\n*'''Herodotos:''' ''That's enough! Put away your disdain for me for one moment and listen. We found where the Followers of Ares were hiding. And we know who they're working for.''\n*'''Theodoros:''' ''And who is that?''\n*'''Herodotos:''' ''Mestor. He's in league with the Persians to take over Samos.''\n*'''Theodoros:''' ''That can't be... We aimed to free Samos from control of this war, but we never spoke of giving it to the Persians.''\n*'''Kassandra:''' ''Then he kept that part from you.''\n*'''Theodoros:''' ''I... I'll find out on my own!''\n\n</tabber>\nTheodoros walked out, quickly followed by Herodotos.\n\n*'''Herodotos:''' ''Theodoros...''\n\nHerodotos stopped chasing him as Kassandra walked up to him.\n\n<tabber>\n|-|Focus, Herodotos.=\n*'''Kassandra:''' ''I know you care deeply for your brother, but this isn't finished.''\n\n|-|That was hard.=\n*'''Kassandra:''' ''I know that wasn't easy for you, but it's not over yet.''\n\n</tabber>\n\n*'''Herodotos:''' ''We tasked ourselves with protecting Samos, and it's not yet safe. We need to go after him.''\n*'''Kassandra:''' ''Where to?''\n*'''Herodotos:''' ''To find Mestor. And Theodoros too.''\n\nThey were quickly attacked by bandits.\n\n<tabber>\n|-|(If Theodoros was accused)=\n*'''Kassandra:''' ''There's no way Theodoros could have ordered these troops to attack us.''\n\nAfter taking care of their attackers.\n\n*'''Herodotos:''' ''It wasn't him after all...''\n*'''Kassandra:''' ''We need to find Mestor.''\n*'''Herodotos:''' ''On the east side of the island, there's a [[Pirate Coast|hidden cove]] where ships can dock unseen. Let's go.''\n\n|-|(If Mestor was accused)=\n*'''Kassandra:''' ''I guess Mestor knows we're onto him. Where's Theodoros?''\n\nAfter taking care of their attackers.\n\n*'''Herodotos:''' ''He likely went after Mestor himself.''\n*'''Kassandra:''' ''Where would he be?''\n*'''Herodotos:''' ''There's a small cove on the east side of the island where can dock unseen. We should look there.''\n\n</tabber>\nArriving at the camp, they found Theodoros tied up. She quickly defeated the bandits and freed him.\n\n*'''Kassandra:''' ''Stay close. I'll get you out of here.''\n*'''Theodoros:''' ''Lead the way.''\n\nThey reunited with Herodotos.\n\n*'''Kassandra:''' ''You should be safe now. Where's Mestor?''\n*'''Theodoros:''' ''After he ordered me locked up, he left... seemed impatient.''\n*'''Herodotos:''' ''Theodoros...''\n\n<tabber>\n|-|(If Theodoros was accused)=\n*'''Theodoros:''' ''Not another word from you.''\n*'''Herodotos:''' ''I was wrong I'm sorry!''\n*'''Theodoros:''' ''Once you've dealt with Mestor, you need to leave for good. Samos won't need you any longer. And neither will I.''\n\n|-|(If Mestor was accused)=\n*'''Theodoros:''' ''It seems you were right. I thought Mestor and I wanted the same thing, but he was just using me.''\n*'''Herodotos:''' ''It hurts he did this, I know.''\n*'''Theodoros:''' ''I've treated you terribly. You just remind me of everything I didn't get to do. And of the past... But you didn't deserve it.''\n*'''Herodotos:''' ''Samos should thank the gods they have someone like you fighting for them.''\n*'''Theodoros:''' ''They'll know of all you did here. We may have lost one brother today, but we found each other again.''\n\n</tabber>\nIt was time to confront Mestor.\n\n*'''Kassandra:''' ''You know what needs to be done now, right?''\n*'''Herodotos:''' ''Unfortunately, I do.''\n*'''Kassandra:''' ''You cam stay behind if you want. I can do it myself.''\n*'''Herodotos:''' ''No, I need to see him. I need to know why he did this.''\n\nThey found Mestor nearby, and he was quick to attack them. But a few hits from Kassandra put him down. She threw him towards the cliff's edge, where he slowly got back up.\n\n*'''Mestor:''' ''OK, OK. You got me.''\n*'''Herodotos:''' ''How could you do this? After everything our family did for you! They took you in and you had them killed.''\n*'''Mestor:''' ''That...was an unfortunate accident. I promise you, I weep for their deaths every day.''\n*'''Herodotos:''' ''I can't trust anything you say.''\n\n(If players choose \"How could you betray Samos?\")\n\n*'''Kassandra:''' ''You betrayed Samos. Your family. You-''\n*'''Mestor:''' ''Not everything is black and white. Sometimes, people need others to make the best decision for them. And they're giving me Samos to rule.''\n\n(If players choose \"What are the Persians planning?\")\n\n*'''Kassandra:''' ''Tell me what the Persians are planning.''\n*'''Mestor:''' ''Samos would make for a good stronghold, don't you think?''\n\n(If players choose \"Why did you need Theodoros?\")\n\n*'''Kassandra:''' ''Why trick Theodoros into helping you?''\n*'''Mestor:''' ''Allies are hard to come by, and Theodoros was more than willing.''\n\n(If players choose \"You've lost, Mestor.\")\n\n*'''Kassandra:''' ''It doesn't matter now. The Followers of Ares working for you are dead.''\n*'''Herodotos:''' ''Everyone will know of what you did here. I'll make sure of it.''\n*'''Mestor:''' ''Oh, I hope you do. I've always wanted my name to be remembered. However, you may not want to start writing just yet.''\n*'''Herodotos:'''  ''What do you mean?''\n*'''Mestor:''' ''The ships are already on their way.''\n\nHe gestured to a fleet of Persian ships closing in on the island. Angry, Kassandra grabbed him by the throat, and held the spear at the ready.\n\n*'''Herodotos:''' ''Let him go. We need to stop the ships! I'll meet you there.''\n\nWith a bigger threat looming, she let him go. He quickly vanished as Kassandra went to deal with the ships.",
+    "Section_Outcome": "Kassandra protected [[Herodotos]] and rescued Theodoros from the bandits at [[Pirate Coast]]. She then confronted Mestor.",
+    "Section_Trivia": "*The objectives and conversations differ depending on which of the brothers, [[Theodoros (Samian)|Theodoros]] or [[Mestor (Samian)|Mestor]], was accused during [[Followers of Truth]].\n**If Kassandra rightly accused Mestor, Herodotos and Theodoros patch up.\n**If Kassandra wrongly accused Theodoros, he told Herodotos to leave after everything is done.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Every Story Has an Ending",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra and Herodotos exit the [[Akousmatikoi Cave|cave]] in order to talk to Theodoros.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Herodotos:''' ''I don't understand why he'd do this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Drachmae can be a powerful motivator. As can the promise of power.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Herodotos:''' ''But... he already had both of those.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I know you want to understand it all, but we don't always get the answers we seek.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "Once they reached Theodoros' house, they found him writing a poem.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|(If Theodoros was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Theodoros:''' ''It's as if you've forgotten that you no longer live here, Herodotos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Herodotos:''' ''We know what you did!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''We found the cave where the [[Followers of Ares]] were hiding.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Herodotos:''' ''Why are you working for the Persians? The people of [[Samos]] don't deserve to be subjected to the same things we were. Or do you not remember why we left in the first place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Theodoros:''' ''How dare you! Everything I've done has been for the good of Samos! I wished to free Samos from this [[Peloponnesian War|war]], but for you to accuse me of handing it to the Persians...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Herodotos:''' ''Did you order them to kill our parents, or was it a mistake on their part?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Theodoros:''' ''I... You should have never come back here!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|(If Mestor was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Theodoros:''' ''Why have you not left already?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Herodotos:''' ''That's enough! Put away your disdain for me for one moment and listen. We found where the Followers of Ares were hiding. And we know who they're working for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Theodoros:''' ''And who is that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Herodotos:''' ''Mestor. He's in league with the Persians to take over Samos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Theodoros:''' ''That can't be... We aimed to free Samos from control of this war, but we never spoke of giving it to the Persians.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Then he kept that part from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Theodoros:''' ''I... I'll find out on my own!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE1",
+            "global_id": "29",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N3",
+            "global_id": "30",
+            "content": "Theodoros walked out, quickly followed by Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "31",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Herodotos:''' ''Theodoros...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "Herodotos stopped chasing him as Kassandra walked up to him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U8",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "36",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "37",
+            "content": "|-|Focus, Herodotos.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I know you care deeply for your brother, but this isn't finished.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "40",
+            "content": "|-|That was hard.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I know that wasn't easy for you, but it's not over yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U10",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE2",
+            "global_id": "43",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U11",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D22",
+            "global_id": "45",
+            "content": "*'''Herodotos:''' ''We tasked ourselves with protecting Samos, and it's not yet safe. We need to go after him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Where to?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "47",
+            "content": "*'''Herodotos:''' ''To find Mestor. And Theodoros too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U12",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "49",
+            "content": "They were quickly attacked by bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U13",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "51",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "52",
+            "content": "|-|(If Theodoros was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''There's no way Theodoros could have ordered these troops to attack us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U14",
+            "global_id": "54",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "55",
+            "content": "After taking care of their attackers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U15",
+            "global_id": "56",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D26",
+            "global_id": "57",
+            "content": "*'''Herodotos:''' ''It wasn't him after all...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''We need to find Mestor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "59",
+            "content": "*'''Herodotos:''' ''On the east side of the island, there's a [[Pirate Coast|hidden cove]] where ships can dock unseen. Let's go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U16",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC6",
+            "global_id": "61",
+            "content": "|-|(If Mestor was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''I guess Mestor knows we're onto him. Where's Theodoros?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "63",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "64",
+            "content": "After taking care of their attackers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U18",
+            "global_id": "65",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D30",
+            "global_id": "66",
+            "content": "*'''Herodotos:''' ''He likely went after Mestor himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Where would he be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "68",
+            "content": "*'''Herodotos:''' ''There's a small cove on the east side of the island where can dock unseen. We should look there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "69",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE3",
+            "global_id": "70",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N8",
+            "global_id": "71",
+            "content": "Arriving at the camp, they found Theodoros tied up. She quickly defeated the bandits and freed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U20",
+            "global_id": "72",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D33",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Stay close. I'll get you out of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "74",
+            "content": "*'''Theodoros:''' ''Lead the way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "75",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N9",
+            "global_id": "76",
+            "content": "They reunited with Herodotos.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "77",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D35",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''You should be safe now. Where's Mestor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "79",
+            "content": "*'''Theodoros:''' ''After he ordered me locked up, he left... seemed impatient.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "80",
+            "content": "*'''Herodotos:''' ''Theodoros...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U23",
+            "global_id": "81",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS4",
+            "global_id": "82",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "83",
+            "content": "|-|(If Theodoros was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D38",
+            "global_id": "84",
+            "content": "*'''Theodoros:''' ''Not another word from you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "85",
+            "content": "*'''Herodotos:''' ''I was wrong I'm sorry!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "86",
+            "content": "*'''Theodoros:''' ''Once you've dealt with Mestor, you need to leave for good. Samos won't need you any longer. And neither will I.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U24",
+            "global_id": "87",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC8",
+            "global_id": "88",
+            "content": "|-|(If Mestor was accused)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "89",
+            "content": "*'''Theodoros:''' ''It seems you were right. I thought Mestor and I wanted the same thing, but he was just using me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "90",
+            "content": "*'''Herodotos:''' ''It hurts he did this, I know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "91",
+            "content": "*'''Theodoros:''' ''I've treated you terribly. You just remind me of everything I didn't get to do. And of the past... But you didn't deserve it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "92",
+            "content": "*'''Herodotos:''' ''Samos should thank the gods they have someone like you fighting for them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "93",
+            "content": "*'''Theodoros:''' ''They'll know of all you did here. We may have lost one brother today, but we found each other again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U25",
+            "global_id": "94",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TE4",
+            "global_id": "95",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N10",
+            "global_id": "96",
+            "content": "It was time to confront Mestor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U26",
+            "global_id": "97",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D46",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''You know what needs to be done now, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "99",
+            "content": "*'''Herodotos:''' ''Unfortunately, I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''You cam stay behind if you want. I can do it myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "101",
+            "content": "*'''Herodotos:''' ''No, I need to see him. I need to know why he did this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U27",
+            "global_id": "102",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "103",
+            "content": "They found Mestor nearby, and he was quick to attack them. But a few hits from Kassandra put him down. She threw him towards the cliff's edge, where he slowly got back up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U28",
+            "global_id": "104",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D50",
+            "global_id": "105",
+            "content": "*'''Mestor:''' ''OK, OK. You got me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "106",
+            "content": "*'''Herodotos:''' ''How could you do this? After everything our family did for you! They took you in and you had them killed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "107",
+            "content": "*'''Mestor:''' ''That...was an unfortunate accident. I promise you, I weep for their deaths every day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "108",
+            "content": "*'''Herodotos:''' ''I can't trust anything you say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U29",
+            "global_id": "109",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "110",
+            "content": "(If players choose \"How could you betray Samos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U30",
+            "global_id": "111",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D54",
+            "global_id": "112",
+            "content": "*'''Kassandra:''' ''You betrayed Samos. Your family. You-''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "113",
+            "content": "*'''Mestor:''' ''Not everything is black and white. Sometimes, people need others to make the best decision for them. And they're giving me Samos to rule.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U31",
+            "global_id": "114",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "115",
+            "content": "(If players choose \"What are the Persians planning?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U32",
+            "global_id": "116",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D56",
+            "global_id": "117",
+            "content": "*'''Kassandra:''' ''Tell me what the Persians are planning.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "118",
+            "content": "*'''Mestor:''' ''Samos would make for a good stronghold, don't you think?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U33",
+            "global_id": "119",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "120",
+            "content": "(If players choose \"Why did you need Theodoros?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U34",
+            "global_id": "121",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D58",
+            "global_id": "122",
+            "content": "*'''Kassandra:''' ''Why trick Theodoros into helping you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "123",
+            "content": "*'''Mestor:''' ''Allies are hard to come by, and Theodoros was more than willing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U35",
+            "global_id": "124",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C4",
+            "global_id": "125",
+            "content": "(If players choose \"You've lost, Mestor.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U36",
+            "global_id": "126",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D60",
+            "global_id": "127",
+            "content": "*'''Kassandra:''' ''It doesn't matter now. The Followers of Ares working for you are dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "128",
+            "content": "*'''Herodotos:''' ''Everyone will know of what you did here. I'll make sure of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "129",
+            "content": "*'''Mestor:''' ''Oh, I hope you do. I've always wanted my name to be remembered. However, you may not want to start writing just yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "130",
+            "content": "*'''Herodotos:'''  ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "131",
+            "content": "*'''Mestor:''' ''The ships are already on their way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U37",
+            "global_id": "132",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "133",
+            "content": "He gestured to a fleet of Persian ships closing in on the island. Angry, Kassandra grabbed him by the throat, and held the spear at the ready.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U38",
+            "global_id": "134",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D65",
+            "global_id": "135",
+            "content": "*'''Herodotos:''' ''Let him go. We need to stop the ships! I'll meet you there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U39",
+            "global_id": "136",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "137",
+            "content": "With a bigger threat looming, she let him go. He quickly vanished as Kassandra went to deal with the ships.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

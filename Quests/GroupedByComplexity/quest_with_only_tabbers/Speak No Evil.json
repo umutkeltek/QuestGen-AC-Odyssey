@@ -1,0 +1,530 @@
+{
+    "Quest_Name": "Speak No Evil",
+    "Quest_ID": "223658",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "The Priests of Asklepios",
+        "next": "Ashes to Ashes (Odyssey)|Ashes to Ashes\nA Herald of Murder",
+        "image": "Speak_No_Evil_-_Assassin's_Creed_Odyssey.png",
+        "description": "'Kassandra's visit to Sanctuary of Asklepios|the sanctuary was like walking in Myrrine|her mother's footsteps. The Priests of Asklepios|priests were helpful, but Mydon|the man she needed to speak to the most was the man who could not speak at all.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "source": "Kassandra",
+        "location": "Argolis, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Speak No Evil''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Having learned what she needed from the [[Priests of Asklepios|priests]], Kassandra sought out [[Mydon]], who had key information about her [[Myrrine|mother]].",
+    "Section_Dialogue": "Now knowing Mydon's location thanks to the priests of [[Asklepios]], Kassandra made her way to the [[Guesthouse, Argolis|guesthouse]] in order to interrogate him. Once she had dealt with the [[guard]]s, Kassandra discovered the elder priest embracing a [[Slavery|slave]] girl.\n*'''Slave:''' ''Guards!''\n*'''Kassandra:''' ''They're dead. And you must be Mydon.''\n*'''Slave:''' ''He doesn't speak.''\n*'''Kassandra:''' ''So I've heard. I'm here to find out why.''\n*'''Slave:''' ''[[Chrysis]] did this to him.''\nMydon groaned.\n*'''Kassandra:''' ''I thought he did this to himself.''\n*'''Slave:''' ''To prove his loyalty to her!''\n[[File:ACOD_Speak_No_Evil_-_Kassandra_Questioned_Mydon.png|thumb|250px|Kassandra questioning Mydon]]\n*'''Kassandra:''' ''Now why would Chrysis want an elder priest to cut out his tongue?''\n*'''Slave:''' ''Mydon is a caring, generous man!''\n*'''Kassandra:''' ''I want answers from him, not you. Tell me about the [[Sparta]]n woman and her [[Alexios|baby]].''\n*'''Slave:''' ''He can only answer yes or no.''\n(If players choose \"Was the woman's name Myrrine?\")\n*'''Kassandra:''' ''The Spartan woman, was her name Myrrine?''\nMydon nodded.\n(If players choose \"Was the baby hers?\")\n*'''Kassandra:''' ''They said she had a baby with her.''\nMydon nodded.\n*'''Kassandra:''' ''Was it hers?''\nMydon nodded again.\n*'''Slave:''' ''The baby was close to death when they arrived. Mydon prayed for its life!''\n(If players choose \"You saved the baby?\")\n*'''Kassandra:''' ''You saved the child?''\nMydon shook his head.\n*'''Kassandra:''' ''No?''\n*'''Slave:''' ''He did everything he could, but the baby was badly wounded.''\n(If players choose \"Did Myrrine say where she was going?\")\n*'''Kassandra:''' ''Did she tell you where she was going?''\nMydon shook his head.\n(If players choose \"Is this girl your servant?\")\n*'''Kassandra:''' ''Do all sanctuary priests take their servants to bed?''\n[[File:ACOD_Speak_No_Evil_-_Slave_Revealing_The_Truth.png|thumb|250px|The slave revealing the truth]]\n*'''Slave:''' ''I am not his servant! We share a sacred bond!''\n*'''Kassandra:''' '' ''Sacred''. Right.''\n(I know why you cut out your tongue.)\n*'''Kassandra:''' ''I know why Chrysis made you cut out your tongue. The night my ''mater'' brought my brother here, you and your priests left him for dead. And Chrysis didn't like you telling the story.''\n*'''Slave:''' ''That's not what happened!''\n*'''Kassandra:''' ''What do you know? You're too young to have been there.''\n*'''Slave:''' ''He told me the story many times before that witch stole his voice. He tried to save the baby! Did everything he could.''\n[[File:ACOD_Speak_No_Evil_-_Myrrine_Pleading_Mydon.png|thumb|250px|Myrrine pleading Mydon]]\nThe slave recounted the story. On a stormy night, Myrrine and Mydon argued.\n*'''Myrrine:''' ''I don't believe you! Dead? How can my baby be dead?''\n*'''Mydon:''' ''I don't know what to tell you! You were lucky he survived as long as he did. That\u2014that fall was devastating.''\n*'''Myrrine:''' ''My baby... My baby...''\n*'''Mydon:''' ''Listen, there's nothing we can do for you anymore. You'd best be on your way. Praise [[Hera]].''\nGrief-struck, Myrrine fell to the ground, wailing.\n*'''Myrrine:''' ''They're gone. They're both gone...''\nThe slave continued to defend Mydon.\n*'''Slave:''' ''He wept for that Spartan woman, so far from home. Her baby barely recognizable, hardly breathing.''\n\n<tabber>\n|-|Shut up.=\n*'''Kassandra:''' ''Chrysis should have had ''your'' tongue cut out! I want answers from someone who was actually there that night.''\n|-|Tell me what happened.=\n*'''Kassandra:''' ''Tell me, please. I need to know.''\n*'''Slave:''' ''Not even [[Apollo]] could save the child. Mydon told me how the Spartan woman wept. Held the baby in her arms, sang to him, before finally leaving him to the gods.''\n</tabber>\nKassandra put the pieces together and figured out her brother's ultimate fate.\n*'''Kassandra:''' ''Chrysis took the baby, didn't she? And she made you cut out your tongue to hide the truth.''\nShe turned her gaze back to the slave.\n*'''Kassandra:''' ''Where is Chrysis?''\n\n<tabber>\n|-|If The Doctor Will See You Now was not completed=\nBoth the slave and the priest rubbed their necks indecisively and avoided Kassandra's gaze. They did not yield the information Kassandra sought.\n*'''Kassandra:''' ''I see. Chrysis possesses every tongue around here. I'll find her on my own then, and cut out a lot more.''\nKassandra was forced to return to her errand for [[Hippokrates]], as her trip to the sanctuary had been fruitless.\n|-|The Doctor Will See You Now was completed=\n(If Kassandra told the slave to shut up earlier)\n*'''Slave:''' ''So ''now'' you want to hear what I have to say?''\n*'''Kassandra:''' ''Don't test me. Speak!''\n(Otherwise)<br />\nThe slave yielded the information Kassandra sought.\n*'''Slave:''' ''There is an [[Altar of Apollo Maleatas|altar]] where people offer their sick babies to be healed. This is where she took the child. Find it near the statue of Apollo Maleatas, and you'll find Chrysis.''\n*'''Kassandra:''' ''People come to this sanctuary to heal\u2014but I come here and find people dying without hope, priests without tongues, and babies left with an insane woman.''\n[[File:ACOD_Speak_No_Evil_-_Mydon_Apologizing.png|thumb|250px|Mydon apologizing to Kassandra]]\nMydon folded his hands and tried to plead something, but he was unintelligible.\n*'''Kassandra:''' ''My mother was a fool to trust any of you. I'm going to find Chrysis, and she's going to pay for what she's done.''\nKassandra stormed out.\n*'''Kassandra:''' ''So Chrysis is the key to finding my ''mater''. I must find this Altar of Apollo Maleatas.''\n</tabber>",
+    "Section_Outcome": "Through Mydon, Kassandra was able to learn of Chrysis' identity as the person responsible for saving Kassandra's younger brother without her mother's knowledge.",
+    "Section_Trivia": "*If [[The Doctor Will See You Now]] was completed prior to this conversation, Mydon's servant will divulge Chrysis' location. Otherwise, they will both rub their necks indecisively and the player character storms out, forcing the player to finish helping [[Hippokrates]]. No explanation (other than convenient game programming) is given for why the servant is helpful after that quest's completion and hesitant before it.\n*When the slave calls for the guards, Kassandra tells her they are dead, even if the player managed to avoid killing any of them.\n*The name of this quest is a reference to the {{Wiki|three wise monkeys}}, and the proverb: \"see no evil, hear no evil, speak no evil\".",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Ne pas dire le mal]]",
+    "Chapter_SequenceID": "10.",
+    "Chapter_Name": "A Prescription for Discovery",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Now knowing Mydon's location thanks to the priests of [[Asklepios]], Kassandra made her way to the [[Guesthouse, Argolis|guesthouse]] in order to interrogate him. Once she had dealt with the [[guard]]s, Kassandra discovered the elder priest embracing a [[Slavery|slave]] girl.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Slave:''' ''Guards!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''They're dead. And you must be Mydon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Slave:''' ''He doesn't speak.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''So I've heard. I'm here to find out why.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Slave:''' ''[[Chrysis]] did this to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "7",
+            "content": "Mydon groaned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I thought he did this to himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Slave:''' ''To prove his loyalty to her!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "10",
+            "content": "[[File:ACOD_Speak_No_Evil_-_Kassandra_Questioned_Mydon.png|thumb|250px|Kassandra questioning Mydon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Now why would Chrysis want an elder priest to cut out his tongue?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Slave:''' ''Mydon is a caring, generous man!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I want answers from him, not you. Tell me about the [[Sparta]]n woman and her [[Alexios|baby]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Slave:''' ''He can only answer yes or no.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "15",
+            "content": "(If players choose \"Was the woman's name Myrrine?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''The Spartan woman, was her name Myrrine?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "17",
+            "content": "Mydon nodded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C2",
+            "global_id": "18",
+            "content": "(If players choose \"Was the baby hers?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''They said she had a baby with her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Mydon nodded.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Was it hers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "22",
+            "content": "Mydon nodded again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Slave:''' ''The baby was close to death when they arrived. Mydon prayed for its life!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "24",
+            "content": "(If players choose \"You saved the baby?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''You saved the child?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "26",
+            "content": "Mydon shook his head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''No?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Slave:''' ''He did everything he could, but the baby was badly wounded.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "29",
+            "content": "(If players choose \"Did Myrrine say where she was going?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Did she tell you where she was going?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "31",
+            "content": "Mydon shook his head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C5",
+            "global_id": "32",
+            "content": "(If players choose \"Is this girl your servant?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Do all sanctuary priests take their servants to bed?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "34",
+            "content": "[[File:ACOD_Speak_No_Evil_-_Slave_Revealing_The_Truth.png|thumb|250px|The slave revealing the truth]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Slave:''' ''I am not his servant! We share a sacred bond!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' '' ''Sacred''. Right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "37",
+            "content": "(I know why you cut out your tongue.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I know why Chrysis made you cut out your tongue. The night my ''mater'' brought my brother here, you and your priests left him for dead. And Chrysis didn't like you telling the story.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Slave:''' ''That's not what happened!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''What do you know? You're too young to have been there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Slave:''' ''He told me the story many times before that witch stole his voice. He tried to save the baby! Did everything he could.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "42",
+            "content": "[[File:ACOD_Speak_No_Evil_-_Myrrine_Pleading_Mydon.png|thumb|250px|Myrrine pleading Mydon]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N8",
+            "global_id": "43",
+            "content": "The slave recounted the story. On a stormy night, Myrrine and Mydon argued.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "44",
+            "content": "*'''Myrrine:''' ''I don't believe you! Dead? How can my baby be dead?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "45",
+            "content": "*'''Mydon:''' ''I don't know what to tell you! You were lucky he survived as long as he did. That\u2014that fall was devastating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "46",
+            "content": "*'''Myrrine:''' ''My baby... My baby...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "47",
+            "content": "*'''Mydon:''' ''Listen, there's nothing we can do for you anymore. You'd best be on your way. Praise [[Hera]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "48",
+            "content": "Grief-struck, Myrrine fell to the ground, wailing.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "49",
+            "content": "*'''Myrrine:''' ''They're gone. They're both gone...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "50",
+            "content": "The slave continued to defend Mydon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "51",
+            "content": "*'''Slave:''' ''He wept for that Spartan woman, so far from home. Her baby barely recognizable, hardly breathing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "52",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "53",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "54",
+            "content": "|-|Shut up.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Chrysis should have had ''your'' tongue cut out! I want answers from someone who was actually there that night.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "56",
+            "content": "|-|Tell me what happened.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Tell me, please. I need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "58",
+            "content": "*'''Slave:''' ''Not even [[Apollo]] could save the child. Mydon told me how the Spartan woman wept. Held the baby in her arms, sang to him, before finally leaving him to the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "59",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N11",
+            "global_id": "60",
+            "content": "Kassandra put the pieces together and figured out her brother's ultimate fate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Chrysis took the baby, didn't she? And she made you cut out your tongue to hide the truth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "62",
+            "content": "She turned her gaze back to the slave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Where is Chrysis?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "64",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "65",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "66",
+            "content": "|-|If The Doctor Will See You Now was not completed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N13",
+            "global_id": "67",
+            "content": "Both the slave and the priest rubbed their necks indecisively and avoided Kassandra's gaze. They did not yield the information Kassandra sought.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''I see. Chrysis possesses every tongue around here. I'll find her on my own then, and cut out a lot more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "69",
+            "content": "Kassandra was forced to return to her errand for [[Hippokrates]], as her trip to the sanctuary had been fruitless.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "70",
+            "content": "|-|The Doctor Will See You Now was completed=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O2",
+            "global_id": "71",
+            "content": "(If Kassandra told the slave to shut up earlier)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "72",
+            "content": "*'''Slave:''' ''So ''now'' you want to hear what I have to say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Don't test me. Speak!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "74",
+            "content": "(Otherwise)<br />",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "N15",
+            "global_id": "75",
+            "content": "The slave yielded the information Kassandra sought.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "76",
+            "content": "*'''Slave:''' ''There is an [[Altar of Apollo Maleatas|altar]] where people offer their sick babies to be healed. This is where she took the child. Find it near the statue of Apollo Maleatas, and you'll find Chrysis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''People come to this sanctuary to heal\u2014but I come here and find people dying without hope, priests without tongues, and babies left with an insane woman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "78",
+            "content": "[[File:ACOD_Speak_No_Evil_-_Mydon_Apologizing.png|thumb|250px|Mydon apologizing to Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N16",
+            "global_id": "79",
+            "content": "Mydon folded his hands and tried to plead something, but he was unintelligible.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D43",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''My mother was a fool to trust any of you. I'm going to find Chrysis, and she's going to pay for what she's done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "81",
+            "content": "Kassandra stormed out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''So Chrysis is the key to finding my ''mater''. I must find this Altar of Apollo Maleatas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "83",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

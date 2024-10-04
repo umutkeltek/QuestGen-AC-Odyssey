@@ -1,0 +1,270 @@
+{
+    "Quest_Name": "Ambition",
+    "Quest_ID": "224237",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Ambition.png",
+        "description": "'General Lysander wanted the Athens|Athenian Fort Polemarchs dead and their military seals as proof, for it was on those blood-stained marks that he would rise to power.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Lysander}}",
+        "next": "Only Fools Want War",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Ambition''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "[[Lysander]], a [[Sparta]]n [[Spartan army|general]], had a plan how to win the [[Peloponnesian War|war]]. To do this, he tasked Kassandra to weaken the [[Athens|Athenians]] by killing the ''[[polemarch]]oi'' of three [[fort]]s.",
+    "Section_Dialogue": "Kassandra noticed a Spartan commander at the foot of [[Leonidas I of Sparta|Leonidas]]' statue atop his [[Tomb of Leonidas|tomb]], lecturing\u00a0his [[soldier]]s.\n*'''Lysander:''' ''We'll not be outmaneuvered by the Athenians the way the [[Iran|Persians]] [[Battle of Thermopylae|did]] to Leonidas.''\n\nKassandra approached him.\n*'''Lysander:''' ''You're not one of my soldiers. You better have a good reason for being here.''\n<tabber>\n|-|I don't need a reason.=\n*'''Kassandra:''' ''I don't need a reason, good or otherwise.''\nLysander laughed.\n*'''Lysander:''' ''Ah. Some bite to you, is there?''\n*'''Kassandra:''' ''More than some cowering [[dog]].''\nLysander guffawed.\n|-|We Spartans stick together.=\n*'''Kassandra:''' ''We Spartans stand together. So here I am.''\nLysander loosened up.\n*'''Lysander:''' ''Yes. Spartan blood matters most.''\n*'''Kassandra:''' ''Looks like this victory will bring you glory.''\nLysander stood proudly.\n*'''Lysander:''' ''The rewards of skill and effort!''\n*'''Kassandra:''' ''It's the Spartan way.''\n</tabber>\nLysander paused briefly then spoke.\n*'''Lysander:''' ''From [[helot|slave]] to general, bathing in the blood of this war, while our leaders stuff their faces and preen.''\n*'''Kassandra:''' ''The polemarchs believe it's an easy victory.''\n*'''Lysander:''' ''I will end this war in my favor.''\n*'''Kassandra:''' ''You have a strategy?''\n*'''Lysander:''' ''Athenian polemarchs are paralyzed with indecision. They serve too many masters.''\n*'''Kassandra:\u00a0''' ''Making them slow to react.''\n*'''Lysander:\u00a0''' ''And that's where you come in. Infiltrate their forts and kill their polemarchs. I need the way clear for my troops.''\n(Accept \u2013 I'll kill the polemarchs)\n*'''Kassandra:\u00a0''' ''I'll do my part. Consider the commanders already dead.''\n*'''Lysander:\u00a0''' ''Bring me their Athenian seals as proof. You'll be rewarded for your efforts.''\nIn time, Kassandra eventually completed the task and returned to Lysander.\n*'''Lysander:\u00a0''' ''The blood of the enemy will show our leaders that my strategy is the right one.''\n*'''Kassandra:\u00a0''' ''These seals should help convince them.''\n*'''Lysander:\u00a0''' ''You've done well. Our troops are on the move.''\n*'''Kassandra:\u00a0''' ''They underestimate Spartans.''\n*'''Lysander:\u00a0''' ''They consider me much lower than a Spartan.''\n\n(Dialogue continues in the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander collect 3\u00a0''polemarch''\u00a0seals. In return, she obtained Lysander's own personal [[Lysander's Belt|belt]] and another task to retrieve 3 more seals.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n\n<!--Interwiki links-->\n[[fr:Ambition]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lysander",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a Spartan commander at the foot of [[Leonidas I of Sparta|Leonidas]]' statue atop his [[Tomb of Leonidas|tomb]], lecturing\u00a0his [[soldier]]s.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Lysander:''' ''We'll not be outmaneuvered by the Athenians the way the [[Iran|Persians]] [[Battle of Thermopylae|did]] to Leonidas.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "3",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Lysander:''' ''You're not one of my soldiers. You better have a good reason for being here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|I don't need a reason.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I don't need a reason, good or otherwise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Lysander laughed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Lysander:''' ''Ah. Some bite to you, is there?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''More than some cowering [[dog]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "12",
+            "content": "Lysander guffawed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "13",
+            "content": "|-|We Spartans stick together.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''We Spartans stand together. So here I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "15",
+            "content": "Lysander loosened up.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Lysander:''' ''Yes. Spartan blood matters most.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Looks like this victory will bring you glory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "18",
+            "content": "Lysander stood proudly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Lysander:''' ''The rewards of skill and effort!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It's the Spartan way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "21",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N7",
+            "global_id": "22",
+            "content": "Lysander paused briefly then spoke.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Lysander:''' ''From [[helot|slave]] to general, bathing in the blood of this war, while our leaders stuff their faces and preen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''The polemarchs believe it's an easy victory.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Lysander:''' ''I will end this war in my favor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''You have a strategy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Lysander:''' ''Athenian polemarchs are paralyzed with indecision. They serve too many masters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:\u00a0''' ''Making them slow to react.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Lysander:\u00a0''' ''And that's where you come in. Infiltrate their forts and kill their polemarchs. I need the way clear for my troops.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "30",
+            "content": "(Accept \u2013 I'll kill the polemarchs)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Kassandra:\u00a0''' ''I'll do my part. Consider the commanders already dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "32",
+            "content": "*'''Lysander:\u00a0''' ''Bring me their Athenian seals as proof. You'll be rewarded for your efforts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "33",
+            "content": "In time, Kassandra eventually completed the task and returned to Lysander.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Lysander:\u00a0''' ''The blood of the enemy will show our leaders that my strategy is the right one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Kassandra:\u00a0''' ''These seals should help convince them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Lysander:\u00a0''' ''You've done well. Our troops are on the move.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Kassandra:\u00a0''' ''They underestimate Spartans.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "38",
+            "content": "*'''Lysander:\u00a0''' ''They consider me much lower than a Spartan.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "40",
+            "content": "(Dialogue continues in the next quest.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

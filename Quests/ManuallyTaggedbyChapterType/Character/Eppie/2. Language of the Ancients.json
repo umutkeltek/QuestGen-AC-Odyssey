@@ -1,0 +1,36 @@
+{
+    "QuestName": "Language of the Ancients",
+    "QuestID": "225075",
+    "Revision": {
+        "id": "930611",
+        "parentid": "867693",
+        "timestamp": "2021-03-17T18:37:02Z",
+        "contributor": null,
+        "comment": "fr",
+        "origin": "930611",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "5eeciaszkgk8au86cn3l5kmidfpj5br"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Language of the Ancients.png",
+        "description": "'The rare Mycenaean stele was the keystone to unlock the ancient language etched into the tomb's walls. A most worthy discovery, indeed! Thus, Eppie set aside doubt and embraced adventure.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "A Life's Dedication",
+        "next": "Chasing Phantoms",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Language of the Ancients''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra followed [[Eppie]]'s clue to a [[Mycenae]]an stele.",
+    "Section_Dialogue": "Kassandra headed to [[Lake Kopais]], where the next stele was located. She dived underwater to the sunken [[Ruins of Arne]], finding a locked chest. She looted valuables scattered nearby, finding the key to the chest. She unlocked the chest, acquiring a wax tablet, a stele, and a pair of [[Rusty Mycenaean Gauntlets|gauntlets]]. She then resurfaced, returning to Eppie in the tomb within the [[Cave of the Oracle]].\n*'''Kassandra:''' ''Your clue was right. I found a part of the stele. Along with another piece 'of [[armor]].''\n*'''Eppie:''' ''There must be a piece of armor with each missing stele.''\n*'''Kassandra:''' ''But why?''\n*'''Eppie:''' ''This section here refers to a ritual.''\n*'''Kassandra:''' ''It doesn't explain why the armor was seperated and hidden with a stele piece.''\n*'''Eppie:''' ''Maybe that was part of the ritual? We need to find the other stele pieces. Are you ready?''\n(Accept \u2013 I'll go look.)\n*'''Kassandra:''' ''If we found these, then we'll find the other stele pieces too. I'll go look.''\n*'''Eppie:''' ''Even with the full keystone in place, some of the meaning may be lost on us.''\n*'''Kassandra:''' ''I have faith in you.''\nEppie looked at the writing again.\n*'''Eppie:''' ''Oh! You won't believe what this section says... \"Of the primordial gods...\" Primordial!''\n*'''Kassandra:''' ''That's interesting.''\n*'''Eppie:''' ''That's ancient.''\n*'''Kassandra:''' ''it could just be a prayer on behalf of the warrior.''\n*'''Eppie:''' ''That's what I thought, too. Until I read this part...''\nEppie pointed to another section of the writings.\n*'''Kassandra:''' ''There's more?''\n*'''Eppie:''' ''It mentions that the ritual will be activated.''\n*'''Kassandra:''' ''What ritual?''\n*'''Eppie:''' ''I have no idea. I'm presuming it means we need all of the steles in place before something happens.''\n*'''Kassandra:''' ''Do you have the location for the missing piece?''\n*'''Eppie:''' ''This text is hard to make sense of. It appears to be a warning. Be careful when you explore the [[Tomb of Orion]].''\n*'''Kassandra:''' ''I'll be careful.''\n(If players choose \"Why is the past important?\")\n*'''Kassandra:''' ''The {{Wiki|Greek Dark Ages|dark ages}} has had its time. Why look backward?''\n*'''Eppie:''' ''There is truth and insight in looking backward. Take [[Homer]] for example, he often spoke of our past in his stories.''\n*'''Kassandra:''' ''Hmm. So digging through dirt and cobwebbed words is your ambition?''\n*'''Eppie:''' ''My role is to breathe life into the ancients.''\n(If players choose \"What about your peers?\")\n*'''Kassandra:''' ''Do any of your peers support you in this?''\n*'''Eppie:''' ''None. My ways are too different for them.''\n*'''Kassandra:''' ''If you're right, you'll gain their respect after this.''\n(If players choose \"What if nothing happens?\")\n*'''Kassandra:''' ''Do you worry that your expectations are too high? It may be a dead end.''\n*'''Eppie:''' ''How can it? The clues have proven me right thus far. The stele mentions a ritual that once performed, will activate something.''\n*'''Kassandra:''' ''What does that have to do with primordial gods?''\n*'''Eppie:''' ''I have no idea. When we have all of the stele pieces. we'll know.''\n(If players choose \"Leave \u2013 Goodbye.\")\n*'''Kassandra:''' ''Time to go.''",
+    "Section_Outcome": "Kassandra helped Eppie to locate one of the steles and was tasked to find more.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La langue des Anciens]]"
+}

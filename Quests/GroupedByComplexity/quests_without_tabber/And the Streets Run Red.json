@@ -1,0 +1,265 @@
+{
+    "Quest_Name": "And the Streets Run Red",
+    "Quest_ID": "224134",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Abandoned By the Gods",
+        "next": "Athens's Last Hope",
+        "image": "Kassandra_kissing_Phoibe_farewell.png",
+        "description": "'Kassandra, concerned that Aspasia had sent Phoibe out on an errand in Athens' infected and dangerous streets, decided to go and find her friend herself.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "Autumn 429 BCE"
+    },
+    "General_Description": "'''And the Streets Run Red''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra set out to look for her friend [[Phoibe]], whom [[Aspasia]] had sent on an errand.",
+    "Section_Dialogue": "Kassandra made her way east of Perikles's villa in search of Phoibe. She sent [[Ikaros]] to scan from the skies for [[Anastasios]]' [[Anastasios' house|residence]], where Aspasia had sent Phoibe\n*'''Kassandra:''' ''This looks like the place.''\n[[File:Massacre at Anastasio's house.png|thumb|250px|A bloody room of corpses]]\nMaking her way into the house, she discovered a massacre.\n*'''Kassandra:''' ''By the gods. What happened here?''\nShe investigated the body to her left.\n*'''Kassandra:''' ''This was savage... Done to send a message.''\nShe inspected the bloody column to the right.\n*'''Kassandra:''' ''I'm glad Phoibe wasn't here. Hopefully she's safe.''\nShe inspected the body on the bed at the back of the room.\n*'''Kassandra:''' ''[[Alexios|Deimos]] must be carrying through on his threat.''\nShe left the house and saw [[Cult of Kosmos|Cult]] [[guard]]s chasing Phoibe into the [[Odeon of Perikles]]. Phoibe's scream rang out across the agora.\n*'''Kassandra:''' ''Phoibe! No!<br>Hey! Stop!''\nAs she entered the Odeon, she saw Cult guards standing over Phoibe, slumped against a nearby column.\n*'''Kassandra:''' ''Phoibe!''\n[[File:ACOD And the Streets Run Red - Kassandra Finding Phoibe.png|thumb|250px|Kassandra finding a deceased Phoibe]]\nKassandra killed the Cult guards and ran to Phoibe's side.\n*'''Kassandra:''' ''Phoibe! No, no, no, no, no. Ela, ela. (Come, come.)''\nPhoibe remained motionless. Tears filled Kassandra's eyes.\n*'''Kassandra:''' ''[[Earth]], [[Gaia (deity)|mother]] of all, I greet you.''\n[[File:ACOD And the Streets Run Red - Chara Toy.png|thumb|250px|Kassandra placing Chara in Phoibe's hands]]\nKassandra removed [[Chara]] from her pack and folded Phoibe's hands around it. She placed her hands on Phoibe's temples, kissed her head and rested her forehead against hers for a moment.\n*'''Kassandra:''' Aniazo. (I grieve/mourn)\nKassandra stood up. As she walked towards the exit, [[Hippokrates]] and [[Sokrates]] ran up to her.\n*'''Hippokrates:''' ''Kassandra!''\n*'''Hippokrates:''' ''Are you all right?''\n*'''Kassandra:''' ''I need to speak to Aspasia.''\n*'''Sokrates:''' ''We must find [[Perikles]] first. He's missing\u2014''\n[[File:Kassandra furious over Phoibe's death.png|thumb|250px|Kassandra enraged over Phoibe's death]]\nKassandra snapped, grabbing Hippokrates by the throat.\n*'''Kassandra:''' ''I don't fucking care! Tell me where Aspasia is!''\n*'''Hippokrates:''' ''Kassandra!''\nKassandra exhaled and released him.\n*'''Kassandra:''' ''I'm sorry... Phoibe.''\nHippokrates and Sokrates looked past her, and understood what had happened. They glanced at each other briefly before returning to Kassandra.\n*'''Hippokrates:''' ''Aspasia went to find Perikles at the [[Parthenon]]. She should be there.''\nKassandra turned around and walked out the back towards the Parthenon. Hippokrates glanced at Sokrates.\n*'''Hippokrates:''' ''I think we'd better go with her.''\n*'''Sokrates:''' ''I agree, my friend. I agree.''",
+    "Section_Outcome": "Despite Kassandra's best efforts to protect her, Phoibe perished at the hands of the Cult of Kosmos. She headed to the Parthenon to find Aspasia, with Hippokrates and Sokrates following close behind.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Et les rues virent au rouge]]",
+    "Chapter_SequenceID": "12.",
+    "Chapter_Name": "Rising from the Ashes",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way east of Perikles's villa in search of Phoibe. She sent [[Ikaros]] to scan from the skies for [[Anastasios]]' [[Anastasios' house|residence]], where Aspasia had sent Phoibe",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''This looks like the place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "3",
+            "content": "[[File:Massacre at Anastasio's house.png|thumb|250px|A bloody room of corpses]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "Making her way into the house, she discovered a massacre.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''By the gods. What happened here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "She investigated the body to her left.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''This was savage... Done to send a message.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "8",
+            "content": "She inspected the bloody column to the right.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'm glad Phoibe wasn't here. Hopefully she's safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "10",
+            "content": "She inspected the body on the bed at the back of the room.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''[[Alexios|Deimos]] must be carrying through on his threat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "12",
+            "content": "She left the house and saw [[Cult of Kosmos|Cult]] [[guard]]s chasing Phoibe into the [[Odeon of Perikles]]. Phoibe's scream rang out across the agora.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''Phoibe! No!<br>Hey! Stop!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "14",
+            "content": "As she entered the Odeon, she saw Cult guards standing over Phoibe, slumped against a nearby column.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Phoibe!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "16",
+            "content": "[[File:ACOD And the Streets Run Red - Kassandra Finding Phoibe.png|thumb|250px|Kassandra finding a deceased Phoibe]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N8",
+            "global_id": "17",
+            "content": "Kassandra killed the Cult guards and ran to Phoibe's side.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Phoibe! No, no, no, no, no. Ela, ela. (Come, come.)''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "19",
+            "content": "Phoibe remained motionless. Tears filled Kassandra's eyes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''[[Earth]], [[Gaia (deity)|mother]] of all, I greet you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "21",
+            "content": "[[File:ACOD And the Streets Run Red - Chara Toy.png|thumb|250px|Kassandra placing Chara in Phoibe's hands]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "22",
+            "content": "Kassandra removed [[Chara]] from her pack and folded Phoibe's hands around it. She placed her hands on Phoibe's temples, kissed her head and rested her forehead against hers for a moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' Aniazo. (I grieve/mourn)",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "24",
+            "content": "Kassandra stood up. As she walked towards the exit, [[Hippokrates]] and [[Sokrates]] ran up to her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "25",
+            "content": "*'''Hippokrates:''' ''Kassandra!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "26",
+            "content": "*'''Hippokrates:''' ''Are you all right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I need to speak to Aspasia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Sokrates:''' ''We must find [[Perikles]] first. He's missing\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "29",
+            "content": "[[File:Kassandra furious over Phoibe's death.png|thumb|250px|Kassandra enraged over Phoibe's death]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N12",
+            "global_id": "30",
+            "content": "Kassandra snapped, grabbing Hippokrates by the throat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I don't fucking care! Tell me where Aspasia is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Hippokrates:''' ''Kassandra!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "33",
+            "content": "Kassandra exhaled and released him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm sorry... Phoibe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "35",
+            "content": "Hippokrates and Sokrates looked past her, and understood what had happened. They glanced at each other briefly before returning to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "36",
+            "content": "*'''Hippokrates:''' ''Aspasia went to find Perikles at the [[Parthenon]]. She should be there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "37",
+            "content": "Kassandra turned around and walked out the back towards the Parthenon. Hippokrates glanced at Sokrates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Hippokrates:''' ''I think we'd better go with her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "39",
+            "content": "*'''Sokrates:''' ''I agree, my friend. I agree.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "QuestName": "A Gathering Storm",
+    "QuestID": "226145",
+    "Revision": {
+        "id": "991032",
+        "parentid": "926591",
+        "timestamp": "2022-03-03T11:56:35Z",
+        "contributor": null,
+        "comment": "typos",
+        "origin": "991032",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "i63xn0krrmzakufifswjlacherblxzr"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD A Gathering Storm - Kassandra Finding Distressed Periktione.png",
+        "description": "'The women of Lalaia were in danger. Their hunting party had disappeared at the borders, and their Magistrate, Periktione, feared it was the work of the Sons of Xerxes.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": null,
+        "next": "Sharp Lessons",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''A Gathering Storm''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met [[Periktione]], the magistrate of [[Lalaia]], who requested her help.",
+    "Section_Dialogue": "While at the village of Lalaia, Kassandra found an anxious woman near a waterfall.\n*'''Magistrate Periktione:''' ''[[Aphrodite]]. [[Artemis]]. [[Athena]]. Mothers and daughters of [[Mount Olympos|Olympous]]. Please, lead us to safety. We can't lose anyone else.''\nKassandra approached her.\n*'''Kassandra:''' ''I'm none of those, but I am Kassandra, a [[Mercenary|misthios]]. What's wrong?''\n[[File:ACOD_A_Gathering_Storm_-_Periktione_Sharing_Her_Worries.png|thumb|250px|Periktione sharing her worries to Kassandra]]\n*'''Magistrate Periktione:''' ''My people are in grave danger. We lost our leaders and our warriors, and now our [[Hunting|hunters]] have disappeared.''\n*'''Kassandra:''' ''Hunting parties can be gone for weeks before returning. What happened to everyone else?''\n*'''Magistrate Periktione:''' ''War. The [[Peloponnesian War|fight]] between [[Athens]] and [[Sparta]] has reached our borders, so the men left to offer their [[sword]]s. I fear that those remaining will be lost to the [[Sons of Xerxes]].''\n(If players choose \"Who are the Sons of Xerxes?\")\n*'''Kassandra:''' ''I haven't heard of the Sons of Xerxes. That's quite the name.''\n*'''Magistrate Periktione:''' ''[[Persia]]ns left over from the [[Battle of Thermopylae|Battle of Thermopylai]]. They have no nation except the heritage of an ancient king... But their numbers are great, and ours are not.''\n(If players choose \"You have my sympathy.\")\n*'''Kassandra:''' ''I would not trade our roles in this situation. Though killing is my specialty, and I can hunt and track.''\n*'''Magistrate Periktione:''' ''Do you deal in advice? I don't know how to address my people. They know something is wrong, and I'm not sure what to do about it.''\n\n<tabber>\n|-|An ignorant village is unprepared.=\n*'''Kassandra:''' ''If you're the leader, then act like it. High road or low road, you must still pick your path.''\n*'''Magistrate Periktione:''' ''You're right. I need to make preparations instead of panicking. But then there's still the missing hunting party... Would you find them for me?''\n|-|You're in a difficult position.=\n*'''Kassandra:''' ''There's no easy answer. If you were to take it one step at a time, how would you start?''\n*'''Magistrate Periktione:''' ''I can't bring back the men or stop the Sons of Xerxes by myself. I know it's a lot to ask, but can you bring them home? Even if it's just bones, we'll need to honor them.''\n</tabber>\n(Accept \u2013 I'll find the hunters.)\n*'''Kassandra:''' ''I'll look for the missing hunters.''\n*'''Magistrate Periktione:''' ''My cousin [[Agnodike]] volunteered to look for them. She hasn't returned either.''\n[[File:ACOD A Gathering Storm - Kassandra escorting Agnodike.png|thumb|250px|Kassandra escorting Agnodike to safety]]\nKassandra headed up the [[Grand Mount Parnassos|mountains]] towards a [[Lamia Bandit Camp|bandit camp]] with a woman held captive. After eliminating the [[bandit]]s, Kassandra escorted the woman out of the camp to safety.\n*'''Agnodike:''' ''Those bastards. Those bastards!''\n*'''Kassandra:''' ''Are you all right?''\n*'''Agnodike:''' ''Do I look all right?''\n*'''Kassandra:''' ''You survived. It's more than we can say for your companions.''\n*'''Agnodike:''' ''That was our warning. First our hunters, then the rest of the village. I need to warn our Magistrate about the Sons of Xerxes and their plans.''\n*'''Kassandra:''' ''And I need to see her about my payment.''\nKassandra returned to Periktione in Lalaia, who was now standing beside another [[Thyia|woman]].\n*'''Magistrate Periktione:''' ''You've returned! What news of Agnodike and the hunters?''\nAgnodike came running in.\n*'''Agnodike:''' ''Magistrate Periktione... I have grave news. The Sons of Xerxes are preparing to strike.''\nShe noticed Kassandra.\n*'''Agnodike:''' ''Oh it's you.<br />Magistrate, this misthios saved me from certain death.''\n*'''Kassandra:''' ''For double the reward, I hope.''\n*'''Thyia:''' ''Finally, someone around here who knows how to use a sword! I've been trying to convince Peri to build our defenses since we first saw the Sons of Xerxes creeping closer to the village.''\n*'''Magistrate Periktione:''' ''This is my sister, Thyia. She considers herself to be... acting general of Lalaia in the men's absence.''\n[[File:ACOD A Gathering Storm - Thyia debating with Periktione.png|thumb|250px|Thyia disputing with Periktione]]\n*'''Thyia:''' ''It was your husband who shielded us before... Someone must do so now! Did you hear anything Agnodike said? If we wait on the gods for help we will be massacred!''\n*'''Kassandra:''' ''The only language the Sons of Xerxes seem to understand is violence.''\n*'''Magistrate Periktione:''' ''Misthios, what if I hired you to protect the village?''\n*'''Kassandra:''' ''I'll do what I can.''\n*'''Thyia:''' ''Good! Meet me at [[Kephisos Spring]]. I have plans for those Sons of Xerxes.''",
+    "Section_Outcome": "Kassandra helped Periktione to rescue her cousin Agnodike, who later reported that the Sons of Xerxes were preparing for an attack on the village. Kassandra was then hired to assist the village.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD A Gathering Storm - Agnodike Captured.png|Agnodike held captured\nACOD A Gathering Storm - Agnodike and Kassandra.png|Agnodike speaking to Kassandra\nACOD A Gathering Storm - Kassandra's Return.png|Kassandra returning to Periktione and her sister Thyia\nACOD A Gathering Storm - Agnodike's Return.png|Agnodike returning\nACOD A Gathering Storm - Agnodike Informing Periktione.png|Agnodike reporting her findings\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,247 @@
+{
+    "Quest_Name": "Heavy is the Spear",
+    "Quest_ID": "225065",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra had many questions for the mercenary who claimed to have slain the Writhing Dread.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "A Slithery Plea",
+        "next": "Hard to Artemis<br>Keys to Happiness?",
+        "source": "Kassandra",
+        "location": "Ancient Pearl, Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Heavy is the Spear''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to the [[mercenary]] who claimed to have killed the [[Writhing Dread]].",
+    "Section_Dialogue": "Kassandra traveled to the tallest peak in the [[Ancient Pearl]] region of [[Lesbos]]. [[Ikaros]] spotted the [[Mountain Temple of Poseidon|temple]] where the mercenary [[Zetes the Retired]] had taken up residence.\n*'''Kassandra:''' ''There's the temple on the hill.''\nKassandra strode onto the temple grounds and overheard the mercenary talking.\n*'''Mercenary:''' ''Our lives are like the rising and setting of the sun.''\nKassandra approached him.\n*'''Kassandra:''' ''Excuse me?''\n*'''Mercenary:''' ''We're born into darkness and rise up to the greatest peaks... before descending into darkness once more.''\n*'''Kassandra:''' ''A warrior ''and'' a sophist. This is a first.''\n*'''Mercenary:''' ''It's not philosophy... it's truth. Learned through violence, fate, and seeing evil... true evil.''\n*'''Kassandra:''' ''You're talking about the [[Writhing Dread]]?''\n*'''Mercenary:''' ''The Creature.''\nZetes recounted what happened.\n*'''Mercenary:''' ''When it ambushed us outside, we thought only of survival. My spear allowed me to stay out of its gaze. I was lucky. My friends weren't.''\n(If \"How did you defeat the Creature?\" is chosen.)\n*'''Kassandra:''' ''Tell me how you were able to defeat the Creature.''\n*'''Mercenary:''' ''It all happened so fast. We had a plan to break into the temple and corner it, but it ambushed us before we got inside. There was no time for strategy after that.''\n(If \"Why were you there?\" is chosen.)\n*'''Kassandra:''' ''Why go after the Creature in the first place?''\n*'''Mercenary:''' ''We were hired to steal an ancient item from within its lair by [[Cult of Kosmos|masked soldiers]].''\n(If \"What do you know about this item?\" is chosen.)\n*'''Kassandra:''' ''Tell me about the item they wanted you to steal.''\n*'''Mercenary:''' ''Truth is, I don't even think they knew exactly what it was. After I killed the Creature I went to search the lair, but it was sealed.''\n(Leave \u2013 \"We're done here.\")\n*'''Kassandra:''' ''I'll leave you with your heavy thoughts.''\n*'''Mercenary:''' ''When fighting your own battles is all that's left, you are already lost.''\n*'''Kassandra:''' ''You're fighting the ghosts of your friends.''\nKassandra returned later.\n*'''Mercenary:''' ''Are you ready to face your destiny?''\n(Accept \u2013 \"Give me the spear.\")\n*'''Kassandra:''' ''Give me that spear.''\n*'''Mercenary:''' ''We're warriors\u2014to let it go without a fight would be to dishonor my fallen friends.''\nThe mercenary drew his weapons and attacked. Kassandra indulged him and put an end to him in order to claim the spear.\n*'''Kassandra:''' ''Nothing special about this spear.''\nThe mercenary also carried a note.\n:'''The Immortal Coil:'''<br>''I couldn't save my friends. I couldn't save the woman. She leapt with the grace of Artemis toward the creature, striking a final blow. She killed it. The creature dropped something. An [[Prize of the Medusa|Artifact]]. A curse. I tried to stop her before she touched it. The curse gripped her instead, slithering around her arm and encircling her neck. In her, the creature rose again. She is the Writhing Dread. It's a cycle. Kill the creature, become the creature.''",
+    "Section_Outcome": "Kassandra questioned the mercenary Zetes the Retired in connection with the fate of the [[Writhing Dread]].",
+    "Section_Behind_the_scenes": "The quest is truly completed when Zetes is slain. Refusing to complete it results in a different dialogue with Bryce during [[Keys to Happiness?]] but leaves the quest available for later.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Lourde est la lance]]",
+    "Chapter_SequenceID": "25.",
+    "Chapter_Name": "Shadows of Serpents",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to the tallest peak in the [[Ancient Pearl]] region of [[Lesbos]]. [[Ikaros]] spotted the [[Mountain Temple of Poseidon|temple]] where the mercenary [[Zetes the Retired]] had taken up residence.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There's the temple on the hill.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra strode onto the temple grounds and overheard the mercenary talking.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Mercenary:''' ''Our lives are like the rising and setting of the sun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Excuse me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Mercenary:''' ''We're born into darkness and rise up to the greatest peaks... before descending into darkness once more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''A warrior ''and'' a sophist. This is a first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Mercenary:''' ''It's not philosophy... it's truth. Learned through violence, fate, and seeing evil... true evil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You're talking about the [[Writhing Dread]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Mercenary:''' ''The Creature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "12",
+            "content": "Zetes recounted what happened.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Mercenary:''' ''When it ambushed us outside, we thought only of survival. My spear allowed me to stay out of its gaze. I was lucky. My friends weren't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "14",
+            "content": "(If \"How did you defeat the Creature?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Tell me how you were able to defeat the Creature.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Mercenary:''' ''It all happened so fast. We had a plan to break into the temple and corner it, but it ambushed us before we got inside. There was no time for strategy after that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "17",
+            "content": "(If \"Why were you there?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Why go after the Creature in the first place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Mercenary:''' ''We were hired to steal an ancient item from within its lair by [[Cult of Kosmos|masked soldiers]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "20",
+            "content": "(If \"What do you know about this item?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Tell me about the item they wanted you to steal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Mercenary:''' ''Truth is, I don't even think they knew exactly what it was. After I killed the Creature I went to search the lair, but it was sealed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "23",
+            "content": "(Leave \u2013 \"We're done here.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'll leave you with your heavy thoughts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Mercenary:''' ''When fighting your own battles is all that's left, you are already lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''You're fighting the ghosts of your friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "27",
+            "content": "Kassandra returned later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Mercenary:''' ''Are you ready to face your destiny?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "29",
+            "content": "(Accept \u2013 \"Give me the spear.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Give me that spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Mercenary:''' ''We're warriors\u2014to let it go without a fight would be to dishonor my fallen friends.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "32",
+            "content": "The mercenary drew his weapons and attacked. Kassandra indulged him and put an end to him in order to claim the spear.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Nothing special about this spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "34",
+            "content": "The mercenary also carried a note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "35",
+            "content": ":'''The Immortal Coil:'''<br>''I couldn't save my friends. I couldn't save the woman. She leapt with the grace of Artemis toward the creature, striking a final blow. She killed it. The creature dropped something. An [[Prize of the Medusa|Artifact]]. A curse. I tried to stop her before she touched it. The curse gripped her instead, slithering around her arm and encircling her neck. In her, the creature rose again. She is the Writhing Dread. It's a cycle. Kill the creature, become the creature.''",
+            "segment_type": "Narrative"
+        }
+    ]
+}

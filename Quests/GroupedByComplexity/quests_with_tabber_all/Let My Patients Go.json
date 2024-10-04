@@ -1,0 +1,404 @@
+{
+    "Quest_Name": "Let My Patients Go",
+    "Quest_ID": "224015",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-HippokGaleos.jpg",
+        "description": "'The Galeos|survivor of an animal attack was a ruthless Slavery|slaver. Hippokrates wouldn't treat him until Kassandra investigated Galeos' Melanippos' Camp|camp and freed his \"merchandise\".'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Hippokrates}}",
+        "previous": "The Hunting Party",
+        "next": "Inheritance Insurance",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Let My Patients Go''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "To appease [[Hippokrates]], Kassandra agreed to find the [[Galeos|slaver's]] [[Melanippos' Camp|camp]] and save his [[Slavery|victims]].",
+    "Section_Dialogue": "Some time later, Kassandra returned to check on Galeos, the man she rescued.\n*'''Kassandra:''' ''How's the patient?''\n*'''Hippokrates:''' ''He'll survive ''if'' I treat his injuries.''\n*'''Kassandra:''' ''If?''\n*'''Hippokrates:''' ''This man is a monster. He's a slave trader who treats people so terribly that they injure themselves just to avoid working for him.''\nHippokrates grunted.\n*'''Hippokrates:''' ''If I help him, he'll continue to hurt others. But if I choose to do nothing, many will be spared pain and suffering.''\n<tabber>\n|-|Save him and we'll get paid.=\n*'''Kassandra:''' ''This man is a rich slaver. If we save him, he'll reward us both. Think of the people you could help with that [[drachma]]e.''\n*'''Hippokrates:''' ''No amount of money can undo the damage he's inflicted upon innocent people. Men like him think they can pay their way out of every situation, even death. He's wrong. No one can escape the [[Charon|Ferryman]] forever.''\n|-|Save him because it's right.=\n*'''Kassandra:''' ''It shouldn't matter what this man has done, he deserves to be treated like anyone else. We can't judge others when they're at our mercy.''\n*'''Hippokrates:''' ''I know it's my duty to help this man, but if you'd seen some of the injuries I've treated that he's caused, you would understand my doubts. The innocents of the Greek world have suffered enough lately.''\n</tabber>\n*'''Kassandra:''' ''What if I free his slaves? If he has no slaves, he can't mistreat them anymore, and you'll be able to treat him without guilt.''\n*'''Hippokrates:''' ''Yes, I can save this man, and you can prevent him from hurting others. Our kindness here will show the error of his ways\u2014show him a different path to walk. You would do this for me?''\n<tabber>\n|-|Accept \u2013 I'll free the slaves.=\n*'''Kassandra:''' ''Of course I'll free the slaves for you.''\n*'''Hippokrates:''' ''Thank you, my friend.''\n|-|Leave \u2013 Maybe another time.=\n*'''Kassandra:''' ''Those slaves' freedom is their own to fight for.''\nKassandra returned.\n*'''Hippokrates:''' ''If you free the slaves, I can heal this monster.''\n(Back to dialogue choice one.)\n</tabber>\n[[File:ACOD Let My Patients Go 2.png|thumb|250px|Kassandra agreeing to free Galeos' slaves]]\n(If players asked \"Where are the slaves?\")\n*'''Kassandra:''' ''Where are the slaves being held?''\n*'''Hippokrates:''' ''I remember paying a visit to a [[Melanippos' Camp|camp]] on the river bank east of [[Lake Kopais]] to treat a slave for self-inflicted injuries. I'd try there.''\n(If players asked \"Why was the hunting party attacked?\")\n*'''Kassandra:''' ''Are hunting parties often attacked this close to the city?''\n*'''Hippokrates:''' ''It's quite unusual, but with the war raging all around us, and the plague consuming everything else, it's no surprise the beasts are becoming more desperate.''\n(Leave \u2013 \"I'll free the slaves.\")\n*'''Kassandra:''' ''If the slaves are in danger, I'll need to hurry.''\nKassandra left the city and rode north along the stream towards the entrance of Melanippos' Camp. With the help of [[Ikaros]], she spotted two slaves in cages and the bandit guards.\n*'''Kassandra:''' ''I see him.''\nOff to the right of the slaves, up along the cliffside, Ikaros spotted the slave leader, also encaged.\n*'''Kassandra:''' ''I need to talk to her.''\nKassandra infiltrated the camp and killed any bandits between her and the slaves. She released the two from their cages and climbed to the end of the camp to free the leader. She carried her off to safety along the cliffs above the river, then onto a wooden platform north of the camp\u2014below, the river debouched into the [[Aegean Sea]]. After Kassandra set her down, the slave leader stood up to thank her.\n*'''Slave:''' ''Thank you for freeing us. That beast Galeos has worked all of us to the brink of death. Now I can return home to my family.''\nWith the slaves freed, Kassandra returned to Hippokrates' clinic.\n*'''Kassandra:''' ''I've freed the slaves.''\n*'''Hippokrates:''' ''I've treated his injuries enough to stabilize him, but he isn't out of danger yet...''\nThey both looked down at Galeos for a moment.\n*'''Hippokrates:''' ''I don't know if I can bring myself to complete the treatment.''\n<tabber>\n|-|You can't just let him die.=\nKassandra leaned close and pointed at him while she replied.\n*'''Kassandra:''' ''So you're just going to stand here and watch this man die? You need to do what you do best, and heal him. It's what the [[Twelve Gods|gods]] put you here to do\u2014help people, not judge them.''\n|-|He won't hurt anyone else.=\n*'''Kassandra:''' ''I've freed his slaves, and his business is finished. Perhaps our kindness will show him there is another path.''\n</tabber>\nRegardless, Hippokrates pondered for a moment, then agreed to finish the treatment.\n[[File:ACOD Let My Patients Go 4.png|thumb|250px|Hippokrates convinced to save Galeos' life]]\n*'''Hippokrates:''' ''If I do nothing, I'll be no better than him. I'll make sure he recovers.''\n*'''Kassandra:''' ''When he does, be sure to tell him how his life was in our hands.''\n*'''Hippokrates:''' ''Only the gods have the power to decide life and death. What I do is insignificant compared to their benevolence.''\n*'''Kassandra:''' ''I've seen you save many from a trip down the [[Styx]].''\n*'''Hippokrates:''' ''But look at the [[Plague of Athens|plague]]\u2014for all my knowledge and experience, I could [[A Growing Sickness|do nothing]] against it. I have to accept that my reach only goes so far. Thank you for your help, my friend.''\n*'''Hippokrates:''' ''I must go, I have an appointment with a patient elsewhere.''",
+    "Section_Outcome": "Kassandra resolved Hippokrates' dilemma in treating the brutal slaver Galeos by freeing his slaves and shutting down his operation.",
+    "Section_Trivia": "*Galeos can be knocked out and recruited afterwards. In this way, his life will truly be in Kassandra's hands.\n*The dilemma presented in this quest may have been before Hippokrates made the {{wiki|Hippocratic Oath}}.\n*The freed slave woman can later be found standing around near the [[Battleground of Lokris|battleground]] of [[Lokris]].\n*The title and the quest itself might be a reference to the song \"Let my people go\"/\"Go down Moses\" about Moses who freed his people, the Isrealites, from the old Pharaoh of Egypt, and afterwards let them through the desert to escape their oppressors.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Hippokrates",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Some time later, Kassandra returned to check on Galeos, the man she rescued.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''How's the patient?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Hippokrates:''' ''He'll survive ''if'' I treat his injuries.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''If?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Hippokrates:''' ''This man is a monster. He's a slave trader who treats people so terribly that they injure themselves just to avoid working for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "6",
+            "content": "Hippokrates grunted.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Hippokrates:''' ''If I help him, he'll continue to hurt others. But if I choose to do nothing, many will be spared pain and suffering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|Save him and we'll get paid.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''This man is a rich slaver. If we save him, he'll reward us both. Think of the people you could help with that [[drachma]]e.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Hippokrates:''' ''No amount of money can undo the damage he's inflicted upon innocent people. Men like him think they can pay their way out of every situation, even death. He's wrong. No one can escape the [[Charon|Ferryman]] forever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|Save him because it's right.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''It shouldn't matter what this man has done, he deserves to be treated like anyone else. We can't judge others when they're at our mercy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Hippokrates:''' ''I know it's my duty to help this man, but if you'd seen some of the injuries I've treated that he's caused, you would understand my doubts. The innocents of the Greek world have suffered enough lately.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "15",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''What if I free his slaves? If he has no slaves, he can't mistreat them anymore, and you'll be able to treat him without guilt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Hippokrates:''' ''Yes, I can save this man, and you can prevent him from hurting others. Our kindness here will show the error of his ways\u2014show him a different path to walk. You would do this for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "18",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "19",
+            "content": "|-|Accept \u2013 I'll free the slaves.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Of course I'll free the slaves for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Hippokrates:''' ''Thank you, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "22",
+            "content": "|-|Leave \u2013 Maybe another time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Those slaves' freedom is their own to fight for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Hippokrates:''' ''If you free the slaves, I can heal this monster.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "26",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "27",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "28",
+            "content": "[[File:ACOD Let My Patients Go 2.png|thumb|250px|Kassandra agreeing to free Galeos' slaves]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "29",
+            "content": "(If players asked \"Where are the slaves?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Where are the slaves being held?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "31",
+            "content": "*'''Hippokrates:''' ''I remember paying a visit to a [[Melanippos' Camp|camp]] on the river bank east of [[Lake Kopais]] to treat a slave for self-inflicted injuries. I'd try there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "32",
+            "content": "(If players asked \"Why was the hunting party attacked?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Are hunting parties often attacked this close to the city?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Hippokrates:''' ''It's quite unusual, but with the war raging all around us, and the plague consuming everything else, it's no surprise the beasts are becoming more desperate.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "35",
+            "content": "(Leave \u2013 \"I'll free the slaves.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''If the slaves are in danger, I'll need to hurry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "37",
+            "content": "Kassandra left the city and rode north along the stream towards the entrance of Melanippos' Camp. With the help of [[Ikaros]], she spotted two slaves in cages and the bandit guards.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''I see him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "39",
+            "content": "Off to the right of the slaves, up along the cliffside, Ikaros spotted the slave leader, also encaged.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I need to talk to her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "41",
+            "content": "Kassandra infiltrated the camp and killed any bandits between her and the slaves. She released the two from their cages and climbed to the end of the camp to free the leader. She carried her off to safety along the cliffs above the river, then onto a wooden platform north of the camp\u2014below, the river debouched into the [[Aegean Sea]]. After Kassandra set her down, the slave leader stood up to thank her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "42",
+            "content": "*'''Slave:''' ''Thank you for freeing us. That beast Galeos has worked all of us to the brink of death. Now I can return home to my family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "43",
+            "content": "With the slaves freed, Kassandra returned to Hippokrates' clinic.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I've freed the slaves.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "45",
+            "content": "*'''Hippokrates:''' ''I've treated his injuries enough to stabilize him, but he isn't out of danger yet...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "46",
+            "content": "They both looked down at Galeos for a moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "47",
+            "content": "*'''Hippokrates:''' ''I don't know if I can bring myself to complete the treatment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "48",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "49",
+            "content": "|-|You can't just let him die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N9",
+            "global_id": "50",
+            "content": "Kassandra leaned close and pointed at him while she replied.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''So you're just going to stand here and watch this man die? You need to do what you do best, and heal him. It's what the [[Twelve Gods|gods]] put you here to do\u2014help people, not judge them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "52",
+            "content": "|-|He won't hurt anyone else.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I've freed his slaves, and his business is finished. Perhaps our kindness will show him there is another path.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N10",
+            "global_id": "55",
+            "content": "Regardless, Hippokrates pondered for a moment, then agreed to finish the treatment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I2",
+            "global_id": "56",
+            "content": "[[File:ACOD Let My Patients Go 4.png|thumb|250px|Hippokrates convinced to save Galeos' life]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D29",
+            "global_id": "57",
+            "content": "*'''Hippokrates:''' ''If I do nothing, I'll be no better than him. I'll make sure he recovers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''When he does, be sure to tell him how his life was in our hands.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "59",
+            "content": "*'''Hippokrates:''' ''Only the gods have the power to decide life and death. What I do is insignificant compared to their benevolence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I've seen you save many from a trip down the [[Styx]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "61",
+            "content": "*'''Hippokrates:''' ''But look at the [[Plague of Athens|plague]]\u2014for all my knowledge and experience, I could [[A Growing Sickness|do nothing]] against it. I have to accept that my reach only goes so far. Thank you for your help, my friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "62",
+            "content": "*'''Hippokrates:''' ''I must go, I have an appointment with a patient elsewhere.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

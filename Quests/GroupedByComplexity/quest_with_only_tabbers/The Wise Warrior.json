@@ -1,0 +1,355 @@
+{
+    "Quest_Name": "The Wise Warrior",
+    "Quest_ID": "223682",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Wise Warrior.png",
+        "description": "'Long underestimated by his peers, General Demosthenes wished to prove his mettle in the blood of Spartan Polemarchs.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Demosthenes}}",
+        "previous": "Creating Opportunity",
+        "next": "In the Midst of Chaos",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Wise Warrior''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While in [[Athens]], Kassandra met General [[Demosthenes]], who hoped Kassandra would help him ensure Athens would be victorious in the [[Peloponnesian War|war]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''I'll get you your seals.''\n*'''Demosthenes:''' ''The sooner the better.''\n(If \"What do you really think of Spartans?\" is chosen.)\n*'''Kassandra:''' ''What do you think of the [[Sparta]]ns?''\n*'''Demosthenes:''' ''If you were to ask General [[Neon]] that, he'd tell you they were mindless brutes. That's half true. They have a base sort of cunning. It shouldn't be enough to withstand Athenian might. Assuming the other generals make intelligent decisions instead of stalling.''\n*'''Kassandra:''' ''You do know I'm of Spartan birth?''\n*'''Demosthenes:''' ''You're more skilled than the average Spartan. In time, you might even manage Athenian citizenship.''\n*'''Kassandra:''' ''The true pinnacle of success.''\n*'''Demosthenes:''' ''Of course. I wish I had more say over our naval forces. What I could do to the Spartans then...''\n(If \"How long have you been a general?\" is chosen.)\n*'''Kassandra:''' ''Have you held this command for long?''\n*'''Demosthenes:''' ''I've been a general in the army for a long time. I made some mistakes in my early days, but I more than made up for them after. Still, everyone attributes my victories to luck. Never to my own decisions.''\n*'''Kassandra:''' ''I see how that could be frustrating.''\n*'''Demosthenes:''' ''Other men take credit for my victories. Cautious men who cause needless deaths by overlooking opportunities. You know what happens to a General who loses his reputation? Who gets blamed for the loss of Athenian lives?''\n*'''Kassandra:''' ''Nothing good.''\n*'''Demosthenes:''' ''He dies. So I will do everything to preserve Athenian lives. Maybe one day, I'll even get credit for my accomplishments.''\n(If \"Why do you need the seals?\" is chosen.)\n*'''Kassandra:''' ''Why do you need these seals?''\n*'''Demosthenes:''' ''I need those seals to shove in the faces of the assembled generals, to get them to wake up. While they've been debating and stalling, I've been winning the war.''\n(\"Leave \u2013 I have what I need.\")\n*'''Kassandra:''' ''I know what I have to do.''\n(If the seals have already been acquired.)\n*'''Kassandra:''' ''Actually, I already have them. I may have killed a few more Spartan commanders than you'd mentioned.''\n*'''Demosthenes:''' ''An overachiever. Maybe you are as good as they say. Would you be interested in more work?''\nKassandra returned to the general after finishing her task.\n*'''Demosthenes:''' ''Do you have the seals for me?''\n*'''Kassandra:''' ''I do.''\n*'''Demosthenes:''' ''More seals, and more proof what we're doing is working. Thankfully, there are at least some people in power willing to listen to me.''\n*'''Kassandra:''' ''I'll leave the politics to you.''\n*'''Demosthenes:''' ''As it should be. And I have more work for you, assuming you're up for it.''\n<tabber>\n|-|I'm interested.=\n*'''Kassandra:''' ''I'm always interested in more work.''\n|-|Not now.=\n*'''Kassandra:''' ''I have some other jobs I need to do first.''\nKassandra returns.\n(Dialogue returns to ''\"Do you have the seals for me?\"'' then back to dialogue choice one.)\n</tabber>\n*'''Demosthenes:''' ''I was worried about employing a [[mercenary]], but you've been a pleasant surprise.''\n*'''Kassandra:''' ''Yes. That's what they all call me. A pleasant surprise.''\n*'''Demosthenes:''' ''I suspect if they call you anything offensive, they don't live long.''\n*'''Kassandra:''' ''I couldn't say.''\n*'''Demosthenes:''' ''At least I have you working with me, instead of getting in my way.''\n*'''Kassandra:''' ''Other generals giving you trouble?''\n*'''Demosthenes:''' ''They refuse to acknowledge I know what I'm doing. But it doesn't matter. I'll get the job done, and eventually all of Athens will know it. Are you ready for more work?''\n<tabber>\n|-|Yes. I'll get your seals.=\n(Dialogue continues to start the next quest.)\n|-|Maybe another time.=\n*'''Kassandra:''' ''Not now. Maybe later.''\nKassandra returns.\n*'''Demosthenes:''' ''Are you ready to work with me yet?''\n(Back to dialogue choice one.)\n</tabber>",
+    "Section_Outcome": "Kassandra acquired 3 polemarch seals. In return, he gave her his [[Demosthenes' Greaves|greaves]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Demosthenes",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''I'll get you your seals.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Demosthenes:''' ''The sooner the better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "3",
+            "content": "(If \"What do you really think of Spartans?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What do you think of the [[Sparta]]ns?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Demosthenes:''' ''If you were to ask General [[Neon]] that, he'd tell you they were mindless brutes. That's half true. They have a base sort of cunning. It shouldn't be enough to withstand Athenian might. Assuming the other generals make intelligent decisions instead of stalling.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You do know I'm of Spartan birth?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Demosthenes:''' ''You're more skilled than the average Spartan. In time, you might even manage Athenian citizenship.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The true pinnacle of success.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "9",
+            "content": "*'''Demosthenes:''' ''Of course. I wish I had more say over our naval forces. What I could do to the Spartans then...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "10",
+            "content": "(If \"How long have you been a general?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Have you held this command for long?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "12",
+            "content": "*'''Demosthenes:''' ''I've been a general in the army for a long time. I made some mistakes in my early days, but I more than made up for them after. Still, everyone attributes my victories to luck. Never to my own decisions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I see how that could be frustrating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "14",
+            "content": "*'''Demosthenes:''' ''Other men take credit for my victories. Cautious men who cause needless deaths by overlooking opportunities. You know what happens to a General who loses his reputation? Who gets blamed for the loss of Athenian lives?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Nothing good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "16",
+            "content": "*'''Demosthenes:''' ''He dies. So I will do everything to preserve Athenian lives. Maybe one day, I'll even get credit for my accomplishments.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "17",
+            "content": "(If \"Why do you need the seals?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Why do you need these seals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "19",
+            "content": "*'''Demosthenes:''' ''I need those seals to shove in the faces of the assembled generals, to get them to wake up. While they've been debating and stalling, I've been winning the war.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "20",
+            "content": "(\"Leave \u2013 I have what I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I know what I have to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "22",
+            "content": "(If the seals have already been acquired.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Actually, I already have them. I may have killed a few more Spartan commanders than you'd mentioned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "24",
+            "content": "*'''Demosthenes:''' ''An overachiever. Maybe you are as good as they say. Would you be interested in more work?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "25",
+            "content": "Kassandra returned to the general after finishing her task.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "26",
+            "content": "*'''Demosthenes:''' ''Do you have the seals for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "28",
+            "content": "*'''Demosthenes:''' ''More seals, and more proof what we're doing is working. Thankfully, there are at least some people in power willing to listen to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''I'll leave the politics to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "30",
+            "content": "*'''Demosthenes:''' ''As it should be. And I have more work for you, assuming you're up for it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "31",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "32",
+            "content": "|-|I'm interested.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'm always interested in more work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "34",
+            "content": "|-|Not now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I have some other jobs I need to do first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "36",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O3",
+            "global_id": "37",
+            "content": "(Dialogue returns to ''\"Do you have the seals for me?\"'' then back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Demosthenes:''' ''I was worried about employing a [[mercenary]], but you've been a pleasant surprise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''Yes. That's what they all call me. A pleasant surprise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "41",
+            "content": "*'''Demosthenes:''' ''I suspect if they call you anything offensive, they don't live long.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''I couldn't say.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "43",
+            "content": "*'''Demosthenes:''' ''At least I have you working with me, instead of getting in my way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Other generals giving you trouble?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "45",
+            "content": "*'''Demosthenes:''' ''They refuse to acknowledge I know what I'm doing. But it doesn't matter. I'll get the job done, and eventually all of Athens will know it. Are you ready for more work?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "46",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "47",
+            "content": "|-|Yes. I'll get your seals.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "O4",
+            "global_id": "48",
+            "content": "(Dialogue continues to start the next quest.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC4",
+            "global_id": "49",
+            "content": "|-|Maybe another time.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''Not now. Maybe later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "51",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "52",
+            "content": "*'''Demosthenes:''' ''Are you ready to work with me yet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O5",
+            "global_id": "53",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE2",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "QuestName": "Loose Lips (Odyssey)",
+    "QuestID": "236799",
+    "Revision": {
+        "id": "1050130",
+        "parentid": "845141",
+        "timestamp": "2023-06-22T05:32:18Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1050130",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "2dgiy5cvm7whkra5grud4uofgatv7fe"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory of Kassandra | the [[Loose Lips | genetic memory]] of Ezio Auditore da Firenze"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Loose Lips",
+        "image": null,
+        "description": "'Impressed by Kassandra's ability to sink a fleet of ships, an Athens|Athenian spy let her know of a Spartan Commander who would decide where the ships moved next.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Loose Lips''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An [[Athens|Athenian]] spy sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "She sought out the spy and addressed him.\n*'''Kassandra:''' ''You left a message on the [[Message board|board]]. What's the matter?''\n*'''Man:''' ''I've been tasked with keeping on eye [[Sparta]]n ship movement. I hear a lot of stories from the sailors.''\n<tabber>\n|-|Get to the point.=\n|-|Tell me one.=\n*'''Kassandra:''' ''And what tales have the sailors been telling you?''\n*'''Man:''' ''You mean the one about the mercenary sinking their ships? Or the one about the Spartan commander deciding where the ships move next...''\n</tabber>\n*'''Kassandra:''' ''So you want me to sink the Spartan ships.''\n*'''Man:''' ''Yes, they all must sink. Do we have a deal, ''misthios?\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Man:''' ''Good. I need it done fast. And quietly.''\n*'''Kassandra:''' ''We're done here.''\nKassandra left the spy and went forth aboard the ship ''[[Adrestia]]'', and sank some Spartan ships/killed the Spartan commander before returning to the spy.",
+    "Section_Outcome": "Kassandra helped the spy.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

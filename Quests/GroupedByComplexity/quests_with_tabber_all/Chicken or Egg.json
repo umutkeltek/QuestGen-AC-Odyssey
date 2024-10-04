@@ -1,0 +1,639 @@
+{
+    "Quest_Name": "Chicken or Egg",
+    "Quest_ID": "225608",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Chalkippe had not seen her Kallistros|brother in some time, and when she went by his farm she heard frightening sounds. Kassandra agreed to check out the distant farm and find out what had happened.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "The Wild Hunt",
+        "next": "A Matter of Faith",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "431\u2013422 BCE"
+    },
+    "General_Description": "'''Chicken or Egg''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra helped [[Chalkippe]] to check on her brother [[Kallistros]].",
+    "Section_Dialogue": "*'''Kassandra:''' ''I think that's everyone Priestess Hexione mentioned. Time to find her again.''\n\nShe went over to the priestess.\n\n*'''Priestess Hexione:''' ''Wondrous Eagle Bearer! Your name and glory drop from everyone's lips. My sisters and I wish to throw a grand festival in your honor. You will be the cherished guest.''\n*'''Kassandra:''' ''If you insist.''\n*'''Priestess Hexione:''' ''However, there is one more who could benefit from your attention. Chalkippe frets about her brother. In truth, he is a strange one, touched by madness... or perhaps a chosen of the gods.''\n*'''Priestess Hexione:''' ''Ah, here she is now. Speak to her, reassure her, and then we will celebrate!''\n*'''Chalkippe:''' ''By the gods! It's you!''\n*'''Kassandra:''' ''It's me.''\n*'''Chalkippe:''' ''It's you! By the gods! My prayers are answered!''\n*'''Priestess Hexione:''' ''Speak to the Eagle Bearer, my child.''\n*'''Chalkippe:''' ''You have come to help me!''\n*'''Kassandra:''' ''Um, I'll see what I can do.''\n*'''Chalkippe:''' ''Yes! Of course! It's my brother, Kallistratos. He's always been a bit odd, but this past year, I think the gods have cursed him. Uh, that is, I don't mean to offend.''\n*'''Kassandra:''' ''Go on. Your brother.''\n*'''Chalkippe:''' ''My brother's farm is a small way from the village. Always doing his own thing. I haven't seen him for days, but when I went to pass by, I heard terrifying noises! I think something might have happened, but I'm not brave enough to go see.''\n\n(If players choose \"I'll look for your brother.\")\n\n* '''Kassandra:''' ''I'll take a look for you.''\n*'''Chalkippe:''' ''Thank you! Thank you, Eagle Bearer! You're too kind! Too generous! Too nice! Thank you!''\n\n(If players choose \"What was your brother doing?\")\n\n*'''Kassandra:''' ''What can you tell me about your brother?''\n*'''Chalkippe:''' ''Kallistratos always tries some new scheme or crazy idea. His last one was to breed chickens that would lay giant eggs. \"Each egg to feed a family,\" he said, and he'd sell them far and wide and become rich.''\n\n(If players choose \"What do you think happened to him?\")\n\n*'''Kassandra:''' ''What do you think happened to Kallistratos?''\n*'''Chalkippe:''' ''I don't know! Maybe a lion or wolf got into the farm. Terrible noises nearly scared my hair white. I'm sure whatever it is would be no match for you, mighty Eagle Bearer! I pray he's all right,''\n\n(If players choose \"Where is the farm?\")\n\n*'''Kassandra:''' ''Where is your brother's farm?''\n*'''Chalkippe:''' ''He has a large farmstead northeast of here. He doesn't take very good care of it, though. Always caught up in some crazy scheme.''\n\n(If players choose \"I'll pass by the farm.\")\n\n*'''Kassandra:''' ''I'll visit your brother's farm and see what's going on.''\n\nTraveling northeast, she used Ikaros to scout the area.\n\n*'''Kassandra:''' ''There he is!''\n\nShe reached the farmstead, only for someone to call out.\n\n*'''Kallistratos:''' ''Run for your life! You'll call the Ares Ornithes down upon us!''\n*'''Kassandra:''' ''The what now?''\n\nApproaching, she saw several giant chickens surrounding Kallistratos. They attacked her when she drew close, and she put them down. She approached Kallistratos, who looked upset.\n\n*'''Kallistratos:''' ''Who are you supposed to be?''\n*'''Kassandra:''' ''The ''misthios'' who saved your life? You could say thanks.''\n*'''Kallistratos:''' ''Not sure you had to kill my best chickens, though.''\n\n<Tabber>\n|-|I saved you because your sister prayed for it.=\n*'''Kassandra:''' ''Watch your tongue, little man. I came on behalf of your sister, who showed proper respect. Don't make me angry.''\n|-|I came for Chalkippe. She was worried.=\n*'''Kassandra:''' ''Your sister sent me to check on you. Chalkippe was very worried and scared by the noises she heard. Looks like she was right to be concerned.''\n</Tabber>\n\n*'''Kallistratos:''' ''So tell her I'm fine, already. Hmm, maybe I can get a goat from [[Messara]] and catch a lion and breed them somehow... Maybe with a snake... I'm sure I could make a fortune...''\n\nKassandra shrugged and walked away, leaving him to his musings. With the task done, she went to tell Chalkippe the news.\n\n*'''Kassandra:''' ''Chalkippe, your brother is... something else. But he's alive and, I suppose, well.''\n*'''Chalkippe:''' ''Thank you, Eagle Bearer! Yes, he is a difficult one. But you have answered my prayers! I will always be your devoted servant.''\n\nKassandra backed away.\n\n*'''Kassandra:''' ''Uh...''\n*'''Chalkippe:''' ''The priestesses have begun preparing a great feast in your honor for all of Linou to celebrate you! It will be magnificent!''\n\nPolykleitos appeared from a doorway.\n\n*'''Polykleitos:''' ''Kassandra! Calamity! Myrto has been struck down by illness!''\n*'''Kassandra:''' ''Take me to her!''\n\nShe followed him inside, where Myrto was bedridden.\n\n*'''Polykleitos:''' ''The girl was thriled about the idea of the festival to honor you. She was rushing about, buzzing with excitement, when she suddenly collapsed.''\n*'''Akatos:''' ''Please, Eagle Bearer. Can you do anything for her?''\n\n(If players choose \"Does Myrto have any wounds?\")\n*'''Kassandra:''' ''Did anyone see anything? Does she have any wounds?''\n*'''Akatos:''' ''No, no insect or snake bites. But her brow burns with fever.''\n\n(If players choose \"What was she doing?\")\n*'''Kassandra:''' ''What was Myrto doing when she got sick?''\n*'''Akatos:''' ''She was preparing the meat you brought in for the festival, per the priestess's instructions.''\n\n(If players choose \"Where is Priestess Hexione?\")\n*'''Kassandra:''' ''Where is Priestess Hexione now?''\n*'''Akatos:''' ''I don't know. I overhead her calling out for help, telling people not to be scared, but she's vanished.''\n*'''Kassandra:''' ''That's strange behavior.''\n\n(If players choose \"I'll ask around and see if anyone saw anything.\")\n*'''Kassandra:''' ''I'll ask around and see if anyone else knows anything. And see if I can't find the priestess.''",
+    "Section_Outcome": "Kassandra answered Chalkippe's prayers, and helped her brother.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Image of Faith",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''I think that's everyone Priestess Hexione mentioned. Time to find her again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N1",
+            "global_id": "3",
+            "content": "She went over to the priestess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Priestess Hexione:''' ''Wondrous Eagle Bearer! Your name and glory drop from everyone's lips. My sisters and I wish to throw a grand festival in your honor. You will be the cherished guest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''If you insist.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Priestess Hexione:''' ''However, there is one more who could benefit from your attention. Chalkippe frets about her brother. In truth, he is a strange one, touched by madness... or perhaps a chosen of the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Priestess Hexione:''' ''Ah, here she is now. Speak to her, reassure her, and then we will celebrate!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Chalkippe:''' ''By the gods! It's you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''It's me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Chalkippe:''' ''It's you! By the gods! My prayers are answered!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Priestess Hexione:''' ''Speak to the Eagle Bearer, my child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Chalkippe:''' ''You have come to help me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Um, I'll see what I can do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Chalkippe:''' ''Yes! Of course! It's my brother, Kallistratos. He's always been a bit odd, but this past year, I think the gods have cursed him. Uh, that is, I don't mean to offend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Go on. Your brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Chalkippe:''' ''My brother's farm is a small way from the village. Always doing his own thing. I haven't seen him for days, but when I went to pass by, I heard terrifying noises! I think something might have happened, but I'm not brave enough to go see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "19",
+            "content": "(If players choose \"I'll look for your brother.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U4",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "* '''Kassandra:''' ''I'll take a look for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Chalkippe:''' ''Thank you! Thank you, Eagle Bearer! You're too kind! Too generous! Too nice! Thank you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "24",
+            "content": "(If players choose \"What was your brother doing?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U6",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''What can you tell me about your brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Chalkippe:''' ''Kallistratos always tries some new scheme or crazy idea. His last one was to breed chickens that would lay giant eggs. \"Each egg to feed a family,\" he said, and he'd sell them far and wide and become rich.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "29",
+            "content": "(If players choose \"What do you think happened to him?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U8",
+            "global_id": "30",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''What do you think happened to Kallistratos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Chalkippe:''' ''I don't know! Maybe a lion or wolf got into the farm. Terrible noises nearly scared my hair white. I'm sure whatever it is would be no match for you, mighty Eagle Bearer! I pray he's all right,''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "33",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C4",
+            "global_id": "34",
+            "content": "(If players choose \"Where is the farm?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U10",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D21",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Where is your brother's farm?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "37",
+            "content": "*'''Chalkippe:''' ''He has a large farmstead northeast of here. He doesn't take very good care of it, though. Always caught up in some crazy scheme.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C5",
+            "global_id": "39",
+            "content": "(If players choose \"I'll pass by the farm.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U12",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I'll visit your brother's farm and see what's going on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "43",
+            "content": "Traveling northeast, she used Ikaros to scout the area.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U14",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D24",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''There he is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "47",
+            "content": "She reached the farmstead, only for someone to call out.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U16",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D25",
+            "global_id": "49",
+            "content": "*'''Kallistratos:''' ''Run for your life! You'll call the Ares Ornithes down upon us!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''The what now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "52",
+            "content": "Approaching, she saw several giant chickens surrounding Kallistratos. They attacked her when she drew close, and she put them down. She approached Kallistratos, who looked upset.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U18",
+            "global_id": "53",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D27",
+            "global_id": "54",
+            "content": "*'''Kallistratos:''' ''Who are you supposed to be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''The ''misthios'' who saved your life? You could say thanks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "56",
+            "content": "*'''Kallistratos:''' ''Not sure you had to kill my best chickens, though.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "57",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "58",
+            "content": "<Tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "59",
+            "content": "|-|I saved you because your sister prayed for it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Watch your tongue, little man. I came on behalf of your sister, who showed proper respect. Don't make me angry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "61",
+            "content": "|-|I came for Chalkippe. She was worried.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''Your sister sent me to check on you. Chalkippe was very worried and scared by the noises she heard. Looks like she was right to be concerned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "63",
+            "content": "</Tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U20",
+            "global_id": "64",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D32",
+            "global_id": "65",
+            "content": "*'''Kallistratos:''' ''So tell her I'm fine, already. Hmm, maybe I can get a goat from [[Messara]] and catch a lion and breed them somehow... Maybe with a snake... I'm sure I could make a fortune...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "66",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "67",
+            "content": "Kassandra shrugged and walked away, leaving him to his musings. With the task done, she went to tell Chalkippe the news.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "68",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D33",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Chalkippe, your brother is... something else. But he's alive and, I suppose, well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "70",
+            "content": "*'''Chalkippe:''' ''Thank you, Eagle Bearer! Yes, he is a difficult one. But you have answered my prayers! I will always be your devoted servant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U23",
+            "global_id": "71",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "72",
+            "content": "Kassandra backed away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U24",
+            "global_id": "73",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D35",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Uh...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "75",
+            "content": "*'''Chalkippe:''' ''The priestesses have begun preparing a great feast in your honor for all of Linou to celebrate you! It will be magnificent!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U25",
+            "global_id": "76",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "77",
+            "content": "Polykleitos appeared from a doorway.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U26",
+            "global_id": "78",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D37",
+            "global_id": "79",
+            "content": "*'''Polykleitos:''' ''Kassandra! Calamity! Myrto has been struck down by illness!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''Take me to her!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U27",
+            "global_id": "81",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "82",
+            "content": "She followed him inside, where Myrto was bedridden.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U28",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D39",
+            "global_id": "84",
+            "content": "*'''Polykleitos:''' ''The girl was thriled about the idea of the festival to honor you. She was rushing about, buzzing with excitement, when she suddenly collapsed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "85",
+            "content": "*'''Akatos:''' ''Please, Eagle Bearer. Can you do anything for her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U29",
+            "global_id": "86",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C6",
+            "global_id": "87",
+            "content": "(If players choose \"Does Myrto have any wounds?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D41",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Did anyone see anything? Does she have any wounds?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "89",
+            "content": "*'''Akatos:''' ''No, no insect or snake bites. But her brow burns with fever.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U30",
+            "global_id": "90",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C7",
+            "global_id": "91",
+            "content": "(If players choose \"What was she doing?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D43",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''What was Myrto doing when she got sick?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "93",
+            "content": "*'''Akatos:''' ''She was preparing the meat you brought in for the festival, per the priestess's instructions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U31",
+            "global_id": "94",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C8",
+            "global_id": "95",
+            "content": "(If players choose \"Where is Priestess Hexione?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D45",
+            "global_id": "96",
+            "content": "*'''Kassandra:''' ''Where is Priestess Hexione now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "97",
+            "content": "*'''Akatos:''' ''I don't know. I overhead her calling out for help, telling people not to be scared, but she's vanished.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''That's strange behavior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U32",
+            "global_id": "99",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C9",
+            "global_id": "100",
+            "content": "(If players choose \"I'll ask around and see if anyone saw anything.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D48",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''I'll ask around and see if anyone else knows anything. And see if I can't find the priestess.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

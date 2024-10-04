@@ -1,0 +1,41 @@
+{
+    "QuestName": "Recovered Relic",
+    "QuestID": "243756",
+    "Revision": {
+        "id": "1047557",
+        "parentid": "959424",
+        "timestamp": "2023-06-13T19:32:03Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047557",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "0jj5tbljxtor959aanajym4s509qlrw"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Recovered Relic",
+        "image": null,
+        "description": "'An artist, delighted with her find, planned to offer a beautiful votive figure to the temple priestess. Yet, she feared the Followers of Ares|Followers of Ares and their shrine.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Recovered Relic''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "An artist sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n:'''Note'''<br>''I have an offering to give, but I'm afraid. Please, come see me.''\nShe sought out the artist and addressed her.\n*'''Kassandra:''' ''You left a note on the board. What's happened?''\n*'''Woman:''' ''Look at this votive figure I found at the market. It's simple, but beautiful. I have not seen its style before.''\n*'''Kassandra:''' ''Is it valuable?''\n*'''Woman:''' ''Not in [[drachma]]e, no. But I'm sure the priestess at the temple would appreciate it. So would the [[Followers of Ares|Followers]] of [[Ares]], but they and their dark shrine scare me.''\n<tabber>\n|-|Kill the Followers of Ares=\n(\"You want all the Followers of Ares killed.\")\n*'''Kassandra:''' ''So you'd like me to wipe out the Followers of Ares.''\n*'''Woman:''' ''You understand quickly. I need every last one to die.''\n(\"You need it delivered.\")\n*'''Kassandra:''' ''And you'll pay me to deliver it to her.''\n*'''Woman:''' ''No, all the Followers must die.''\n(Accept \u2013 \"I'll handle it.\")\n*'''Kassandra:''' ''I'm in.''\n*'''Woman:''' ''Please be careful.''\n*'''Kassandra:''' Chaire.\nKassandra left the artist and sought out the Followers of Ares nearby, killing them before she returned to the woman.\n*'''Woman:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Woman:''' ''The gods favored me the day we met. Take this for your trouble,'' misthios.\n*'''Kassandra:''' ''Thank you.''\n|-|Deliver=\n*'''Kassandra:''' ''And you'll pay me to deliver it to her.''\n*'''Woman:''' ''You understand quickly.''\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Woman:''' ''Exactly. It must arrive without a scratch.''\n*'''Kassandra:''' ''May the [[Fates]] be on your side.''\nKassandra left the artist and sought out the priestess in a temple nearby, and hailed her.\n*'''Kassandra:''' ''Someone thought you might need this.''\n*'''Woman:''' ''Thanks! Here, for your efforts, mercenary.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped the artist, and was rewarded for this.",
+    "Section_Behind_the_scenes": "The dialogue for timed quests in ''[[Assassin's Creed: Odyssey]]'' is part scripted, part randomly generated from a pool of generic statements. As such, the wording encountered varies.\n\nAll timed quests have two variants, as noted: when given a choice, the desired is always the top one.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

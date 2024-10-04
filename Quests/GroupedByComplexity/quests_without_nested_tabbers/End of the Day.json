@@ -1,0 +1,77 @@
+{
+    "Quest_Name": "End of the Day",
+    "Quest_ID": "224051",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'After helping the people of Lakonia, Kassandra had become a local legend and earned her reward tenfold. Xanthe was always willing to acknowledge good service.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "A Godless Blight",
+        "source": "Kassandra",
+        "location": "Krypteia Training Grounds, Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''End of the Day''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Having helped the three women [[Xanthe]] had suggested, Kassandra returned to the magistrate of [[Pitana]].",
+    "Section_Dialogue": "Kassandra returned to Xanthe at Pitana to turn in.\n*'''Xanthe:''' ''Thank you for aiding all of us in Pitana. Stories of you will live amongst us for many years.''\nKassandra bowed.\n*'''Kassandra:''' ''I help where I can. But thank you.''\nXanthe picked something from her pocket.\n*'''Xanthe:''' ''A reward, for all your help.''\nKassandra nodded gratefully.",
+    "Section_Outcome": "Xanthe rewarded Kassandra for helping the women of Lakonia.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lakonia",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Xanthe at Pitana to turn in.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Xanthe:''' ''Thank you for aiding all of us in Pitana. Stories of you will live amongst us for many years.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra bowed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I help where I can. But thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Xanthe picked something from her pocket.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Xanthe:''' ''A reward, for all your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra nodded gratefully.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "Quest_Name": "Takes Drachmae to Make Drachmae",
+    "Quest_ID": "224739",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Takes Drachmae to Make Drachmae 1.png",
+        "description": "'A good salesman roped Kassandra into searching for hidden valuables. Or, she hoped they were valuable.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kythera Island}}",
+        "previous": "Purple Pain",
+        "next": "Place in the Kosmos",
+        "source": "Kassandra",
+        "location": "Kythera Island, Greece",
+        "date": "c. 429 BCE"
+    },
+    "General_Description": "'''Takes Drachmae to Make Drachmae''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a street vendor who claimed he has a tablet to a secret treasure.",
+    "Section_Dialogue": "While near the [[Pilgrimage Site]], Kassandra came across a street vendor.\n*'''Street Vendor:''' ''Down on your luck? Have I got a solution for you!''\nKassandra approached him.\n*'''Kassandra:''' ''What's all this about?''\n*'''Street Vendor:''' ''It's about adventure! Thrills! Danger!<br>...''And'' untold fortunes!''\n\n<tabber>\n|-|I fear nothing.=\n*'''Kassandra:''' ''Danger... Ha. I never back down from a challenge.''\n*'''Street Vendor:''' ''Then step right up and put your [[drachma]]e where your mouth is... For this kind of opportunity doesn't come around every day.''\n|-|Life is an adventure.=\n*'''Kassandra:''' ''I love a good adventure.''\n*'''Street Vendor:''' ''If you've got the [[drachma]]e and the time, I've got a once-in-a-lifetime adventure just for you!''\n</tabber>\n*'''Kassandra:''' ''Tell me more.''\n*'''Street Vendor:''' ''Secrecy is key, ''[[Mercenary|misthios]]''. We can't just have anyone knowing there's a fortune to be found.<br>But first! ''Everything'' has a price.<br>Pay up, and I'll give you a tablet with everything you need to know.''\n(Accept \u2013 Take my drachmae. [1000])\n*'''Kassandra:''' ''Here you go.''\n*'''Street Vendor:''' ''Excellent! Here you go.<br>This tablet will lead you ''directly''\u00a0to untold riches.''\n*'''Kassandra:''' ''What? Just tell me where\u2014''\n*'''Street Vendor:''' ''The tablet reveals all!''\n*'''Kassandra:''' ''What does that even mean?''\n*'''Street Vendor:''' ''Just look at tablet and follow the directions, ''misthios''! My work here is done.''\nKassandra investigated the tablet.\n[[File:ACOD Takes Drachmae to Make Drachmae 2.png|thumb|250px|Kassandra arriving at the treasure spot]]\n*'''Treasure Tablet:'''<br>''Off the east coast of [[Kythera]], on [[Diakofti Island]], your reward awaits.''\nKassandra headed to the island east of Kythera, finding a chest near a tree. As she approached it, she noticed that it laid open and empty.\n*'''Kassandra:''' ''Empty?! I'm going to snap that man's neck in two.''\nAt that moment, four other people reached the site.\n*'''Civilian 1:''' ''The ''misthios'' beat us to it!''\n*'''Civilian 2:''' ''The treasure is ours! Give it over!''\n[[File:ACOD Takes Drachmae to Make Drachmae 4.png|thumb|250px|Kassandra confronting the vendor]]\nKassandra defeated them, and returned to the vendor.\n*'''Kassandra:''' ''What's going on? The chest was empty!''\n*'''Street Vendor:''' ''Inconceivable! Maybe you don't know how to read a tablet? I guarantee you there's something inside.''\n*'''Kassandra:''' ''How can you be so sure?''\n*'''Street Vendor:''' ''Because I'm the one who put it there!<br>Uh... I mean... ''malaka!\nThe vendor turned to run away.\n*'''Street Vendor:''' ''No! No! No!''",
+    "Section_Outcome": "Kassandra paid the merchant drachmae for a map to a supposed treasure map, only to discover she had been tricked.",
+    "Section_Trivia": "*The name of this quest is a play on the saying: \"It takes money to make money\", which is a business saying that means one must have initial capital in order to begin investing and receiving returns.\n*At the end of the memory, it is possible to hunt down the street vendor and either knock him out or kill him. Doing so will result in receiving 2000 drachmae and a [[Self-Defense Mace|mace]]. Even if knocked out, the merchant cannot be recruited.\n*Even though subtitles name the group of four to be civilians, they use the [[bandit]]s' models.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Il faut de l'argent pour faire de l'argent]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kythera Island",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While near the [[Pilgrimage Site]], Kassandra came across a street vendor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Street Vendor:''' ''Down on your luck? Have I got a solution for you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''What's all this about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Street Vendor:''' ''It's about adventure! Thrills! Danger!<br>...''And'' untold fortunes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|I fear nothing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Danger... Ha. I never back down from a challenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Street Vendor:''' ''Then step right up and put your [[drachma]]e where your mouth is... For this kind of opportunity doesn't come around every day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|Life is an adventure.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I love a good adventure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Street Vendor:''' ''If you've got the [[drachma]]e and the time, I've got a once-in-a-lifetime adventure just for you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Tell me more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Street Vendor:''' ''Secrecy is key, ''[[Mercenary|misthios]]''. We can't just have anyone knowing there's a fortune to be found.<br>But first! ''Everything'' has a price.<br>Pay up, and I'll give you a tablet with everything you need to know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "17",
+            "content": "(Accept \u2013 Take my drachmae. [1000])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Here you go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Street Vendor:''' ''Excellent! Here you go.<br>This tablet will lead you ''directly''\u00a0to untold riches.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''What? Just tell me where\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Street Vendor:''' ''The tablet reveals all!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''What does that even mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Street Vendor:''' ''Just look at tablet and follow the directions, ''misthios''! My work here is done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra investigated the tablet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "25",
+            "content": "[[File:ACOD Takes Drachmae to Make Drachmae 2.png|thumb|250px|Kassandra arriving at the treasure spot]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Treasure Tablet:'''<br>''Off the east coast of [[Kythera]], on [[Diakofti Island]], your reward awaits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "27",
+            "content": "Kassandra headed to the island east of Kythera, finding a chest near a tree. As she approached it, she noticed that it laid open and empty.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Empty?! I'm going to snap that man's neck in two.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": "At that moment, four other people reached the site.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Civilian 1:''' ''The ''misthios'' beat us to it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Civilian 2:''' ''The treasure is ours! Give it over!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "32",
+            "content": "[[File:ACOD Takes Drachmae to Make Drachmae 4.png|thumb|250px|Kassandra confronting the vendor]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N6",
+            "global_id": "33",
+            "content": "Kassandra defeated them, and returned to the vendor.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''What's going on? The chest was empty!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Street Vendor:''' ''Inconceivable! Maybe you don't know how to read a tablet? I guarantee you there's something inside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''How can you be so sure?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Street Vendor:''' ''Because I'm the one who put it there!<br>Uh... I mean... ''malaka!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "38",
+            "content": "The vendor turned to run away.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Street Vendor:''' ''No! No! No!''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

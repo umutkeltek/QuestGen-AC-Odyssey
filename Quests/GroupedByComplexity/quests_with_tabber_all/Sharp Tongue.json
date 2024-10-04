@@ -1,0 +1,166 @@
+{
+    "Quest_Name": "Sharp Tongue",
+    "Quest_ID": "223515",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra, having investigated The Dagger, planned to return to Agapios and tell him what she had discovered.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support {{c|Agapios}}",
+        "previous": "The Taxman Cometh",
+        "concurrent": "Freedom Isn't Free<br>Blood and Water<br>Dagger to the Heart<br>Wasn't Born the Kingfisher",
+        "next": "The Kingfisher and the Robin",
+        "source": "Kassandra",
+        "location": "Chalkis City, Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Sharp Tongue''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to Agapios to report what she found about [[The Dagger]].",
+    "Section_Dialogue": "Having met Agapios' contacts, Kassandra returned to him in [[Chalkis City]].\n*'''Agapios:''' ''You've returned... What did you learn?''\n*'''Kassandra:''' ''The Dagger's base is on [[Skyros]]. They seem to be planning a ritual at the [[Temple of Achilles]]\u2014''\n*'''Agapios:''' ''What did you learn about my [[Neritos|brother]]?! Is he alive?! Is he the Kingfisher?''\n<tabber>\n|-|You brother is the Kingfisher.=\n*'''Kassandra:''' ''I'm sorry, Agapios. Neritos is the Kingfisher. The Dagger's his operation.''\n|-|Focus on stopping The Dagger.=\n*'''Kassandra:''' ''All that matters is stopping The Dagger.''\n*'''Agapios:''' ''...Ah. So it is him. Of course it was him.''\n</tabber>\nAgapios, having heard what Kassandra said, turned around and laughed in silence.\n*'''Agapios:''' ''Neritos always was getting himself into trouble. A temple to Achilles on Skyros, you said?''\nAgapios immediately ran off, intending to travel to Skyros himself.\n*'''Kassandra:''' ''Agapios\u2014''\n*'''Greek Soldier:''' ''Stop, [[Slavery|slave]]! Stop, slave! [[Guards]]! GUARDS!!''\n*'''[[Magistrate of Chalkis|Magistrate]]:''' ''No. That man earned his freedom long ago.''\nKassandra turned around to the magistrate.\n*'''Magistrate:''' ''Thanks to you, The Dagger's true face has been revealed, and [[Euboea]] has a chance at survival. You've earned your reward. Though I fear victory will not be as simple as storming Skyros. The Kingfisher's hid in the shadow for decades... There will be more to do before the end. Help me. Help Euboea.''\n(Accept \u2013 Happy to Help.)\n*'''Kassandra:''' ''I'll see what I can do.''\n*'''Magistrate:''' ''Good. Good. I'll lead a small force to [[Smuggler's Dock, Skyros|Smuggler's Dock]] on Skyros. Meet me there, and we'll finally crush The Dagger.''",
+    "Section_Outcome": "Kassandra reported what she found on the Dagger to Agapios, including the confirmation that Neritos was the Kingfisher who led the criminal syndicate. While Agapios ran off to confront his brother himself, Kassandra was enlisted by the Magistrate to combat The Dagger.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Agapios",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Having met Agapios' contacts, Kassandra returned to him in [[Chalkis City]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Agapios:''' ''You've returned... What did you learn?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''The Dagger's base is on [[Skyros]]. They seem to be planning a ritual at the [[Temple of Achilles]]\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Agapios:''' ''What did you learn about my [[Neritos|brother]]?! Is he alive?! Is he the Kingfisher?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|You brother is the Kingfisher.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I'm sorry, Agapios. Neritos is the Kingfisher. The Dagger's his operation.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|Focus on stopping The Dagger.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''All that matters is stopping The Dagger.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Agapios:''' ''...Ah. So it is him. Of course it was him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "Agapios, having heard what Kassandra said, turned around and laughed in silence.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Agapios:''' ''Neritos always was getting himself into trouble. A temple to Achilles on Skyros, you said?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Agapios immediately ran off, intending to travel to Skyros himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Agapios\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Greek Soldier:''' ''Stop, [[Slavery|slave]]! Stop, slave! [[Guards]]! GUARDS!!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''[[Magistrate of Chalkis|Magistrate]]:''' ''No. That man earned his freedom long ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "Kassandra turned around to the magistrate.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Magistrate:''' ''Thanks to you, The Dagger's true face has been revealed, and [[Euboea]] has a chance at survival. You've earned your reward. Though I fear victory will not be as simple as storming Skyros. The Kingfisher's hid in the shadow for decades... There will be more to do before the end. Help me. Help Euboea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "20",
+            "content": "(Accept \u2013 Happy to Help.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll see what I can do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Magistrate:''' ''Good. Good. I'll lead a small force to [[Smuggler's Dock, Skyros|Smuggler's Dock]] on Skyros. Meet me there, and we'll finally crush The Dagger.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

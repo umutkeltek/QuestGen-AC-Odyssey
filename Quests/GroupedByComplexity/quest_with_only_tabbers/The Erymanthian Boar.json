@@ -1,0 +1,190 @@
+{
+    "Quest_Name": "The Erymanthian Boar",
+    "Quest_ID": "223189",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Erymanthian Boar | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-ErymanthianBoar.jpg",
+        "description": "'The Erymanthian Boar was said to have been captured by Herakles, and now its namesake trampled all before it in Elis. Kassandra would have to avoid its deadly charge in order to claim its pelt.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Support",
+        "previous": "Kallisto the Bear (memory)|Kallisto the Bear",
+        "next": "The Hind of Keryneia",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Erymanthian Boar''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Elis]] to eliminate the [[Erymanthian Boar]] on the suggestion of [[Daphnae]], the leader of the [[Daughters of Artemis]].",
+    "Section_Dialogue": "Kassandra approached the clearing in Elis where the Erymanthian Boar had set up its den. [[Ikaros]] spotted it from on high.\n*'''Kassandra:''' ''By [[Zeus]]! What's with the size of the boars in this country?''\nKassandra engaged the boar and found its size to not be its only threat. Its noxious gas proved equivalent to a cloud of [[poison]], making it very difficult for her to engage the beast directly. As the battle dragged on, the clouds lingered and the beast only added to them, greatly limiting the non-toxic fighting space.  After a time, she slew the boar and collected its pelt.\n\nKassandra returned to Daphnae to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n(\"I have the Erymanthian Boar pelt.\")\n*'''Kassandra:''' ''This boar was far harder to kill than the [[Kalydonian Boar|Kalydonian one]], but I've yet to meet a pig that can't be skewered.''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''The gods chose well when they sent you to me.''\n<tabber>\n|-|I chose my own path.=\n*'''Kassandra:''' ''The gods may watch me, but they do not guide me.''\n*'''Daphnae:''' ''Then I feel for you. Artemis has always steered me right, and that includes in meeting you.''\n*'''Kassandra:''' ''Chance can easily be blamed on the gods.''\n*'''Daphnae:''' ''But can destiny?''\nKassandra blew air through the side of her lips derisively.\n|-|Flirt \u2013 The gods did choose well.=\n*'''Kassandra:''' ''I follow where the gods lead, and they led me to you.''\nDaphnae chuckled.\n*'''Daphnae:''' ''They have a sense of humor.''\n*'''Kassandra:''' ''How so?''\n*'''Daphnae:''' ''We will talk of the gods and their wishes once the hunt is done.''\n</tabber>\n(Leave \u2013 \"I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''",
+    "Section_Outcome": "Kassandra helped Daphnae to recover the pelt of the Erymanthian Boar.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the clearing in Elis where the Erymanthian Boar had set up its den. [[Ikaros]] spotted it from on high.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''By [[Zeus]]! What's with the size of the boars in this country?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra engaged the boar and found its size to not be its only threat. Its noxious gas proved equivalent to a cloud of [[poison]], making it very difficult for her to engage the beast directly. As the battle dragged on, the clouds lingered and the beast only added to them, greatly limiting the non-toxic fighting space.  After a time, she slew the boar and collected its pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to Daphnae to deliver the pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(\"I have the Erymanthian Boar pelt.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''This boar was far harder to kill than the [[Kalydonian Boar|Kalydonian one]], but I've yet to meet a pig that can't be skewered.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra handed the pelt over to Daphnae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Daphnae:''' ''The gods chose well when they sent you to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|I chose my own path.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''The gods may watch me, but they do not guide me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Daphnae:''' ''Then I feel for you. Artemis has always steered me right, and that includes in meeting you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Chance can easily be blamed on the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Daphnae:''' ''But can destiny?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "17",
+            "content": "Kassandra blew air through the side of her lips derisively.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC2",
+            "global_id": "18",
+            "content": "|-|Flirt \u2013 The gods did choose well.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''I follow where the gods lead, and they led me to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "20",
+            "content": "Daphnae chuckled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "21",
+            "content": "*'''Daphnae:''' ''They have a sense of humor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''How so?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Daphnae:''' ''We will talk of the gods and their wishes once the hunt is done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O2",
+            "global_id": "25",
+            "content": "(Leave \u2013 \"I'll return soon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

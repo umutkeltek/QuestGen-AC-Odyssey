@@ -1,0 +1,285 @@
+{
+    "Quest_Name": "A Sophisticated Tipple",
+    "Quest_ID": "224195",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Thespis asked Kassandra to retrieve wine of a suitable quality for serving at a performance of his latest play.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece, Support",
+        "next": "Setting the Stage",
+        "source": "Kassandra",
+        "location": "Elis, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''A Sophisticated Tipple''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "At the request of the actor [[Thespis]] and his aide [[Rhodanthe]], Kassandra was tasked with securing wine for the audience.",
+    "Section_Dialogue": "Approaching [[Demiurgi Fort]], Kassandra regarded the fortress.\n*'''Kassandra:''' ''The good wine should be in that fort. If the officers haven't drunk it all already.''\nShe infiltrated the fort and found the wine in a basket in one of the buildings.\n*'''Kassandra:''' ''That must be the good wine Thespis mentioned, but it smells awful. I should try it...''\nKassandra took a sip of the wine.\n*'''Kassandra:''' ''Ugh! This tastes like [[horse]] piss. I can't serve this. There must be something better nearby.''\nKassandra looked around and found a Wine Society Invitation nearby.\n*'''Wine Society Invitation:''' ''Those who appreciate the finer qualities of wine should join us in the underground storage for a tasting event. DON'T TELL THE OFFICERS.''\nKassandra searched Demiurgi Fort for the underground storage area. When she found it, two soldiers were discussing the wine as they enjoyed it.\n*'''Soldier:''' ''You see, the [[grape]]s from the southern side of the mountain are always sweeter. And that's why this wine tastes like apricots.''\n*'''Brute:''' ''No, no, no. These grapes are clearly imported from [[Thebes]]. And they're called \"the Pharaoh's Honey Grapes,\" because they taste like, well, [[honey]].''\n*'''Soldier:''' ''No, it has the distinctive aftertaste of apricots!''\n*'''Brute:''' ''It lingers in the mouth like honey.''\n*'''Soldier:''' ''I can't believe that idiot commander kept the terrible wine for himself. That fool couldn't tell fine wine from horse piss!''\n*'''Brute:''' ''Yeah!''\nKassandra subdued the soldiers and found the good quality wine. She carried it to a pickup location down the road from the fort and left it there for someone else to transport to Thespis. She returned on her own to Thespis to tell him the good news.\n*'''Kassandra:''' ''I found your wine.''\n*'''Thespis:''' ''Wonderful! Our guests will be in a fantastic mood before the play even starts.''\n*'''Rhodanthe:''' ''I sampled the wine, it's excellent! I'll try selling tickets in the better parts of town. Our wealthy patrons won't be disappointed.''\n*'''Kassandra:''' ''So, when will I be able to see this play?''\nThespis looked uncomfortable at the quest and rubbed his head.\n*'''Thespis:''' ''Well, there's a little complication with the cast. Finding them, I mean.''\n*'''Kassandra:''' ''You've lost your actors?''\n*'''Rhodanthe:''' ''None of them showed up at the last rehearsal. And the time before that, they seemed terribly discouraged. ''Someone'' might have been too harsh with them.''\n*'''Kassandra:''' ''No one will get paid if they don't come back.''\n*'''Thespis:''' ''Exactly. There's three of them in all. They're playing [[Ephialtes of Trachis|Ephialtes]], [[Xerxes I of Persia|Xerxes]], and [[Dienekes]]. I can give you an idea of where they might be.''\n*'''Kassandra:''' ''Who's playing [[Leonidas I of Sparta|Leonidas]]?''\n*'''Thespis:''' ''I am, of course. I trust no one but myself to carry the starring role.''\n(If players choose \"Where's Xerxes?\")\n*'''Kassandra:''' ''So Xerxes, King of the [[Iran|Persians]], is in your play?''\n*'''Thespis:''' ''Yes, and I found a tremendous actor to play him. He plays marvelous villains. He did mention that the [[Dyspontion Ruins]] were inspiring him.''\n(If players choose \"Where's Dienekes?\")\n*'''Kassandra:''' ''Dienekes... that was Leonidas's favorite lieutenant.''\n*'''Thespis:''' ''Yes, and played by a charming young fellow. A bit of a nervous type though. I was surprised when he told me he was going gambling in the great square here in Elis.''\n(If players choose \"Where's Ephialtes?\")\n*'''Kassandra:''' ''So the traitor Ephialtes is missing. What a surprise.''\n*'''Thespis:''' ''Usually, my good friend Tros is dedicated to his craft. But last time we spoke, he seemed touched by a certain religious fervor. He said he would pray at the [[Spring of Piera]].''\n(If players choose \"Leave \u2013 I'll go find them.\")\n*'''Kassandra:''' ''I hope the actors turn up.''\n*'''Thespis:''' ''When you find ''our'' actors, send them back to me. And do your best to encourage them! Our performance will be terrible if the actors' hearts aren't in it.''\n*'''Kassandra:''' ''And that means no one will pay us. Got it.''\nKassandra left Thespis and Rhodanthe.",
+    "Section_Outcome": "Kassandra brought Thespis a high quality wine to serve at his play, but found out that the play might not proceed because the actors were all missing.",
+    "Section_Trivia": "*If players choose to complete this mission, the other support quest [[Everyman's Drink]] will disappear upon completion.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Show Must Go On",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Approaching [[Demiurgi Fort]], Kassandra regarded the fortress.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''The good wine should be in that fort. If the officers haven't drunk it all already.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She infiltrated the fort and found the wine in a basket in one of the buildings.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''That must be the good wine Thespis mentioned, but it smells awful. I should try it...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra took a sip of the wine.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Ugh! This tastes like [[horse]] piss. I can't serve this. There must be something better nearby.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "7",
+            "content": "Kassandra looked around and found a Wine Society Invitation nearby.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Wine Society Invitation:''' ''Those who appreciate the finer qualities of wine should join us in the underground storage for a tasting event. DON'T TELL THE OFFICERS.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "9",
+            "content": "Kassandra searched Demiurgi Fort for the underground storage area. When she found it, two soldiers were discussing the wine as they enjoyed it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Soldier:''' ''You see, the [[grape]]s from the southern side of the mountain are always sweeter. And that's why this wine tastes like apricots.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Brute:''' ''No, no, no. These grapes are clearly imported from [[Thebes]]. And they're called \"the Pharaoh's Honey Grapes,\" because they taste like, well, [[honey]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Soldier:''' ''No, it has the distinctive aftertaste of apricots!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Brute:''' ''It lingers in the mouth like honey.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Soldier:''' ''I can't believe that idiot commander kept the terrible wine for himself. That fool couldn't tell fine wine from horse piss!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Brute:''' ''Yeah!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "16",
+            "content": "Kassandra subdued the soldiers and found the good quality wine. She carried it to a pickup location down the road from the fort and left it there for someone else to transport to Thespis. She returned on her own to Thespis to tell him the good news.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I found your wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Thespis:''' ''Wonderful! Our guests will be in a fantastic mood before the play even starts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Rhodanthe:''' ''I sampled the wine, it's excellent! I'll try selling tickets in the better parts of town. Our wealthy patrons won't be disappointed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''So, when will I be able to see this play?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "21",
+            "content": "Thespis looked uncomfortable at the quest and rubbed his head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Thespis:''' ''Well, there's a little complication with the cast. Finding them, I mean.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''You've lost your actors?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Rhodanthe:''' ''None of them showed up at the last rehearsal. And the time before that, they seemed terribly discouraged. ''Someone'' might have been too harsh with them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''No one will get paid if they don't come back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "26",
+            "content": "*'''Thespis:''' ''Exactly. There's three of them in all. They're playing [[Ephialtes of Trachis|Ephialtes]], [[Xerxes I of Persia|Xerxes]], and [[Dienekes]]. I can give you an idea of where they might be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Who's playing [[Leonidas I of Sparta|Leonidas]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "28",
+            "content": "*'''Thespis:''' ''I am, of course. I trust no one but myself to carry the starring role.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "29",
+            "content": "(If players choose \"Where's Xerxes?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''So Xerxes, King of the [[Iran|Persians]], is in your play?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Thespis:''' ''Yes, and I found a tremendous actor to play him. He plays marvelous villains. He did mention that the [[Dyspontion Ruins]] were inspiring him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "32",
+            "content": "(If players choose \"Where's Dienekes?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Dienekes... that was Leonidas's favorite lieutenant.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "34",
+            "content": "*'''Thespis:''' ''Yes, and played by a charming young fellow. A bit of a nervous type though. I was surprised when he told me he was going gambling in the great square here in Elis.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "35",
+            "content": "(If players choose \"Where's Ephialtes?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''So the traitor Ephialtes is missing. What a surprise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "37",
+            "content": "*'''Thespis:''' ''Usually, my good friend Tros is dedicated to his craft. But last time we spoke, he seemed touched by a certain religious fervor. He said he would pray at the [[Spring of Piera]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "38",
+            "content": "(If players choose \"Leave \u2013 I'll go find them.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''I hope the actors turn up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "40",
+            "content": "*'''Thespis:''' ''When you find ''our'' actors, send them back to me. And do your best to encourage them! Our performance will be terrible if the actors' hearts aren't in it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''And that means no one will pay us. Got it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "42",
+            "content": "Kassandra left Thespis and Rhodanthe.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

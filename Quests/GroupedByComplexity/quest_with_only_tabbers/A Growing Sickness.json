@@ -1,0 +1,228 @@
+{
+    "Quest_Name": "A Growing Sickness",
+    "Quest_ID": "224370",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_A_Growing_Sickness.png",
+        "description": "'Hippokrates fought a losing battle against the spread of the Plague of Athens|plague, but even though his task seemed hopeless, he never gave in. Kassandra pledged to help him cleanse the streets.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "Autumn 429 BCE"
+    },
+    "General_Description": "'''A Growing Sickness''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "After returning to the [[Plague of Athens|plague]]-striken city of [[Athens]], Kassandra met [[Hippokrates]], who did his own part to combat the plague.",
+    "Section_Dialogue": "Upon her return to Athens to speak with [[Aspasia]], Kassandra encountered Hippokrates.\n*'''Kassandra:''' ''Hippokrates, it's good you're here.''\n*'''Hippokrates:''' ''Is it? Look around you. Athens is dying...''\n[[File:ACOD_A_Growing_Sickness_-_Hippokrates_informing_Kassandra.png|thumb|250px|Hippokrates informing Kassandra the details of the plague]]\n(If players asked \"What is happening here?\")\n*'''Kassandra:''' ''What do you think is going on?''\n*'''Hippokrates:''' ''I don't know. What I do know is that it kills without discrimination. Rich, poor, philosopher, or farmer\u2014and I'm helpless to stop it.''\n(If players asked \"What is happening to everyone?\")\n*'''Kassandra:''' ''What's happening to the victims?''\n*'''Hippokrates:''' ''Leaking, pustulant rashes, raging fevers, pallid, sweaty skin. I find many dying in their own excrement.''\n(If players chose \"There must be something you can do.\")\n*'''Kassandra:''' ''Is there nothing that can be done?''\n*'''Hippokrates:''' ''I try and ease the suffering where I can.''\n*'''Hippokrates:''' ''The plague is spreading through the victims' excretions\u2014I'm sure of it. The bodies must be burned.''\n<tabber>\n|-|Athens is lucky to have you.=\n*'''Kassandra:''' ''Your compassion for the people has always inspired me.''\n*'''Hippokrates:''' ''Unfortunately compassion is all I have to give. The gods have shown me how arrogant I had become.''\n*'''Kassandra:''' ''We're only mortal, and the gods like to remind us whenever they can.''\n|-|You could get sick.=\n*'''Kassandra:''' ''What if you get sick?''\n*'''Hippokrates:''' ''It seems I am immune.''\n*'''Kassandra:''' ''Then you can continue to give comfort to those who aren't.''\n</tabber>\n*'''Hippokrates:''' ''I need help burning the bodies, Kassandra. Fanatics are roaming the streets, trying to stop me in my work.''\n*'''Kassandra:''' ''What fanatics?''\n*'''Hippokrates:''' ''The [[Followers of Ares]]\u2014superstitious fools. They believe burning the dead is sacrilege, and attacked me. Can you believe it?''\n(Accept \u2013 \"I'll help.\")\n*'''Kassandra:''' ''These Followers of Ares don't worry me. I'll help burn the bodies.''\nKassandra began gathering the bodies one at a time and tossing them onto the funeral pyres.\n*'''Kassandra:''' ''May you reach [[underworld|Hades]] safely.''\nA number of Followers of Ares fanatics and some of the dogs attacked her as she worked, but she dispatched them all the same.\n*'''Kassandra:''' ''That's all of them.''",
+    "Section_Outcome": "Kassandra briefly helped Hippokrates during the Plague of Athens, then resumed her way to [[Perikles]]' [[Perikles' Residence|residence]].",
+    "Section_Trivia": "*This quest is no longer available once [[Abandoned By the Gods]] is completed.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "12.",
+    "Chapter_Name": "Rising from the Ashes",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Upon her return to Athens to speak with [[Aspasia]], Kassandra encountered Hippokrates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Hippokrates, it's good you're here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Hippokrates:''' ''Is it? Look around you. Athens is dying...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "4",
+            "content": "[[File:ACOD_A_Growing_Sickness_-_Hippokrates_informing_Kassandra.png|thumb|250px|Hippokrates informing Kassandra the details of the plague]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "5",
+            "content": "(If players asked \"What is happening here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''What do you think is going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Hippokrates:''' ''I don't know. What I do know is that it kills without discrimination. Rich, poor, philosopher, or farmer\u2014and I'm helpless to stop it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "8",
+            "content": "(If players asked \"What is happening to everyone?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What's happening to the victims?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Hippokrates:''' ''Leaking, pustulant rashes, raging fevers, pallid, sweaty skin. I find many dying in their own excrement.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "11",
+            "content": "(If players chose \"There must be something you can do.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Is there nothing that can be done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Hippokrates:''' ''I try and ease the suffering where I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Hippokrates:''' ''The plague is spreading through the victims' excretions\u2014I'm sure of it. The bodies must be burned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "15",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "16",
+            "content": "|-|Athens is lucky to have you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''Your compassion for the people has always inspired me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Hippokrates:''' ''Unfortunately compassion is all I have to give. The gods have shown me how arrogant I had become.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''We're only mortal, and the gods like to remind us whenever they can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "20",
+            "content": "|-|You could get sick.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''What if you get sick?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Hippokrates:''' ''It seems I am immune.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Then you can continue to give comfort to those who aren't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "24",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Hippokrates:''' ''I need help burning the bodies, Kassandra. Fanatics are roaming the streets, trying to stop me in my work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''What fanatics?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "27",
+            "content": "*'''Hippokrates:''' ''The [[Followers of Ares]]\u2014superstitious fools. They believe burning the dead is sacrilege, and attacked me. Can you believe it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "28",
+            "content": "(Accept \u2013 \"I'll help.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''These Followers of Ares don't worry me. I'll help burn the bodies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "30",
+            "content": "Kassandra began gathering the bodies one at a time and tossing them onto the funeral pyres.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''May you reach [[underworld|Hades]] safely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "32",
+            "content": "A number of Followers of Ares fanatics and some of the dogs attacked her as she worked, but she dispatched them all the same.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''That's all of them.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

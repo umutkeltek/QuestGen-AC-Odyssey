@@ -1,0 +1,39 @@
+{
+    "QuestName": "Chip on Your Shoulder",
+    "QuestID": "224068",
+    "Revision": {
+        "id": "1047429",
+        "parentid": "1010406",
+        "timestamp": "2023-06-13T18:58:30Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047429",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "p9p0xs3h466bo117765holdnhxvv1e0"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Chip on Your Shoulder 1.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": null,
+        "next": "Hostage Situation",
+        "source": "Kassandra",
+        "location": "Chios, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Chip on Your Shoulder''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A lumber merchant in [[Chios]] city hired Kassandra to kill the Leader of [[Lesbos]], who some claimed had been exploiting the island's resources to line his own pockets.",
+    "Section_Dialogue": "Kassandra traveled to the [[Boupalos Shipyard]] in the port of [[Chios (city)|Chios]] and encountered a lumber merchant named [[Thais]], who offered his wares immediately.\n*'''Thais:''' Misthios''! Can I interest you in some lumber for your [[Adrestia|ship]]?''\nShe inspected the lumber and admired the quantity and quality.\n*'''Kassandra:''' ''That's a lot of chopped trees... The lumber would be a fine addition to any ship.''\n*'''Thais:''' ''Everyone knows the finest lumber comes from Chios.''\n*'''Thais:''' ''But... the ''mal\u00e1ka'' in charge of Lesbos keeps trading our product with other city states. He's gaining influence, and we're losing profits.''\n\n<tabber>\n|-|He's the boss.=\n*'''Kassandra:''' ''Leaders have their reasons. Maybe his dealings help more than you know.''\n*'''Thais:''' ''How is using our lumber to strengthen the fleets of other nations helping? No! He has his own interests at heart, not the interests of [[Lesbos]].''\n|-|He should be ashamed.=\n*'''Kassandra:''' ''Leaders have a duty to serve their people and their land.''\n*'''Thais:''' ''Agreed. This leader is guided by self-interest and greed, pure and simple.''\n</tabber>\n*'''Kassandra:''' ''Then he's no leader.''\n*'''Thais:''' ''Exactly. And if we remove the source of the problem, the problem will disappear with it. The people of Lesbos deserve to benefit from its resources.''\n*'''Thais:''' ''Can I hire you to help?''\n\n:(Already killed)\n:*'''Kassandra:''' ''As the gods would have it, I've already killed that corrupt nation leader.''\n:*'''Thais:''' ''Good. That mal\u00e1kas deserved to die. Take this drachmae as thanks.''\n(quest reward is [[Lesbos Breastplate]], some drachmae and olive wood)\n\n(Accept \u2013 \"I'll do it.\")\n[[File:ACOD Chip on Your Shoulder 2.png|thumb|250px|Kassandra accepting the merchant's request]]\n*'''Kassandra:''' ''I can take care of the \"problem.\"''\n(If players asked \"Where is the leader?\")\n*'''Kassandra:''' ''Where can I find the leader of Lesbos?''\n*'''Thais:''' ''He lives in [[Mytilene]]. When he's not at home, he's inspecting the troops in the fort or praying to his chosen god. You know, anything to avoid real work.''\n(If players asked \"Why does Lesbos need Chios' resources?\")\n*'''Kassandra:''' ''Lesbos is a bountiful place. Why does the leader use all of Chios's resources?''\n*'''Thais:''' ''Damned if I know. We keep chopping down all our trees and killing all our animals for Mytilene. Soon we won't have anything left.''\n(Leave \u2013 \"I have enough information.\")\n*'''Kassandra:''' ''I'll remove the problem in Mytilene for you.''\n*'''Thais:''' ''When you've finished, I'll send the reward to your ship.''\n\nKassandra took her leave and sailed north to Mytilene.\n*'''Kassandra:''' ''I should look for the leader in his home, the fort, and the temple.''\nKassandra eventually tracked down the leader and did what she could to weaken his position as leader of the [[Petrified Islands]]. She eventually slew the leader and fulfilled the contract.\n*'''Kassandra:''' ''Of course. Another [[Cult of Kosmos|Cultist]].''",
+    "Section_Outcome": "Kassandra slew the corrupt leader of the Petrified Islands and received a sizable reward from the grateful Thais.",
+    "Section_Trivia": "*The leader targeted in this quest will very likely be [[Kodros]], a member of the [[Delian League (Cult of Kosmos)|Delian League]] branch of the [[Cult of Kosmos]]. As Kodros is predetermined to be the default leader of the Petrified Islands before the player can affect any change in leadership, it is highly likely he will be the target; though he is only referred to with generic descriptors, Kassandra has a line of dialogue pointing out his Cult membership upon killing him.\n:*If the Naval battle to change leadership in the islands is completed before Kodros is killed but while the quest is active, it will automatically complete, and Kassandra will say her final line about the Cultist from the deck of the ''[[Adrestia]]''. If the leadership changes before the quest is accepted, Thais' target will be the replacement leader from the other faction, and Kassandra will comment on killing \"another Cultist\" when she kills him. Under both of these scenarios, Kodros will remain alive and set up camp in the woods between the [[Vineyard, Lesbos|Vineyard]] and Mytilene (though he will likely be immediately attacked by Spartan patrols). Thus, it is highly likely that Kodros was always intended to be the true target in this quest.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

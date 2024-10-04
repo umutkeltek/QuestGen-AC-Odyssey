@@ -1,0 +1,512 @@
+{
+    "Quest_Name": "Designated Rider",
+    "Quest_ID": "224258",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Handle with Care",
+        "next": "Rock Hard",
+        "image": "ACOD_Designated_Rider.png",
+        "description": "'After a long, drunken night, Alkibiades begged Kassandra to make sure an equally drunk politician made it home.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Alkibiades}}",
+        "source": "Kassandra",
+        "location": "Port of Piraeus, Attika, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Designated Rider''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was requested by [[Alkibiades]] to escort a drunk [[Athens|Athenian]] politician home.",
+    "Section_Dialogue": "While roaming the [[Port of Piraeus]], Kassandra came across Alkibiades.\n*'''Kassandra:''' ''Alkibiades. You look like you're having fun.''\nAlkibiades raised his arms in rejoice.\n*'''Alkibiades:''' ''The gods work fast! I wished someone as beautiful as me were here, and you arrived!''\n<tabber>\n|-|You're drunk.=\nKassandra leaned a bit closer and grimaced while she sniffed him.\n*'''Kassandra:''' ''You're drunker than normal.''\n*'''Alkibiades:''' ''You'll have to forgive me. At this time of night, I like to get to the point when I have a pretty face staring back at me.''\n\n|-|The gods clearly know beauty.=\n*'''Kassandra:''' ''It's almost unfair for the both of us to be in one place. It will make everyone else feel bad.''\n*'''Alkibiades:''' ''Don't worry about them. These poor fools have accepted their fate\u2014the gods decided many should lack in beauty while you and I bathe in it.''\n</tabber>\n\n<tabber>\n|-|(If the dialogue happens at daytime)=\nKassandra shook her head.\n*'''Kassandra:''' ''You do realize the sun is out, right?''\n*'''Alkibiades:''' ''Yes, what about it?''\n*'''Kassandra:''' ''Starting a bit early, aren't you?''\nAlkibiades gestured enthusiastically.\n*'''Alkibiades:''' ''Starting? No, no. This is ending in the most spectacular fashion.''\n*'''Kassandra:''' ''Another successful party, then.''\n\n|-|(If the dialogue happens at night)=\n*'''Kassandra:''' ''You're in a good mood. Must have been some party.'' \n</tabber>\nHe pointed to the drunk man while speaking.\n*'''Alkibiades:''' ''The only kind I know. Although, I have a slight problem. There's an important politician here who really needs to get back home, but gods know I can't make the trip.''\n<tabber>\n|-|I'll take the politician home.=\n*'''Kassandra:''' ''I'll make sure he gets home safe.''\n*'''Alkibiades:''' ''Yes, safe. Right. It should be an easy trip, although you may have to carry him at this point. Lucky man...''\nAlkibiades looked down at the politician.\n|-|Let him sleep it off.=\n*'''Kassandra:''' ''He can make the trip when he wakes up.''\nKassandra returned a little later.\n*'''Alkibiades:''' ''Will you help me with the politician?''\n(Back to dialogue choice one)\n</tabber>\n(If players choose \"Why can't the politician stay here tonight?\")\n*'''Kassandra:''' ''You could let him stay here.''\n*'''Alkibiades:''' ''I would, but it's never good to let a politician stay the night. It's a rule of mine.''\n*'''Kassandra:''' ''I'm surprised you have rules.''\n*'''Alkibiades:''' ''You know how they can be. Never want to stop talking. There's only so much I can take. But for you, I'd break all of my rules.''\n(If players choose \"What's so important about him?\")\n*'''Kassandra:''' ''What has he done to be so special?''\n*'''Alkibiades:''' ''Well he... Uh... It was something to do with people, I think? Gods, I don't know. You may as well ask what I ate ten days ago.''\nKassandra raised her eyebrow, unconvinced.\n(If players choose \"How do you party so much?\")\n*'''Kassandra:''' ''So you party often?''\n*'''Alkibiades:''' ''As often as I can.''\n*'''Kassandra:''' ''I'm not sure how you do it.''\n*'''Alkibiades:''' ''Practice, practice, practice. The more I do, the better chance of having a clearer head than those around me.''\nShe had a realization.\n*'''Kassandra:''' ''So you're looking to gain an advantage?''\nHe appeared shocked.\n*'''Alkibiades:''' ''Over my allies? Never. Actually, let's not talk about such things.''\n*'''Kassandra:''' ''I'll try to get the politician home before he completely passes out.''\n*'''Alkibiades:''' ''Wonderful! Just take him north of the Port of Piraeus. His home is somewhere around there.''\n(If players returns to him shortly after before carrying the politican)\n*'''Alkibiades:''' ''You're still here?''\nAs Kassandra carried the politician north of the port.\n*'''Politician:''' ''Now the world is spinning and bouncing.''\nHalfway through.\n*'''Politician:''' ''Wait, why are we going this way?''\nUpon entering a run-down neighbourhood, the politician's voice became unnerved.\n*'''Politician:''' ''Are you sure this is the right way? It doesn't look familiar.''\nNearing a back alley, the politician asked disconcertingly:\n*'''Politician:''' ''Why did you bring me here?''\nKassandra carried the politician to the front of the house at the end of the alley.\n*'''Kassandra:''' ''Is this really where he lives?''\nAfter she set him down, there were\u00a0immediately ambushed.\n*'''Rogue:''' ''Ha, it's exactly like we were told! Get him!''\nKassandra took down the three ambushers.\n(If the politician survived)\n*'''Politician:''' ''You saved my life!''\n*'''Kassandra:''' ''Any reason someone would want to kill you?''\n*'''Politician:''' ''I'm a politician. Could have been anything. Thank you, misthios.''",
+    "Section_Outcome": "The directions Alkibiades gave led Kassandra into an ambush. She dealt with the ambushers, though the politician's fate was less certain.",
+    "Section_Trivia": "*The protagonist will reference the politician's fate in their [[Rock Hard|next encounter]] with Alkibiades. It is possible to save him, but on Nightmare difficulty, he'll likely die in only a couple of hits due to the way in which damage scales between difficulties. As three enemies will attack, it is highly likely one will target the politician while the other two attack the player.\n**Perhaps the easiest method is to quickly dismount and run towards the enemies before they can approach. In this case, it is likely that all three enemies will target the player, and there should be sufficient time for the player to stop anyone that might try to approach the politician.\n**Otherwise, players should utilize abilities that stun, inflict area-of-effect damage, and/or strike multiple targets to maintain an advantage. With sufficient Assassin Damage, Hero Strike can also dispatch at least one of the three enemies, and Shadow of Nyx can help the player disappear after a stun, thus re-enabling Rush Assassination.\n*No matter how the politician dies, the protagonist will tell Alkibiades he was mauled by wild animals. This includes the highly likely outcome that one of the ambushers will kill him.\n*The name of the memory references the practice of {{Wiki|Designated driver|designated driving}}, in which one person remains sober throughout a night of drinking while others indulge in alcoholic beverages, in order for the former to safely drive the latter home.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[de:Geleitschutz]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Alkibiades",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While roaming the [[Port of Piraeus]], Kassandra came across Alkibiades.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Alkibiades. You look like you're having fun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Alkibiades raised his arms in rejoice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Alkibiades:''' ''The gods work fast! I wished someone as beautiful as me were here, and you arrived!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|You're drunk.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Kassandra leaned a bit closer and grimaced while she sniffed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''You're drunker than normal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "9",
+            "content": "*'''Alkibiades:''' ''You'll have to forgive me. At this time of night, I like to get to the point when I have a pretty face staring back at me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|The gods clearly know beauty.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''It's almost unfair for the both of us to be in one place. It will make everyone else feel bad.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "13",
+            "content": "*'''Alkibiades:''' ''Don't worry about them. These poor fools have accepted their fate\u2014the gods decided many should lack in beauty while you and I bathe in it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "17",
+            "content": "|-|(If the dialogue happens at daytime)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "Kassandra shook her head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''You do realize the sun is out, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "20",
+            "content": "*'''Alkibiades:''' ''Yes, what about it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Starting a bit early, aren't you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "22",
+            "content": "Alkibiades gestured enthusiastically.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "23",
+            "content": "*'''Alkibiades:''' ''Starting? No, no. This is ending in the most spectacular fashion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Another successful party, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC4",
+            "global_id": "26",
+            "content": "|-|(If the dialogue happens at night)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''You're in a good mood. Must have been some party.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "28",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N6",
+            "global_id": "29",
+            "content": "He pointed to the drunk man while speaking.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "30",
+            "content": "*'''Alkibiades:''' ''The only kind I know. Although, I have a slight problem. There's an important politician here who really needs to get back home, but gods know I can't make the trip.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "31",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "32",
+            "content": "|-|I'll take the politician home.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'll make sure he gets home safe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "34",
+            "content": "*'''Alkibiades:''' ''Yes, safe. Right. It should be an easy trip, although you may have to carry him at this point. Lucky man...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "35",
+            "content": "Alkibiades looked down at the politician.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC6",
+            "global_id": "36",
+            "content": "|-|Let him sleep it off.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''He can make the trip when he wakes up.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "38",
+            "content": "Kassandra returned a little later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "39",
+            "content": "*'''Alkibiades:''' ''Will you help me with the politician?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "40",
+            "content": "(Back to dialogue choice one)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE3",
+            "global_id": "41",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "42",
+            "content": "(If players choose \"Why can't the politician stay here tonight?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''You could let him stay here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "44",
+            "content": "*'''Alkibiades:''' ''I would, but it's never good to let a politician stay the night. It's a rule of mine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I'm surprised you have rules.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "46",
+            "content": "*'''Alkibiades:''' ''You know how they can be. Never want to stop talking. There's only so much I can take. But for you, I'd break all of my rules.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "47",
+            "content": "(If players choose \"What's so important about him?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''What has he done to be so special?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "49",
+            "content": "*'''Alkibiades:''' ''Well he... Uh... It was something to do with people, I think? Gods, I don't know. You may as well ask what I ate ten days ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "50",
+            "content": "Kassandra raised her eyebrow, unconvinced.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "C3",
+            "global_id": "51",
+            "content": "(If players choose \"How do you party so much?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''So you party often?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "53",
+            "content": "*'''Alkibiades:''' ''As often as I can.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I'm not sure how you do it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "55",
+            "content": "*'''Alkibiades:''' ''Practice, practice, practice. The more I do, the better chance of having a clearer head than those around me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "56",
+            "content": "She had a realization.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''So you're looking to gain an advantage?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "58",
+            "content": "He appeared shocked.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "59",
+            "content": "*'''Alkibiades:''' ''Over my allies? Never. Actually, let's not talk about such things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I'll try to get the politician home before he completely passes out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "61",
+            "content": "*'''Alkibiades:''' ''Wonderful! Just take him north of the Port of Piraeus. His home is somewhere around there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "62",
+            "content": "(If players returns to him shortly after before carrying the politican)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D32",
+            "global_id": "63",
+            "content": "*'''Alkibiades:''' ''You're still here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "64",
+            "content": "As Kassandra carried the politician north of the port.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "65",
+            "content": "*'''Politician:''' ''Now the world is spinning and bouncing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "66",
+            "content": "Halfway through.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "67",
+            "content": "*'''Politician:''' ''Wait, why are we going this way?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "68",
+            "content": "Upon entering a run-down neighbourhood, the politician's voice became unnerved.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "69",
+            "content": "*'''Politician:''' ''Are you sure this is the right way? It doesn't look familiar.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "70",
+            "content": "Nearing a back alley, the politician asked disconcertingly:",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "71",
+            "content": "*'''Politician:''' ''Why did you bring me here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "72",
+            "content": "Kassandra carried the politician to the front of the house at the end of the alley.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Is this really where he lives?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "74",
+            "content": "After she set him down, there were\u00a0immediately ambushed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "75",
+            "content": "*'''Rogue:''' ''Ha, it's exactly like we were told! Get him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "76",
+            "content": "Kassandra took down the three ambushers.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O2",
+            "global_id": "77",
+            "content": "(If the politician survived)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "78",
+            "content": "*'''Politician:''' ''You saved my life!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Any reason someone would want to kill you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "80",
+            "content": "*'''Politician:''' ''I'm a politician. Could have been anything. Thank you, misthios.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "QuestName": "Wasted Devotion",
+    "QuestID": "232001",
+    "Revision": {
+        "id": "1047499",
+        "parentid": "841427",
+        "timestamp": "2023-06-13T19:19:48Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047499",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "6wc88ufjai5pp5qegob4koyffgthpt3"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'An athlete inspired by Kassandra at the Olympic Games|Olympics wished to devote herself to Zeus. The athlete wanted to destroy her shrine to Poseidon but was afraid of beasts in the area.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Pankration (memory)|Pankration",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Wasted Devotion''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Settlng an example, Kassandra was faced with the consequences.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire ''Anything you need a [[mercenary]]'s help with?''\n*'''Athlete:''' ''You! Beloved child of [[Zeus]] and [[Hera]]! You are officially the greatest being who ever lived.''\n*'''Kassandra:''' ''What equipment? Most of the athletes I've seen barely wear clothes.''\n*'''Athlete:''' ''The javelins,'' misthios''. Stop thinking about naked athletes and help us with these thieves!''\n<tabber>\n|-|I am the greatest.=\n*'''Kassandra:''' ''\n*'''Athlete:''' ''\n|-|I am the greatest... for now.=\n*'''Kassandra:''' ''I have achieved what no mere mortal can achieve... until another mere mortal achieves it.''\n*'''Athlete:''' ''Nonsense.''\n</tabber>\n*'''Athlete:''' '' Once a mighty warrior, always a mighty warrior. You have given me great inspiration,'' misthios.\n*'''Kassandra:''' ''How so?''\n*'''Athlete:''' ''By winning the [[Olympic Games|Olympics]], you've made me realize how much time I've wasted worshipping [[Poseidon]] when I should have been devoted to Zeus.''\n*'''Kassandra:''' ''So what now?''\n*'''Athlete:''' ''Before your heroics, I foolishly devoted a shrine to Poseidon. Now, I'd like to see it turned to dust, but wild beasts are drawn to the sacrifices I left there.''\n*'''Kassandra:''' ''Sounds like you want me to kill the beasts.''\n*'''Athlete:''' ''Yes, all of them must be gutted. Do you accept?''\n(Accept - I'll kill the beasts.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Athlete:''' ''Good, get this done quickly.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the athlete, and sought out the shrine wherein she found and slew two [[bear]]s before returning to the athlete.\n*'''Athlete:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Athlete:''' ''You do good work, friend. Here, this is for you.''\n*'''Kassandra:''' ''Happy to help.''\nThe athlete rewarded Kassandra for her help.",
+    "Section_Outcome": "Kassandra helped an athlete with their problem, and was rewarded with [[drachma]]e.",
+    "Section_Trivia": "*This quest is triggered by completing the Olympic questline. It is unknown if there are variables that affect the availability.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

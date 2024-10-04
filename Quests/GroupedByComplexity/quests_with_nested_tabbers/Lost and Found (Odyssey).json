@@ -1,0 +1,675 @@
+{
+    "Quest_Name": "Lost and Found (Odyssey)",
+    "Quest_ID": "224094",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Lost and Found",
+        "image": "ACOD Lost and Found.png",
+        "description": "'Captain Gotarzes marooned himself and his crew on a small Lestris|island near Keos. He desperately needed to escape the island and his own men. Kassandra agreed to take him back to Keos.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "We're Treasure Hunters",
+        "next": "Island of Misfortune",
+        "source": "Kassandra",
+        "location": "Lestris, Greece<br />Keos, Greece<br />Aegean Sea",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Lost and Found''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An argument between a captain and his crew drew Kassandra's attention at [[Lestris]].",
+    "Section_Dialogue": "In pursuit of the [[Red in the Wreckage|shipwrecked]] supply of [[miltos]], Kassandra found a [[Piracy|pirate]] [[Gotarzes|captain]] accosted by his crew on the island of [[Lestris]].\n*'''Soldier:''' ''Every time, Gotarzes!''\n*'''Gotarzes:''' ''Now, I know the situation doesn't look good...''\n*'''Thug:''' ''Doesn't look good! We're fucking marooned!''\n*'''Gotarzes:''' ''You can't blame me for the rocks.''\n*'''Thug:''' ''You're the captain. We fucking blame you for crashing!''\n\n<tabber>\n|-|If Kassandra approached the pirates=\nKassandra approached the pirates.\n*'''Thug:''' ''It was simple. An unarmed [[merchant]] ship! You gave that to [[Poseidon]], and then ran us onto the rocks.''\n*'''Gotarzes:''' ''We aren't far from [[Keos]]. Someone'll find us.''\n*'''Thug:''' ''I hope the [[Great white shark|sharks]] find ''you'' first.''\n*'''Kassandra:''' ''Stop!''\n*'''Thug:''' ''Keep the fuck out of this. the captain's gonna get what's comin' to him!''\n(If players choose \"What's going on?\")\n*'''Kassandra:''' ''What has this man done?''\n*'''Thug:''' ''What hasn't he done?''\n*'''Kassandra:''' ''Did he offend you\u2014poor, delicate pirates?''\n*'''Thug:''' ''Should never have agreed to work with this ''mal\u00e1kas''. We finally get a job from [[Xenia]], and he sails us into the fucking ground.'' \n(If players choose  \"Why are you here?\")\n*'''Kassandra:''' ''How did you end up on this island?''\n*'''Gotarzes:''' ''I can explain. I am the captain...''\n*'''Thug:''' ''Oh, we've heard enough from you, ''captain.\n*'''Kassandra:''' ''I'll hear it from the captain himself.''\n*'''Gotarzes:''' ''As I was saying... We got into a great sea battle\u2014which we won, thanks to me\u2014and the victory was so sweet! I didn't notice how close to the rocks we were. A minor accident. Now, if you could just get us back to Keos?''\n(If players choose \"This man's your captain.\")\n*'''Kassandra:''' ''This man is your captain.''\n*'''Thug:''' ''You can only be captain if you got a ship, and he ain't got one no more.''\n*'''Gotarzes:''' ''I can make it worth your while if you get me back to Keos.''\n*'''Thug:''' ''Stand aside.''\n{{#tag:tabber|\nOrder must be upheld.=\n*'''Kassandra:''' ''Get out of my way. I'm taking Captain Gotarzes back to Keos.''\n*'''Thug:''' ''You'll be sorry you stuck your nose in where it don't belong. He's fucked us over too many times. No, the Captain won't leave here alive.''\n*'''Kassandra:''' ''Get behind me and stay close.''\nThe mutineers attacked both of them. \n*'''Gotarzes:''' ''By the gods, help me!''\nKassandra slew them all and spoke to Gotarzes.\n{{!}}-{{!}}\nDo as you see fit.=\n*'''Kassandra:''' ''It's your crew. Answer to them.''\n*'''Gotarzes:''' ''Please no, you must protect me!''\n*'''Thug:''' ''Make your peace with Poseidon, Captain.''\nThe mutineers attacked Gotarzes.\n*'''Gotarzes:''' ''By the gods, help me!''\nGotarzes, outnumbered, gets killed and the quest fails. \n}}\n(Gotarzes lived and the mutineers lay dead. She spoke to him.)\n*'''Gotarzes:''' ''Some fight, eh? Thank you, stranger. Now if you can just get me to Keos, there's a reward in it for you.''\n*'''Kassandra:''' ''There better be. You've seen what happens to people I disagree with.<br>Let's get to my [[Adrestia|ship]] and get you home, then.''\n|-|If Kassandra ambushed the pirates right away=\nBefore they could do anything to Gotarzes, Kassandra ambushed the mutineers, killing them all. She spoke to Gotarzes.\n*'''Gotarzes:''' ''Thank you. Knowingly or not, you've just saved my life.''\n*'''Kassandra:''' ''And was it worth saving?''\n*'''Gotarzes:''' ''Get me back to Keos, and I'll pay you handsomely.''\n*'''Kassandra:''' ''We'd better get you to my ship then.''\n</tabber>\nGotarzes was given passage aboard the ''Adrestia''.\n*'''Gotarzes:''' ''Ah! What a relief it will be to go back to Keos. Sure, Xenia will be angry that I don't have the ''miltos...'' But I can deal with that.''\n*'''Kassandra:''' ''Why's the ''miltos'' so important?''\n*'''Gotarzes:''' ''What kind of pirate are you? It's nearly as valuable as gold!''\n(If the Adrestia encounters and is engaged by a pirate ship.)\n*'''Barnabas:''' ''We've got company. Friend of yours?''\n*'''Kassandra:''' ''You go to one symposium, and everyone wants to know you!''\n*'''Gotarzes:''' ''I should never have gone back out to sea.''\nThe ship eventually docked in [[Koressia]]'s harbor once more. Xenia was relieved to see Gotarzes.\n*'''Xenia:''' ''Gotarzes!''\n*'''Kassandra:''' ''That's... not what I expected.''\n*'''Xenia:''' ''Gotarzes! I thought I'd lost you this time. Where's your ship?''\n\n<tabber>\n|-|He was careless.=\n*'''Kassandra:''' ''He sailed too close to the shore. The ship got caught on the rocks.''\n*'''Gotarzes:''' ''We were in the middle of a raging battle!''\n|-|It doesn't matter.=\n*'''Kassandra:''' ''The ship is gone, but he's alive.''\n*'''Xenia:''' ''And you think his life is worth a ship?''\n*'''Kassandra:''' ''Ships can be rebuilt. A life cannot.''\n*'''Xenia:''' ''You've spent too much time with [[Athens|Athenians]].''\n|-|Lie \u2013 There was an accident.=\n*'''Kassandra:''' ''The rocks around the isle were treacherous.''\n*'''Xenia:''' ''Oh, I'm well aware of his nautical prowess. A [[goat]] could sail those waters.''\n</tabber>\n*'''Xenia:''' ''Mal\u00e1ka. What's important is that you're alive, brother.''\n*'''Kassandra:''' ''He's your brother?''\n*'''Xenia:''' ''It would be easier if he wasn't.<br />What happened to the crew?''\n*'''Gotarzes:''' ''Those dogs turned on me. If it wasn't for this ''misthios\u2014\n*'''Kassandra:''' ''He would be dead.''\n*'''Xenia:''' ''Then you will be rewarded, ''misthios.\n\n<tabber>\n|-|That's not necessary.=\n*'''Kassandra:''' ''Family is family. No reward necessary.''\n*'''Xenia:''' ''No. I am in your debt.''\n*'''Xenia:''' ''Your armor Gotarzes. Give it to her.''\n*'''Gotarzes:''' ''But this was father's. It's mine by birthright.''\n*'''Xenia:''' ''Now.''\n*'''Kassandra:''' ''His armor\u2014''\n*'''Xenia:''' ''Belongs to someone worthy of it.''\n|-|That's what he promised me.=\n*'''Kassandra:''' ''Gotarzes promised a reward. A substantial one, if I remember it right.''\n*'''Xenia:''' ''Pay her, then.''\n*'''Gotarzes:''' ''Me? But you're the one who\u2014<br>Fine...''\n*'''Xenia:''' ''Come with me, stupid brother.''\n*'''Xenia:''' ''Thank you, Kassandra. Family is family, and for his life I thank you.''\n</tabber>",
+    "Section_Outcome": "Gotarzes was rescued from his self-marooning and returned to Xenia.",
+    "Section_Trivia": "*If the player refuses to help Gotarzes, he may still survive the fight for the continuation of the quest. However, if he dies, the mission will instantly fail.\n*The [[drachma]]e reward for the quest is the same, regardless of the player's final choice. The [[Captain's Chest]] chest piece, however, is Epic-grade when refusing a reward and Rare-grade when accepting one. The Epic-grade version appears to increase health in addition to both pieces' increasing of warrior damage and total armor.\n*After the mission, Gotarzes can be attacked and recruited to your crew.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "9.",
+    "Chapter_Name": "Pirate Hospitality",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "In pursuit of the [[Red in the Wreckage|shipwrecked]] supply of [[miltos]], Kassandra found a [[Piracy|pirate]] [[Gotarzes|captain]] accosted by his crew on the island of [[Lestris]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Soldier:''' ''Every time, Gotarzes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Gotarzes:''' ''Now, I know the situation doesn't look good...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Thug:''' ''Doesn't look good! We're fucking marooned!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Gotarzes:''' ''You can't blame me for the rocks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Thug:''' ''You're the captain. We fucking blame you for crashing!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|If Kassandra approached the pirates=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "10",
+            "content": "Kassandra approached the pirates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Thug:''' ''It was simple. An unarmed [[merchant]] ship! You gave that to [[Poseidon]], and then ran us onto the rocks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Gotarzes:''' ''We aren't far from [[Keos]]. Someone'll find us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Thug:''' ''I hope the [[Great white shark|sharks]] find ''you'' first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Stop!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Thug:''' ''Keep the fuck out of this. the captain's gonna get what's comin' to him!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "16",
+            "content": "(If players choose \"What's going on?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''What has this man done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Thug:''' ''What hasn't he done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Did he offend you\u2014poor, delicate pirates?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Thug:''' ''Should never have agreed to work with this ''mal\u00e1kas''. We finally get a job from [[Xenia]], and he sails us into the fucking ground.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "21",
+            "content": "(If players choose  \"Why are you here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''How did you end up on this island?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Gotarzes:''' ''I can explain. I am the captain...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "24",
+            "content": "*'''Thug:''' ''Oh, we've heard enough from you, ''captain.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'll hear it from the captain himself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "26",
+            "content": "*'''Gotarzes:''' ''As I was saying... We got into a great sea battle\u2014which we won, thanks to me\u2014and the victory was so sweet! I didn't notice how close to the rocks we were. A minor accident. Now, if you could just get us back to Keos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "27",
+            "content": "(If players choose \"This man's your captain.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''This man is your captain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "29",
+            "content": "*'''Thug:''' ''You can only be captain if you got a ship, and he ain't got one no more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "30",
+            "content": "*'''Gotarzes:''' ''I can make it worth your while if you get me back to Keos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "31",
+            "content": "*'''Thug:''' ''Stand aside.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "32",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "33",
+            "content": "Order must be upheld.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Get out of my way. I'm taking Captain Gotarzes back to Keos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Thug:''' ''You'll be sorry you stuck your nose in where it don't belong. He's fucked us over too many times. No, the Captain won't leave here alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Get behind me and stay close.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "37",
+            "content": "The mutineers attacked both of them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "38",
+            "content": "*'''Gotarzes:''' ''By the gods, help me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "39",
+            "content": "Kassandra slew them all and spoke to Gotarzes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "40",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "41",
+            "content": "Do as you see fit.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''It's your crew. Answer to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "43",
+            "content": "*'''Gotarzes:''' ''Please no, you must protect me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "44",
+            "content": "*'''Thug:''' ''Make your peace with Poseidon, Captain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "45",
+            "content": "The mutineers attacked Gotarzes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Gotarzes:''' ''By the gods, help me!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "47",
+            "content": "Gotarzes, outnumbered, gets killed and the quest fails.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "48",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "49",
+            "content": "(Gotarzes lived and the mutineers lay dead. She spoke to him.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "50",
+            "content": "*'''Gotarzes:''' ''Some fight, eh? Thank you, stranger. Now if you can just get me to Keos, there's a reward in it for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''There better be. You've seen what happens to people I disagree with.<br>Let's get to my [[Adrestia|ship]] and get you home, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "52",
+            "content": "|-|If Kassandra ambushed the pirates right away=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N7",
+            "global_id": "53",
+            "content": "Before they could do anything to Gotarzes, Kassandra ambushed the mutineers, killing them all. She spoke to Gotarzes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "54",
+            "content": "*'''Gotarzes:''' ''Thank you. Knowingly or not, you've just saved my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''And was it worth saving?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "56",
+            "content": "*'''Gotarzes:''' ''Get me back to Keos, and I'll pay you handsomely.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''We'd better get you to my ship then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "58",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N8",
+            "global_id": "59",
+            "content": "Gotarzes was given passage aboard the ''Adrestia''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D38",
+            "global_id": "60",
+            "content": "*'''Gotarzes:''' ''Ah! What a relief it will be to go back to Keos. Sure, Xenia will be angry that I don't have the ''miltos...'' But I can deal with that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Why's the ''miltos'' so important?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "62",
+            "content": "*'''Gotarzes:''' ''What kind of pirate are you? It's nearly as valuable as gold!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "63",
+            "content": "(If the Adrestia encounters and is engaged by a pirate ship.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "64",
+            "content": "*'''Barnabas:''' ''We've got company. Friend of yours?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''You go to one symposium, and everyone wants to know you!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "66",
+            "content": "*'''Gotarzes:''' ''I should never have gone back out to sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "67",
+            "content": "The ship eventually docked in [[Koressia]]'s harbor once more. Xenia was relieved to see Gotarzes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "68",
+            "content": "*'''Xenia:''' ''Gotarzes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''That's... not what I expected.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Xenia:''' ''Gotarzes! I thought I'd lost you this time. Where's your ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "71",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "72",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "73",
+            "content": "|-|He was careless.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D47",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''He sailed too close to the shore. The ship got caught on the rocks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "75",
+            "content": "*'''Gotarzes:''' ''We were in the middle of a raging battle!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "76",
+            "content": "|-|It doesn't matter.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D49",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''The ship is gone, but he's alive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "78",
+            "content": "*'''Xenia:''' ''And you think his life is worth a ship?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''Ships can be rebuilt. A life cannot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "80",
+            "content": "*'''Xenia:''' ''You've spent too much time with [[Athens|Athenians]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "81",
+            "content": "|-|Lie \u2013 There was an accident.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''The rocks around the isle were treacherous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "83",
+            "content": "*'''Xenia:''' ''Oh, I'm well aware of his nautical prowess. A [[goat]] could sail those waters.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "84",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D55",
+            "global_id": "85",
+            "content": "*'''Xenia:''' ''Mal\u00e1ka. What's important is that you're alive, brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''He's your brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "87",
+            "content": "*'''Xenia:''' ''It would be easier if he wasn't.<br />What happened to the crew?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "88",
+            "content": "*'''Gotarzes:''' ''Those dogs turned on me. If it wasn't for this ''misthios\u2014",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''He would be dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "90",
+            "content": "*'''Xenia:''' ''Then you will be rewarded, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "91",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS3",
+            "global_id": "92",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "93",
+            "content": "|-|That's not necessary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D61",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Family is family. No reward necessary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "95",
+            "content": "*'''Xenia:''' ''No. I am in your debt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "96",
+            "content": "*'''Xenia:''' ''Your armor Gotarzes. Give it to her.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "97",
+            "content": "*'''Gotarzes:''' ''But this was father's. It's mine by birthright.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "98",
+            "content": "*'''Xenia:''' ''Now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''His armor\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "100",
+            "content": "*'''Xenia:''' ''Belongs to someone worthy of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "101",
+            "content": "|-|That's what he promised me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D68",
+            "global_id": "102",
+            "content": "*'''Kassandra:''' ''Gotarzes promised a reward. A substantial one, if I remember it right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "103",
+            "content": "*'''Xenia:''' ''Pay her, then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "104",
+            "content": "*'''Gotarzes:''' ''Me? But you're the one who\u2014<br>Fine...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "105",
+            "content": "*'''Xenia:''' ''Come with me, stupid brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "106",
+            "content": "*'''Xenia:''' ''Thank you, Kassandra. Family is family, and for his life I thank you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "107",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

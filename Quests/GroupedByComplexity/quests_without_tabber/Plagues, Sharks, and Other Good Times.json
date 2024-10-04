@@ -1,0 +1,214 @@
+{
+    "Quest_Name": "Plagues, Sharks, and Other Good Times",
+    "Quest_ID": "223314",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD - Plagues, Sharks, and Other Good Times 1.png",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "location": "Randomized",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Plagues, Sharks, and Other Good Times''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "[[Athens|Athenians]] said that after the [[Plague of Athens|plague]], food was short due to an increase in desperate hunters and a lack of farmers. One hunter wanted to fish but feared [[Great white shark|sharks]].",
+    "Section_Dialogue": "Kassandra approached the hunter.\n[[File:ACOD - Plagues, Sharks, and Other Good Times 2.png|thumb|240px|Kassandra offering to kill the sharks]]\n*'''Kassandra:''' ''I picked up your message on the [[Message board|board]]. What's happening?''\n*'''Man:''' ''Not much food around lately. Since the plague, there not enough farmers, and too many desperate hunters. I'm going to try for fish.''\n*'''Kassandra:''' ''Sounds sensible.''\n*'''Man:''' ''There's sharks in these waters, though. I'm not equipped for those. But you seem well-armed.''\n*'''Kassandra:''' ''So I should kill all the sharks.''\n*'''Man:''' ''Yes, all of them must die.''\n\n(Accept \u2013 \"I'll handle it.\")\n*'''Kassandra:''' ''I'll handle this.''\nor\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Man:''' ''Thank you,'' misthios. ''I couldn't do this without you.''\n*'''Kassandra:''' ''Leave it to me.''\n\n(Leave \u2013 \"I'm not interested.\")\n*TBA\n\n[[File:ACOD - Plagues, Sharks, and Other Good Times 3.png|thumb|240px|The man rewarded Kassandra upon her return]]\nKassandra killed the sharks and returned to the hunter.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Great work. Take this as thanks,'' misthios.\n\n(Join Crew \u2013 \"You should join my crew.\")\n*'''Kassandra:''' ''I have a good crew, but we're missing someone with your talents. I want you on board with us. What do you say?''\n*'''Man:''' ''Never considered myself a seaman... But an adventurer? I'll join you.''\n\n(Leave \u2013 \"Thank you.\")\n*'''Kassandra:''' ''I always finish what I start.''",
+    "Section_Outcome": "Kassandra killed sharks throughout Greece and returned to the hunter to collect her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached the hunter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "2",
+            "content": "[[File:ACOD - Plagues, Sharks, and Other Good Times 2.png|thumb|240px|Kassandra offering to kill the sharks]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I picked up your message on the [[Message board|board]]. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Man:''' ''Not much food around lately. Since the plague, there not enough farmers, and too many desperate hunters. I'm going to try for fish.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Sounds sensible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Man:''' ''There's sharks in these waters, though. I'm not equipped for those. But you seem well-armed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''So I should kill all the sharks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Man:''' ''Yes, all of them must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept \u2013 \"I'll handle it.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "or",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll help you. You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Man:''' ''Thank you,'' misthios. ''I couldn't do this without you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "16",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "17",
+            "content": "(Leave \u2013 \"I'm not interested.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U3",
+            "global_id": "18",
+            "content": "*TBA",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "U4",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "I2",
+            "global_id": "20",
+            "content": "[[File:ACOD - Plagues, Sharks, and Other Good Times 3.png|thumb|240px|The man rewarded Kassandra upon her return]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "21",
+            "content": "Kassandra killed the sharks and returned to the hunter.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "22",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Man:''' ''Great work. Take this as thanks,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "26",
+            "content": "(Join Crew \u2013 \"You should join my crew.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''I have a good crew, but we're missing someone with your talents. I want you on board with us. What do you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Man:''' ''Never considered myself a seaman... But an adventurer? I'll join you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "29",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "30",
+            "content": "(Leave \u2013 \"Thank you.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I always finish what I start.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

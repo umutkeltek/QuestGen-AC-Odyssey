@@ -1,0 +1,106 @@
+{
+    "Quest_Name": "Tainted Sacrifice",
+    "Quest_ID": "236424",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Tainted Sacrifice",
+        "description": "'A priestess told of how a 'Mercenary|misthios' had stolen altar offerings for a bandit camp. Angered by the theft, she claimed to prefer the offerings be destroyed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Tainted Sacrifice''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A priestess asked Kassandra help with dealing with a theft.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''Our sacred altar has been raided by a rogue [[mercenary]] working with bandits! Seeking a champion of the [[Twelve Gods|gods]].''\nShe sought out the priestess and addressed her.\n*'''Kassandra:''' ''You left a note on the board. What's going on?''\n*'''Woman:''' ''A mercenary has been raiding sacrifices from our altar and sharing them with a nearby bandit camp. I'd sooner see our sacrifice to the gods destroyed than squandered on those vermin.''\n*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''\n*'''Woman:''' ''That's right.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Woman:''' ''You'll be doing divine work.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra left the priestess and hunted down the bandits before returning to her to claim the reward.",
+    "Section_Outcome": "Kassandra helped the priestess, and was rewarded for this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''Our sacred altar has been raided by a rogue [[mercenary]] working with bandits! Seeking a champion of the [[Twelve Gods|gods]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the priestess and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You left a note on the board. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''A mercenary has been raiding sacrifices from our altar and sharing them with a nearby bandit camp. I'd sooner see our sacrifice to the gods destroyed than squandered on those vermin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''That's right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(Accept - I'll hunt the outlaws.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'll help you. You have my word.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Woman:''' ''You'll be doing divine work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "Kassandra left the priestess and hunted down the bandits before returning to her to claim the reward.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

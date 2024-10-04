@@ -1,0 +1,154 @@
+{
+    "Quest_Name": "The Hind of Keryneia",
+    "Quest_ID": "223190",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Youmay": {
+            "description": "the genetic memory | the [[Hind of Keryneia | legendary beast]]"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Hind of Keryneia.png",
+        "description": "'The Hind of Keryneia was sacred to the Daughters of Artemis. Hunting such a maginificent creature was an honor one could not take lightly, and one that Kassandra would complete.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support {{c|The Daughters of Artemis}}",
+        "previous": "The Erymanthian Boar",
+        "next": "The Kretan Bull",
+        "source": "Kassandra",
+        "location": "Euboea, Greece",
+        "date": "431 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''The Hind of Keryneia''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Euboea]] to hunt down the legendary [[Hind of Keryneia]].",
+    "Section_Dialogue": "Kassandra travelled to Euboea and caught sight of the beast in its lair.\n*'''Kassandra:''' ''Such a noble creature. The gods themselves will be envious of this hunt.''\nKassandra engaged the hind in battle, dodging its charges.  On occasion, the Hind would attempt to strike its horns downward at Kassandra, only to get them stuck in the marsh, which provided an easy opportunity for Kassandra to deliver critical strikes. She eventually slew the hind and looted its pelt.\n\nKassandra returned to [[Daphnae]] to deliver the pelt.\n*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''\n(\"I have the Hind of Keryneia's pelt.\")\n*'''Kassandra:''' ''The Hind of Keryneia's pelt.''\nKassandra handed the pelt over to Daphnae.\n*'''Daphnae:''' ''I remember being awestruck when I caught a glimpse of her through the trees, long ago.''\n<tabber>\n|-|The Hind was magnificent.=\n*'''Kassandra:''' ''It was an honor to hunt such a noble beast. For all the suffering and death I've seen, when you see something as magnificent as this... Words escape me.''\n*'''Daphnae:''' ''[[Artemis]] was right to to bring you to me. A warrior's heart beats within your chest, yet it is tempered by kindess.''\n|-|Prey is prey.=\n*'''Kassandra:''' ''The [[Isu|gods]] put animals here for us to hunt. Who am I to defy their will?''\n*'''Daphnae:''' ''As a huntress I take no pleasure in death. We honor our prey, admire their cunning, respect their power\u2014and revere their sacrifice.''\n</tabber>\n(Leave \u2013 I'll return soon.\")\n*'''Kassandra:''' ''I'll return when I have more pelts.''",
+    "Section_Outcome": "Kassandra found and killed the Hind of Keryneia in Euboea, recovering the pelt for Daphnae.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:La biche de C\u00e9rynie]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Daughters of Artemis",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to Euboea and caught sight of the beast in its lair.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Such a noble creature. The gods themselves will be envious of this hunt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra engaged the hind in battle, dodging its charges.  On occasion, the Hind would attempt to strike its horns downward at Kassandra, only to get them stuck in the marsh, which provided an easy opportunity for Kassandra to deliver critical strikes. She eventually slew the hind and looted its pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "Kassandra returned to [[Daphnae]] to deliver the pelt.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "6",
+            "content": "*'''Daphnae:''' ''Beast Slayer, I'm glad to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(\"I have the Hind of Keryneia's pelt.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''The Hind of Keryneia's pelt.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra handed the pelt over to Daphnae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Daphnae:''' ''I remember being awestruck when I caught a glimpse of her through the trees, long ago.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|The Hind was magnificent.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''It was an honor to hunt such a noble beast. For all the suffering and death I've seen, when you see something as magnificent as this... Words escape me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "14",
+            "content": "*'''Daphnae:''' ''[[Artemis]] was right to to bring you to me. A warrior's heart beats within your chest, yet it is tempered by kindess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|Prey is prey.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''The [[Isu|gods]] put animals here for us to hunt. Who am I to defy their will?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Daphnae:''' ''As a huntress I take no pleasure in death. We honor our prey, admire their cunning, respect their power\u2014and revere their sacrifice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "18",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O2",
+            "global_id": "19",
+            "content": "(Leave \u2013 I'll return soon.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll return when I have more pelts.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

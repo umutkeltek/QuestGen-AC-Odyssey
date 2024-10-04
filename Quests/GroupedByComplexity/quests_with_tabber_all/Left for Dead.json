@@ -1,0 +1,187 @@
+{
+    "Quest_Name": "Left for Dead",
+    "Quest_ID": "223179",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Elpenor's brother, a politician who was unaware of Kassandra's role in Elpenor's death, feared that he was now vulnerable to bandit attack. Ironically, he hired Kassandra for protection.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "source": "Kassandra",
+        "location": "Phokis, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Left for Dead''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra approached a statesman in [[Phokis]], and was tasked to deal with [[bandit]]s.",
+    "Section_Dialogue": "*'''Kassandra:''' Chaire, ''statesman. I don't suppose you could use a [[mercenary]]'s help today? / Need something, statesman?''\n*'''Man:''' ''I'm losing everything. Not only was my brother [[Elpenor]] murdered, but my whole political career is about to disappear, too.''\n<tabber>\n|-|I killed Elpenor.=\n*'''Kassandra:''' ''I am the one who killed your brother.''\n*'''Man:''' ''You? You bastard! You will pay for what you did to him! He was massacred! You deserve a fate worse than death.''\n(Quest failed.)\n|-|Losing your family can be very hard=\n*'''Kassandra:''' ''I know what it's like to lose family. Toughest thing you'll ever face in your life.''\n|-|I didn't know him.=\n*'''Kassandra:''' ''Elpenor? Can't say I've heard of him.''\n</tabber>\n*'''Man:''' ''Elpenor was a kind and wealthy man. He financed my love for politics and protected me from harm. And now that he's gone, I risk losing everything I have left.''\n*'''Kassandra:''' ''Is there something I can do?''\n*'''Man:''' ''Ever since my brother disappeared, bandits have been attacking me. They're after the family fortune, and I'm left defenseless. If they take the money from me, then I can't continue my political career.''\n*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''\n*'''Man:''' ''I beg you.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''All right. I'm in. / I'll handle this.''\n*'''Man:''' ''Get this done quickly. / Thank you. Please be discreet.''\n*'''Kassandra:''' ''You can leave everything to me.''\nKassandra left the man and found the bandits' camp outside the city. She slew them all and then returned.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''Excellent work, my friend. Please, take this.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra dealt with the bandits and returned to claim her reward.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' Chaire, ''statesman. I don't suppose you could use a [[mercenary]]'s help today? / Need something, statesman?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Man:''' ''I'm losing everything. Not only was my brother [[Elpenor]] murdered, but my whole political career is about to disappear, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "3",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "4",
+            "content": "|-|I killed Elpenor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''I am the one who killed your brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Man:''' ''You? You bastard! You will pay for what you did to him! He was massacred! You deserve a fate worse than death.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "7",
+            "content": "(Quest failed.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|Losing your family can be very hard=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I know what it's like to lose family. Toughest thing you'll ever face in your life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "10",
+            "content": "|-|I didn't know him.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Elpenor? Can't say I've heard of him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "12",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Man:''' ''Elpenor was a kind and wealthy man. He financed my love for politics and protected me from harm. And now that he's gone, I risk losing everything I have left.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Is there something I can do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Man:''' ''Ever since my brother disappeared, bandits have been attacking me. They're after the family fortune, and I'm left defenseless. If they take the money from me, then I can't continue my political career.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Man:''' ''I beg you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "18",
+            "content": "(Accept - I'll hunt the outlaws.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''All right. I'm in. / I'll handle this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Man:''' ''Get this done quickly. / Thank you. Please be discreet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''You can leave everything to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "22",
+            "content": "Kassandra left the man and found the bandits' camp outside the city. She slew them all and then returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Man:''' ''Excellent work, my friend. Please, take this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

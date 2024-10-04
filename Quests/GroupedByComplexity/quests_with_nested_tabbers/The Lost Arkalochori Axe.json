@@ -1,0 +1,760 @@
+{
+    "Quest_Name": "The Lost Arkalochori Axe",
+    "Quest_ID": "224082",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Lost Arkalochori Axe",
+        "description": "'In Heraklion, Kassandra was begged by a priestess to retrieve a Arkalochori Axe|ceremonial Battleaxe|axe to appease Poseidon and a mysterious man known only as Swordfish.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "next": "Flowers for the Dead",
+        "source": "Kassandra",
+        "location": "Heraklion, Messara, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''The Lost Arkalochori Axe''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "In Heraklion, Kassandra was begged by a priestess to retrieve a [[Arkalochori Axe|ceremonial]] [[Battleaxe|axe]] to appease Poseidon and a mysterious man known only as [[Swordfish]].",
+    "Section_Dialogue": "Kassandra approached a priestess at the [[Temple of Poseidon, Messara|Temple of Poseidon]].\n*'''Priestess:''' ''Thank the gods! ''[[Mercenary|Misthios]],'' I need your help.''\n*'''Kassandra:''' ''What's the problem?''\n*'''Priestess:''' ''We've been ravaged by storms and rough seas! [[Poseidon]] is angry.''\n*'''Kassandra:''' ''Have you tried making an offering?''\n*'''Priestess:''' ''A simple offering isn't enough to appease him! We need to perform a ritual... but we can't do it without our ceremonial axe.''\n<tabber>\n|-|If axe has yet to be found.=\n{{#tag:tabber|\nRituals are important.=\n*'''Kassandra:''' ''Sounds like you need to find that axe for Poseidon.''\n*'''Priestess:''' ''I do, but not for Poseidon\u2014for [[Swordfish]].''\n{{!}}-{{!}}\nUse another axe.=\n*'''Kassandra:''' ''There are hundreds of axes around\u2014just use another.''\n*'''Priestess:''' ''But the Arkalochori Axe was crafted for this very purpose!''\n*'''Kassandra:''' ''To appease the gods?''\n*'''Priestess:''' ''The gods? Swordfish would have me fed to the [[Great white shark|sharks]] before Poseidon could punish me.''\n{{#tag:tabber|\nSwordfish alive, not under investigation=\n*'''Kassandra:''' ''Swordfish? Who's that?''\n{{!}}-{{!}}\nSwordfish alive, under investigation=\n*'''Kassandra:''' ''Swordfish... tell me more about him.''\n{{!}}-{{!}}\nSwordfish dead=\n*'''Kassandra:''' ''You won't be seeing Swordfish for a while.''\n*'''Priestess:''' ''It's true, no one has seen him for ages. He lives in the shadows\u2014all around us.''\n*'''Kassandra:''' ''Whatever you say, priestess.''\n}}\n}}\n|-|If axe is already acquired.=\n:*'''Kassandra:''' ''This? You call this an ''axe''? It could barely shave a man's beard.''\n:*'''Priestess:''' ''The Arkalochori Axe! Thank the gods. [[Swordfish]] will be pleased. Let me look more closely...''\n:*'''Kassandra:''' ''Not so fast.''\n:*'''Priestess:''' ''What do you want, ''misthios''?''\n:*'''Kassandra:''' ''What I'm owed.''\n{{#tag:tabber|\nHere, it's yours.=\n*'''Kassandra:''' ''The axe was yours to begin with. Take it.''\n*'''Priestess:''' ''You had me worried, ''misthios.'' Thank you, I owe you my life.''\nKassandra handed over the axe, completing the quest.\n{{!}}-{{!}}\nIt's my axe now.=\n*'''Kassandra:''' ''I'll do what I want with it. It's mine now.''\n*'''Priestess:''' ''You'd let someone die for your greed? Watch yourself, ''mal\u00e1ka'', your head looks like it would fetch a pretty price.''\nKassandra claimed the axe for herself, ending the quest.}}\n</tabber>\nRegardless, the priestess explained Swordfish's role in the ritual.\n*'''Priestess:''' ''He's the one who ordered us to conduct this ritual every month. He runs the [[Fisherman's Beachhead|fish market]]\u2014<br />I can't say any more. No one talks about Swordfish and gets away with it, ''misthios.\n*'''Kassandra:''' ''What if I insist?''\n*'''Priestess:''' ''Then ''I'' insist you retrieve the axe for me.''\n*'''Kassandra:''' You'' insist?''\n*'''Priestess:''' ''N-no! \"''Politely request.\"'' And of course there'll be plenty of [[drachma]]e for your help, ''misthios.\n(Accept \u2013 \"I'll do it.\")\n*'''Kassandra:''' ''Do you know where the axe is?''\n*'''Priestess:''' ''Bandits took it!<br />There's a [[Arkalochori Cave|cave]] east of town. If you follow the path along the shoreline, I'm sure you'll find them.''\n*'''Kassandra:''' ''I'll go take a look.''\n*'''Priestess:''' ''...And don't swing it around! It's a delicate, ceremonial axe!''\nKassandra took her leave and traveled east. She found the Arkalochori Cave with the help of [[Ikaros]].\n*'''Kassandra:''' ''Here we are.''\nShe infiltrated the cave, dealt with the bandits, and recovered the axe from the back of the cave.\n*'''Kassandra:''' ''This must be the axe... Doesn't look like it could cut ''anything.\nKassandra left the cave with the axe in hand and returned to the priestess.\n*'''Priestess:''' ''Need something else to find that axe, ''misthios''?''\n<tabber>\n|-|Swordfish alive only \u2013 \"Who is Swordfish?\"=\n*'''Kassandra:''' ''Who is this Swordfish you want to impress?''\n*'''Priestess:''' ''He'll kill me if I tell you.''\n*'''Kassandra:''' ''And I'll kill you if you don't.''\n*'''Priestess:''' ''Swordfish has always run the fish market with an iron fist\u2014charges the fishermen fees. If they don't pay up... the sharks eat well.''\n(\"Where can I find Swordfish?\")\n*'''Kassandra:''' ''Point me in Swordfish's direction.''\n*'''Priestess:''' ''I don't know where he is. No one's seen him for years, ''misthios''. Some think he's dead. Just last week, some fishermen boldly said we should no longer pay fees to a dead man... Guess who's dead now?''\n*'''Kassandra:''' ''I'll take my chances. Where is he?''\n*'''Priestess:''' ''He used to live at [[Fisherman's Beacon]] to the north\u2014you could try your luck there.''\n(\"Where did you say Swordfish was?\")\n*'''Kassandra:''' ''Remind me where Swordfish is.''\n*'''Priestess:''' ''Try your luck at Fisherman's Beacon to the north\u2014he used to live there.''\n{{#tag:tabber|\nAxe not retrieved \u2013 Leave \u2013 \"I have everything I need.\"=\n*'''Kassandra:''' Chaire.\n{{!}}-{{!}}\nAxe retrieved \u2013 \"I found the axe.\"=\n*'''Kassandra:''' ''This axe would fetch a good price at the agora.''\n*'''Priestess:''' ''No! You can't sell it. Give it back\u2014I'll pay you. Take all the drachmae I have.''\n{{#tag:tabber|\nHere, it's yours.=\n*'''Kassandra:''' ''The axe was yours to begin with. Take it.''\n*'''Priestess:''' ''You had me worried, ''misthios.'' Thank you, I owe you my life.''\n{{!}}-{{!}}\nIt's my axe now.=\n*'''Kassandra:''' ''I'll do what I want with it. It's mine now.''\n*'''Priestess:''' ''You'd let someone die for your greed? Watch yourself, ''mal\u00e1ka'', your head looks like it would fetch a pretty price.''\n}}\n}}\n|-|\n\"Why are you afraid of Swordfish?\"=\n*'''Kassandra:''' ''Why do you fear Swordfish?''\n*'''Priestess:''' ''Everyone does, ''misthios''. He's not to be trifled with. Once, he took a man's nose off for sneezing in his presence.''\n*'''Kassandra:''' ''Quite the reputation...''\n{{#tag:tabber|\nAxe not retrieved \u2013 Leave \u2013 \"I have everything I need.\"=\n*'''Kassandra:''' Chaire.\n{{!}}-{{!}}\nAxe retrieved \u2013 \"I found the axe.\"=\n*'''Kassandra:''' ''This axe would fetch a good price at the agora.''\n*'''Priestess:''' ''No! You can't sell it. Give it back\u2014I'll pay you. Take all the drachmae I have.''\n{{#tag:tabber|\nHere, it's yours.=\n*'''Kassandra:''' ''The axe was yours to begin with. Take it.''\n*'''Priestess:''' ''You had me worried, ''misthios.'' Thank you, I owe you my life.''\nKassandra handed over the axe, completing the quest.\n{{!}}-{{!}}\nIt's my axe now.=\n*'''Kassandra:''' ''I'll do what I want with it. It's mine now.''\n*'''Priestess:''' ''You'd let someone die for your greed? Watch yourself, ''mal\u00e1ka'', your head looks like it would fetch a pretty price.''\nKassandra claimed the axe for herself, ending the quest.\n}}\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra retrieved the ceremonial axe.",
+    "Section_Trivia": "*Should the player retrieve the axe before talking to the Priestess, there will be no dialogue to find Swordfish.\n*Should\u00a0the player retrieve the axe after talking to the Priestess, there will be\u00a0dialogue pointing to where Swordfish lives, so long as [[Blood in the Water (Odyssey)|Blood in the Water]] is active and the player has not already dove into his sanctuary below the lighthouse.\n*Whether or not the player gets the dialogue to find Swordfish, the \"investigation\" bar for 'Blood in the Water' will automatically fill one-third of the way upon completion of this quest. Completing the investigation is not required to find Swordfish; he is automatically loaded into the world upon completion of [[Myths and Minotaurs]], and 'Blood in the Water' automatically updates upon entering his sanctuary below the lighthouse.\n*The memory also serves as a support quest for the [[Of Minotaurs and Men]] memory.\n*If the axe is kept, it can be equipped as a Rare Heavy Bladed weapon.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n<!--Interwiki links-->\n[[fr:La hache d'Arkalochori perdue]]",
+    "Chapter_SequenceID": "26.",
+    "Chapter_Name": "Minotour - A Place of Twists and Turns",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached a priestess at the [[Temple of Poseidon, Messara|Temple of Poseidon]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Priestess:''' ''Thank the gods! ''[[Mercenary|Misthios]],'' I need your help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''What's the problem?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Priestess:''' ''We've been ravaged by storms and rough seas! [[Poseidon]] is angry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Have you tried making an offering?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Priestess:''' ''A simple offering isn't enough to appease him! We need to perform a ritual... but we can't do it without our ceremonial axe.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "7",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "8",
+            "content": "|-|If axe has yet to be found.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "9",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "Rituals are important.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Sounds like you need to find that axe for Poseidon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Priestess:''' ''I do, but not for Poseidon\u2014for [[Swordfish]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "13",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC3",
+            "global_id": "14",
+            "content": "Use another axe.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''There are hundreds of axes around\u2014just use another.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Priestess:''' ''But the Arkalochori Axe was crafted for this very purpose!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''To appease the gods?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Priestess:''' ''The gods? Swordfish would have me fed to the [[Great white shark|sharks]] before Poseidon could punish me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "19",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "20",
+            "content": "Swordfish alive, not under investigation=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''Swordfish? Who's that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "22",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "23",
+            "content": "Swordfish alive, under investigation=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Swordfish... tell me more about him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "25",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "26",
+            "content": "Swordfish dead=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''You won't be seeing Swordfish for a while.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "28",
+            "content": "*'''Priestess:''' ''It's true, no one has seen him for ages. He lives in the shadows\u2014all around us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Whatever you say, priestess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "30",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "31",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC7",
+            "global_id": "32",
+            "content": "|-|If axe is already acquired.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "33",
+            "content": ":*'''Kassandra:''' ''This? You call this an ''axe''? It could barely shave a man's beard.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N3",
+            "global_id": "34",
+            "content": ":*'''Priestess:''' ''The Arkalochori Axe! Thank the gods. [[Swordfish]] will be pleased. Let me look more closely...''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N4",
+            "global_id": "35",
+            "content": ":*'''Kassandra:''' ''Not so fast.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N5",
+            "global_id": "36",
+            "content": ":*'''Priestess:''' ''What do you want, ''misthios''?''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N6",
+            "global_id": "37",
+            "content": ":*'''Kassandra:''' ''What I'm owed.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "38",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "39",
+            "content": "Here, it's yours.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''The axe was yours to begin with. Take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "41",
+            "content": "*'''Priestess:''' ''You had me worried, ''misthios.'' Thank you, I owe you my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "42",
+            "content": "Kassandra handed over the axe, completing the quest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "43",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "44",
+            "content": "It's my axe now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''I'll do what I want with it. It's mine now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "46",
+            "content": "*'''Priestess:''' ''You'd let someone die for your greed? Watch yourself, ''mal\u00e1ka'', your head looks like it would fetch a pretty price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "47",
+            "content": "Kassandra claimed the axe for herself, ending the quest.}}",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "48",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N9",
+            "global_id": "49",
+            "content": "Regardless, the priestess explained Swordfish's role in the ritual.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "50",
+            "content": "*'''Priestess:''' ''He's the one who ordered us to conduct this ritual every month. He runs the [[Fisherman's Beachhead|fish market]]\u2014<br />I can't say any more. No one talks about Swordfish and gets away with it, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''What if I insist?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "52",
+            "content": "*'''Priestess:''' ''Then ''I'' insist you retrieve the axe for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' You'' insist?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "54",
+            "content": "*'''Priestess:''' ''N-no! \"''Politely request.\"'' And of course there'll be plenty of [[drachma]]e for your help, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "55",
+            "content": "(Accept \u2013 \"I'll do it.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Do you know where the axe is?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "57",
+            "content": "*'''Priestess:''' ''Bandits took it!<br />There's a [[Arkalochori Cave|cave]] east of town. If you follow the path along the shoreline, I'm sure you'll find them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''I'll go take a look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "59",
+            "content": "*'''Priestess:''' ''...And don't swing it around! It's a delicate, ceremonial axe!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "60",
+            "content": "Kassandra took her leave and traveled east. She found the Arkalochori Cave with the help of [[Ikaros]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''Here we are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "62",
+            "content": "She infiltrated the cave, dealt with the bandits, and recovered the axe from the back of the cave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''This must be the axe... Doesn't look like it could cut ''anything.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "64",
+            "content": "Kassandra left the cave with the axe in hand and returned to the priestess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "65",
+            "content": "*'''Priestess:''' ''Need something else to find that axe, ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "66",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "67",
+            "content": "|-|Swordfish alive only \u2013 \"Who is Swordfish?\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Who is this Swordfish you want to impress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "69",
+            "content": "*'''Priestess:''' ''He'll kill me if I tell you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''And I'll kill you if you don't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "71",
+            "content": "*'''Priestess:''' ''Swordfish has always run the fish market with an iron fist\u2014charges the fishermen fees. If they don't pay up... the sharks eat well.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "72",
+            "content": "(\"Where can I find Swordfish?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Point me in Swordfish's direction.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "74",
+            "content": "*'''Priestess:''' ''I don't know where he is. No one's seen him for years, ''misthios''. Some think he's dead. Just last week, some fishermen boldly said we should no longer pay fees to a dead man... Guess who's dead now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''I'll take my chances. Where is he?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "76",
+            "content": "*'''Priestess:''' ''He used to live at [[Fisherman's Beacon]] to the north\u2014you could try your luck there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "77",
+            "content": "(\"Where did you say Swordfish was?\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''Remind me where Swordfish is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "79",
+            "content": "*'''Priestess:''' ''Try your luck at Fisherman's Beacon to the north\u2014he used to live there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "80",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "81",
+            "content": "Axe not retrieved \u2013 Leave \u2013 \"I have everything I need.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D43",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "83",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "84",
+            "content": "Axe retrieved \u2013 \"I found the axe.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''This axe would fetch a good price at the agora.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "86",
+            "content": "*'''Priestess:''' ''No! You can't sell it. Give it back\u2014I'll pay you. Take all the drachmae I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS5",
+            "global_id": "87",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "88",
+            "content": "Here, it's yours.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''The axe was yours to begin with. Take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "90",
+            "content": "*'''Priestess:''' ''You had me worried, ''misthios.'' Thank you, I owe you my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD6",
+            "global_id": "91",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC14",
+            "global_id": "92",
+            "content": "It's my axe now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''I'll do what I want with it. It's mine now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "94",
+            "content": "*'''Priestess:''' ''You'd let someone die for your greed? Watch yourself, ''mal\u00e1ka'', your head looks like it would fetch a pretty price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "95",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "96",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC15",
+            "global_id": "97",
+            "content": "|-|",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC16",
+            "global_id": "98",
+            "content": "\"Why are you afraid of Swordfish?\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''Why do you fear Swordfish?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "100",
+            "content": "*'''Priestess:''' ''Everyone does, ''misthios''. He's not to be trifled with. Once, he took a man's nose off for sneezing in his presence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Quite the reputation...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS6",
+            "global_id": "102",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC17",
+            "global_id": "103",
+            "content": "Axe not retrieved \u2013 Leave \u2013 \"I have everything I need.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD7",
+            "global_id": "105",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC18",
+            "global_id": "106",
+            "content": "Axe retrieved \u2013 \"I found the axe.\"=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D54",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''This axe would fetch a good price at the agora.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "108",
+            "content": "*'''Priestess:''' ''No! You can't sell it. Give it back\u2014I'll pay you. Take all the drachmae I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS7",
+            "global_id": "109",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC19",
+            "global_id": "110",
+            "content": "Here, it's yours.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D56",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''The axe was yours to begin with. Take it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "112",
+            "content": "*'''Priestess:''' ''You had me worried, ''misthios.'' Thank you, I owe you my life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "113",
+            "content": "Kassandra handed over the axe, completing the quest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD8",
+            "global_id": "114",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC20",
+            "global_id": "115",
+            "content": "It's my axe now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "116",
+            "content": "*'''Kassandra:''' ''I'll do what I want with it. It's mine now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "117",
+            "content": "*'''Priestess:''' ''You'd let someone die for your greed? Watch yourself, ''mal\u00e1ka'', your head looks like it would fetch a pretty price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "118",
+            "content": "Kassandra claimed the axe for herself, ending the quest.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTE5",
+            "global_id": "119",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE6",
+            "global_id": "120",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "121",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

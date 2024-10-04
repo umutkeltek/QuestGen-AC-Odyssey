@@ -1,0 +1,477 @@
+{
+    "Quest_Name": "Death Before Dishonor",
+    "Quest_ID": "232587",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Fate of Atlantis | Assassin's Creed: Odyssey \u2014 The Fate of Atlantis]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Kassandra agreed to help Charon by granting peace to some of the lost souls in the underworld. Her first target was a soldier who wanted a glorious death in combat - one he never got in life.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Charon}}",
+        "next": "A Cursed Sickness",
+        "source": "Kassandra",
+        "location": "Mourning Fields, the Underworld<br />Restless Nekropolis, Chasm of Torment, the Underworld",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Death Before Dishonor''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Charon]], who needed help with some lost souls, who never got a funeral, to find peace.",
+    "Section_Dialogue": "Kassandra traveled to the docks of the River [[Styx]] to talk to Charon.\n*'''Kassandra:''' ''All right, Charon. I'm ready to hear about your \"lost souls.\"''\n*'''Charon:''' ''Oh, them. Not everyone in the [[underworld]] belongs here. These souls are lost. Their true resting place deserves to be found.''\n\n(If \"Why are the souls lost?\" is chosen.)\n*'''Kassandra:''' ''You're the ferryman. ''You'' tell them where to go.''\n*'''Charon:''' ''That's not in my job description. Every soul arrives with unfinished business\u2014some are just more sympathetic than others.''\n(If \"Who are they?\" is chosen)\n*'''Kassandra:''' ''Who are these souls you want me to help?''\n*'''Charon:''' ''Most die and are given proper funeral rites, but some aren't so lucky.''\n*'''Kassandra:''' ''And the unlucky ones become lost.''\n*'''Charon:''' ''Oh, yes. They are left to wander eternity unaccepting of their fates.''\n(Leave \u2013 \"I'll help the lost souls find peace.\")\n*'''Kassandra:''' ''I'll help you, ferryman, but where should I start?''\n*'''Charon:''' ''There's a soldier\u2014an [[Athens|Athenian]]. He wished to die an honorable death in battle, but as he charged towards the enemy, he slipped in the dirt\u2026 and fell.''\n*'''Kassandra:''' ''Sounds like quite the warrior.''\n*'''Charon:''' ''He needs a glorious death to pass on to [[Elysium]], but he cannot go to war without his weapon and armor. One is located in the [[Restless Nekropolis]], and the other is in the hands of the champion known as [[Swordfish]].''\n*'''Kassandra:''' ''Swordfish. Of course he'd be here. I'll return the soldier's equipment and help him claim the death he seeks.''\n\nKassandra traveled to the Restless Nekropolis and entered the tomb.\n*'''Kassandra:''' ''The Restless Nekropolis. Sounds fun.''\nKassandra navigated her way through the hallways where she encountered [[Snake|snakes]] and prisoners of [[Tartaros]] alike. Inside a large chest she found the armor of the Athenian soldier.\n*'''Kassandra:''' ''This armor doesn't look like much.''\n\nKassandra traveled south to the Mourning Fields, finding the [[Swordfish]] in the [[Burned Temple of Moira]].\n\n(Dialogue runs concurrent with [[Beyond the Veil]])\n*'''Kassandra:''' ''The Swordfish will have the Athenian's sword.''\nKassandra engaged him in combat.\n*'''Swordfish:''' ''I've been waiting for you, ''misthios.<br />''Come to be food for the sharks? So be it.''\nKassandra dealt a few blows to the Swordfish.\n*'''Swordfish:''' ''[[Poseidon]], give me strength.''\nKassandra dealt a killing blow to the Swordfish.\n*'''Kassandra:''' ''Back to swimming with the fishes!''\nConfirming the kill, Kassandra retrieved a [[Chestplate of the Fallen|chestplate]] and a sword from his corpse.\n*'''Kassandra:''' ''This must be the sword.''\nShe also retrieved a note leading to a fallen hero.\n*'''Swordfish's note:''' ''They have followed me. Even into the asshole of the underworld, the Cult still follows. I did their bidding in life, and now in death they still demand servitude. I will never bow to them again. I am already in Hades' good graces. If I find guardians for his gates, I am sure to gain a stronger position still. The [[Agamemnon|king]] who slayed his own [[Iphigenia|daughter]] to win a [[Trojan War|war]] is rumored to dance among the flames in the [[Pit of Deprivation]]. I intend to pay him a little visit.''\n\nWith both items in her possession, Kassandra traveled the river west of Charon's dock to find the lost soldier.\n*'''Kassandra:''' ''I've got the Athenian's sword and armor. Now I just have to return them to him.''\nKassandra found the Athenian soldier in front of a makeshift memorial on a nondescript battlefield.\n*'''Kassandra:''' ''The smell of battle is always the same.''\n*'''Lost Soldier:''' ''I'm clumsy... Just clumsy...''\nKassandra spoke to the soldier.\n*'''Lost Soldier:''' ''A fellow warrior\u2026 Did death find you on the battlefield like it did me?''\n<tabber>\n|-|I'm not dead.=\n*'''Kassandra:''' ''Death hasn't found me, yet.''\n*'''Lost Soldier:''' ''I died pathetically on my knees in the dirt. That's why I'm trapped here.''\n|-|I've been sent to help you.=\n:(no extra dialogue)\n</tabber>\n*'''Kassandra:''' ''I'll give you the glorious death you seek.''\n*'''Lost Soldier:''' ''I can't fight you unarmed. There's no honor in that.''\n*'''Kassandra:''' ''Lucky for you, I have your armor and weapon here.''\nThe lost soldier outfitted himself.\n*'''Lost Soldier:''' ''It feels\u2026 different.''\n*'''Kassandra:''' ''You'll get the hang of it.''\n*'''Lost Soldier:''' ''I joined the war to protect my home from the siege of [[Sparta]]. Tell me, did we save glorious Athens and its people?''\n<tabber>\n|-|Lie \u2013 Athens is safe and sound.=\n*'''Kassandra:''' ''Athens is safe. Your army defeated Sparta at the gates of the city.''\n*'''Lost Soldier:''' ''You have brought me comfort. Now bring me peace.''\n*'''Kassandra:''' ''Don't go easy on me, Athenian.''\n|-|Athens was ravaged by plague.=\n*'''Kassandra:''' ''Athens wasn't destroyed by Sparta, but by disease. A plague wiped out the city. I can still smell the burning flesh from the piles of dead.''\n*'''Lost Soldier:''' ''So... Athens is no more. We all died for nothing. Without Athens, without its people, what is there left to honor? It's time. Come, put an end to my suffering.''\n</tabber>\nThey walked towards some assembled Spartan and Athenian soldiers. Kassandra stood on the Spartan line and the lost soldier stood with the Athenians. The soldier smiled at her.\nThe two sides began fighting.\n*'''Kassandra:''' ''Let's end this the right way.''\n*'''Lost Soldier:''' ''I will show you no mercy!''\nKassandra defeated the lost soldier and gave him the end he sought.",
+    "Section_Outcome": "Kassandra recovered the sword and armor of the soldier, and defeated [[Swordfish]] in the process.",
+    "Section_Behind_the_scenes": "*The choice to lie to the lost soldier about the status of Athens or to tell him the truth will be reflected in conversation with Charon at the beginning of the following quest, [[A Cursed Sickness]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]'' \u2013 ''[[The Fate of Atlantis: Torment of Hades]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La mort avant le d\u00e9shonneur]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra traveled to the docks of the River [[Styx]] to talk to Charon.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''All right, Charon. I'm ready to hear about your \"lost souls.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Charon:''' ''Oh, them. Not everyone in the [[underworld]] belongs here. These souls are lost. Their true resting place deserves to be found.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "5",
+            "content": "(If \"Why are the souls lost?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''You're the ferryman. ''You'' tell them where to go.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Charon:''' ''That's not in my job description. Every soul arrives with unfinished business\u2014some are just more sympathetic than others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "8",
+            "content": "(If \"Who are they?\" is chosen)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''Who are these souls you want me to help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Charon:''' ''Most die and are given proper funeral rites, but some aren't so lucky.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''And the unlucky ones become lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Charon:''' ''Oh, yes. They are left to wander eternity unaccepting of their fates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "13",
+            "content": "(Leave \u2013 \"I'll help the lost souls find peace.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''I'll help you, ferryman, but where should I start?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Charon:''' ''There's a soldier\u2014an [[Athens|Athenian]]. He wished to die an honorable death in battle, but as he charged towards the enemy, he slipped in the dirt\u2026 and fell.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''Sounds like quite the warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Charon:''' ''He needs a glorious death to pass on to [[Elysium]], but he cannot go to war without his weapon and armor. One is located in the [[Restless Nekropolis]], and the other is in the hands of the champion known as [[Swordfish]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Swordfish. Of course he'd be here. I'll return the soldier's equipment and help him claim the death he seeks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "20",
+            "content": "Kassandra traveled to the Restless Nekropolis and entered the tomb.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''The Restless Nekropolis. Sounds fun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "22",
+            "content": "Kassandra navigated her way through the hallways where she encountered [[Snake|snakes]] and prisoners of [[Tartaros]] alike. Inside a large chest she found the armor of the Athenian soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''This armor doesn't look like much.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "25",
+            "content": "Kassandra traveled south to the Mourning Fields, finding the [[Swordfish]] in the [[Burned Temple of Moira]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "27",
+            "content": "(Dialogue runs concurrent with [[Beyond the Veil]])",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''The Swordfish will have the Athenian's sword.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "29",
+            "content": "Kassandra engaged him in combat.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Swordfish:''' ''I've been waiting for you, ''misthios.<br />''Come to be food for the sharks? So be it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "31",
+            "content": "Kassandra dealt a few blows to the Swordfish.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D18",
+            "global_id": "32",
+            "content": "*'''Swordfish:''' ''[[Poseidon]], give me strength.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "33",
+            "content": "Kassandra dealt a killing blow to the Swordfish.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Back to swimming with the fishes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "35",
+            "content": "Confirming the kill, Kassandra retrieved a [[Chestplate of the Fallen|chestplate]] and a sword from his corpse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''This must be the sword.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "37",
+            "content": "She also retrieved a note leading to a fallen hero.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Swordfish's note:''' ''They have followed me. Even into the asshole of the underworld, the Cult still follows. I did their bidding in life, and now in death they still demand servitude. I will never bow to them again. I am already in Hades' good graces. If I find guardians for his gates, I am sure to gain a stronger position still. The [[Agamemnon|king]] who slayed his own [[Iphigenia|daughter]] to win a [[Trojan War|war]] is rumored to dance among the flames in the [[Pit of Deprivation]]. I intend to pay him a little visit.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "40",
+            "content": "With both items in her possession, Kassandra traveled the river west of Charon's dock to find the lost soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I've got the Athenian's sword and armor. Now I just have to return them to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "42",
+            "content": "Kassandra found the Athenian soldier in front of a makeshift memorial on a nondescript battlefield.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''The smell of battle is always the same.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Lost Soldier:''' ''I'm clumsy... Just clumsy...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "45",
+            "content": "Kassandra spoke to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "46",
+            "content": "*'''Lost Soldier:''' ''A fellow warrior\u2026 Did death find you on the battlefield like it did me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "48",
+            "content": "|-|I'm not dead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Death hasn't found me, yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "50",
+            "content": "*'''Lost Soldier:''' ''I died pathetically on my knees in the dirt. That's why I'm trapped here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "51",
+            "content": "|-|I've been sent to help you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N13",
+            "global_id": "52",
+            "content": ":(no extra dialogue)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE1",
+            "global_id": "53",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D28",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''I'll give you the glorious death you seek.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Lost Soldier:''' ''I can't fight you unarmed. There's no honor in that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Lucky for you, I have your armor and weapon here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "57",
+            "content": "The lost soldier outfitted himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "58",
+            "content": "*'''Lost Soldier:''' ''It feels\u2026 different.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''You'll get the hang of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "60",
+            "content": "*'''Lost Soldier:''' ''I joined the war to protect my home from the siege of [[Sparta]]. Tell me, did we save glorious Athens and its people?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "61",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "62",
+            "content": "|-|Lie \u2013 Athens is safe and sound.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''Athens is safe. Your army defeated Sparta at the gates of the city.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "64",
+            "content": "*'''Lost Soldier:''' ''You have brought me comfort. Now bring me peace.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "65",
+            "content": "*'''Kassandra:''' ''Don't go easy on me, Athenian.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "66",
+            "content": "|-|Athens was ravaged by plague.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''Athens wasn't destroyed by Sparta, but by disease. A plague wiped out the city. I can still smell the burning flesh from the piles of dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Lost Soldier:''' ''So... Athens is no more. We all died for nothing. Without Athens, without its people, what is there left to honor? It's time. Come, put an end to my suffering.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "69",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N15",
+            "global_id": "70",
+            "content": "They walked towards some assembled Spartan and Athenian soldiers. Kassandra stood on the Spartan line and the lost soldier stood with the Athenians. The soldier smiled at her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N16",
+            "global_id": "71",
+            "content": "The two sides began fighting.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Let's end this the right way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "73",
+            "content": "*'''Lost Soldier:''' ''I will show you no mercy!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "74",
+            "content": "Kassandra defeated the lost soldier and gave him the end he sought.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

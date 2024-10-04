@@ -1,0 +1,292 @@
+{
+    "Quest_Name": "Recollections",
+    "Quest_ID": "224119",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'The collector sold all manner of trinkets, but Kassandra was only interested in the Minotaur.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World, Support",
+        "previous": "Full Circle",
+        "next": "Seeking Answers",
+        "source": "Kassandra",
+        "location": "Messara, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Recollections''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandrs sought out the [[collector]] on [[Ardos]]' advice.",
+    "Section_Dialogue": "Kassandra located the collector mentioned by Ardos in [[Gortyn]].\n*'''Kassandra:''' ''You must be the Hoarder?''\n*'''Collector:''' ''The Collector!''\n*'''Kassandra:''' ''Dust Collector, maybe.<br />I'm here about the [[Minotaur]].''\nThe man was visibly shaken by the name of the beast.\n*'''Collector:''' ''The... No, no, no, I don't\u2014I can't\u2014I don't know anything about the Minotaur!''\n*'''Kassandra:''' ''Ardos sent me. He says you know things.''\n*'''Collector:''' ''Ardos! The boy. Never talk to the boy. We all promised.''\n\n<tabber>\n|-|I'm no threat to you.=\n*'''Kassandra:''' ''I'm not here to break bones. I'm here for information. Give it to me and I'll be on my way.''\n*'''Collector:''' ''I'll answer your questions, but you won't ask the right one.''\n*'''Kassandra:''' ''Can we not play games?''\n*'''Collector:''' ''Fine. You're going to need [[Theseus]]'s [[Theseus' Breastplate|armor]], which I sold to be part of a collection at the [[Daidalos Fort|fort]].''\n|-|Threaten \u2013 Talk or bleed.=\n*'''Kassandra:''' ''What you saw has scarred you.<br>Those scars are starting to fade. Perhaps you'd like some fresh ones?''\n*'''Collector:''' ''No - please - I have answers! If you aim to survive that - that beast in the [[Labyrinth of Lost Souls|labyrinth]], I know what you'll need!''\n*'''Kassandra:''' ''Tell me your secret, \"Collector.\"''\n*'''Collector:''' ''The [[Theseus' Breastplate|armor]] of [[Theseus]] himself! It's the only thing that can withstand the beast. But it's not here, it's in the [[Daidalos Fort|fort]]. I had to sell it!''\n</tabber>\n*'''Kassandra:''' ''There's nothing wrong with my armor.''\n*'''Collector:''' ''[[Nikios]] thought his armor was the finest in the [[Greece|Greek]] world. He could have worn Theseus' when we found it, but I was the perfect fit. Minotaur struck me right in the chest... Should have died. But Nikios...?<br />Don't make Nikios' mistake: Wear Theseus' armor.''\n(If players choose \"What do you know about Ardos?\")\n*'''Kassandra:''' ''What do you know of the boy?''\n*'''Collector:''' ''Son of Nikios. Stubborn. A little shit.<br />His father's son.''\n*'''Kassandra:''' ''You remember him fondly enough, yet you refuse to speak to him.''\n*'''Collector:''' ''If I speak, he might not listen. The truth is armor against little,'' [[Mercenary|misthios]].\n(If players choose \"Who did you sell Theseus' armor to?\")\n*'''Kassandra:''' ''You said you sold Theseus' armor. Who has it?''\n*'''Collector:''' ''A military commander, stationed in the fort. He has a [[Daidalos Armory|cave]] filled with all sorts of prizes. The armor is his crown jewel.''\n*'''Kassandra:''' ''Sounds like a hard thing to part with.''\n*'''Collector:''' ''No. Easy. That armor... it would have saved Nikios. It would have saved the boy's father. Yet I wore it. I didn't deserve... The armor haunted me. No point keeping ghosts in my collection.''\n(\"Leave \u2013 I've heard enough\")\n*'''Kassandra:''' ''Breathe Collector, I've learned enough. If Theseus' armor is still in the fort, I'll find it.''\n*'''Collector:''' ''There are more pieces of Theseus' armor, I've only managed to attain two of them.<br />But someone stole one from me!<br />If you find it, you can have it, but give whoever took it a piece of my mind. And perhaps a piece of your blade.''\n\nKassandra made her way to Daidalos Fort, where the armor was kept at. \n*'''Kassandra:''' ''The hidden cave.''\n\nShe sneaked into the cave mentioned by the Collector. Within the cave, she found the armor set on its very own plinth.\n\n*'''Kassandra:''' ''Theseus' armor. It ''is'' real.<br />I wonder how many more pieces of Theseus' armor are there...''",
+    "Section_Outcome": "Kassandra recovered an armor allegedly won by the legendary hero Theseus.",
+    "Section_Trivia": "*Though Recollections isn't required to progress [[Of Minotaurs and Men]], the quest is required in order for Theseus' armor to spawn.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Collection de souvenirs]]",
+    "Chapter_SequenceID": "26.",
+    "Chapter_Name": "Minotour - A Place of Twists and Turns",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.d",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra located the collector mentioned by Ardos in [[Gortyn]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''You must be the Hoarder?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Collector:''' ''The Collector!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Dust Collector, maybe.<br />I'm here about the [[Minotaur]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "The man was visibly shaken by the name of the beast.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Collector:''' ''The... No, no, no, I don't\u2014I can't\u2014I don't know anything about the Minotaur!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Ardos sent me. He says you know things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Collector:''' ''Ardos! The boy. Never talk to the boy. We all promised.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "9",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "10",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "11",
+            "content": "|-|I'm no threat to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''I'm not here to break bones. I'm here for information. Give it to me and I'll be on my way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Collector:''' ''I'll answer your questions, but you won't ask the right one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Can we not play games?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Collector:''' ''Fine. You're going to need [[Theseus]]'s [[Theseus' Breastplate|armor]], which I sold to be part of a collection at the [[Daidalos Fort|fort]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|Threaten \u2013 Talk or bleed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''What you saw has scarred you.<br>Those scars are starting to fade. Perhaps you'd like some fresh ones?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Collector:''' ''No - please - I have answers! If you aim to survive that - that beast in the [[Labyrinth of Lost Souls|labyrinth]], I know what you'll need!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Tell me your secret, \"Collector.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Collector:''' ''The [[Theseus' Breastplate|armor]] of [[Theseus]] himself! It's the only thing that can withstand the beast. But it's not here, it's in the [[Daidalos Fort|fort]]. I had to sell it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "21",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''There's nothing wrong with my armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "23",
+            "content": "*'''Collector:''' ''[[Nikios]] thought his armor was the finest in the [[Greece|Greek]] world. He could have worn Theseus' when we found it, but I was the perfect fit. Minotaur struck me right in the chest... Should have died. But Nikios...?<br />Don't make Nikios' mistake: Wear Theseus' armor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If players choose \"What do you know about Ardos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''What do you know of the boy?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Collector:''' ''Son of Nikios. Stubborn. A little shit.<br />His father's son.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''You remember him fondly enough, yet you refuse to speak to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "28",
+            "content": "*'''Collector:''' ''If I speak, he might not listen. The truth is armor against little,'' [[Mercenary|misthios]].",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "29",
+            "content": "(If players choose \"Who did you sell Theseus' armor to?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D21",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''You said you sold Theseus' armor. Who has it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "31",
+            "content": "*'''Collector:''' ''A military commander, stationed in the fort. He has a [[Daidalos Armory|cave]] filled with all sorts of prizes. The armor is his crown jewel.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Sounds like a hard thing to part with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "33",
+            "content": "*'''Collector:''' ''No. Easy. That armor... it would have saved Nikios. It would have saved the boy's father. Yet I wore it. I didn't deserve... The armor haunted me. No point keeping ghosts in my collection.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "34",
+            "content": "(\"Leave \u2013 I've heard enough\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''Breathe Collector, I've learned enough. If Theseus' armor is still in the fort, I'll find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "36",
+            "content": "*'''Collector:''' ''There are more pieces of Theseus' armor, I've only managed to attain two of them.<br />But someone stole one from me!<br />If you find it, you can have it, but give whoever took it a piece of my mind. And perhaps a piece of your blade.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "38",
+            "content": "Kassandra made her way to Daidalos Fort, where the armor was kept at.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''The hidden cave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "41",
+            "content": "She sneaked into the cave mentioned by the Collector. Within the cave, she found the armor set on its very own plinth.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U4",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D28",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Theseus' armor. It ''is'' real.<br />I wonder how many more pieces of Theseus' armor are there...''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

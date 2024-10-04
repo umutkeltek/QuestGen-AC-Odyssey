@@ -1,0 +1,40 @@
+{
+    "QuestName": "Dressing up for Charon",
+    "QuestID": "227480",
+    "Revision": {
+        "id": "1047218",
+        "parentid": "901346",
+        "timestamp": "2023-06-13T03:22:59Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047218",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "km82z7oo7wsua4qegws97392vwh5eu5"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Timotheos wished to give his father a military burial in his Athens|Athenian armor. Alas, Diokles (Fisherman)|Diokles's armor stolen had been stolen from their home, so Timotheos tasked Kassandra with retrieving another set from a merchant.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece, Support",
+        "previous": "Bloody Libation",
+        "next": "Honoring the Dead",
+        "source": "Kassandra",
+        "location": "Korinthia, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Dressing up for Charon''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke with [[Timotheos]] about recovering his [[Diokles (Fisherman)|father]]'s armor.",
+    "Section_Dialogue": "Using Ikaros to search the area.\n*'''Kassandra:''' ''Found him!''\nShe walked over to the merchant.\n\n[[File:Dressing_up_for_Charon_Merchant.png|thumb|Kassandra speaking to the merchant]]\n\n*'''Kassandra:''' Chaire. ''Would you happen to have any Athenian armor in your shop?\u00a0It's for Diokles's burial.''\n*'''Timaios:'''\u00a0''Timotheos can buy his father's armor back if he likes. Won't be cheap though.''\n*'''Kassandra:''' ''What do you mean?''\n*'''Timaios:''' ''Diokles sold me his armor not too long ago.''\n*'''Kassandra:''' ''Timotheos said his father's armor was stolen.''\n*'''Timaios:''' ''Well, I have it here and I'm no thief. I also have another set of Athenian armor. Not as nice, but it'll do for the burial.''\n\n<tabber>\n|-|I'll buy Diokles's armor.[7500]=\n*'''Kassandra:''' ''I'll take Diokles's armor.''\n*'''Timaios:''' ''You'll find it in the chest upstairs. Pleasure doing business with you.''\nKassandra found [[Diokles' Armor]] on the roof of the merchant's house.\n\n|-|I'll buy the cheaper armor.[250]=\n*'''Kassandra:''' ''I'll take the cheaper armor.''\n*'''Timaios:''' ''Figures a mercenary would choose the cheap armor. Here you go.''\nKassandra got a set of [[Standard Athenian Armor]].\n\n|-|I'll buy both.[7750]=\n*'''Kassandra:''' ''I'll take both sets of armor.''\n*'''Timaios:''' ''Here's the Athenian armor. Diokles' armor is upstairs.''\nKassandra got a set of [[Standard Athenian Armor]] and found [[Diokles' Armor]] on the roof of the merchant's house.\n\n|-|Attack - Hand over the armor, or else.=\n*'''Kassandra:''' ''Diokles' armor should belong to his son. Hand it over.''\n*'''Timaios:''' Laughs. ''You think you can threaten me? It's not like I store a set that valuable with my normal wares. You'll find it over my dead body.''\n*'''Kassandra:''' ''That's a chance I'm willing to take.''\nKassandra killed the merchant and found a set of [[Standard Athenian Armor]] on his body.\n*'''Kassandra:''' ''Standard Athenian armor. I could bring this back to Timotheos. Or I could look around for his father's armor.''\nIf she searched around she can also steal [[Diokles' Armor]] on the roof of the merchant's house.\n</tabber>\n\n*'''Kassandra:''' ''I should be ready to meet Lykinos and Timotheos at the funeral.''",
+    "Section_Outcome": "Kassandra either recovered [[Diokles' Armor]] and/or a cheaper replacement.",
+    "Section_Trivia": "* Alternatively players can just climb the roof of the merchant's house and steal the armor without talking to the merchant.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

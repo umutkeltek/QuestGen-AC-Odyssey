@@ -1,0 +1,745 @@
+{
+    "Quest_Name": "On a High Horse",
+    "Quest_ID": "223778",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD On a High Horse 01.png",
+        "description": "'Sokrates caught a man stealing a horse and wanted Kassandra to decide what to do with him. As always with Sokrates, the outcome wasn't going to be as simple as it seemed.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Sokrates}}",
+        "previous": "Free Speech",
+        "next": "A Life's Worth",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''On a High Horse''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra met with [[Sokrates]] at the [[Port of Piraeus]] with a [[horse]].",
+    "Section_Dialogue": "Kassandra passed near the Port of Piraeus in Athens and saw Sokrates admiring a horse. Assuming it was his, Kassandra engaged him in dialogue about it.\n\n*'''Kassandra:''' ''That's a nice horse, Sokrates.''\n*'''Sokrates:''' ''It's a very nice horse... a sturdy horse. It's also a stolen horse.''\n<tabber>\n|-|A good citizen would report this.=\n*'''Kassandra:''' ''It looks like I'll have to report you, Sokrates. It's what a good citizen would do, right?''\n*'''Sokrates:''' ''Oh! Very good. Although a bit preemptive without all the details, wouldn't you say?''\n*'''Kassandra:''' ''It was a joke.''\n*'''Sokrates:''' ''The real question is whether there is truth behind the joke, or if one's mind can be changed once the whole story is revealed.''\n|-|I never took you for a thief.=\n*'''Kassandra:''' ''Sokrates the horse thief... I can almost hear the stories they'll tell. [[Aristophanes]] will love this.''\n*'''Sokrates:''' ''Unfortunately, those stories would be entirely fabricated. Although, I ''would'' like to see if you believe the story should still be told once you know the truth.''\n</tabber>\n\n*'''Kassandra:''' ''What story is that?''\n*'''Sokrates:''' ''There is a man nearby who is responsible for stealing the horse. I've been contemplating the proper course of action, but I'd like to know what ''you'' think is right.''\n\n(Leave \u2013 \"I'm busy.\")\n\n*'''Kassandra:''' ''I'll leave this one to you.''\n\nKassandra left Sokrates, only to change her mind and return later.\n\n*'''Sokrates:''' ''Did you change your mind about helping?''\n\n(Accept \u2013 \"I'll decide what's right.\")\n\n*'''Kassandra:''' ''And how should I make my decision?''\n*'''Sokrates:''' ''Your thoughts are your own, but speaking to the thief himself may help you decide. ''Can'' such a crime be justified? It's an interesting thought.''\n*'''Kassandra:''' ''Where's the thief now?''\n*'''Sokrates:''' ''I told him to wait by the stables southwest of here.''\n*'''Kassandra:''' ''If you caught him stealing a horse, what's to say he won't just run away?''\n*'''Sokrates:''' ''The hope of keeping the horse. That's where you come in. I'll let him tell you the rest.''\n\nKassandra left Sokrates to go speak to the horse thief. As she approached him, he ran.\n\n*'''Kassandra:''' ''That's the thief! You won't escape.''\n\nShe chased the thief through the port and eventually cornered him.\n\n*'''Kassandra:''' ''Are you the one who stole the horse? Sokrates said I should talk to you.''\n*'''Civilian:''' ''Bad enough being caught, but to have a ''[[Mercenary|misthios]]'' judge me...''\n*'''Kassandra:''' ''Better me than an Athenian guard. Anything to say?''\n*'''Civilian:''' ''The man I stole it from won't even miss it. He has plenty of others, while my only horse died last week. If I had the drachmae to buy a new one, I would have.''\n\n(If \"Why did you steal the horse?\" is chosen.)\n\n*'''Kassandra:''' ''Did you steal the horse to use it or sell it?''\n*'''Civilian:''' ''I have a family to feed, and this horse will help me on the farm. Plus I have no other way of traveling right now.''\n*'''Kassandra:''' ''There's no other option?''\n*'''Civilian:''' ''Not that I could think of. Trust me, I feel shame for what I did.''\n\n(If \"Why did you pick this horse?\" is chosen.)\n\n*'''Kassandra:''' ''Any reason you picked this specific horse?''\n*'''Civilian:''' ''It was the easiest one to take. Other than that, not really. Though I did make sure is wasn't his best horse.''\n*'''Kassandra:''' ''A courteous thief?''\n*'''Civilian:''' ''I didn't steal it for fun. I did it because I had no other choice.''\n\n(Leave \u2013 \"I see.\")\n\n*'''Kassandra:''' ''I have enough information to make a decision.''\n*'''Civilian:''' ''I hope you can understand. Wouldn't you do the same if it was your family?''\n\nBefore leaving, Kassandra spoke to the thief once more.\n\n*'''Civilian:''' ''Was there something else?''\n\nSeeing she would get no further information, Kassandra let the thief escape and returned to Sokrates to render her decision.\n\n*'''Sokrates:''' ''Have you decided what should be done?''\n<tabber>\n|-|He should give back the horse.=\n*'''Kassandra:''' ''It doesn't matter why he stole the horse \u2013 it belongs to someone else.''\n*'''Sokrates:''' ''You surprise me yet again. I truly believed you would choose the other side.''\n*'''Kassandra:''' ''Because I am a ''misthios''?''\n*'''Sokrates:''' ''Of course! Yet, when it comes to someone else, you decided a crime deserves a consequence no matter the reason. A safe choice, although I can think of times when it may not be right.''\n|-|He should keep the horse.=\n*'''Kassandra:''' ''If he needs the horse more than the man he stole it from, let him keep it. It will do him more good.''\n*'''Sokrates:''' ''So determining whether a crime deserves a consequence or reward is dependent on the reasons behind it. An intriguing thought, although I can see how dangerous such thinking might be.''\n</tabber>\n\n:(If Kassandra did not speak to the thief and made her decision anyway.)\n:*'''Kassandra:''' ''When I thought about it, I realized I didn't need to talk to the man to make the decision.''\n:*'''Sokrates:''' ''So you didn't feel a need to know ''why'' he stole it? Your decisiveness is something to both marvel at and question.''\n\nRegardless, Kassandra saw through Sokrates' ruse.\n\n*'''Kassandra:''' ''The real question is whether my decision matters at all, or if this was just another test to see what I would do.''\n*'''Sokrates:''' ''There's a good chance it is both, but an equally good chance it is neither.''\n*'''Kassandra:''' ''Now you're not making sense on purpose.''\n\nSokrates had one more question for Kassandra.\n\n*'''Sokrates:''' ''Let me ask you one more thing. If one man kills another in order to save many, can his actions be considered just? Or should the man be punished?''\n<tabber>\n|-|He should be punished.=\n*'''Kassandra:''' ''The outcome may be better, but he should still be punished for his crime.''\n*'''Sokrates:''' ''That is true, yet if his peers were to decide \u2013 especially those he saved \u2013 they may argue that though the action was wrong, it was necessary and just.''\n*'''Kassandra:''' ''I'm not sure the law cares about the reasons.''\n*'''Sokrates:''' ''But if we are to decide whether the law should act on a man, or if his crime should be pardoned, the worthiness of the action should be taken into account, should it not?''\n|-|His actions are just.=\n*'''Kassandra:''' ''If the action was for a good reason, then he is in the right.''\n*'''Sokrates:''' ''So in times like these, people like us get to determine the law? Many would believe a murder still deserves consequence.''\n*'''Kassandra:''' ''The people whose lives were saved would disagree.''\n*'''Sokrates:''' ''Then perhaps making choices that affect the most people for good is the correct path, wouldn't you agree?''\n</tabber>\n\n*'''Kassandra:''' ''Are we done yet? I can't stay here all day.''\n*'''Sokrates:''' ''Of course you can't. It is a luxury few can afford. Even those with the time for it often lack the mental capacity for such things.''\n\nKassandra rolled her eyes.\n\n*'''Kassandra:''' ''OK.''\n\nBefore leaving, Kassandra spoke to Sokrates once more.\n\n*'''Sokrates:''' ''If a farmer steals a fruit today, but gives some of his crop to the poor tomorrow, who may decide if he is good? Hmm...''",
+    "Section_Outcome": "Kassandra met the philosopher Sokrates, helping him investigate and sharing her thoughts on a man who stole a horse.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Sokrates",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra passed near the Port of Piraeus in Athens and saw Sokrates admiring a horse. Assuming it was his, Kassandra engaged him in dialogue about it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''That's a nice horse, Sokrates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Sokrates:''' ''It's a very nice horse... a sturdy horse. It's also a stolen horse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|A good citizen would report this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''It looks like I'll have to report you, Sokrates. It's what a good citizen would do, right?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Sokrates:''' ''Oh! Very good. Although a bit preemptive without all the details, wouldn't you say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''It was a joke.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Sokrates:''' ''The real question is whether there is truth behind the joke, or if one's mind can be changed once the whole story is revealed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|I never took you for a thief.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Sokrates the horse thief... I can almost hear the stories they'll tell. [[Aristophanes]] will love this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Sokrates:''' ''Unfortunately, those stories would be entirely fabricated. Although, I ''would'' like to see if you believe the story should still be told once you know the truth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "14",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''What story is that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Sokrates:''' ''There is a man nearby who is responsible for stealing the horse. I've been contemplating the proper course of action, but I'd like to know what ''you'' think is right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "18",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "19",
+            "content": "(Leave \u2013 \"I'm busy.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U4",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I'll leave this one to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "22",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "23",
+            "content": "Kassandra left Sokrates, only to change her mind and return later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U6",
+            "global_id": "24",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D12",
+            "global_id": "25",
+            "content": "*'''Sokrates:''' ''Did you change your mind about helping?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U7",
+            "global_id": "26",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "27",
+            "content": "(Accept \u2013 \"I'll decide what's right.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U8",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D13",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''And how should I make my decision?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "30",
+            "content": "*'''Sokrates:''' ''Your thoughts are your own, but speaking to the thief himself may help you decide. ''Can'' such a crime be justified? It's an interesting thought.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Where's the thief now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "32",
+            "content": "*'''Sokrates:''' ''I told him to wait by the stables southwest of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''If you caught him stealing a horse, what's to say he won't just run away?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Sokrates:''' ''The hope of keeping the horse. That's where you come in. I'll let him tell you the rest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U9",
+            "global_id": "35",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "36",
+            "content": "Kassandra left Sokrates to go speak to the horse thief. As she approached him, he ran.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U10",
+            "global_id": "37",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D19",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''That's the thief! You won't escape.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U11",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "40",
+            "content": "She chased the thief through the port and eventually cornered him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U12",
+            "global_id": "41",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D20",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Are you the one who stole the horse? Sokrates said I should talk to you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "43",
+            "content": "*'''Civilian:''' ''Bad enough being caught, but to have a ''[[Mercenary|misthios]]'' judge me...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Better me than an Athenian guard. Anything to say?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "45",
+            "content": "*'''Civilian:''' ''The man I stole it from won't even miss it. He has plenty of others, while my only horse died last week. If I had the drachmae to buy a new one, I would have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U13",
+            "global_id": "46",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C1",
+            "global_id": "47",
+            "content": "(If \"Why did you steal the horse?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U14",
+            "global_id": "48",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D24",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Did you steal the horse to use it or sell it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "50",
+            "content": "*'''Civilian:''' ''I have a family to feed, and this horse will help me on the farm. Plus I have no other way of traveling right now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''There's no other option?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "52",
+            "content": "*'''Civilian:''' ''Not that I could think of. Trust me, I feel shame for what I did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U15",
+            "global_id": "53",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C2",
+            "global_id": "54",
+            "content": "(If \"Why did you pick this horse?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "U16",
+            "global_id": "55",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D28",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''Any reason you picked this specific horse?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "57",
+            "content": "*'''Civilian:''' ''It was the easiest one to take. Other than that, not really. Though I did make sure is wasn't his best horse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''A courteous thief?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "59",
+            "content": "*'''Civilian:''' ''I didn't steal it for fun. I did it because I had no other choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U17",
+            "global_id": "60",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "61",
+            "content": "(Leave \u2013 \"I see.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U18",
+            "global_id": "62",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D32",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''I have enough information to make a decision.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "64",
+            "content": "*'''Civilian:''' ''I hope you can understand. Wouldn't you do the same if it was your family?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U19",
+            "global_id": "65",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "66",
+            "content": "Before leaving, Kassandra spoke to the thief once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U20",
+            "global_id": "67",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D34",
+            "global_id": "68",
+            "content": "*'''Civilian:''' ''Was there something else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U21",
+            "global_id": "69",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N6",
+            "global_id": "70",
+            "content": "Seeing she would get no further information, Kassandra let the thief escape and returned to Sokrates to render her decision.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U22",
+            "global_id": "71",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D35",
+            "global_id": "72",
+            "content": "*'''Sokrates:''' ''Have you decided what should be done?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "73",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "74",
+            "content": "|-|He should give back the horse.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D36",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''It doesn't matter why he stole the horse \u2013 it belongs to someone else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "76",
+            "content": "*'''Sokrates:''' ''You surprise me yet again. I truly believed you would choose the other side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''Because I am a ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "78",
+            "content": "*'''Sokrates:''' ''Of course! Yet, when it comes to someone else, you decided a crime deserves a consequence no matter the reason. A safe choice, although I can think of times when it may not be right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "79",
+            "content": "|-|He should keep the horse.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''If he needs the horse more than the man he stole it from, let him keep it. It will do him more good.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "81",
+            "content": "*'''Sokrates:''' ''So determining whether a crime deserves a consequence or reward is dependent on the reasons behind it. An intriguing thought, although I can see how dangerous such thinking might be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "82",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U23",
+            "global_id": "83",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "84",
+            "content": ":(If Kassandra did not speak to the thief and made her decision anyway.)",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N8",
+            "global_id": "85",
+            "content": ":*'''Kassandra:''' ''When I thought about it, I realized I didn't need to talk to the man to make the decision.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N9",
+            "global_id": "86",
+            "content": ":*'''Sokrates:''' ''So you didn't feel a need to know ''why'' he stole it? Your decisiveness is something to both marvel at and question.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U24",
+            "global_id": "87",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N10",
+            "global_id": "88",
+            "content": "Regardless, Kassandra saw through Sokrates' ruse.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U25",
+            "global_id": "89",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D42",
+            "global_id": "90",
+            "content": "*'''Kassandra:''' ''The real question is whether my decision matters at all, or if this was just another test to see what I would do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "91",
+            "content": "*'''Sokrates:''' ''There's a good chance it is both, but an equally good chance it is neither.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''Now you're not making sense on purpose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U26",
+            "global_id": "93",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "94",
+            "content": "Sokrates had one more question for Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U27",
+            "global_id": "95",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D45",
+            "global_id": "96",
+            "content": "*'''Sokrates:''' ''Let me ask you one more thing. If one man kills another in order to save many, can his actions be considered just? Or should the man be punished?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "97",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "98",
+            "content": "|-|He should be punished.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "99",
+            "content": "*'''Kassandra:''' ''The outcome may be better, but he should still be punished for his crime.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "100",
+            "content": "*'''Sokrates:''' ''That is true, yet if his peers were to decide \u2013 especially those he saved \u2013 they may argue that though the action was wrong, it was necessary and just.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''I'm not sure the law cares about the reasons.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "102",
+            "content": "*'''Sokrates:''' ''But if we are to decide whether the law should act on a man, or if his crime should be pardoned, the worthiness of the action should be taken into account, should it not?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC6",
+            "global_id": "103",
+            "content": "|-|His actions are just.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''If the action was for a good reason, then he is in the right.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "105",
+            "content": "*'''Sokrates:''' ''So in times like these, people like us get to determine the law? Many would believe a murder still deserves consequence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''The people whose lives were saved would disagree.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "107",
+            "content": "*'''Sokrates:''' ''Then perhaps making choices that affect the most people for good is the correct path, wouldn't you agree?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "108",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U28",
+            "global_id": "109",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D54",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''Are we done yet? I can't stay here all day.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "111",
+            "content": "*'''Sokrates:''' ''Of course you can't. It is a luxury few can afford. Even those with the time for it often lack the mental capacity for such things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U29",
+            "global_id": "112",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N12",
+            "global_id": "113",
+            "content": "Kassandra rolled her eyes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U30",
+            "global_id": "114",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D56",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''OK.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U31",
+            "global_id": "116",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N13",
+            "global_id": "117",
+            "content": "Before leaving, Kassandra spoke to Sokrates once more.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U32",
+            "global_id": "118",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D57",
+            "global_id": "119",
+            "content": "*'''Sokrates:''' ''If a farmer steals a fruit today, but gives some of his crop to the poor tomorrow, who may decide if he is good? Hmm...''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

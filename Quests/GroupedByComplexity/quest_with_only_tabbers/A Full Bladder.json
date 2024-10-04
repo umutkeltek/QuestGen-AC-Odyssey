@@ -1,0 +1,153 @@
+{
+    "Quest_Name": "A Full Bladder",
+    "Quest_ID": "223501",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "A Full Bladder",
+        "description": "'Spies were said to hide messages inside unusual objects, including the dried bladder of a bear. A spy sought more dead bears for her messages.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''A Full Bladder''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A spy for the [[Athens|Athenians]] required the aid of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra sought out the spy and addressed her.\n*'''Kassandra:''' ''You're the one who left the message on the [[Message board|board]]. What's going on?''\n*'''Woman:''' ''I have an important message for the Athenian commander\u2026 It's concealed inside a dried [[bear]]'s bladder for complete secrecy.''\n*'''Kassandra:''' ''Why are you hiding the message?''\n*'''Woman:''' ''Because, ''misthios'', the message contains information on the [[Sparta]]ns' movements!<br>Unfortunately, this is my last bear bladder. I'll need more.''\n*'''Kassandra:''' ''Does someone sell them?''\n*'''Woman:''' ''I usually take them from dead bears I find in the forest. But they've been scarce lately, and I need to get this message to the commander.''\n<tabber>\n|-|You need it delivered.=\n*'''Kassandra:''' ''You want me to deliver it to the Athenian commander.''\n*'''Woman:''' ''That's exactly it. Will you do it?''\n|-|You want the bears killed.=\n</tabber>\n(Accept - I'll handle it.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Woman:''' ''Good. Please handle this... delicately.''\n*'''Kassandra:''' ''We're done here.''\nKassandra left the woman, and found the commander.\n*'''Kassandra:''' ''A woman told me you\u2019d be expecting this.''\n*'''Man:''' ''Thank you, ''misthios''! Here, this is for you.''",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra sought out the spy and addressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''You're the one who left the message on the [[Message board|board]]. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Woman:''' ''I have an important message for the Athenian commander\u2026 It's concealed inside a dried [[bear]]'s bladder for complete secrecy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Why are you hiding the message?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''Because, ''misthios'', the message contains information on the [[Sparta]]ns' movements!<br>Unfortunately, this is my last bear bladder. I'll need more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Does someone sell them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Woman:''' ''I usually take them from dead bears I find in the forest. But they've been scarce lately, and I need to get this message to the commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You need it delivered.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''You want me to deliver it to the Athenian commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Woman:''' ''That's exactly it. Will you do it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "12",
+            "content": "|-|You want the bears killed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Accept - I'll handle it.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I'll take care of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''Good. Please handle this... delicately.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''We're done here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "18",
+            "content": "Kassandra left the woman, and found the commander.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''A woman told me you\u2019d be expecting this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Man:''' ''Thank you, ''misthios''! Here, this is for you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,678 @@
+{
+    "Quest_Name": "Wine for the Swine",
+    "Quest_ID": "229201",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[The Lost Tales of Greece | Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOd-WinefortheSwine-Circe.jpg",
+        "description": "'There was no greater counterfeit for death than good sleep, and no surer way to succumb than witchcraft. But would Kassandra find a witch on Paros Island|Paros, or something else entirely?'",
+        "appearance": "'Assassin's Creed: Odyssey \u2013 The Lost Tales of Greece'",
+        "type": "Main",
+        "previous": "Odyssey Into the Past",
+        "next": "Daddy's Home",
+        "concurrent": "To Be Nobody<br>Beware the Siren Call",
+        "source": "Kassandra",
+        "location": "Atoll Point, Greece",
+        "date": "429 \u2013 422 BCE"
+    },
+    "General_Description": "'''Wine for the Swine''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Following [[Barnabas]]' [[lotus]] flower inspired vision, the ''[[Adrestia]]'' set sail towards [[Paros Island]].",
+    "Section_Dialogue": "As they neared Paros, Barnabas grew excited.\n*'''Barnabas:''' ''Approaching Paros! This is where I saw [[Leda (Barnabas' wife)|my wife]] drinking wine with a beautiful [[Circe|witch]].''\nKassandra left the ship, and went to explore [[Atoll Point]]. On a hill, she saw [[Atoll Point ruins|ruins]] fitting Barnabas' description, and headed towards them. Within she saw a number of apparently tame [[pig]]s, [[wild boar]]s, and [[lion]]s, as well as a woman drinking the blood of a slain pig.\n*'''Kassandra:''' ''These pigs... look hungry.''\nShe approached the woman. Noticing her, the woman rose and turned to greet her.\n*'''Circe:''' ''Welcome to my empire, traveler. I am its empress, [[Circe (mythology)|Circe]] of the [[Oceanid]]s.''\n*'''Kassandra:''' ''You live here?''\n*'''Circe:''' ''Where are my manners? You must be weary after your long journey. There's some wine in my hold, if you'd fetch it for us. I'm a bit indisposed at the moment.''\n<tabber>\n|-|I could use some wine.=\n*'''Kassandra:''' ''I could use a drink. I'll fetch the wine.''\nKassandra left Circe. Near the pillars, a flower drew her attention.\n*'''Kassandra:''' ''This is [[moly]], a natural antidote for [[poison]]. I should take some just in case.''\nShe continued to the ruins down the hill, studying them. On a broken pillar, she saw a toy doll, and inspected it.\n*'''Kassandra:''' ''This toy has teeth marks.''\nOn the ground near the toy and the wine was a clay tablet.\n*'''Kassandra:''' ''This says her subjects are hungry. What subjects?''\nNearby, the stones were stained with blood.\n*'''Kassandra:''' ''Could this blood be [[human]]?''\nShe found the wine, and grabbed it before heading back to Circe. She gave the wine to Circe, who smiled.\n*'''Circe:''' ''You look deliciously thirsty.''\n{{#tag:tabber|\nI'll drink the wine.=\n*'''Kassandra:''' ''All right, \"empress.\" Let's drink.''\nThey toasted, and Kassandra drained her cup while Circe smiled, not drinking a drop. When Kassandra remained unaffected, Circe was dumbstruck.\n*'''Circe:''' ''You didn't succumb.''\n(If \"What are you doing here?\" is chosen.)\n*'''Kassandra:''' ''Why do you live out here on your own?''\n*'''Circe:''' ''A woman like me has no place in this world. Out there, they call me witch. Here, I am my own empress, with my subjects to protect me.''\n(If \"Why is your wine poisoned?\" is chosen.)\n*'''Kassandra:''' ''Why try to poison me?''\n*'''Circe:''' ''My subjects need to be fed. You drink the cursed wine. They feed on your flesh. The curse passes on to them, and they remain in my control.''\n(If \"Enough games.\" is chosen.)\n*'''Kassandra:''' ''Enough. I'm looking for a woman named Leda. My friend believes she visited here.''\n*'''Circe:''' ''My boars devour all. But if she had, I would have kept a trophy. This bracelet is from the last woman who came to my empire.''\nCirce showed off the bracelet around her wrist.\n*'''Kassandra:''' ''Give it to me.''\nKassandra took the bracelet from the unresisting Circe.\n*'''Circe:''' ''And what will you do to me and my subjects? Kill us?''\n{{#tag:tabber|\nJoin my crew.=\n*'''Kassandra:''' ''You're resourceful... I could use someone like you on my ship. Leave this solitude and join us.''\n*'''Circe:''' ''My ''pater'' had my ''mater'' flayed for being a witch. He'd have killed me, too, until I... Well. He won't be hurting anyone now. Tell me, would you set a tigress loose on your deck?''\n*'''Kassandra:''' ''I think you'll fit in just fine.''\n{{!}}-{{!}}\nThreaten \u2013 Stay out of my way.=\n*'''Kassandra:''' ''I'll spare you. But if you get in my way, I will gut you and every animal here.''\nCirce turned away from her without a word, but the animals attacked Kassandra.\n*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''\n*'''Circe:''' ''How dare you challenge an empress?''\nKassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.\n*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''\n{{!}}-{{!}}\nFight \u2013 Prepare to die.=\n*'''Kassandra:''' ''I don't know what evil ritual you performed on Leda, but I'll kill you for it, witch!''\n*'''Circe:''' ''My subjects will protect me.''\n*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''\n*'''Circe:''' ''How dare you challenge an empress?''\nKassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.\n*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''\n}}\n{{!}}-{{!}}\nI'll drink the wine (Moly not found).=\n*'''Kassandra:''' ''All right, \"empress.\" Let's drink.''\nThey toasted, and Kassandra drained her cup while Circe smiled, not drinking a drop.\n*'''Circe:''' ''That's it. Drink your last drink. Breathe your last breath. My subjects grow hungry.''\nKassandra reeled as she spoke, feeling the effects of whatever was in the cup. Kassandra lost consciousness, only to wake up on cold stone floor in darkness.\n*'''Kassandra:''' Mal\u00e1ka'', my head. Where am I?''\nShe stood up, holding her head. A wild boar approached her from the darkness. Kassandra slew it and made her way out of the [[Alkaios Tomb|tomb]] and back to Circe's ruins.\n*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''\n*'''Circe:''' ''How dare you challenge an empress?''\nKassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.\n*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''\n{{!}}-{{!}}\nFight \u2013 Drop the act.=\n*'''Kassandra:''' ''I don't know what evil ritual you performed on Leda, but I'll kill you for it, witch!''\n*'''Circe:''' ''My subjects will protect me.''\n*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''\n*'''Circe:''' ''How dare you challenge an empress?''\nKassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.\n*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''\n}}\n|-|Fight \u2013 Die, witch!=\n*'''Kassandra:''' ''I don't know what evil ritual you performed on Leda, but I'll kill you for it, witch!''\n*'''Circe:''' ''My subjects will protect me.''\n*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''\n*'''Circe:''' ''How dare you challenge an empress?''\nKassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.\n*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''\n</tabber>\nKassandra read the note from Circe.\n:'''Circe's List of Trophies:'''<br />''From F., her [[bow]]. From E, a most delightful statue. From L, a commoner's bracelet. From M, a clay pot. P surrendered his [[sword]]. From X, nothing. A total waste. From K...''\nWith the note and bracelet in hand, she returned to the ''Adrestia'' to inform Barnabas of what she had discovered.\n*'''Barnabas:''' ''About my Leda, do you have any news?''\n(Chose \"I got this bracelet from Circe.\")<br />\nKassandra dug out the bracelet, and showed it to Barnabas.\n*'''Kassandra:''' ''I found this bracelet... and a lot of pigs.''\n*'''Barnabas:''' ''I can explain. Leda had it and was transformed into a pig by Circe. When she was turned back into a beautiful woman, she gave this to Circe to remember her by.''\n<tabber>\n|-|This is someone else's bracelet.=\n*'''Kassandra:''' ''Barnabas, this bracelet could be anyone's.''\n*'''Barnabas:''' ''No. I'm certain it's Leda's. It ''must'' be.''\n|-|This is Leda's bracelet.=\n*'''Kassandra:''' ''Right as always, old friend. Which means we're one step closer to finding Leda, I think.''\n*'''Barnabas:''' ''You think correctly! The gods would never lie. Aside from [[Dolos]]. And [[Apate (deity)|Apate]]. But never mind them.''\n</tabber>\nBarnabas took the bracelet.",
+    "Section_Outcome": "Kassandra found a woman who claimed to be Circe of the Oceanids, and ended up killing her, discovering on her a bracelet which might have belonged to Leda, Barnabas' lost wife.",
+    "Section_Behind_the_scenes": "Despite Kassandra claiming that Circe's list names the bracelet to have belonged to a \"Leda\", the list only lists the victims by, presumably, the first letter of their name.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Lost Tales of Greece]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "A Friend Worth Dying For",
+    "Chapter_Type": "The Lost Tales of Greece",
+    "Quest_SequenceID": "1.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As they neared Paros, Barnabas grew excited.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Barnabas:''' ''Approaching Paros! This is where I saw [[Leda (Barnabas' wife)|my wife]] drinking wine with a beautiful [[Circe|witch]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra left the ship, and went to explore [[Atoll Point]]. On a hill, she saw [[Atoll Point ruins|ruins]] fitting Barnabas' description, and headed towards them. Within she saw a number of apparently tame [[pig]]s, [[wild boar]]s, and [[lion]]s, as well as a woman drinking the blood of a slain pig.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''These pigs... look hungry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She approached the woman. Noticing her, the woman rose and turned to greet her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Circe:''' ''Welcome to my empire, traveler. I am its empress, [[Circe (mythology)|Circe]] of the [[Oceanid]]s.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You live here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Circe:''' ''Where are my manners? You must be weary after your long journey. There's some wine in my hold, if you'd fetch it for us. I'm a bit indisposed at the moment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "9",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "10",
+            "content": "|-|I could use some wine.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I could use a drink. I'll fetch the wine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "12",
+            "content": "Kassandra left Circe. Near the pillars, a flower drew her attention.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''This is [[moly]], a natural antidote for [[poison]]. I should take some just in case.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "14",
+            "content": "She continued to the ruins down the hill, studying them. On a broken pillar, she saw a toy doll, and inspected it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''This toy has teeth marks.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "16",
+            "content": "On the ground near the toy and the wine was a clay tablet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''This says her subjects are hungry. What subjects?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "18",
+            "content": "Nearby, the stones were stained with blood.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Could this blood be [[human]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "20",
+            "content": "She found the wine, and grabbed it before heading back to Circe. She gave the wine to Circe, who smiled.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Circe:''' ''You look deliciously thirsty.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "22",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC2",
+            "global_id": "23",
+            "content": "I'll drink the wine.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''All right, \"empress.\" Let's drink.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "25",
+            "content": "They toasted, and Kassandra drained her cup while Circe smiled, not drinking a drop. When Kassandra remained unaffected, Circe was dumbstruck.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "26",
+            "content": "*'''Circe:''' ''You didn't succumb.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "27",
+            "content": "(If \"What are you doing here?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Why do you live out here on your own?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "29",
+            "content": "*'''Circe:''' ''A woman like me has no place in this world. Out there, they call me witch. Here, I am my own empress, with my subjects to protect me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "30",
+            "content": "(If \"Why is your wine poisoned?\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''Why try to poison me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Circe:''' ''My subjects need to be fed. You drink the cursed wine. They feed on your flesh. The curse passes on to them, and they remain in my control.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "33",
+            "content": "(If \"Enough games.\" is chosen.)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''Enough. I'm looking for a woman named Leda. My friend believes she visited here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Circe:''' ''My boars devour all. But if she had, I would have kept a trophy. This bracelet is from the last woman who came to my empire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "36",
+            "content": "Circe showed off the bracelet around her wrist.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''Give it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "38",
+            "content": "Kassandra took the bracelet from the unresisting Circe.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "39",
+            "content": "*'''Circe:''' ''And what will you do to me and my subjects? Kill us?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "40",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "41",
+            "content": "Join my crew.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''You're resourceful... I could use someone like you on my ship. Leave this solitude and join us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "43",
+            "content": "*'''Circe:''' ''My ''pater'' had my ''mater'' flayed for being a witch. He'd have killed me, too, until I... Well. He won't be hurting anyone now. Tell me, would you set a tigress loose on your deck?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''I think you'll fit in just fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "45",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC4",
+            "global_id": "46",
+            "content": "Threaten \u2013 Stay out of my way.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I'll spare you. But if you get in my way, I will gut you and every animal here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "48",
+            "content": "Circe turned away from her without a word, but the animals attacked Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "50",
+            "content": "*'''Circe:''' ''How dare you challenge an empress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "51",
+            "content": "Kassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "53",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "54",
+            "content": "Fight \u2013 Prepare to die.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''I don't know what evil ritual you performed on Leda, but I'll kill you for it, witch!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "56",
+            "content": "*'''Circe:''' ''My subjects will protect me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "58",
+            "content": "*'''Circe:''' ''How dare you challenge an empress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "59",
+            "content": "Kassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "61",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "62",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "63",
+            "content": "I'll drink the wine (Moly not found).=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''All right, \"empress.\" Let's drink.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "65",
+            "content": "They toasted, and Kassandra drained her cup while Circe smiled, not drinking a drop.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "66",
+            "content": "*'''Circe:''' ''That's it. Drink your last drink. Breathe your last breath. My subjects grow hungry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "67",
+            "content": "Kassandra reeled as she spoke, feeling the effects of whatever was in the cup. Kassandra lost consciousness, only to wake up on cold stone floor in darkness.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' Mal\u00e1ka'', my head. Where am I?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "69",
+            "content": "She stood up, holding her head. A wild boar approached her from the darkness. Kassandra slew it and made her way out of the [[Alkaios Tomb|tomb]] and back to Circe's ruins.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D37",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "71",
+            "content": "*'''Circe:''' ''How dare you challenge an empress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "72",
+            "content": "Kassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D39",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "74",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "75",
+            "content": "Fight \u2013 Drop the act.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D40",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''I don't know what evil ritual you performed on Leda, but I'll kill you for it, witch!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "77",
+            "content": "*'''Circe:''' ''My subjects will protect me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "78",
+            "content": "*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "79",
+            "content": "*'''Circe:''' ''How dare you challenge an empress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "80",
+            "content": "Kassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "82",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC8",
+            "global_id": "83",
+            "content": "|-|Fight \u2013 Die, witch!=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''I don't know what evil ritual you performed on Leda, but I'll kill you for it, witch!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "85",
+            "content": "*'''Circe:''' ''My subjects will protect me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Circe! I will rip you apart and feed you to your animals?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "87",
+            "content": "*'''Circe:''' ''How dare you challenge an empress?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "88",
+            "content": "Kassandra slew Circe. On her corpse, she found a particular bracelet, as well as a list of Circe's victims and trophies.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "89",
+            "content": "*'''Kassandra:''' ''The witch kept a list of names... and trophies. This bracelet was worn by a \"Leda.\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "90",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N21",
+            "global_id": "91",
+            "content": "Kassandra read the note from Circe.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N22",
+            "global_id": "92",
+            "content": ":'''Circe's List of Trophies:'''<br />''From F., her [[bow]]. From E, a most delightful statue. From L, a commoner's bracelet. From M, a clay pot. P surrendered his [[sword]]. From X, nothing. A total waste. From K...''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N23",
+            "global_id": "93",
+            "content": "With the note and bracelet in hand, she returned to the ''Adrestia'' to inform Barnabas of what she had discovered.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "94",
+            "content": "*'''Barnabas:''' ''About my Leda, do you have any news?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "95",
+            "content": "(Chose \"I got this bracelet from Circe.\")<br />",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "N24",
+            "global_id": "96",
+            "content": "Kassandra dug out the bracelet, and showed it to Barnabas.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''I found this bracelet... and a lot of pigs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "98",
+            "content": "*'''Barnabas:''' ''I can explain. Leda had it and was transformed into a pig by Circe. When she was turned back into a beautiful woman, she gave this to Circe to remember her by.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "99",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC9",
+            "global_id": "100",
+            "content": "|-|This is someone else's bracelet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Barnabas, this bracelet could be anyone's.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "102",
+            "content": "*'''Barnabas:''' ''No. I'm certain it's Leda's. It ''must'' be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC10",
+            "global_id": "103",
+            "content": "|-|This is Leda's bracelet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "104",
+            "content": "*'''Kassandra:''' ''Right as always, old friend. Which means we're one step closer to finding Leda, I think.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "105",
+            "content": "*'''Barnabas:''' ''You think correctly! The gods would never lie. Aside from [[Dolos]]. And [[Apate (deity)|Apate]]. But never mind them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "106",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N25",
+            "global_id": "107",
+            "content": "Barnabas took the bracelet.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

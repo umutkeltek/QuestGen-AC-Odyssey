@@ -1,0 +1,854 @@
+{
+    "Quest_Name": "Ostracized",
+    "Quest_ID": "223007",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Ostracized_-_Assassins_Creed_Odyssey.png",
+        "description": "'Tasked with influencing a vote to ostracize a seemingly innocent Anaxagoras|man, Kassandra had no choice but to do so if she wished to attend Perikles' illustrious symposium.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Welcome to Athens",
+        "next": "Perikles's Symposium",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "May 431 BCE"
+    },
+    "General_Description": "'''Ostracized''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by [[Perikles]] to influence a vote to [[Ostracism|ostracize]] the philosopher [[Anaxagoras]].",
+    "Section_Dialogue": "Kassandra made her way to the [[Bouleuterion of Athens]] to meet with Perikles's contact.\n*'''Civilian:''' ''You must be the one Perikles sent.''\n*'''Kassandra:''' ''I am. He said there is an ostracism vote, but didn't tell me what I'm here to do.''\n*'''Civilian:''' ''Of course he didn't. That's what I'm for.''\n(If players choose \"What happens to the exiled?\")\n*'''Kassandra:''' ''If someone is exiled, can they return?''\n*'''Civilian:''' ''If they do, they'll be punished.''\n(If players choose \"What gets you ostracized?\")\n*'''Kassandra:''' ''What does someone have to do to be ostracized?''\n*'''Civilian:''' ''Anyone seen as a threat to the city or the people is enough. And then it is up to the vote. Some have been ostracized for simply being more disliked than the person they're up against.''\n(If players choose \"Tell me what I do.\")\n*'''Kassandra:''' ''What's my role in this?''\n*'''Civilian:''' ''The votes have already been cast. We don't have long before they're counted. Take the ostraka in this bag and exchange them with the ones currently under guard.''\n*'''Kassandra:''' ''You want me to rig the ostracism?''\n*'''Civilian:''' ''Perikles does, and he has his reasons I'm sure. Bring me the bag you took from the room, and I'll take care of the rest.''\n*'''Kassandra:''' ''No one will see me go in or out. Stay here.''\nKassandra made her way to the [[Logismos Building]], avoiding the guards as best she could to swap out the ballots.\n*'''Kassandra:''' ''That should do it. I should let Perikles's contact know.''\nKassandra reported her success to the contact.\n*'''Kassandra:''' ''It's done.''\n*'''Civilian:''' ''Hm, you work quickly.''\n*'''Kassandra:''' ''What are you going to do with them?''\n*'''Civilian:''' ''Dump them in a well. Ah, it looks like the official has arrived.''\n<tabber>\n|-|Undetected in the Logismos Building=\n*'''Civilian (official):''' ''The votes have been tallied. Overwhemingly, the people have decided that Anaxagoras should be ostracized from Athens.''\n|-|Detected=\n*'''Civilian (official):''' ''I apologize for the delay. There was evidence someone attempted to tamper with the votes.''\nKassandra and Perikles' contact looked to one another.\n*'''Civilian (official):''' ''Don't worry. The ostraca are all accounted for. The votes were counted, and Anaxagoras is to be ostracized.''\n</tabber>\n[[File:ACOD Anaxagoras Ostracized.png|thumb|250px|Anaxagoras being escorted out of Athens]]\nThe guards led Anaxagoras from the room amid the booing of the crowd, and Kassandra caught the eye of [[Sokrates]].\n*'''Sokrates:''' ''Be slow to fall into friendship\u2014but once you do, continue firm and constant. It will be more difficult for me now that Anaxagoras must leave Athens. We were quite close, although he and Perikles were much closer. It's strange Perikles wasn't here today to defend him.''\n(If players choose \"Why would Perikles intervene?\")\n*'''Kassandra:''' ''Would Perikles normally defend someone?''\n*'''Sokrates:''' ''A good friend? Of course. Yet Anaxagoras seems pleased with the result. This day has brought more questions than answers.''\n(If players choose \"What is your relationship to Anaxagoras?\")\n*'''Kassandra:''' ''You said you were close...''\n*'''Sokrates:''' ''He was like a mentor to me. Many of my best thoughts came to fruition through our conversations.''\n(If players choose \"Tell me who you are.\")\n*'''Kassandra:''' ''Who are you?''\n*'''Sokrates:''' ''Ask anyone and they'll tell you Sokrates, but a name gives you nothing. Our actions determine who we are, and every action has its pleasures and its price. With that said, then, who do you claim to be?''\n\n<tabber>\n|-|I'm Kassandra.=\n*'''Kassandra:''' ''My name is Kassandra.''\n*'''Sokrates:''' ''And still, I don't feel I know you. Perhaps I can find out who you are a different way.''\n*'''Kassandra:''' ''You want to know me?''\n*'''Sokrates:''' ''Knowledge is the one good thing in this world. Surely you agree?''\n{{#tag:tabber|\nDrachmae is most important.=\n*'''Kassandra:''' ''I can't be paid in knowledge.''\n*'''Sokrates:''' ''Ah, then you're driven by the desire for wealth.''\n*'''Kassandra:''' ''Drachmae is the one thing people need.''\n*'''Sokrates:''' ''Many believe they need more than they actually do.''\n*'''Kassandra:''' ''And others have to risk everything just to survive.''\n{{!}}-{{!}}\nKnowledge matters most.=\n*'''Kassandra:''' ''Of course. Knowledge drives everything I do.''\n*'''Sokrates:''' ''Then we are the same in that way.''\n*'''Kassandra:''' ''Knowledge of when to attack, what weapon to use, or when to use reason instead of violence.''\n*'''Sokrates:''' ''We seem to put our love of knowledge into practice quite differently.''\n*'''Kassandra:''' ''I use it how I need to.''\n}}\n|-|I'm a mercenary.=\n*'''Kassandra:''' ''I know the price of actions. I have to as a mercenary.''\n*'''Sokrates:''' ''That simple piece of information tells me more about you than your name ever could. Explaining oneself must be carefully done.''\n*'''Kassandra:''' ''Explaining myself would take more time than I have.''\n*'''Sokrates:''' ''Then let us focus on a single, recent event. Tell me, as a mercenary, is there anything you wouldn't do?''\n{{#tag:tabber|\nI'll do anything for the right price.=\n*'''Kassandra:''' ''Everything has a price.''\n*'''Sokrates:''' ''And you're the one who decides when the pay is worth it.''\n*'''Kassandra:''' ''I don't have the luxury of turning down a job.''\n*'''Sokrates:''' ''What of duty? The greater good? Are they not their own kind of payment?''\n{{#tag:tabber|\nThey're not enough payment.=\n*'''Kassandra:''' ''No. They're not.''\n*'''Sokrates:''' ''It seems you know yourself well, but know it is better to change one's thoughts than to persist in those that are wrong.''\n*'''Kassandra:''' ''My thoughts are fine.''\n{{!}}-{{!}}\nThey can be enough payment.=\n*'''Kassandra:''' ''Some people might see duty as a good enough reason, I guess.''\n*'''Sokrates:''' ''The greater good is all we should care about.''\n*'''Kassandra:''' ''Easy to say if you're never worried about going hungry.''\n*'''Sokrates:''' ''I eat to live, but I do not live to eat.''\n*'''Kassandra:''' ''If you say so.''\n}}\n{{!}}-{{!}}\nEveryone has a line they won't cross.=\n*'''Kassandra:''' ''Just because I'm a mercenary doesn't mean I'll do anything.''\n*'''Sokrates:''' ''Even if the pay was more than adequate for the task?''\n*'''Kassandra:''' ''Even then.''\n*'''Sokrates:''' ''What if you were offered something you desperately needed? Something you couldn't get anywhere else? Would you move this line you've made for yourself?''\n{{#tag:tabber|\nMy line has moved enough.=\n*'''Kassandra:''' ''My line has moved countless times since I was a child. But it still exists.''\n*'''Sokrates:''' ''And will likely move again if what you say is true.''\n*'''Kassandra:''' ''It may.''\n{{!}}-{{!}}\nMy line could move more.=\n*'''Kassandra:''' ''It moves when I need it to.''\n*'''Sokrates:''' ''A strategy for those who must be adaptable. Or for those who wish to justify their actions.''\n*'''Kassandra:''' ''I decide if my actions are just.''\n}}\n}}\n</tabber>\n*'''Sokrates:''' ''You are clearly someone who would do whatever you feel is necessary. Perhaps for drachmae, or maybe to further a personal goal.''\n*'''Kassandra:''' ''That describes a lot of people.''\n*'''Sokrates:''' ''I suppose I'm curious why you did it. How could I not be when you're the reason my friend is being forced to leave the only home he's ever known?''\n<tabber>\n|-|I had to do it.=\n*'''Kassandra:''' ''I did what I was asked to do.''\n*'''Sokrates:''' ''And your needs are greater than those of the man you helped ostracize? Still, you raise a fine point. Who is more responsible: Anaxagoras for getting himself mixed up in this, or you, for simply sealing his fate?''\n{{#tag:tabber|\nAnaxagoras is responsible.=\n*'''Kassandra:''' ''I'm not responsible for his actions. I have one thing to think about\u2014my own.''\n{{!}}-{{!}}\nI am responsible.=\n*'''Kassandra:''' ''Fine. I'm more responsible. But I did it because I have one concern\u2014myself.''\n}}\n*'''Sokrates:''' ''Then I hope you also think about today. About Anaxagoras. About choice.''\n|-|Lie \u2013 I didn't do anything.=\n*'''Kassandra:''' ''I think you have the wrong person.''\n*'''Sokrates:''' ''You are claiming that ''you'' are the wrong person? Life's one true happiness is knowing yourself.''\n*'''Kassandra:''' ''Even if I did know who rigged the ostracism vote, I wouldn't tell you.''\n*'''Sokrates:''' ''And yet, I never said anyone rigged anything.''\n</tabber>\nA civilian approached and interrupted their conversation.\n*'''Civilian:''' ''Sokrates. There you are.''\n*'''Sokrates:''' ''Here I am.''\n*'''Civilian:''' ''You're late. They're all waiting for you.''\n*'''Sokrates:''' ''I wished to see Anaxagoras's fate. And so I have. Tell them I'm on my way.''\nSokrates turned his attention back to Kassandra.\n*'''Sokrates:''' ''Well, it seems our conversation is at an end. Although I hope it isn't the final one we have.''\n*'''Kassandra:''' ''I wouldn't know.''",
+    "Section_Outcome": "Anaxagoras was ostracized in accordance with Perikles's wishes, completing one of the favors he asked of Kassandra.",
+    "Section_Trivia": "*If the player is detected within the Logismos Building during the task to switch the ostraka, the civilian who announces the results will first announce that an attempt to tamper with the vote was uncovered. This does not affect the vote's outcome, but the player will incur an immediate two-helmet bounty upon quest completion. To avoid this, killing enemies appears to be allowed, so long as they are dispatched in secret. Even a detection cut short (e.g. with a Rush Assassination as the indicator flashes from yellow to red) will count against the player.\n*The dialogue path taken when talking to Sokrates will affect his greeting during [[Perikles's Symposium]], referencing the importance of knowledge or drachmae if the player tells him their name, and the lines they would or wouldn't cross if they simply told him they are a mercenary.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n\n[[fr:Ostracisme]]",
+    "Chapter_SequenceID": "8.",
+    "Chapter_Name": "The Road to the Symposium",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra made her way to the [[Bouleuterion of Athens]] to meet with Perikles's contact.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Civilian:''' ''You must be the one Perikles sent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I am. He said there is an ostracism vote, but didn't tell me what I'm here to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Civilian:''' ''Of course he didn't. That's what I'm for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "5",
+            "content": "(If players choose \"What happens to the exiled?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''If someone is exiled, can they return?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Civilian:''' ''If they do, they'll be punished.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "8",
+            "content": "(If players choose \"What gets you ostracized?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''What does someone have to do to be ostracized?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Civilian:''' ''Anyone seen as a threat to the city or the people is enough. And then it is up to the vote. Some have been ostracized for simply being more disliked than the person they're up against.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "11",
+            "content": "(If players choose \"Tell me what I do.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''What's my role in this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Civilian:''' ''The votes have already been cast. We don't have long before they're counted. Take the ostraka in this bag and exchange them with the ones currently under guard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''You want me to rig the ostracism?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Civilian:''' ''Perikles does, and he has his reasons I'm sure. Bring me the bag you took from the room, and I'll take care of the rest.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''No one will see me go in or out. Stay here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "17",
+            "content": "Kassandra made her way to the [[Logismos Building]], avoiding the guards as best she could to swap out the ballots.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''That should do it. I should let Perikles's contact know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "Kassandra reported her success to the contact.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''It's done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "21",
+            "content": "*'''Civilian:''' ''Hm, you work quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''What are you going to do with them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "23",
+            "content": "*'''Civilian:''' ''Dump them in a well. Ah, it looks like the official has arrived.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "24",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "25",
+            "content": "|-|Undetected in the Logismos Building=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "26",
+            "content": "*'''Civilian (official):''' ''The votes have been tallied. Overwhemingly, the people have decided that Anaxagoras should be ostracized from Athens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "27",
+            "content": "|-|Detected=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "28",
+            "content": "*'''Civilian (official):''' ''I apologize for the delay. There was evidence someone attempted to tamper with the votes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "29",
+            "content": "Kassandra and Perikles' contact looked to one another.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Civilian (official):''' ''Don't worry. The ostraca are all accounted for. The votes were counted, and Anaxagoras is to be ostracized.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "31",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "32",
+            "content": "[[File:ACOD Anaxagoras Ostracized.png|thumb|250px|Anaxagoras being escorted out of Athens]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "33",
+            "content": "The guards led Anaxagoras from the room amid the booing of the crowd, and Kassandra caught the eye of [[Sokrates]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Sokrates:''' ''Be slow to fall into friendship\u2014but once you do, continue firm and constant. It will be more difficult for me now that Anaxagoras must leave Athens. We were quite close, although he and Perikles were much closer. It's strange Perikles wasn't here today to defend him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "35",
+            "content": "(If players choose \"Why would Perikles intervene?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Would Perikles normally defend someone?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Sokrates:''' ''A good friend? Of course. Yet Anaxagoras seems pleased with the result. This day has brought more questions than answers.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "38",
+            "content": "(If players choose \"What is your relationship to Anaxagoras?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Kassandra:''' ''You said you were close...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Sokrates:''' ''He was like a mentor to me. Many of my best thoughts came to fruition through our conversations.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "41",
+            "content": "(If players choose \"Tell me who you are.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "43",
+            "content": "*'''Sokrates:''' ''Ask anyone and they'll tell you Sokrates, but a name gives you nothing. Our actions determine who we are, and every action has its pleasures and its price. With that said, then, who do you claim to be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "44",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "45",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "46",
+            "content": "|-|I'm Kassandra.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''My name is Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "48",
+            "content": "*'''Sokrates:''' ''And still, I don't feel I know you. Perhaps I can find out who you are a different way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''You want to know me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Sokrates:''' ''Knowledge is the one good thing in this world. Surely you agree?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "51",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "52",
+            "content": "Drachmae is most important.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Kassandra:''' ''I can't be paid in knowledge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "54",
+            "content": "*'''Sokrates:''' ''Ah, then you're driven by the desire for wealth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "55",
+            "content": "*'''Kassandra:''' ''Drachmae is the one thing people need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "56",
+            "content": "*'''Sokrates:''' ''Many believe they need more than they actually do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''And others have to risk everything just to survive.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "58",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC5",
+            "global_id": "59",
+            "content": "Knowledge matters most.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''Of course. Knowledge drives everything I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "61",
+            "content": "*'''Sokrates:''' ''Then we are the same in that way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''Knowledge of when to attack, what weapon to use, or when to use reason instead of violence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "63",
+            "content": "*'''Sokrates:''' ''We seem to put our love of knowledge into practice quite differently.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''I use it how I need to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "65",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "PC6",
+            "global_id": "66",
+            "content": "|-|I'm a mercenary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "67",
+            "content": "*'''Kassandra:''' ''I know the price of actions. I have to as a mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "68",
+            "content": "*'''Sokrates:''' ''That simple piece of information tells me more about you than your name ever could. Explaining oneself must be carefully done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''Explaining myself would take more time than I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "70",
+            "content": "*'''Sokrates:''' ''Then let us focus on a single, recent event. Tell me, as a mercenary, is there anything you wouldn't do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "71",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC7",
+            "global_id": "72",
+            "content": "I'll do anything for the right price.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "73",
+            "content": "*'''Kassandra:''' ''Everything has a price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "74",
+            "content": "*'''Sokrates:''' ''And you're the one who decides when the pay is worth it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''I don't have the luxury of turning down a job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "76",
+            "content": "*'''Sokrates:''' ''What of duty? The greater good? Are they not their own kind of payment?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS3",
+            "global_id": "77",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "78",
+            "content": "They're not enough payment.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D50",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''No. They're not.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D51",
+            "global_id": "80",
+            "content": "*'''Sokrates:''' ''It seems you know yourself well, but know it is better to change one's thoughts than to persist in those that are wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''My thoughts are fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "82",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC9",
+            "global_id": "83",
+            "content": "They can be enough payment.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D53",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Some people might see duty as a good enough reason, I guess.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "85",
+            "content": "*'''Sokrates:''' ''The greater good is all we should care about.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D55",
+            "global_id": "86",
+            "content": "*'''Kassandra:''' ''Easy to say if you're never worried about going hungry.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "87",
+            "content": "*'''Sokrates:''' ''I eat to live, but I do not live to eat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''If you say so.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "89",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTD3",
+            "global_id": "90",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC10",
+            "global_id": "91",
+            "content": "Everyone has a line they won't cross.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''Just because I'm a mercenary doesn't mean I'll do anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "93",
+            "content": "*'''Sokrates:''' ''Even if the pay was more than adequate for the task?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''Even then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "95",
+            "content": "*'''Sokrates:''' ''What if you were offered something you desperately needed? Something you couldn't get anywhere else? Would you move this line you've made for yourself?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS4",
+            "global_id": "96",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "97",
+            "content": "My line has moved enough.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''My line has moved countless times since I was a child. But it still exists.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "99",
+            "content": "*'''Sokrates:''' ''And will likely move again if what you say is true.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''It may.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD4",
+            "global_id": "101",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "102",
+            "content": "My line could move more.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''It moves when I need it to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "104",
+            "content": "*'''Sokrates:''' ''A strategy for those who must be adaptable. Or for those who wish to justify their actions.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''I decide if my actions are just.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE3",
+            "global_id": "106",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "NTE4",
+            "global_id": "107",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "108",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D68",
+            "global_id": "109",
+            "content": "*'''Sokrates:''' ''You are clearly someone who would do whatever you feel is necessary. Perhaps for drachmae, or maybe to further a personal goal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "110",
+            "content": "*'''Kassandra:''' ''That describes a lot of people.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "111",
+            "content": "*'''Sokrates:''' ''I suppose I'm curious why you did it. How could I not be when you're the reason my friend is being forced to leave the only home he's ever known?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "112",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "113",
+            "content": "|-|I had to do it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "114",
+            "content": "*'''Kassandra:''' ''I did what I was asked to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "115",
+            "content": "*'''Sokrates:''' ''And your needs are greater than those of the man you helped ostracize? Still, you raise a fine point. Who is more responsible: Anaxagoras for getting himself mixed up in this, or you, for simply sealing his fate?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS5",
+            "global_id": "116",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC14",
+            "global_id": "117",
+            "content": "Anaxagoras is responsible.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D73",
+            "global_id": "118",
+            "content": "*'''Kassandra:''' ''I'm not responsible for his actions. I have one thing to think about\u2014my own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD5",
+            "global_id": "119",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC15",
+            "global_id": "120",
+            "content": "I am responsible.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D74",
+            "global_id": "121",
+            "content": "*'''Kassandra:''' ''Fine. I'm more responsible. But I did it because I have one concern\u2014myself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE5",
+            "global_id": "122",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D75",
+            "global_id": "123",
+            "content": "*'''Sokrates:''' ''Then I hope you also think about today. About Anaxagoras. About choice.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC16",
+            "global_id": "124",
+            "content": "|-|Lie \u2013 I didn't do anything.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D76",
+            "global_id": "125",
+            "content": "*'''Kassandra:''' ''I think you have the wrong person.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D77",
+            "global_id": "126",
+            "content": "*'''Sokrates:''' ''You are claiming that ''you'' are the wrong person? Life's one true happiness is knowing yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "127",
+            "content": "*'''Kassandra:''' ''Even if I did know who rigged the ostracism vote, I wouldn't tell you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "128",
+            "content": "*'''Sokrates:''' ''And yet, I never said anyone rigged anything.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "129",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N6",
+            "global_id": "130",
+            "content": "A civilian approached and interrupted their conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D80",
+            "global_id": "131",
+            "content": "*'''Civilian:''' ''Sokrates. There you are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D81",
+            "global_id": "132",
+            "content": "*'''Sokrates:''' ''Here I am.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "133",
+            "content": "*'''Civilian:''' ''You're late. They're all waiting for you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "134",
+            "content": "*'''Sokrates:''' ''I wished to see Anaxagoras's fate. And so I have. Tell them I'm on my way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "135",
+            "content": "Sokrates turned his attention back to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D84",
+            "global_id": "136",
+            "content": "*'''Sokrates:''' ''Well, it seems our conversation is at an end. Although I hope it isn't the final one we have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D85",
+            "global_id": "137",
+            "content": "*'''Kassandra:''' ''I wouldn't know.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

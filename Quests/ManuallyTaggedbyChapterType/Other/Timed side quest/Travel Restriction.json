@@ -1,0 +1,40 @@
+{
+    "QuestName": "Travel Restriction",
+    "QuestID": "236798",
+    "Revision": {
+        "id": "1047509",
+        "parentid": "852650",
+        "timestamp": "2023-06-13T19:24:25Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047509",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "iu6mi474o99lbi8pcsmq8rrw6gwktfd"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Travel Restriction",
+        "image": null,
+        "description": "'A midwife prevented from traveling to pregnant women by soldiers asked for help.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": null,
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Travel Restriction''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A midwife sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''I have [[drachma]]e for anyone who can help me deal with a camp of soldiers. Come speak with me to learn more.''\nShe sought out the midwife and addressed her.\n*'''Kassandra:''' ''You're the one who left the message on the board. What's going on?''\n*'''Woman:''' ''The soldiers and their commander who have set up camp near the village are tyrants. They control our movements and won't let us leave.''\n*'''Kassandra:''' ''Why do you want to leave? Are you fleeing?''\n*'''Woman:''' ''No, but there are several pregnant women who live outside the village. If the soldiers keep me from helping them, they and their babies will likely die.''\n*'''Kassandra:''' ''Let me guess. You want me to kill him.''\n*'''Woman:''' ''It's not an easy task, but yes, the Spartan must be killed./Yes, the Athenian commander must fall.''\n(Accept - The commander's head is mine.)\n*'''Kassandra:''' ''I'll help you. You have my word.''\n*'''Woman:''' ''I'm in your debt.''\n*'''Kassandra:''' ''I'll come back when I'm done.''\nKassandra sought out the commander and killed him before returning to the midwife.\n*'''Woman:''' ''You again. Have you killed him?''\n*'''Kassandra:''' ''Your man is dead.''\n*'''Woman:''' ''You do good work, ''misthios''. Take this for your trouble.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the midwife.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

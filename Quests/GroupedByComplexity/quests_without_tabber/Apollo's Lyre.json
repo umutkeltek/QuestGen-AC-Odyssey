@@ -1,0 +1,68 @@
+{
+    "Quest_Name": "Apollo's Lyre",
+    "Quest_ID": "225119",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Apollo's Lyre",
+        "image": "Euboea-ApolloTemplelyre.jpg",
+        "description": "'One of the recovered maps leads here, to the location of the legendary lyre of Apollo.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character, Support",
+        "previous": "Throw the Dice",
+        "next": "Priceless Treasure",
+        "source": "Kassandra",
+        "location": "Euboea, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Apollo's Lyre''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "One of [[Anaximander]]'s maps led Kassandra to the ruins of [[Apollo Temple]] in [[Euboea]], in search of the lyre of the god [[Apollo]].",
+    "Section_Dialogue": "Kassandra arrived at the area marked on the map she'd acquired.\n*'''Kassandra:''' ''Found it. Xenia's mapmaker is right on the mark again.''\nFour bandits guarded the area, but she killed them all. Behind Apollo's statue was the lyre sitting on one of the damaged building blocks.\n*'''Kassandra:''' ''Here it is.''\nShe took it.\n*'''Kassandra:''' ''The golden lyre of Apollo! What Xenia won't give for this...''",
+    "Section_Trivia": "*According to Greek mythology, Apollo's lyre was made by his brother on his [[Zeus|father]]'s side, [[Hermes]], and was {{Wiki|Apollo#God_of_music|given}} to him for compensation of the latter's theft of the former's [[Cattle|cows]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived at the area marked on the map she'd acquired.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Found it. Xenia's mapmaker is right on the mark again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Four bandits guarded the area, but she killed them all. Behind Apollo's statue was the lyre sitting on one of the damaged building blocks.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Here it is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She took it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''The golden lyre of Apollo! What Xenia won't give for this...''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

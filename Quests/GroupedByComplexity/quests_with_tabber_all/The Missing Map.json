@@ -1,0 +1,524 @@
+{
+    "Quest_Name": "The Missing Map",
+    "Quest_ID": "222730",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Missing Map Screenshot 01.png",
+        "description": "'A map containing vital strategic information was stolen from the Spartan camp. Kassandra was asked to track the culprit and return the missing item to the Polemarch.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "The Athenian Leader",
+        "next": "Portion Control",
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''The Missing Map''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to a [[Sparta]]n ''[[polemarch]]'', who was searching for a missing tablet.",
+    "Section_Dialogue": "Kassandra travelled to a small Spartan camp in [[Pagai]]. She found the camp to be in a mess.\n*'''Spartan [[Hoplite]]:''' ''Sweep the camp! Make sure every Spartan is accounted for. By [[Apollo]], was everyone asleep? Come on, find the bastard!''\nKassandra spoke to the ''polemarch'', who was speaking to one of the Spartans.\n*'''Spartan Hoplite:''' ''Don't come back until you have the tablet.''\n*'''Spartan Light Soldier:''' ''Yes, Polemarch.''\nThe soldier left the camp.\n*'''Kassandra:''' ''Lost something?''\n*'''Spartan Hoplite:''' ''Not lost, stolen.''\nKassandra presented her badge.\n*'''Kassandra:''' ''Stentor sent me, said you've been having trouble with spies.''\n*'''Spartan Hoplite:''' ''I'd take an [[Athens|Athenian]] spy over a Spartan traitor. Either way he must be found. He took a tablet with vital intelligence.''\n*'''Kassandra:''' ''Where's your spy? Is he still in the camp?''\n*'''Spartan Hoplite:''' ''Wouldn't need you if I knew. I doubt he's still here. Can't have gone far though, he was injured when he took out the guard.''\n<tabber>\n|-|That's not the Spartan way.=\n*'''Kassandra:''' ''This doesn't sound like something a Spartan would do?''\n*'''Spartan Hoplite:''' ''he could be an imposter, we've had raids on our supplies recently. And Megaris has more mercenaries than a goat has ticks. And what man would turn their back on Sparta?''\n*'''Kassandra:''' ''I'll get him and your tablet.''\n|-|I will catch the traitor.=\n*'''Kassandra:''' ''Whoever he is, I will make him pay for betraying Sparta.''\n*'''Spartan Hoplite:''' ''[[Mercenary|Misthios]]! If this man is a Spartan... take your time killing him.''\n*'''Kassandra:''' ''I'll get the tablet for you, and deal with the one responsible.''\n</tabber>\n(If players choose \"Where did he go?\")\n*'''Kassandra:''' ''Did you see which direction he went?''\n*'''Spartan Hoplite:''' ''The men said he went towards the hill, easier to avoid pursuit in that terrain.''\n(If players choose \"What can you tell me about the area?\")\n*'''Kassandra:''' ''Anything you can tell me that might help?''\n*'''Spartan Hoplite:''' ''The area is hotly contested, but Sparta is winning. We're pushing the Athenians back, but due to the war the forests and mountains have become a hive for bandits and mercenaries.''\n*'''Kassandra:''' ''I mean about where your spy might have gone.''\n*'''Spartan Hoplite:''' ''He's injured, and there's a spring up there in the forest. If it was me I would have headed there.''\n(If players choose \"I'll be back when I have your tablet.\")\n*'''Kassandra:''' ''I'll be back soon with your tablet.''\n*'''Spartan Hoplite:''' ''The mountains and forest of [[Megaris]] are dangerous, and he surely didn't work alone.''\n*'''Kassandra:''' ''I'm more than capable of handling your spy. Chaire.''\nKassandra headed to the forest southwest of Pagai. With [[Ikaros]]' help, she found the injured spy tied up, interrogated by a group of bandits.\n*'''Kassandra:''' ''That's the thief.''\nKassandra approached them secretly and overheard their conversation.\n*'''Mercenary:''' ''So, you got it then.''\n*'''Athenian Light Soldier:''' ''Of course I got it, but the bastards stabbed me while I was getting out.''\n*'''Mercenary:''' ''That's a shame, we can't have you slowing us down. But the upside is less people to split the [[drachma]]e with.''\n*'''Athenian Light Soldier:''' ''Wait, please, we don't have to do this.''\n*'''Mercenary:''' ''Sorry, but there ain't no we anymore.''\n[[File:ACOD The Missing Map Screenshot 02.png|thumb|250px|Kassandra speaking to the spy]]\nKassandra sneaked in and eliminated the bandits and his guards. She untied the spy.\n*'''Athenian Light Soldier:''' ''Wha... What do you want? Who are you?''\n*'''Kassandra:''' ''I'm the one who's going to return the tablet you stole.''\n(If players choose \"Why did you steal it?\")\n*'''Kassandra:''' ''Why did you steal the tablet?''\n*'''Athenian Light Soldier:''' ''Because I was paid to.''\n*'''Kassandra:''' ''Who paid you?''\n*'''Athenian Light Soldier:''' ''A mercenary, [[Hyrkanos]], all right? Gave me the Spartan uniform, told me where to look. Easy drachmae.''\n(If players choose \"How did you get into the camp?\")\n*'''Kassandra:''' ''How did you get into the camp?''\n*'''Athenian Light Soldier:''' ''Spartans never suspect their own... Too busy looking down on the rest of us. Malakes!''\n(If players choose \"Give me the tablet.\")\n*'''Kassandra:''' ''Give it to me, I'm not leaving without it.''\n*'''Athenian Light Soldier:''' ''There's no winners in this war, but there are opportunities. Perhaps we could come to an arrangement?''\n<tabber>\n|-|Let's make a deal.=\n*'''Kassandra:''' ''What arrangmenet would that be?''\nThe thief handed over the tablet and some drachmae.\n*'''Athenian Light Soldier:''' ''Here, take the tablet... and this for your troubles. No one knows who I am. Nobody else needs to die here.''\n*'''Kassandra:''' ''Go... Make sure I never see your face again.''\n|-|You can walk away from this.=\n*'''Kassandra:''' ''Give me the tablet, or I will cut you down.''\n*'''Athenian Light Soldier:''' ''I can't fight you. Here, take the tablet.''\nKassandra received the tablet.\n|-|Attack \u2013 I'm taking the tablet.=\n*'''Kassandra:''' ''I'll take the tablet now.''\n*'''Athenian Light Soldier:''' ''Like fuck you will.''\n*'''Kassandra:''' ''Then only one of us will be getting paid today.''\nKassandra fought and eliminated the Athenian soldier. She recovered the tablet and a note form his body.\n*'''Kassandra:''' ''What's this? A note... So the tablet was meant for Hyrkanos, not the Athenians...''\n</tabber>\n*'''Kassandra:''' ''I should get this tablet back to the commander.''\n[[File:ACOD The Missing Map Screenshot 03.png|thumb|250px|Kassandra returning the tablet to the ''polemarch'']]\nKassandra returned to the ''polemarch''.\n*'''Spartan Hoplite:''' ''So, did you find the traitor?''\n*'''Kassandra:''' ''It's not traitors you need to worry about. He was a spy working for the mercenary Hyrkanos.''\n*'''Spartan Hoplite:''' ''Hyrkanos. How many times must I hear that name? His palms must be overflowing with Athenian gold by now. Did you get the tablet?''\nKassandra handed over the tablet.",
+    "Section_Notes": "*Depending on the decision made, it is possible to meet the spy again and recruit him aboard the ''[[Adrestia]]''.",
+    "Section_Outcome": "Kassandra helped the Spartan ''polemarch'' to recover an important tablet.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "3.",
+    "Chapter_Name": "The Wolf Hunt",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "4.a",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra travelled to a small Spartan camp in [[Pagai]]. She found the camp to be in a mess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Spartan [[Hoplite]]:''' ''Sweep the camp! Make sure every Spartan is accounted for. By [[Apollo]], was everyone asleep? Come on, find the bastard!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra spoke to the ''polemarch'', who was speaking to one of the Spartans.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Spartan Hoplite:''' ''Don't come back until you have the tablet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Spartan Light Soldier:''' ''Yes, Polemarch.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "The soldier left the camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''Lost something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Spartan Hoplite:''' ''Not lost, stolen.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "9",
+            "content": "Kassandra presented her badge.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Stentor sent me, said you've been having trouble with spies.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Spartan Hoplite:''' ''I'd take an [[Athens|Athenian]] spy over a Spartan traitor. Either way he must be found. He took a tablet with vital intelligence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Where's your spy? Is he still in the camp?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "13",
+            "content": "*'''Spartan Hoplite:''' ''Wouldn't need you if I knew. I doubt he's still here. Can't have gone far though, he was injured when he took out the guard.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "14",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "15",
+            "content": "|-|That's not the Spartan way.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''This doesn't sound like something a Spartan would do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Spartan Hoplite:''' ''he could be an imposter, we've had raids on our supplies recently. And Megaris has more mercenaries than a goat has ticks. And what man would turn their back on Sparta?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll get him and your tablet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "19",
+            "content": "|-|I will catch the traitor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''Whoever he is, I will make him pay for betraying Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Spartan Hoplite:''' ''[[Mercenary|Misthios]]! If this man is a Spartan... take your time killing him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''I'll get the tablet for you, and deal with the one responsible.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "23",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "24",
+            "content": "(If players choose \"Where did he go?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Did you see which direction he went?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Spartan Hoplite:''' ''The men said he went towards the hill, easier to avoid pursuit in that terrain.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "27",
+            "content": "(If players choose \"What can you tell me about the area?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Anything you can tell me that might help?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Spartan Hoplite:''' ''The area is hotly contested, but Sparta is winning. We're pushing the Athenians back, but due to the war the forests and mountains have become a hive for bandits and mercenaries.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''I mean about where your spy might have gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Spartan Hoplite:''' ''He's injured, and there's a spring up there in the forest. If it was me I would have headed there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "32",
+            "content": "(If players choose \"I'll be back when I have your tablet.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'll be back soon with your tablet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Spartan Hoplite:''' ''The mountains and forest of [[Megaris]] are dangerous, and he surely didn't work alone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I'm more than capable of handling your spy. Chaire.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "36",
+            "content": "Kassandra headed to the forest southwest of Pagai. With [[Ikaros]]' help, she found the injured spy tied up, interrogated by a group of bandits.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''That's the thief.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "38",
+            "content": "Kassandra approached them secretly and overheard their conversation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D26",
+            "global_id": "39",
+            "content": "*'''Mercenary:''' ''So, you got it then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "40",
+            "content": "*'''Athenian Light Soldier:''' ''Of course I got it, but the bastards stabbed me while I was getting out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Mercenary:''' ''That's a shame, we can't have you slowing us down. But the upside is less people to split the [[drachma]]e with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Athenian Light Soldier:''' ''Wait, please, we don't have to do this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "43",
+            "content": "*'''Mercenary:''' ''Sorry, but there ain't no we anymore.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I1",
+            "global_id": "44",
+            "content": "[[File:ACOD The Missing Map Screenshot 02.png|thumb|250px|Kassandra speaking to the spy]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "Kassandra sneaked in and eliminated the bandits and his guards. She untied the spy.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "46",
+            "content": "*'''Athenian Light Soldier:''' ''Wha... What do you want? Who are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''I'm the one who's going to return the tablet you stole.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "48",
+            "content": "(If players choose \"Why did you steal it?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Why did you steal the tablet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "50",
+            "content": "*'''Athenian Light Soldier:''' ''Because I was paid to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Who paid you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "52",
+            "content": "*'''Athenian Light Soldier:''' ''A mercenary, [[Hyrkanos]], all right? Gave me the Spartan uniform, told me where to look. Easy drachmae.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "53",
+            "content": "(If players choose \"How did you get into the camp?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D37",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''How did you get into the camp?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "55",
+            "content": "*'''Athenian Light Soldier:''' ''Spartans never suspect their own... Too busy looking down on the rest of us. Malakes!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "56",
+            "content": "(If players choose \"Give me the tablet.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D39",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Give it to me, I'm not leaving without it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "58",
+            "content": "*'''Athenian Light Soldier:''' ''There's no winners in this war, but there are opportunities. Perhaps we could come to an arrangement?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "59",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "60",
+            "content": "|-|Let's make a deal.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D41",
+            "global_id": "61",
+            "content": "*'''Kassandra:''' ''What arrangmenet would that be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "62",
+            "content": "The thief handed over the tablet and some drachmae.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "63",
+            "content": "*'''Athenian Light Soldier:''' ''Here, take the tablet... and this for your troubles. No one knows who I am. Nobody else needs to die here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Go... Make sure I never see your face again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "65",
+            "content": "|-|You can walk away from this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''Give me the tablet, or I will cut you down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "67",
+            "content": "*'''Athenian Light Soldier:''' ''I can't fight you. Here, take the tablet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "68",
+            "content": "Kassandra received the tablet.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC5",
+            "global_id": "69",
+            "content": "|-|Attack \u2013 I'm taking the tablet.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D46",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''I'll take the tablet now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "71",
+            "content": "*'''Athenian Light Soldier:''' ''Like fuck you will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''Then only one of us will be getting paid today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "73",
+            "content": "Kassandra fought and eliminated the Athenian soldier. She recovered the tablet and a note form his body.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''What's this? A note... So the tablet was meant for Hyrkanos, not the Athenians...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "75",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D50",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''I should get this tablet back to the commander.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "77",
+            "content": "[[File:ACOD The Missing Map Screenshot 03.png|thumb|250px|Kassandra returning the tablet to the ''polemarch'']]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N11",
+            "global_id": "78",
+            "content": "Kassandra returned to the ''polemarch''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "79",
+            "content": "*'''Spartan Hoplite:''' ''So, did you find the traitor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''It's not traitors you need to worry about. He was a spy working for the mercenary Hyrkanos.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "81",
+            "content": "*'''Spartan Hoplite:''' ''Hyrkanos. How many times must I hear that name? His palms must be overflowing with Athenian gold by now. Did you get the tablet?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "82",
+            "content": "Kassandra handed over the tablet.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

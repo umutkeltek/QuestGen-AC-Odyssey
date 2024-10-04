@@ -1,0 +1,40 @@
+{
+    "QuestName": "Chain of Possession",
+    "QuestID": "223762",
+    "Revision": {
+        "id": "1047410",
+        "parentid": "852931",
+        "timestamp": "2023-06-13T18:53:21Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047410",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "a82iyb96ae3i0vvsgdou9oqy9lm7fy6"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Chain of Possession",
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": null,
+        "next": null,
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "430s - 420s BCE"
+    },
+    "General_Description": "'''Chain of Possession''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "On the corpse of a [[Sparta]]n soldier, Kassandra found a letter that detailed how valuables passed from villagers, to [[Thief|thieves]], to the Spartan. Kassandra set out to see that they next passed to her.",
+    "Section_Messages": "*''Thieves have been pillaging the village. I took their loot while they slept, and hid it outside our camp. Sparta needs supplies.''",
+    "Section_Outcome": "Kassandra found the location and claimed the valuables for herself.",
+    "Section_Trivia": "*{{Wiki|Chain of custody}}, in legal contexts, refers to the chronological documentation or paper trail that records the sequence of custody, control, transfer, analysis, and disposition of physical or electronic evidence.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

@@ -1,0 +1,37 @@
+{
+    "QuestName": "Orion's Symbol",
+    "QuestID": "229548",
+    "Revision": {
+        "id": "994062",
+        "parentid": "870504",
+        "timestamp": "2022-03-29T11:31:15Z",
+        "contributor": null,
+        "comment": "removed \"stub\", intro text",
+        "origin": "994062",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "lxbht6j7cdim0392e6pyhdl81ibgbp0"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Orion's Symbol Memory Screenshot.png",
+        "description": "'Most of the greatest riches were looted from Orion's Tomb of Orion|tomb ages ago. Kassandra could only hope the symbol she needed to find would be there, intact.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "The Lost Tales of Greece",
+        "previous": "Eteokles's Symbol",
+        "next": "Three Symbols Entombed",
+        "source": "Kassandra, Layla Hassan",
+        "location": "Tomb of Orion, Boeotia, Greece",
+        "date": "c. 422 BCE<br />2018"
+    },
+    "General_Description": "'''Orion's Symbol''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to [[Boeotia]] to look for the symbol in [[Orion]]'s [[Tomb of Orion|tomb]].",
+    "Section_Dialogue": "Kassandra reached the entrance to Orion's tomb, finding [[Aletheia]] within.\n*'''Aletheia:''' ''Keeper. The Tomb of Orion awaits the [[Layla Hassan|Heir]].''\nKassandra approached Aletheia.\n*'''Aletheia:''' ''In this tomb, the Heir of Memories will see how life grows from a dead place.''\n*'''Kassandra:''' ''Life growing from a tomb? If I hadn't seen the Staff work, I wouldn't believe it.''\n*'''Aletheia:''' ''The Heir's task is to bring life where there was death. And your task dooms you to endure loss. Close your eyes and picture the face of one you will never see again. What would you tell them?''\nKassandra closed her eyes.\n\n<tabber>\n|-|I've failed you.=\n*'''Kassandra:''' ''It's hard for me to apologize, but I would say I'm sorry... for everything I failed to do.''\n|-|Take me with you.=\n*'''Kassandra:''' ''I've waited so long and lost so much. If I could, I'd say, \"Take me with you.\"''\n|-|We will be together again.=\n*'''Kassandra:''' ''I would hold them... and tell them to be strong, and that we will be together again.''\n</tabber>\n*'''Aletheia:''' ''Remember that answer, and the path from which it comes.''\n*'''Kassandra:''' ''You don't have to tell me, Aletheia. I will always remember... I will always \"keep.\"''\n*'''Aletheia:''' ''And now, will the Heir of Memories rise to face the tomb?''\n*'''Kassandra:''' ''I suppose she will.''",
+    "Section_Outcome": "Kassandra found the tomb of [[Orion]], allowing Layla Hassan, who relieved her memories, to locate and discover the symbol within.",
+    "Section_Trivia": "*The tombs use the same layout and maintain the same \"solved\" state between the protagonist's past and the modern day. Therefore, if the tomb has not been solved prior to this quest, the player will have to solve it while playing as Layla.\n:*This can trigger a glitch that disables the stele that confers an additional ability point upon returning to the Animus simulation, making the point unobtainable and the location unable to be cleared. This can be avoided by ignoring Aletheia until after the tomb is completed, but completing the entire \"Three Symbols Entombed\" quest umbrella seems to correct this.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

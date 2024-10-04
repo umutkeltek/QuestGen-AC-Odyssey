@@ -1,0 +1,277 @@
+{
+    "Quest_Name": "Language of the Ancients",
+    "Quest_ID": "225075",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Language of the Ancients.png",
+        "description": "'The rare Mycenaean stele was the keystone to unlock the ancient language etched into the tomb's walls. A most worthy discovery, indeed! Thus, Eppie set aside doubt and embraced adventure.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "A Life's Dedication",
+        "next": "Chasing Phantoms",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Language of the Ancients''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra followed [[Eppie]]'s clue to a [[Mycenae]]an stele.",
+    "Section_Dialogue": "Kassandra headed to [[Lake Kopais]], where the next stele was located. She dived underwater to the sunken [[Ruins of Arne]], finding a locked chest. She looted valuables scattered nearby, finding the key to the chest. She unlocked the chest, acquiring a wax tablet, a stele, and a pair of [[Rusty Mycenaean Gauntlets|gauntlets]]. She then resurfaced, returning to Eppie in the tomb within the [[Cave of the Oracle]].\n*'''Kassandra:''' ''Your clue was right. I found a part of the stele. Along with another piece 'of [[armor]].''\n*'''Eppie:''' ''There must be a piece of armor with each missing stele.''\n*'''Kassandra:''' ''But why?''\n*'''Eppie:''' ''This section here refers to a ritual.''\n*'''Kassandra:''' ''It doesn't explain why the armor was seperated and hidden with a stele piece.''\n*'''Eppie:''' ''Maybe that was part of the ritual? We need to find the other stele pieces. Are you ready?''\n(Accept \u2013 I'll go look.)\n*'''Kassandra:''' ''If we found these, then we'll find the other stele pieces too. I'll go look.''\n*'''Eppie:''' ''Even with the full keystone in place, some of the meaning may be lost on us.''\n*'''Kassandra:''' ''I have faith in you.''\nEppie looked at the writing again.\n*'''Eppie:''' ''Oh! You won't believe what this section says... \"Of the primordial gods...\" Primordial!''\n*'''Kassandra:''' ''That's interesting.''\n*'''Eppie:''' ''That's ancient.''\n*'''Kassandra:''' ''it could just be a prayer on behalf of the warrior.''\n*'''Eppie:''' ''That's what I thought, too. Until I read this part...''\nEppie pointed to another section of the writings.\n*'''Kassandra:''' ''There's more?''\n*'''Eppie:''' ''It mentions that the ritual will be activated.''\n*'''Kassandra:''' ''What ritual?''\n*'''Eppie:''' ''I have no idea. I'm presuming it means we need all of the steles in place before something happens.''\n*'''Kassandra:''' ''Do you have the location for the missing piece?''\n*'''Eppie:''' ''This text is hard to make sense of. It appears to be a warning. Be careful when you explore the [[Tomb of Orion]].''\n*'''Kassandra:''' ''I'll be careful.''\n(If players choose \"Why is the past important?\")\n*'''Kassandra:''' ''The {{Wiki|Greek Dark Ages|dark ages}} has had its time. Why look backward?''\n*'''Eppie:''' ''There is truth and insight in looking backward. Take [[Homer]] for example, he often spoke of our past in his stories.''\n*'''Kassandra:''' ''Hmm. So digging through dirt and cobwebbed words is your ambition?''\n*'''Eppie:''' ''My role is to breathe life into the ancients.''\n(If players choose \"What about your peers?\")\n*'''Kassandra:''' ''Do any of your peers support you in this?''\n*'''Eppie:''' ''None. My ways are too different for them.''\n*'''Kassandra:''' ''If you're right, you'll gain their respect after this.''\n(If players choose \"What if nothing happens?\")\n*'''Kassandra:''' ''Do you worry that your expectations are too high? It may be a dead end.''\n*'''Eppie:''' ''How can it? The clues have proven me right thus far. The stele mentions a ritual that once performed, will activate something.''\n*'''Kassandra:''' ''What does that have to do with primordial gods?''\n*'''Eppie:''' ''I have no idea. When we have all of the stele pieces. we'll know.''\n(If players choose \"Leave \u2013 Goodbye.\")\n*'''Kassandra:''' ''Time to go.''",
+    "Section_Outcome": "Kassandra helped Eppie to locate one of the steles and was tasked to find more.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La langue des Anciens]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Eppie",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra headed to [[Lake Kopais]], where the next stele was located. She dived underwater to the sunken [[Ruins of Arne]], finding a locked chest. She looted valuables scattered nearby, finding the key to the chest. She unlocked the chest, acquiring a wax tablet, a stele, and a pair of [[Rusty Mycenaean Gauntlets|gauntlets]]. She then resurfaced, returning to Eppie in the tomb within the [[Cave of the Oracle]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''Your clue was right. I found a part of the stele. Along with another piece 'of [[armor]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Eppie:''' ''There must be a piece of armor with each missing stele.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''But why?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Eppie:''' ''This section here refers to a ritual.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''It doesn't explain why the armor was seperated and hidden with a stele piece.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "7",
+            "content": "*'''Eppie:''' ''Maybe that was part of the ritual? We need to find the other stele pieces. Are you ready?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "8",
+            "content": "(Accept \u2013 I'll go look.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''If we found these, then we'll find the other stele pieces too. I'll go look.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "10",
+            "content": "*'''Eppie:''' ''Even with the full keystone in place, some of the meaning may be lost on us.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I have faith in you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "12",
+            "content": "Eppie looked at the writing again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Eppie:''' ''Oh! You won't believe what this section says... \"Of the primordial gods...\" Primordial!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''That's interesting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "15",
+            "content": "*'''Eppie:''' ''That's ancient.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''it could just be a prayer on behalf of the warrior.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "17",
+            "content": "*'''Eppie:''' ''That's what I thought, too. Until I read this part...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "18",
+            "content": "Eppie pointed to another section of the writings.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''There's more?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "20",
+            "content": "*'''Eppie:''' ''It mentions that the ritual will be activated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''What ritual?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "22",
+            "content": "*'''Eppie:''' ''I have no idea. I'm presuming it means we need all of the steles in place before something happens.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Do you have the location for the missing piece?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "24",
+            "content": "*'''Eppie:''' ''This text is hard to make sense of. It appears to be a warning. Be careful when you explore the [[Tomb of Orion]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'll be careful.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "26",
+            "content": "(If players choose \"Why is the past important?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''The {{Wiki|Greek Dark Ages|dark ages}} has had its time. Why look backward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "28",
+            "content": "*'''Eppie:''' ''There is truth and insight in looking backward. Take [[Homer]] for example, he often spoke of our past in his stories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Hmm. So digging through dirt and cobwebbed words is your ambition?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "30",
+            "content": "*'''Eppie:''' ''My role is to breathe life into the ancients.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "31",
+            "content": "(If players choose \"What about your peers?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''Do any of your peers support you in this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "33",
+            "content": "*'''Eppie:''' ''None. My ways are too different for them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''If you're right, you'll gain their respect after this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "35",
+            "content": "(If players choose \"What if nothing happens?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D29",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''Do you worry that your expectations are too high? It may be a dead end.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "37",
+            "content": "*'''Eppie:''' ''How can it? The clues have proven me right thus far. The stele mentions a ritual that once performed, will activate something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''What does that have to do with primordial gods?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "39",
+            "content": "*'''Eppie:''' ''I have no idea. When we have all of the stele pieces. we'll know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "40",
+            "content": "(If players choose \"Leave \u2013 Goodbye.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D33",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Time to go.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

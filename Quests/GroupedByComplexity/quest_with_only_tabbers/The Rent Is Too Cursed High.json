@@ -1,0 +1,173 @@
+{
+    "Quest_Name": "The Rent Is Too Cursed High",
+    "Quest_ID": "236802",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "The Rent Is Too Cursed High",
+        "description": "'Occasionally, bandits would allow merchants to pass safely through their territory or even stay in their camp for a small fee. One merchant was not so lucky.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Timed side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''The Rent Is Too Cursed High''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[merchant]] sought the help of a [[mercenary]]. Kassandra answered.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br />''Traveling merchant betrayed by bandits. Need a mercenary.''\nShe sought out the merchant and addressed him.\n*'''Kassandra:''' ''I picked up your message on the board. What's happening?''\n*'''Man:''' ''The hardest part of being a traveling merchant is all the travel. Er... I mean, you have to find a place to sleep. I came across a bandit camp and they let me stay there. Even shared their wine with me.''\n*'''Kassandra:''' ''But then they robbed you. Because they are bandits.''\n*'''Man:''' ''I figured if I was giving them [[drachma]]e to stay in the camp, they wouldn't take my drachmae. It made sense at the time. I think. No more drinking wine at bandit camps.''\n<tabber>\n|-|You want all the outlaws to be killed.=\n|-|You want the drachmae brought to you.=\n*'''Kassandra:''' ''You want me to get it from the bandits?''\n*'''Man:''' ''No.''\n</tabber>\n*'''Man:''' ''All the bandits must die.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''I'll help you.''\n*'''Man:''' ''What a relief.''\n*'''Kassandra:''' ''I'll be back when everything's taken care of.''\nKassandra sought out the bandit camp and killed its inhabitants before returning to the merchant.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''I'm a man of my word, so here's your reward.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the merchant.",
+    "Section_Trivia": "*The memory name is a reference to {{Wiki|Jimmy McMillan}}, leader of the {{Wiki|Rent Is Too Damn High Party}}, saying it, it has since become an internet meme.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Timed side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br />''Traveling merchant betrayed by bandits. Need a mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the merchant and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I picked up your message on the board. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''The hardest part of being a traveling merchant is all the travel. Er... I mean, you have to find a place to sleep. I came across a bandit camp and they let me stay there. Even shared their wine with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''But then they robbed you. Because they are bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Man:''' ''I figured if I was giving them [[drachma]]e to stay in the camp, they wouldn't take my drachmae. It made sense at the time. I think. No more drinking wine at bandit camps.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|You want all the outlaws to be killed.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|You want the drachmae brought to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''You want me to get it from the bandits?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Man:''' ''No.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Man:''' ''All the bandits must die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "15",
+            "content": "(Accept - I'll hunt the outlaws.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'll help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Man:''' ''What a relief.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll be back when everything's taken care of.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "19",
+            "content": "Kassandra sought out the bandit camp and killed its inhabitants before returning to the merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Man:''' ''You're back. Have you killed them?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I took care of them. Every last one.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "22",
+            "content": "*'''Man:''' ''I'm a man of my word, so here's your reward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''That'll do.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

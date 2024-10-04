@@ -1,0 +1,248 @@
+{
+    "Quest_Name": "In a Rush",
+    "Quest_ID": "224782",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD In a Rush 1.png",
+        "description": "'Having aided Diona, Kassandra thought to return to the priestess, fearing for her safety from the Cult of Kosmos|Cult.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World, Support",
+        "previous": "Atoll Order",
+        "concurrent": "Pick Your Poison<br>The Handmaiden's Story",
+        "next": "By the Fates",
+        "source": "Kassandra",
+        "location": "Kythera, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''In a Rush''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Diona]] after helping her to eliminate [[Cult of Kosmos]] presence on the island.",
+    "Section_Dialogue": "Kassandra helped [[Glaukos]] with his [[All Bonds Will Break|two]] [[Atoll Order|errands]] and returned to Diona.\n*'''Kassandra:''' ''I've freed your [[Mercenary|mercenaries]] and dealt with the captain as you desired.''\n*'''Diona:''' ''That's good news. You've dealt a heavy blow to the [[Cult of Kosmos|Cult's]] forces.<br />You're getting sexier by the minute. Anything else?''\n\nKassandra retrieved the [[Pick Your Poison|bag of poisons]] from the [[Mycenaean Ruins]] south of Kythera Town and returned them to Diona.\n*'''Kassandra:''' ''Here's your apothecary's bag.''\n*'''Diona:''' ''With this, we can make sure all our priestesses are armed for battle. Excellent work, ''misthios.\n\nKassandra met with [[Eritha]] and fulfilled her [[The Handmaiden's Story|request]], then gave her regards to Diona.\n*'''Kassandra:''' ''Your sister sends her regards.''\n*'''Diona:''' ''Did you find out anything about this \"''traitor''\"?''\n\n<tabber>\n|-|There might be a traitor.=\n*'''Kassandra:''' ''There seems to be a traitor in the temple, but she's unsure who. There was just a note reading \"Do not trust the [[Fates]].\"''\n*'''Diona:''' ''Interesting. It really is as my sister says, we can't trust anyone...<br>Thank you, ''misthios''. I'll watch my back. Is there something else?''\n|-|Lie \u2013 We have proof of a traitor.=\n*'''Kassandra:''' ''Your sister has definite proof of a traitor.''\n*'''Diona:''' ''W-what? That can't be! Who is it? You must tell me, or I won't know who to trust.''\n*'''Kassandra:''' ''We don't know yet. But your sister is looking into it.''\n*'''Diona:''' ''I see. I too shall take my own precautions. A visit to see her might be in order. Thank you, ''misthios.<br>''Is there something else?''\n</tabber>\n\nWith her tasks complete, Kassandra inquired about their next move.\n*'''Kassandra:''' ''I've done what you asked. What now?''\n*'''Diona:''' ''My scouts will meet us at my [[Diona's villa|villa]]. They'll fill us in on what they've discovered, thanks to your efforts. I have something else to attend to, but...<br />If I get there, and we have some time on our hands, by the Fates, we'll have some fun.''\n\n<tabber>\n|-|I can't wait.=\n*'''Kassandra:''' ''You'd better hurry. I'll see you at the villa.''\n*'''Diona:''' ''I will.''\n|-|We need to focus on the Cult.=\n*'''Kassandra:''' ''No. the Cult is what's important right now. I'll see you at the villa.''\n*'''Diona:''' ''By the Fates, you can only resist me for so long...''\n</tabber>\nDiona took her leave and Kassandra proceeded to the villa.",
+    "Section_Outcome": "Kassandra completed all of Diona's tasks and prepared to meet her at her villa to discuss their next move.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Diona",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra helped [[Glaukos]] with his [[All Bonds Will Break|two]] [[Atoll Order|errands]] and returned to Diona.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I've freed your [[Mercenary|mercenaries]] and dealt with the captain as you desired.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Diona:''' ''That's good news. You've dealt a heavy blow to the [[Cult of Kosmos|Cult's]] forces.<br />You're getting sexier by the minute. Anything else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra retrieved the [[Pick Your Poison|bag of poisons]] from the [[Mycenaean Ruins]] south of Kythera Town and returned them to Diona.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Here's your apothecary's bag.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Diona:''' ''With this, we can make sure all our priestesses are armed for battle. Excellent work, ''misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "8",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "Kassandra met with [[Eritha]] and fulfilled her [[The Handmaiden's Story|request]], then gave her regards to Diona.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''Your sister sends her regards.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Diona:''' ''Did you find out anything about this \"''traitor''\"?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "12",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "13",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "14",
+            "content": "|-|There might be a traitor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''There seems to be a traitor in the temple, but she's unsure who. There was just a note reading \"Do not trust the [[Fates]].\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "16",
+            "content": "*'''Diona:''' ''Interesting. It really is as my sister says, we can't trust anyone...<br>Thank you, ''misthios''. I'll watch my back. Is there something else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "17",
+            "content": "|-|Lie \u2013 We have proof of a traitor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Your sister has definite proof of a traitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "19",
+            "content": "*'''Diona:''' ''W-what? That can't be! Who is it? You must tell me, or I won't know who to trust.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''We don't know yet. But your sister is looking into it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Diona:''' ''I see. I too shall take my own precautions. A visit to see her might be in order. Thank you, ''misthios.<br>''Is there something else?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "22",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U4",
+            "global_id": "23",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "24",
+            "content": "With her tasks complete, Kassandra inquired about their next move.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I've done what you asked. What now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Diona:''' ''My scouts will meet us at my [[Diona's villa|villa]]. They'll fill us in on what they've discovered, thanks to your efforts. I have something else to attend to, but...<br />If I get there, and we have some time on our hands, by the Fates, we'll have some fun.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U5",
+            "global_id": "27",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "28",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "29",
+            "content": "|-|I can't wait.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''You'd better hurry. I'll see you at the villa.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Diona:''' ''I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "32",
+            "content": "|-|We need to focus on the Cult.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D17",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''No. the Cult is what's important right now. I'll see you at the villa.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Diona:''' ''By the Fates, you can only resist me for so long...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "35",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N5",
+            "global_id": "36",
+            "content": "Diona took her leave and Kassandra proceeded to the villa.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

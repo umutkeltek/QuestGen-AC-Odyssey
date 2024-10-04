@@ -1,0 +1,541 @@
+{
+    "Quest_Name": "Too Much of a Good Thing",
+    "Quest_ID": "224047",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD_-_Too_Much_of_a_Good_Thing.png",
+        "description": "'Pentheus (Thebian)|Pentheus' mind was at peace, but he still suffered in life. Hippokrates knew of a way to ease his pain, but too much could be fatal.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character {{c|Hippokrates}}",
+        "previous": "Inheritance Insurance",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Too Much of a Good Thing''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Hippokrates]], who thought of a way to help ease [[Pentheus (Thebian)|Pentheus]]' pain.",
+    "Section_Dialogue": "As Pentheus laid back down to rest, Hippokrates called Kassandra over to him for her assistance.\n*'''Hippokrates:''' ''If you have a moment, I would ask you to help me with something.''\nAs Kassandra faced him, she briefly glanced back at Pentheus.\n[[File:ACOD Too Much of a Good Thing 1.png|thumb|250px|Kassandra and Hippokrates discussing Pentheus' condition]]\n*'''Kassandra:''' ''He seems to be resting peacefully now.''\n*'''Hippokrates:''' ''Yes, you helped ease his mind, but he'll never truly be at peace until he takes his last breath.''\n*'''Kassandra:''' ''When will that be?''\n*'''Hippokrates:''' ''It's hard to tell. Judging by his symptoms, it'll be sooner rather than later.''\nThey paused on the depressing situation.\n*'''Hippokrates:''' ''I can lessen his pain, but to do so, I'll need some [[hemlock]].''\n(Accept \u2013 I'll get the hemlock.)\n[[File:ACOD Too Much of a Good Thing 3.png|thumb|250px|Kassandra agreed to help collect the hemlock]]\n*'''Kassandra:''' ''I'll collect the ingredients you need.''\n*'''Hippokrates:''' ''Thank you. It won't stop the pain entirely, but I hope it'll help him feel more comfortable.''\n*'''Kassandra:''' ''He doesn't want to feel better. He wants to die with some dignity.''\n*'''Hippokrates:''' ''True dignity would be fighting through this so I can analyze his symptoms further.''\n<tabber>\n|-|You're letting him suffer.=\n*'''Kassandra:''' ''He wants to die and he's in pain. You should respect his right to choose instead of treating him like an experiment. What you're doing is wrong.''\nHippokrates' expression changed to one of self-aggrandizement.\n*'''Hippokrates:''' ''I will not be lectured on the morality of my work by a [[Mercenary#5th_century_BCE|sell-sword]]. I have a responsibility, like all healers, to use my knowledge for the betterment of others.''\n|-|You're doing the right thing.=\n*'''Kassandra:''' ''I can't imagine how difficult this must be, but I know you're doing what you can to help him.''\n*'''Hippokrates:''' ''Sometimes I worry that it's never enough. First the [[Plague of Athens|plague]], and now this. The ailments that afflict [[Human|man]] are as varied as the [[Twelve Gods|gods]]. It would take me many lifetimes to learn about them all.''\n</tabber>\n(If players asked \"Where is the hemlock?\")\n*'''Kassandra:''' ''Hemlock is rare. Where do you harvest it?\"''\n*'''Hippokrates:''' ''It grows all across [[Boeotia]], but check near the [[Tumulus of Plataia]]. I'm sure I saw some when I was last there.''\n(If players asked \"Why hemlock?\")\n*'''Kassandra:''' ''Why are you treating him with [[poison]]? Hemlock is deadly.''\n*'''Hippokrates:''' ''Only in the wrong dosage. If my observations are correct, it should lessen the pain wracking his body.''\n(Leave \u2013 \"I'll go now.\")\n*'''Kassandra:''' ''I'll get the hemlock you need.''\n[[File:ACOD Too Much of a Good Thing 4.png|thumb|250px|Kassandra finding the hemlock]]\nKassandra left and rode south outside the city. When she arrived at the bridge over the riverbank north of the Ruins of Plataia, [[Ikaros]] helped her identify several herbs of note.\n*'''Kassandra:''' ''That's what I'm looking for.''\nA pack of wolves set upon her, but she dealt with them and returned to examine the herbs.\n*'''Kassandra:''' ''That looks like hemlock.''\nKassandra picked a bunch of the hemlock and returned to Hippokrates.\n*'''Kassandra:''' ''I got the hemlock you wanted.''\n*'''Hippokrates:''' ''Thank you. I know this task was a little beneath you, but it will help my friend here.<br />I've prepared the elixir base, but I need you to grind the herb and add it to the mixture.''\n*'''Kassandra:''' ''I think I can handle that.''\nKassandra moved towards the table at the corner.\n*'''Hippokrates:''' ''Be mindful of the amount you add. While the hemlock is an excellent pain inhibitor, too much can be lethal.''\nShe talked to herself while finishing the mixture.\n<tabber>\n|-|I'll add the right amount.=\n*'''Kassandra:''' ''Just as the doctor ordered.''\nA while later, after Hippokrates gave Pentheus the potion Kassandra finished, Kassandra joined Hippokrates as he observed Pentheus.\n*'''Kassandra:''' ''He seems to be calmer now.''\n*'''Hippokrates:''' ''The potion is working. With what I learn here, I could help many more who still have a chance at life.''\nKassandra nodded in agreement.\n|-|I'll add too much.=\n*'''Kassandra:''' ''Gods protect you, Pentheus.''\nA while later, after Hippokrates had given Pentheus the potion Kassandra had mixed, Hippokrates knelt down to check on him. Kassandra kept her back turned, arms crossed.\n*'''Hippokrates:''' ''Come now, Pentheus. We must check to see how your symptoms are progressing.''\nPentheus lay still, unresponsive.\n*'''Hippokrates:''' ''Pentheus?<br />Pentheus?!<br />What? What's happened? He shouldn't have died yet.''\nRealizing what had transpired, Hippokrates turned his attention to Kassandra, incensed.\n*'''Hippokrates:''' ''What did you do?''\n{{#tag:tabber|\nI ended his suffering.=\n*'''Kassandra:''' ''He was suffering. I did what was necessary.''\n{{!}}-{{!}}\nLie \u2013 I did what you asked.=\n*'''Kassandra:''' ''I did nothing except what you asked me to do.''\n*'''Hippokrates:''' ''Do you think I'm stupid? I know enough to see when someone has been poisoned.''\n*'''Kassandra:''' ''He wanted a peaceful death, and I gave it to him.''\n{{!}}-{{!}}\nI did what you couldn't.=\n*'''Kassandra:''' ''I did what I knew was right\u2014and what you couldn't do.''\n}}\n*'''Hippokrates:''' ''It wasn't your place. I needed more time\u2014there was still more I could have learned.''\n*'''Kassandra:''' ''Keeping him alive so you can study him isn't right. He was in pain and wanted to die.''\n*'''Hippokrates:''' ''My job was to save his life, not end it. I chose to not help [[Galeos]] and I was wrong.''\n*'''Kassandra:''' ''You and I both know that's not why you kept him alive. Stop hiding the truth behind your code.''\nKassandra struck a chord on Hippokrates and he paused for a moment.\n*'''Hippokrates:''' ''You're right. I knew I couldn't bring myself to end his life, but I thought the more I learned, the better chance I would have of saving others in the future.''\n*'''Kassandra:''' ''It was a noble cause.''\nThey both briefly looked down on the dead Pentheus.\n*'''Hippokrates:''' ''Treating patients should come before studying ailments, but I have a higher calling. If I'm to learn all I can, I need to travel and analyze the conditions other physicians are treating.''\n</tabber>\nRegardless, the two parted on good terms.\n*'''Kassandra:''' ''Good luck, Hippokrates. I hope our paths cross again in the future.''\nHippokrates smiled and nodded before she left.",
+    "Section_Outcome": "Kassandra helped Hippokrates make a sedative by harvesting hemlock. Knowing it to be poisonous, she made a choice of whether to discreetly euthanize the terminally ill Pentheus, or let Hippokrates study his illness further.",
+    "Section_Trivia": "*At the end of the memory, Hippokrates can be recruited as a crew member aboard the ''[[Adrestia]]''.\n*A bug can prevent Hippokrates from being recruited at the end of this memory, instead pushing it after the main story is completed.{{Cite|10 Dec 2020. Unconfirmed}}",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Hippokrates",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "4.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "As Pentheus laid back down to rest, Hippokrates called Kassandra over to him for her assistance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Hippokrates:''' ''If you have a moment, I would ask you to help me with something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "As Kassandra faced him, she briefly glanced back at Pentheus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "4",
+            "content": "[[File:ACOD Too Much of a Good Thing 1.png|thumb|250px|Kassandra and Hippokrates discussing Pentheus' condition]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''He seems to be resting peacefully now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Hippokrates:''' ''Yes, you helped ease his mind, but he'll never truly be at peace until he takes his last breath.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''When will that be?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Hippokrates:''' ''It's hard to tell. Judging by his symptoms, it'll be sooner rather than later.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "9",
+            "content": "They paused on the depressing situation.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Hippokrates:''' ''I can lessen his pain, but to do so, I'll need some [[hemlock]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "11",
+            "content": "(Accept \u2013 I'll get the hemlock.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "I2",
+            "global_id": "12",
+            "content": "[[File:ACOD Too Much of a Good Thing 3.png|thumb|250px|Kassandra agreed to help collect the hemlock]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I'll collect the ingredients you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Hippokrates:''' ''Thank you. It won't stop the pain entirely, but I hope it'll help him feel more comfortable.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''He doesn't want to feel better. He wants to die with some dignity.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Hippokrates:''' ''True dignity would be fighting through this so I can analyze his symptoms further.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "17",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "18",
+            "content": "|-|You're letting him suffer.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''He wants to die and he's in pain. You should respect his right to choose instead of treating him like an experiment. What you're doing is wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Hippokrates' expression changed to one of self-aggrandizement.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Hippokrates:''' ''I will not be lectured on the morality of my work by a [[Mercenary#5th_century_BCE|sell-sword]]. I have a responsibility, like all healers, to use my knowledge for the betterment of others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "22",
+            "content": "|-|You're doing the right thing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''I can't imagine how difficult this must be, but I know you're doing what you can to help him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Hippokrates:''' ''Sometimes I worry that it's never enough. First the [[Plague of Athens|plague]], and now this. The ailments that afflict [[Human|man]] are as varied as the [[Twelve Gods|gods]]. It would take me many lifetimes to learn about them all.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "25",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "26",
+            "content": "(If players asked \"Where is the hemlock?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Hemlock is rare. Where do you harvest it?\"''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Hippokrates:''' ''It grows all across [[Boeotia]], but check near the [[Tumulus of Plataia]]. I'm sure I saw some when I was last there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "29",
+            "content": "(If players asked \"Why hemlock?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Why are you treating him with [[poison]]? Hemlock is deadly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "31",
+            "content": "*'''Hippokrates:''' ''Only in the wrong dosage. If my observations are correct, it should lessen the pain wracking his body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "32",
+            "content": "(Leave \u2013 \"I'll go now.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D19",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'll get the hemlock you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I3",
+            "global_id": "34",
+            "content": "[[File:ACOD Too Much of a Good Thing 4.png|thumb|250px|Kassandra finding the hemlock]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "35",
+            "content": "Kassandra left and rode south outside the city. When she arrived at the bridge over the riverbank north of the Ruins of Plataia, [[Ikaros]] helped her identify several herbs of note.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''That's what I'm looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "37",
+            "content": "A pack of wolves set upon her, but she dealt with them and returned to examine the herbs.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''That looks like hemlock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "39",
+            "content": "Kassandra picked a bunch of the hemlock and returned to Hippokrates.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''I got the hemlock you wanted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Hippokrates:''' ''Thank you. I know this task was a little beneath you, but it will help my friend here.<br />I've prepared the elixir base, but I need you to grind the herb and add it to the mixture.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''I think I can handle that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "43",
+            "content": "Kassandra moved towards the table at the corner.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "44",
+            "content": "*'''Hippokrates:''' ''Be mindful of the amount you add. While the hemlock is an excellent pain inhibitor, too much can be lethal.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "45",
+            "content": "She talked to herself while finishing the mixture.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TS2",
+            "global_id": "46",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "47",
+            "content": "|-|I'll add the right amount.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D26",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''Just as the doctor ordered.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "49",
+            "content": "A while later, after Hippokrates gave Pentheus the potion Kassandra finished, Kassandra joined Hippokrates as he observed Pentheus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "50",
+            "content": "*'''Kassandra:''' ''He seems to be calmer now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "51",
+            "content": "*'''Hippokrates:''' ''The potion is working. With what I learn here, I could help many more who still have a chance at life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "52",
+            "content": "Kassandra nodded in agreement.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC4",
+            "global_id": "53",
+            "content": "|-|I'll add too much.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Gods protect you, Pentheus.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "55",
+            "content": "A while later, after Hippokrates had given Pentheus the potion Kassandra had mixed, Hippokrates knelt down to check on him. Kassandra kept her back turned, arms crossed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D30",
+            "global_id": "56",
+            "content": "*'''Hippokrates:''' ''Come now, Pentheus. We must check to see how your symptoms are progressing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "57",
+            "content": "Pentheus lay still, unresponsive.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D31",
+            "global_id": "58",
+            "content": "*'''Hippokrates:''' ''Pentheus?<br />Pentheus?!<br />What? What's happened? He shouldn't have died yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "59",
+            "content": "Realizing what had transpired, Hippokrates turned his attention to Kassandra, incensed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "60",
+            "content": "*'''Hippokrates:''' ''What did you do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "61",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "62",
+            "content": "I ended his suffering.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''He was suffering. I did what was necessary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "64",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "65",
+            "content": "Lie \u2013 I did what you asked.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D34",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''I did nothing except what you asked me to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D35",
+            "global_id": "67",
+            "content": "*'''Hippokrates:''' ''Do you think I'm stupid? I know enough to see when someone has been poisoned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''He wanted a peaceful death, and I gave it to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "69",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "70",
+            "content": "I did what you couldn't.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D37",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''I did what I knew was right\u2014and what you couldn't do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "72",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "D38",
+            "global_id": "73",
+            "content": "*'''Hippokrates:''' ''It wasn't your place. I needed more time\u2014there was still more I could have learned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''Keeping him alive so you can study him isn't right. He was in pain and wanted to die.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "75",
+            "content": "*'''Hippokrates:''' ''My job was to save his life, not end it. I chose to not help [[Galeos]] and I was wrong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''You and I both know that's not why you kept him alive. Stop hiding the truth behind your code.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "77",
+            "content": "Kassandra struck a chord on Hippokrates and he paused for a moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D42",
+            "global_id": "78",
+            "content": "*'''Hippokrates:''' ''You're right. I knew I couldn't bring myself to end his life, but I thought the more I learned, the better chance I would have of saving others in the future.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''It was a noble cause.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N16",
+            "global_id": "80",
+            "content": "They both briefly looked down on the dead Pentheus.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D44",
+            "global_id": "81",
+            "content": "*'''Hippokrates:''' ''Treating patients should come before studying ailments, but I have a higher calling. If I'm to learn all I can, I need to travel and analyze the conditions other physicians are treating.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "82",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "N17",
+            "global_id": "83",
+            "content": "Regardless, the two parted on good terms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''Good luck, Hippokrates. I hope our paths cross again in the future.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "85",
+            "content": "Hippokrates smiled and nodded before she left.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

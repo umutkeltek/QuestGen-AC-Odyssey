@@ -1,0 +1,37 @@
+{
+    "QuestName": "Dye Dye Dye",
+    "QuestID": "223100",
+    "Revision": {
+        "id": "1050113",
+        "parentid": "901536",
+        "timestamp": "2023-06-22T05:23:32Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1050113",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "ac45jvos0z2y3fk74xezisc12dg4k2h"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Showboat",
+        "next": "Belly Flop",
+        "source": "Kassandra",
+        "location": "Teichos of Herakles, Achaia",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Dye Dye Dye''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''Blood and dirt stains are less noticeable on darker fabric! Head east across [[Erymanthos Peaks]] to the village of [[Boura]]. They specialize in fabric production. Find me in a large vat of red dye.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Teinture]]"
+}

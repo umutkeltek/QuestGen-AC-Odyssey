@@ -1,0 +1,415 @@
+{
+    "Quest_Name": "Keys to Happiness?",
+    "Quest_ID": "225064",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Now armed with the mercenary's spear and the \"Gorgon Disk|key\" of the Daughters of Artemis, Kassandra decided to return to Bryce.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "Heavy is the Spear",
+        "next": "Writhing Dead",
+        "source": "Kassandra",
+        "location": "Petrified Valley, Lesbos, Greece",
+        "date": "c. 422 BCE"
+    },
+    "General_Description": "'''Keys to Happiness?''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra returned to [[Bryce]] outside the [[Petrified Temple]], having retrieved the [[Gorgon Disk|key]] and a [[spear]].",
+    "Section_Dialogue": "Kassandra returned to Bryce at the entrance to the [[Petrified Temple]] with what she needed.\n\n(Mercenary fought, [[Heavy is the Spear]] completed)\n*'''Kassandra:''' ''The [[Zetes the Retired|Mercenary]] knew nothing. He never made it inside the lair.''\n*'''Bryce:''' ''Then it was a waste of time! Ligeia waits, and we've done nothing to help her!''\n*'''Kassandra:''' ''Not exactly\u2014the Mercenary carried this spear, which he claims killed the Writhing Dread.''\n*'''Bryce:''' ''No, no, the Creature took Ligeia! It ''can't'' be dead\u2014it awaits in its lair, even now!''\n*'''Kassandra:''' ''Then there may be a piece of this puzzle we don't yet understand.''\n(Mercenary spoken to, but not fought)\n*'''Kassandra:''' ''I found the Mercenary. Just another man obsessed with his spear.''\nBryce snorted and rolled her eyes.\n*'''Bryce:''' ''Aren't they all?''\nBryce asked what he knew.\n*'''Bryce:''' ''Well? What else did the Mercenary know? How do we get inside to save Ligeia and kill the Creature?''\n*'''Kassandra:''' ''I didn't question him very thoroughly. ...Or take his spear.''\nKassandra rubbed the back of her head.\n*'''Bryce:''' ''Then who knows what vital clue you may have missed?!''\n*'''Kassandra:''' ''It might be worth returning to see what he knows...''\n\nWhether Kassandra spoke to the mercenary or not, Bryce asked if she found the key.\n*'''Bryce:''' ''Have you found a way inside the lair?''\n*'''Kassandra:''' ''Ligeia's story was true. The Daughters of Artemis were protecting this... [[Gorgon Disk|Disk]]... Key? This\u2014''\nKassandra held out the disk, struggled to describe it, then gave up with a sigh. She returned it to her pack.\n*'''Kassandra:''' ''I have what opens the lair.''\n\n('Heavy is the Spear' complete)\n*'''Bryce:''' ''And... You didn't hurt any of the Daughters when you took it?''\n\n<tabber>\n|-|Lie \u2013 I killed them silently.=\n*'''Kassandra:''' ''They didn't hear me or my blades... but they felt them, Bryce.''\n*'''Bryce:''' ''Why?! Why would you\u2014''\n*'''Kassandra:''' ''This disk is a prized possession\u2014if I hadn't killed them, I never would have made it out alive, and Ligeia would be lost.''\n*'''Bryce:''' ''I\u2014I suppose you did what you had to. Ligeia's worth any price.''\n|-|Nobody died.=\n*'''Kassandra:''' ''There was no need for violence. The Daughters of Artemis didn't even know I was there.''\n*'''Bryce:''' ''Then [[Tyche]] truly is on our side. Ligeia still stands a chance.''\n</tabber>\n\n('Heavy is the Spear' not complete)\n*'''Bryce:''' ''Then what are you waiting for? Use the disk! Open the door!''\n\n<tabber>\n|-|Accept \u2013 Let's go.=\n*'''Kassandra:''' ''There's no time for the Mercenary. Whatever he knows/ we'll find out ourselves. We're opening that door, now.''\n*'''Bryce:''' ''You have Ligeia's heart, Kassandra.''\n|-|I need to talk to the Mercenary.=\n*'''Kassandra:''' ''...No. I'm not walking in there without talking to the Mercenary first. He might know something we could use.''\n*'''Bryce:''' ''He might know how not to be a ''coward!'' Kassandra, Ligeia needs us now! Open the door. Open it!''\nBryce fumed as Kassandra left once again. \n\nWhen Kassandra returned, Bryce was still furious.\n{{#tag:tabber|\n'Heavy is the Spear' still not complete=\n*'''Bryce:''' ''The cowardly ''misthios''! What terribly important items might you need now, before you keep your promise to save my lover?''\n:Repeat of dialogue options from [[A Slithery Plea]]\n{{!}}-{{!}}\n'Heavy is the Spear' complete=\n*'''Bryce:''' ''Did you find anything, coward?''\n*'''Kassandra:''' ''I found the  Mercenary's [[Gorgon Slayer|spear]]. He says it was made for the slaying of mythical beasts.''\n*'''Bryce:''' ''Then let the slaying begin.''\n}}\n</tabber>",
+    "Section_Outcome": "Kassandra gathered what she needed to enter the Petrified Temple.",
+    "Section_Trivia": "* The dialogue with Bryce does not acknowledge Kassandra being the leader of the Daughters of Artemis, should the player have earned that title during [[Artemis's Request]]. Being the leader allows you to enter the village and the cave peacefully during [[Hard to Artemis]], but when Bryce asks you if you killed any Daughters, there are no options that reflect this peaceful method.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "25.",
+    "Chapter_Name": "Shadows of Serpents",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "3.c",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra returned to Bryce at the entrance to the [[Petrified Temple]] with what she needed.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "3",
+            "content": "(Mercenary fought, [[Heavy is the Spear]] completed)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D1",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''The [[Zetes the Retired|Mercenary]] knew nothing. He never made it inside the lair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Bryce:''' ''Then it was a waste of time! Ligeia waits, and we've done nothing to help her!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Not exactly\u2014the Mercenary carried this spear, which he claims killed the Writhing Dread.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Bryce:''' ''No, no, the Creature took Ligeia! It ''can't'' be dead\u2014it awaits in its lair, even now!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Then there may be a piece of this puzzle we don't yet understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "9",
+            "content": "(Mercenary spoken to, but not fought)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I found the Mercenary. Just another man obsessed with his spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "11",
+            "content": "Bryce snorted and rolled her eyes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Bryce:''' ''Aren't they all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "Bryce asked what he knew.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Bryce:''' ''Well? What else did the Mercenary know? How do we get inside to save Ligeia and kill the Creature?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''I didn't question him very thoroughly. ...Or take his spear.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "16",
+            "content": "Kassandra rubbed the back of her head.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Bryce:''' ''Then who knows what vital clue you may have missed?!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''It might be worth returning to see what he knows...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "20",
+            "content": "Whether Kassandra spoke to the mercenary or not, Bryce asked if she found the key.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "21",
+            "content": "*'''Bryce:''' ''Have you found a way inside the lair?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Ligeia's story was true. The Daughters of Artemis were protecting this... [[Gorgon Disk|Disk]]... Key? This\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "23",
+            "content": "Kassandra held out the disk, struggled to describe it, then gave up with a sigh. She returned it to her pack.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I have what opens the lair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "25",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O3",
+            "global_id": "26",
+            "content": "('Heavy is the Spear' complete)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Bryce:''' ''And... You didn't hurt any of the Daughters when you took it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "29",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "30",
+            "content": "|-|Lie \u2013 I killed them silently.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''They didn't hear me or my blades... but they felt them, Bryce.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "32",
+            "content": "*'''Bryce:''' ''Why?! Why would you\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''This disk is a prized possession\u2014if I hadn't killed them, I never would have made it out alive, and Ligeia would be lost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "34",
+            "content": "*'''Bryce:''' ''I\u2014I suppose you did what you had to. Ligeia's worth any price.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "35",
+            "content": "|-|Nobody died.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D20",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''There was no need for violence. The Daughters of Artemis didn't even know I was there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "37",
+            "content": "*'''Bryce:''' ''Then [[Tyche]] truly is on our side. Ligeia still stands a chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "38",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U5",
+            "global_id": "39",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O4",
+            "global_id": "40",
+            "content": "('Heavy is the Spear' not complete)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D22",
+            "global_id": "41",
+            "content": "*'''Bryce:''' ''Then what are you waiting for? Use the disk! Open the door!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "42",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "43",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "44",
+            "content": "|-|Accept \u2013 Let's go.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D23",
+            "global_id": "45",
+            "content": "*'''Kassandra:''' ''There's no time for the Mercenary. Whatever he knows/ we'll find out ourselves. We're opening that door, now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "46",
+            "content": "*'''Bryce:''' ''You have Ligeia's heart, Kassandra.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "47",
+            "content": "|-|I need to talk to the Mercenary.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''...No. I'm not walking in there without talking to the Mercenary first. He might know something we could use.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "49",
+            "content": "*'''Bryce:''' ''He might know how not to be a ''coward!'' Kassandra, Ligeia needs us now! Open the door. Open it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "50",
+            "content": "Bryce fumed as Kassandra left once again.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "51",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "52",
+            "content": "When Kassandra returned, Bryce was still furious.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "53",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "54",
+            "content": "'Heavy is the Spear' still not complete=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D27",
+            "global_id": "55",
+            "content": "*'''Bryce:''' ''The cowardly ''misthios''! What terribly important items might you need now, before you keep your promise to save my lover?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "56",
+            "content": ":Repeat of dialogue options from [[A Slithery Plea]]",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "57",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC6",
+            "global_id": "58",
+            "content": "'Heavy is the Spear' complete=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "59",
+            "content": "*'''Bryce:''' ''Did you find anything, coward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I found the  Mercenary's [[Gorgon Slayer|spear]]. He says it was made for the slaying of mythical beasts.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "61",
+            "content": "*'''Bryce:''' ''Then let the slaying begin.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "62",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "TE2",
+            "global_id": "63",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

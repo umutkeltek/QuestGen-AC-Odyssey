@@ -1,0 +1,43 @@
+{
+    "QuestName": "Rightfully Mine",
+    "QuestID": "236251",
+    "Revision": {
+        "id": "1047496",
+        "parentid": "841869",
+        "timestamp": "2023-06-13T19:19:19Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047496",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "8oy0dc67m64h1atpfx0kclq59ahdzj7"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'After Kassandra led the Spartans to victory at Megaris, a Blacksmith lamented his lost payment for the weapons he had provided to the Athens|Athenians.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "The Final Push",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Megaris, Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Rightfully Mine''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": ".",
+    "Section_Dialogue": "Kassandra's attention was drawn by a blacksmith.\n*'''Kassandra:''' ''Need something?''\n*'''Man:''' ''Well, if it isn't the great \"hero\" of [[Megaris]] come to save us all.''\n*'''Kassandra:''' ''You lose [[drachma]]e betting on [[Athens]]?''\n*'''Man:''' ''Hardly! [[Megara]] had been stable for awhile. I equipped the Athenians for their battles until you wiped them all out. Now there's no one left to pay me.''\n<tabber>\n|-|You're lucky to be alive.=\n*'''Kassandra:''' ''War takes more than drachmae from most, friend. Count yourself lucky.''\n|-|Get paid up front next time.=\n*'''Kassandra:''' ''The Athenians got what was coming for them, and so did you if you weren't smart enough to get paid up front.''\n</tabber>\n*'''Man:''' ''Bah! Keep your advice. If you really wanted to make it up to me, you'd help me get what's rightfully mine from the Athenians.''\n*'''Kassandra:''' ''And you want me to get it from the Athenians.''\n*'''Man:''' ''Yes, it needs to be returned without a scratch.''\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''I'll take care of it.''\n*'''Man:''' ''Thank you, [[mercenary]].''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the man, found his pouch of drachmae, and returned to the man.\n*'''Man:''' ''Tell me it's been handled,'' misthios.\n*'''Kassandra:''' ''It's all yours.''\n*'''Man:''' ''I'm a man of my word, so here's your reward.''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra helped the blacksmith.",
+    "Section_Trivia": "*This memory seems to be triggered by [[The Final Push]]. Other variables are unknown.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

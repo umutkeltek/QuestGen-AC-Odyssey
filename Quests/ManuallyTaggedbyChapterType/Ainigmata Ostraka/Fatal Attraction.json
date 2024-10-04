@@ -1,0 +1,40 @@
+{
+    "QuestName": "Fatal Attraction",
+    "QuestID": "222851",
+    "Revision": {
+        "id": "1050116",
+        "parentid": "998986",
+        "timestamp": "2023-06-22T05:24:40Z",
+        "contributor": null,
+        "comment": "imageneed template",
+        "origin": "1050116",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "gexwdd34xq8vli40o950l6e6zv0k6i3"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Propose_delete": {
+            "description": "Afaik it was decided to keep all the info on the Ainigmata Ostraka page, removing these individual pages (like we also removed the memory pages related to for example the Black Shuck, and Fly Agaric)"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Ainigmata Ostraka",
+        "previous": "Bottomless Lake",
+        "next": "Hound Docked",
+        "source": "Kassandra",
+        "location": "Ithaka, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Fatal Attraction''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the portable [[Animus|Animus HR-8.5]].",
+    "Section_Riddle": "''If you retrace the steps of [[Odysseus]] and take the path north, you will find a [[goat]] [[Melanthios' Goat Farm|farm]] in [[Ithaka]] where he once met [[Athena]]. She helped him with a disguise to reclaim his [[Penelope|wife]] and kill her suitors. Find your reward on a slaughtered goat.''",
+    "Section_Outcome": "Kassandra found and recovered the engraving.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

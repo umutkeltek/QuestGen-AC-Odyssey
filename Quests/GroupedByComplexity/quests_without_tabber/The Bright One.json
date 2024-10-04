@@ -1,0 +1,48 @@
+{
+    "Quest_Name": "The Bright One",
+    "Quest_ID": "226756",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Arges.jpg",
+        "description": "'The mighty Arges, known as the Bright One, was active once again. He was seen, hungry and prowling, in the Cyclops Arges|bowels of a fiery Nisyros|volcano.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Bounties",
+        "source": "Kassandra",
+        "location": "Nisyros, Greece",
+        "date": "429 \u2013 422 BCE",
+        "previous": "The Lightning Bringer"
+    },
+    "General_Description": "'''The Bright One''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra travelled to the island of [[Nisyros]] to eliminate [[cyclops]] [[Arges]].",
+    "Section_Dialogue": "Kassandra arrived on the island of Nisyros. Exploring further, she found an opening to a mysterious [[Cyclops Arges|vault]].\n*'''Kassandra:''' ''He's over there.''\nEntering, she came across an arena filled with lava and a giant cyclops. After some effort, she defeated the beast.",
+    "Section_Outcome": "Kassandra defeated Arges, claiming its [[Hammer of Hephaistos|war hammer]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Side, Bounties",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra arrived on the island of Nisyros. Exploring further, she found an opening to a mysterious [[Cyclops Arges|vault]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''He's over there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Entering, she came across an arena filled with lava and a giant cyclops. After some effort, she defeated the beast.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

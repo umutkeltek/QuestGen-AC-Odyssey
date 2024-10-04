@@ -1,0 +1,38 @@
+{
+    "QuestName": "Enough is Enough",
+    "QuestID": "223427",
+    "Revision": {
+        "id": "1072194",
+        "parentid": "909369",
+        "timestamp": "2023-11-26T15:23:29Z",
+        "contributor": null,
+        "comment": "/* Trivia */",
+        "origin": "1072194",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "9qzw5cqct0c8h5cs461i9p5jnqt7km3"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD Enough is Enough.png",
+        "description": "'Pylenor the Priest offered Kassandra information about her Myrrine|mother in exchange for a favor. It turned out it was extremely difficult to purify the sick when the bathhouse was riddled with snakes.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "The Priests of Asklepios",
+        "next": "Written in Stone",
+        "source": "Kassandra",
+        "location": "Sanctuary of Asklepios, Argolis, Greece",
+        "date": "431 BCE\u2013429 BCE"
+    },
+    "General_Description": "'''Enough is Enough''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra agreed to help the priest [[Pylenor]] to deal with the snake problem at the bathhouse.",
+    "Section_Dialogue": "Kassandra entered the bathhouse, finding a corpse and a couple of snakes.\n*'''Kassandra:''' ''OK, I can either kill them one by one or flood them with cold water.''\n\n<tabber>\n|-|If players choose to open the pipe.=\nKassandra left the bathhouse and heads to a nearby spring, She found the pipe connecting the water source to the bathhouse.\n*'''Kassandra:''' ''That's the pipe. Opening it should flood the bath and get rid of the snakes.''\n[[File:ACOD_Enough_is_Enough_-_Snake_Pipe.jpg|thumb|250px|The pipe connected to the bathhouse]]\nKassandra opened the pipe and returned to Pylenor.\n*'''Priest:''' ''And? Is the bathhouse free of snakes?''\n*'''Kassandra:''' ''I flooded the bathhouse with cold water.''\n*'''Priest:''' ''Good riddance!''\n\n{{-}}\n\n|-|If players choose to kill the snakes.=\nKassandra killed the snakes and returned to Pylenor.\n*'''Priest:''' ''And? Is the bathhouse free of snakes?''\n*'''Kassandra:''' ''I carved up every single one of those slimy ''malakes''.''\n[[File:ACOD_Enough_is_Enough_-_Doreios_Arrived.png|thumb|250px|Doreios arriving]]\n[[Doreios]] approached both of them.\n*'''Priest (Doreios):''' ''My babies! What have you done to my babies?''\n*'''Priest (Pylenor):''' ''Your snakes infested my bathhouse! A sick man is dead because of them.''\n*'''Priest (Doreios):''' ''You! You did this!''\n{{#tag:tabber|\nI sure did.=\n*'''Kassandra:''' ''Good snakes are dead snakes.''\n*'''Priest:''' ''You'll pay for this! I curse you!''\n{{!}}-{{!}}\nLie\u2014I did what he told me to.=\n*'''Kassandra:''' ''I only did what Pylenor told me to do.''\n*'''Priest (Pylenor):''' ''What? How dare you? I never said kill them!''\n*'''Priest (Doreios):''' ''How could you, Pylenor? You'll pay for this. I curse you both to [[Hades]]!''\n}}\nDoreios shuffled away.\n</tabber>\n*'''Kassandra:''' ''Well?''\n*'''Priest:''' ''Well what?''\n[[File:ACOD_Enough_is_Enough_-_Pylenor_Laughing.png|thumb|250px|Pylenor laughing at Kassandra]]\n*'''Kassandra:''' ''I took care of your snakes. Now you're going to tell me about the [[Sparta]]n woman and the [[Alexios|baby]].''\n*'''Priest:''' ''I actually don't know anything. Was before my time. The man who does know is [[Mydon]], but he won't tell you. He won't tell anyone anything!''\nThe priest left the area.\n*'''Kassandra:''' '' ''Malakes'' snakes. At least I got a name. Mydon.''",
+    "Section_Outcome": "Kassandra dealt with the snakes in the bathhouse and got a clue in the form of a name: Mydon.",
+    "Section_Trivia": "*The mission title is a reference to {{wiki|Samuel L. Jackson}}\u2019s famous line from the film ''{{wiki|Snakes on a Plane}}'' (2006): \"'''''Enough is enough!''' I have had it with these motherfucking snakes on this motherfucking plane!''\"\n*The snakes will eventually respawn in the bathhouse no matter how the player clears out the snakes and even in spite of the priest claiming that \"the bathhouse has been snake-free\". The original corpse will also persist and cannot be interacted with.\n*It is possible to skip this mission if [[A Heart for a Head]] is done first.",
+    "Section_Gallery": "<gallery position=\"center\" widths=\"180\" captionalign=\"center\">\nACOD Enough is Enough - Corpse Snakes.jpg|The corpse amongst the snakes\n</gallery>",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Assez, c'est assez]]"
+}

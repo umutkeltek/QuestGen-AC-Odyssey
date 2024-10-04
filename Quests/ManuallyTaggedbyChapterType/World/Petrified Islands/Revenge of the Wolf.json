@@ -1,0 +1,40 @@
+{
+    "QuestName": "Revenge of the Wolf",
+    "QuestID": "225210",
+    "Revision": {
+        "id": "1047431",
+        "parentid": "893137",
+        "timestamp": "2023-06-13T18:58:58Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047431",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "qzgsus31o4qxl9bjkparxrsaneky3a7"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Concerned about her husband's obsession with hunting down a giant wolf, a woman hired Kassandra to take care of the beast and find her husband.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "previous": "The Elixir",
+        "next": "Shroud of the Bear",
+        "source": "Kassandra",
+        "location": "Lesbos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''Revenge of the Wolf''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a concerned woman in [[Mytilene]].",
+    "Section_Dialogue": "In Mytilene, Kassandra came across a woman pleading for help on the streets.\n*'''Civilian:''' ''Help! Someone please help me!''\nKassandra approached the woman.\n*'''Kassandra:''' ''Calm down and tell me what's wrong.''\n*'''Civilian:''' ''My husband, he's late... no\u2014missing! He and his friend have tracked a giant [[wolf]] south of Mytilene. They want its pelt.''\n\n<tabber>\n|-|Sounds like trouble.=\n*'''Kassandra:''' ''He better be a good [[Hunting|hunter]].''\n*'''Civilian:''' ''Without knowing, all I can do is worry.''\n|-|I'm sure he's fine.=\n*'''Kassandra:''' ''You said yourself he was likely late. I wouldn't worry.''\n*'''Civilian:''' ''But a savage creature could be devouring them as we speak!''\n</tabber>\n*'''Kassandra:''' ''If you say so.''\n*'''Civilian:''' ''Can I hire you to find my husband and kill the giant wolf for me?''\n*'''Kassandra:''' ''Why would I need to kill the wolf? I can just bring back your husband and his friend.''\n*'''Civilian:''' ''If you won't, those two idiots will continue their hunt. I need this nightmare to stop, and I'll give you my husband's [[Wolfslayer's Helmet|helmet]] as payment.''\n(Accept \u2013 I will kill the giant wolf.)\n*'''Kassandra:''' ''I'll find your husband and kill the giant wolf once and for all.''\n*'''Civilian:''' ''Thank you, misthios. If there's anything I can do to help...''\n(If players choose \"Why do you call the wolf a giant?\")\n*'''Kassandra:''' ''What makes you think it's not just an ordinary wolf?''\n*'''Civilian:''' ''My husband says it's twice the size as any he's seen!''\n(If players choose \"Where exactly did your husband go?\")\n*'''Kassandra:''' ''Where south of Mytilene did he track the wolf to?''\n*'''Civilian:''' ''He tracked it southwest to the mountains and set up a lookout near a [[Lost Shrine of Poseidon|shrine]].''\n(Leave \u2013 Time to get going.)\n*'''Kassandra:''' ''I'll find your husband and his friend, and kill the giant wolf for you.''\n*'''Civilian:''' ''May [[Artemis]] guide your arrows.''\nKassandra headed south to the shrine mentioned by the woman. There, she came across several cages.\n*'''Kassandra:''' ''Hunting gear. The men were here.''\nNear the shrine, he found a bloodied body on the ground.\n*'''Kassandra:''' ''Found one... killed by the wolf. I wonder if this is the husband?''\nShe investigated a trail of blood near the body.\n*'''Kassandra:''' ''Blood... The wolf must've dragged the other man. To a [[White Wolf Cave|cave]], maybe.''\nKassandra followed the trail of blood to a nearby cave, where she found more blood trails and wolf's body.\n*'''Kassandra:''' ''It's huge! But if it's dead... what killed these men?''\nKassandra entered the cave and found a wounded hunter lying on the ground.\n*'''Hunter:''' ''Who... who's there?''\n*'''Kassandra:''' ''A woman sent me to kill a giant wolf and save her husband and his friend.''\n*'''Hunter:''' ''I'm the friend. Her husband... he's dead. We killed a giant wolf, but she was full of pups. A terrible mistake. We didn't know...''\nThey both heard a growl.\n*'''Kassandra:''' ''What's down there?''\n*'''Hunter:''' ''We... um... finished skinning the she-wolf, then heard a sad and terrible howl. It was the mate! It tore into my friend, then dragged me here. It's waiting...''\n*'''Kassandra:''' ''It wants revenge.''\n*'''Hunter:''' ''You've got to kill it, or we die!''\n\n<tabber>\n|-|You deserve your fate.=\n*'''Kassandra:''' ''You killed its mate and unborn pups. It seems fair.''\n*'''Hunter:''' ''What? No! Don't leave me. Don't leave me!''\nKassandra turned and exited the cave, leaving the hunter to his fate. Before she was gone, she heard the wolf growl.\n*'''Hunter:''' ''No! Nice wolf! Nice wolf! No - Ahhhhhhhh!''\n|-|Wolf, it's time for dinner.=\n*'''Kassandra:''' ''For what you two did, I think it's time you and the wolf were reacquainted. Hunter, meet wolf. Wolf, eat hunter!''\n*'''Hunter:''' ''What? No! You can't! You monster. You -''\nKassandra turned and exited the cave, leaving the hunter to his fate. Before she was gone, she heard the wolf growl.\n*'''Hunter:''' ''No! Nice wolf! Nice wolf! No - Ahhhhhhhh!''\n|-|I have a job to do.=\n*'''Kassandra:''' ''I'm not here to judge\u2014I was hired to kill a wolf. Wait here.''\n*'''Hunter:''' ''Oh thank you. Thank you.''\nKassandra headed further inwards, finding the giant wolf the hunter spoke of, and acquired its pelt.\n</tabber>\nKassandra returned to the woman in Mytilene.\n\n<tabber>\n|-|If the pelt was recovered=\n*'''Civilian:''' ''My husband hasn't returned. Please tell me he's coming.''\n*'''Kassandra:''' ''Your husband is dead.''\n*'''Civilian:''' ''No!''\n*'''Kassandra:''' ''But I killed the wolf and brought you its pelt. You can take comfort knowing he was avenged.''\n*'''Civilian:''' ''Comfort? Avenged? My husband is dead. Nothing will ever change that fact! Take his helmet and leave!''\n|-|If the Hunter was left to die and the pelt was not recovered=\n*'''Civilian:''' ''My husband... Where is he?''\n*'''Kassandra:''' ''Your husband and his friend were killed by the giant wolf after he killed its mate and unborn pups. I chose not to kill it.''\n*'''Civilian:''' ''No! I hired you to protect them. If I see you again, I'll put a contract on your head!''\n</tabber>\n\n(If players received the pelt and talk to her after the mission.)\n*'''Civilian:''' ''Thank you for avenging my husband.''",
+    "Section_Outcome": "Kassandra helped the woman look for her husband. After finding him dead and meeting the other hunter, she returned with news of his death.",
+    "Section_Trivia": "*Despite its size, the wolf in the cave is not marked as an alpha animal. As such, it can be knocked out and tamed, which will still provide the Giant Wolf Skin item and complete the quest requirement to kill the wolf. Strangely, Kassandra is able to assassinate the wolf while it's tamed.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

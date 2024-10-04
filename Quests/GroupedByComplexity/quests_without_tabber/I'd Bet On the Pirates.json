@@ -1,0 +1,139 @@
+{
+    "Quest_Name": "I'd Bet On the Pirates",
+    "Quest_ID": "236296",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "I'd Bet On the Pirates",
+        "description": "'Athens|Athenian ships were due to arrive in dangerous waters. An Athenian spy known to be anxious feared his fellow soldiers would not survive a Piracy|pirate attack..'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''I'd Bet On the Pirates''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "An [[Athens|Athenian]] spy wished Kassandra would sink some [[Piracy|pirate]] ships.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n*'''Note:'''<br>''A chamber bronze, a lonely hour. [[Perseus]] born of [[Zeus|Golden Power]].''\nShe sought out the Athenian soldier and addressed him.\n*'''Kassandra:''' ''I saw the message you left on the board. What's happening?''\n*'''Man:''' ''An Athenian ship is supposed to arrive soon, and these waters are full of pirates.''\n*'''Kassandra:''' ''The Athenians can handle them, no?''\n*'''Man:''' ''They can row. They can fight. But both at the same time? My [[drachma]]e's on the pirates.''\n*'''Kassandra:''' ''Sounds like I need to sink some pirate ships.''\n*'''Man:''' ''Exactly, my friend. The horizon must be cleared.''\n(Accept - I'll destroy them.)\n*'''Kassandra:''' ''I'm in.''\n*'''Man:''' ''I knew I could trust you.''\n*'''Kassandra:''' ''I should get going.''\nKassandra boarded the ''[[Adrestia]]'' and sought out pirate ships to sink. Afterwards, she returned to the soldier.\n*'''Man:''' ''Back already. Did you destroy them all?''\n*'''Kassandra:''' ''It would be hard to piece them back together.''\n*'''Man:''' ''I owe you more than words can say. So I'll let this payment speak for me.''\n*'''Kassandra:''' ''Thank you.''",
+    "Section_Outcome": "Kassandra sank pirate ships, and in return was rewarded.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Naval side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''A chamber bronze, a lonely hour. [[Perseus]] born of [[Zeus|Golden Power]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She sought out the Athenian soldier and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I saw the message you left on the board. What's happening?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Man:''' ''An Athenian ship is supposed to arrive soon, and these waters are full of pirates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''The Athenians can handle them, no?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Man:''' ''They can row. They can fight. But both at the same time? My [[drachma]]e's on the pirates.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Sounds like I need to sink some pirate ships.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "9",
+            "content": "*'''Man:''' ''Exactly, my friend. The horizon must be cleared.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Accept - I'll destroy them.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Man:''' ''I knew I could trust you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''I should get going.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "14",
+            "content": "Kassandra boarded the ''[[Adrestia]]'' and sought out pirate ships to sink. Afterwards, she returned to the soldier.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Man:''' ''Back already. Did you destroy them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''It would be hard to piece them back together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "17",
+            "content": "*'''Man:''' ''I owe you more than words can say. So I'll let this payment speak for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Thank you.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

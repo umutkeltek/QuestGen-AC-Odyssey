@@ -1,0 +1,140 @@
+{
+    "Quest_Name": "A Business Opportunity",
+    "Quest_ID": "223945",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'Looking for a big reward? The Cerberus brothers|Cerberus wants you. No matter if he's dead or alive, the Markos|Con of Kos must be brought to justice\u2014now.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World",
+        "next": "Old Friends, Old Problems",
+        "source": "Kassandra",
+        "location": "Kos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''A Business Opportunity''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] in 2018 through the [[Animus|Portable Animus HR-8.5]].",
+    "Section_Description": "Kassandra came across her old friend from [[Kephallonia]], [[Markos]], who was now known as the \"Con of [[Kos]]\" and had a [[Bounty hunter|bounty]] placed on him.",
+    "Section_Dialogue": "Kassandra infiltrated the [[Artemisia Fort]], hearing a man crying for help.\n*'''Markos:''' ''Help! Somebody? Anybody? Hello?''\nKassandra approached the cage and saw Markos in it.\n*'''Kassandra:''' ''Markos?''\n*'''Markos:''' ''Kassandra?'' Chaire''!''\n*'''Kassandra:''' ''How...''\n*'''Markos:''' ''Kept myself busy, haven't I? No time to explain here. Get me out!''\nKassandra opened the cage and carried Markos on her back.\n*'''Markos:''' ''You're as nimble as ever! Now, carry me to my house on the other side of the [[Highlands of Asklepiades|mountain]].''\n*'''Kassandra:''' ''I have to carry you the whole way?''\n*'''Markos:''' ''I-I'm so weak. I'm so frail...''\n*'''Kassandra:''' ''Fine.''\nKassandra carried Markos out of the fort and brought him to a [[Aion Vineyard|vineyard]] near the mountain.\n*'''Kassandra:''' ''Markos. [[Markos' Vineyard|Another]] vineyard?''\n*'''Markos:''' ''I am nothing if not consistent, my friend!''\nShe put him down on the ground, allowing him to recover a moment.\n*'''Markos:''' ''Ah, much better! No one makes a hasty exit like you.''\n*'''Kassandra:''' ''You're welcome.''",
+    "Section_Outcome": "Kassandra rescued Markos from the Artemisia Fort.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Markos",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra infiltrated the [[Artemisia Fort]], hearing a man crying for help.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Markos:''' ''Help! Somebody? Anybody? Hello?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached the cage and saw Markos in it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''Markos?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Markos:''' ''Kassandra?'' Chaire''!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''How...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Markos:''' ''Kept myself busy, haven't I? No time to explain here. Get me out!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "8",
+            "content": "Kassandra opened the cage and carried Markos on her back.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Markos:''' ''You're as nimble as ever! Now, carry me to my house on the other side of the [[Highlands of Asklepiades|mountain]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I have to carry you the whole way?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "11",
+            "content": "*'''Markos:''' ''I-I'm so weak. I'm so frail...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Fine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "13",
+            "content": "Kassandra carried Markos out of the fort and brought him to a [[Aion Vineyard|vineyard]] near the mountain.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D10",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Markos. [[Markos' Vineyard|Another]] vineyard?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "15",
+            "content": "*'''Markos:''' ''I am nothing if not consistent, my friend!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "16",
+            "content": "She put him down on the ground, allowing him to recover a moment.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "17",
+            "content": "*'''Markos:''' ''Ah, much better! No one makes a hasty exit like you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''You're welcome.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

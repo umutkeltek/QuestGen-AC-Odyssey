@@ -1,0 +1,719 @@
+{
+    "Quest_Name": "A Cursed Sickness",
+    "Quest_ID": "232617",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_IncompleteMemory": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD FoA ToH A Cursed Sickness 01.png",
+        "description": "'After the Athens|Athenian soldier was granted his glorious death, Charon asked Kassandra to recover a rare Asphodel flower to help heal a woman who believed she was still afflicted by a deadly plague.'",
+        "appearance": "'Assassin's Creed: Odyssey' \u2013 'The Fate of Atlantis: Torment of Hades'",
+        "type": "Side, Character {{c|Charon}}",
+        "previous": "Death Before Dishonor",
+        "next": "Home is Where You Make It",
+        "source": "Kassandra",
+        "location": "Elysium Breach, The Scorched Lands, the Underworld",
+        "date": "429 BCE \u2013 422 BCE"
+    },
+    "General_Description": "'''A Cursed Sickness''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked with finding an [[asphodel]] flower to heal a woman who thought she was still sick.",
+    "Section_Dialogue": "After helping the lost soldier, Kassandra returned to [[Charon]] at the docks.\n*'''Kassandra:''' ''I'm ready to help another of your lost dead.''\n*'''Charon:''' ''My my, aren't you a productive little fleshling. Tell me, how did [[Death Before Dishonor|things]] go with the [[Athens|Athenian]]?''\n<tabber>\n|-|Lied to the lost soldier=\n*'''Kassandra:''' ''Athens meant everything to him. I spared him the truth.''\n*'''Charon:''' ''You brought comfort to a troubled soul.''\n*'''Kassandra:''' ''I couldn't tell him the [[Plague of Athens|plague]] destroyed everything he loved.''\n|-|Told the lost soldier the truth=\n*'''Kassandra:''' ''I told him about the plague.''\n*'''Charon:''' ''You chose to torture an already troubled soul.''\n*'''Kassandra:''' ''He loved Athens and its people, but he needed to know the truth.''\n</tabber>\n*'''Charon:''' ''Ah, the plague. Busy times... So busy I lost someone, a woman whose family couldn't bear to burn the body.''\n*'''Kassandra:''' ''So she's stuck down here.''\n*'''Charon:''' ''She now wanders the halls of the [[Passage of Souls]], still sick with plague. The [[Thanatos Pyre]] can purify the dead, but the only way she'd survive the ordeal is by consuming an [[Asphodel]] flower.''\n(Asked \"Where do I find the flower?\")\n*'''Kassandra:''' ''An Asphodel flower.''\n*'''Charon:''' ''My little fleshling is in luck! Due to all the chaos you cause, there is a [[Elysium Breach|breach]] between the underworld and [[Elysium]]. You might find a flower there.''\n(Asked \"What does the flower do?\")\n*'''Kassandra:''' ''What makes this Asphodel flower so special?''\n*'''Charon:''' ''Everything from Elysium, that sickengly perfect paradise, has some kind of boon.''\n(Leave \u2013 \"I'll get the flower.\")\n*'''Kassandra:''' ''I'll get the flower and make sure she reaches the pyre.''\n*'''Charon:''' ''Be careful out there. Something as rare as an Asphodel flower in this place will surely draw a great deal of attention.''\nKassandra headed to the breach, located at the eastern part of [[the Scorched Lands]]. [[Ikaros]] found the entrance.\n[[File:ACOD FoA ToH A Cursed Sickness 02.png|thumb|250px|The Asphodel flower on the ground]]\n*'''Kassandra:''' ''Here we are.''\nHeading through the breach, she encountered and killed numerous [[Hound of Hades|Hounds of Hades]]. She continued her way through.\n*'''Kassandra:''' ''The air feels different here. Reminds me of Elysium.''\nShe found the flower on the ground.\n*'''Kassandra:''' ''That's what I'm looking for.''\n[[File:ACOD FoA ToH A Cursed Sickness 04.png|thumb|250px|Kassandra found by Testikles]]\nKassandra stepped forward to pick up the flower. Afterwards, she heard someone approaching behind and turned around to face them, hiding the flower in her hands.\n*'''Kassandra:''' ''[[Testikles]]. It's nice to see you in one piece.''\n*'''Testikles:''' [[Mercenary|Misthios]]''. Yes, I likes it. Nothing's trying to eat Testikles.''\nA pack of hounds of Hades eyed him from afar.\n*'''Kassandra:''' ''What are you doing here?''\n*'''Testikles:''' ''Came looking for a magic flower... Sounded so pretty. Wanted pretty flower oil. Have you seen it?''\n\n<tabber>\n|-|I have the flower.=\n*'''Kassandra:''' ''I have the Asphodel flower. I need it to save someone who's sick.''\n*'''Testikles:''' ''But I needs the flower, ''misthios''. I came all this way to get it. And I will.''\nThe Hounds of Hades lunged themselves at Testikles, killing him.\n*'''Kassandra:''' ''No flower for Testikles.''\n|-|Lie \u2013 I haven't seen the flower.=\n*'''Kassandra:''' ''I don't think anything pretty grows in a place like this.''\nKassandra secretly dropped the flower to the ground.\n*'''Testikles:''' ''You're right. Testikles is the only pretty thing here.''\n*'''Kassandra:''' ''Right. Well, it was nice seeing you.''\n*'''Testikles:''' ''No hug this time, OK?''\nThe Hounds of Hades lunged themselves at Testikles, killing him. Kassandra picked up the flower.\n*'''Kassandra:''' ''Take care of yourself, Testikles.''\n</tabber>\n[[File:ACOD FoA ToH A Cursed Sickness 05.png|thumb|250px|Testikles' being killed by the hounds]]\nKassandra eliminated the hounds and looted Testikles' body before heading off to [[Hades' Palace]] to find the plague victim. Ikaros found her at a camp designated for the plague victims on the cliff above the [[Stables of the Immortal Stallions]].\n*'''Kassandra:''' ''There she is!''\nKassandra entered the camp.\n*'''Kassandra:''' ''How can the dead bear it here?''\nKassandra approached the plague victim.\n\n(If players haven't discovered all of the Fallen yet, Hades appears)\n*'''Hades:''' ''Just the mortal I was looking for.''\nKassandra rolled her eyes and turned to [[Hades]], who was leaning against the wall behind her.\n*'''Kassandra:''' ''What do you want, Hades?''\n*'''Hades:''' ''It's funny how the tiniest, most insignificant things to some, can mean the world to others.''\n*'''Kassandra:''' ''Good, more riddles.''\n*'''Hades:''' ''My darling [[Persephone|wife]] hasn't been the same since the death of [[Cerberos]]. I would see her smile again. The flower you picked is the last of its kind in my world, and it happens to be her favorite.''\n*'''Kassandra:''' ''But Charon wants me to give it to the plagued woman. And you wanted me to help Charon.''\nHades stepped closer to Kassandra.\n*'''Hades:''' ''Tell you what, give the flower to me, and in exchange, I'll give you the location of one of the [[The Fallen|Fallen]] you're hunting.''\n<tabber>\n|-|You can have the flower.=\n*'''Kassandra:''' ''Fine, take it. Now tell me where the Fallen is.''\n*'''Hades:''' ''Very wise, this will make Persephone very happy.''\n:(Hades gives the players the location of the next undiscovered Fallen)<br/>\nHades vanished and left behind a startled Kassandra.<br/>\n(this completes the quest)\n|-|I'm keeping the flower.=\n*'''Kassandra:''' ''Keep me out of your marital affairs. The flower goes to the sick woman.''\nHades got angry and leaned closer to Kassandra\n*'''Hades:''' ''Have it your way. My hounds will get their meal. They always do.''\nNot happy about the outcome of the conversation Hades turned around and left. Kassandra turned towards the plague victim.\n</tabber>\n\n*'''Lost Woman:''' ''Please, stay back. I'm very sick.''\n*'''Kassandra:''' ''I've been sent to help you get better.''\n*'''Lost Woman:''' ''Nothing can cure me. Even here I'm cursed by this plague.''\n(Asked \"What do you remember?\")\n*'''Kassandra:''' ''Do you remember anything of your life before?''\n*'''Lost Woman:''' ''I used to bake the best-smelling bread. It's all like a dream that I can't quite see or touch.''\n(Asked \"How did you get here?\")\n*'''Kassandra:''' ''How did you get here?''\n*'''Lost Woman:''' ''I remember being in my bed. I was... sick. Everything went dark, then I was by a [[Styx|river]] surrounded by people waiting to cross.''\n[[File:ACOD FoA ToH A Cursed Sickness 07.png|thumb|250px|The woman eating the flower]]\n(Chose \"Eat this flower.\")\n*'''Kassandra:''' ''Here, eat this flower. It will help you feel strong.''\nKassandra gave the flower to the woman, who ate it.\n*'''Lost Woman:''' ''I feel... different. I feel better.''\nShe inspected her hands.\n*'''Lost Woman:''' ''But the plague is still with me.''\n*'''Kassandra:''' ''I will take you to a place where you can feel better. There is a fire that will cleanse you.''\n*'''Lost Woman:''' ''A fire! Are you sure it will help me? Won't it hurt?''\n*'''Kassandra:''' ''The flower you ate will protect you.''\n*'''Lost Woman:''' ''If this is the only way, then I suppose I have to try.''\n[[File:ACOD FoA ToH A Cursed Sickness 09.png|thumb|250px|The woman cleansed of the plague]]\nKassandra followed the woman out of the palace.\n*'''Lost Woman:''' ''Am I cursed to be sick forever?''\nKassandra escorted the woman up the akropolis to the pyre. Along the way, she killed numerous guards. They reached the Thanatos Pyre, which burned with a large blue flame. \n*'''Lost Woman:''' ''Look! The pyre. We've reached it.''\nWith the coast clear, they approached the fire.\n*'''Kassandra:''' ''Strange. This fire gives off no heat.''\nThey stood before the flame. Kassandra nodded to the woman, who walked into the fire and knelt. The woman moaned in pain, and Kassandra winced and looked away. However, the woman's body was cleansed of the plague, and she emerged with her skin restored. She and Kassandra smiled, and Kassandra placed her hand on the woman's shoulder in solidarity.",
+    "Section_Outcome": "Kassandra recovered an asphodel flower and gave it to the sick woman to regain her strength. She then escorted her to a pyre to be cleansed of the plague.",
+    "Section_Behind_the_scenes": "If not all of the Fallen have been found yet, [[Hades]] will appear and offer to take the flower from Kassandra in exchange for the location of the next undiscovered Fallen. Handing the flower over to Hades will prematurely end the memory.<!--(for me Hades said \"Her name is [[Deianeira]], and you'll find her at the [[Altars of the Titans]].\", but discovered was Perseus, because I already had discovered Deianeira) \u2013 Kathargos-->\n\nThe woman can die en route to the pyre. It may behoove players to simply charge past the guards on horseback, as the plague victim will ride on the same horse as the Eagle Bearer.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] \u2013 [[The Fate of Atlantis: Torment of Hades]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Un mal maudit]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "The Fate of Atlantis",
+    "Chapter_Type": "DLC Chapters",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "After helping the lost soldier, Kassandra returned to [[Charon]] at the docks.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''I'm ready to help another of your lost dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Charon:''' ''My my, aren't you a productive little fleshling. Tell me, how did [[Death Before Dishonor|things]] go with the [[Athens|Athenian]]?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|Lied to the lost soldier=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Athens meant everything to him. I spared him the truth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Charon:''' ''You brought comfort to a troubled soul.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I couldn't tell him the [[Plague of Athens|plague]] destroyed everything he loved.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "9",
+            "content": "|-|Told the lost soldier the truth=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Kassandra:''' ''I told him about the plague.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "11",
+            "content": "*'''Charon:''' ''You chose to torture an already troubled soul.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''He loved Athens and its people, but he needed to know the truth.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Charon:''' ''Ah, the plague. Busy times... So busy I lost someone, a woman whose family couldn't bear to burn the body.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''So she's stuck down here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "16",
+            "content": "*'''Charon:''' ''She now wanders the halls of the [[Passage of Souls]], still sick with plague. The [[Thanatos Pyre]] can purify the dead, but the only way she'd survive the ordeal is by consuming an [[Asphodel]] flower.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "17",
+            "content": "(Asked \"Where do I find the flower?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''An Asphodel flower.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Charon:''' ''My little fleshling is in luck! Due to all the chaos you cause, there is a [[Elysium Breach|breach]] between the underworld and [[Elysium]]. You might find a flower there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "20",
+            "content": "(Asked \"What does the flower do?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D14",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''What makes this Asphodel flower so special?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "22",
+            "content": "*'''Charon:''' ''Everything from Elysium, that sickengly perfect paradise, has some kind of boon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "23",
+            "content": "(Leave \u2013 \"I'll get the flower.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''I'll get the flower and make sure she reaches the pyre.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "25",
+            "content": "*'''Charon:''' ''Be careful out there. Something as rare as an Asphodel flower in this place will surely draw a great deal of attention.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "26",
+            "content": "Kassandra headed to the breach, located at the eastern part of [[the Scorched Lands]]. [[Ikaros]] found the entrance.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I1",
+            "global_id": "27",
+            "content": "[[File:ACOD FoA ToH A Cursed Sickness 02.png|thumb|250px|The Asphodel flower on the ground]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Here we are.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "29",
+            "content": "Heading through the breach, she encountered and killed numerous [[Hound of Hades|Hounds of Hades]]. She continued her way through.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''The air feels different here. Reminds me of Elysium.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "31",
+            "content": "She found the flower on the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Kassandra:''' ''That's what I'm looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "33",
+            "content": "[[File:ACOD FoA ToH A Cursed Sickness 04.png|thumb|250px|Kassandra found by Testikles]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N5",
+            "global_id": "34",
+            "content": "Kassandra stepped forward to pick up the flower. Afterwards, she heard someone approaching behind and turned around to face them, hiding the flower in her hands.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''[[Testikles]]. It's nice to see you in one piece.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "36",
+            "content": "*'''Testikles:''' [[Mercenary|Misthios]]''. Yes, I likes it. Nothing's trying to eat Testikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "37",
+            "content": "A pack of hounds of Hades eyed him from afar.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''What are you doing here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "39",
+            "content": "*'''Testikles:''' ''Came looking for a magic flower... Sounded so pretty. Wanted pretty flower oil. Have you seen it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "40",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "41",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "42",
+            "content": "|-|I have the flower.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''I have the Asphodel flower. I need it to save someone who's sick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "44",
+            "content": "*'''Testikles:''' ''But I needs the flower, ''misthios''. I came all this way to get it. And I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "45",
+            "content": "The Hounds of Hades lunged themselves at Testikles, killing him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''No flower for Testikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "47",
+            "content": "|-|Lie \u2013 I haven't seen the flower.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Kassandra:''' ''I don't think anything pretty grows in a place like this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "49",
+            "content": "Kassandra secretly dropped the flower to the ground.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "50",
+            "content": "*'''Testikles:''' ''You're right. Testikles is the only pretty thing here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''Right. Well, it was nice seeing you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "52",
+            "content": "*'''Testikles:''' ''No hug this time, OK?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "53",
+            "content": "The Hounds of Hades lunged themselves at Testikles, killing him. Kassandra picked up the flower.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D32",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''Take care of yourself, Testikles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "55",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I3",
+            "global_id": "56",
+            "content": "[[File:ACOD FoA ToH A Cursed Sickness 05.png|thumb|250px|Testikles' being killed by the hounds]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N10",
+            "global_id": "57",
+            "content": "Kassandra eliminated the hounds and looted Testikles' body before heading off to [[Hades' Palace]] to find the plague victim. Ikaros found her at a camp designated for the plague victims on the cliff above the [[Stables of the Immortal Stallions]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "58",
+            "content": "*'''Kassandra:''' ''There she is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "59",
+            "content": "Kassandra entered the camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''How can the dead bear it here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N12",
+            "global_id": "61",
+            "content": "Kassandra approached the plague victim.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "62",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "C3",
+            "global_id": "63",
+            "content": "(If players haven't discovered all of the Fallen yet, Hades appears)",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "64",
+            "content": "*'''Hades:''' ''Just the mortal I was looking for.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "65",
+            "content": "Kassandra rolled her eyes and turned to [[Hades]], who was leaning against the wall behind her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D36",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''What do you want, Hades?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "67",
+            "content": "*'''Hades:''' ''It's funny how the tiniest, most insignificant things to some, can mean the world to others.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "68",
+            "content": "*'''Kassandra:''' ''Good, more riddles.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "69",
+            "content": "*'''Hades:''' ''My darling [[Persephone|wife]] hasn't been the same since the death of [[Cerberos]]. I would see her smile again. The flower you picked is the last of its kind in my world, and it happens to be her favorite.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "70",
+            "content": "*'''Kassandra:''' ''But Charon wants me to give it to the plagued woman. And you wanted me to help Charon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N14",
+            "global_id": "71",
+            "content": "Hades stepped closer to Kassandra.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D41",
+            "global_id": "72",
+            "content": "*'''Hades:''' ''Tell you what, give the flower to me, and in exchange, I'll give you the location of one of the [[The Fallen|Fallen]] you're hunting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "73",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC5",
+            "global_id": "74",
+            "content": "|-|You can have the flower.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D42",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''Fine, take it. Now tell me where the Fallen is.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "76",
+            "content": "*'''Hades:''' ''Very wise, this will make Persephone very happy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N15",
+            "global_id": "77",
+            "content": ":(Hades gives the players the location of the next undiscovered Fallen)<br/>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "N16",
+            "global_id": "78",
+            "content": "Hades vanished and left behind a startled Kassandra.<br/>",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "O2",
+            "global_id": "79",
+            "content": "(this completes the quest)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC6",
+            "global_id": "80",
+            "content": "|-|I'm keeping the flower.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D44",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''Keep me out of your marital affairs. The flower goes to the sick woman.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "82",
+            "content": "Hades got angry and leaned closer to Kassandra",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D45",
+            "global_id": "83",
+            "content": "*'''Hades:''' ''Have it your way. My hounds will get their meal. They always do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "84",
+            "content": "Not happy about the outcome of the conversation Hades turned around and left. Kassandra turned towards the plague victim.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE3",
+            "global_id": "85",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U3",
+            "global_id": "86",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D46",
+            "global_id": "87",
+            "content": "*'''Lost Woman:''' ''Please, stay back. I'm very sick.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''I've been sent to help you get better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "89",
+            "content": "*'''Lost Woman:''' ''Nothing can cure me. Even here I'm cursed by this plague.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "90",
+            "content": "(Asked \"What do you remember?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D49",
+            "global_id": "91",
+            "content": "*'''Kassandra:''' ''Do you remember anything of your life before?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "92",
+            "content": "*'''Lost Woman:''' ''I used to bake the best-smelling bread. It's all like a dream that I can't quite see or touch.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "93",
+            "content": "(Asked \"How did you get here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D51",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''How did you get here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D52",
+            "global_id": "95",
+            "content": "*'''Lost Woman:''' ''I remember being in my bed. I was... sick. Everything went dark, then I was by a [[Styx|river]] surrounded by people waiting to cross.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I4",
+            "global_id": "96",
+            "content": "[[File:ACOD FoA ToH A Cursed Sickness 07.png|thumb|250px|The woman eating the flower]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C6",
+            "global_id": "97",
+            "content": "(Chose \"Eat this flower.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D53",
+            "global_id": "98",
+            "content": "*'''Kassandra:''' ''Here, eat this flower. It will help you feel strong.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "99",
+            "content": "Kassandra gave the flower to the woman, who ate it.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "100",
+            "content": "*'''Lost Woman:''' ''I feel... different. I feel better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N20",
+            "global_id": "101",
+            "content": "She inspected her hands.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D55",
+            "global_id": "102",
+            "content": "*'''Lost Woman:''' ''But the plague is still with me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''I will take you to a place where you can feel better. There is a fire that will cleanse you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "104",
+            "content": "*'''Lost Woman:''' ''A fire! Are you sure it will help me? Won't it hurt?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "105",
+            "content": "*'''Kassandra:''' ''The flower you ate will protect you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "106",
+            "content": "*'''Lost Woman:''' ''If this is the only way, then I suppose I have to try.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I5",
+            "global_id": "107",
+            "content": "[[File:ACOD FoA ToH A Cursed Sickness 09.png|thumb|250px|The woman cleansed of the plague]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N21",
+            "global_id": "108",
+            "content": "Kassandra followed the woman out of the palace.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "109",
+            "content": "*'''Lost Woman:''' ''Am I cursed to be sick forever?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "110",
+            "content": "Kassandra escorted the woman up the akropolis to the pyre. Along the way, she killed numerous guards. They reached the Thanatos Pyre, which burned with a large blue flame.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D61",
+            "global_id": "111",
+            "content": "*'''Lost Woman:''' ''Look! The pyre. We've reached it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "112",
+            "content": "With the coast clear, they approached the fire.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D62",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Strange. This fire gives off no heat.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N24",
+            "global_id": "114",
+            "content": "They stood before the flame. Kassandra nodded to the woman, who walked into the fire and knelt. The woman moaned in pain, and Kassandra winced and looked away. However, the woman's body was cleansed of the plague, and she emerged with her skin restored. She and Kassandra smiled, and Kassandra placed her hand on the woman's shoulder in solidarity.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

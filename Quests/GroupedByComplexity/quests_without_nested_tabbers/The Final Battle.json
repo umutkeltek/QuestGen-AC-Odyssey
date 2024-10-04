@@ -1,0 +1,66 @@
+{
+    "Quest_Name": "The Final Battle",
+    "Quest_ID": "224635",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'General Demosthenes  asked the Kassandra|Eagle Bearer to fight on behalf of Athens at the battle of Megaris.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Last Request",
+        "source": "Kassandra",
+        "location": "Athens, Attika, Greece",
+        "date": "424 BCE"
+    },
+    "General_Description": "'''The Final Battle''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "General [[Demosthenes]] asked the Eagle Bearer to fight on behalf of [[Athens]] at the [[Battle of Megaris]].",
+    "Section_Dialogue": "Kassandra spoke to '''Demosthenes'''.\n*'''Demosthenes:''' ''I know you've played both sides like a typical misthios. But now it's time to choose: The winning side or pathetic failure.''\n*'''Kassandra:''' ''Athens will triumph.''\n*'''Demosthenes:''' ''Then welcome to the winning side of history.''\nKassandra joined the Athenians in battle, killing a number of Spartan soldiers. They ultimately won the battle.",
+    "Section_Outcome": "Kassandra helped Athens to defeat the Spartan army in battle.",
+    "Section_Behind_the_scenes": "Accepting and completing \"The Final Battle\" locks \"[[Nemesis (memory)|Nemesis]]\" from [[Lysander]].\n\nGiven that the battle is possibly inspired by the historical [[Battle of Megaris|Battle of Megara]] in 424 BCE won by Athenian forces, the memory \"Nemesis\" may be non-canon.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Demosthenes",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "6.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra spoke to '''Demosthenes'''.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Demosthenes:''' ''I know you've played both sides like a typical misthios. But now it's time to choose: The winning side or pathetic failure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Athens will triumph.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Demosthenes:''' ''Then welcome to the winning side of history.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "5",
+            "content": "Kassandra joined the Athenians in battle, killing a number of Spartan soldiers. They ultimately won the battle.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

@@ -1,0 +1,1246 @@
+{
+    "Quest_Name": "The Conqueror",
+    "Quest_ID": "224272",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Conqueror 6.png",
+        "description": "'With the Archidamos of Sparta|King's edict in one hand and her Spear of Leonidas|spear in the other, Kassandra was tasked with conquering Boeotia for Sparta, making sure the Athens|Athenians didn't get there first.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "Kings of Sparta",
+        "next": "The End of Drakon",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "427 BCE\u2013426 BCE"
+    },
+    "General_Description": "'''The Conqueror''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra came to [[Boeotia]] in order to help the [[Sparta]]n army, as King [[Archidamos of Sparta|Archidamos]] had decreed.",
+    "Section_Dialogue": "[[File:ACOD The Conqueror 2.png|thumb|250px|Kassandra finding Stentor in the camp]]\nKassandra made her way to the [[Spartan Military Camp]] in Boeotia and walked into the ''[[polemarch]]''<nowiki>'</nowiki>s tent.\n*'''Kassandra:''' ''I'm looking for...''\nThe ''polemarch'' turned to face her and she recognized him as [[Stentor]].\n*'''Stentor:''' ''You!''\n*'''Kassandra:''' ''Stentor?''\nInfuriated at the sight of her, Stentor punched her square in the nose. Kassandra staggered back.\n*'''Kassandra:''' Malakas!\n[[File:ACOD The Conqueror 5.png|thumb|250px|Kassandra and Stentor in a standoff]]\nStentor grabbed his spear and readied to fight the ''[[Mercenary|misthios]]'', but she drew her [[Spear of Leonidas|own]] and warned him off through a bloody nose.\n*'''Kassandra:''' ''I'm here to help, you idiot!''\n*'''Stentor:''' ''Not after [[Megaris]]. Not after [[The Wolf of Sparta|what you did]].''\nShe held up the writ from the king.\n*'''Kassandra:''' ''King Archidamos of Sparta sent me to aid you in securing the region.''\n*'''Stentor:''' ''This is how much he trusts me\u2014he put his faith in a fucking mercenary.''\nHe walked to the cliff overlooking the region of Boeotia, with the city of [[Thebes, Greece|Thebes]] in the distance. Kassandra cleaned up her nose.\n*'''Stentor:''' ''The gods are punishing me with your presence.''\n*'''Kassandra:''' ''If I was your punishment, you'd already be dead.''\n*'''Stentor:''' ''Why have the kings sent you?''\n\n<tabber>\n|-|To steal your glory.=\n*'''Kassandra:''' ''King Archidamos sent me to conquer the Boeotians, since you clearly can't.''\n*'''Stentor:''' ''And yet he sent me a single traitorous mercenary.''\n|-|I missed my brother.=\n*'''Kassandra:''' ''I missed my new brother so much that when Archidamos sent me here, I jumped at the chance.''\n*'''Stentor:''' Mal\u00e1ka! ''The [[Nikolaos|Wolf]] would have ended the war if it weren't for you. Your help will bring nothing but misery.''\n|-|I've come to help Sparta.=\n*'''Kassandra:''' ''Stentor, relax, I'm here as an ally to Sparta and to you. We've worked together once\u2014we can do it again.''\n*'''Stentor:''' ''Your help in Megaris might have secured the region for Sparta, but I lost more than I gained. I shouldn't have trusted you then \u2013 and why now?''\n</tabber>\n[[File:ACOD The Conqueror 8.png|thumb|250px|Kassandra asking Stentor about the situation in Boetia]]\n(If players asked \"What's the situation?\")\n*'''Kassandra:''' ''I'm here on business. What's going on?''\n*'''Stentor:''' ''Everything is fine. The Boeotian rebels are a problem, but nothing we can't handle.''\n(If players asked \"Why are you here?\")\n*'''Kassandra:''' ''What is the Spartan army doing in Boeotia?''\n*'''Stentor:''' ''We sieged Athens, but [[Kleon]] took power and pushed us out. Taking Boeotia will weaken his position.<br>The Wolf was gone\u2014I was needed. I couldn't abandon my men.''\n(If players chose \"You should be glad I'm here.\")\n*'''Kassandra:''' ''You should thank the gods that I've come to help you.''\n*'''Stentor:''' ''The only reason you're still alive is that writ you carry. You're not an ally, just a weapon.''\n*'''Kassandra:''' ''Then put me to work.''\n*'''Stentor:''' ''You're not up to the challenge.''\n*'''Kassandra:''' ''Try me.''\n*'''Stentor:''' ''There are four Boeotian [[Champions of Boeotia|champions]] fighting for the Athenians: [[Aristaios]], [[Deianeira]], [[Nesaia]], and [[Drakon]].<br>Think you can kill them? I'd like to see you try.''\n*'''Kassandra:''' ''I told you we could work this out.''\n<tabber>\n|-|I'll kill the champions for Sparta.=\n*'''Kassandra:''' ''Alright then, I'll find these champions and put an end to them.''\n*'''Stentor:''' ''I doubt it will be as easy as you think, but I'm relieved to see you can follow orders.''\n|-|Killing the champions won't help.=\n*'''Kassandra:''' ''Why am I killing champions? I came to win a battle.''\n*'''Stentor:''' ''Either you complete this mission, or you die in the process. I will be satisfied either way.''\n</tabber>\n[[File:ACOD The Conqueror 9.png|thumb|250px|Kassandra agreeing to help Stentor]]\n(If players asked \"Where will I find the champions?\")\n*'''Kassandra:''' ''Where will I find these mighty Boeotians?''\n*'''Stentor:''' ''I only know of two\u2014there are reports of Aristaios occupying the [[Military Fort of Gla]]. Nesaia was last seen in the forest east of Thebes.''\n(If players asked \"Why are they helping Athens?\")\n*'''Kassandra:''' ''I thought the Boeotians hated everyone. Why are they working with Athens?''\n*'''Stentor:''' ''They see both Sparta and Athens as enemies\u2014but Athens got here first, and they agreed to a temporary alliance.''\n(If players asked \"What makes them so mighty?\")\n*'''Kassandra:''' ''What's so great about these champions? They're just four people against the Spartan military.''\n*'''Stentor:''' ''Sparta has its army, and Boeotia has its legends. They're a symbol of what this place used to be.''\n(Leave \u2013 \"I have what I need.\")\n*'''Kassandra:''' ''The sooner I get this done, the sooner we take Boeotia for Sparta.''\nStentor walked off without another word. Kassandra made her way around Boeotia hunting and killing the champions. When the fourth had fallen, she reunited with Stentor at the Spartans' forward camp in the [[Scorched Rolling Plains]].\n*'''Stentor:''' ''You're back.''\n*'''Kassandra:''' ''The champions have been dealt with.''\n*'''Stentor:''' ''You should be dead.''\n*'''Kassandra:''' ''You seem disappointed.''\n*'''Stentor:''' ''The gods are punishing me.''\n<tabber>\n|-|No, the gods are helping you.=\n*'''Kassandra:''' ''They're not punishing you - they're helping you. Why do you think I'm here?''\n*'''Stentor:''' ''The gods must hate me if our paths keep crossing.''\n*'''Kassandra:''' ''From what I've seen, you needed a divine intervention.''\n|-|There's nothing godly about this.=\n*'''Kassandra:''' ''I'm a mercenary - killing is what I do. There's nothing godly about it.''\n*'''Stentor:''' ''Modest, but mortal... and [[Hades]] will have you, too.''\n*'''Kassandra:''' ''We'll cross that [[Styx|river]] when we get to it.''\n</tabber>\n*'''Stentor:''' ''I don't have time for this. Sparta must take the region now, while we have the chance.''\n(Accept \u2013 \"Let's go to war.\")\n*'''Kassandra:''' ''Let's get this over with.''\n*'''Stentor:''' ''I couldn't agree more. The sooner I'm rid of you, the better.''\nKassandra brushed off his venom and turned out of the tent to ready for battle.\n[[File:ACOD Battle of Boeotia.png|thumb|250px|The Battle of Boeotia]]\nWith the sun high in the sky, the Conquest Battle for Boeotia began. Kassandra made her way around the [[Battleground of Boeotia|battleground]] slaying captains and hired mercenary help. Before the day was over, the Athenian ranks had broken, and Sparta had claimed control of the region. Stentor basked in his victory.\n*'''Stentor:''' ''Victory is ours!''\n<tabber>\n|-|Thanks to you.=\n*'''Kassandra:''' ''The victory is yours. You led us well today.''\n*'''Stentor:''' ''My father taught me everything I know about commanding an army. Too bad you took him from me - or I might have learned more.''\n*'''Kassandra:''' ''Stop...''\n|-|You're lucky I was here.=\n*'''Kassandra:''' ''If I hadn't been here, you'd never have survived.''\n*'''Stentor:''' ''My father would have ensured a more decisive victory, but he's not here. We have you to thank for that, if I recall.''\nKassandra rolled her eyes.\n*'''Kassandra:''' ''Don't start...''\n</tabber>\n*'''Stentor:''' ''Don't you dare tell me what to do. I am in command here.''\n*'''Kassandra:''' ''You needed my help.''\n*'''Stentor:''' ''By the gods, how are you so arrogant? No wonder my father discarded you.''\n<tabber>\n|-|Nikolaos alive=\n*'''Kassandra:''' ''You know nothing about my family.''\n*'''Stentor:''' ''I know he threw you off a [[Mount Taygetos|cliff]] and chose me instead.''\n*'''Kassandra:''' ''Now who's being arrogant? You were an afterthought\u2014you were second place.''\n|-|Nikolaos dead=\n*'''Kassandra:''' ''And yet I'm here, and he isn't.''\n*'''Stentor:''' ''You fucking murderer.''\n*'''Kassandra:''' ''Believe me, he had it coming.''\n*'''Stentor:''' ''You will pay for what you've done.''\n*'''Kassandra:''' ''I've already paid more than enough for one lifetime.''\n</tabber>\n*'''Stentor:''' ''We'll see about that.''\nStentor repositioned himself.\n*'''Kassandra:''' ''What do you mean?''\n*'''Stentor:''' ''Now that we've driven the Athenians from the field, it's time I dealt with my true enemy.''\n[[File:ACOD The Conqueror 13.png|thumb|250px|Stentor challenging Kassandra]]\nHe drew his spear.\n*'''Kassandra:''' ''Stentor you...''\n*'''Stentor:''' ''Your job is done, mercenary. Now I will kill you for what you stole from me in Megaris.''\n(If players asked \"Why do you want to fight?\")\n*'''Kassandra:''' ''Why are you doing this?''\n*'''Stentor:''' ''Because\u2014Because you marched into Megaris. Ruined the fucking war. And murdered\u2014my\u2014father.''\n*'''Kassandra:''' ''I did what I had to.''\n*'''Stentor:''' ''And so will I.''\n(If players asked \"What do you gain from this?\")\n*'''Kassandra:''' ''What could you possibly gain from killing me?''\n*'''Stentor:''' ''Justice, vengeance, peace. One would be enough, but all three is better.''\n*'''Kassandra:''' ''You think vengeance will dull your pain? Trust me, it won't.''\n*'''Stentor:''' ''Here's the thing. I don't trust you.''\n(Leave \u2013 \"Neither of us has to die.\")\n*'''Kassandra:''' ''You don't have to do this, Stentor.''\n*'''Stentor:''' ''Oh, but I do. There is nothing you can say to convince me otherwise.''\n*'''Kassandra:''' ''This isn't what Nikolaos would've wanted.''\n*'''Stentor:''' ''How would you fucking know? Traitor.''\nKassandra drew her [[Spear of Leonidas|spear]].\n*'''Kassandra:''' ''I am not a traitor.''\n*'''Stentor:''' ''You betrayed Sparta. You betrayed your family\u2014<br>You killed my father and stole my chance at a normal life. You deserve nothing but the cold of my blade buried in your heart.''\n[[File:ACOD The Conqueror 15.png|thumb|250px|Kassandra and Stentor at a stand-still]]\nNothing Kassandra said could sway her adoptive brother. They circled each other as Stentor's men looked on, ready to duel to the death.\n\n===Nikolaos returned===\nBefore they could take their first lunges with their spears, Nikolaos walked forward and parted the soldiers, chastising his children.\n*'''Nikolaos:''' ''Killing each other won't heal the wounds of the past.''\n*'''Stentor:''' Pater!\n*'''Nikolaos:''' ''Hello, Stentor.''\n[[File:ACOD The Conqueror 17.png|thumb|250px|Nikolaos interrupting Kassandra and Stentor]]\nThe crowd of Spartan soldiers dispersed and left Nikolaos to speak with his children.\n*'''Stentor:''' ''I thought you were dead.''\n*'''Nikolaos:''' ''Not just yet.''\n*'''Stentor:''' ''She should pay for what she's done!''\n<tabber>\n|-|I did nothing.=\n*'''Kassandra:''' ''How many times do I have to tell you\u2014''\n*'''Nikolaos:''' ''Stentor, she owes me nothing.''\n|-|I've paid plenty.=\n*'''Kassandra:''' ''I've already paid more than you could ever know.''\n*'''Stentor:''' ''I don't give a shit what you've been through.''\n*'''Nikolaos:''' ''Stentor, it's done.''\n</tabber>\n*'''Stentor:''' ''I don't understand.''\n*'''Nikolaos:''' ''You both have a greater role to play. Become the leader I trained you to be - lead the armies of Sparta and be victorious.''\n*'''Stentor:''' ''How?''\n*'''Nikolaos:''' ''You are an honorable man, a loyal son, and a great warrior. You will be a better commander than I ever was. You can do this.''\nStentor grasped his father's arms.\n*'''Stentor:''' ''I will, father. I will make you proud.''\n*'''Nikolaos:''' ''You already have.''\nStentor glanced at Kassandra, and she nodded at him. He took his leave.\n*'''Nikolaos:''' ''That could have ended badly.<br>Kassandra, a shadow grows across Sparta. Be cautious when you return.''\n[[File:ACOD The Conqueror 19.png|thumb|250px|Kassandra informing Nikolaos of her reunion with Myrrine]]\n*'''Kassandra:''' [[Myrrine|Mater]]'' and I will deal with it.''\n*'''Nikolaos:''' ''You found her?''\n*'''Kassandra:''' ''Ruling [[Naxos Island|Naxos]].''\n*'''Stentor:''' ''Sounds like her. May the gods watch over you both.''\nWith Nikolaos' return, Stentor abandoned his quest for vengeance against his adoptive sister. Nikolaos remained with his son and provided guidance as Kassandra took her leave to fulfill her other duties.\n\n===Nikolaos did not return===\nThe children of Nikolaos fought.\n*'''Kassandra:''' ''You really want me to embarrass you in front of your troops, brother?''\n*'''Stentor:''' ''I am ''not'' your brother.''\n*'''Kassandra:''' ''Stand down, Stentor. I'm not going easy on you.''\n*'''Stentor:''' ''No\u2014because I won't give you the chance.''\nKassandra countered Stentor's attacks and inflicted deep wounds on him.\n*'''Kassandra:''' ''The only reason you're alive is because of me! This is my reward?''\n*'''Stentor:''' ''We were fine before you came. Boeotia was mine!''\nKassandra wounded him to the last of his strength.\n*'''Stentor:''' ''I will kill you, and your filthy bloodline will stop here.''\n*'''Kassandra:''' ''No, Stentor. Not this time.''\nKassandra eventually subdued Stentor and he lay on the ground, defeated. With the fight over and their ''polemarch'' disgraced in front of them, Stentor's men abandoned his command. Kassandra approached him.\n*'''Stentor:''' ''You've proven your point, now finish this. I welcome death if it means I don't have to see you again.''\n\n<tabber>\n|-|(Spare Stentor by walking away)=\nKassandra refused to end her adoptive brother's life and walked away. Disgraced, he left the Spartan army and became a [[mercenary]] known as Stentor the Fallen.\n|-|(Finish Stentor)=\n*'''Kassandra:''' ''Go with the [[Charon|Ferryman]], brother.''\nKassandra found a Letter to Stentor on his body, a [[Cult of Kosmos notes#Peloponnesian League|clue]] to the identity of the [[Pausanias of Sparta|Sage]] of the [[Peloponnesian League (Cult of Kosmos)|Peloponnesian League]].\n</tabber>",
+    "Section_Nikolaos_returned": "Before they could take their first lunges with their spears, Nikolaos walked forward and parted the soldiers, chastising his children.\n*'''Nikolaos:''' ''Killing each other won't heal the wounds of the past.''\n*'''Stentor:''' Pater!\n*'''Nikolaos:''' ''Hello, Stentor.''\n[[File:ACOD The Conqueror 17.png|thumb|250px|Nikolaos interrupting Kassandra and Stentor]]\nThe crowd of Spartan soldiers dispersed and left Nikolaos to speak with his children.\n*'''Stentor:''' ''I thought you were dead.''\n*'''Nikolaos:''' ''Not just yet.''\n*'''Stentor:''' ''She should pay for what she's done!''\n<tabber>\n|-|I did nothing.=\n*'''Kassandra:''' ''How many times do I have to tell you\u2014''\n*'''Nikolaos:''' ''Stentor, she owes me nothing.''\n|-|I've paid plenty.=\n*'''Kassandra:''' ''I've already paid more than you could ever know.''\n*'''Stentor:''' ''I don't give a shit what you've been through.''\n*'''Nikolaos:''' ''Stentor, it's done.''\n</tabber>\n*'''Stentor:''' ''I don't understand.''\n*'''Nikolaos:''' ''You both have a greater role to play. Become the leader I trained you to be - lead the armies of Sparta and be victorious.''\n*'''Stentor:''' ''How?''\n*'''Nikolaos:''' ''You are an honorable man, a loyal son, and a great warrior. You will be a better commander than I ever was. You can do this.''\nStentor grasped his father's arms.\n*'''Stentor:''' ''I will, father. I will make you proud.''\n*'''Nikolaos:''' ''You already have.''\nStentor glanced at Kassandra, and she nodded at him. He took his leave.\n*'''Nikolaos:''' ''That could have ended badly.<br>Kassandra, a shadow grows across Sparta. Be cautious when you return.''\n[[File:ACOD The Conqueror 19.png|thumb|250px|Kassandra informing Nikolaos of her reunion with Myrrine]]\n*'''Kassandra:''' [[Myrrine|Mater]]'' and I will deal with it.''\n*'''Nikolaos:''' ''You found her?''\n*'''Kassandra:''' ''Ruling [[Naxos Island|Naxos]].''\n*'''Stentor:''' ''Sounds like her. May the gods watch over you both.''\nWith Nikolaos' return, Stentor abandoned his quest for vengeance against his adoptive sister. Nikolaos remained with his son and provided guidance as Kassandra took her leave to fulfill her other duties.",
+    "Section_Nikolaos_did_not_return": "The children of Nikolaos fought.\n*'''Kassandra:''' ''You really want me to embarrass you in front of your troops, brother?''\n*'''Stentor:''' ''I am ''not'' your brother.''\n*'''Kassandra:''' ''Stand down, Stentor. I'm not going easy on you.''\n*'''Stentor:''' ''No\u2014because I won't give you the chance.''\nKassandra countered Stentor's attacks and inflicted deep wounds on him.\n*'''Kassandra:''' ''The only reason you're alive is because of me! This is my reward?''\n*'''Stentor:''' ''We were fine before you came. Boeotia was mine!''\nKassandra wounded him to the last of his strength.\n*'''Stentor:''' ''I will kill you, and your filthy bloodline will stop here.''\n*'''Kassandra:''' ''No, Stentor. Not this time.''\nKassandra eventually subdued Stentor and he lay on the ground, defeated. With the fight over and their ''polemarch'' disgraced in front of them, Stentor's men abandoned his command. Kassandra approached him.\n*'''Stentor:''' ''You've proven your point, now finish this. I welcome death if it means I don't have to see you again.''\n\n<tabber>\n|-|(Spare Stentor by walking away)=\nKassandra refused to end her adoptive brother's life and walked away. Disgraced, he left the Spartan army and became a [[mercenary]] known as Stentor the Fallen.\n|-|(Finish Stentor)=\n*'''Kassandra:''' ''Go with the [[Charon|Ferryman]], brother.''\nKassandra found a Letter to Stentor on his body, a [[Cult of Kosmos notes#Peloponnesian League|clue]] to the identity of the [[Pausanias of Sparta|Sage]] of the [[Peloponnesian League (Cult of Kosmos)|Peloponnesian League]].\n</tabber>",
+    "Section_Outcome": "Boeotia was conquered by the Spartans, allowing them to recoup their losses from when Kleon drove them out of [[Attika]]. Kassandra reunited with Stentor and faced the consequences of her actions in Megaris.",
+    "Section_Trivia": "*As Stentor the Fallen, Stentor behaves like an ordinary mercenary; he has his own strengths and weaknesses, generic passing dialogue and loot\u2014although his [[Cult of Kosmos clues|Cultist clue]] can be obtained from him\u2014as well as knocked out and recruited to the crew of the ''[[Adrestia]]'' instead of killed. However, he will inexplicably bare the same scars he has if Nikolaos has been killed, despite not having them during the Boeotia campaign if Nikolaos was spared, and he will not appear in the [[Dinner in Sparta|epilogue]] of the main story.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:Le conqu\u00e9rant]]",
+    "Chapter_SequenceID": "16.",
+    "Chapter_Name": "Paint It Red",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.",
+    "Structured_Dialogue": [
+        {
+            "id": "I1",
+            "global_id": "1",
+            "content": "[[File:ACOD The Conqueror 2.png|thumb|250px|Kassandra finding Stentor in the camp]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N1",
+            "global_id": "2",
+            "content": "Kassandra made her way to the [[Spartan Military Camp]] in Boeotia and walked into the ''[[polemarch]]''<nowiki>'</nowiki>s tent.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''I'm looking for...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "4",
+            "content": "The ''polemarch'' turned to face her and she recognized him as [[Stentor]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "5",
+            "content": "*'''Stentor:''' ''You!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''Stentor?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "7",
+            "content": "Infuriated at the sight of her, Stentor punched her square in the nose. Kassandra staggered back.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' Malakas!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "9",
+            "content": "[[File:ACOD The Conqueror 5.png|thumb|250px|Kassandra and Stentor in a standoff]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "10",
+            "content": "Stentor grabbed his spear and readied to fight the ''[[Mercenary|misthios]]'', but she drew her [[Spear of Leonidas|own]] and warned him off through a bloody nose.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I'm here to help, you idiot!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Stentor:''' ''Not after [[Megaris]]. Not after [[The Wolf of Sparta|what you did]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "13",
+            "content": "She held up the writ from the king.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D7",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''King Archidamos of Sparta sent me to aid you in securing the region.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Stentor:''' ''This is how much he trusts me\u2014he put his faith in a fucking mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "16",
+            "content": "He walked to the cliff overlooking the region of Boeotia, with the city of [[Thebes, Greece|Thebes]] in the distance. Kassandra cleaned up her nose.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "17",
+            "content": "*'''Stentor:''' ''The gods are punishing me with your presence.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''If I was your punishment, you'd already be dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Stentor:''' ''Why have the kings sent you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "21",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "22",
+            "content": "|-|To steal your glory.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D12",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''King Archidamos sent me to conquer the Boeotians, since you clearly can't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "24",
+            "content": "*'''Stentor:''' ''And yet he sent me a single traitorous mercenary.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "25",
+            "content": "|-|I missed my brother.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "26",
+            "content": "*'''Kassandra:''' ''I missed my new brother so much that when Archidamos sent me here, I jumped at the chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Stentor:''' Mal\u00e1ka! ''The [[Nikolaos|Wolf]] would have ended the war if it weren't for you. Your help will bring nothing but misery.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "28",
+            "content": "|-|I've come to help Sparta.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D16",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Stentor, relax, I'm here as an ally to Sparta and to you. We've worked together once\u2014we can do it again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "30",
+            "content": "*'''Stentor:''' ''Your help in Megaris might have secured the region for Sparta, but I lost more than I gained. I shouldn't have trusted you then \u2013 and why now?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "31",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I3",
+            "global_id": "32",
+            "content": "[[File:ACOD The Conqueror 8.png|thumb|250px|Kassandra asking Stentor about the situation in Boetia]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C1",
+            "global_id": "33",
+            "content": "(If players asked \"What's the situation?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D18",
+            "global_id": "34",
+            "content": "*'''Kassandra:''' ''I'm here on business. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "35",
+            "content": "*'''Stentor:''' ''Everything is fine. The Boeotian rebels are a problem, but nothing we can't handle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "36",
+            "content": "(If players asked \"Why are you here?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D20",
+            "global_id": "37",
+            "content": "*'''Kassandra:''' ''What is the Spartan army doing in Boeotia?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "38",
+            "content": "*'''Stentor:''' ''We sieged Athens, but [[Kleon]] took power and pushed us out. Taking Boeotia will weaken his position.<br>The Wolf was gone\u2014I was needed. I couldn't abandon my men.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "39",
+            "content": "(If players chose \"You should be glad I'm here.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "40",
+            "content": "*'''Kassandra:''' ''You should thank the gods that I've come to help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "41",
+            "content": "*'''Stentor:''' ''The only reason you're still alive is that writ you carry. You're not an ally, just a weapon.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Then put me to work.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Stentor:''' ''You're not up to the challenge.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Try me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Stentor:''' ''There are four Boeotian [[Champions of Boeotia|champions]] fighting for the Athenians: [[Aristaios]], [[Deianeira]], [[Nesaia]], and [[Drakon]].<br>Think you can kill them? I'd like to see you try.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''I told you we could work this out.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "47",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC4",
+            "global_id": "48",
+            "content": "|-|I'll kill the champions for Sparta.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D29",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Alright then, I'll find these champions and put an end to them.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "50",
+            "content": "*'''Stentor:''' ''I doubt it will be as easy as you think, but I'm relieved to see you can follow orders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "51",
+            "content": "|-|Killing the champions won't help.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Why am I killing champions? I came to win a battle.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "53",
+            "content": "*'''Stentor:''' ''Either you complete this mission, or you die in the process. I will be satisfied either way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I4",
+            "global_id": "55",
+            "content": "[[File:ACOD The Conqueror 9.png|thumb|250px|Kassandra agreeing to help Stentor]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "C4",
+            "global_id": "56",
+            "content": "(If players asked \"Where will I find the champions?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D33",
+            "global_id": "57",
+            "content": "*'''Kassandra:''' ''Where will I find these mighty Boeotians?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "58",
+            "content": "*'''Stentor:''' ''I only know of two\u2014there are reports of Aristaios occupying the [[Military Fort of Gla]]. Nesaia was last seen in the forest east of Thebes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C5",
+            "global_id": "59",
+            "content": "(If players asked \"Why are they helping Athens?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D35",
+            "global_id": "60",
+            "content": "*'''Kassandra:''' ''I thought the Boeotians hated everyone. Why are they working with Athens?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "61",
+            "content": "*'''Stentor:''' ''They see both Sparta and Athens as enemies\u2014but Athens got here first, and they agreed to a temporary alliance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C6",
+            "global_id": "62",
+            "content": "(If players asked \"What makes them so mighty?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D37",
+            "global_id": "63",
+            "content": "*'''Kassandra:''' ''What's so great about these champions? They're just four people against the Spartan military.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "64",
+            "content": "*'''Stentor:''' ''Sparta has its army, and Boeotia has its legends. They're a symbol of what this place used to be.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "65",
+            "content": "(Leave \u2013 \"I have what I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''The sooner I get this done, the sooner we take Boeotia for Sparta.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "67",
+            "content": "Stentor walked off without another word. Kassandra made her way around Boeotia hunting and killing the champions. When the fourth had fallen, she reunited with Stentor at the Spartans' forward camp in the [[Scorched Rolling Plains]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D40",
+            "global_id": "68",
+            "content": "*'''Stentor:''' ''You're back.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D41",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''The champions have been dealt with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "70",
+            "content": "*'''Stentor:''' ''You should be dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D43",
+            "global_id": "71",
+            "content": "*'''Kassandra:''' ''You seem disappointed.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "72",
+            "content": "*'''Stentor:''' ''The gods are punishing me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "73",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "74",
+            "content": "|-|No, the gods are helping you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D45",
+            "global_id": "75",
+            "content": "*'''Kassandra:''' ''They're not punishing you - they're helping you. Why do you think I'm here?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "76",
+            "content": "*'''Stentor:''' ''The gods must hate me if our paths keep crossing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "77",
+            "content": "*'''Kassandra:''' ''From what I've seen, you needed a divine intervention.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC7",
+            "global_id": "78",
+            "content": "|-|There's nothing godly about this.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D48",
+            "global_id": "79",
+            "content": "*'''Kassandra:''' ''I'm a mercenary - killing is what I do. There's nothing godly about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D49",
+            "global_id": "80",
+            "content": "*'''Stentor:''' ''Modest, but mortal... and [[Hades]] will have you, too.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D50",
+            "global_id": "81",
+            "content": "*'''Kassandra:''' ''We'll cross that [[Styx|river]] when we get to it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "82",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D51",
+            "global_id": "83",
+            "content": "*'''Stentor:''' ''I don't have time for this. Sparta must take the region now, while we have the chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "84",
+            "content": "(Accept \u2013 \"Let's go to war.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D52",
+            "global_id": "85",
+            "content": "*'''Kassandra:''' ''Let's get this over with.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "86",
+            "content": "*'''Stentor:''' ''I couldn't agree more. The sooner I'm rid of you, the better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N8",
+            "global_id": "87",
+            "content": "Kassandra brushed off his venom and turned out of the tent to ready for battle.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "I5",
+            "global_id": "88",
+            "content": "[[File:ACOD Battle of Boeotia.png|thumb|250px|The Battle of Boeotia]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N9",
+            "global_id": "89",
+            "content": "With the sun high in the sky, the Conquest Battle for Boeotia began. Kassandra made her way around the [[Battleground of Boeotia|battleground]] slaying captains and hired mercenary help. Before the day was over, the Athenian ranks had broken, and Sparta had claimed control of the region. Stentor basked in his victory.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D54",
+            "global_id": "90",
+            "content": "*'''Stentor:''' ''Victory is ours!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "91",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "92",
+            "content": "|-|Thanks to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "93",
+            "content": "*'''Kassandra:''' ''The victory is yours. You led us well today.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "94",
+            "content": "*'''Stentor:''' ''My father taught me everything I know about commanding an army. Too bad you took him from me - or I might have learned more.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "95",
+            "content": "*'''Kassandra:''' ''Stop...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "96",
+            "content": "|-|You're lucky I was here.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D58",
+            "global_id": "97",
+            "content": "*'''Kassandra:''' ''If I hadn't been here, you'd never have survived.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "98",
+            "content": "*'''Stentor:''' ''My father would have ensured a more decisive victory, but he's not here. We have you to thank for that, if I recall.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "99",
+            "content": "Kassandra rolled her eyes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D60",
+            "global_id": "100",
+            "content": "*'''Kassandra:''' ''Don't start...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "101",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D61",
+            "global_id": "102",
+            "content": "*'''Stentor:''' ''Don't you dare tell me what to do. I am in command here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D62",
+            "global_id": "103",
+            "content": "*'''Kassandra:''' ''You needed my help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "104",
+            "content": "*'''Stentor:''' ''By the gods, how are you so arrogant? No wonder my father discarded you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS5",
+            "global_id": "105",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "106",
+            "content": "|-|Nikolaos alive=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D64",
+            "global_id": "107",
+            "content": "*'''Kassandra:''' ''You know nothing about my family.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D65",
+            "global_id": "108",
+            "content": "*'''Stentor:''' ''I know he threw you off a [[Mount Taygetos|cliff]] and chose me instead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "109",
+            "content": "*'''Kassandra:''' ''Now who's being arrogant? You were an afterthought\u2014you were second place.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC11",
+            "global_id": "110",
+            "content": "|-|Nikolaos dead=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D67",
+            "global_id": "111",
+            "content": "*'''Kassandra:''' ''And yet I'm here, and he isn't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "112",
+            "content": "*'''Stentor:''' ''You fucking murderer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D69",
+            "global_id": "113",
+            "content": "*'''Kassandra:''' ''Believe me, he had it coming.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "114",
+            "content": "*'''Stentor:''' ''You will pay for what you've done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D71",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''I've already paid more than enough for one lifetime.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE5",
+            "global_id": "116",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D72",
+            "global_id": "117",
+            "content": "*'''Stentor:''' ''We'll see about that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N11",
+            "global_id": "118",
+            "content": "Stentor repositioned himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D73",
+            "global_id": "119",
+            "content": "*'''Kassandra:''' ''What do you mean?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "120",
+            "content": "*'''Stentor:''' ''Now that we've driven the Athenians from the field, it's time I dealt with my true enemy.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I6",
+            "global_id": "121",
+            "content": "[[File:ACOD The Conqueror 13.png|thumb|250px|Stentor challenging Kassandra]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N12",
+            "global_id": "122",
+            "content": "He drew his spear.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D75",
+            "global_id": "123",
+            "content": "*'''Kassandra:''' ''Stentor you...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "124",
+            "content": "*'''Stentor:''' ''Your job is done, mercenary. Now I will kill you for what you stole from me in Megaris.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C7",
+            "global_id": "125",
+            "content": "(If players asked \"Why do you want to fight?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D77",
+            "global_id": "126",
+            "content": "*'''Kassandra:''' ''Why are you doing this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D78",
+            "global_id": "127",
+            "content": "*'''Stentor:''' ''Because\u2014Because you marched into Megaris. Ruined the fucking war. And murdered\u2014my\u2014father.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D79",
+            "global_id": "128",
+            "content": "*'''Kassandra:''' ''I did what I had to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D80",
+            "global_id": "129",
+            "content": "*'''Stentor:''' ''And so will I.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C8",
+            "global_id": "130",
+            "content": "(If players asked \"What do you gain from this?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D81",
+            "global_id": "131",
+            "content": "*'''Kassandra:''' ''What could you possibly gain from killing me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D82",
+            "global_id": "132",
+            "content": "*'''Stentor:''' ''Justice, vengeance, peace. One would be enough, but all three is better.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D83",
+            "global_id": "133",
+            "content": "*'''Kassandra:''' ''You think vengeance will dull your pain? Trust me, it won't.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D84",
+            "global_id": "134",
+            "content": "*'''Stentor:''' ''Here's the thing. I don't trust you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O3",
+            "global_id": "135",
+            "content": "(Leave \u2013 \"Neither of us has to die.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D85",
+            "global_id": "136",
+            "content": "*'''Kassandra:''' ''You don't have to do this, Stentor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D86",
+            "global_id": "137",
+            "content": "*'''Stentor:''' ''Oh, but I do. There is nothing you can say to convince me otherwise.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D87",
+            "global_id": "138",
+            "content": "*'''Kassandra:''' ''This isn't what Nikolaos would've wanted.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D88",
+            "global_id": "139",
+            "content": "*'''Stentor:''' ''How would you fucking know? Traitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "140",
+            "content": "Kassandra drew her [[Spear of Leonidas|spear]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D89",
+            "global_id": "141",
+            "content": "*'''Kassandra:''' ''I am not a traitor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D90",
+            "global_id": "142",
+            "content": "*'''Stentor:''' ''You betrayed Sparta. You betrayed your family\u2014<br>You killed my father and stole my chance at a normal life. You deserve nothing but the cold of my blade buried in your heart.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I7",
+            "global_id": "143",
+            "content": "[[File:ACOD The Conqueror 15.png|thumb|250px|Kassandra and Stentor at a stand-still]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N14",
+            "global_id": "144",
+            "content": "Nothing Kassandra said could sway her adoptive brother. They circled each other as Stentor's men looked on, ready to duel to the death.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "145",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC12",
+            "global_id": "146",
+            "content": "===Nikolaos returned===",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N15",
+            "global_id": "147",
+            "content": "Before they could take their first lunges with their spears, Nikolaos walked forward and parted the soldiers, chastising his children.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D91",
+            "global_id": "148",
+            "content": "*'''Nikolaos:''' ''Killing each other won't heal the wounds of the past.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D92",
+            "global_id": "149",
+            "content": "*'''Stentor:''' Pater!",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D93",
+            "global_id": "150",
+            "content": "*'''Nikolaos:''' ''Hello, Stentor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I8",
+            "global_id": "151",
+            "content": "[[File:ACOD The Conqueror 17.png|thumb|250px|Nikolaos interrupting Kassandra and Stentor]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N16",
+            "global_id": "152",
+            "content": "The crowd of Spartan soldiers dispersed and left Nikolaos to speak with his children.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D94",
+            "global_id": "153",
+            "content": "*'''Stentor:''' ''I thought you were dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D95",
+            "global_id": "154",
+            "content": "*'''Nikolaos:''' ''Not just yet.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D96",
+            "global_id": "155",
+            "content": "*'''Stentor:''' ''She should pay for what she's done!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS6",
+            "global_id": "156",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC13",
+            "global_id": "157",
+            "content": "|-|I did nothing.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D97",
+            "global_id": "158",
+            "content": "*'''Kassandra:''' ''How many times do I have to tell you\u2014''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D98",
+            "global_id": "159",
+            "content": "*'''Nikolaos:''' ''Stentor, she owes me nothing.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC14",
+            "global_id": "160",
+            "content": "|-|I've paid plenty.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D99",
+            "global_id": "161",
+            "content": "*'''Kassandra:''' ''I've already paid more than you could ever know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D100",
+            "global_id": "162",
+            "content": "*'''Stentor:''' ''I don't give a shit what you've been through.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D101",
+            "global_id": "163",
+            "content": "*'''Nikolaos:''' ''Stentor, it's done.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE6",
+            "global_id": "164",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D102",
+            "global_id": "165",
+            "content": "*'''Stentor:''' ''I don't understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D103",
+            "global_id": "166",
+            "content": "*'''Nikolaos:''' ''You both have a greater role to play. Become the leader I trained you to be - lead the armies of Sparta and be victorious.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D104",
+            "global_id": "167",
+            "content": "*'''Stentor:''' ''How?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D105",
+            "global_id": "168",
+            "content": "*'''Nikolaos:''' ''You are an honorable man, a loyal son, and a great warrior. You will be a better commander than I ever was. You can do this.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N17",
+            "global_id": "169",
+            "content": "Stentor grasped his father's arms.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D106",
+            "global_id": "170",
+            "content": "*'''Stentor:''' ''I will, father. I will make you proud.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D107",
+            "global_id": "171",
+            "content": "*'''Nikolaos:''' ''You already have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N18",
+            "global_id": "172",
+            "content": "Stentor glanced at Kassandra, and she nodded at him. He took his leave.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D108",
+            "global_id": "173",
+            "content": "*'''Nikolaos:''' ''That could have ended badly.<br>Kassandra, a shadow grows across Sparta. Be cautious when you return.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I9",
+            "global_id": "174",
+            "content": "[[File:ACOD The Conqueror 19.png|thumb|250px|Kassandra informing Nikolaos of her reunion with Myrrine]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "D109",
+            "global_id": "175",
+            "content": "*'''Kassandra:''' [[Myrrine|Mater]]'' and I will deal with it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D110",
+            "global_id": "176",
+            "content": "*'''Nikolaos:''' ''You found her?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D111",
+            "global_id": "177",
+            "content": "*'''Kassandra:''' ''Ruling [[Naxos Island|Naxos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D112",
+            "global_id": "178",
+            "content": "*'''Stentor:''' ''Sounds like her. May the gods watch over you both.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N19",
+            "global_id": "179",
+            "content": "With Nikolaos' return, Stentor abandoned his quest for vengeance against his adoptive sister. Nikolaos remained with his son and provided guidance as Kassandra took her leave to fulfill her other duties.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "180",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "PC15",
+            "global_id": "181",
+            "content": "===Nikolaos did not return===",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N20",
+            "global_id": "182",
+            "content": "The children of Nikolaos fought.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D113",
+            "global_id": "183",
+            "content": "*'''Kassandra:''' ''You really want me to embarrass you in front of your troops, brother?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D114",
+            "global_id": "184",
+            "content": "*'''Stentor:''' ''I am ''not'' your brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D115",
+            "global_id": "185",
+            "content": "*'''Kassandra:''' ''Stand down, Stentor. I'm not going easy on you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D116",
+            "global_id": "186",
+            "content": "*'''Stentor:''' ''No\u2014because I won't give you the chance.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N21",
+            "global_id": "187",
+            "content": "Kassandra countered Stentor's attacks and inflicted deep wounds on him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D117",
+            "global_id": "188",
+            "content": "*'''Kassandra:''' ''The only reason you're alive is because of me! This is my reward?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D118",
+            "global_id": "189",
+            "content": "*'''Stentor:''' ''We were fine before you came. Boeotia was mine!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N22",
+            "global_id": "190",
+            "content": "Kassandra wounded him to the last of his strength.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D119",
+            "global_id": "191",
+            "content": "*'''Stentor:''' ''I will kill you, and your filthy bloodline will stop here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D120",
+            "global_id": "192",
+            "content": "*'''Kassandra:''' ''No, Stentor. Not this time.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N23",
+            "global_id": "193",
+            "content": "Kassandra eventually subdued Stentor and he lay on the ground, defeated. With the fight over and their ''polemarch'' disgraced in front of them, Stentor's men abandoned his command. Kassandra approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D121",
+            "global_id": "194",
+            "content": "*'''Stentor:''' ''You've proven your point, now finish this. I welcome death if it means I don't have to see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "195",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS7",
+            "global_id": "196",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC16",
+            "global_id": "197",
+            "content": "|-|(Spare Stentor by walking away)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N24",
+            "global_id": "198",
+            "content": "Kassandra refused to end her adoptive brother's life and walked away. Disgraced, he left the Spartan army and became a [[mercenary]] known as Stentor the Fallen.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "PC17",
+            "global_id": "199",
+            "content": "|-|(Finish Stentor)=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D122",
+            "global_id": "200",
+            "content": "*'''Kassandra:''' ''Go with the [[Charon|Ferryman]], brother.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N25",
+            "global_id": "201",
+            "content": "Kassandra found a Letter to Stentor on his body, a [[Cult of Kosmos notes#Peloponnesian League|clue]] to the identity of the [[Pausanias of Sparta|Sage]] of the [[Peloponnesian League (Cult of Kosmos)|Peloponnesian League]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "TE7",
+            "global_id": "202",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

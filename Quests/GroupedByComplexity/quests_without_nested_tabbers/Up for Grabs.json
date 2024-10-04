@@ -1,0 +1,174 @@
+{
+    "Quest_Name": "Up for Grabs",
+    "Quest_ID": "248805",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'A Treasure chest|chest of gold and silver sank. On learning that it might still survive and that Piracy|pirates were searching for it, a man asked for help finding it.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Naval side quest",
+        "source": "Kassandra",
+        "date": "430s-420s BCE"
+    },
+    "General_Description": "'''Up for Grabs''' was a virtual representation of one of [[Kassandra]]'s [[Genetic memory|genetic memories]], relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "A [[civilian]] had a task for Kassandra.",
+    "Section_Dialogue": "Kassandra noticed a job posted on a [[message board]].\n\n:'''Note:'''<br />''I offer great riches to anyone willing to help me recover them! Come see me.''\n\nShe sought out the civilian and addressed him.\n\n*'''Kassandra:''' ''I saw the note you posted. What's the matter?''\n*'''Civilian:''' ''There's a [[merchant]] [[ship]] near the port with a crate of [[gold]] and [[silver]] ingots, ''[[Mercenary|misthios]]''.''\n*'''Kassandra:''' ''You sound like you're plotting something.''\n*'''Civilian:''' ''Someone got there before me. Cursed [[Piracy|pirates]] tried to take the boat. The [[Treasure chest|chest]] must be on the ocean floor by now. The pirates still circling it.''\n*'''Kassandra:''' ''Sounds like I need to sink some pirate ships.''\n*'''Civilian:''' ''Then you understand.''\n\n(Accept \u2013 \"I'll destroy them.\")\n\n*'''Kassandra:''' ''I'm the one for the job.''\n*'''Civilian:''' ''I'm sure this will be worth your while.''\n*'''Kassandra:''' ''May the [[Fates]] be on your side.''\n\nKassandra left the man and set sail. She sought out and sank multiple pirate ships before returning to the man.\n\n*'''Civilian:''' ''Back already. Did you destroy them all?''\n*'''Kassandra:''' ''It would be hard to piece them back together.''\n*'''Civilian:''' ''You do fine work, mercenary. Take this as thanks.''",
+    "Section_Outcome": "Kassandra sank pirate ships, and in return was rewarded.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Naval side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra noticed a job posted on a [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "2",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": ":'''Note:'''<br />''I offer great riches to anyone willing to help me recover them! Come see me.''",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U2",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N3",
+            "global_id": "5",
+            "content": "She sought out the civilian and addressed him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U3",
+            "global_id": "6",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D1",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''I saw the note you posted. What's the matter?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "8",
+            "content": "*'''Civilian:''' ''There's a [[merchant]] [[ship]] near the port with a crate of [[gold]] and [[silver]] ingots, ''[[Mercenary|misthios]]''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''You sound like you're plotting something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "10",
+            "content": "*'''Civilian:''' ''Someone got there before me. Cursed [[Piracy|pirates]] tried to take the boat. The [[Treasure chest|chest]] must be on the ocean floor by now. The pirates still circling it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''Sounds like I need to sink some pirate ships.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Civilian:''' ''Then you understand.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "13",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O1",
+            "global_id": "14",
+            "content": "(Accept \u2013 \"I'll destroy them.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "U5",
+            "global_id": "15",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'm the one for the job.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Civilian:''' ''I'm sure this will be worth your while.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''May the [[Fates]] be on your side.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U6",
+            "global_id": "19",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N4",
+            "global_id": "20",
+            "content": "Kassandra left the man and set sail. She sought out and sank multiple pirate ships before returning to the man.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U7",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D10",
+            "global_id": "22",
+            "content": "*'''Civilian:''' ''Back already. Did you destroy them all?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''It would be hard to piece them back together.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "24",
+            "content": "*'''Civilian:''' ''You do fine work, mercenary. Take this as thanks.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Quest_Name": "The End of Drakon",
+    "Quest_ID": "224306",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_C": {
+            "description": "Support Quest"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "Boeotia-DrakonTrainingSiterelax.jpg",
+        "description": "'The Boeotian people used to say that Drakon was the descendant of Herakles. He would be a challenge worthy of a true mercenary.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main",
+        "previous": "The Conqueror<br>The Stolen Steed {{C|Support Quest}}<br>Brewing Love {{C|Support Quest}}",
+        "next": "The Fall of Deianeira",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "427 BCE\u2013426 BCE"
+    },
+    "General_Description": "'''The End of Drakon''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "As charged by [[Stentor]], Kassandra sought out the famous [[Boeotia]]n [[Champions of Boeotia|champion]], [[Drakon]].",
+    "Section_Dialogue": "Kassandra sought out to find the champion's [[Drakon's Training Site|training ground]]. She rode past [[Mykalessos]] and onto a fork on the road near the coast\u2014the right going to a [[Site of Iphigenia's Sacrifice|sacrificial altar]]. Turning left is a tent and a wooden bridge behind it, and as she crosses it, Kassandra discovered an open area with tiered seating and spotted Drakon training in front of the crowd around him as some of them cheers on.\n*'''Kassandra:''' ''There he is!''\nDrakon walked back to lay down and rest on a lion skin rug, then Kassandra dispatched him.",
+    "Section_Outcome": "Kassandra eliminated one of the four Boeotian champions.",
+    "Section_Trivia": "*Alternatively, Drakon can be knocked out and recruited.\n**If the quest [[Brewing Love]] was completed prior to this, Drakon would be shown in the lieutenant menu as wearing an armor despite not wearing one when used.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]\n[[fr:La fin de Drakon]]",
+    "Chapter_SequenceID": "16.",
+    "Chapter_Name": "Paint It Red",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "2.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra sought out to find the champion's [[Drakon's Training Site|training ground]]. She rode past [[Mykalessos]] and onto a fork on the road near the coast\u2014the right going to a [[Site of Iphigenia's Sacrifice|sacrificial altar]]. Turning left is a tent and a wooden bridge behind it, and as she crosses it, Kassandra discovered an open area with tiered seating and spotted Drakon training in front of the crowd around him as some of them cheers on.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' ''There he is!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Drakon walked back to lay down and rest on a lion skin rug, then Kassandra dispatched him.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

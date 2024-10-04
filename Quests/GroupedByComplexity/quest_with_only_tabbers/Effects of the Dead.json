@@ -1,0 +1,214 @@
+{
+    "Quest_Name": "Effects of the Dead",
+    "Quest_ID": "236757",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Effects of the Dead",
+        "description": "'An athlete, a cousin of Brasidas of Sparta although her name has been forgotten, asked a guilt-ridden Kassandra to help her in claiming Brasidas' effects from a Spartan Commander.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "We Will Rise",
+        "source": "Kassandra",
+        "location": "Makedonia",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Effects of the Dead''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following the [[Battle of Amphipolis]] and [[Brasidas]]' death, his cousin reached out to Kassandra.",
+    "Section_Dialogue": "While in [[Makedonia]], Kassandra noticed a note directed at her on the [[message board]].\n*'''Note:'''<br>''The ''[[Mercenary|misthios]]'' who worked with Brasidas - I need your help. Others need not apply.''\nIntrigued, Kassandra sought out the athlete and adressed her.\n*'''Kassandra:''' ''I'm here about the job you posted. What's going on?''\n*'''Woman:''' ''You! Eagle Bearer, you were a great friend of General Brasidas of Sparta, were you not?''\n<tabber>\n|-|We knew each other, but weren't close.=\n*'''Kassandra:''' ''I knew Brasidas, but we did not see eye to eye on a lot of things.''\n*'''Woman:''' ''Oh... That is your loss. Brasidas was my cousin, and he was the most wonderful man. You would have been lucky to call him your friend.''\n(Quest failed.)\n|-|Brasidas and I had our adventures.=\n*'''Kassandra:''' ''Brasidas and I worked together a few times.''\n*'''Woman:''' ''I knew it! Brasidas was my cousin and the most wonderful man I ever knew!''\n|-|Lie - We were great friends.=\n*'''Kassandra:''' ''Brasidas and I were very close, yes.'' \n*'''Woman:''' ''I knew it! He only ever said wonderful things about you. He was my cousin, you know.''\n</tabber>\n*'''Kassandra:''' ''Is that so...''\n*'''Woman:''' ''I'd like to return his effects to his family, but a Spartan commander is holding onto them... tightly. As his best friend, you must know how important it is for his family to receive closure.''\n*'''Kassandra:''' ''And you're asking me to get it for you?''\n*'''Woman:''' ''Yes, I need it back at all costs.''\n(Accept - I'll bring it to you.)\n*'''Kassandra:''' ''You can count on me.''\n*'''Woman:''' ''Good, get this done quickly.''\n*'''Kassandra:''' Chaire.\nKassandra sought out the bag of Brasidas' effects in a nearby fort, and then returned to the athlete.\n*'''Woman:''' ''Tell me it's been handled,'' misthios.\n*'''Kassandra:''' ''It's all yours.''\n*'''Woman:''' ''Job well done, mercenary. Here, this is yours.''\n*'''Kassandra:''' ''Happy to help.''",
+    "Section_Outcome": "Kassandra helped the athlete recover Brasidas' effects, and was rewarded for this.",
+    "Section_Trivia": "*This impact quest is triggered by completing the [[We Will Rise]]. Specifics are unknown.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "While in [[Makedonia]], Kassandra noticed a note directed at her on the [[message board]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Note:'''<br>''The ''[[Mercenary|misthios]]'' who worked with Brasidas - I need your help. Others need not apply.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Intrigued, Kassandra sought out the athlete and adressed her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''I'm here about the job you posted. What's going on?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Woman:''' ''You! Eagle Bearer, you were a great friend of General Brasidas of Sparta, were you not?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|We knew each other, but weren't close.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''I knew Brasidas, but we did not see eye to eye on a lot of things.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Woman:''' ''Oh... That is your loss. Brasidas was my cousin, and he was the most wonderful man. You would have been lucky to call him your friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "10",
+            "content": "(Quest failed.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "PC2",
+            "global_id": "11",
+            "content": "|-|Brasidas and I had our adventures.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Brasidas and I worked together a few times.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Woman:''' ''I knew it! Brasidas was my cousin and the most wonderful man I ever knew!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC3",
+            "global_id": "14",
+            "content": "|-|Lie - We were great friends.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D8",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Brasidas and I were very close, yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "16",
+            "content": "*'''Woman:''' ''I knew it! He only ever said wonderful things about you. He was my cousin, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "17",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''Is that so...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Woman:''' ''I'd like to return his effects to his family, but a Spartan commander is holding onto them... tightly. As his best friend, you must know how important it is for his family to receive closure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''And you're asking me to get it for you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "21",
+            "content": "*'''Woman:''' ''Yes, I need it back at all costs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "22",
+            "content": "(Accept - I'll bring it to you.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''You can count on me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Woman:''' ''Good, get this done quickly.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' Chaire.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "26",
+            "content": "Kassandra sought out the bag of Brasidas' effects in a nearby fort, and then returned to the athlete.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D17",
+            "global_id": "27",
+            "content": "*'''Woman:''' ''Tell me it's been handled,'' misthios.",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''It's all yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Woman:''' ''Job well done, mercenary. Here, this is yours.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Happy to help.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}

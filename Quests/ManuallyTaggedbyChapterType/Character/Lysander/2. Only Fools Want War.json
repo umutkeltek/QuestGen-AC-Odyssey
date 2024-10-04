@@ -1,0 +1,42 @@
+{
+    "QuestName": "Only Fools Want War",
+    "QuestID": "224056",
+    "Revision": {
+        "id": "1047463",
+        "parentid": "821007",
+        "timestamp": "2023-06-13T19:09:56Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047463",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "isdscsv1fc07fjdndr9qervjsljyoeu"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Considered ruthless, the much-feared General Lysander was not numb to the horror of war. His desire was to bring it to a quick end while ensuring that he would reap the benefits of victory.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Ambition",
+        "next": "Rise Through the Ranks",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Only Fools Want War''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra was tasked by [[Lysander]] to recover 3 more seals from [[Athens|Athenian]] ''[[polemarch]]oi''.",
+    "Section_Dialogue": "*'''Lysander:''' ''Time to strike again. Athenian command will be slow to retaliate. Ready to kill more of their fort commanders?''\n(Accept \u2013 )\n*'''Kassandra:''' ''I'll kill the commanders and clear the way for your troops.''\nLysander changed his tone.\n*'''Lysander:''' ''Only fools want war. And so far it seems both sides are made of fools.''\n*'''Kassandra:''' ''Good news, General?''\n*'''Lysander:''' ''Athenian commanders have been dismissed for negligence because of my tactics!''\n*'''Kassandra:''' ''Better unemployed than dead.''\n*'''Lysander:''' ''You're proving a solid ally. There's no time to lose. We need to control the enemy forts..''\n*'''Kassandra:''' ''Let me ask you something first...''\n*'''Lysander:''' ''Waste of time!''\n(If players asked \"What do you think of Spartan generals?\")\n*'''Kassandra:''' ''You don't think much of Spartan leadership.''\n*'''Lysander:''' ''When I rise, they'll bow.''\n(Leave \u2013 )\n*'''Kassandra:''' ''Chaire.''\n*'''Lysander:''' ''Why are you still here? Go kill the enemy command!''\n*'''Kassandra:''' ''Consider it done.''\n\nKassandra returned to the general after finishing her task.\n*'''Kassandra:''' ''The fort commanders are dead. Here are the seals as proof.''\nLysander spread his arms and proudly said:\n*'''Lysander:''' ''Excellent. Our ineffectual leaders will see my value.''\n*'''Kassandra:''' ''I'm sure they will.''\nLysander leans a bit closer.\n*'''Lysander:''' ''My spies tell me Athenians have gained ground. Infiltrate the forts and attack their command. Understand?''\n(Accept \u2013 \"I'll attack the commanders.\")\n*'''Kassandra:''' ''Yes. I'll do as you ask and attack the commanders.''\n*'''Kassandra:''' ''They must be faltering by now.''\n*'''Lysander:''' ''Athenians fail because they fear risk.''\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander collect 3 more ''polemarch'' seals. In return, she obtained Lysander's own personal [[Lysander's Boots|boots]] and another task to retrieve 3 more seals.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

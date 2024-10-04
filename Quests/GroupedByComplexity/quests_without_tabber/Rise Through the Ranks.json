@@ -1,0 +1,211 @@
+{
+    "Quest_Name": "Rise Through the Ranks",
+    "Quest_ID": "224622",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "name": "Rise Through the Ranks",
+        "description": "'While many Leaders were positioned for greatness by lineage, Lysander was not born into luxury. Helot|Humble origins stoked his fire, and also his bitterness.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "previous": "Only Fools Want War",
+        "next": "The Cost of War",
+        "source": "Kassandra",
+        "location": "Sparta, Lakonia, Greece",
+        "date": "429 BCE"
+    },
+    "General_Description": "'''Rise Through the Ranks''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra spoke to [[Lysander]] about recovering more [[Athens|Athenian]] ''[[polemarch]]'' seals.",
+    "Section_Dialogue": "*'''Kassandra:''' ''You seem pleased, General.''\n*'''Lysander:''' ''Supply lines cut. Troops tremble. And I rise through the ranks!''\n*'''Kassandra:''' ''Congratulations.''\n(If players asked \"What is your strategy to win?\")\n*'''Kassandra:''' ''Your strategy has served you well so far. What will it take to win?''\nLysander was somewhat incensed by her question.\n*'''Lysander:''' ''I'm not idle while you kill commanders. I've had enemy forts surveyed and know all of their supply runs.''\nKassandra realized her role in his plans.\n*'''Kassandra:''' ''So I've been a diversion.''\n*'''Lysander:''' ''Soon I'll know their sea routes.''\n(If players asked \"How far will you rise through the ranks?\")\n*'''Kassandra:''' ''You've made it further than most leaders.''\nLysander haughtily pointed at himself.\n*'''Lysander:''' ''Others boast of royal blood. I'm a descendant of [[Herakles]]. That gives me more legitimate claim to lead even [[Archidamos]].''\n(Leave \u2013 \"No more questions.\")\n*'''Kassandra:''' ''That's all for now.''\n*'''Lysander:''' ''If you're done wasting time... Go and strike the fort commanders down.''\nKassandra replied loathingly.\n*'''Kassandra:''' ''As you command, General.''\u200b\u200b\u200b\u200b\u200b\u200b\n\nIn time, Kassandra returned with the seals.\n*'''Kassandra:''' ''The task is done. Here are the seals as proof.''\nLysander turned merry.\n*'''Lysander:''' ''I'll be commander soon. And then I'll be crowned by the gods.''\n*'''Kassandra:''' ''The Athenians seem unsure how to react.''\nLysander spoke disparagingly.\n*'''Lysander:''' ''Unlike Spartans, Athenians answer to the whims of ignorant peasants. It makes them slow to react. Spartans do what needs to be done. Such as eliminating enemy commanders.''\n\n(Dialogue continues to start the next quest.)",
+    "Section_Outcome": "Kassandra helped Lysander recover three more ''polemarch'' seals.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Lysander",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "D1",
+            "global_id": "1",
+            "content": "*'''Kassandra:''' ''You seem pleased, General.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "2",
+            "content": "*'''Lysander:''' ''Supply lines cut. Troops tremble. And I rise through the ranks!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''Congratulations.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "4",
+            "content": "(If players asked \"What is your strategy to win?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Your strategy has served you well so far. What will it take to win?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N1",
+            "global_id": "6",
+            "content": "Lysander was somewhat incensed by her question.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D5",
+            "global_id": "7",
+            "content": "*'''Lysander:''' ''I'm not idle while you kill commanders. I've had enemy forts surveyed and know all of their supply runs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "8",
+            "content": "Kassandra realized her role in his plans.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''So I've been a diversion.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "10",
+            "content": "*'''Lysander:''' ''Soon I'll know their sea routes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "11",
+            "content": "(If players asked \"How far will you rise through the ranks?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D8",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''You've made it further than most leaders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "13",
+            "content": "Lysander haughtily pointed at himself.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Lysander:''' ''Others boast of royal blood. I'm a descendant of [[Herakles]]. That gives me more legitimate claim to lead even [[Archidamos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "15",
+            "content": "(Leave \u2013 \"No more questions.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''That's all for now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Lysander:''' ''If you're done wasting time... Go and strike the fort commanders down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "18",
+            "content": "Kassandra replied loathingly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''As you command, General.''\u200b\u200b\u200b\u200b\u200b\u200b",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "20",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N5",
+            "global_id": "21",
+            "content": "In time, Kassandra returned with the seals.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''The task is done. Here are the seals as proof.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "23",
+            "content": "Lysander turned merry.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Lysander:''' ''I'll be commander soon. And then I'll be crowned by the gods.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''The Athenians seem unsure how to react.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "26",
+            "content": "Lysander spoke disparagingly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Lysander:''' ''Unlike Spartans, Athenians answer to the whims of ignorant peasants. It makes them slow to react. Spartans do what needs to be done. Such as eliminating enemy commanders.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "28",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "O2",
+            "global_id": "29",
+            "content": "(Dialogue continues to start the next quest.)",
+            "segment_type": "OptionalChoice"
+        }
+    ]
+}

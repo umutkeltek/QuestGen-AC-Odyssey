@@ -1,0 +1,156 @@
+{
+    "Quest_Name": "Sent by Brasidas",
+    "Quest_ID": "231303",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        },
+        "Tag_Stub": {
+            "description": ""
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'A Spartan, delighted by the arrival of a 'Mercenary|misthios', soon shared his desire to clear the nearby camp of Athens|Athenians.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "Monger Down",
+        "source": "Kassandra",
+        "location": "Greece",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Sent by Brasidas''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "In the wilderness, Kassandra came upon Spartan soldiers and greeted them.\n*'''Kassandra:''' Chaire'', soldier. How can I serve Sparta today?'' \n*'''Man:''' ''An [[eagle]]-bearing'' [[Mercenary|misthios]]''. [[Brasidas]] must have sent you.''\n<tabber>\n|-|I think you might be wrong.=\n*'''Kassandra:''' ''I've met a Spartan named Brasidas, but he never mentioned anything about sending me anywhere.''\n*'''Man:''' ''Oh, no need to be secretive. I know it's generally frowned upon to hire mercenaries for the Spartan army... but we're glad to have you.''\n|-|Nobody send me anywhere.=\n*'''Kassandra:''' ''I'm a mercenary, not a servant. Brasidas didn't send me anywhere.''\n*'''Man:''' ''So fierce! So proud! And boy does Brasidas like his mercenaries interesting! You've got quite the attitude on you.''\n</tabber>\n*'''Kassandra:''' ''Really, I-''\n*'''Man:''' ''It's good thing he did send you. I need to make sure the nearby camp is cleared of [[Athens|Athenians]] before the Spartan troops can move in.''\n*'''Kassandra:''' ''And you want me to kill all the Athenians. / So you're asking me to send all the Athenians to the [[underworld]].''\n*'''Man:''' ''I knew I asked the right person.''\n(Accept - Those soldiers are mine.)\n*'''Kassandra:''' ''I'll take care of it. ''\n*'''Man:''' ''Ha! Excellent.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the soldiers and sought out the Athenian camp nearby. After killing its occupants, she returned to the Spartans for her reward.",
+    "Section_Outcome": "Kassandra found and slew the Athenians, gaining a reward for doing so.",
+    "Section_Trivia": "*It is unknown what triggers this impact quest, beyond meeting Brasidas in [[Port of Lawlessness]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Impact side quest",
+    "Chapter_Type": "Other",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "In the wilderness, Kassandra came upon Spartan soldiers and greeted them.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Kassandra:''' Chaire'', soldier. How can I serve Sparta today?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Man:''' ''An [[eagle]]-bearing'' [[Mercenary|misthios]]''. [[Brasidas]] must have sent you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "4",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "5",
+            "content": "|-|I think you might be wrong.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "6",
+            "content": "*'''Kassandra:''' ''I've met a Spartan named Brasidas, but he never mentioned anything about sending me anywhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Man:''' ''Oh, no need to be secretive. I know it's generally frowned upon to hire mercenaries for the Spartan army... but we're glad to have you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|Nobody send me anywhere.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'm a mercenary, not a servant. Brasidas didn't send me anywhere.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "10",
+            "content": "*'''Man:''' ''So fierce! So proud! And boy does Brasidas like his mercenaries interesting! You've got quite the attitude on you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "11",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Kassandra:''' ''Really, I-''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Man:''' ''It's good thing he did send you. I need to make sure the nearby camp is cleared of [[Athens|Athenians]] before the Spartan troops can move in.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''And you want me to kill all the Athenians. / So you're asking me to send all the Athenians to the [[underworld]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "15",
+            "content": "*'''Man:''' ''I knew I asked the right person.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "16",
+            "content": "(Accept - Those soldiers are mine.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D11",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I'll take care of it. ''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "18",
+            "content": "*'''Man:''' ''Ha! Excellent.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Leave it to me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "20",
+            "content": "Kassandra left the soldiers and sought out the Athenian camp nearby. After killing its occupants, she returned to the Spartans for her reward.",
+            "segment_type": "Narrative"
+        }
+    ]
+}

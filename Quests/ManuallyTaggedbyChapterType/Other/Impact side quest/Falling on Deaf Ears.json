@@ -1,0 +1,40 @@
+{
+    "QuestName": "Falling on Deaf Ears",
+    "QuestID": "229364",
+    "Revision": {
+        "id": "1047488",
+        "parentid": "882943",
+        "timestamp": "2023-06-13T19:18:10Z",
+        "contributor": null,
+        "comment": "updated imageneed template",
+        "origin": "1047488",
+        "model": "wikitext",
+        "format": "text/x-wiki",
+        "sha1": "csw6sz53tpw3983okf4z8pzdft0jpkr"
+    },
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "image": null,
+        "description": "'Although Kassandra's A Heart for a Head|sacrifice did not save Eteokles (Argolian)|Eteokles, a merchant hoped she could help in other ways, as Eteokles' farm had been taken over by bandits.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Impact side quest",
+        "previous": "A Heart for a Head",
+        "next": null,
+        "source": "Kassandra",
+        "location": "Argolis",
+        "date": "420s BCE"
+    },
+    "General_Description": "'''Falling on Deaf Ears''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Following her choice, Kassandra was faced with its consequences.",
+    "Section_Dialogue": "A man drew Kassandra's attention in [[Argolis]].\n*'''Kassandra:''' ''Can I help you with something?''\n*'''Man:''' ''You're the ''[[Mercenary|misthios]]'' [[Eteokles (Argolian)|Eteokles]] spoke of!''\n*'''Kassandra:''' ''Who?''\n*'''Man:''' ''The farmer who owned the [[A Heart for a Head|white bull]]. He was sick, you made a sacrifice to the gods in his name. He's a good friend of mine.''\n*'''Kassandra:''' ''Ah yes. And how is Eteokles?''\n*'''Man:''' ''He's dead.''\n\n<tabber>\n|-|The gods didn't save him.=\n*'''Kassandra:''' ''The gods are cruel. The only time they show up is to cause more suffering.''\n|-|The gods couldn't save him.=\n*'''Kassandra:''' ''[[Asklepios]] himself couldn't have cured that farmer.''\n</tabber>\n*'''Man:''' ''Your sacrifice warmed his dying heart. He offered me whatever food was left on his land, but rotten [[bandit]]s took over the farm. He deserved better.''\n*'''Kassandra:''' ''And you're hoping I'll kill all the bandits?''\n*'''Man:''' ''Exactly. None should be left alive.''\n(Accept - I'll hunt the outlaws.)\n*'''Kassandra:''' ''It won't be easy, but I'll take care of it.''\n*'''Man:''' ''The [[Fates]] are working in my favor.''\n*'''Kassandra:''' ''Leave it to me.''\nKassandra left the [[merchant]] and sought out Eteokles' farm. She slew the bandits there before returning to the merchant.\n*'''Man:''' ''You're back. Have you killed them?''\n*'''Kassandra:''' ''I took care of them. Every last one.''\n*'''Man:''' ''My dear friend, you've earned this!''\n*'''Kassandra:''' ''That'll do.''",
+    "Section_Outcome": "Kassandra found and slew the bandits, receiving a reward for this.",
+    "Section_Behind_the_scenes": "This quest is only available if the farmer was chosen as the target of the prayers in the quest [[A Heart for a Head]].",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]"
+}

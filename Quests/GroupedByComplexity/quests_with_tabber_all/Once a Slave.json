@@ -1,0 +1,770 @@
+{
+    "Quest_Name": "Once a Slave",
+    "Quest_ID": "223500",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        },
+        "Tag_Imageneed": {
+            "description": "''[[Assassin's Creed: Odyssey]]''"
+        }
+    },
+    "MemoryInfobox": {
+        "description": "'A Slavery|slave owner from Karystos was distraught: his priceless vase had been stolen. As it was a family heirloom, he would do anything to get it back - anything like hire a' Mercenary|misthios'.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Abantis Islands}}",
+        "source": "Kassandra",
+        "location": "Karystos, Euboea, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''Once a Slave''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While in [[Karystos]], Kassandra heard a man wailing.",
+    "Section_Dialogue": "Approaching a house in Karystos, Kassandra heard a distraught voice.\n*'''Slave Owner:''' ''I can't believe they stole it. Of all the things they could take!''\nShe entered the house and approached the man within.\n*'''Kassandra:''' ''You say somebody stole something?''\n*'''Slave Owner:''' ''Somebody stole something? Look around. Bandits took almost everything. And worst of all, they stole my family's vase. After so many generations, it's gone.''\n<tabber>\n|-|Objects are replaceable.=\n*'''Kassandra:''' ''You're wealthy. You could buy yourself a new vase.''\n*'''Slave Owner:''' ''A new vase? Didn't you hear me? It's a family heirloom, you can't replace something like that.''\n|-|Heirlooms are precious.=\n*'''Kassandra:''' ''I carry with me [[Spear of Leonidas|something]] passed down from my [[Myrrine|mother]]. I appreciate the value of family heirlooms.''\n*'''Slave Owner:''' ''It's strange how inanimate objects can generate real feeling in us, isn't it?''\n</tabber>\n*'''Kassandra:''' ''How much is this vase worth to you?''\n*'''Slave Owner:''' ''I'd pay a substantial amount of [[drachma]]e for it. A very substantial amount. Is finding my vase something you could do?''\n<tabber>\n|-|I'll help you.=\n*'''Kassandra:''' ''I'll find your vase, but I'll need some ideas of where to look for it.''\n*'''Slave Owner:''' ''Speak with my slave near the warehouses. I sent him to uncover what he could from other slaves in the area. Hopefully he's learned something by now.''\n*'''Kassandra:''' ''I'll return if I find the vase.''\n|-|(Refuse).=\n|-| Vase already found.=\n*'''Kassandra:''' ''You mean this?''\nKassandra drew out the vase. The man was delighted.\n*'''Slave Owner:''' ''My vase! You found it!''\nKassandra gave the vase to the man. A slave approached them, addressing his master.\n*'''Slave:''' ''Master, I have a concern.''\n*'''Slave Owner:''' ''A concern about what?''\n*'''Slave:''' ''How do we know that this ''misthios'' isn't one of the people who took it in the first place?''\n*'''Slave Owner:''' ''That's a good question -''\n*'''Slave:''' ''Let me talk to her privately to be sure.''\n*'''Slave Owner:''' ''Yet another example of why I'll miss you when you're gone.''\nThe master and the slave embraced. With a final look at Kassandra, the slave owner left. The slave turned to face her.\n*'''Slave:''' Misthios, ''I know you must've taken the vase from the bandits. But, that's not the point. I have a favor to ask of you.''\n{{#tag:tabber|\nI don't do favors.=\n{{stub}}\n*'''Kassandra:''' ''.''\n*'''Slave:''' ''.''\n{{!}}-{{!}}\nI might do you a favor.=\n*'''Kassandra:''' ''Unless I know what it is, I won't know if I can gift you with this favor.''\n*'''Slave:''' ''You're willing to hear me out. That's a start.''\n*'''Kassandra:''' ''What kind of favor are we talking about?''\n*'''Slave:''' ''My master recently told me that after the coming summer solstice he will release me. But I don't want to go. I want you to say that ''I'' told the bandits where to find the vase. And then, for atonement, I'll offer my services.''\n}}\nKassandra considered the slave's words, while the master returned.\n*'''Slave Owner:''' ''Well? Who took my vase?''\n</tabber>\n\nKassandra spoke with the slave outside.\n*'''Kassandra:''' ''Your master tells me you might've learned something about the missing vase.''\n*'''Slave:''' ''I have. But I'll need something from you before I can talk about it.''\n<tabber>\n|-|I don't like ultimatums.=\n*'''Kassandra:''' ''I don't like conditional deals like this. I have a job to do.''\n*'''Slave:''' ''I understand. But what I need from you isn't a labor or an action, it's a commitment.''\n|-|Your master is already paying me.=\n*'''Kassandra:''' ''I have a working agreement with your master. We're all on the same side, so tell me what you need.''\n*'''Slave:''' ''You're a [[rose]] amongst the weeds.''\n</tabber>\n*'''Kassandra:''' ''So what do you need?''\n*'''Slave:''' ''I'm hoping that after you retrieve the vase, you'll tell my master that I told the bandits to loot the house.''\n*'''Kassandra:''' ''Why would you want to do that?''\n*'''Slave:''' ''After the summer solstice, my master plans to give me my freedom. But I don't want it. I'm hoping that if I take partial blame for the crime, I can offer my continued servitude as atonement.''\n*'''Kassandra:''' ''That's ridiculous, but I'll think about it. Now, tell me about the bandits.''\n*'''Slave:''' ''Other slaves in the area assure me that bandits from the northern hills of [[Mount Ochi]] are the ones ransacking the nearby homes.''\n(If players choose \"Where exactly on the mountain are the bandits?\")\n*'''Kassandra:''' ''The northern hills of Mount Ochi... Is there a more precise place I should look for these bandits?''\n*'''Slave:''' ''The slaves mentioned there's a [[Copper Mine|copper mine]] in the area. That's where I'd put my hideout if I was a bandit.''\n(If players choose \"Why not just accept your freedom?\")\n*'''Kassandra:''' ''I'm curious why you're not excited to have your freedom?''\n*'''Slave:''' ''With my master I have purpose, responsibilities, food, and shelter. All the things I wouldn't have on my own.''\n*'''Kassandra:''' ''With your freedom you can acquire all that, you know.''\n*'''Slave:''' ''We all have different circumstances and abilities, ''misthios''. This life offers me the best chance of survival.''\n*'''Kassandra:''' ''I will go find these bandits and get your master's vase.''\n*'''Slave:''' ''Remember what we talked about when you return it to my master.''\n\nKassandra took her leave and headed north, locating the bandits' hideout at the foot of Mount Ochi.\n*'''Kassandra:''' ''There it is. The copper mine.''\nKassandra infiltrated the camp, made her way into the copper mine, and found the heirloom vase.\n*'''Kassandra:''' ''All this trouble over an old vase...''\nShe escaped the camp and mused to herself on her return to the slave owner.\n*'''Kassandra:''' ''I can't believe that slave wants me to lie for him.''\n\nKassandra returned to the house.\n*'''Slave Owner:''' ''Have you found my vase?''\n*'''Kassandra:''' ''Yes.''\n*'''Slave Owner:''' ''That's great news! Who took it?''\n<tabber>\n|-|Bandits stole it.=\n*'''Kassandra:''' ''It was taken by bandits hiding in the copper mine north of here.''\n*'''Slave Owner:''' ''Well, you returned it, so at least there's some justice. Here's the reward I promised.''\n*'''Kassandra:''' ''You know, your slave is very loyal. You've already granted him his freedom, but I think you should keep him on. He may even want that.''\n*'''Slave Owner:''' ''Is it true? You want to stay?''\n*'''Slave:''' ''Yes, I do.''\n*'''Slave Owner:''' ''Then why didn't you say something?''\n*'''Slave:''' ''It's not a slave's place to question his orders. Isn't that right, ''misthios''?''\n{{#tag:tabber|\nYour life is your own.=\n*'''Kassandra:''' ''Even though you're a slave, your life is still your own. You should've just asked your master to stay.''\n*'''Slave:''' ''Please accept my humblest apologies, master. I will never do it again.''\n*'''Slave Owner:''' ''All is forgiven. It worked out the way it was supposed to.''\n{{!}}-{{!}}\nRespect your master's orders.=\n*'''Kassandra:''' ''You should respect your master's wishes. Maybe he sees something in you that you don't see yourself.''\n*'''Slave:''' ''Is that true? You think I'm ready to be on my own?''\n*'''Slave Owner:''' ''Yes. While your body and mind are still able, you should go. Start your own life.''\n*'''Slave:''' ''Thank you, master. I will.''\n}}\nKassandra spoke with each of them later.\n*'''Slave Owner:''' ''Thank you for returning my family's vase.''\n*'''Slave:''' ''You were right by not lying to my master. I don't know what I was thinking, but I'm glad you did what you did.''\n|-|Lie \u2013 Your slave helped steal it.=\n*'''Kassandra:''' ''It turns out your slave told the bandits to loot your home and take the vase.''\n*'''Slave Owner:''' ''What? Can this be true?''\n*'''Slave:''' ''Yes, master. If you'll allow me to make atonement, I'll...''\n*'''Slave Owner:''' ''Atonement? Never. I won't allow a slave who tells bandits to steal from his master to work for me.''\n*'''Slave:''' ''What? No. Please no. Let me stay!''\n*'''Slave Owner:''' ''I won't hear it. Leave now, before I pay this ''misthios'' to kill you. Go!''\nThe slave left, his plan to stay having backfired in the worst possible way.\n*'''Slave Owner:''' ''Just when you think you know someone. Here's your payment for returning my vase. Thank you for returning my family vase and exposing my slave.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped an elderly slave owner to retrieve an heirloom stolen from him.",
+    "Section_Trivia": "*The name of the quest references the phrase \"once a thief, always a thief.\"",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n{{ACODMemories}}\n<!--Interwiki links-->\n[[fr:Esclave un jour...]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Abantis Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Approaching a house in Karystos, Kassandra heard a distraught voice.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Slave Owner:''' ''I can't believe they stole it. Of all the things they could take!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She entered the house and approached the man within.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Kassandra:''' ''You say somebody stole something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Slave Owner:''' ''Somebody stole something? Look around. Bandits took almost everything. And worst of all, they stole my family's vase. After so many generations, it's gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS1",
+            "global_id": "6",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "7",
+            "content": "|-|Objects are replaceable.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D4",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''You're wealthy. You could buy yourself a new vase.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "9",
+            "content": "*'''Slave Owner:''' ''A new vase? Didn't you hear me? It's a family heirloom, you can't replace something like that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "10",
+            "content": "|-|Heirlooms are precious.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''I carry with me [[Spear of Leonidas|something]] passed down from my [[Myrrine|mother]]. I appreciate the value of family heirlooms.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Slave Owner:''' ''It's strange how inanimate objects can generate real feeling in us, isn't it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "13",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''How much is this vase worth to you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Slave Owner:''' ''I'd pay a substantial amount of [[drachma]]e for it. A very substantial amount. Is finding my vase something you could do?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS2",
+            "global_id": "16",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "17",
+            "content": "|-|I'll help you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "18",
+            "content": "*'''Kassandra:''' ''I'll find your vase, but I'll need some ideas of where to look for it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "19",
+            "content": "*'''Slave Owner:''' ''Speak with my slave near the warehouses. I sent him to uncover what he could from other slaves in the area. Hopefully he's learned something by now.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "20",
+            "content": "*'''Kassandra:''' ''I'll return if I find the vase.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "21",
+            "content": "|-|(Refuse).=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "PC5",
+            "global_id": "22",
+            "content": "|-| Vase already found.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''You mean this?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "24",
+            "content": "Kassandra drew out the vase. The man was delighted.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D14",
+            "global_id": "25",
+            "content": "*'''Slave Owner:''' ''My vase! You found it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "26",
+            "content": "Kassandra gave the vase to the man. A slave approached them, addressing his master.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D15",
+            "global_id": "27",
+            "content": "*'''Slave:''' ''Master, I have a concern.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "28",
+            "content": "*'''Slave Owner:''' ''A concern about what?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "29",
+            "content": "*'''Slave:''' ''How do we know that this ''misthios'' isn't one of the people who took it in the first place?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "30",
+            "content": "*'''Slave Owner:''' ''That's a good question -''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Slave:''' ''Let me talk to her privately to be sure.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Slave Owner:''' ''Yet another example of why I'll miss you when you're gone.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "33",
+            "content": "The master and the slave embraced. With a final look at Kassandra, the slave owner left. The slave turned to face her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D21",
+            "global_id": "34",
+            "content": "*'''Slave:''' Misthios, ''I know you must've taken the vase from the bandits. But, that's not the point. I have a favor to ask of you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS1",
+            "global_id": "35",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC6",
+            "global_id": "36",
+            "content": "I don't do favors.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "U1",
+            "global_id": "37",
+            "content": "{{stub}}",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D22",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "39",
+            "content": "*'''Slave:''' ''.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD1",
+            "global_id": "40",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC7",
+            "global_id": "41",
+            "content": "I might do you a favor.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "42",
+            "content": "*'''Kassandra:''' ''Unless I know what it is, I won't know if I can gift you with this favor.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "43",
+            "content": "*'''Slave:''' ''You're willing to hear me out. That's a start.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''What kind of favor are we talking about?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "45",
+            "content": "*'''Slave:''' ''My master recently told me that after the coming summer solstice he will release me. But I don't want to go. I want you to say that ''I'' told the bandits where to find the vase. And then, for atonement, I'll offer my services.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE1",
+            "global_id": "46",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "N6",
+            "global_id": "47",
+            "content": "Kassandra considered the slave's words, while the master returned.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Slave Owner:''' ''Well? Who took my vase?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "49",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "50",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N7",
+            "global_id": "51",
+            "content": "Kassandra spoke with the slave outside.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D29",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''Your master tells me you might've learned something about the missing vase.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D30",
+            "global_id": "53",
+            "content": "*'''Slave:''' ''I have. But I'll need something from you before I can talk about it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS3",
+            "global_id": "54",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC8",
+            "global_id": "55",
+            "content": "|-|I don't like ultimatums.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D31",
+            "global_id": "56",
+            "content": "*'''Kassandra:''' ''I don't like conditional deals like this. I have a job to do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D32",
+            "global_id": "57",
+            "content": "*'''Slave:''' ''I understand. But what I need from you isn't a labor or an action, it's a commitment.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC9",
+            "global_id": "58",
+            "content": "|-|Your master is already paying me.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D33",
+            "global_id": "59",
+            "content": "*'''Kassandra:''' ''I have a working agreement with your master. We're all on the same side, so tell me what you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D34",
+            "global_id": "60",
+            "content": "*'''Slave:''' ''You're a [[rose]] amongst the weeds.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE3",
+            "global_id": "61",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "D35",
+            "global_id": "62",
+            "content": "*'''Kassandra:''' ''So what do you need?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "63",
+            "content": "*'''Slave:''' ''I'm hoping that after you retrieve the vase, you'll tell my master that I told the bandits to loot the house.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "64",
+            "content": "*'''Kassandra:''' ''Why would you want to do that?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "65",
+            "content": "*'''Slave:''' ''After the summer solstice, my master plans to give me my freedom. But I don't want it. I'm hoping that if I take partial blame for the crime, I can offer my continued servitude as atonement.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D39",
+            "global_id": "66",
+            "content": "*'''Kassandra:''' ''That's ridiculous, but I'll think about it. Now, tell me about the bandits.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D40",
+            "global_id": "67",
+            "content": "*'''Slave:''' ''Other slaves in the area assure me that bandits from the northern hills of [[Mount Ochi]] are the ones ransacking the nearby homes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "68",
+            "content": "(If players choose \"Where exactly on the mountain are the bandits?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D41",
+            "global_id": "69",
+            "content": "*'''Kassandra:''' ''The northern hills of Mount Ochi... Is there a more precise place I should look for these bandits?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D42",
+            "global_id": "70",
+            "content": "*'''Slave:''' ''The slaves mentioned there's a [[Copper Mine|copper mine]] in the area. That's where I'd put my hideout if I was a bandit.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "71",
+            "content": "(If players choose \"Why not just accept your freedom?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D43",
+            "global_id": "72",
+            "content": "*'''Kassandra:''' ''I'm curious why you're not excited to have your freedom?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D44",
+            "global_id": "73",
+            "content": "*'''Slave:''' ''With my master I have purpose, responsibilities, food, and shelter. All the things I wouldn't have on my own.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D45",
+            "global_id": "74",
+            "content": "*'''Kassandra:''' ''With your freedom you can acquire all that, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D46",
+            "global_id": "75",
+            "content": "*'''Slave:''' ''We all have different circumstances and abilities, ''misthios''. This life offers me the best chance of survival.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D47",
+            "global_id": "76",
+            "content": "*'''Kassandra:''' ''I will go find these bandits and get your master's vase.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D48",
+            "global_id": "77",
+            "content": "*'''Slave:''' ''Remember what we talked about when you return it to my master.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U3",
+            "global_id": "78",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N8",
+            "global_id": "79",
+            "content": "Kassandra took her leave and headed north, locating the bandits' hideout at the foot of Mount Ochi.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D49",
+            "global_id": "80",
+            "content": "*'''Kassandra:''' ''There it is. The copper mine.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N9",
+            "global_id": "81",
+            "content": "Kassandra infiltrated the camp, made her way into the copper mine, and found the heirloom vase.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D50",
+            "global_id": "82",
+            "content": "*'''Kassandra:''' ''All this trouble over an old vase...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N10",
+            "global_id": "83",
+            "content": "She escaped the camp and mused to herself on her return to the slave owner.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D51",
+            "global_id": "84",
+            "content": "*'''Kassandra:''' ''I can't believe that slave wants me to lie for him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U4",
+            "global_id": "85",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "N11",
+            "global_id": "86",
+            "content": "Kassandra returned to the house.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D52",
+            "global_id": "87",
+            "content": "*'''Slave Owner:''' ''Have you found my vase?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D53",
+            "global_id": "88",
+            "content": "*'''Kassandra:''' ''Yes.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D54",
+            "global_id": "89",
+            "content": "*'''Slave Owner:''' ''That's great news! Who took it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TS4",
+            "global_id": "90",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC10",
+            "global_id": "91",
+            "content": "|-|Bandits stole it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D55",
+            "global_id": "92",
+            "content": "*'''Kassandra:''' ''It was taken by bandits hiding in the copper mine north of here.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D56",
+            "global_id": "93",
+            "content": "*'''Slave Owner:''' ''Well, you returned it, so at least there's some justice. Here's the reward I promised.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D57",
+            "global_id": "94",
+            "content": "*'''Kassandra:''' ''You know, your slave is very loyal. You've already granted him his freedom, but I think you should keep him on. He may even want that.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D58",
+            "global_id": "95",
+            "content": "*'''Slave Owner:''' ''Is it true? You want to stay?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D59",
+            "global_id": "96",
+            "content": "*'''Slave:''' ''Yes, I do.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D60",
+            "global_id": "97",
+            "content": "*'''Slave Owner:''' ''Then why didn't you say something?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D61",
+            "global_id": "98",
+            "content": "*'''Slave:''' ''It's not a slave's place to question his orders. Isn't that right, ''misthios''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTS2",
+            "global_id": "99",
+            "content": "{{#tag:tabber|",
+            "segment_type": "NestedTabberStart"
+        },
+        {
+            "id": "PC11",
+            "global_id": "100",
+            "content": "Your life is your own.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D62",
+            "global_id": "101",
+            "content": "*'''Kassandra:''' ''Even though you're a slave, your life is still your own. You should've just asked your master to stay.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D63",
+            "global_id": "102",
+            "content": "*'''Slave:''' ''Please accept my humblest apologies, master. I will never do it again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D64",
+            "global_id": "103",
+            "content": "*'''Slave Owner:''' ''All is forgiven. It worked out the way it was supposed to.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTD2",
+            "global_id": "104",
+            "content": "{{!}}-{{!}}",
+            "segment_type": "NestedChoiceDelimiter"
+        },
+        {
+            "id": "PC12",
+            "global_id": "105",
+            "content": "Respect your master's orders.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D65",
+            "global_id": "106",
+            "content": "*'''Kassandra:''' ''You should respect your master's wishes. Maybe he sees something in you that you don't see yourself.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D66",
+            "global_id": "107",
+            "content": "*'''Slave:''' ''Is that true? You think I'm ready to be on my own?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D67",
+            "global_id": "108",
+            "content": "*'''Slave Owner:''' ''Yes. While your body and mind are still able, you should go. Start your own life.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D68",
+            "global_id": "109",
+            "content": "*'''Slave:''' ''Thank you, master. I will.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "NTE2",
+            "global_id": "110",
+            "content": "}}",
+            "segment_type": "NestedTabberEnd"
+        },
+        {
+            "id": "N12",
+            "global_id": "111",
+            "content": "Kassandra spoke with each of them later.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D69",
+            "global_id": "112",
+            "content": "*'''Slave Owner:''' ''Thank you for returning my family's vase.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D70",
+            "global_id": "113",
+            "content": "*'''Slave:''' ''You were right by not lying to my master. I don't know what I was thinking, but I'm glad you did what you did.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC13",
+            "global_id": "114",
+            "content": "|-|Lie \u2013 Your slave helped steal it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D71",
+            "global_id": "115",
+            "content": "*'''Kassandra:''' ''It turns out your slave told the bandits to loot your home and take the vase.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D72",
+            "global_id": "116",
+            "content": "*'''Slave Owner:''' ''What? Can this be true?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D73",
+            "global_id": "117",
+            "content": "*'''Slave:''' ''Yes, master. If you'll allow me to make atonement, I'll...''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D74",
+            "global_id": "118",
+            "content": "*'''Slave Owner:''' ''Atonement? Never. I won't allow a slave who tells bandits to steal from his master to work for me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D75",
+            "global_id": "119",
+            "content": "*'''Slave:''' ''What? No. Please no. Let me stay!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D76",
+            "global_id": "120",
+            "content": "*'''Slave Owner:''' ''I won't hear it. Leave now, before I pay this ''misthios'' to kill you. Go!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N13",
+            "global_id": "121",
+            "content": "The slave left, his plan to stay having backfired in the worst possible way.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D77",
+            "global_id": "122",
+            "content": "*'''Slave Owner:''' ''Just when you think you know someone. Here's your payment for returning my vase. Thank you for returning my family vase and exposing my slave.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE4",
+            "global_id": "123",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

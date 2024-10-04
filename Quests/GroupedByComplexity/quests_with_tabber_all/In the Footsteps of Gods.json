@@ -1,0 +1,355 @@
+{
+    "Quest_Name": "In the Footsteps of Gods",
+    "Quest_ID": "223456",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD In the Footsteps of Gods.png",
+        "description": "'A Kephallonian priestess was desperate to find the Spear of Kephalos in hopes it would draw more people to her Temple of Zeus (Kephallonia)|shrine. Was it Kephalos, then, who sent Kassandra to help her?'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, World {{c|Kephallonia Islands}}",
+        "previous": "Lumbering Along",
+        "next": "Hungry Gods",
+        "source": "Kassandra",
+        "location": "Kephallonia, Greece",
+        "date": "431 BCE"
+    },
+    "General_Description": "'''In the Footsteps of Gods''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra met a priestess of [[Zeus]] who sought her aid to find the legendary [[Spear of Kephalos]].",
+    "Section_Dialogue": "Kassandra came across a priestess at the [[Temple of Zeus, Kephallonia|Temple of Zeus]] near [[Sami]].\n*'''Priestess:''' ''Mighty [[Kephalos]], I entreat you! Send us a champion! Someone worthy of your might spear! Help your priestess in her hour of need!''\nKassandra approached her.\n\n<tabber>\n|-|Your prayer is answered.=\n*'''Kassandra:''' ''You called?''\n|-|I can help instead.=\n*'''Kassandra:''' ''I'm the only one here. But maybe I can help you.''\n</tabber>\n[[File:ACO - In the Footsteps of Gods 2.png|thumb|240px|The priestess asking for Kassandra's help]]\nThe priestess turned around.\n*'''Priestess:''' ''Oh! Oh... Kassandra. You startled me.''\n*'''Kassandra:''' ''Why are you looking for a champion?''\n*'''Priestess:''' ''I need someone worthy to win the Spear of Kephalos! I've been deciphering some of the sanctuary's stone carvings. They say the spear was hidden in the [[Melissani Cave|caves]] beneath [[Kephallonia]] when the temple was built! You could get it for me, couldn't you? I can give you a reward!''\n*'''Kassandra:''' ''If the spear is in the caves, I'll find it.''\n*'''Priestess:''' ''Well! Maybe you were sent by Kephalos!''\n(If players choose \"What is the spear of Kephalos?\")\n*'''Kassandra:''' ''Kephalos had a spear?''\n*'''Priestess:''' ''Kassandra. Surely you've heard this story since you were a child.''\n*'''Kassandra:''' ''I didn't have much time for stories.''\n*'''Priestess:''' ''Well. Perhaps you didn't. But you know Kephalos founded Kephallonia and started the line of [[Odysseus]]. His spear was a gift from the Gods. It was said never to miss its target. He must have hidden it in the caves after killing his [[Prokris|wife]] with it.''\n*'''Kassandra:''' ''He threw a spear that wouldn't miss at his wife?''\n*'''Priestess:''' ''He was hunting and heard her in the bushes. He thought she was a deer. It's a sad story.''\n*'''Kassandra:''' ''Sounds dangerous.''\n*'''Priestess:''' ''Well, only if you throw it at someone!''\n(If players choose \"Why do you need the spear?\")\n*'''Kassandra:''' ''Why do you need a spear? Not thinking of becoming a soldier, are you?''\n*'''Priestess:''' ''Of course not. But think how many people will come to the shrine if we have the Spear of Kephalos! With their donations, I could do so many things! Repair the sanctuary. Feed the hungry families in [[Sami]].''\n(If players choose \"How can I find it?\")\n*'''Kassandra:''' ''So where is the spear?''\n*'''Priestess:''' ''Apparently it's hidden deep in the caves beneath Kephallonia. There's an entrance north of here; maybe you can try that way first.''\n*'''Kassandra:''' ''That's not much to go on.''\n*'''Priestess:''' ''You have so little faith in the gods! If Kephalos means for us to have the spear, you will find it!''\n(If players choose \"That's all for now.\")\n*'''Kassandra:''' ''I'll see what I can find.''\n*'''Priestess:''' ''Oh, thank you. I'll prepare a spot in the sanctuary!''\n[[File:ACOD_-_In_the_Footsteps_of_the_Gods_3.png|thumb|240px|Kassandra returned]]\nKassandra headed to the cave entrance north of the sanctuary. Entering through a small opening, she found a group of bandits within. After eliminating the bandits, she looted the spear in a chest and exited the cave, returning to the priestess.\n*'''Priestess:''' ''Kassandra! Have you come back to talk about the spear?''\n*'''Kassandra:''' ''I have.''\n*'''Priestess:''' ''Oh good! Tell me, did you find it?''\n\n<tabber>\n|-|Let's talk about my reward first.=\n*'''Kassandra:''' ''You mentioned a reward.''\n*'''Priestess:''' ''Oh. Of course! You've certainly earned it!''\n|-|I'll give it to you.=\n*'''Kassandra:''' ''Consider it a donation to the temple.''\n*'''Priestess:''' ''What, no reward? Oh, Kassandra, I'm in your debt. If ever there's a way my temple can help you \u2013 or anyone. Send them here. I will remember.''\n|-|I couldn't find it.=\n*'''Kassandra:''' ''I looked in the caves. The spear isn't there.''\n*'''Priestess:''' ''I had hoped to revive the sanctuary. But... it is as Kephalos wills it.''\n</tabber>",
+    "Section_Outcome": "Kassandra helped the prietess to look for the spear. She either chose to hand over the spear, or keep it for herself.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]] ''\n\n{{ACODMemories}}\n\n<!--Interwikis links-->\n[[fr:Dans les pas des dieux]]\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Kephallonia Islands",
+    "Chapter_Type": "World",
+    "Quest_SequenceID": null,
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra came across a priestess at the [[Temple of Zeus, Kephallonia|Temple of Zeus]] near [[Sami]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Priestess:''' ''Mighty [[Kephalos]], I entreat you! Send us a champion! Someone worthy of your might spear! Help your priestess in her hour of need!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "Kassandra approached her.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "U1",
+            "global_id": "4",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "5",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "6",
+            "content": "|-|Your prayer is answered.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D2",
+            "global_id": "7",
+            "content": "*'''Kassandra:''' ''You called?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "8",
+            "content": "|-|I can help instead.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D3",
+            "global_id": "9",
+            "content": "*'''Kassandra:''' ''I'm the only one here. But maybe I can help you.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "10",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "I1",
+            "global_id": "11",
+            "content": "[[File:ACO - In the Footsteps of Gods 2.png|thumb|240px|The priestess asking for Kassandra's help]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N3",
+            "global_id": "12",
+            "content": "The priestess turned around.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "13",
+            "content": "*'''Priestess:''' ''Oh! Oh... Kassandra. You startled me.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "14",
+            "content": "*'''Kassandra:''' ''Why are you looking for a champion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "15",
+            "content": "*'''Priestess:''' ''I need someone worthy to win the Spear of Kephalos! I've been deciphering some of the sanctuary's stone carvings. They say the spear was hidden in the [[Melissani Cave|caves]] beneath [[Kephallonia]] when the temple was built! You could get it for me, couldn't you? I can give you a reward!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''If the spear is in the caves, I'll find it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "17",
+            "content": "*'''Priestess:''' ''Well! Maybe you were sent by Kephalos!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "18",
+            "content": "(If players choose \"What is the spear of Kephalos?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D9",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''Kephalos had a spear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D10",
+            "global_id": "20",
+            "content": "*'''Priestess:''' ''Kassandra. Surely you've heard this story since you were a child.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "21",
+            "content": "*'''Kassandra:''' ''I didn't have much time for stories.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Priestess:''' ''Well. Perhaps you didn't. But you know Kephalos founded Kephallonia and started the line of [[Odysseus]]. His spear was a gift from the Gods. It was said never to miss its target. He must have hidden it in the caves after killing his [[Prokris|wife]] with it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''He threw a spear that wouldn't miss at his wife?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Priestess:''' ''He was hunting and heard her in the bushes. He thought she was a deer. It's a sad story.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''Sounds dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "26",
+            "content": "*'''Priestess:''' ''Well, only if you throw it at someone!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "27",
+            "content": "(If players choose \"Why do you need the spear?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''Why do you need a spear? Not thinking of becoming a soldier, are you?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Priestess:''' ''Of course not. But think how many people will come to the shrine if we have the Spear of Kephalos! With their donations, I could do so many things! Repair the sanctuary. Feed the hungry families in [[Sami]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "30",
+            "content": "(If players choose \"How can I find it?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D19",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''So where is the spear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "32",
+            "content": "*'''Priestess:''' ''Apparently it's hidden deep in the caves beneath Kephallonia. There's an entrance north of here; maybe you can try that way first.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''That's not much to go on.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D22",
+            "global_id": "34",
+            "content": "*'''Priestess:''' ''You have so little faith in the gods! If Kephalos means for us to have the spear, you will find it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "35",
+            "content": "(If players choose \"That's all for now.\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D23",
+            "global_id": "36",
+            "content": "*'''Kassandra:''' ''I'll see what I can find.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "37",
+            "content": "*'''Priestess:''' ''Oh, thank you. I'll prepare a spot in the sanctuary!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "I2",
+            "global_id": "38",
+            "content": "[[File:ACOD_-_In_the_Footsteps_of_the_Gods_3.png|thumb|240px|Kassandra returned]]",
+            "segment_type": "ImageFile"
+        },
+        {
+            "id": "N4",
+            "global_id": "39",
+            "content": "Kassandra headed to the cave entrance north of the sanctuary. Entering through a small opening, she found a group of bandits within. After eliminating the bandits, she looted the spear in a chest and exited the cave, returning to the priestess.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D25",
+            "global_id": "40",
+            "content": "*'''Priestess:''' ''Kassandra! Have you come back to talk about the spear?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''I have.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "42",
+            "content": "*'''Priestess:''' ''Oh good! Tell me, did you find it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "43",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "44",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "45",
+            "content": "|-|Let's talk about my reward first.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D28",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''You mentioned a reward.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "47",
+            "content": "*'''Priestess:''' ''Oh. Of course! You've certainly earned it!''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "48",
+            "content": "|-|I'll give it to you.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D30",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''Consider it a donation to the temple.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "50",
+            "content": "*'''Priestess:''' ''What, no reward? Oh, Kassandra, I'm in your debt. If ever there's a way my temple can help you \u2013 or anyone. Send them here. I will remember.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC5",
+            "global_id": "51",
+            "content": "|-|I couldn't find it.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "52",
+            "content": "*'''Kassandra:''' ''I looked in the caves. The spear isn't there.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D33",
+            "global_id": "53",
+            "content": "*'''Priestess:''' ''I had hoped to revive the sanctuary. But... it is as Kephalos wills it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "54",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

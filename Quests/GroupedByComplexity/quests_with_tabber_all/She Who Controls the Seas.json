@@ -1,0 +1,331 @@
+{
+    "Quest_Name": "She Who Controls the Seas",
+    "Quest_ID": "224401",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "previous": "Sacred Vows",
+        "next": "Rumored Conch Shell Location",
+        "image": "ACOD_Xenia_Treasure_Hunt.png",
+        "description": "'The wealthy Piracy|pirate queen, Xenia, offered Kassandra more riches in exchange for Triton's legendary {{Wiki|Conch|conch shell}}.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Side, Character",
+        "source": "Kassandra",
+        "location": "Keos, Greece",
+        "date": "429 BCE\u2013422 BCE"
+    },
+    "General_Description": "'''She Who Controls the Seas''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "Kassandra accepted another request of the [[Piracy|pirate]] lord, [[Xenia]].",
+    "Section_Dialogue": "Kassandra approached Xenia.\n*'''Xenia:''' ''So, my West Wind returns.''\n*'''Kassandra:''' ''It seems I've picked up your taste for treasure hunting.''\n*'''Xenia:''' ''Is there no greater passion?''\n*'''Kassandra:''' ''So, what do you have for me?''\n*'''Xenia:''' ''A group of [[bandit]]s has put their hands on [[Triton]]'s conch shell. They think it has the power to control the tides. Many would want such a thing. Will you bring it to me?''\n\n<tabber>\n|-|I will get the treasure.=\nXenia gives her three maps of the rumored locations of the bandits' lair, and Kassandra receives them agonizingly.\n*'''Kassandra:''' ''More maps?''\n*'''Xenia:''' ''How else would you find the bandits? Go on now, I want that shell.''\n*'''Kassandra:''' ''From your lips to the gods' ears, it will be in your possession.''\n*'''Xenia:''' ''It is your work that gives me riches, not theirs.''\n|-|No, not right now.=\n*'''Kassandra:''' ''I'm in the middle of something.''\nKassandra returns.\n*'''Xenia:''' ''The West Wind! Are you here to retrieve Triton's conch shell for me?''\n(Back to dialogue choice one.)\n</tabber>\n(If players choose \"What's so special about this shell?\")\n*'''Kassandra:''' ''Sounds like quite the story. Is the shell at least made of gold?''\n*'''Xenia:''' ''My friend, in our time together... Would you think I'd be interested in such an object if it were not made of gold?''\n*'''Kassandra:''' ''Are you sure you're not trying to control the tides?''\n*'''Xenia:''' ''Only fools think they can move the sea.''\n(If players choose \"Who are these bandits?\")\n*'''Kassandra:''' ''Do you know anything about the bandits that have it?''\n*'''Xenia:''' ''They're bandits. They steal and kill. What more is there to know?''\n*'''Kassandra:''' ''Hmm. I could easily describe you and your pirates the same way.''\n*'''Xenia:''' ''You want to know how we differ? Take a look around you. I have an island. Them? They have a hole in the ground.''\n*'''Kassandra:''' ''I see.''\n(Leave - \"I'll go find that shell.\")\n*'''Kassandra:''' ''I'll be back with your shell.''\nHaving recovered the shell, Kassandra returned to Xenia.\n*'''Kassandra:''' ''I have what you need.''\nXenia held out a hand open.\n*'''Xenia:''' ''Give it here then.''\n\n<tabber>\n|-|For you, my friend.=\n*'''Kassandra:''' ''One shell, delivered safe and sound to the Queen of the Sea.''\n*'''Xenia:''' ''Your services are appreciated.''\n*'''Kassandra:''' ''Let me know if you need anything else.''\n|-|This'll cost you extra.=\nKassandra reaches from her pocket and hands her the shell.\n*'''Kassandra:''' ''Any trip that involves me diving into an underwater cave doubles the cost.''\nXenia smiles.\n*'''Xenia:''' ''I'm not sure what the better addition to my collection is, this shell, or the one holding it.''\n*'''Kassandra:''' ''It's always a pleasure to have your [[drachma]]e jingling in my pouch, Xenia.''\n</tabber>",
+    "Section_Outcome": "Kassandra recovered Triton's conch shell for Xenia.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": null,
+    "Chapter_Name": "Xenia",
+    "Chapter_Type": "Character",
+    "Quest_SequenceID": "3.",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra approached Xenia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Xenia:''' ''So, my West Wind returns.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D2",
+            "global_id": "3",
+            "content": "*'''Kassandra:''' ''It seems I've picked up your taste for treasure hunting.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "4",
+            "content": "*'''Xenia:''' ''Is there no greater passion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D4",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''So, what do you have for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "6",
+            "content": "*'''Xenia:''' ''A group of [[bandit]]s has put their hands on [[Triton]]'s conch shell. They think it has the power to control the tides. Many would want such a thing. Will you bring it to me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "7",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "8",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "9",
+            "content": "|-|I will get the treasure.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N2",
+            "global_id": "10",
+            "content": "Xenia gives her three maps of the rumored locations of the bandits' lair, and Kassandra receives them agonizingly.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D6",
+            "global_id": "11",
+            "content": "*'''Kassandra:''' ''More maps?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D7",
+            "global_id": "12",
+            "content": "*'''Xenia:''' ''How else would you find the bandits? Go on now, I want that shell.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''From your lips to the gods' ears, it will be in your possession.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "14",
+            "content": "*'''Xenia:''' ''It is your work that gives me riches, not theirs.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "15",
+            "content": "|-|No, not right now.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "16",
+            "content": "*'''Kassandra:''' ''I'm in the middle of something.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "17",
+            "content": "Kassandra returns.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Xenia:''' ''The West Wind! Are you here to retrieve Triton's conch shell for me?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "19",
+            "content": "(Back to dialogue choice one.)",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "TE1",
+            "global_id": "20",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "C1",
+            "global_id": "21",
+            "content": "(If players choose \"What's so special about this shell?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D12",
+            "global_id": "22",
+            "content": "*'''Kassandra:''' ''Sounds like quite the story. Is the shell at least made of gold?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D13",
+            "global_id": "23",
+            "content": "*'''Xenia:''' ''My friend, in our time together... Would you think I'd be interested in such an object if it were not made of gold?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "24",
+            "content": "*'''Kassandra:''' ''Are you sure you're not trying to control the tides?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "25",
+            "content": "*'''Xenia:''' ''Only fools think they can move the sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "26",
+            "content": "(If players choose \"Who are these bandits?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D16",
+            "global_id": "27",
+            "content": "*'''Kassandra:''' ''Do you know anything about the bandits that have it?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "28",
+            "content": "*'''Xenia:''' ''They're bandits. They steal and kill. What more is there to know?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D18",
+            "global_id": "29",
+            "content": "*'''Kassandra:''' ''Hmm. I could easily describe you and your pirates the same way.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "30",
+            "content": "*'''Xenia:''' ''You want to know how we differ? Take a look around you. I have an island. Them? They have a hole in the ground.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "31",
+            "content": "*'''Kassandra:''' ''I see.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "32",
+            "content": "(Leave - \"I'll go find that shell.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D21",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''I'll be back with your shell.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "34",
+            "content": "Having recovered the shell, Kassandra returned to Xenia.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D22",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I have what you need.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "36",
+            "content": "Xenia held out a hand open.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D23",
+            "global_id": "37",
+            "content": "*'''Xenia:''' ''Give it here then.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U2",
+            "global_id": "38",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS2",
+            "global_id": "39",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC3",
+            "global_id": "40",
+            "content": "|-|For you, my friend.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D24",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''One shell, delivered safe and sound to the Queen of the Sea.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "42",
+            "content": "*'''Xenia:''' ''Your services are appreciated.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D26",
+            "global_id": "43",
+            "content": "*'''Kassandra:''' ''Let me know if you need anything else.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC4",
+            "global_id": "44",
+            "content": "|-|This'll cost you extra.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "N6",
+            "global_id": "45",
+            "content": "Kassandra reaches from her pocket and hands her the shell.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D27",
+            "global_id": "46",
+            "content": "*'''Kassandra:''' ''Any trip that involves me diving into an underwater cave doubles the cost.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N7",
+            "global_id": "47",
+            "content": "Xenia smiles.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D28",
+            "global_id": "48",
+            "content": "*'''Xenia:''' ''I'm not sure what the better addition to my collection is, this shell, or the one holding it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''It's always a pleasure to have your [[drachma]]e jingling in my pouch, Xenia.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE2",
+            "global_id": "50",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        }
+    ]
+}

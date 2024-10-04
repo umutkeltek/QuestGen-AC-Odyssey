@@ -1,0 +1,368 @@
+{
+    "Quest_Name": "The Stolen Steed",
+    "Quest_ID": "225051",
+    "Tags": {
+        "Tag_Era": {
+            "description": "Memories | ACOD"
+        }
+    },
+    "MemoryInfobox": {
+        "image": "ACOD The Stolen Steed 3.png",
+        "description": "'The Oil Merchant had his Spyro|horse stolen while on his last delivery. Kassandra had vested interest in returning the horse so the merchant could complete his delivery to the Boeotian Champions of Boeotia|champion, Drakon.'",
+        "appearance": "'Assassin's Creed: Odyssey'",
+        "type": "Main, Support",
+        "previous": "The Conqueror",
+        "next": "The End of Drakon",
+        "source": "Kassandra",
+        "location": "Boeotia, Greece",
+        "date": "427 BCE\u2013426 BCE"
+    },
+    "General_Description": "'''The Stolen Steed''' was a virtual representation of one of [[Kassandra]]'s genetic memories, relived by [[Layla Hassan]] through the Portable [[Animus|Animus HR-8.5]].",
+    "Section_Description": "While hunting for the [[Champions of Boeotia]], especially [[Drakon]], Kassandra met an [[Oil Merchant]] who was terrified of Drakon's retribution, given he couldn't deliver his oils as his beloved [[horse]] [[Spyro]] had been stolen.",
+    "Section_Dialogue": "Kassandra overheard the sad merchant.\n*'''Street Vendor:''' ''What I would do to see you again, Spyro... If only.''\nShe approached him.\n*'''Street Vendor:''' ''You come to steal from me too,'' [[Mercenary|misthios]]''?''\n*'''Kassandra:''' ''Is that how you greet all your customers?''\nThe merchant sighs and changes his tone.\n*'''Street Vendor:''' ''I'm sorry. The [[Athens|soldiers]] have taken everything from me\u2014even my beloved Spyro.''\n*'''Kassandra:''' ''Soldiers take what they want. Who is Spyro?''\n*'''Street Vendor:''' ''Only the best horse I ever owned.''\n\n<tabber>\n|-|Get another horse.=\n*'''Kassandra:''' ''You could always get another horse.''\n*'''Street Vendor:''' ''These things cost [[drachma]]e, you know.''\n*'''Kassandra:''' ''Drachmae you don't have, by the sound of it.''\n|-|That's a sad story.=\n*'''Kassandra:''' ''I feel the same about my [[Phobos (horse)|Phobos]].''\n*'''Street Vendor:''' ''We did everything together. He'd do'' anything ''for me\u2014even without the promise of a carrot.''\n*'''Kassandra:''' ''He sounds like a true friend.''\n</tabber>\n\n*'''Street Vendor:''' ''I need him back to cart my shipments. Once Drakon finds out I can't get him his oil, I'm as good as dead.''\n*'''Kassandra:''' ''Drakon? The Boeotian champion?''\n*'''Street Vendor:''' ''He's my biggest customer.''\n*'''Kassandra:''' ''I'm trying to hunt him down.''\n*'''Street Vendor:''' ''Save me from Drakon's wrath. Find my Spyro\u2014please.''\n(Accept \u2013 \"I'll bring Spyro back.\")\n*'''Kassandra:''' ''If you need him so badly, I'll find your Spyro.''\n*'''Street Vendor:''' ''Be quick, please. I can only imagine what those [[Thief|thieves]] are doing to him.''\n*'''Kassandra:''' ''Where did they take him?''\n*'''Street Vendor:''' ''They must have him at the [[Potnies Military Camp|military camp]] east of [[Snake Head Rock]]. It's the only outpost nearby.''\n(If players asked \"Why does Drakon need oil?\")\n*'''Kassandra:''' ''Why do you take oil to Drakon?''\n*'''Street Vendor:''' ''He likes to have his back oiled. Makes his muscles look bigger, I suppose.''\n*'''Kassandra:''' ''I didn't think he needed the help.''\n*'''Street Vendor:''' ''No, although I don't know why he prefers my flammable oil over something less dangerous.''\n(If players asked \"Where do you meet Drakon?\")\n*'''Kassandra:''' ''Where do you deliver the oil?''\n*'''Street Vendor:''' ''I deliver his shipments to his [[Drakon's Training Site|training ground]] near the [[Site of Iphigenia's Sacrifice]].''\n(If players asked \"Where are the horse thieves, again?\")\n*'''Kassandra:''' ''Where can I find these thieves?''\n*'''Street Vendor:''' ''In a camp east of Snake Head Rock.''\n(If players asked \"What does Spyro look like?\")\n*'''Kassandra:''' ''Can you tell me what Spyro looks like? I want to make sure I'm stealing the right horse.''\n*'''Street Vendor:''' ''Where to begin... He's magnificent\u2014a towering stallion as black as night, with a mane of brilliant, shimmering white hair.''\n(Leave \u2013 \"I have what I need.\")\n*'''Kassandra:''' ''Looks like I have a horse to find.''\nKassandra departed for the military camp outside the city. She arrived and spotted the horse within with the help of [[Ikaros]].\n*'''Kassandra:''' ''That must be Spyro. Looks like a sturdy horse.''\nShe took care of the soldiers before riding Spyro out of the camp.\n*'''Kassandra:''' ''You must be Spyro. Let's get you back home.''\nKassandra returned to the merchant in Thebes.\n*'''Street Vendor:''' Spyro. ''Oh, I thought I'd never see you again.''\n*'''Kassandra:''' ''He's all right. Not a hair touched on his mane.''\n*'''Street Vendor:''' ''And Drakon will still get his shipment of oil, won't he Spyro? We'll take it up the mountain, and fill his halls with our wonderful, flammable oil.''\n*'''Street Vendor:''' ''You've made Spyro a happy horse,'' misthios. ''And me a happy man.''",
+    "Section_Outcome": "Kassandra stole Spyro back from the military camp and returned him to his owner. The merchant was able to make his delivery of flammable oil to Drakon at his camp.",
+    "Section_Trivia": "*This quest is missable: finishing [[The End of Drakon]] removes the quest.\n*Finishing this quest adds jars of flammable oil to [[Drakon's Training Site]], making it easier to apply fire damage over time. This will work best if the player also completes [[Brewing Love]] to deprive him of his armor.",
+    "Section_References": "*''[[Assassin's Creed: Odyssey]]''\n\n{{ACODMemories}}\n[[Category:Memories of Kassandra]]\n[[Category:Memories relived using the Animus HR-8.5]]",
+    "Chapter_SequenceID": "16.",
+    "Chapter_Name": "Paint It Red",
+    "Chapter_Type": "Odyssey Chapter",
+    "Quest_SequenceID": "1.b",
+    "Structured_Dialogue": [
+        {
+            "id": "N1",
+            "global_id": "1",
+            "content": "Kassandra overheard the sad merchant.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D1",
+            "global_id": "2",
+            "content": "*'''Street Vendor:''' ''What I would do to see you again, Spyro... If only.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N2",
+            "global_id": "3",
+            "content": "She approached him.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D2",
+            "global_id": "4",
+            "content": "*'''Street Vendor:''' ''You come to steal from me too,'' [[Mercenary|misthios]]''?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D3",
+            "global_id": "5",
+            "content": "*'''Kassandra:''' ''Is that how you greet all your customers?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N3",
+            "global_id": "6",
+            "content": "The merchant sighs and changes his tone.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D4",
+            "global_id": "7",
+            "content": "*'''Street Vendor:''' ''I'm sorry. The [[Athens|soldiers]] have taken everything from me\u2014even my beloved Spyro.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D5",
+            "global_id": "8",
+            "content": "*'''Kassandra:''' ''Soldiers take what they want. Who is Spyro?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D6",
+            "global_id": "9",
+            "content": "*'''Street Vendor:''' ''Only the best horse I ever owned.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "U1",
+            "global_id": "10",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "TS1",
+            "global_id": "11",
+            "content": "<tabber>",
+            "segment_type": "TabberStart"
+        },
+        {
+            "id": "PC1",
+            "global_id": "12",
+            "content": "|-|Get another horse.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D7",
+            "global_id": "13",
+            "content": "*'''Kassandra:''' ''You could always get another horse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D8",
+            "global_id": "14",
+            "content": "*'''Street Vendor:''' ''These things cost [[drachma]]e, you know.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D9",
+            "global_id": "15",
+            "content": "*'''Kassandra:''' ''Drachmae you don't have, by the sound of it.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "PC2",
+            "global_id": "16",
+            "content": "|-|That's a sad story.=",
+            "segment_type": "PlayerChoice"
+        },
+        {
+            "id": "D10",
+            "global_id": "17",
+            "content": "*'''Kassandra:''' ''I feel the same about my [[Phobos (horse)|Phobos]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D11",
+            "global_id": "18",
+            "content": "*'''Street Vendor:''' ''We did everything together. He'd do'' anything ''for me\u2014even without the promise of a carrot.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D12",
+            "global_id": "19",
+            "content": "*'''Kassandra:''' ''He sounds like a true friend.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "TE1",
+            "global_id": "20",
+            "content": "</tabber>",
+            "segment_type": "TabberEnd"
+        },
+        {
+            "id": "U2",
+            "global_id": "21",
+            "content": "",
+            "segment_type": "Unidentified"
+        },
+        {
+            "id": "D13",
+            "global_id": "22",
+            "content": "*'''Street Vendor:''' ''I need him back to cart my shipments. Once Drakon finds out I can't get him his oil, I'm as good as dead.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D14",
+            "global_id": "23",
+            "content": "*'''Kassandra:''' ''Drakon? The Boeotian champion?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D15",
+            "global_id": "24",
+            "content": "*'''Street Vendor:''' ''He's my biggest customer.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D16",
+            "global_id": "25",
+            "content": "*'''Kassandra:''' ''I'm trying to hunt him down.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D17",
+            "global_id": "26",
+            "content": "*'''Street Vendor:''' ''Save me from Drakon's wrath. Find my Spyro\u2014please.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O1",
+            "global_id": "27",
+            "content": "(Accept \u2013 \"I'll bring Spyro back.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D18",
+            "global_id": "28",
+            "content": "*'''Kassandra:''' ''If you need him so badly, I'll find your Spyro.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D19",
+            "global_id": "29",
+            "content": "*'''Street Vendor:''' ''Be quick, please. I can only imagine what those [[Thief|thieves]] are doing to him.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D20",
+            "global_id": "30",
+            "content": "*'''Kassandra:''' ''Where did they take him?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D21",
+            "global_id": "31",
+            "content": "*'''Street Vendor:''' ''They must have him at the [[Potnies Military Camp|military camp]] east of [[Snake Head Rock]]. It's the only outpost nearby.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C1",
+            "global_id": "32",
+            "content": "(If players asked \"Why does Drakon need oil?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D22",
+            "global_id": "33",
+            "content": "*'''Kassandra:''' ''Why do you take oil to Drakon?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D23",
+            "global_id": "34",
+            "content": "*'''Street Vendor:''' ''He likes to have his back oiled. Makes his muscles look bigger, I suppose.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D24",
+            "global_id": "35",
+            "content": "*'''Kassandra:''' ''I didn't think he needed the help.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D25",
+            "global_id": "36",
+            "content": "*'''Street Vendor:''' ''No, although I don't know why he prefers my flammable oil over something less dangerous.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C2",
+            "global_id": "37",
+            "content": "(If players asked \"Where do you meet Drakon?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D26",
+            "global_id": "38",
+            "content": "*'''Kassandra:''' ''Where do you deliver the oil?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D27",
+            "global_id": "39",
+            "content": "*'''Street Vendor:''' ''I deliver his shipments to his [[Drakon's Training Site|training ground]] near the [[Site of Iphigenia's Sacrifice]].''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C3",
+            "global_id": "40",
+            "content": "(If players asked \"Where are the horse thieves, again?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D28",
+            "global_id": "41",
+            "content": "*'''Kassandra:''' ''Where can I find these thieves?''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D29",
+            "global_id": "42",
+            "content": "*'''Street Vendor:''' ''In a camp east of Snake Head Rock.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "C4",
+            "global_id": "43",
+            "content": "(If players asked \"What does Spyro look like?\")",
+            "segment_type": "Condition"
+        },
+        {
+            "id": "D30",
+            "global_id": "44",
+            "content": "*'''Kassandra:''' ''Can you tell me what Spyro looks like? I want to make sure I'm stealing the right horse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D31",
+            "global_id": "45",
+            "content": "*'''Street Vendor:''' ''Where to begin... He's magnificent\u2014a towering stallion as black as night, with a mane of brilliant, shimmering white hair.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "O2",
+            "global_id": "46",
+            "content": "(Leave \u2013 \"I have what I need.\")",
+            "segment_type": "OptionalChoice"
+        },
+        {
+            "id": "D32",
+            "global_id": "47",
+            "content": "*'''Kassandra:''' ''Looks like I have a horse to find.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N4",
+            "global_id": "48",
+            "content": "Kassandra departed for the military camp outside the city. She arrived and spotted the horse within with the help of [[Ikaros]].",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D33",
+            "global_id": "49",
+            "content": "*'''Kassandra:''' ''That must be Spyro. Looks like a sturdy horse.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N5",
+            "global_id": "50",
+            "content": "She took care of the soldiers before riding Spyro out of the camp.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D34",
+            "global_id": "51",
+            "content": "*'''Kassandra:''' ''You must be Spyro. Let's get you back home.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "N6",
+            "global_id": "52",
+            "content": "Kassandra returned to the merchant in Thebes.",
+            "segment_type": "Narrative"
+        },
+        {
+            "id": "D35",
+            "global_id": "53",
+            "content": "*'''Street Vendor:''' Spyro. ''Oh, I thought I'd never see you again.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D36",
+            "global_id": "54",
+            "content": "*'''Kassandra:''' ''He's all right. Not a hair touched on his mane.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D37",
+            "global_id": "55",
+            "content": "*'''Street Vendor:''' ''And Drakon will still get his shipment of oil, won't he Spyro? We'll take it up the mountain, and fill his halls with our wonderful, flammable oil.''",
+            "segment_type": "Dialogue"
+        },
+        {
+            "id": "D38",
+            "global_id": "56",
+            "content": "*'''Street Vendor:''' ''You've made Spyro a happy horse,'' misthios. ''And me a happy man.''",
+            "segment_type": "Dialogue"
+        }
+    ]
+}
